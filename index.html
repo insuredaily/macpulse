@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MacPulse | Smart Apple & Mac News Feed</title>
+  <meta name="description" content="A self-updating, high-performance Apple & Mac news aggregator featuring live updates from MacRumors, 9to5Mac, and AppleInsider.">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="app.css">
+
+  <!-- ========================================== -->
+  <!-- 1. POPUNDER AD CODE PLACEHOLDER            -->
+  <!-- Paste your Popunder script snippet here    -->
+  <!-- ========================================== -->
+  <!-- <script type='text/javascript' src='//example-popunder-provider.com/ad.js'></script> -->
+</head>
+<body>
+
+  <!-- Background decorative glows -->
+  <div class="glow-orb orb-1"></div>
+  <div class="glow-orb orb-2"></div>
+
+  <!-- Shared Header Section -->
+  <header class="main-header">
+    <div class="header-container">
+      <div class="brand">
+        <a href="index.html" style="text-decoration: none; display: flex; align-items: center; gap: 12px; color: inherit;">
+          <div class="logo-mark">
+            <!-- Sleek Apple Display / Silicon SVG -->
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <rect x="2" y="3" width="20" height="13" rx="2" stroke="url(#apple-grad)" stroke-width="2" stroke-linecap="round"/>
+              <path d="M12 16V21M9 21H15" stroke="url(#apple-grad)" stroke-width="2" stroke-linecap="round"/>
+              <circle cx="12" cy="9" r="2" fill="url(#apple-grad)"/>
+              <defs>
+                <linearGradient id="apple-grad" x1="2" y1="3" x2="22" y2="21" gradientUnits="userSpaceOnUse">
+                  <stop stop-color="#E2E8F0"/>
+                  <stop offset="1" stop-color="#94A3B8"/>
+                </linearGradient>
+              </defs>
+            </svg>
+          </div>
+          <div class="brand-text">
+            <h1>MacPulse</h1>
+            <span class="tagline">Apple Feed Reader</span>
+          </div>
+        </a>
+      </div>
+      
+      <!-- Multi-page navigation menu -->
+      <nav class="nav-menu" aria-label="Main Navigation">
+        <a href="index.html" class="nav-link active">Feed</a>
+        <a href="about.html" class="nav-link">About</a>
+        <a href="privacy.html" class="nav-link">Privacy</a>
+        <a href="terms.html" class="nav-link">Terms</a>
+      </nav>
+
+      <div class="header-actions">
+        <div id="status-indicator" class="status-indicator">
+          <span class="status-dot green"></span>
+          <span id="status-text">GitHub Pages CDN</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="main-content">
+
+    <!-- ========================================== -->
+    <!-- 2. TOP BANNER AD (728x90 Leaderboard)      -->
+    <!-- Paste your top banner script / HTML here   -->
+    <!-- ========================================== -->
+    <section class="ad-placement ad-top-banner glass">
+      <div class="ad-label">Advertisement</div>
+      <div class="ad-placeholder-content">
+        <p>Leaderboard Ad Spot (e.g. Google AdSense / Adsterra Banner)</p>
+      </div>
+    </section>
+
+    <!-- Controls Section (Search & Filter Tabs) -->
+    <section class="controls-section">
+      <!-- Search -->
+      <div class="search-wrapper">
+        <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input type="text" id="search-input" placeholder="Search Apple news, rumors, specs..." aria-label="Search articles">
+        <button id="search-clear-btn" class="search-clear-btn" aria-label="Clear search" style="display: none;">&times;</button>
+      </div>
+
+      <!-- Categories Navigation -->
+      <div class="filters-container">
+        <nav class="category-tabs" id="category-tabs" aria-label="Article categories">
+          <button class="tab-btn active" data-filter="all">All Stories</button>
+          <button class="tab-btn" data-filter="Mac">Mac</button>
+          <button class="tab-btn" data-filter="iOS">iOS & iPhone</button>
+          <button class="tab-btn" data-filter="Vision">Vision Pro</button>
+          <button class="tab-btn" data-filter="Silicon">Apple Silicon</button>
+          <button class="tab-btn" data-filter="Rumors">Rumors</button>
+          <button class="tab-btn" data-filter="App Store">App Store</button>
+          <button class="tab-btn" data-filter="bookmarks">Bookmarks</button>
+        </nav>
+      </div>
+    </section>
+
+    <!-- Feed Layout with Sidebar (Good for Ads) -->
+    <div class="feed-layout">
+      <!-- Articles Feed Section -->
+      <section class="feed-section">
+        <div class="feed-header">
+          <h2 id="feed-title">Latest Updates</h2>
+          <span id="article-count" class="badge">0 stories</span>
+        </div>
+
+        <!-- Grid for Articles -->
+        <div id="articles-grid" class="articles-grid">
+          <!-- Loading Skeletons dynamically replaced by app.js -->
+          <div class="skeleton-card"></div>
+          <div class="skeleton-card"></div>
+          <div class="skeleton-card"></div>
+          <div class="skeleton-card"></div>
+        </div>
+      </section>
+
+      <!-- Sidebar Section for Ad / Information -->
+      <aside class="sidebar-section">
+        <!-- ========================================== -->
+        <!-- 3. SIDEBAR BANNER AD (300x250 Box Ad)     -->
+        <!-- Paste your sidebar ad script / HTML here   -->
+        <!-- ========================================== -->
+        <div class="ad-placement ad-sidebar glass">
+          <div class="ad-label">Advertisement</div>
+          <div class="ad-placeholder-content" style="height: 250px;">
+            <p>300x250 Box Ad Spot</p>
+          </div>
+        </div>
+
+        <div class="sidebar-info-card glass">
+          <h3>About MacPulse</h3>
+          <p>MacPulse compiles stories from top Apple feeds: MacRumors, 9to5Mac, AppleInsider, Macworld, and Cult of Mac. Updated every hour via GitHub Actions.</p>
+          <hr class="divider">
+          <p class="small-text">Want to add custom sources? Just edit the <code>feeds.json</code> file in your repository.</p>
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <!-- Shared Footer Section -->
+  <footer class="app-footer">
+    <div class="footer-container">
+      <p>&copy; 2026 MacPulse. Automatically synchronized using GitHub Actions. All copyrights and trademarks belong to their respective publishers.</p>
+      <div class="footer-links">
+        <a href="about.html">About</a> | 
+        <a href="privacy.html">Privacy Policy</a> | 
+        <a href="terms.html">Terms of Service</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Notification Toast Container -->
+  <div id="toast-container" class="toast-container"></div>
+
+  <!-- App Client Code -->
+  <script src="app.js"></script>
+</body>
+</html>

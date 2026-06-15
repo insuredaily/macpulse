@@ -1,0 +1,27 @@
+[
+  {
+    "name": "MacRumors",
+    "url": "https://feeds.macrumors.com/MacRumors-All",
+    "category": "Rumors"
+  },
+  {
+    "name": "9to5Mac",
+    "url": "https://9to5mac.com/feed/",
+    "category": "News"
+  },
+  {
+    "name": "AppleInsider",
+    "url": "https://appleinsider.com/rss/news/",
+    "category": "Reviews"
+  },
+  {
+    "name": "Macworld",
+    "url": "https://www.macworld.com/feed",
+    "category": "Guides"
+  },
+  {
+    "name": "Cult of Mac",
+    "url": "https://www.cultofmac.com/feed/",
+    "category": "News"
+  }
+]

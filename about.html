@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About | MacPulse News Aggregator</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+
+  <div class="glow-orb orb-1"></div>
+  <div class="glow-orb orb-2"></div>
+
+  <!-- Shared Header -->
+  <header class="main-header">
+    <div class="header-container">
+      <div class="brand">
+        <a href="index.html" style="text-decoration: none; display: flex; align-items: center; gap: 12px; color: inherit;">
+          <div class="logo-mark">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <rect x="2" y="3" width="20" height="13" rx="2" stroke="url(#apple-grad)" stroke-width="2" stroke-linecap="round"/>
+              <path d="M12 16V21M9 21H15" stroke="url(#apple-grad)" stroke-width="2" stroke-linecap="round"/>
+              <circle cx="12" cy="9" r="2" fill="url(#apple-grad)"/>
+              <defs>
+                <linearGradient id="apple-grad" x1="2" y1="3" x2="22" y2="21" gradientUnits="userSpaceOnUse">
+                  <stop stop-color="#E2E8F0"/>
+                  <stop offset="1" stop-color="#94A3B8"/>
+                </linearGradient>
+              </defs>
+            </svg>
+          </div>
+          <div class="brand-text">
+            <h1>MacPulse</h1>
+            <span class="tagline">Apple Feed Reader</span>
+          </div>
+        </a>
+      </div>
+      
+      <nav class="nav-menu" aria-label="Main Navigation">
+        <a href="index.html" class="nav-link">Feed</a>
+        <a href="about.html" class="nav-link active">About</a>
+        <a href="privacy.html" class="nav-link">Privacy</a>
+        <a href="terms.html" class="nav-link">Terms</a>
+      </nav>
+
+      <div class="header-actions">
+        <div id="status-indicator" class="status-indicator">
+          <span class="status-dot green"></span>
+          <span id="status-text">GitHub Pages CDN</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Page Content -->
+  <main class="main-content">
+    <div class="static-page-wrapper glass">
+      <h2>About MacPulse</h2>
+      <p class="lead-text">MacPulse is an automated static news aggregator designed to keep you updated with the latest in macOS, iOS, Apple Silicon, Vision Pro, and general Apple ecosystem leaks and rumors.</p>
+      
+      <div class="info-section">
+        <h3>How it Works</h3>
+        <p>Every hour, a background workflow executes on GitHub Actions. It scans popular Apple feeds configured in <code>feeds.json</code> (including MacRumors, 9to5Mac, AppleInsider, and Macworld), parses the freshest stories, runs regex-based auto-tagging, merges them into a single static <code>articles.json</code>, and publishes the database. This enables rapid load times via the GitHub Pages CDN.</p>
+      </div>
+
+      <div class="info-section">
+        <h3>Features</h3>
+        <ul>
+          <li><strong>Optimized Apple Feeds</strong>: Dedicated feeds targeting core topics like Apple Silicon, iOS, macOS, and AR/VR.</li>
+          <li><strong>Instant Client-Side Filtering</strong>: Instantaneous search and tab filtering built in JavaScript.</li>
+          <li><strong>Private Bookmarks</strong>: Add stories to your bookmarks dashboard. Bookmarks are saved entirely in your local browser Cache (LocalStorage).</li>
+        </ul>
+      </div>
+
+      <!-- ========================================== -->
+      <!-- ABOUT PAGE BANNER AD                       -->
+      <!-- Paste your banner ad script / HTML here    -->
+      <!-- ========================================== -->
+      <section class="ad-placement ad-content-banner">
+        <div class="ad-label">Advertisement</div>
+        <div class="ad-placeholder-content">
+          <p>Banner Ad Spot (e.g. 468x60 or 728x90)</p>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <!-- Shared Footer -->
+  <footer class="app-footer">
+    <div class="footer-container">
+      <p>&copy; 2026 MacPulse. Automatically synchronized using GitHub Actions. All copyrights and trademarks belong to their respective publishers.</p>
+      <div class="footer-links">
+        <a href="about.html">About</a> | 
+        <a href="privacy.html">Privacy Policy</a> | 
+        <a href="terms.html">Terms of Service</a>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>

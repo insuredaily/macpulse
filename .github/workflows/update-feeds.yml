@@ -1,0 +1,43 @@
+name: Auto Update News Feeds
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch: # Allows manual trigger from the GitHub Actions UI
+
+permissions:
+  contents: write # Grants write access to commit changes back to the repository
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: |
+          npm install rss-parser
+
+      - name: Run feed updater
+        run: |
+          node scripts/update-feeds.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Only commit if articles.json changed
+          if git diff --quiet articles.json; then
+            echo "No new articles found. Skipping commit."
+          else
+            git add articles.json
+            git commit -m "Auto-update feeds [skip ci]"
+            git push
+          fi

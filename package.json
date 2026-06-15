@@ -1,0 +1,12 @@
+{
+  "name": "pulse-news-aggregator",
+  "version": "1.0.0",
+  "description": "A self-updating, high-performance static news aggregator for GitHub Pages",
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-feeds.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
