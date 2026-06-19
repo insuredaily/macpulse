@@ -1,6 +1,46 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Bear app developers announce Lettera, a beautiful Markdown editor for Mac",
+    "link": "https://9to5mac.com/2026/06/19/bear-app-developers-announce-lettera-a-beautiful-markdown-editor-for-mac/",
+    "content": "Available now in beta, Lettera is a standalone Markdown editor app built around the same editor that powers Bear 2. Here are the details.",
+    "pub_date": "2026-06-19T23:04:54.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac,App Store",
+    "id": 878
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "App Store Personalized Collections could be logging your every tap — with no way to stop it",
+    "link": "https://www.cultofmac.com/news/iphone-app-store-personalized-collections-tracking-taps",
+    "content": "Every tap, every search: Apple’s new App Store Personalized Collections feature could be recording all of it.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-06-19T22:09:52.000Z",
+    "creator": "Anurag Chawake",
+    "tags": "Mac,App Store",
+    "id": 887
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iPhone parts factory in India faces new health probe over alleged water contamination",
+    "link": "https://9to5mac.com/2026/06/19/iphone-parts-factory-in-india-faces-new-health-probe-over-alleged-water-contamination/",
+    "content": "Despite iPhone parts manufacturer Tata saying recent water samples collected inside its factory in Hosur, India, showed no signs of contamination, Reuters reports that local health officials are still investigating complaints from nearby farmers. Here are the details.",
+    "pub_date": "2026-06-19T19:51:38.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 879
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "HomeKit Weekly: The Qingping Air Monitor Lite brings a retro vibe to Apple Home climate tracking",
+    "link": "https://9to5mac.com/2026/06/19/qingping-air-monitor-lite-2/",
+    "content": "One constant on my desk for a few years now has been the Qingping Air Monitor Lite. When a device can look awesome, but also provide some really cool data for your Apple Home environment, it’s going to be a must-have.",
+    "pub_date": "2026-06-19T18:54:00.000Z",
+    "creator": "Bradley C",
+    "tags": "General",
+    "id": 880
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Apple’s M6 chip launches this fall, with these new products rumored",
     "link": "https://9to5mac.com/2026/06/19/apples-m6-chip-launches-this-fall-with-these-new-products-rumored/",
     "content": "Apple’s next-generation M6 chip is rumored to launch this fall, here’s which new products are expected to get M6 first.",
@@ -2958,45 +2998,5 @@
     "creator": "Chance Miller",
     "tags": "iOS",
     "id": 385
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "macOS 26.6 beta 2 rolling out now, plus iPadOS 26.6, watchOS 26.6, tvOS 26.6, more",
-    "link": "https://9to5mac.com/2026/06/15/macos-26-6-beta-2-rolling-out-now-plus-ipados-26-6-watchos-26-6-tvos-26-6-more/",
-    "content": "After last week’s release of the first developer betas for the operating systems announced during the WWDC keynote, Apple is now releasing a new round of betas for its current software lineup. Here are the details.",
-    "pub_date": "2026-06-15T17:08:46.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Mac,iOS,App Store",
-    "id": 386
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple releases iOS 26.6 beta 2 for iPhone, here’s what to expect",
-    "link": "https://9to5mac.com/2026/06/15/apple-releases-ios-26-6-beta-2-for-iphone-heres-what-to-expect/",
-    "content": "While iOS 27 is the new focus for pre-release software, Apple is still preparing iOS 26.6 as the next iPhone update. Apple has released the second iOS 26.6 developer beta. The update follows the first developer beta release and public beta release in May.",
-    "pub_date": "2026-06-15T17:06:01.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS,App Store",
-    "id": 387
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Releases Second watchOS 26.6, tvOS 26.6 and visionOS 26.6 Betas",
-    "link": "https://www.macrumors.com/2026/06/15/apple-seeds-watchos-26-6-beta-2/",
-    "content": "Apple today provided developers with the second betas of upcoming watchOS 26.6, tvOS 26.6, and visionOS 26.6 betas for testing purposes. The software comes three weeks after Apple seeded the first betas.\r\n\r\n\r\nThe software updates are available through the Settings app on each device, and because these are developer betas, a free developer account is required.\r\n\r\nRelated Roundups: Apple TV, Apple Vision Pro, watchOS 26, watchOS 27\nBuyer's Guide: Apple TV (Don't Buy), Vision Pro (Neutral)\nRelated Forums: Apple TV and Home Theater, Apple Vision Pro, Apple Watch\nThis article, \"Apple Releases Second watchOS 26.6, tvOS 26.6 and visionOS 26.6 Betas\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-15T17:06:00.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,Vision,App Store",
-    "id": 366
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iOS 26.5.2 Coming Soon Alongside the iOS 26.6 and iOS 27 Betas",
-    "link": "https://www.macrumors.com/2026/06/15/apple-preparing-ios-26-5-2/",
-    "content": "Apple is internally testing iOS 26.5.2, according to the MacRumors visitor logs, which have accurately confirmed many future iOS versions over the years.\r\n\r\n\r\niOS 26.5.2 will almost certainly be a minor update that fixes software bugs and/or security vulnerabilities. We do not know exactly when the update will be released, but our best guess is that it will arrive this week or next week.\r\n\r\niOS 26.5.1 was released earlier this month with a fix for a charging issue that impacted some iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, and iPhone Air units. That update was not released for any other iPhones, so it is reasonable that Apple is apparently planning a follow-up iOS 26.5.2 update that supports the full range of compatible models.\r\n\r\niOS 26.6 beta and iOS 27 beta. The first iOS 26.6 beta did not introduce any major new features, as Apple is focused on the much bigger iOS 27 update with a more intelligent and personal version of Siri, design tweaks, and performance improvements.\nRelated Roundups: iOS 26, iPadOS 26, iOS 27, iPadOS 27\nRelated Forum: iOS 26\nThis article, \"iOS 26.5.2 Coming Soon Alongside the iOS 26.6 and iOS 27 Betas\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-15T17:03:21.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "iOS",
-    "id": 367
   }
 ]
