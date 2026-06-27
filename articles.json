@@ -1,5 +1,35 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Indie App Spotlight: ‘Mirage’ brings your Mac display to your iPhone, iPad, Vision Pro, and other Macs",
+    "link": "https://9to5mac.com/2026/06/27/indie-app-spotlight-mirage-brings-your-mac-display-to-your-iphone-ipad-vision-pro-and-other-macs/",
+    "content": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nMirage is a brand new app that brings best-in-class desktop wireless screen sharing to your entire Apple ecosystem. You can stream from your Mac to your iPhone, iPad, Vision Pro, or even another Mac. It’s very low latency and has a plethora of great features that make it the one stop shop for remotely using your Mac.",
+    "pub_date": "2026-06-27T19:30:46.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "Mac,iOS,Vision,App Store",
+    "id": 1441
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iPadOS 27: Apple is leaving these five iPad models behind, but owners deserve better",
+    "link": "https://9to5mac.com/2026/06/27/these-five-ipad-models-wont-run-ipados-27-but-deserve-better/",
+    "content": "We’re about 3 weeks out from when Apple unveiled iOS 27 to the world at WWDC26, and it’s still safe to say: this is an incredible update. It’s incredibly performant, and besides some small quirks and a little battery drain, it feels much more usable than iOS 26.5.\nWhile iOS 27 does support every device that ran iOS 26, the same isn’t true for iPadOS. A number of older iPadOS 26 devices will not be receiving the iPadOS 27 update, which I think is quite a shame – and Apple should mitigate this one way or another.",
+    "pub_date": "2026-06-27T16:21:52.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS",
+    "id": 1442
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "PSA: Lifetime Plex Plan goes from $249.99 to a painful $749.99 on July 1",
+    "link": "https://appleinsider.com/articles/26/06/27/psa-lifetime-plex-plan-goes-from-24999-to-a-painful-74999-on-july-1?utm_source=rss",
+    "content": "If you have ever wanted to buy Plex's lifetime pass to keep streaming your movie collection to your iPhone, get it now before the price rockets up to a ludicrous $749.99 on July 1.\n\n\nPlex logo\nPrice rises are a regular occurrence for most online services, and that even includes self-hosted streaming platforms. However, for a particular segment of Plex users, one extremely expensive jump in price is on the horizon.\nBack in May, Plex warned that it will be raising the price of its Lifetime Plex Pass, which gives users all of the benefits of the normal annual or monthly Plex Pass, but without a subscription. That price rise is set to take place on July 1 at 12:01 a.m. UTC.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-06-27T16:05:41.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS,Services",
+    "id": 1448
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Apple Prime Day deals are still live, save up to $650 on Mac, iPad, AirPods",
     "link": "https://appleinsider.com/articles/26/06/27/apple-prime-day-deals-are-still-live-save-up-to-650-on-mac-ipad-airpods?utm_source=rss",
@@ -2968,35 +2998,5 @@
     "creator": "Macworld",
     "tags": "Mac,iOS,Silicon,App Store,Services",
     "id": 1088
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Why Apple’s foldable iPhone could plummet in value",
-    "link": "https://www.cultofmac.com/news/apple-foldable-iphone-could-plummet-in-value",
-    "content": "A new analysis says an Apple foldable iPhone could plummet in value -- unless Cupertino's quality-and-integration magic works yet again.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-06-23T16:01:43.000Z",
-    "creator": "David Snow",
-    "tags": "Mac,iOS",
-    "id": 1098
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Faces New App Store Complaint From Chinese Developers",
-    "link": "https://www.macrumors.com/2026/06/23/apple-faces-new-app-store-antitrust-complaint/",
-    "content": "A group of 48 China-based iOS developers have filed an antitrust complaint against Apple with the country's market regulator over the App Store's commission rates, the South China Morning Post reports.\r\n\r\n\r\nThe developers sent an open letter to China's State Administration for Market Regulation (SAMR), alleging that Apple failed to deliver on a promise to offer the lowest commission rate to the Chinese market. The group asked the SAMR to investigate and penalize Apple for allegedly abusing its market dominance to impose \"unfair and excessively high\" costs on local developers.\r\n\r\ncut made in March. The commission on subscription renewals, along with the rate for qualified developers in Apple's Small Business and Mini Apps Partner programs, was lowered to 12% from 15% at the same time.\r\n\r\nThe complaint follows a series of similar challenges to Apple's China ‌App Store‌ policies dating back nearly a decade. A Beijing law firm filed a complaint in 2017 over app removals and high fees, a Chinese consumer sued over ‌App Store‌ fees in 2021 (a claim ultimately rejected by a Shanghai court in 2024), and another Chinese law firm sued again in 2025.\r\n\r\nlowered its Brazil commission last week to between 10% and 21% of a transaction, plus a 5% processing fee, while also letting Brazilian developers distribute iOS apps through other app marketplaces for a 5% fee. Apple made comparable adjustments in Japan late last year.\r\n\r\nThe developers want more than Brazil-style pricing. They argue that allowing third-party app stores in China, as Apple already does in the European Union under the Digital Markets Act, would push its effective commission down to as low as 5%.\r\n\r\nfined €500 million ($572.2 million) last year for violating the EU's Digital Markets Act and has appealed the decision, while in the U.S. it has been ordered to allow external payment links following its legal fight with Epic Games. Apple said earlier this month that its ‌App Store‌ ecosystem generated more than $1.4 trillion in developer billings and sales in 2025, with China contributing the largest share at $562 billion.\nTags: Apple Antitrust, App Store, China, South China Morning Post\nThis article, \"Apple Faces New App Store Complaint From Chinese Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-23T15:51:58.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "iOS,App Store,Services",
-    "id": 1048
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple's Reality Composer Pro 3 uses code from a dead game engine",
-    "link": "https://appleinsider.com/articles/26/06/23/apples-reality-composer-pro-3-uses-code-from-a-dead-game-engine?utm_source=rss",
-    "content": "A code leak in a beta for Reality Composer Pro 3 reveals Apple has used elements of a mysteriously cancelled game engine project known as \"The Machinery\" to make its 3D content tool.\n\n\nApple Reality Composer Pro 3\nDeveloping new products can always be made easier and faster by incorporating items from external sources. While Apple is like other companies in that it sometimes uses code from elsewhere, usually it's quite good at hiding the sources.\nA recent beta code delve discovered that there were traces of a long-cancelled game development engine used to produce features in Apple's Reality Composer Pro 3. Elements of \"The Machinery\" have been uncovered in the RCP3 codebase.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-23T15:50:02.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "Rumors",
-    "id": 1079
   }
 ]
