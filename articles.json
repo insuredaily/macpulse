@@ -1,5 +1,175 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Stop paying monthly for cloud storage with up to 70% off pCloud Lifetime this 4th of July",
+    "link": "https://9to5mac.com/2026/06/29/stop-paying-monthly-cloud-storage-up-to-70-off-pcloud-lifetime-4th-of-july/",
+    "content": "For Apple users, storage never feels finished. iPhone photo libraries keep growing, Macs fill up with large projects and downloads, and the monthly services meant to solve the problem can become another subscription to track.\npCloud’s 4th of July promotion takes a different approach: pay once for lifetime cloud storage, then keep using it across your devices without monthly or annual renewal fees.\nFor a limited time, pCloud is offering up to 70% off its Individual Lifetime plans, and each plan includes pCloud Encryption for free for life. Storage options range from 1 TB to 10 TB.",
+    "pub_date": "2026-06-29T23:30:00.000Z",
+    "creator": "Sponsored Post",
+    "tags": "iOS,Services",
+    "id": 1558
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple accelerates security updates in response to AI-powered hacking risks",
+    "link": "https://9to5mac.com/2026/06/29/apple-accelerates-security-updates-in-response-to-ai-powered-hacking-risks/",
+    "content": "Today’s iOS, iPadOS, and macOS 26.5.2 updates include security fixes that Apple had originally planned to release with version 26.6 of each operating system. Here’s why the company pushed them out early.",
+    "pub_date": "2026-06-29T23:29:19.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac,iOS",
+    "id": 1559
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple's $502M payment to Optis over patent infringement goes to UK Supreme Court",
+    "link": "https://appleinsider.com/articles/26/06/29/apples-502m-payment-to-optis-over-patent-infringement-goes-to-uk-supreme-court?utm_source=rss",
+    "content": "Apple is contesting a ruling that would force it to pay Optis $502 million for LTE patent infringement, but the UK Supreme Court has yet to reach a verdict.\n\n\nApple seeks to avoid paying Optis $502 million over alleged patent infringement.\nThe legal battle between Apple and Optis goes back to February 2019, and there's still no end in sight all these years later. Apple was accused of infringing upon Optis' LTE patents, which ultimately led to lawsuits in both the United Kingdom and the United States.\nThe latter case resulted in Apple's victory, as it avoided paying Optis $300M in damages in February 2026. The outcome of the UK lawsuit, however, isn't quite as clear-cut.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-06-29T23:07:35.000Z",
+    "creator": "Marko Zivkovic <marko@appleinsider.com>",
+    "tags": "Services",
+    "id": 1567
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "WhatsApp Now Lets You Reserve a Username",
+    "link": "https://www.macrumors.com/2026/06/29/whatsapp-username-reservations/",
+    "content": "Popular messaging app WhatsApp is now allowing users to reserve usernames ahead of plans to launch username-based messaging. Right now, WhatsApp uses a person's phone number as an identifier, but usernames will allow people to interact without having to exchange personal information.\r\n\r\n\r\nUsername reservations are rolling out starting this week, and not all users will have access to the reservation system right away. WhatsApp is sending a notification when a username can be reserved. Usernames are optional, and once access has been granted, a username can be selected by going to Settings > Account > Username. Usernames can be 3 to 35 characters in length.\r\n\r\nThere are over three billion people on WhatsApp, and the company says it is opening up reservations early so \"everyone has the opportunity to select the username that matters to them.\" WhatsApp suggests users choose a unique name only contacts would know.\r\n\r\nCreators, small businesses, and organizations have the option to claim their existing Instagram or Facebook username on WhatsApp. Users who have a username on Instagram or Facebook can claim the same username on WhatsApp by choosing the Use Instagram username or Use Facebook username option, as long as it isn't already taken.\r\n\r\nWhatsApp has no directory of usernames to browse, and no username discovery suggestions. People will need to know a WhatsApp user's exact username to send a message, plus there is an optional username key that adds extra spam protection.\r\n\r\nTag: WhatsApp\nThis article, \"WhatsApp Now Lets You Reserve a Username\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-06-29T23:01:05.000Z",
+    "creator": "Juli Clover",
+    "tags": "App Store",
+    "id": 1554
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Open Source AI Agent OpenClaw Gets Native iOS App",
+    "link": "https://www.macrumors.com/2026/06/29/openclaw-ios-app/",
+    "content": "Popular open source AI agent OpenClaw is expanding to the iPhone and iPad with a new native iOS app. OpenClaw for iOS can be used alongside an existing gateway as a secure node for chat, voice approvals, sharing, and device-aware automation.\r\n\r\n\r\nThe iOS app replaces iPhone and ‌iPad‌ workarounds that involved using Telegram or WhatsApp for on-the-go access.\r\n\r\nOpenClaw is a self-hosted AI agent that runs on a Mac or PC. Users can connect an API key from Claude, OpenAI, Gemini, or other AI services, linking the model to content on the gateway machine. OpenClaw lets an AI model access messaging apps, files, web browsers, and more, so it can complete tasks.\r\n\r\nApp Store description says the iOS app can be used in multiple ways.\r\n\r\n\r\nPair with your private OpenClaw Gateway by QR code or setup code\n\r\n \t\nChat with your assistant from iPhone\n\r\n \t\nUse realtime and background Talk mode\n\r\n \t\nReview Gateway action approvals from your iPhone\n\r\n \t\nShare text, links, and media directly from iOS into OpenClaw\n\r\n \t\nEnable device capabilities such as camera, screen, location, photos, contacts, calendar, and reminders when you choose\n\r\n \t\nReceive push wakes and node status updates for connected workflows\n\r\n\r\n\r\nOpenClaw is a useful tool, but it has risks. It is susceptible to prompt injection and requires broad system permissions on gateway devices.\r\n\r\nOpenClaw started out as Clawdbot, because the initial version created by Peter Steinberger used Claude. Anthropic complained about the name, prompting a rename.\r\n\r\nDirect Link]\nThis article, \"Open Source AI Agent OpenClaw Gets Native iOS App\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-06-29T22:42:11.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS,App Store",
+    "id": 1555
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "SCOTUS says detailed cellphone location data is protected by the Fourth Amendment",
+    "link": "https://9to5mac.com/2026/06/29/scotus-says-detailed-cellphone-location-data-is-protected-by-the-fourth-amendment/",
+    "content": "In a 6-3 decision, the Supreme Court ruled that police conduct a Fourth Amendment search when they obtain a person’s detailed cellphone location history from a tech company, even when the data covers only a short period. Here’s what that means.",
+    "pub_date": "2026-06-29T22:29:28.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 1560
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple asks UK Supreme Court to overturn $502 million patent ruling in Optis dispute",
+    "link": "https://9to5mac.com/2026/06/29/apple-asks-uk-supreme-court-to-overturn-502-million-patent-ruling-in-optis-dispute/",
+    "content": "Apple’s long-running patent dispute with Optis is set to enter a new chapter this week, as the case reaches the UK Supreme Court. Here are the details.",
+    "pub_date": "2026-06-29T21:48:46.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 1561
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "User location data that Google & Apple have is protected by Fourth Amendment, says SCOTUS",
+    "link": "https://appleinsider.com/articles/26/06/29/user-location-data-that-google-apple-have-is-protected-by-fourth-amendment-says-scotus?utm_source=rss",
+    "content": "A new Supreme Court ruling will require police to have probable cause before using sweeping geofence warrants that rely on people's personal location data to find criminals.\n\n\nThe Supreme Court rules against the use of geofence warrants\nPolice subpoena Apple, Google, and other tech companies for precious user location data using so-called \"geofence warrants,\" which can serve as a dragnet to catch a single criminal while implicating many others. The Supreme Court says this method is no longer an option without probable cause.\nAccording to SCOTUSblog, breaking down the ruling, a geofence warrant meets the criteria of a \"search\" as defined by the Fourth Amendment. Simply put, this means that anyone included in a warrant must be there with a reason.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-06-29T21:41:47.000Z",
+    "creator": "Wes Hilliard and Mike Wuerthele <news@appleinsider.com>",
+    "tags": "General",
+    "id": 1568
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "New iPhone and Mac updates offer dozens of security fixes",
+    "link": "https://www.cultofmac.com/news/ios-26-5-2-ipados-macos-security-fixes",
+    "content": "Update your iPhone to iOS 26.5.2 today for a wide range of security fixes. There are equally important macOS and iPadOS updates out. \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-06-29T21:19:59.000Z",
+    "creator": "Ed Hardy",
+    "tags": "Mac,iOS",
+    "id": 1571
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Released iOS 26.5.2 Security Fixes Early to Thwart AI-Assisted Hacks",
+    "link": "https://www.macrumors.com/2026/06/29/apple-ios-26-5-2-early-release/",
+    "content": "Apple today released iOS 26.5.2, iPadOS 26.5.2, and macOS Tahoe 26.5.2 with a long list of security fixes that it initially introduced in the iOS 26.6, iPadOS 26.6, and ‌macOS Tahoe‌ 26.6 betas.\r\n\r\n\r\nApple told Reuters that it released the updates earlier than planned due to concerns about AI-assisted hacks.\r\nThe company told Reuters on Monday it was adapting to ​the reality that, given the ability of artificial intelligence ​to speed the development of malicious hacking tools, it needed to reduce the time between when updates were first ​made public and when they were put into customers' hands.\n\r\nVulnerability fixes are typically included in most Apple software updates, but its major point updates usually include more fixes. Apple intended to release the 25+ security fixes that it introduced today in iOS 26.6 and its sister updates, but didn't want to wait for iOS 26.6 to come out.\r\n\r\noutlining the changes, Apple did not say that any of the vulnerabilities that were fixed had been actively exploited, and the company further told Reuters that there was no evidence any of the now-patched vulnerabilities had been taken advantage of. Apple said the time between when the security fixes were announced and when they were deployed needed to be compressed, but did not say which vulnerabilities drove the urgency.\r\n\r\nProject Glasswing partners, and it has been using the Claude Mythos Preview to hunt down and patch vulnerabilities before hackers can use them to breach devices. It's not known if Mythos played a role in Apple's decision to release the fixes ahead of schedule.\nRelated Roundups: iOS 26, iPadOS 26\nRelated Forum: iOS 26\nThis article, \"Apple Released iOS 26.5.2 Security Fixes Early to Thwart AI-Assisted Hacks\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-06-29T21:14:23.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS",
+    "id": 1556
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Future OLED Macs and iPads could support a much wider color gamut, per report",
+    "link": "https://9to5mac.com/2026/06/29/future-oled-macs-and-ipads-could-support-a-much-wider-color-gamut-per-report/",
+    "content": "As Apple gears up to bring OLED to the Mac, a new TrendForce report looks at the wider color gamut reportedly planned for future MacBook Pro, iPad Pro, and iMac displays. Here are the details.",
+    "pub_date": "2026-06-29T20:56:35.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac,iOS",
+    "id": 1562
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "OpenClaw just launched an official app for iPhone, details here",
+    "link": "https://9to5mac.com/2026/06/29/openclaw-just-launched-an-official-app-for-iphone-details-here/",
+    "content": "Remember Clawdbot, the effort to put AI models to work as agents? Clawdbot eventually became OpenClaw and gained OpenAI’s support. Now there’s an official iPhone (and Android) app for OpenClaw for the first time.",
+    "pub_date": "2026-06-29T20:52:20.000Z",
+    "creator": "Zac Hall",
+    "tags": "iOS,App Store",
+    "id": 1563
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iOS 26.5.2 Patches More Than 25 Security Vulnerabilities",
+    "link": "https://www.macrumors.com/2026/06/29/ios-26-5-2-vulnerabilities/",
+    "content": "Apple's newly released iOS 26.5.2, iPadOS 26.5.2, and macOS 26.5.2 updates address more than 25 security vulnerabilities, which means you should install the updates as soon as possible.\r\n\r\n\r\nAccording to Apple's security support documents for the updates, the new software has vulnerability fixes that Apple previously made available in the iOS 26.6, iPadOS 26.6, and macOS Tahoe 26.6 betas.\r\n\r\nThere are multiple kernel fixes, and several WebKit vulnerabilities that could lead to crashes or data leaks have been addressed. None of the vulnerabilities are known to have been actively exploited, but now that Apple has published details about them, it is possible malicious entities could create exploits targeting users who have not yet updated.\r\n\r\niPad, and Mac users keep their devices up to date and install the new software patches shortly after they're released.\nRelated Roundups: iOS 26, iPadOS 26\nRelated Forum: iOS 26\nThis article, \"iOS 26.5.2 Patches More Than 25 Security Vulnerabilities\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-06-29T20:15:47.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS",
+    "id": 1557
+  },
+  {
+    "source_name": "Macworld",
+    "title": "iPhone 18 Pro ‘drop test’ images, parts list included in ransomware leak",
+    "link": "https://www.macworld.com/article/3180152/iphone-18-pro-drop-test-images-parts-list-included-in-ransomware-leak.html",
+    "content": "Macworld\n\n\nReuters reported last week that Tata Electronics in India had a “cybersecurity incident” that resulted in more than 200,000 Tata files being stolen and posted to the internet in a purported ransomware attack. We’re now learning that many of those files involved projects with Apple, and in a new report on Monday, Reuters details that the supplier lists, parts, and photos of the upcoming iPhone 18 Pro were included in those documents that can now be found on the dark web.\nTata Electronics is an electronics manufacturing company in India that is under contract with Apple to produce the iPhone. The contract is part of Apple’s effort to diversify its iPhone manufacturing, which is concentrated in China.\nIn Reuters’ review of the documents, they found at least six files that map the iPhone 18 Pro chips, battery, and cameras to their suppliers. The files also detail where Apple uses several suppliers for a part, and where only a few suppliers are used. Reuters states that making this information public affects Apple’s “bargaining leverage and its vulnerabilities.”\nThe leaked files also contain confidential watermarks and internally used code names for the iPhone 18 Pro. Reuters also found photos of “a conventional slab-shaped, grey handset with a three-rear-camera setup and the Apple logo” being used in drop tests performed at a Tata plant. In all, Reuters reports the documents detail “hundreds of parts” expected to be included in the upcoming iPhone 18 Pro models.\nApple and Tata did not respond to Reuters’ request for comment. Reuters also said that Apple is investigating the incident and “working with Tata on long-term measures,” and “is concerned about the documents being shared on the dark web as they relate to unreleased models.” \nThe iPhone 18 Pro is expected to be announced at an event sometime in September. That event is also expected to feature the new iPhone Ultra, Apple’s first folding phone, but that specific model will not be available at the same time as the iPhone 18 Pro. Learn more about the iPhone 18 Pro.",
+    "pub_date": "2026-06-29T20:10:17.000Z",
+    "creator": "Macworld",
+    "tags": "iOS,Rumors",
+    "id": 1570
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "MagSafe Monday: The ESR OmniLock mount proves MagSafe is not just for charging",
+    "link": "https://9to5mac.com/2026/06/29/esr-omnilock-for-magsafe-car-mount/",
+    "content": "MagSafe is typically known for charging only, but there are use cases for it as just a mounting technology/use case. If you don’t want to charge your iPhone in your car or you have a wired CarPlay setup, you might want to use it just for mounting. That’s what the ESR OmniLock for MagSafe Car Mount is designed to do. Let’s take a look.",
+    "pub_date": "2026-06-29T20:00:00.000Z",
+    "creator": "Bradley C",
+    "tags": "iOS",
+    "id": 1564
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple says India built its App Store antitrust case on ‘copy-pasted’ claims from rivals",
+    "link": "https://9to5mac.com/2026/06/29/apple-says-india-built-its-app-store-antitrust-case-on-copy-pasted-claims-from-rivals/",
+    "content": "Apple is reportedly seeking to have India’s antitrust findings against the App Store quashed, arguing that investigators simply “copy-pasted” claims from its rivals rather than conducting their own investigation. Here are the details.",
+    "pub_date": "2026-06-29T19:56:13.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "App Store",
+    "id": 1565
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "watchOS 27 has brand new default Home Screen for Apple Watch",
+    "link": "https://9to5mac.com/2026/06/29/watchos-27-has-brand-new-default-home-screen-for-apple-watch/",
+    "content": "Apple Watch users have two current Home Screen layout options, but in watchOS 27 they’re joined by a new default: the dynamic app grid. Here’s how it works.",
+    "pub_date": "2026-06-29T19:32:51.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS,App Store",
+    "id": 1566
+  },
+  {
     "source_name": "Macworld",
     "title": "Apple OS 26.5.2 is out now to fix dozens of security vulnerabilities",
     "link": "https://www.macworld.com/article/3180118/apple-os-26-5-2-is-out-now-to-fix-dozens-of-security-vulnerabilities.html",
@@ -473,7 +643,7 @@
     "source_name": "Macworld",
     "title": "Hackers have a new way to disable Mac security software",
     "link": "https://www.macworld.com/article/3179689/hackers-have-a-new-way-to-disable-mac-security-software.html",
-    "content": "Macworld\n\n\nResearchers at XM Cyber have discovered a method to attack a Mac without requiring a kernel exploit or bypassing macOS’s System Integrity Protection (SIP). XM Cyber has created a tool called XM Hunter as proof of the vulnerability, which will be demonstrated at the Black Hat conference in August.\nTo take advantage of the exploit, an attacker needs to find a way to access the Mac, either by directly accessing it, or through social engineering. The attack itself involves the installation of a legitimately signed app, and when macOS caches the app’s trust fingerprint, the attacker can go in and modify the app bundle with a malicious payload. According to the company, the attack “does not trigger standard exploit signatures or leave obvious event log artifacts.”\nXM Cyber reports that the exploit could be used even with enterprise endpoint security tools running on the target Mac, and Macs running CrowdStrike Falcon Sensor and Kandji MDM Agent were successfully hacked. CrowdStrike and Kandji have since updated their software to fix the vulberability. Apple has not publicly responded to XR Cyber’s findings.\nA CrowdStrike spokesperson sent the following statement to Macworld: “The technique exploits a macOS issue, and we have detections and preventions in place for the Falcon sensor.”\nHow to protect yourself\nThe easiest way to protect yourself from an attack like this is to avoid downloading software from download sites you are not familiar with. Do not install software for someone you don’t know or someone who is not authorized to provide support to you. Never open links in emails or texts you receive from unknown and unexpected sources. If you get a message that looks like it is from an entity that you do business with, check the sender’s email address and inspect the URL carefully. If you see a link or button, you can Control-click it, select Copy Link Address, and then paste it into a text editor to see the actual URL to check it there.\nApple has vetted software in the Mac App Store, and it is the safest way to get apps. If you prefer not to patronize the Mac App Store, then buy software directly from the developer and their website. If you insist on using cracked software, you will always risk malware exposure.\nMacworld has several guides to help, including a guide on whether or not you need antivirus software, a list of Mac viruses, malware, and trojans, and a comparison of Mac security software.\nApple has protections in place within macOS, and the company releases security patches through OS updates, so it’s important to install them when they are available. If Apple pulls back an update, the company will reissue it as soon as it is properly revised with corrections.",
+    "content": "Macworld\n\n\nResearchers at XM Cyber have discovered a method to attack a Mac without requiring a kernel exploit or bypassing macOS’s System Integrity Protection (SIP). XM Cyber has created a tool called XM Hunter as proof of the vulnerability, which will be demonstrated at the Black Hat conference in August.\nTo take advantage of the exploit, an attacker needs to find a way to access the Mac, either by directly accessing it, or through social engineering. The attack itself involves the installation of a legitimately signed app, and when macOS caches the app’s trust fingerprint, the attacker can go in and modify the app bundle with a malicious payload. According to the company, the attack “does not trigger standard exploit signatures or leave obvious event log artifacts.”\nXM Cyber reports that the exploit could be used even with enterprise endpoint security tools running on the target Mac, and because the issue stems from macOS, tools such as CrowdStrike Falcon Sensor and Kandji MDM Agent did not detect the exploit at the time. CrowdStrike and Kandji have since updated their software to provide further protection to macOS. Apple has not publicly responded to XR Cyber’s findings.\nA CrowdStrike spokesperson sent the following statement to Macworld: “The technique exploits a macOS issue, and we have detections and preventions in place for the Falcon sensor.”\nHow to protect yourself\nThe easiest way to protect yourself from an attack like this is to avoid downloading software from download sites you are not familiar with. Do not install software for someone you don’t know or someone who is not authorized to provide support to you. Never open links in emails or texts you receive from unknown and unexpected sources. If you get a message that looks like it is from an entity that you do business with, check the sender’s email address and inspect the URL carefully. If you see a link or button, you can Control-click it, select Copy Link Address, and then paste it into a text editor to see the actual URL to check it there.\nApple has vetted software in the Mac App Store, and it is the safest way to get apps. If you prefer not to patronize the Mac App Store, then buy software directly from the developer and their website. If you insist on using cracked software, you will always risk malware exposure.\nMacworld has several guides to help, including a guide on whether or not you need antivirus software, a list of Mac viruses, malware, and trojans, and a comparison of Mac security software.\nApple has protections in place within macOS, and the company releases security patches through OS updates, so it’s important to install them when they are available. If Apple pulls back an update, the company will reissue it as soon as it is properly revised with corrections.",
     "pub_date": "2026-06-29T14:38:38.000Z",
     "creator": "Macworld",
     "tags": "Mac,App Store",
@@ -2828,175 +2998,5 @@
     "creator": "Juli Clover",
     "tags": "App Store",
     "id": 1184
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Mosyle launches new service to help parents manage Mac and iPad screen time for K-12 devices at home",
-    "link": "https://9to5mac.com/2026/06/24/mosyle-launches-new-services-to-help-parents-manage-mac-and-ipad-screen-time-for-k-12-devices-at-home/",
-    "content": "Managing school-issued Macs and iPads has always been a balancing act between IT control and parent visibility when the devices go home. Today, Mosyle has announced Mosyle@Home, aimed at solving this problem. This new platform gives parents and guardians an official way to manage school devices after hours, and it supports school-issued iPads and Macs.",
-    "pub_date": "2026-06-24T22:00:00.000Z",
-    "creator": "Bradley C",
-    "tags": "Mac,iOS",
-    "id": 1243
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iOS 27 beta 2: Apple tells Siri AI to clearly refuse requests to summarize URLs",
-    "link": "https://9to5mac.com/2026/06/24/ios-27-beta-2-apple-tells-siri-ai-to-clearly-refuse-requests-to-summarize-urls/",
-    "content": "A new rule added to Siri AI’s system prompt in iOS 27 beta 2 changes how it should handle requests involving extracting or summarizing content behind a URL. Here are the details.",
-    "pub_date": "2026-06-24T21:17:21.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "iOS",
-    "id": 1186
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iOS 27 Home App: 10+ New HomeKit Features",
-    "link": "https://www.macrumors.com/guide/ios-27-home/",
-    "content": "Apple updated the Home app with some useful new features that rely on Apple Intelligence. The updates improve the way HomeKit Secure Video cameras work on Apple's HomeKit platform.\r\n\r\n\r\nApple Intelligence Summaries\n\r\nThe Home app generates written summaries for motion alerts and what's detected, using AI to determine what's been recorded. It can recognize people, animals, vehicles, packages, and general motion, giving a summary of what's happening even if you're not looking at the video footage.\r\n\r\nIt is intelligent enough to give detail, so you'll see alerts like \"a person walked through the room,\" \"two people were in the room,\" \"a dog sat on the floor,\" or \"a cat played in the room.\"\r\n\r\n‌HomeKit Secure Video‌ cameras have facial recognition, so they can also recognize people who are in your Photo Library, sending alerts and summaries with names.\r\n\r\nGrouped Footage\n\r\nAlong with analyzing footage, the Home app can now group footage from separate cameras capturing the same event. If a person walks by one camera and continues on to another, the Home app knows those two events are related. During video playback, you can see relevant footage from multiple cameras with a summary of something that happened across the entire home.\r\n\r\nHighlights\n\r\nIf there are noteworthy recordings available, they are shown in a separate section above the general recordings in the camera view.\r\n\r\nSearch\n\r\nThe Home app supports natural language search for camera footage, so if you're looking for something like when a package was delivered, you can search for it. It can recognize objects, colors, and more. Search works in the Home app and directly in Spotlight.\r\n\r\nNotification Summaries\n\r\nNotifications update in real-time and related alerts are combined instead of being shown as separate notifications. The net result is fewer Home app notifications. Summaries can be turned on in the Home app settings on a per-camera basis, plus there are options for multiple languages.\r\n\r\nVideo Previews\n\r\nLong pressing on an incoming video notification plays a preview clip of the footage and includes access to nearby accessories like lights that you might want to turn on quickly.\r\n\r\nReduce Notifications\n\r\nThere is an ‌Apple Intelligence‌ section in the Home app where you can turn on video summaries and cut down on notifications. The Reduce Notifications toggle combines related activities like someone arriving and unlocking the door.\r\n\r\n4K Recording\n\r\n‌HomeKit Secure Video‌ cameras are no longer limited to 1080p recording. If supported, cameras can stream and record at up to 4K.\r\n\r\nEnergy Monitoring\n\r\nAccessories able to track energy usage like smart plugs now display that information in the Home app in the Energy tab. There is no way to create automations based on the data as of now.\r\n\r\nRemote Apple TV Updates\n\r\nIt's now possible to update the Apple TV remotely using the Home app, similar to how HomePod updates are installed.\r\n\r\n\r\nReliability\n\r\nApple says capturing and storing ‌HomeKit Secure Video‌ footage is more reliable than it was before and it is less likely to miss activity.\r\n\r\nConnectivity for Thread home accessories has also been improved with Apple adopting Thread 1.4, and ‌HomeKit‌ accessories now pair faster. Apple also says smart home accessory updates are faster than before.\r\n\r\nWhen adding a new device to the Home app, there's a simplified interface that's useful for configuring Matter accessories in particular.\r\n\r\nCompatibility and Requirements\n\r\nThe ‌Apple Intelligence‌ features in the Home app require a device that supports ‌Apple Intelligence‌, which includes the iPhone 15 Pro and later. The Home features also need an Apple TV running tvOS 27 or a ‌HomePod‌ running the ‌HomePod‌ Software 27.\r\n\r\niCloud+ plan. The 50GB plan supports a single camera, the 200GB plan supports up to five cameras, and the 2TB and above plans support unlimited cameras.\r\n\r\nRelated Roundups: iOS 27, iPadOS 27\nTag: HomeKit\nThis article, \"iOS 27 Home App: 10+ New HomeKit Features\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-24T21:16:38.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,App Store,Services",
-    "id": 1222
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Silo returns next week with three major changes for season 3",
-    "link": "https://9to5mac.com/2026/06/24/silo-returns-next-week-with-three-major-changes-for-season-3/",
-    "content": "Silo season 3 premieres next week on Apple TV (watch here), with three major changes coming that have been highlighted in the season’s marketing. Spoilers ahead, but only those Apple has already revealed.",
-    "pub_date": "2026-06-24T20:30:08.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "General",
-    "id": 1187
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Best Prime Day OLED TV deals from LG, Samsung, Sony start at just $797",
-    "link": "https://appleinsider.com/articles/26/06/24/best-prime-day-oled-tv-deals-from-lg-samsung-sony-start-at-just-797?utm_source=rss",
-    "content": "Save up to $700 on OLED TVs from popular brands, including LG, Samsung, and Sony, with these Prime Day deals.\n\n\nSave up to $700 with Prime Day OLED TV deals - Image credit: LG\nWhether you're looking to run an OLED TV as an external display for your Mac or want to swap out your existing living room TV to stream programming, there are numerous Prime Day OLED TV deals in effect this week.\nShop Prime Day TV deals\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-24T20:16:07.000Z",
-    "creator": "Christine McKee <christine@appleinsider.com>",
-    "tags": "Mac",
-    "id": 1199
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Hands-on: Kuxiu’s D5 charging station boasts unique design, 25W charging, and a built-in display",
-    "link": "https://9to5mac.com/2026/06/24/hands-on-kuxius-d5-charging-station-boasts-unique-design-25w-charging-and-a-built-in-display/",
-    "content": "Kuxiu has been one of my favorite charging-related brands over the last few years. They continue to have some of the best bang-for-buck products on the market. They give you high-quality, well-built products at a much more reasonable price and include everything you need to get started, like an actual charging brick! Kuxiu’s new D5 5-in-1 charging station is no exception; they were able to give us 25W wireless charging, an active cooling system, real-time diagnostic display, and much more. I have been using the new D5 charger for a bit, and there is a lot to like about it. Here is what you need to know.",
-    "pub_date": "2026-06-24T20:00:00.000Z",
-    "creator": "Fernando Silva",
-    "tags": "General",
-    "id": 1188
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Here’s how the AirPods’ heart rate sensor fares against Apple Watch and other wearables",
-    "link": "https://9to5mac.com/2026/06/24/heres-how-the-airpods-heart-rate-sensor-fares-against-apple-watch-and-other-wearables/",
-    "content": "One of the flagship additions to the AirPods Pro 3 was a built-in heart-rate sensor, which allows users to track more than 50 workout types. But how accurate is it?",
-    "pub_date": "2026-06-24T19:58:29.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "iOS",
-    "id": 1189
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "MacBook Ultra is coming: Six new features launching this fall",
-    "link": "https://9to5mac.com/2026/06/24/macbook-ultra-is-coming-six-new-features-launching-this-fall/",
-    "content": "Apple has a new MacBook Ultra rumored to launch this fall as part of its expanding ‘Ultra’ lineup. Here are six new features expected with the MacBook Ultra.",
-    "pub_date": "2026-06-24T19:33:31.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "Mac",
-    "id": 1190
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iPhone 17 set to break a record no flagship has touched in 15 years",
-    "link": "https://9to5mac.com/2026/06/24/iphone-17-availability/",
-    "content": "When Apple released the iPhone 17 in September, the timer started for the new flagship model breaking a record set 15 years ago. The record will take more than a year to break, but based on current rumors, the iPhone 17 will be the first to steal the crown.",
-    "pub_date": "2026-06-24T19:28:19.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS",
-    "id": 1191
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Prime Day Brings Major Deals on Headphones and Speakers From Popular Brands",
-    "link": "https://www.macrumors.com/2026/06/24/prime-day-deals-headphones/",
-    "content": "We're in the second day of Prime Day 2026, and deals on everything from Apple products to TVs and monitors are in abundance. Below we're focusing on some of the best audio discounts you can find during Prime Day this year, from brands like Beats, Sony, Sonos, Soundcore, and more.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\nbest overall audio deal for Prime Day 2026 is on the AirPods Max 2. You can still get the Midnight color for the all-time low price of $399.00 today on Amazon, but we aren't sure how much longer this sale will last.\r\n\r\nAmazon Prime membership to take advantage of the discounts. Amazon Prime costs $14.99 per month or $139.00 per year, and it comes with a 30-day free trial for new subscribers.\r\n\r\n50% off Prime memberships for Young Adults. Prime for Young Adults is a discounted Prime membership for anyone age 18-24 that offers all of the Prime benefits at $69.00 per year, half of the price of regular Prime.\r\n\r\nBeats\n\r\n\r\n$179.95 in all four colors, down from $249.99. This deal on the Powerbeats Pro 2 is being matched at Best Buy, along with a few other Beats deals.\r\n\r\n\nUP TO 50% OFF\nBeats Deals on Amazon\n\n\r\n\nBeats Studio Buds+ - $89.95, down from $169.95\n\r\nBeats Pill - $99.95, down from $149.95\n\r\nBeats Solo 4 - $99.95, down from $199.95\n\r\nBeats Studio Pro - $149.95, down from $349.99\n\r\nPowerbeats Pro 2 - $179.95, down from $249.99\n\r\nBeats USB-A to USB-C Woven Cable - $5.00, down from $18.99\n\r\nBeats iPhone 17 Case - $18.99, down from $45.00\n\r\nBeats iPhone 17 Pro Rugged Case - $30.50, down from $79.00\n\r\nBeats iPhone 17 Pro Max Case - $28.50, down from $45.00\n\r\nSony\n\r\n\r\nLinkBuds Open-Ear Wireless Earbuds - $178.00, down from $229.99\n\r\nWH-1000XM5 Premium Noise Canceling Headphones - $198.00, down from $399.99\n\r\nPS-LX3BT Wireless Bluetooth Turntable - $248.00, down from $398.00\n\r\nWF-1000XM6 Wireless Noise Cancelling Earbuds - $265.99, down from $329.99\n\r\nWH-1000XM6 The Best Noise Canceling Wireless Headphones - $378.00, down from $459.99\n\r\nSonos\n\r\n\r\n$279.00, from $399.00. This is a new all-time low price on the over-ear headphones, beating the previous low by over $20.\r\n\r\nSonos Era 100 SL Speaker - $159.00, down from $189.00\n\r\nSonos Era 100 Speaker - $179.00, down from $219.00\n\r\nSonos Ace Headphones - $279.00, down from $399.00\n\r\nSonos Five Wireless HiFi Speaker - $449.00, down from $599.00\n\r\nSoundcore\n\r\n\r\nP30i Noise Cancelling Earbuds - $23.69, down from $39.99\n\r\nSoundcore Boom 2 Outdoor Speaker - $84.99, down from $129.99\n\r\nSoundcore Sleep A20 Earbuds - $107.99, down from $179.99\n\r\nSoundcore Space 2 Noise Cancelling Headphones - $109.99, down from $129.99\n\r\nSoundcore Sleep A30 Earbuds - $159.99, down from $229.99\n\r\nMore Deals\n\r\n\nJBL Tune 770NC Over-Ear Headphones - $89.95, down from $149.95\n\r\nJBL Flip 7 Speaker - $94.95, down from $149.95\n\r\nSteelSeries Arctis Nova 7P Gaming Headset - $159.99, down from $199.99\n\r\nSennheiser MOMENTUM 4 Wireless Noise Cancelling Headphones - $179.95, down from $270.50\n\r\nNothing Headphone (1) - $213.75, down from $299.00\n\r\nall of the best Apple deals for Prime Day. If you're on the hunt for more discounts, be sure to visit our Apple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nTag: Prime Day\nThis article, \"Prime Day Brings Major Deals on Headphones and Speakers From Popular Brands\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-24T18:54:30.000Z",
-    "creator": "Mitchel Broussard",
-    "tags": "iOS,Vision",
-    "id": 1185
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Apple bets its 2026 lineup on just two display makers",
-    "link": "https://www.cultofmac.com/news/apple-oled-iphone-18-fold-macbook-pro-display",
-    "content": "Samsung and LG are reportedly building every OLED panel for Apple’s 2026 lineup. \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-06-24T18:32:10.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac",
-    "id": 1207
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Flash deal: Get Paramount Plus for just $0.99/mo for two months",
-    "link": "https://appleinsider.com/articles/26/06/24/flash-deal-get-paramount-plus-for-just-099mo-for-two-months?utm_source=rss",
-    "content": "Sort out your summer viewing with this deal from Paramount Plus, netting you two months at just $0.99 per month. But only if you're quick.\n\n\nGet Paramount Plus for just $0.99 per month for 2 months - Image credit: Paramount\nThe summer is upon us, and while we should all be going outside and enjoying the sunshine, it's also a great opportunity to catch up on TV. Thanks to one deal from Paramount Plus, you can do that without spending much money at all.\nNew and eligible former subscribers can sign up for Paramount Plus for $0.99 per month for their first two months of service. That means being able to watch everything on the service from sports to original dramas.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-24T18:31:25.000Z",
-    "creator": "AppleInsider Staff <news@appleinsider.com>",
-    "tags": "General",
-    "id": 1200
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple Ring would dominate the fitness market, which is why it can't exist",
-    "link": "https://appleinsider.com/articles/26/06/24/apple-ring-would-dominate-the-fitness-market-which-is-why-it-cant-exist?utm_source=rss",
-    "content": "The Apple Watch is reigning king among fitness trackers, but there's a big enough gap in the market for Apple to release a ring-style tracker, even though it probably won't.\n\n\nA render of the rumored Apple Ring\nI hate the Apple Watch. I know, I know, heresy, but I do.\nAnd I don't even hate it for a singular reason. I hate it for a multitude of reasons, which is impressive, because I've bought three in my lifetime.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-24T18:17:59.000Z",
-    "creator": "Amber Neely <amber@appleinsider.com>",
-    "tags": "iOS,Rumors",
-    "id": 1201
-  },
-  {
-    "source_name": "Macworld",
-    "title": "My favorite books about Apple are deeply discounted for Prime Day",
-    "link": "https://www.macworld.com/article/3175248/my-favorite-books-about-apple-are-deeply-discounted-for-prime-day.html",
-    "content": "Macworld\n\n\nApple has a rich, long, and unique history, so plenty of books have been written about the company and the people behind it. And it just so happens we’re in the middle of summer here in the northern hemisphere, so there’s no better time to do some reading while you’re on vacation, lounging by the pool, relaxing at the beach, or even just curled up in bed.\nIt’s also Amazon Prime Day. While you can find deals on Apple gear, you can also get really good prices on books, too. If you’re interested in catching up on your reading, here are my favorite books about Apple that you can pick up at Amazon right now. (Note: all of these books are available on Kindle as well, but only the physical books are discounted.)\nSteve Jobs by Water Isaacson\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nSimon & Schuster/Albert Watson\n\n\n\n\nConsidered the definitive book about the legendary Apple co-founder, this book is based on several interviews between Apple’s founder and author Walter Isaacson. The book provides a revealing look at Jobs, who, at the time of the writing, was dealing with cancer. The book was published not long after Jobs’ death in 2011, a timing that emphasized Jobs’ impact on technology, business, pop culture, and the world. But there’s still immense value in reading it now.\nIsaacson has written several authorized biographies, and it’s not difficult to find critics online who think he’s basically a glorified PR writer. Maybe so, but Steve Jobs is a must-read for anyone who considers themselves a true Apple fan.\nOn Amazon, the hardcover of Steve Jobs is only $11.64 ; it has a regular price of $38, so you can save a lot of money. The paperback is $11.66 (MSRP $23), and the audiobook is $26.24 (MSRP $30).\n\nGet Steve Jobs by Water Isaacson on Amazon U.S.\nSmall Fry by Lisa Brennan-Jobs\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nGrove Press\n\n\n\n\nRight off the bat, I’ll admit, this book may not be for you if your primary interest is Apple history, technology, business, etc. This book is for anyone who is looking for a more rounded image of Steve Jobs. Originally published in 2018, I read this book after reading Steve Jobs a second time, and I felt like my perspective on Jobs had better balance.\nSmall Fry is by Jobs’ first daughter, Lisa Brennan-Jobs, and the relationship she had with her father. If you hold Steve Jobs in very high esteem, this book will knock that image down a bit. It’s very personal and poignant, and has a lot to say about parenthood and relationships.\nOn Amazon U.S., the hardcover of Small Fry is $22.54 (MSRP $26). You’ll save more with the paperback, which is $11.90 (MSRP $19). The audiobook is $18.66 (MSRP $21.32).\n\nGet Small Fry by Lisa Brennan-Jobs on Amazon U.S.\nRevolution in the Valley by Andy Hertzfeld\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nO’Reilly Media\n\n\n\n\nThe reason why I love Revolution in the Valley so much is that it’s a time capsule. Just looking at the cover, you’re instantly thrown back into the early 1980s and the start of  Apple and the PC revolution. It’s filled with wonderful images of people, products, and screenshots as you read about the birth of the Mac. It’s a ton of fun.\nAuthor Andy Hertzfeld was a key member of the original Macintosh team, so the book provides first-person insights that Mac aficionados will cherish. \nUnfortunately, the book is out of print, so printed copies are pricey. On Amazon, a new hardcover version is over $100, but you can get a used copy for $39. As for the paperback version, only used copies are available for about $27. No audiobook is available, but there is a Kindle version.\n\nGet Revolution in the Valley at Amazon U.S.\nOther books to check out\nHere are a few other books you might want to read. One I’ve read, while others are new releases that I haven’t had a chance to pick up, but plan to.\nSource Code by BIll Gates\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nVintage\n\n\n\n\nWhat the…? What is a book about Bill Gates doing on Macworld?! Well, besides being Steve Jobs’ and Apple’s biggest adversary, Gates is also one of the titans of technology. He’s a major part of Apple’s history, which, as a reader of this site, you’re already familiar with. But you might not be familiar with his upbringing and his life before Microsoft.\nSource Code reveals all of that, and after reading it, it provided me with a more vivid image of how different Gates and Steve Jobs were. It’s a quick read, and it’s fun to relive some of the hijinks of Gates and his friends who eventually became his business partners.\nOn Amazon U.S., the hardcover of Source Code is $10.13, which is much more than half off the MSRP of $30. The paperback is $12.80 (MSRP $20), and the audiobook is $17.72 (MSRP $20.25).\n\nGet Source Code by Bill Gates on Amazon U.S.\nApple: The First 50 Years by David Pogue\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nSimon & Schuster\n\n\n\n\nMany books have been written about Apple’s history, but Apple: The First 50 Years by David Pogue is touted as the definitive book. Pogue, who’s long written about technology (and was once a Macworld columnist, back in the print-only days). certainly has the qualifications to put together such a book. It contains 150 interviews with key Apple players, such as Steve Wozniak, John Scully, and Jony Ive.\nI haven’t gotten around to reading it, and Jan Gruber at our sister site in Germany, Macwelt, takes issue with the book, but if you’re looking for your own way to commemorate Apple’s 50th anniversary this year, Pogue’s book is a way to do it.\nOn Amazon U.S., the hardcover version is $26.50, which is almost half off the $50 MSRP. Since the book was released a couple of months ago, it’s not yet available in paperback. The audiobook is $22.96 (MSRP $26.24), and an audio CD version is available for $54.77 (MSRP $65).\n\nGet Apple: The First 50 Years by David Pogue on Amazon U.S.\nSteve Jobs in Exile by Geoffrey Cain\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nPortfolio\n\n\n\n\nYou know the story: Steve Jobs left Apple in 1985, started Next Computer, and then came back to Apple after it bought Next. While it’s not difficult to find coverage of Jobs’ time with Apple, you can’t find much about his time at Next.\nGeoffrey Cain’s new book finally fills that gap in the tale of Jobs. It’s an important story because Next was perhaps the most important time in Jobs’ evolution as a businessman. The reason why Jobs was able to turn Apple around in the 1990s was because of what he learned at Next. Learn more by watching this presentation about the book by Cain and former Next employees.\nOn Amazon U.S., the hardcover book is $24.25, which is $11 off the $35 MSRP. Since the book was released last May, it’s not available in paperback yet. The audiobook is $18.90 (MSRP $21.60).\n\nGet Steve Jobs in Exile by Geoffrey Cain on Amazon U.S.",
-    "pub_date": "2026-06-24T18:16:20.000Z",
-    "creator": "Macworld",
-    "tags": "Mac",
-    "id": 1206
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "OpenAI just updated how ChatGPT’s most-used model works again, details here",
-    "link": "https://9to5mac.com/2026/06/24/openai-just-updated-how-chatgpts-most-used-model-works-again-details-here/",
-    "content": "ChatGPT users may notice something different about the AI chatbot experience over the next few days. That’s because OpenAI is tweaking how its most-used model works.",
-    "pub_date": "2026-06-24T18:13:59.000Z",
-    "creator": "Zac Hall",
-    "tags": "General",
-    "id": 1192
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple Vision Pro’s longest immersive concert was harder to film than you’d think",
-    "link": "https://9to5mac.com/2026/06/24/apple-vision-pros-longest-immersive-concert-was-harder-to-film-than-youd-think/",
-    "content": "Back in March, Apple Vision Pro customers were gifted a new experience called Debut at the BBC Proms, a 35-minute Apple Immersive Video concert featuring Lukas Sternath performing Grieg at Royal Albert Hall.\nNow a wonderful behind-the-scenes interview with director Ian Russell shows what it took to film classical music for Vision Pro.",
-    "pub_date": "2026-06-24T18:03:21.000Z",
-    "creator": "Zac Hall",
-    "tags": "Vision",
-    "id": 1147
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Every New AirPods Feature in iOS 27",
-    "link": "https://www.macrumors.com/guide/ios-27-airpods/",
-    "content": "With every iOS update, Apple adds new features to the AirPods. In iOS 27, the AirPods work with Siri AI, and there's a long-requested custom EQ option.\r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\nCustom EQ\n\r\nApple resisted custom EQ for the AirPods for years, preferring to require users to stick with Apple's sound profiles. That's changing in ‌iOS 27‌, and there are finally adjustable equalizer settings.\r\n\r\n [AirPods Name] > Audio & Routing > Equalizer > Custom.\r\n\r\nThere are options for adjusting lows, mids, and highs.\r\n\r\nAirPods Pro 3, AirPods 4, and AirPods Max 2.\r\n\r\nRedesigned Settings Menu\n\r\nThere's a more compact settings interface available when the AirPods are connected to an iPhone. It's still located under Settings > AirPods, but all of the AirPods features are better organized and easier to get to.\r\n\r\nThe Transparency, Noise Cancellation, and Adaptive modes are still accessible at the top of the screen for quick switching, but Apple also added a volume slider for adjusting sound in the same interface.\r\n\r\nFind My, and Privacy.\r\n\r\nSiri AI\n\r\nThe smarter version of ‌Siri‌, ‌Siri‌ AI, works on the AirPods through a connected iPhone. When you're wearing AirPods, you can ask ‌Siri‌ AI questions and make requests.\r\n\r\nwhich are outlined in our Siri guide. Apple is rumored to be developing AirPods with cameras that will feed visual data to ‌Siri‌ AI, and the current integration is a precursor to that deeper feature set.\r\n\r\nPrecision Finding\n\r\nThe ‌AirPods Pro 3‌ charging case features Ultra Wideband (UWB), and it works with Precision Finding on the iPhone. With the update to ‌iOS 27‌ and watchOS 27, you can also use an Apple Watch for ‌AirPods Pro 3‌ Precision Finding.\r\n\r\nGymKit Syncing\n\r\nGymKit works with the iPhone in ‌iOS 27‌, and it can sync heart rate data collected from the ‌AirPods Pro 3‌ to gym equipment like treadmills and indoor bikes.\r\n\r\nAccessibility\n\r\nApple added Name Recognition in ‌iOS 27‌, so users who are deaf or hard of hearing can be alerted if someone says their name. It's a feature that works with the AirPods Hearing Health options, and it supports more than 50 languages globally.\r\n\r\nCompatibility\n\r\nSome of the new AirPods features require an H2 chip, and for ‌Siri‌ AI, you'll need an Apple Intelligence-compatible iPhone. The Precision Finding and GymKit features are limited to ‌AirPods Pro 3‌.\r\n\r\nLaunch Date\n\r\nThe new AirPods features require ‌iOS 27‌ and updated AirPods firmware. Developers have access now, and Apple plans to release a public beta in July. ‌iOS 27‌ will launch in September alongside new iPhone models. \nRelated Roundups: AirPods 4, AirPods Max 2, AirPods Pro 3, iOS 27, iPadOS 27\nBuyer's Guide: AirPods (Caution), AirPods Max (Buy Now), AirPods Pro (Neutral)\nRelated Forum: AirPods\nThis article, \"Every New AirPods Feature in iOS 27\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-24T17:58:08.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS",
-    "id": 1137
   }
 ]
