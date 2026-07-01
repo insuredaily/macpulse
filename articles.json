@@ -1,5 +1,65 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Would a sleeker Apple Watch design justify losing band compatibility? [Poll]",
+    "link": "https://9to5mac.com/2026/07/01/would-a-sleeker-apple-watch-design-justify-losing-band-compatibility-poll/",
+    "content": "The first report of a major new Apple Watch design dates back to 2023, so you probably shouldn’t hold your breath on the basis of the latest claim. The original Bloomberg report said that an Apple Watch X would arrive in 2024 or 2025, so …\nLeaker Instant Digital doesn’t appear to have any new information about an upcoming redesign, but rather refers back to that original report and says it is finally arriving this year. But they do echo the claim that it will break compatibility with existing bands …",
+    "pub_date": "2026-07-01T11:05:05.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "iOS",
+    "id": 1656
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Why is the birth rate plunging in the U.S.? Apparently, it’s the iPhone’s fault",
+    "link": "https://www.macworld.com/article/3177089/why-is-the-birth-rate-plunging-in-the-u-s-apparently-its-the-iphones-fault.html",
+    "content": "Macworld\n\n\nThe birth rate in the United States has hit historic lows. In fact, the country’s rate has been “below replacement fertility since 2007,” according to GovFacts. Now, scientists at the National Bureau of Economic Research believe they have found the reason for the decline: the iPhone.\nWhen the iPhone launched in 2007 and until 2011, AT&T was the only carrier for the phone. The researchers used this “to isolate an iPhone-specific channel” and compared birth rates in areas with a high AT&T customer base to areas where competitors such as Verizon were stronger.\nThe study’s results show a correlation between iPhone users and the decline in birth rates, particularly in the 15- to 19- and 20- to 24-year-old age groups. Birth rates fell in the 15- to 19-year-old age group to 8 percent, and to 6.6 percent in the 20- to 24-year-old age group. Those were 4.5 and 3.2 percent decreases, respectively, compared to the control groups.\n“The diffusion of the iPhone explains 33-52 percent of the decline in the general fertility rate among women aged 15-44,” according to the study.\nSome factors to consider from the study: AT&T’s customer base during the studied period was primarily urban, well-educated, and on average, white. Also, the researchers themselves note that the birth rate in the youngest age groups had already been declining before 2007, stabilized for a few years around that time, and then continued to fall.\nBased on these developments, one could also come to a different conclusion: The rise of the iPhone, or smartphones in general, is more of a symptom than a cause of increasing urbanization in the U.S. and worldwide.\n“We do not claim that the iPhone is the sole cause of the post-2007 decline,” the reports concludes. “But over the 2008–2011 window that our design identifies, our estimates imply that the introduction of the modern smartphone played a sizable role in the decline in U.S. births.”\nThis article originally appeared on our sister publication Macwelt and was translated and localized from German.",
+    "pub_date": "2026-07-01T10:45:00.000Z",
+    "creator": "Macworld",
+    "tags": "iOS",
+    "id": 1662
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Apple A20 Pro preview: 2nm, Neural Engine, CPU, and GPU gains, and more",
+    "link": "https://www.macworld.com/article/3177014/apple-a20-pro-preview-2nm-neural-engine-cpu-and-gpu-gains-and-more.html",
+    "content": "Macworld\n\n\nWhen the iPhone 18 Pro and iPhone Ultra launch this September, Apple will power them with the newest A-series chip. As in recent years, the next-generation processor will likely be split into two, with a full-performance “Pro” version and a non-Pro model made for lower-cost products. All of the products released this fall are expected to use the Pro version of the chip.\nWe won’t know for sure what it can do until we get to test it, but we can examine the history and performance of the A-series processors from the last several years, along with the recent rumors and overall industry trends, to anticipate what we might expect from Apple’s new iPhone silicon this fall. Of course, this is all just an educated guess—Apple is famously secretive, and the details about its products are often not fully revealed until they are released. Sometimes, details are kept under wraps even then.\nThe first 2nm iPhone chip\nThe A19 Pro was made with TSMC’s advanced 3-nanometer “N3E” process, building on years of refinement since the A17 Pro first brought 3nm to mass-market devices. TSMC is now ramping production of 2nm process technology, and the A20 Pro is expected to be Apple’s first 2nm product.\nThis new manufacturing process is expected to allow about 15 percent higher transistor density for chips like Apple’s, along with improvements to both performance and power usage, but just how much better performance or lower power you get out of it will depend on the characteristics of the design.\nThe bottom line is, this new process gives Apple more room for more cores, more cache, and higher-performance core designs while staying within the strict power and thermal budget required for a smartphone.\nAlso, just as the iPhone Air features a version of the A19 Pro that has one fewer GPU core enabled, the rumored iPhone Ultra and any iPhone Air successor could very well feature a somewhat handicapped version of the A20 chip as well.\nOf note: Apple is said to be using a new chip packaging process, called Wafer-Level Multi-Chip Module (WMCM) packaging. It’s a different method of connecting parts of a multiple silicon dies together in a high-speed fashion. For the A20, it’s likely to mean that Apple can place the RAM chips to the side instead of stacking it on top of the main processor, without sacrificing speed. That takes up a little more horizontal space on the mainboard, but it should provide for better cooling of the main A20 and RAM.\nCPU performance holds the crown\nApple’s CPU performance improvements have been remarkably steady over time. Both single-core and multi-core performance shows a drumbeat of regular increases that are almost linear year after year. It’s honestly kind of amazing, if you follow CPU design and architecture trends.\nBecause Apple’s yearly performance gains are so consistent, we feel pretty confident predicting the A20’s performance. There will likely be a 6-core CPU again, with two performance and four efficiency cores. With the debut of the M5, Apple re-branded its performance cores to “Super Cores,” a meaningless marketing move. Don’t be surprised if the A20 Pro features “Super Cores” as well.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nAn estimated single-core CPU score of around 4,200 would place the A20 Pro in the same league as the M5 (for a single high-performance core), and way above the best Intel and AMD desktop processors or any processor found in any Android phone. When it comes to phone-capable chips, Apple is so far out ahead in single-core performance that it’s hardly worth mentioning.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nMulti-core performance is a different story. Apple’s CPU is no slouch, and will probably break 10,000 in the A20 Pro. But some Android products reach this level, and of course most processors aimed at laptops and desktops do. These all feature far more than Apple’s six cores, so naturally, multi-core performance benefits.\nThe takeaway is this: For the last several years, there has been no processor in any smartphone that delivers overall CPU performance equal to Apple’s, and the A20 Pro will surely retain that performance crown.\nGPU performance for AI and more\nGPU performance is tricky. The GPU is used for graphics rendering of course, which has its own performance criteria, but it’s also used for parallel computing tasks like running machine learning algorithms. GPU performance is usually highly dependent on memory bandwidth, which is shared with the rest of the chip.\nThe GPU performance gain for Apple’s A-series chips has been a little irregular. Sometimes, the GPU architecture doesn’t change much; it just runs at a higher clock speed, perhaps with a bit more cache or memory bandwidth. Other times, Apple makes serious changes to the architecture to increase efficiency and add features.\nWe don’t know what to expect this year, but we can assume Apple sees the GPU as a big priority, given how important its performance is to AI.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nThe compute performance of Apple’s GPU design took a big leap last year thanks to a new architecture aimed at improving that aspect in particular. It probably won’t shoot up as far again this year, but a boost of more than 10 percent seems reasonable.\nWhen it comes to performance in high-end 3D graphics rendering, as in AAA premium games, again we saw a big improvement with the new GPU architecture last year in the A19 Pro but most other years the gains are less dramatic.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nOver 50 frames per second in the 3DMark Solar Bay Unlimited benchmark would be a good result. That’s over double the real-world graphics performance in just three years.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nOn the less intensive Wild Life Unlimited benchmark, Apple passed the 100 frames per second threshold two years ago, so it’s not crazy to think we could see a result over 150 this time. That would represent about a 65 percent improvement over three years.\nGPU performance is one of those areas where Apple doesn’t completely dominate in its chip design, and it will be interesting to see if the company invests more heavily in it over the next few years, allocating more of the chip’s area to the GPU to cram in more cores, bigger caches, or other performance-improving features. The GPU is very important for local AI tasks, and that seems to be a major focus for Apple. Good news for gamers—you benefit, too.\nNeural Engine is more important than ever\nApple has had a dedicated NPU (Neural Processing Unit), which it calls the Neural Engine, since the A11 was introduced with the iPhone X. The first Neural Engine could do 600 billion operations per second, while Apple’s latest chips do over 35 trillion. The Neural Engine is sort of like a GPU, but tailored specifically to run the sort of specialized matrix operations that most AI and machine learning models require.\nIt’s not just about Siri or Apple Intelligence, either. The Neural Engine is used in dozens of areas throughout your iPhone, from taking photos to recording audio without background noise to copying text out of an image.\nWith the heavy push to big fancy AI models, NPUs are more important than ever, and the their performance doesn’t necessarily scale with the “trillions of operations per second” statistic. Memory bandwidth, cache, and support for special compact data formats all play a big role in NPU performance.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nGeekbench has a special separate AI benchmark that runs common machine learning and AI tasks on the CPU, GPU, or NPU. When we look at the results when running on the NPU, we see a some big improvements, including a near-doubling in the last three years. \nThere’s no question that Apple has big NPU plans. Recent claims have said that the NPU takes up a lot more of the chip area on the A20—if that’s true and Apple can keep up with the memory bandwidth for it, our chart above could be very wrong in a very good way, and we could be in for another big jump in NPU performance as we saw between the A17 and A18.\nRAM, N2, and more\nBeyond the CPU, GPU, and Neural Engine, the A20 Pro package will be paired with other critical components. \nFirst, there’s RAM. This is a tricky one. It’s probably too soon to expect LPDDR6 memory and the big boost in bandwidth and efficiency it will bring, but Apple will probably use high-speed LPDDR5x memory and maybe a wider memory bus. So many critical features are dependent on high memory bandwidth.\nAI also depends on having lots of RAM—LLMs are big. The A19 Pro has 12GB of RAM, while the regular A19 only has 8GB, and it already makes a difference: The new and improved dictation and more emotive Siri voice in iOS 27 require devices that have extra RAM. On the other hand, RAM prices have gone up more than 5x in the last year alone, making RAM super expensive.\nApple probably wants to attach 16GB of RAM to the A20 Pro, but we wouldn’t be surprised to see 12GB, just because the market is totally nuts right now, even for Apple.\nThen we have the wireless chips. Apple used its own 5G chip (the C1) in the iPhone 16e and followed up with the surprise C1X in the iPhone Air that’s both faster and more energy efficient. Apple’s new iPhones may use the C1X, but we’re actually expecting the C2, which should further improve performance, add mmWave support in some markets, and improve battery life even further. Notably, Apple’s Pro devices have yet to use anything other than a Qualcomm modem, so we’ll have to see if that changes this year.\nApple has its own Wi-Fi and Bluetooth chip, too: the N1. There’s little reason for Apple to move beyond the N1 yet—it already supports Bluetooth 6 and Wi-Fi 7. An N2 is not expected yet, but if Apple announced an N1X that improves power efficiency, we wouldn’t be surprised.",
+    "pub_date": "2026-07-01T10:15:00.000Z",
+    "creator": "Macworld",
+    "tags": "iOS,Silicon",
+    "id": 1663
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Deal Days dropped this near-mint MacBook Pro refurb from $1,999 to $430",
+    "link": "https://www.macworld.com/article/3177297/deal-days-dropped-this-near-mint-macbook-pro-refurb-from-1999-to-430.html",
+    "content": "Macworld\n\n\nTL;DR: A Grade A refurbished MacBook Pro with 16GB of RAM and a 1TB SSD is on sale for $429.97 (reg. $1,999) through July 1.\nA new MacBook Pro starts well over $1,500, but the refurbished market sells the same hardware for a lot less. This Grade-A MacBook Pro with a 2GHz quad-core Intel i5, 16GB of RAM, and a 1TB SSD is in near-mint condition, but it’s still on sale for only $429.97 during Deal Days (reg. $1,999).\nThis is the Touch Bar model with a 13.3-inch Retina display, True Tone for color matching to the room around you, and four Thunderbolt 3 ports that handle charging, fast file transfers, and external displays from one cable. The Magic Keyboard returned to a scissor switch design with this generation, so typing feels closer to a desktop than the older butterfly-key models. Touch ID lives at the top right for password-free logins.\nThe Intel Core i5 chip turbo-boosts up to 3.8GHz, with Intel Iris Plus Graphics handling video playback, photo work, and lighter creative apps cleanly. 16GB of RAM keeps a stack of browser tabs, a document or two, and a video call open at the same time without slowing things down. 1TB of SSD storage covers a serious library of files and apps, and battery life runs up to 10 hours on a single charge. The machine ships with a charger included.\nJuly 1 at 11:59 p.m. PT is the cutoff to get a near-mint refurbished MacBook Pro on sale for $429.97.\nCheck out the rest of the Deal Days Extended collection while you can.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple MacBook Pro (2020) 13″ i5 2GHz Touchbar 16GB RAM 1TB SSD Space Gray (Refurbished)See Deal\nStackSocial prices subject to change.",
+    "pub_date": "2026-07-01T08:00:00.000Z",
+    "creator": "Macworld",
+    "tags": "Mac",
+    "id": 1664
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Claude Fable 5 cleared to return as US lifts Anthropic’s export control restriction",
+    "link": "https://9to5mac.com/2026/06/30/claude-fable-5-cleared-to-return-as-us-lifts-anthropics-export-control-restriction/",
+    "content": "Anthropic has confirmed it will begin restoring access to Claude Fable 5 this Wednesday, July 1, nearly three weeks after US export controls forced the company to take the model offline. Here are the details.",
+    "pub_date": "2026-07-01T00:24:11.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 1657
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Tim Cook's government liaison position comes into focus before stepping down as Apple CEO",
+    "link": "https://appleinsider.com/articles/26/07/01/tim-cooks-government-liaison-position-comes-into-focus-before-stepping-down-as-apple-ceo?utm_source=rss",
+    "content": "Apple CEO Tim Cook will soon be Executive Chairman and handle government interactions, but that isn't stopping him from taking a phone call today with a European Commission head over Apple AI in the EU.\n\n\nApple CEO Tim Cook is ready to take on his role as government liaison\nWWDC 2026 was focused on system optimization, child safety, and the new Apple Foundation Models. Apple Users in the EU were cut off completely from that last third of the keynote, as those features can't launch in the region as they exist today.\nAccording to a report from The Financial Times, first shared by 9to5Mac, Apple CEO Tim Cook had a virtual meeting with Henna Virkkunen, Executive Vice President of the European Commission, which reportedly was \"constructive.\" People familiar with the exchange said that the conversation centered around how Apple might launch its revamped AI tools in the EU without violating the Digital Markets Act (DMA).\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-01T00:21:19.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "General",
+    "id": 1659
+  },
+  {
     "source_name": "MacRumors",
     "title": "MacBook Ultra: Everything We Know About Apple's OLED Touchscreen Mac",
     "link": "https://www.macrumors.com/guide/macbook-ultra/",
@@ -2938,65 +2998,5 @@
     "creator": "Christine McKee <christine@appleinsider.com>",
     "tags": "iOS",
     "id": 1308
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "watchOS 27 beta 2 available now for Apple Watch [U: Ultra 3 too]",
-    "link": "https://9to5mac.com/2026/06/25/watchos-27-beta-2-available-now-for-apple-watch/",
-    "content": "Yesterday Apple released beta 2 for iOS 27, iPadOS 27, and more—but watchOS was absent. Now today, watchOS 27 developer beta 2 has arrived to complete the lineup.\nUpdate 6/25: Two days later, watchOS 27 beta 2 is now also available for Apple Watch Ultra 3.",
-    "pub_date": "2026-06-25T19:26:51.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS,App Store",
-    "id": 1301
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Seeds New watchOS 27 Beta for Apple Watch Ultra 3",
-    "link": "https://www.macrumors.com/2026/06/25/apple-seeds-watchos-27-beta-2-ultra-3/",
-    "content": "Apple today seeded a new beta of watchOS 27 for the Apple Watch Ultra 3, with the update coming over two weeks after the launch of the first beta. This beta is only available for the ‌Apple Watch Ultra 3‌, which did not get the second beta update that came out earlier this week.\r\n\r\n\r\nThe beta can be downloaded through the Watch app on the iPhone with a free developer account. The Apple Watch will need to be on the charger, connected to Wi-Fi, and have a battery level of 50 percent or above for new software to be installed.\r\n\r\nSiri AI, the smarter, more capable version of ‌Siri‌. ‌Siri‌ can hold back-and-forth conversations, plus it has access to general world knowledge and your personal data to answer questions and find information. ‌Siri‌ AI on Apple Watch requires an iPhone that supports Apple Intelligence, including the iPhone 15 Pro and later.\r\n\r\nThere's a new Dynamic app grid that highlights ‌Siri‌ suggested apps, and more intuitive Smart Stack Suggestions. You can find your parked car, see pinned messages, get noise alerts, and view identity and transit cards.\r\n\r\nFind My app with support for Precision Finding, and there are performance optimizations that improve battery life.\r\n\r\nis available in our watchOS 27 roundup.\nRelated Roundups: Apple Watch Ultra 3, watchOS 26, watchOS 27\nBuyer's Guide: Apple Watch Ultra (Neutral)\nRelated Forum: Apple Watch\nThis article, \"Apple Seeds New watchOS 27 Beta for Apple Watch Ultra 3\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-25T19:16:58.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,App Store",
-    "id": 1294
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Apple will skip M6 Pro and Max chips, fast-track M7 — here’s why",
-    "link": "https://www.cultofmac.com/news/apple-will-skip-m6-pro-and-max-chips",
-    "content": "In a big shakeup, Apple will skip M6 Pro and Max chips and go straight to M7 Pro and Max variants in 2027 for big AI jobs.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-06-25T18:59:56.000Z",
-    "creator": "David Snow",
-    "tags": "Mac",
-    "id": 1315
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Expect to pay a whole lot more for a next-gen iPhone",
-    "link": "https://www.cultofmac.com/news/iphone-price-increase-pro-max-ultra-2026",
-    "content": "Apple just hiked Mac and iPad prices, but not iPhone. Still, price increases are coming, and could be larger than previously expected.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-06-25T18:45:23.000Z",
-    "creator": "Ed Hardy",
-    "tags": "Mac,iOS,Services",
-    "id": 1316
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iOS 27 beta 2, Apple price increases, Apple Watch OS support",
-    "link": "https://9to5mac.com/2026/06/25/happy-hour-596/",
-    "content": "Benjamin and Chance react to the shocking price increases across Mac, iPad, and more, as well as break down all the latest changes in iOS 27 beta 2. Also, how fair is it that watchOS 27 cuts off so many models of Apple Watch, while iOS 27 is available for every iPhone that runs iOS 26.\nAnd in Happy Hour Plus, John Ternus is reportedly looking to re-establish the design team at the center of Apple’s decision-making. Subscribe at 9to5mac.com/join.\nSponsored by Roborock: Check out Roborock’s Prime Day Sale featuring up to $1,500 off best-selling robot vacuums and wet dry vacuums, including the Saros 10R, Qrevo Edge 2, Qrevo Curv 2 Flow, and more.\nSponsored by Shopify: See less carts go abandoned and more sales. Sign up for a $1 per month trial at shopify.com/happyhour.\nSponsored by Quince: Refresh your wardrobe with Quince. Visit quince.com/happyhour for free shipping on your order and 365-day returns.\nSponsored by Framer: The only free design tool that brings your ideas to the web. Visit framer.com/happyhour for 30% off a Framer Pro annual plan.",
-    "pub_date": "2026-06-25T18:45:13.000Z",
-    "creator": "Chance Miller",
-    "tags": "Mac,iOS",
-    "id": 1302
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple hints at more price increases coming later",
-    "link": "https://9to5mac.com/2026/06/25/apple-hints-at-more-price-increases-coming-later/",
-    "content": "Apple raised prices on many of its products today, and not by small amounts. But today’s price increases likely aren’t the only ones planned, as a statement Apple gave to the press hints at more changes coming.",
-    "pub_date": "2026-06-25T18:01:16.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "General",
-    "id": 1223
   }
 ]
