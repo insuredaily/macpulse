@@ -1,5 +1,135 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "What to expect from Apple's Q3 2026 results on July 30",
+    "link": "https://appleinsider.com/articles/26/07/02/what-to-expect-from-apples-q3-2026-results-on-july-30?utm_source=rss",
+    "content": "Apple has confirmed that its financials for the third quarter of 2026 will be reported on July 30. It certainly will be an event with a lot of talking points from the quarter, and it might be the last one with Tim Cook in attendance.\n\n\nThe Q3 results will be Cook's last as CEO\nEvery three months, Apple issues a quarterly report revealing how well it's performed during the period. The third quarter results arrive at the end of July.\nIn a notification to investors and analysts, Apple states that it will be bringing out the third quarter results on July 30. The results will be followed by Apple's usual conference call at 5 p.m. EDT, featuring both current CEO Tim Cook and CFO Kevan Parekh to talk about the numbers.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-02T22:17:14.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "General",
+    "id": 1794
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple sets Q3 2026 earnings release for July 30",
+    "link": "https://9to5mac.com/2026/07/02/apple-sets-q3-2026-earnings-release-for-july-30/",
+    "content": "Apple will announce the results of its fiscal third quarter of 2026 on Thursday, July 30. Here’s what to expect.",
+    "pub_date": "2026-07-02T21:59:14.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 1784
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "9to5Mac Daily: July 2, 2026 – Apple Watch rumors, Apple Pay update",
+    "link": "https://9to5mac.com/2026/07/02/daily-july-2-2026/",
+    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.",
+    "pub_date": "2026-07-02T21:33:09.000Z",
+    "creator": "Seth Kurkowski",
+    "tags": "iOS,App Store,Services",
+    "id": 1785
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Explore every iPad ever released in this interactive timeline",
+    "link": "https://9to5mac.com/2026/07/02/explore-every-ipad-ever-released-in-this-interactive-timeline/",
+    "content": "After releasing an interactive timeline of every iPhone ever made, sheets.works is back with a similar project covering every iPad Apple has released since 2010. Here are the details.",
+    "pub_date": "2026-07-02T21:24:35.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 1786
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "M7 chip coming sooner than expected, visionOS 27 features, Ask9to5Mac",
+    "link": "https://9to5mac.com/2026/07/02/happy-hour-597/",
+    "content": "Benjamin and Chance react to the news from Bloomberg’s Mark Gurman that Apple is accelerating the roadmap for the M7 series of Apple Silicon chips, somewhat at the expense of the as-yet-unreleased M6 line. Also, we break down what’s new in visionOS 27 and do some summer Ask9to5Mac questions. \nAnd in Happy Hour Plus, Benjamin and Chance pick their favorite grab-bag features from the iOS 27 WWDC cloud side. Subscribe at 9to5mac.com/join.\nSponsored by Square: Get up to $200 off Square hardware when you sign up at square.com/go/happyhour.\nSponsored by Shopify: All you need is the idea. Shopify handles the rest. Start your free trial at shopify.com/happyhour.\nSponsored by Cash App: Download Cash App Today: https://click.cash.app/ui6m/i4d1b1x2 #CashAppPod",
+    "pub_date": "2026-07-02T21:00:27.000Z",
+    "creator": "Chance Miller",
+    "tags": "iOS,Vision,Silicon,App Store",
+    "id": 1787
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iPhone Fold could help raise average foldable phone prices by 18%, per report",
+    "link": "https://9to5mac.com/2026/07/02/iphone-fold-could-help-raise-average-foldable-phone-prices-by-18-per-report/",
+    "content": "According to Counterpoint Research, Apple’s entry into the foldable smartphone market will be one of the factors driving an 18% increase in average sale prices in the category in 2026. Here are the details.",
+    "pub_date": "2026-07-02T20:54:29.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 1788
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple’s stock recovers after hit from unprecedented price hikes on products",
+    "link": "https://9to5mac.com/2026/07/02/apples-stock-recovers-after-hit-from-unprecedented-price-hikes-on-products/",
+    "content": "Last week, Apple announced dramatic price increases on Macs, iPads, and other products due to rising component costs. As a result, Apple’s stock price took a dive. As we head into the holiday weekend, however, $AAPL has rebounded with a 5% gain today.",
+    "pub_date": "2026-07-02T20:19:40.000Z",
+    "creator": "Zac Hall",
+    "tags": "General",
+    "id": 1789
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "New iFixit video shows how an iPhone battery is made",
+    "link": "https://9to5mac.com/2026/07/02/new-ifixit-video-shows-how-an-iphone-battery-is-made/",
+    "content": "In a video published today on its YouTube channel, iFixIt shows the surprisingly analog process of fully assembling and testing an iPhone battery. Watch it below.",
+    "pub_date": "2026-07-02T20:15:56.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 1790
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "CarPlay in iOS 26 added new setting that should have always existed",
+    "link": "https://9to5mac.com/2026/07/02/carplay-in-ios-26-added-new-setting-that-should-have-always-existed/",
+    "content": "iOS 27 has exciting new features coming for CarPlay, but nearly a year late, I recently tested out an iOS 26 addition for CarPlay, and it’s one that should have existed all along.",
+    "pub_date": "2026-07-02T19:51:30.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 1791
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple Arcade gets four new games, including Pocket City 2+",
+    "link": "https://9to5mac.com/2026/07/02/apple-arcade-gets-four-new-games-including-pocket-city-2/",
+    "content": "Following last Tuesday’s addition of Family Feud Pocket, Apple Arcade is expanding its catalog once again today with four more games spanning city-building, dungeon crawling, fishing, and quick-draw challenges. Here are the details.",
+    "pub_date": "2026-07-02T19:47:55.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Services",
+    "id": 1792
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Best 4th of July Apple deals: $89 AirTags, iPads up to $400 off, Macs up to $650 off",
+    "link": "https://appleinsider.com/articles/26/07/02/best-4th-of-july-apple-deals-89-airtags-ipads-up-to-400-off-macs-up-to-650-off?utm_source=rss",
+    "content": "Take advantage of holiday savings in the U.S. on AirTags, MacBooks, iPads, and more. Many of these 4th of July deals could sell out after Apple's recent price hikes.\n\n\nSave up to $650 on Apple products for 4th of July.\nHoliday deals are in effect in the U.S. and Apple products are now up to $650 off. Highlights can be found below, with even more discounts in our Apple Price Guides.\nShop Apple 4th of July deals\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-02T19:42:45.000Z",
+    "creator": "Christine McKee <christine@appleinsider.com>",
+    "tags": "General",
+    "id": 1795
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "tvOS 27: Four new features coming soon to Apple TV 4K",
+    "link": "https://9to5mac.com/2026/07/02/tvos-27-four-new-features-coming-soon-to-apple-tv-4k/",
+    "content": "tvOS 27 was barely mentioned when Apple unveiled iOS 27, likely because its best features are waiting on new Apple TV 4K hardware. But there are a handful of tvOS 27 additions we do know about already—here’s what’s coming.",
+    "pub_date": "2026-07-02T19:29:13.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 1793
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iOS 27 Public Beta Available This Month, Here's How to Get Your iPhone Ready Now",
+    "link": "https://www.macrumors.com/2026/07/02/ios-27-public-beta-release-date/",
+    "content": "Apple previously announced that the first iOS 27 public beta would be released in July, meaning that it should be available at some point this month.\r\n\r\n\r\nBelow, we have outlined how to get ready for the iOS 27 public beta, which will likely follow the third or fourth iOS 27 developer beta.\r\n\r\nRelease Date History\n\r\nThe first public betas of iOS 16 through iOS 26 came out between July 11 and July 24. \r\n\r\n\r\n  \niOS 26 Public Beta: Thursday, July 24, 2025\n\r\n  \niOS 18 Public Beta: Monday, July 15, 2024\n\r\n  \niOS 17 Public Beta: Wednesday, July 12, 2023\n\r\n  \niOS 16 Public Beta: Monday, July 11, 2022\n\r\n\r\n\r\nGet Ready\n\r\nOnce it is available, anyone will be able to install the iOS 27 public beta on a compatible iPhone for free by following the steps outlined below.\r\n\r\nSign up at beta.apple.com for free.\n \r\nOpen your iPhone's Settings app and tap General → Software Update → Beta Updates.\n\r\nSelect the iOS 27 Public Beta option (restart your iPhone if you don't see it) and follow the on-screen steps.\nIf you are impatient, anyone can install the iOS 27 developer beta for free right now.\r\n\r\nWarning: While public betas are usually more stable than developer betas, iOS betas of any kind often have bugs and performance issues. You may not be able to use some apps that you rely on, and issues can extend to CarPlay. Backing up your iPhone before installing beta software is highly recommended, and relying on a secondary iPhone altogether is always a good idea if possible.\r\n\r\niOS 27 is compatible with the iPhone 11 and newer, but Apple Intelligence features like Siri AI are limited to the iPhone 15 Pro and newer.\r\n\r\nhas a waitlist. To join the waitlist, open the Settings app on iOS 27 and tap on Siri and you will find it there. In some cases, it can take a few weeks to receive access to Siri AI and the Siri app.\r\n\r\nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"iOS 27 Public Beta Available This Month, Here's How to Get Your iPhone Ready Now\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-02T18:45:15.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "iOS,App Store",
+    "id": 1783
+  },
+  {
     "source_name": "MacRumors",
     "title": "VW Planning to Offer Apple Wallet Car Keys on iPhone",
     "link": "https://www.macrumors.com/2026/07/02/vw-planning-apple-wallet-car-keys/",
@@ -2868,135 +2998,5 @@
     "creator": "Ed Hardy",
     "tags": "Mac,Silicon",
     "id": 1475
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "M5 Ultra Mac Studio still due in 2026, M7 Ultra in 2028",
-    "link": "https://appleinsider.com/articles/26/06/28/m5-ultra-mac-studio-still-due-in-2026-m7-ultra-in-2028?utm_source=rss",
-    "content": "Apple is still expected to update the Mac Studio with the M5 Ultra in 2026 and an M7 Ultra version in 2028, but don't expect major changes to the form.\n\n\nMac Studio\nThe Apple Silicon chip series consists of four tiers, with the standard base model, Pro, and Max variants appearing in every generation. The fourth, the Ultra chip, hasn't seen a release since the M3 Ultra, with the M4 Ultra skipped entirely.\nThe Mac Studio is the model of Mac to get if you want the massive number of cores that the Ultra model provides. If Mark Gurman's \"Power On\" newsletter for Bloomberg on Sunday is accurate, you won't have to wait long for the next release.\n\n Rumor Score: 🤯 Likely \n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-28T15:07:04.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "Mac,Rumors,Silicon",
-    "id": 1455
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple working on M7 Ultra Mac Studio for 2028 with potential major upgrade: report",
-    "link": "https://9to5mac.com/2026/06/28/m7-ultra-mac-studio-coming-in-2028-after-m5-ultra-model-later-this-year/",
-    "content": "Later this year, Apple will be debuting an updated version of the Mac Studio with M5 Max and M5 Ultra chips – a long awaited refresh. The current Mac Studio, released in early 2025, includes an M4 Max and M3 Ultra chip, so at least on the high end, it’s pretty behind.\nAccording to Bloomberg’s Mark Gurman, the M5-based Mac Studio, which should just be a chip upgrade, is still on track to launch this year. Looking ahead to 2028, there may be more interesting changes in the pipeline.",
-    "pub_date": "2026-06-28T14:31:16.000Z",
-    "creator": "Michael Burkhardt",
-    "tags": "Mac,Silicon",
-    "id": 1449
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Your iPhone could soon be spotted by license plate cameras",
-    "link": "https://www.cultofmac.com/news/iphone-license-plate-camera-recognition-system",
-    "content": "SignalTrace adds Bluetooth and Wi-Fi tracking to license plate cameras, letting police link your iPhone to your car without a warrant.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-06-28T13:00:17.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,iOS",
-    "id": 1461
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "How to create a macOS Golden Gate USB install drive [Video]",
-    "link": "https://9to5mac.com/2026/06/28/how-to-create-a-macos-golden-gate-usb-install-drive-video/",
-    "content": "In this hands-on guide, I’ll show you how to transform a USB drive into a macOS Golden Gate USB installer. Having access to a macOS Golden Gate USB installer is useful for upgrading from macOS Tahoe or earlier versions of macOS across multiple Macs, among other use cases. Have a look at my full hands-on video walkthrough, and be sure to subscribe to 9to5Mac on YouTube for more Mac guides and tutorials.",
-    "pub_date": "2026-06-28T13:00:00.000Z",
-    "creator": "Jeff Benjamin",
-    "tags": "Mac",
-    "id": 1450
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "How to watch the Formula 1 race for free right now",
-    "link": "https://9to5mac.com/2026/06/28/how-to-watch-the-formula-1-race-for-free-right-now/",
-    "content": "This weekend, Apple TV is running a special promotion where all of its Formula 1 streaming is available for anyone in the United States to watch for free, no Apple TV subscription required.\nThe Austrian Grand Prix race is about to start, and if you want to tune, simply open the Apple TV app on your preferred device.",
-    "pub_date": "2026-06-28T12:50:56.000Z",
-    "creator": "Benjamin Mayo",
-    "tags": "App Store,Services",
-    "id": 1451
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Crime blotter: School board vice president accused of having illicit images on iPhone",
-    "link": "https://appleinsider.com/articles/26/06/28/crime-blotter-school-board-vice-president-accused-of-having-illicit-images-on-iphone?utm_source=rss",
-    "content": "Signals from AirPods solved two crimes: a woman was arrested for refusing to leave an Apple Store, and a Bangladeshi presenter's iPhone was stolen, all in this week's Apple Crime Blotter.\n\n\nApple Orland Square Mall - Image Credit: Apple\nThe latest from an occasional AppleInsider feature, looking at the world of Apple-related crime.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-28T11:04:01.000Z",
-    "creator": "Stephen Silver <stephen@appleinsider.com>",
-    "tags": "iOS",
-    "id": 1456
-  },
-  {
-    "source_name": "Macworld",
-    "title": "PDF editing on Mac just got a lot less painful with this lifetime $79.99 tool",
-    "link": "https://www.macworld.com/article/3175331/pdf-editing-on-mac-just-got-a-lot-less-painful-with-this-lifetime-79-99-tool.html",
-    "content": "Macworld\n\n\nTL;DR: PDF Expert is a Mac PDF editor that lets you edit, sign, annotate, convert, and manage documents with ease. It’s now $79.99 for a lifetime license (MSRP $139.99), with no subscription required.\nIf you deal with PDFs at all, you’ve probably run into how annoying and limited many editors can feel. PDF Expert is a Mac-only app that makes handling PDFs far more seamless and natural, and it’s currently just $79.99 (MSRP $139.99) for a lifetime subscription.\nWith a lifetime subscription, you can edit PDFs without restrictions. Need to fix a typo, drop in a new logo, or update a paragraph? It’s all easy to do. You can even add links, fill out forms, and sign documents in just a few clicks. The layout is clean and intuitive, which makes a big difference if you’re used to complicated or slow PDF tools.\nFor reviewing files, PDF Expert gives you everything from highlights and pop-up notes to custom stamps. You can combine multiple PDFs into one, rearrange pages, or split out just the parts you need. It also handles file conversions, so you can turn PDFs into Word docs, Excel spreadsheets, images, or PowerPoint slides.\nOne of the best features is the built-in OCR. If you’ve ever scanned a document and realized you couldn’t search or copy the text, this fixes that. It even enhances scan quality and lets you crop pages or remove extra margins.\nPDF Expert works on macOS 12 or later and is yours for life. It includes ongoing support and bug fixes. If you’re tired of clunky PDF editors or subscription models that never end, this may be the move.\nRight now, it’s only $79.99 to get a PDF Expert Premium lifetime plan.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nPDF Expert Premium Plan: Lifetime Subscription (Mac)See Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-06-28T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,App Store,Services",
-    "id": 1459
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Normally over $500, this Intuit QuickBooks is now only $299.99",
-    "link": "https://www.macworld.com/article/3175613/normally-over-500-this-intuit-quickbooks-is-now-only-299-99.html",
-    "content": "Macworld\n\n\nTL;DR: Get a full year of Intuit QuickBooks on sale for $299.99.\nSmall businesses pay a steady drip of monthly fees for tools that used to live on a single computer, and accounting software is one of the worst offenders. Intuit QuickBooks Desktop Pro Plus 2024 for Mac is a simpler alternative without the monthly fee, and right now, you can get a full year subscription on sale for $299.99 (reg. $536).\nQuickBooks runs natively on macOS Monterey or newer, on both Intel and Apple Silicon Macs, so the app sits on your hard drive instead of behind a browser login. Day-to-day work covers what most small businesses spend their time on. Send invoices, log expenses against the right project, manage purchase and sales orders, and pull reports whenever tax season or a slow Tuesday calls for a closer look at the numbers.\nJob costing tracks profitability project by project, useful for contractors or agencies billing multiple clients at once. A landscaper running three jobs at once can see which one is actually paying and which one is quietly bleeding into a loss. Inventory tracking handles stock and costs for product businesses, and fixed asset management runs depreciation on equipment without anyone needing to open a spreadsheet.\nRight now, it’s only $299.99 to get an Intuit QuickBooks Desktop Pro Plus 1-year subscription.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nIntuit QuickBooks Desktop Pro Plus 2024 for Mac (1 User): 1-Year SubscriptionSee Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-06-28T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,Silicon,App Store,Services",
-    "id": 1460
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "MagSafe battery banks: Best picks for your iPhone 17, iPhone Air, and more",
-    "link": "https://9to5mac.com/2026/06/27/favorite-magsafe-iphone-battery-banks-right-now/",
-    "content": "With iPhone Air, Apple reintroduced the MagSafe battery pack. It’s $99, and optimized specifically for iPhone Air. It’s rather slim, though it’s rather weak in capacity – making Qi2 alternatives all the more interesting. We’ll be delving into the top options on the market, just in case you want a higher capacity MagSafe battery for your iPhone, or aren’t buying the iPhone Air.",
-    "pub_date": "2026-06-28T03:22:16.000Z",
-    "creator": "Michael Burkhardt",
-    "tags": "iOS",
-    "id": 1452
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Indie App Spotlight: ‘Mirage’ brings your Mac display to your iPhone, iPad, Vision Pro, and other Macs",
-    "link": "https://9to5mac.com/2026/06/27/indie-app-spotlight-mirage-brings-your-mac-display-to-your-iphone-ipad-vision-pro-and-other-macs/",
-    "content": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nMirage is a brand new app that brings best-in-class desktop wireless screen sharing to your entire Apple ecosystem. You can stream from your Mac to your iPhone, iPad, Vision Pro, or even another Mac. It’s very low latency and has a plethora of great features that make it the one stop shop for remotely using your Mac.",
-    "pub_date": "2026-06-27T19:30:46.000Z",
-    "creator": "Michael Burkhardt",
-    "tags": "Mac,iOS,Vision,App Store",
-    "id": 1441
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Indie App Spotlight: ‘Mirage’ brings your Mac display to iPad and more with retina quality",
-    "link": "https://9to5mac.com/2026/06/27/mirage-brings-your-mac-display-to-your-ipad-iphone-vision-pro-and-other-macs/",
-    "content": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nMirage is a brand new app that brings best-in-class desktop wireless screen sharing to your entire Apple ecosystem. You can stream from your Mac to your iPhone, iPad, Vision Pro, or even another Mac. It’s very low latency and has a plethora of great features that make it the one stop shop for remotely using your Mac.",
-    "pub_date": "2026-06-27T19:30:46.000Z",
-    "creator": "Michael Burkhardt",
-    "tags": "Mac,iOS,Vision,App Store",
-    "id": 1453
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iPadOS 27: Apple is leaving these five iPad models behind, but owners deserve better",
-    "link": "https://9to5mac.com/2026/06/27/these-five-ipad-models-wont-run-ipados-27-but-deserve-better/",
-    "content": "We’re about 3 weeks out from when Apple unveiled iOS 27 to the world at WWDC26, and it’s still safe to say: this is an incredible update. It’s incredibly performant, and besides some small quirks and a little battery drain, it feels much more usable than iOS 26.5.\nWhile iOS 27 does support every device that ran iOS 26, the same isn’t true for iPadOS. A number of older iPadOS 26 devices will not be receiving the iPadOS 27 update, which I think is quite a shame – and Apple should mitigate this one way or another.",
-    "pub_date": "2026-06-27T16:21:52.000Z",
-    "creator": "Michael Burkhardt",
-    "tags": "iOS",
-    "id": 1442
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "PSA: Lifetime Plex Plan goes from $249.99 to a painful $749.99 on July 1",
-    "link": "https://appleinsider.com/articles/26/06/27/psa-lifetime-plex-plan-goes-from-24999-to-a-painful-74999-on-july-1?utm_source=rss",
-    "content": "If you have ever wanted to buy Plex's lifetime pass to keep streaming your movie collection to your iPhone, get it now before the price rockets up to a ludicrous $749.99 on July 1.\n\n\nPlex logo\nPrice rises are a regular occurrence for most online services, and that even includes self-hosted streaming platforms. However, for a particular segment of Plex users, one extremely expensive jump in price is on the horizon.\nBack in May, Plex warned that it will be raising the price of its Lifetime Plex Pass, which gives users all of the benefits of the normal annual or monthly Plex Pass, but without a subscription. That price rise is set to take place on July 1 at 12:01 a.m. UTC.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-27T16:05:41.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "iOS,Services",
-    "id": 1448
   }
 ]
