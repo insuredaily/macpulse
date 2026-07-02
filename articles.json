@@ -1,6 +1,296 @@
 [
   {
     "source_name": "MacRumors",
+    "title": "VW Planning to Offer Apple Wallet Car Keys on iPhone",
+    "link": "https://www.macrumors.com/2026/07/02/vw-planning-apple-wallet-car-keys/",
+    "content": "Volkswagen is planning to offer Apple Wallet car keys in future vehicles, according to new server-side Apple code.\r\n\r\nThe code does not provide any more details, so we do not know which VW vehicle models will offer the feature or when.\r\n\r\nThis article, \"VW Planning to Offer Apple Wallet Car Keys on iPhone\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-02T18:00:23.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "iOS",
+    "id": 1748
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Car Keys in Apple Wallet coming to major new vehicle brand: report",
+    "link": "https://9to5mac.com/2026/07/02/car-keys-in-apple-wallet-coming-to-major-new-vehicle-brand-report/",
+    "content": "Apple Wallet keeps adding support for new car key brands, with recent additions like Toyota and Porsche. Now, another popular automaker is reportedly about to get car keys: Volkswagen.",
+    "pub_date": "2026-07-02T17:52:56.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "General",
+    "id": 1754
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Apple’s foldable iPhone orders reportedly jump to 10 million units",
+    "link": "https://www.cultofmac.com/news/apple-foldable-iphone-ultra-10-million-units-report",
+    "content": "Apple has reportedly raised its foldable iPhone production target to 10 million units, signaling growing confidence ahead of its debut.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-02T16:47:05.000Z",
+    "creator": "Anurag Chawake",
+    "tags": "Mac,iOS",
+    "id": 1778
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iOS 27 public beta release date: When you can install the new iPhone update",
+    "link": "https://9to5mac.com/2026/07/02/ios-27-public-beta-release-date-when-you-can-install-the-new-iphone-update/",
+    "content": "iOS 27 has been available in developer beta for almost a month, but there’s a public beta version coming soon. Here’s when the iOS 27 public beta is expected to release.",
+    "pub_date": "2026-07-02T16:46:00.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS,App Store",
+    "id": 1755
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "iPhone 18 Pro rumor recycles claims of slower SSD on high capacity models",
+    "link": "https://appleinsider.com/articles/26/07/02/iphone-18-pro-rumor-recycles-claims-of-slower-ssd-on-high-capacity-models?utm_source=rss",
+    "content": "A new rumor claims that some iPhone 18 Pro models will use slower QLC NAND storage, mimicking a similar 2024 iPhone 16 Pro report. It makes more sense now than it did then, but doesn't matter much in practical usage.\n\n\nThe 1TB and 2TB iPhone 18 Pro may not have the same type of storage as lower-capacity models. \nThis latest report suggests that Apple will use the faster TLC storage for the iPhones that people are most likely to buy. But those choosing the larger 1TB and 2TB capacities may be left with a slower QLC alternative from SK Hynix.\nCompanies like Apple continue to struggle to source the storage components required for new products. With that in mind, it may not be surprising to see Apple go this route. Sourcing 1TB and 2TB TLC components may be difficult, if not impossible.\n\n Rumor Score: 🤔 Possible \n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-02T16:30:51.000Z",
+    "creator": "Oliver Haslam <oliver@monkeymanmedia.com>",
+    "tags": "iOS,Rumors",
+    "id": 1763
+  },
+  {
+    "source_name": "Macworld",
+    "title": "New malicious clipboard clone raises serious security concerns for Mac users",
+    "link": "https://www.macworld.com/article/3183300/new-malicious-clipboard-clone-raises-serious-security-concerns-for-mac-users.html",
+    "content": "Macworld\n\n\nJamf Threat Labs has issued a report on new malware that users of the third-party clipboard manager Maccy need to be aware of. The malware, dubbed “PamStealer,” is distributed by malicious sites that impersonate the actual Maccy website, with downloadable files that trick visitors into thinking they are getting legitimate Maccy files.\nThe fake files are Maccy.scpt AppleScript files, made to look like legitimate installer files and distributed on disk images. If the script is launched, users are instructed to run the script, which then triggers the payload that can track information on your Mac and send it to a threat agent. The name PamStealer refers to the malware’s validation of the victim’s login password through the macOS Pluggable Authentication Modules (PAM).\nTo avoid downloading the malicious files, Maccy customers should make sure they are visiting the maccy.app website. According to a disclaimer on that website, “maccy.app is the only official website.” Customers can also visit the Maccy GitHub website at https://github.com/p0deje/Maccy, which states that “maccy.app is the only official website.”\nMaccy is a free open-source clipboard manager that tracks clipboard history. Apple only just introduced a clipboard history tracker in macOS Tahoe through Spotlight, so these third-party managers are popular among power users. However, as Jamf explains, the delivery mechanism for this particular threat could have far-reaching implications beyond just this particular app:\nAlthough disk images and AppleScript-based malware are well-established on macOS, PamStealer combines them in an interesting way. Rather than relying on shell commands such as curl or zsh, the AppleScript executes a self-contained JavaScript for Automation (JXA) downloader that retrieves and stages the payload using native Objective-C APIs. Combined with a Rust-based second stage and a password capture workflow that validates credentials locally through PAM, the result is a quieter execution chain than we typically observe in commodity macOS stealers.\nThe report goes into great depth on how the attack tricks users, and concludes: “Together, these behaviors illustrate how commodity macOS stealers continue to evolve, adopting quieter execution chains and native implementations that reduce traditional detection opportunities while remaining compatible with standard macOS features.”\nHow to protect yourself from malware\nThe easiest way to protect yourself from malware is to avoid downloading software from unfamiliar download sites. Never open links in emails or texts you receive from unknown and unexpected sources. If you get a message that looks like it is from an entity that you do business with, check the sender’s email address and inspect the URL carefully. If you see a link or button, you can Control-click it, select Copy Link Address, and then paste it into a text editor to see the actual URL to check it there.\nApple has vetted software in the Mac App Store, and it is the safest way to get apps. If you prefer not to patronize the Mac App Store, then buy software directly from the developer and their website. If you insist on using cracked software, you will always risk malware exposure.\nMacworld has several guides to help, including a guide on whether or not you need antivirus software, a list of Mac viruses, malware, and trojans, and a comparison of Mac security software.",
+    "pub_date": "2026-07-02T16:23:57.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,App Store",
+    "id": 1771
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iPhone 18 Pro Could Use Qualcomm Modem in the US and C2 Elsewhere",
+    "link": "https://www.macrumors.com/2026/07/02/iphone-18-pro-could-use-qualcomm-modem-in-the-us/",
+    "content": "Stolen data from Apple manufacturing partner Tata Electronics appears to reveal that the iPhone 18 Pro will use different modem chips depending on the market it is sold in, with U.S. models retaining Qualcomm hardware while international models will feature Apple's in-house C2 modem.\r\n\r\n\r\n\r\nwide-ranging cyberattack on Tata, which alongside Foxconn assembles the iPhone. More than 630GB of confidential data was stolen by a ransomware group calling itself \"World Leaks\" and has been circulating online. The material was obtained illegally and MacRumors has not seen the stolen files directly. AppleInsider conducted an analysis of the stolen files and said it could confirm the authenticity of several key documents.\r\n\r\niPhone Air, iPhone 17e, and M5 iPad Pro.\r\n\r\nAppleInsider notes, is that the C2 still lacks mmWave capability, and that Apple is once again relying on Qualcomm to fill that gap for American carriers. \r\n\r\nmmWave is the ultra-high-frequency band of 5G offered primarily by Verizon, delivering very fast download speeds over short distances. Apple's C1 and C1X modems are widely regarded as more power efficient than their Qualcomm counterparts, meaning U.S. ‌iPhone 18 Pro‌ buyers may see somewhat worse battery life than those purchasing the same device elsewhere.\r\n\r\nDaring Fireball's John Gruber offered analysis of the practical tradeoffs involved. While 5G outpaced LTE in his tests, Gruber argued the difference has no meaningful impact on how the phone actually feels to use:\r\n\r\nHaving a phone that can pull 320 Mbps down over cellular is like having a car that can go 320 MPH — an interesting technical feat, but of no practical value to me whatsoever. I never feel like I'm waiting for anything to load because I'm on LTE. LTE is fast enough, and regular 5G is more than fast enough. 5G mmWave is simply a waste of battery life as far as I'm concerned.\n\r\n\r\nOn why Apple would not simply deploy the C2 everywhere rather than retaining Qualcomm for the U.S. market, Gruber pointed the finger squarely at carrier economics:\r\n\r\nFaster-than-you-practically-need download speeds are a carrier bragging point. Longer battery life and plenty-fast-enough download speeds are an Apple bragging point. Verizon — and to a lesser extent, AT&T — spent a fortune building out mmWave networks. They don't want to sell flagship phones that don't support them. Apple's flagship iPhones have supported those networks since 2020. If Zivkovic's analysis of this stolen data from Tata is correct, and Apple is going to use Qualcomm's modems only in iPhone 18 Pro models sold in the U.S., I think the reason why is Verizon and AT&T bragging points, not any practical user benefit. And the result may be that U.S. iPhone 18 Pro models get somewhat worse battery life than those in the rest of the world.\n\r\n\r\na rumored feature of the iPhone 18 Pro for years as part of Apple's broader effort to reduce its reliance on Qualcomm. A split deployment, with the C2 handling most of the world while Qualcomm covers the U.S., would represent a significant step in that direction even if it falls short of a complete transition.\r\n\r\nRelated Roundup: iPhone 18 Pro\nThis article, \"iPhone 18 Pro Could Use Qualcomm Modem in the US and C2 Elsewhere\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-02T16:15:46.000Z",
+    "creator": "Hartley Charlton",
+    "tags": "iOS,Silicon",
+    "id": 1749
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "iOS 27 just broke your oldest iPhone habit",
+    "link": "https://www.cultofmac.com/news/ios-27-notification-center-gesture-siri-ai",
+    "content": "iOS 27 hands your familiar Notification Center gesture over to the new Siri AI — here’s where your notifications moved to. \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-02T16:10:46.000Z",
+    "creator": "Anurag Chawake",
+    "tags": "Mac,iOS",
+    "id": 1779
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iPhone 18 Pro Max’s huge battery size reportedly leaked",
+    "link": "https://9to5mac.com/2026/07/02/iphone-18-pro-maxs-huge-battery-size-reportedly-leaked/",
+    "content": "A new report from Macworld based on social media leaks claims to know iPhone 18 Pro Max’s exact battery capacity, and it seems impressive.",
+    "pub_date": "2026-07-02T15:42:24.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 1756
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Upgrade your MacBook with Satechi’s 5-in-1 USB-C hub for just $25",
+    "link": "https://www.macworld.com/article/3183217/upgrade-your-macbook-with-satechis-5-in-1-usb-c-hub-for-just-25.html",
+    "content": "Macworld\n\n\nSatechi USB-C Pro Hub Adapter\nView Deal\nSatechi’s Type-C Pro Hub Adapter is on sale for $25 at Woot, a $55 savings that shaves off almost 70 percent off the usual price. This silver hub is built specifically for MacBooks, so it matches your machine and packs the ports Apple left out.\nThe port lineup is the best part about the hub because it transforms the two USB-C ports into a 4K HDMI output port, two USB 3.0 ports, a microSD card reader, and a Gigabit Ethernet port. That makes it possible to plug in a wired internet cable, a monitor, an extra keyboard, a mouse, and a memory card all at once.\nThe extra ports pull their weight, too. The Gigabit Ethernet port supports fast, stable wired internet, which can definitely save the day when Wi-Fi gets flaky. The USB-C Power Delivery lets you push up to 100W to your MacBook so you can charge your device. The two USB-A ports will make it possible to quickly transfer files at up to 5Gbps.\nYou do have to keep in mind that this hub’s HDMI output caps at 4K 30Hz, which is fine for spreadsheets, browsing, and presentations, but if you’re going to do any type of gaming, it might lag behind. The hub is specifically designed for the M1 and M2 MacBook Pro and MacBook Air, but it should work fine with any MacBook that has a pair of USB-C ports on onw side. It is not designed to work with single-USB-C-port models. \nAt $25, this hub is a good pick if you want to make your MacBook more useful. Grab it while this Woot deal lasts, and keep in mind that if you have an Amazon Prime subscription, those free shipping perks extend to Woot.",
+    "pub_date": "2026-07-02T15:34:39.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,Silicon,Services",
+    "id": 1772
+  },
+  {
+    "source_name": "Macworld",
+    "title": "MacPaw Moonlock review: Fast Mac antivirus that focuses on security",
+    "link": "https://www.macworld.com/article/2965280/macpaw-moonlock-antivirus-review.html",
+    "content": "Macworld\n\n\nAt a glance\nExpert's Rating\n\n\n\nPros\nExcellent malware detection\nFast scanning performance\nUseful built-in VPN\nHelpful security guidance\nClean, focused interface\nCons\nLeaves some support files behind\nNo phishing website blocking\nNo scan time estimates\nTrial requires payment information\nOur Verdict \nMacPaw’s Moonlock succeeds by focusing on the security features that matter most instead of trying to become another bloated system cleaner. Its malware detection is fast and impressively thorough, the bundled VPN performs well for everyday travel use, and the educational Security Advisor encourages better online habits rather than overwhelming users with technical jargon. Malware cleanup occasionally leaves behind non-executable support files, and requiring payment information before the seven-day trial is disappointing, but overall Moonlock delivers an excellent balance of protection, usability, and value for home users and small offices.\nPrice When Reviewed\nThis value will show the geolocated pricing text for product undefined\nBest Pricing Today\n\n\nPrice When Reviewed\n1 Mac: $54 per year; $13.50 a month; $150 one time payment (licences for more Macs available) \nRetailer\n\t\t\t\t\nPrice\n\t\t\t\t\nMacPaw (annual) \n\t\t\t\t\t\t\t\t\t\t\t\t\t\n$45\t\t\t\t\t\t\nView Deal\t\t\t\t\t\t\nProduct\n\t\t\t\t\nPrice\n\t\t\t\t\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\nWho it’s best for: Home users and small businesses wanting a focused, lightweight Mac security suite with excellent malware protection and a capable VPN.\nWho it’s not for: Enterprise administrators or advanced users who require detailed logging, centralized management, or extensive network security controls.\nAt a glance\nProtection: ★★★★★\nPerformance: ★★★★★\nFeatures: ★★★★☆\nEase of use: ★★★★★\nValue: ★★★★☆\nMoonlock is MacPaw’s dedicated Mac security application, combining malware protection, VPN services, scam detection, and security education into a streamlined package. Rather than trying to replace every maintenance utility on your Mac, it concentrates on protecting your system against modern threats while encouraging safer computing habits.\nFor this review I tested Moonlock extensively under macOS Tahoe using more than 160 live malware samples from the Objective-See malware archive, evaluating its malware detection, VPN, scam detection, network protection, and overall performance. The results were consistently impressive, with only a handful of minor shortcomings.\nFeatures: What do you get with MacPaw Moonlock?\nMoonlock includes malware scanning, real-time protection, a VPN, Network Inspector, Scam Detector, System Protection, and Security Advisor. The suite focuses on practical security tools rather than unnecessary extras.\nWhile it lacks parental controls, password management, and identity monitoring found in some competing suites, every included feature feels purposeful and well implemented.\nMalware Protection\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nCustomizing Moonlock’s Malware Scanner utility.\n\nFoundry\n\n\n\n\nMoonlock’s Malware Scanner is unquestionably the centerpiece of the suite. During initial testing it detected 266 malware components, integrating seamlessly with macOS XProtect and Gatekeeper under macOS Tahoe.\nReal-time protection proved particularly effective. Compressed malware archives were detected successfully, including fake installers for popular applications such as Discord and WhatsApp. External USB drives are automatically scanned after mounting, and users can manually scan any folder or drive using the “Scan an Item…” feature.\nCleanup was excellent overall, although several malware families – including CrateDepression, DigitStealer, FlexibleFerret, Inqtana, and KandyKorn – left behind harmless support files after executable components had been removed.\nFirewall & Network Protection\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nA Network Inspector tool can be used to block incoming traffic from specific countries.\n\nFoundry\n\n\n\n\nRather than functioning as a traditional firewall, Moonlock’s Network Inspector lets users block traffic to and from selected countries. Regions can be filtered using predefined categories including Scam Risks, Sanctioned Countries, and Bot Traffic, making configuration straightforward while offering useful protection for many users.\nWeb & Phishing Protection\nMoonlock’s Scam Detector uses AI to analyze images and up to 20,000 characters of text for phishing attempts and online scams. It produces reliable assessments with relatively few false positives.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nThe Scam Detector tool analyzes phishing text from an email.\n\nFoundry\n\n\n\n\nHowever, the suite does not actively block malicious websites or phishing URLs while browsing, leaving Safari and other browsers dependent upon their own built-in protections.\nExtras (and What’s Missing)\nThe bundled VPN is surprisingly capable. While it lacks advanced administrative features such as activity logs or detailed configuration options, it delivers excellent performance, easy server switching, and includes a Kill Switch.\nSystem Protection and Security Advisor also stand out by educating users rather than simply generating warnings. Helpful guidance, direct links into macOS Settings, and MacPaw’s entertaining “Cybersecuritoons” videos encourage better long-term security habits.\nTest Results: How well does Moonlock protect your Mac?\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nMoonlock’s malware scanner removes dozens of quarantined items\n.\nFoundry\n\n\n\n\nMoonlock successfully detected nearly every malware sample tested, including compressed archives and disguised application installers. Real-time protection reacted quickly and consistently throughout testing.\nReal-World Testing\nTesting consisted of more than 160 active and archived malware samples from the Objective-See security archive.\nThe scanner quarantined executable malware almost immediately while working smoothly alongside macOS’s own XProtect and Gatekeeper protections. Only a handful of non-executable support files remained after cleanup, leaving no functional malware behind.\nExternal storage devices were scanned automatically upon connection, while manual scans of selected folders worked exactly as expected.\nReliability\nMoonlock maintained an excellent balance between protection and usability. False positives were minimal, and security alerts were clear without becoming intrusive or overly aggressive.\nIndependent Lab Results\nAt the time of testing, recent independent AV-Test and AV-Comparatives Mac-specific benchmark results for Moonlock were not available. As a result, this review is based primarily on extensive hands-on testing using live malware samples under macOS Tahoe.\nMethodology\nTesting was performed on macOS Tahoe 26.6 using Moonlock’s complete feature set. More than 160 active and compressed malware samples from the Objective-See malware archive were evaluated alongside phishing detection, VPN performance, network controls, and everyday usability. Performance observations were made throughout normal multitasking to determine whether scanning noticeably impacted system responsiveness.\nPerformance: Will Moonlock slow down your Mac?\nMoonlock proved exceptionally lightweight throughout testing. Full system scans completed quickly without noticeably affecting day-to-day work.\nAnimations remain smooth, interface responsiveness stays high, and background scanning rarely interferes with normal productivity.\nReal-World Behaviour\nEven while scanning hundreds of malware samples, my MacBook Pro remained responsive enough for everyday multitasking. The interface is polished, malware quarantine events are accompanied by satisfying sound effects, and the application’s visual design never comes at the expense of performance.\nKey Metrics\nWhile Moonlock currently doesn’t display scan duration or estimated completion times, overall scan speed was among the fastest observed during testing.\nEase of Use: Is Moonlock Mac-friendly?\nMoonlock installs cleanly, requiring only Full Disk Access and Network Extension permissions before becoming fully operational.\nIts interface feels modern and Mac-native, organizing features into clearly labelled modules without overwhelming users. Security Advisor and System Protection deserve particular praise for translating security recommendations into actionable steps, often linking directly to the appropriate macOS Settings pages instead of forcing users to hunt through menus.\nMoonlock pricing and plans \nMoonlock is competitively priced for individual Mac users and small offices. Subscription plans offer the best long-term value, while perpetual licenses remain available for those who prefer one-time purchases.\n\nMacsOne-Time PurchaseAnnual SubscriptionMonthly\n\n1 Mac$150$54/year ($4.50/month)$13.50/month\n2 Macs$240$84/year ($7/month)\n\n5 Macs$480$168/year ($14/month)\n\n\n\n\n\n\nMoonlock offers strong value thanks to its excellent malware protection, capable VPN, and thoughtful security education features. While it lacks some enterprise capabilities and advanced extras found in larger security suites, its focused approach makes it an appealing alternative for users who simply want dependable Mac protection without unnecessary complexity.\nShould you buy MacPaw Moonlock?\nYes. Moonlock is one of MacPaw’s strongest products to date because it understands exactly what it wants to be: a focused Mac security suite rather than another all-purpose maintenance utility. Malware protection is excellent, the VPN performs surprisingly well, and the educational tools genuinely help users improve their security habits. Requiring payment details before beginning the free trial is unfortunate, and enterprise users may want more advanced management tools, but for home users and small offices Moonlock is an easy recommendation and one of the better Mac security products currently available.",
+    "pub_date": "2026-07-02T15:29:38.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,Services",
+    "id": 1773
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Deals: AirPods 4 nearly 25% off, M5 iPad Pro $350 off,  M4 iPad Air, Apple accessories from $15, more",
+    "link": "https://9to5mac.com/2026/07/02/deals-airpods-4-m5-ipad-pro-m4-ipad-air-airtag-2/",
+    "content": "Alongside the ongoing all-time low on the 4-pack of Apple’s latest AirTag 2, today’s 9to5Toys Lunch Break is headlined by Amazon still offering Apple’s AirPods 4 at nearly 25% off ahead of July 4th and the pre-price hike M5 iPad Pro deals still live at up to $350 off. We also have the most affordable 13-inch M4 iPad Air at $200 off and the rest of the official Apple 4th of July accessory deals from $15 – AirTag 2, Magic Keyboard, Magic Mouse, iPhone cases, Sport Band, and more. Head below for a closer look at those and more.",
+    "pub_date": "2026-07-02T15:26:28.000Z",
+    "creator": "Justin Kahn",
+    "tags": "iOS,Silicon",
+    "id": 1757
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Today in Apple history: Apple admits Antennagate is a thing",
+    "link": "https://www.cultofmac.com/apple-history/antennagate-letter",
+    "content": "On July 2, 2010, Apple opened up about \"Antennagate\" in a letter that addressed iPhone 4 reception problems publicly for the first time.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-02T15:25:10.000Z",
+    "creator": "Luke Dormehl",
+    "tags": "Mac,iOS",
+    "id": 1780
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple TV has five new movies premiering soon, here’s what’s coming",
+    "link": "https://9to5mac.com/2026/07/02/apple-tv-has-five-new-movies-premiering-soon-heres-whats-coming/",
+    "content": "Apple TV has a strong lineup of shows about to debut, kicking off with tonight’s Silo season 3 premiere. But there are five new movies on the Apple TV schedule too, here’s what’s coming.",
+    "pub_date": "2026-07-02T14:47:22.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "General",
+    "id": 1758
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Report reveals iPhone 18 Pro Max’s ‘exact’ battery capacity—and it’s huge",
+    "link": "https://www.macworld.com/article/3183157/report-reveals-iphone-18-pro-maxs-exact-battery-capacity-and-its-huge.html",
+    "content": "Macworld\n\n\nIt may not be regarded as the flagship of the iPhone range as of this fall (that honor will transfer to the folding iPhone Ultra), but this year’s Pro Max model will have at least something to boast about: one of the biggest batteries ever to grace an iPhone. That’s if a new report is accurate, at any rate.\nAccording to a leak on social media this week, the iPhone 18 Pro Max will have a battery capacity of 5,235 mAh on the Nano SIM model and a whopping 5,425 mAh on the eSIM-only version. That’s an increase of 8.5 percent and 6.6 percent, respectively, compared to the 4,823 mAh/5,088 mAh capacities of the iPhone 17 Pro Max models.\nThose are solid year-over-year bumps, though not among the biggest we’ve seen. Last month, we heard that the iPhone 18 Pro will only go up by 1.5 percent and 0.8 percent across the two models, compared to previous annual increases of up to 19 percent.\nBut in absolute terms, compared with phones outside the Apple bubble, these would be impressive figures. In the past, Apple’s phones were often criticized for their relatively small batteries, but 5,425 mAh would stand comparison with most rival offerings. The Samsung Galaxy S26 Ultra, for example, has a capacity of 5,000 mAh.\niPhone battery capacities have been rising steadily for the past few generations. Here’s how the rumored figures compare with the previous five Pro Max models:\niPhone 13 Pro Max: 4,352 mAh\niPhone 14 Pro Max: 4,323 mAh\niPhone 15 Pro Max: 4,441 mAh\niPhone 16 Pro Max: 4,685 mAh\niPhone 17 Pro Max: 4,823 mAh (Nano SIM), 5,088 mAh (eSIM only)\niPhone 18 Pro Max: 5,235 mAh (Nano SIM, claimed), 5,425 mAh (eSIM only, claimed)\nIs this report legitimate?\nThe key question about all this is, as with most iPhone rumors, whether this report can be trusted. That’s debatable. Even tracing its origin is complicated.\nWe first saw it covered by the reputable news site GSMArena, which linked to a since-deleted tweet by a leaker going by the handle @fireuniverse8. However, we’ve found this still-available tweet, which appears to contain largely the same information: Two batteries that seemingly belong to the iPhone 18 Pro Max, labeled with corresponding battery capacities.\nWith us so far? Good.\nWe can’t see the image from the original tweet, which may have named a source in the form of a watermark or similar. But we can still see the accompanying text: “Even iPhone 18 Pro Max battery higher than S26 Ultra,” which matches up with the numbers in a general sense. But that doesn’t give us much to go on, or reason to believe it’s legitimate.\nThe remaining tweet, meanwhile, contains a screenshot of a post on Weibo that appears to come from an entirely different person. Using Google Translate, their account name comes up as “Doge Internet Technology,” and the avatar is different. Is this the original source? Or, as seems more likely, is this a follower of Fire Universe discussing the information disclosed in the previous tweet, and Fire Universe then reposting that?\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\tFireUniverse8\n(If you’re interested, Doge’s commentary reads: “The world has suffered from SIM cards for too long. iPhone 18 Pro Max Battery. Compared to the overseas eSIM version, it has 190 mAh less battery life. What will it use to compensate?”)\nFire Universe isn’t a leaker we’re familiar with, so we don’t have a track record to check. So what that leaves us with is a leaker without much of a reputation posting a rumor without a source, or repeating a rumor from another unfamiliar leaker, then deleting the tweet, but leaving up a tweet where we can still see the numbers. Hopefully that’s all clear.\nUnder normal circumstances, we’d advise extreme skepticism with something like this, but the one point in its favor is the fact that other sources have previously predicted something similar. In February, another Weibo leaker (one who is more familiar to the rumorsphere, Digital Chat Station) claimed the 18 Pro Max would have battery capacities of roughly 5000mAh and 5100-5200mAh, respectively. The latest numbers are more optimistic, but largely align with the original claim.\nOne final note: there’s a reason why I said one of the biggest batteries ever to grace an iPhone. The iPhone Ultra is expected to have a battery capacity of around 5,500mAh, and could go as high as 5,800 mAh. That would be really big and one of the largest ever—the Galaxy Z Fold 7, for example, only uses a 4,400mAh battery, and the latest iPad mini has a 5,078 mAh battery. But that’s why it’s going to be the flagship–and why it could cost as much as $2,500.",
+    "pub_date": "2026-07-02T14:45:18.000Z",
+    "creator": "Macworld",
+    "tags": "iOS,Rumors",
+    "id": 1774
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iOS 27 makes a very strong case for upgrading to a new iPhone",
+    "link": "https://9to5mac.com/2026/07/02/ios-27-makes-a-very-strong-case-for-upgrading-to-a-new-iphone/",
+    "content": "Most years, major iOS updates offer the same basic feature set on new iPhones and old ones. But with iOS 27 things are different, and anyone with an iPhone 15 or older will miss out on a lot of new features. Here’s why iOS 27 makes a strong case for considering an iPhone upgrade.",
+    "pub_date": "2026-07-02T14:12:01.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 1759
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Malware found spreading through sponsored ad on X",
+    "link": "https://9to5mac.com/2026/07/02/malware-found-spreading-through-sponsored-ads-on-x/",
+    "content": "Jamf Threat Labs, the company’s security research arm, recently shared details of a ClickFix-style attack it spotted running as a sponsored ad on the social media site X. Originating from a well-known verified account, it promoted a malicious domain under the guise of a popular Mac app.",
+    "pub_date": "2026-07-02T14:08:08.000Z",
+    "creator": "Arin Waichulis",
+    "tags": "Mac,App Store",
+    "id": 1760
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "AirTag 2 Still Available for Best-Ever Price of $89 for 4-Pack",
+    "link": "https://www.macrumors.com/2026/07/02/airtag-2-still-available-89/",
+    "content": "Apple's AirTag 2 is still available for the all-time low price of $89.00 this week, down from $99.00. This sale is on the 4-Pack of the AirTag 2, and it's one of the very few Prime Day deals that's stuck around since the event ended last week.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\nThe new AirTag is equipped with a second-generation Ultra Wideband chip, enabling the Precision Finding feature to work up to 50% farther away from an item compared to the previous-generation model. You'll also find a small discount on the 1-Pack right now on Amazon.\r\n\r\n\n$2 OFF\nAirTag 2 (1-Pack) for $27.00\n\n\r\n\n$10 OFF\nAirTag 2 (4-Pack) for $89.00\n\n\r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"AirTag 2 Still Available for Best-Ever Price of $89 for 4-Pack\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-02T13:54:17.000Z",
+    "creator": "Mitchel Broussard",
+    "tags": "General",
+    "id": 1750
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "New Mac infostealer confirms stolen passwords before stealing data",
+    "link": "https://appleinsider.com/articles/26/07/02/new-mac-infostealer-confirms-stolen-passwords-before-stealing-data?utm_source=rss",
+    "content": "A newly discovered macOS infostealer verifies Mac login passwords before stealing sensitive data, giving attackers immediate confirmation that compromised credentials will actually work.\n\nPamStealer\nResearchers at Jamf Threat Labs have documented a new macOS malware campaign built around an infostealer called PamStealer. PamStealer disguises itself as the Maccy clipboard manager and uses AppleScript alongside a Rust payload to infect Macs.\nJamf found that PamStealer verifies login passwords through Apple's Pluggable Authentication Modules before stealing additional data. Password verification sets PamStealer apart from most macOS infostealers, which typically capture whatever password a victim enters without confirming that it's valid.\nThe campaign begins with a fake website that closely imitates the legitimate Maccy clipboard manager. Next, the fake website delivers a malicious AppleScript application disguised as Maccy.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-02T13:02:07.000Z",
+    "creator": "Andrew Orr <andreworr@appleinsider.com>",
+    "tags": "Mac",
+    "id": 1764
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "If you think faster than you type, try this $50 Mac dictation app",
+    "link": "https://www.cultofmac.com/deals/voibe-mac-dictation-app",
+    "content": "You can talk instead of typing -- faster, offline and privately -- in any app on your Mac with the Voibe dictation app.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-02T12:55:24.000Z",
+    "creator": "Cult of Mac Deals",
+    "tags": "Mac,App Store",
+    "id": 1781
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Opera Browser Gains Protection Against Malicious Clipboard Commands",
+    "link": "https://www.macrumors.com/2026/07/02/opera-browser-clipboard-command-protection/",
+    "content": "Opera browser has announced a new security feature called Paste Protect that aims to stop clipboard-based cyberattacks before their malicious commands can be accidentally executed.\r\n\r\n\r\nOpera says it's the first major browser to offer native protection against ClickFix attacks – a growing form of social engineering that tricks users into copying and pasting malicious commands into a computer's terminal. The new feature is built into Opera's desktop browsers and enabled by default. \r\n\r\nClickFix attacks typically masquerade as routine troubleshooting prompts, such as fake CAPTCHA verification or video playback fixes. Once pasted and executed, the commands can install malware, steal passwords, or give attackers remote access to a device. Opera describes the browsing risk as follows:\r\nA ClickFix-style attack usually starts with something small and ordinary: a video that won't play, or a CAPTCHA that won't quite verify you're human. A pop-up offers a fix, telling you to copy a short command and paste it into your computer's terminal. It looks like routine troubleshooting. In reality, that command can install malware, steal saved passwords, or hand an attacker remote access to your machine, all carried out by the user's own hands, on their own device.\nOpera features an existing clipboard hijack protection feature that prevents external applications from silently replacing copied content such as cryptocurrency wallet addresses. Paste Protect combines this with a new injection protection system that monitors clipboard activity for suspicious commands copied from websites and blocks potentially malicious content before it reaches the clipboard. \r\n\r\nUsers can see the first 120 characters of the blocked content, and developers working with trusted sources can override the block or mark specific sites as safe.\r\n\r\nHuntress that said ClickFix accounted for more than 53 percent of malware-loading cyberattacks last year, indicating the rapid growth of the technique. \r\n\r\nintroduced a related safeguard for the Mac with the release of macOS Tahoe 26.4 earlier this year. Following the update, the operating system explicitly warns the user before they paste potentially dangerous commands into the Terminal app. \r\n\r\ncompany's website.\nTag: Opera Browser\nThis article, \"Opera Browser Gains Protection Against Malicious Clipboard Commands\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-02T12:40:52.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "Mac,App Store",
+    "id": 1751
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Why next-gen iPad Pro could skip Apple’s M6 chip, go straight to M7",
+    "link": "https://www.cultofmac.com/news/m7-ipad-pro-rumors-m6-release-d",
+    "content": "Speculation points to the next iPad Pro refresh sporting an M7 processor. Will it bypass the M6 to deliver Apple's fastest chips yet?\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-02T12:30:51.000Z",
+    "creator": "Ed Hardy",
+    "tags": "Mac,iOS,Silicon",
+    "id": 1782
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Bitdefender Antivirus for Mac review: Excellent protection held back by frustrating flaws",
+    "link": "https://www.macworld.com/article/234655/bitdefender-antivirus-for-mac-review.html",
+    "content": "Macworld\n\n\nAt a Glance\nExpert's Rating\n\n\n\nPros\nExcellent malware detection\nFast scan performance\nVery low system impact\nEffective ransomware protection\nGenerous 30-day free trial\nCons\nInConsistent phishing protection\nChat Protection needs improvement\nNo scheduled scans\nLog export unavailable\nVPN requires separate subscription\nOur Verdict \nBitdefender Antivirus for Mac remains one of the stronger security suites available for macOS, combining excellent malware detection, fast scan performance, and minimal system impact in an easy-to-use package. Standout features such as Safe Files ransomware protection and the integrated VPN add genuine value, while newer additions like Chat Protection and Web Protection still need refinement. Although the lack of scheduled scans and log exporting may frustrate advanced users and IT administrators, Bitdefender continues to offer outstanding protection at a competitive price.\nPrice When Reviewed\nThis value will show the geolocated pricing text for product undefined\nBest Pricing Today\n\n\nPrice When Reviewed\n$24.99 per year for 1 device (usually $49.99), $29.99 per year for 3 devices (usually $69.99)\nRetailer\n\t\t\t\t\nPrice\n\t\t\t\t\nBitdefender (first year, 1 device)\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n$24.99\t\t\t\t\t\t\nView Deal\t\t\t\t\t\t\nProduct\n\t\t\t\t\nPrice\n\t\t\t\t\n\n1 year, 3 devices$29.99 (usually $69.99)\n1 year, 1 device$24.99 (usually $49.99)\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\nWho it’s best for: Mac users who want strong, lightweight antivirus protection with excellent malware detection and minimal performance impact.\nWho it’s not for: Users who require advanced administrative features, scheduled scanning, or a fully featured VPN without paying for an additional subscription.\nAt a glance\nProtection: ★★★★☆\nPerformance: ★★★★★\nFeatures: ★★★★☆\nEase of use: ★★★★☆\nValue: ★★★★☆\nBitdefender Antivirus for Mac is one of the best-known cross-platform security suites available for Mac users. Rather than attempting to reinvent antivirus software, the latest version focuses on refining its already impressive protection while introducing AI-powered additions such as Chat Protection.\nFor this review, Bitdefender Antivirus for Mac version 10.3.2.2 was tested under macOS Tahoe 26.5.1 using more than 150 malware samples alongside phishing, browser security, and ransomware testing. While the core antivirus engine remains excellent, several newer features still need polish before matching the quality of Bitdefender’s traditional protection.\nFeatures: What do you get with Bitdefender?\nBitdefender bundles together antivirus protection, ransomware defence, browser security, Safe Files, VPN functionality, and the new AI-powered Chat Protection module. Installation remains straightforward, requiring Full Disk Access and network extension permissions before becoming operational.\nThe package focuses on protection first, while several premium features – including unlimited VPN usage – remain optional paid upgrades.\nMalware Protection\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nBitdefender’s Protection tab provides access to its security features\n.\nFoundry\n\n\n\n\nReal-time protection remains Bitdefender’s greatest strength. Both Quick Scan and System Scan completed impressively quickly while detecting over 95% of more than 150 malware samples during testing. Compressed archives are scanned automatically, and detected threats are quarantined without interrupting normal workflow.\nLike several competitors, Bitdefender occasionally relied on macOS XProtect and Gatekeeper to finish blocking certain developer files associated with malware. Fake versions of Transmission, WhatsApp and Discord installers were allowed onto the system before macOS ultimately prevented execution. Several developer scripts—including Flasfa.py, GetShell.sh, Invisibleferret.py, PokerStealer.sh and others—were also permitted to launch before Apple’s own protections intervened.\nWhile these cases were limited, users would benefit from clearer notifications explaining exactly when Bitdefender has blocked a threat.\nFirewall & Network Protection\nBitdefender does not include a traditional configurable firewall for macOS, instead relying on Apple’s built-in firewall while expanding network protection through its VPN service.\nThe VPN supports WireGuard, OpenVPN UDP and OpenVPN TCP alongside automatic protocol selection, automatic activation on unsecured Wi-Fi, an Internet Kill Switch, and automatic VPN activation when peer-to-peer applications launch.\nAlthough not as comprehensive as dedicated VPN products, it’s one of the better bundled VPN implementations available.\nWeb & Phishing Protection\nWeb Protection is inconsistent.\nTrafficLight installs easily across Safari, Firefox and Chrome, but browser performance varies considerably.\nSafari performed poorly during testing, allowing nearly every phishing and scam link contained within Gmail’s Spam folder. Firefox blocked some phishing attempts but still permitted access to questionable clone websites. Chrome delivered the strongest overall performance but continued to miss several phishing pages.\nThe browser support is welcome, but detection consistency still trails the quality of Bitdefender’s malware engine.\nExtras (and What’s Missing)\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nCustomizing protected folders with Bitdefender’s “Safe Files” feature\n.\nFoundry\n\n\n\n\nSafe Files remains one of Bitdefender’s standout features.\nDesktop, Documents, Downloads and Pictures folders receive ransomware protection by default, while additional folders can easily be added. Blacklists and whitelists provide fine-grained control over which applications may modify protected content.\nThe new AI-powered Chat Protection successfully identifies obvious scams but currently struggles with more sophisticated social engineering attempts.\nMissing features remain equally noticeable. Scheduled scans are unavailable, VPN functionality requires a separate subscription for unlimited access, and log exporting remains absent.\nTest Results: How well does Bitdefender protect your Mac?\nBitdefender delivered excellent malware detection throughout testing, successfully identifying more than 95% of malware samples while maintaining extremely fast scanning performance.\nReal-World Testing\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nA Bitdefender quick scan in progress\n.\nFoundry\n\n\n\n\nTesting consisted of more than 150 malware samples sourced from the Objective-See malware archive.\nQuick Scan completed in just 4 minutes 29 seconds, while a complete System Scan covering over 800GB of data finished in 47 minutes 8 seconds.\nBitdefender detected malware during scanning, quarantining threats automatically while working alongside macOS XProtect and Gatekeeper to eliminate active components.\nDeveloper scripts represented the primary weakness, with several samples launching before Apple’s own protections completed the blocking process.\nWeb Protection proved considerably less reliable, with browser performance varying significantly between Safari, Firefox and Chrome.\nReliability\nBitdefender proved stable throughout testing and never crashed under macOS Tahoe 26.5.1.\nFalse positives remained minimal, although notification behaviour could be improved by more clearly informing users whenever malware has been actively blocked.\nIndependent Lab Results\nBitdefender consistently performs well in independent testing from organisations including AV-Test and AV-Comparatives, regularly earning top marks for malware detection while maintaining low false positive rates. Our hands-on testing closely reflected those results, particularly regarding malware detection speed and overall performance.\nBitdefender got full marks in the March 2026 AV-Test results:\nProtection: 6/6\nPerformance: 6/6\nUsability: 6/6\nTotal: 18/18\nThe latest AV-Comparatives Mac Security Test (published 17 June 2026) also certified Bitdefender after testing it on macOS Tahoe. It achieved 100% malware detection and received AV-Comparatives’ Approved Security Product certification.\nMethodology\nOur testing was performed using macOS Tahoe 26.5.1 on a Mac equipped with a 1TB SSD containing more than 800GB of data.\nEvaluation combined real-world malware testing using more than 150 Objective-See malware samples alongside phishing testing, ransomware protection evaluation, browser security testing, application stability, performance measurements, and overall usability.\nPerformance: Will Bitdefender slow down your Mac?\nPerformance remains one of Bitdefender’s biggest strengths.\nDespite scanning a drive containing over 800GB of data, both Quick Scan and System Scan completed rapidly while having very little impact on normal system responsiveness.\nReal-World Behaviour\nBackground protection remained largely invisible throughout testing.\nApplications launched normally, multitasking performance stayed responsive, and no crashes occurred. Both installation and uninstallation completed without issue.\nEase of Use: Is Bitdefender Mac-friendly?\nInstallation remains straightforward, with Bitdefender requesting only the permissions necessary for operation before becoming fully functional.\nThe interface is clean, modern, and easy to navigate without feeling like a Windows application transplanted onto macOS. Individual security modules are clearly organised, Safe Files is especially easy to configure, and notifications remain relatively unobtrusive.\nDocumentation is comprehensive, although the support experience would benefit from integrated tutorial videos alongside the existing manuals.\nBitdefender pricing and plans\nBitdefender remains competitively priced, particularly during promotional periods, although unlimited VPN access requires an additional subscription.\n\nDevicesOne-YearTwo-YearThree-Year\n\n1 Device$24.99 (normally $49.99)$69.99 $89.99\n3 Devices$24.99 (normally $69.99)$89.99$119.99\n\n\n\n\n\nThe 30-day trial remains one of Bitdefender’s biggest advantages, requiring only an email address and no payment details.\nThe core antivirus protection easily justifies the asking price, although the additional VPN subscription slightly reduces the overall value proposition compared to suites that bundle unlimited VPN access.\nShould you buy Bitdefender Antivirus for Mac?\nYes – provided your priorities are excellent malware protection and outstanding performance.\nBitdefender Antivirus for Mac continues to deliver some of the strongest malware detection available for macOS while remaining lightweight enough to leave running continuously. Although Web Protection and the new Chat Protection feature still need refinement, the core antivirus engine remains exceptionally strong. Users looking for scheduled scans, enterprise logging features, or unlimited VPN access may find better value elsewhere, but for most Mac owners Bitdefender remains one of the safest recommendations in the consumer antivirus market.",
+    "pub_date": "2026-07-02T12:21:42.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,App Store,Services",
+    "id": 1775
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "MacBook Pro models sharing the MacBook Ultra redesign is, and isn’t, surprising",
+    "link": "https://9to5mac.com/2026/07/02/macbook-pro-models-sharing-the-macbook-ultra-redesign-is-and-isnt-surprising/",
+    "content": "We’ve been hearing for a long time now that a new high-end MacBook Ultra model with a touchscreen will get a significant redesign with a slimmer form factor. The new design appeared to be one of the things that would differentiate the high-end model from the MacBook Pro.\nHowever, a report yesterday said that an entry-level MacBook Pro set for release early next year will have a new design in line with that of the Ultra …",
+    "pub_date": "2026-07-02T12:16:51.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "Mac",
+    "id": 1761
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Gorgeous shots winning 2026 iPhone Photography Awards show old models still cut it",
+    "link": "https://appleinsider.com/articles/26/07/02/gorgeous-shots-winning-2026-iphone-photography-awards-show-old-models-still-cut-it?utm_source=rss",
+    "content": "The winners of the 2026 iPhone Photography Awards have been announced, with many of them taken using older iPhones, including an iPhone 8 Plus.\n\n\nThe iPhone Photography Awards winners are in\nThe 2026 IPPA winners were announced after entries from more than 140 countries were submitted. Four overall winners were announced, ranging from Grand Prix to Bronze.\nCategory winners, runners-up, and honorable mentions were also shared, giving us a wider look at the quality of images that were submitted this year.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-02T12:14:54.000Z",
+    "creator": "Oliver Haslam <oliver@monkeymanmedia.com>",
+    "tags": "iOS",
+    "id": 1765
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Amazon forgot to raise M4 iPad Air prices–grab one for $200 off right now",
+    "link": "https://www.macworld.com/article/3183025/amazon-forgot-to-raise-m4-ipad-air-prices-grab-one-for-200-off-right-now.html",
+    "content": "Macworld\n\n\nApple iPad Air M4\nView Deal\nApple raised iPad Air prices by $150 last week, but over at Amazon you can still get one for even less than the old price. You can grab Apple’s 11-inch M4 iPad Air for $559 or the 13-inch M4 iPad Air for just $749 right now. That’s not quite as low as Prime Day’s $80-$100 savings, but that was before Apple raised prices. So, now you’re saving $200 off the new MSRP and $40-$50 off the older price.\nThis is a powerful tablet that you’ll get to take with you everywhere. The M4 chip delivers advanced graphics and a snappy performance that’s fantastic for multitasking. Whether you’re bouncing between apps or editing photos, this tablet will perform just fine. The chip also supports Apple Intelligence, so you’ll have tons of fun with those features too, including the new Siri Ai coming this fall with iPad OS 27.\nThe tablet comes with 128GB of storage space, which isn’t a ton, but it’s a decent amount of room for apps, games, and whatever else you need to store on there. The display is as gorgeous as ever, as the 11-inch or 13-inch Liquid Retina screen delivers vivid colors, great contrast, and super low reflectivity. Pair that with the excellent all-day battery, and you have a device you can use for work, doomscrolling, gaming, and whatever else you feel like around the block.\nIf you want to take things further and make this into a true productivity tool, you’ll need to pay a bit extra for an Apple Pencil Pro and the Magic Keyboard, both of which are sold separately.\nThe bottom line is that you can save $200 on an Apple iPad Air with a speedy M4 chip, and that’s a smart choice.",
+    "pub_date": "2026-07-02T12:08:51.000Z",
+    "creator": "Macworld",
+    "tags": "iOS,Silicon,Services",
+    "id": 1776
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Most Americans would ban social media for under-16s, with parents the most vocal",
+    "link": "https://9to5mac.com/2026/07/02/most-americans-would-ban-social-media-for-under-16s-with-parents-the-most-vocal/",
+    "content": "A large-scale survey has shown that most Americans would support a ban social media use by children under the age of 16. \nThe biggest supporters of the proposal were parents with kids under 18 years old, where almost two-thirds were in favor …",
+    "pub_date": "2026-07-02T11:40:10.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "General",
+    "id": 1762
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Confident Apple increases its iPhone Fold orders to 10 million",
+    "link": "https://appleinsider.com/articles/26/07/02/confident-apple-increases-its-iphone-fold-orders-to-10-million?utm_source=rss",
+    "content": "A new report claims that Apple expects to sell 10 million of the iPhone Fold in 2026 and into early 2027, considerably up from most previous estimates.\n\n\nMockup of a possible iPhone Fold design - image credit: AppleInsider\nNothing varies quite like the rumors that the iPhone Fold is or is not going to be launched in September, but the number Apple will make comes close. In April 2026, for example, Nikkei Asia and most other analysts believed that Apple was ordering 7 million to 8 million for the year.\nAt the same time leaker Digital Chat Station claimed it was 11 million.\n\n Rumor Score: 🤔 Possible \n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-02T11:33:49.000Z",
+    "creator": "William Gallagher <wg@williamgallagher.com>",
+    "tags": "iOS,Rumors",
+    "id": 1766
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iPhone Photography Awards Highlight Best Images of 2026",
+    "link": "https://www.macrumors.com/2026/07/02/iphone-photography-awards-winners-revealed-2026/",
+    "content": "For the last 19 years, the iPhone Photography Awards (IPPA) has selected the best photographs captured with an iPhone, and the 2026 award winners were announced today. \r\n\r\n\r\nThe IPPA 2026 Grand Prize image features a volcano dramatically erupting in the Cayman Islands, with the photo shot by Robyn Jensen on an iPhone 15 Pro.\r\n\r\n\r\nThe Gold Prize image by Gellért Gombai features two children napping on grass in the shadow of a badminton racket, with the photo shot in black and white using an iPhone X. There are also Silver and Bronze prize winners taken on iPhone 16 Pro and iPhone 16 Pro Max models, respectively.\r\n\r\n\r\nThere are other winners across a number of categories, including abstract, animals, architecture, children, cityscape, landscape, lifestyle, nature, people, portrait, series, still life, travel, and other. All of the winning images can be viewed on the IPPA website.\r\n\r\nThis article, \"iPhone Photography Awards Highlight Best Images of 2026\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-02T11:30:56.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "iOS",
+    "id": 1752
+  },
+  {
+    "source_name": "MacRumors",
     "title": "Popular Show Tracking App TV Time Shutting Down on July 15",
     "link": "https://www.macrumors.com/2026/07/02/show-tracking-app-tv-time-shutting-down/",
     "content": "TV Time, the popular show and movie tracking app, is shutting down on July 15, with all personal user data set to be deleted after that date.\r\n\r\n\r\nIn a support page update announcing the news, the company admitted that it was \"no longer sustainable to continue operating the service as a free app,\" and said that there was \"not enough demand for a paid app.\"\r\n\r\nCome the shutdown date, the TV Time app will be removed from both the App Store and Google Play, and the tvtime.com website will go offline permanently.\r\n\r\nGDPR self-service tool before the July 15 cutoff. The company says all personal user data will be deleted after that date, but it may retain aggregated, non-personal data for business or legal purposes.\r\n\r\nResetera forums have suggested alternatives like Trakt, Serializd, and Simkl – although the latter's servers have reportedly struggled under a sudden wave of new sign-ups.\nThis article, \"Popular Show Tracking App TV Time Shutting Down on July 15\" first appeared on MacRumors.com\nDiscuss this article in our forums",
@@ -8,6 +298,16 @@
     "creator": "Tim Hardwick",
     "tags": "App Store",
     "id": 1733
+  },
+  {
+    "source_name": "Macworld",
+    "title": "macOS 27 Golden Gate marks the end of built-in DVD support",
+    "link": "https://www.macworld.com/article/3182344/macos-27-golden-gate-marks-the-end-of-built-in-dvd-support.html",
+    "content": "Macworld\n\n\nIf you’re still using DVD media on a Mac with the most current operating system, you’ll need to make arrangements soon to continue using those discs. As noted in the macOS 27 Golden Gate beta 2 release notes, the DVDPlayback framework is not in the macOS 27 Golden Gate SDK, which means that apps can no longer use it. The notes go on to say that “in a future macOS release,” Apple will remove the framework completely.\nThat leaves the door open for the built-in DVD Player app to be included in macOS 27 Golden Gate when it is officially released this fall. This also likely means that Golden Gate will be the last version of macOS to include a native DVD app. Users will eventually have to turn to a third-party app, such as VLC.\nThe DVDPlayback framework is quite old and Apple has not updated it in years. The neglect shows–DVD Player produces playback that is jerky and of low image quality. I’ve had much better results using VLC. Apple doesn’t even make the DVD Player app easily findable; it’s located in the /System/Library/CoreServices/Applications folder, not in the regular Applications folder. The DVD Player app automatically launches if you insert a DVD into a connected DVD drive.",
+    "pub_date": "2026-07-02T11:00:00.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,App Store",
+    "id": 1777
   },
   {
     "source_name": "9to5Mac",
@@ -530,6 +830,16 @@
     "id": 1723
   },
   {
+    "source_name": "MacRumors",
+    "title": "Apple to Release These 16 New Products Later This Year",
+    "link": "https://www.macrumors.com/2026/07/02/apple-to-release-these-16-products-this-year/",
+    "content": "Apple's annual WWDC developers conference is in the rearview mirror, but there is still a lot to look forward to in the second half of the year.\r\n\r\n\r\nNow that the more intelligent and personal version of Siri has finally arrived in beta, a full two years after Apple first previewed it at WWDC 2024, we should begin to see some new devices that were reportedly postponed until the new Siri was ready. \r\n\r\nBeyond the usual annual updates to iPhones and Apple Watches in September, Apple's all-new smart home hub is expected to debut later this year. We are also expecting a foldable iPhone Ultra and long-awaited updates to the Apple TV, HomePod, and HomePod mini. And a redesigned MacBook Ultra with an OLED display is expected by early 2027.\r\n\r\nJuly Update: Bloomberg's Mark Gurman this week reported that Apple has planned to update the 14-inch MacBook Pro base model with an M6 chip later this year, and that means the company is now rumored to have at least 16 new products in the pipeline for the rest of 2026. Our list of rumored new products has been updated accordingly.\r\n\r\nHere is what to expect from Apple later this year, according to rumors.\r\n\r\niPhones\n\r\n\niPhone 18 Pro: A20 Pro chip, a smaller Dynamic Island, a simplified Camera Control button, a Dark Cherry color option, variable aperture for at least one rear camera, Apple's C2 modem with support for 5G web browsing via satellite, and more.\n\r\niPhone 18 Pro Max: The same features rumored for the iPhone 18 Pro, but the Pro Max model may or may not be slightly thicker.\n\r\niPhone Ultra: A foldable iPhone Ultra with a 7.7-inch inner display and 5.3-inch outer display, two rear cameras, one front camera, a Touch ID power button instead of Face ID, and more. iOS 27 is expected to be tailored for the foldable iPhone, allowing for side-by-side apps and other iPad-like multitasking functionality.\n\nApple Watches\n\nApple Watch Series 12: A faster S11 chip or newer, plus design changes such as Touch ID and/or more health sensors (disputed).\n\r\nApple Watch Ultra 4: A faster S11 chip or newer, plus design changes  such as Touch ID and/or more health sensors (disputed). There may also be additional satellite features for the Apple Watch Ultra 3 and newer, such as Apple Maps via satellite and the ability to send and receive photos with Messages via satellite.\n\niPads\n\niPad 12: A16 chip → A18 chip or A19 chip with Apple Intelligence support.\n\r\niPad mini: A17 Pro chip → A19 Pro or A20 Pro chip, an OLED display, a vibration-based speaker system, and a water-resistant design.\n\r\n\nMacs\n\r\n\nMac Studio: M4 Max and M3 Ultra chips → M5 Max and M5 Ultra chips.\n\r\nMac mini: M4 and M4 Pro chips → M5 and M5 Pro chips.\n\r\niMac: M4 chip → M5 chip, plus new color options.\n\r\nMacBook Pro: A new 14-inch MacBook Pro base model with an M6 chip.\n \r\nMacBook Ultra: A major MacBook Pro redesign in late 2026 or early 2027, with M5 Pro and M5 Max chips, an OLED display, a touch screen, a Dynamic Island, and a thinner design. On this laptop, which will reportedly be named MacBook Ultra, macOS 27 is expected to offer a touch-friendly interface.\n\nHome\n\r\n\nApple TV: A17 Pro chip with support for the more personalized Siri, and Apple's N1 chip with Wi-Fi 7 support. A built-in FaceTime camera has been rumored for a future Apple TV, but it is unclear if that will arrive with the next model.\n\r\nHomePod mini: S9 chip or newer with support for the more personalized Siri, Apple's N1 chip with Wi-Fi 7 support, improved sound quality, a second-generation Ultra Wideband chip, and potentially new color options like red.\n\r\nHomePod: A new full-sized HomePod that supports the revamped Siri.\n\r\nHome Hub: An all-new smart home hub featuring the more personalized version of Siri, a 6-inch to 7-inch square display, an A18 chip for Apple Intelligence, FaceTime, and more. Place it on a table or mount it on a wall.\n\nThis article, \"Apple to Release These 16 New Products Later This Year\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-01T15:30:37.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "Mac,iOS,Silicon",
+    "id": 1753
+  },
+  {
     "source_name": "9to5Mac",
     "title": "Deals: AirTag 2, M4 iPad Air $350 off, Magic Keyboard from $80, Satechi Mac mini and iPhone gear, more",
     "link": "https://9to5mac.com/2026/07/01/deals-airtag-2-m4-ipad-air-magic-keyboard-satechi/",
@@ -711,7 +1021,7 @@
   },
   {
     "source_name": "Cult of Mac",
-    "title": "Forget the price hike, save 21% with M5 iPad Pro deal",
+    "title": "Forget the price hike, save 20% with M5 iPad Pro deal [UPDATED]",
     "link": "https://www.cultofmac.com/deals/ipad-pro-deal",
     "content": "Right now, a hot M5 iPad Pro deal gets you up to $300 off the best Apple tablet. That's real savings on a powerful computer for work or home.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
     "pub_date": "2026-07-01T12:45:17.000Z",
@@ -2688,315 +2998,5 @@
     "creator": "Malcolm Owen <malcolm@appleinsider.com>",
     "tags": "iOS,Services",
     "id": 1448
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple Prime Day deals are still live, save up to $650 on Mac, iPad, AirPods",
-    "link": "https://appleinsider.com/articles/26/06/27/apple-prime-day-deals-are-still-live-save-up-to-650-on-mac-ipad-airpods?utm_source=rss",
-    "content": "Prime Day 2026 may be over, but you can save up to $650 across Apple's Mac, iPad, AirPods, and AirTag lines.\n\n\nSave up to $650 on Apple products at Amazon - Image credit: Apple\nPrime Day 2026 may be over, but aggressive deals still remain in effect across Apple hardware, especially considering Apple raised prices on Macs and iPads on Thursday. Save up to $650 on Apple devices during the weekend sale.\nShop Apple deals on Amazon\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-27T14:43:09.000Z",
-    "creator": "Christine McKee <christine@appleinsider.com>",
-    "tags": "Mac,iOS",
-    "id": 1433
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Today in Apple history: Terrible quarter marks the end for Apple CEO Gil Amelio",
-    "link": "https://www.cultofmac.com/apple-history/gil-amelio-resigns",
-    "content": "On June 27, 1997, the last day of another disappointing quarter brought an end to CEO Gil Amelio’s 500 days running Apple\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-06-27T14:00:48.000Z",
-    "creator": "Luke Dormehl",
-    "tags": "Mac",
-    "id": 1439
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Amazon extends $279 Apple Watch Series 11, $649 Ultra 3 Prime Day deals",
-    "link": "https://appleinsider.com/articles/26/06/27/amazon-extends-279-apple-watch-series-11-649-ultra-3-prime-day-deals?utm_source=rss",
-    "content": "Amazon's Prime Day Apple Watch deals have been extended into the weekend, with the Series 11 discounted by $120 and the Ultra 3 slashed by $150.\n\n\nSeveral Apple Watch Prime Day deals have been extended - Image credit: Apple\nAmazon's Prime Day Apple Watch sale delivered the year's lowest prices on several Series 11 and Ultra 3 models. And while Prime Day wrapped up on Friday, multiple offers have been extended into the weekend, including the Series 11 for $279 ($120 off) and the Ultra 3 for $649 ($150 off).\n Buy Apple Watch S11 from $279\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-27T13:26:10.000Z",
-    "creator": "Christine McKee <christine@appleinsider.com>",
-    "tags": "iOS",
-    "id": 1434
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "PSA: Amazon is starting to raise prices on Apple gear; here’s your last call to save",
-    "link": "https://9to5mac.com/2026/06/27/psa-apples-price-increases-arent-yet-in-effect-on-amazon-act-quick/",
-    "content": "Apple just implemented major price increases for a ton of Mac and iPad models this week. For example, the MacBook Neo just got $100 more expensive, while the MacBook Pro jumped a whopping $300. MacBook Air is also now $200 more expensive.\nSome of these price increases aren’t yet reflected on Amazon — and some are still discounted for Prime Day — but that’s starting to change. Here’s how you can still save.",
-    "pub_date": "2026-06-27T13:17:48.000Z",
-    "creator": "Chance Miller",
-    "tags": "Mac,iOS",
-    "id": 1426
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Still using an Intel Mac? Here are 6 reasons it’s time to upgrade.",
-    "link": "https://www.cultofmac.com/news/intel-mac-time-to-upgrade-to-apple-silicon-m-series",
-    "content": "If you’ve been holding on to an Intel Mac, new features in macOS Golden Gate make the case for upgrading a whole lot stronger.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-06-27T13:00:01.000Z",
-    "creator": "Rajesh Pandey",
-    "tags": "Mac",
-    "id": 1440
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple wants to buy RAM from Chinese supplier blacklisted in the US",
-    "link": "https://appleinsider.com/articles/26/06/27/apple-asks-trump-to-let-it-buy-memory-from-a-blacklisted-supplier?utm_source=rss",
-    "content": "Apple has petitioned the Trump administration to allow it to buy Mac RAM chips from a blacklisted Chinese supplier, to ease the price pressure caused by the global memory crisis.\n\n\nA Samsung LPDDR5X memory chip - Image Credit: Samsung\nThe tech industry is continuing to struggle with keeping the cost of manufacturing low due to the ongoing demand for memory chips. While Apple is also affected and now passing down the costs to consumers, it's still trying to find ways around the problem.\nAccording to six people speaking to the Financial Times, Apple has reached out to the Trump administration. It wants permission to buy memory chips from the Chinese memory supplier CXMT.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-27T12:59:45.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "Mac",
-    "id": 1435
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Amazon's $1,149 1TB MacBook Air M5 deal has been extended, save $450",
-    "link": "https://appleinsider.com/articles/26/06/27/amazons-1149-1tb-macbook-air-m5-deal-has-been-extended-save-450?utm_source=rss",
-    "content": "Two of Amazon's top Prime Day MacBook Air deals have been extended, resulting in discounts of up to $450 off.\n\n\nSave $450 on 1TB MacBook Air 13-inch while supplies last - Image credit; Apple\nAfter many M5 MacBook Air deals sold out during Prime Day, two of the top choices at Amazon have been extended into the weekend. Save $450 on the 13-inch MacBook Air M5 with 16GB of RAM and 1TB of storage.\nOn sale for $1,149.99, only select colors are available at press time due to the increased demand after Apple raised prices on Thursday.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-27T12:33:12.000Z",
-    "creator": "Christine McKee <christine@appleinsider.com>",
-    "tags": "Mac,Silicon",
-    "id": 1436
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple @ Work: Deploying a new PC made me appreciate everything Apple built into macOS",
-    "link": "https://9to5mac.com/2026/06/27/apple-work-deploying-a-new-pc-made-me-appreciate-everything-apple-built-into-macos/",
-    "content": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\nEvery now and then, I have to step outside my usual ecosystem to deploy a Windows PC for a specific role/task. I recently had to set up a new Dell laptop, and the entire experience was a harsh reminder of how good we have it in the Apple IT world. Deploying this new PC made me appreciate everything Apple has built into macOS and the entire setup process from beginning to end.",
-    "pub_date": "2026-06-27T11:08:34.000Z",
-    "creator": "Bradley C",
-    "tags": "Mac",
-    "id": 1427
-  },
-  {
-    "source_name": "Macworld",
-    "title": "This Deal Days Babbel offer may be the smartest travel purchase you make",
-    "link": "https://www.macworld.com/article/3173971/this-deal-days-babbel-offer-may-be-the-smartest-travel-purchase-you-make.html",
-    "content": "Macworld\n\n\nTL;DR: Learn 14 languages for life: Grab a Babbel Lifetime Subscription for $134.99 (reg. $299) with the StackSocial code LEARN through June 28.\nIf your vacation plans include more than pointing at menu items and hoping for the best, this exclusive Babbel offer is worth a look.\nAs part of our Deal Days sale running through June 28—our answer to Prime Day—you can get a Babbel Language Learning Lifetime Subscription for just $134.99 (reg. $299) with the StackSocial code LEARN. The offer is available to new users in the United States.\nBabbel isn’t about memorizing random phrases you’ll never use. The platform was built by more than 100 expert linguists and focuses on practical conversations you’ll actually have while traveling, working, dining out, shopping, or navigating a new city.\nIn fact, many learners can begin holding basic conversations within as little as a month. Imagine confidently ordering dinner in Rome, asking for directions in Paris, or chatting with locals in Barcelona without immediately reaching for a translation app.\nThe lifetime subscription includes access to all 14 available languages, including Spanish, French, Italian, German, Portuguese, Dutch, Swedish, and English.\nLessons take just 10 to 15 minutes, making them easy to fit into a lunch break, commute, or evening routine. You’ll also get speech recognition technology to help improve pronunciation, personalized review sessions, an AI Conversation Partner.\nWhether your next destination is across the ocean or just across town, this is the time to get Babbel while it’s just $134.99 (reg. $299) with the StackSocial code LEARN through June 28.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nBabbel Language Learning: Lifetime Subscription (All Languages)See Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-06-27T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "App Store,Services",
-    "id": 1423
-  },
-  {
-    "source_name": "Macworld",
-    "title": "No need to rent cloud storage when lifetime access to Koofr’s 1TB is just $130 through 6/28",
-    "link": "https://www.macworld.com/article/3173974/no-need-to-rent-cloud-storage-when-lifetime-access-to-koofrs-1tb-is-just-130-through-6-28.html",
-    "content": "Macworld\n\n\nTL;DR: Pay once, store files for years—get 1TB of Koofr cloud storage for life for $129.97 (reg. $810) with code KOOFR through June 28.\nMonthly cloud storage subscriptions add up quickly, especially if you plan to keep your files backed up long-term. Koofr is a more cost-effective option because it only charges you once for 1TB of cloud storage that lasts for life, and it’s even on sale during this Deal Days event (our answer to Prime Day). Instead of paying $810, it’s only $129.97.\nThis sale ends soon\nKoofr is a cross-platform service that’s compatible with Windows, macOS, iOS, and Android. You can access files through the desktop or mobile apps, a web browser, or WebDAV. It also connects with other major cloud services like Google Drive, Dropbox, OneDrive, and Amazon, so you can manage files stored across platforms from one place.\n\n\n\n\n\n\nBeyond storage, Koofr also has tools to simplify file management. You can identify duplicate files to free up space, batch rename groups of files, and create custom links to securely share documents. All of your files are encrypted during upload and storage.\nOnce you buy the plan, you keep it for life. That means no renewal reminders, monthly charges, or tiered upgrades. Just one payment for long-term access. To activate the plan, you’ll need to redeem your code within 15 days of purchase.\nUse code KOOFR by June 28 at 11:59 p.m. PT to get a 1TB Koofr Cloud Storage Lifetime Subscription on sale for $129.97.\nClick here to view more of the Deal Days collection.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nKoofr Cloud Storage: Lifetime Subscription (1TB)See Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-06-27T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS,Services",
-    "id": 1424
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Top Stories: Massive Apple Price Increases, iOS 27 Beta 2, and More",
-    "link": "https://www.macrumors.com/2026/06/27/top-stories-massive-apple-price-increases/",
-    "content": "The Apple community was rocked this week as the company instituted massive price hikes on a broad array of products, with many products seeing increases of 10–20 percent and a few as high as 50 percent or more. The move led many Apple fans to flock to Amazon and other retailers in attempts to make purchases before the price increases trickle down to third-party sellers.\r\n\r\n\r\nOther major news this week included a recap of the numerous products in Apple's pipeline rumored for release over the next 12–18 months, a second round of developer betas for iOS 27 and other updates, changes to Apple's chip roadmap, and more, so read on below for all of the details!\r\n\r\nTop Stories\n\r\nApple Just Increased Prices on MacBooks, iPads, and More\n\r\nAfter Tim Cook signaled last week that Apple hardware price increases were \"unavoidable\" in the face of high memory and storage costs from suppliers, Apple this week followed through with a slew of major price increases across its Mac and iPad lineups, as well as on HomePod, HomePod mini, Apple TV, and Vision Pro.\r\n\r\n\r\nApple explained that the company has \"never seen a component price increase this much, this quickly,\" and while Apple held off on raising prices for as long as possible, the situation has become dire enough that it feels it needs to pass the increases along to customers. Apple says that it is \"working tirelessly to find solutions,\" but memory suppliers forecast that shortages and high prices will last well into 2027.\r\n\r\nyet to trickle down to third-party retailers and buyers are quickly snapping up whatever stock Amazon and others have left at the cheaper prices, so if you're interested in making a purchase, it would be wise to act quickly.\r\n\r\nApple to Release These 20 New Products Across Rest of 2026 and 2027\n\r\nApple's cadence of product updates has been slowed due to impacts from delays to the more advanced Siri as well as component shortages, so that means the pipeline of upcoming products is remarkably full at the moment.\r\n\r\n\r\nBloomberg's Mark Gurman this week recapped a list of around 20 new products we should be seeing through the remainder of 2026 and into 2027. The list includes updates to much of Apple's current product lineup, plus some new products like the foldable iPhone, a high-end touchscreen MacBook, camera-equipped AirPods, a smart home hub, and smart glasses.\r\n\r\nEverything New in iOS 27 Beta 2\n\r\nApple this week rolled out a second round of developer betas for iOS 27 and related updates, and the new iOS 27 beta includes a few changes as Apple continues to build out the update ahead of an expected September public release. \r\n\r\n\r\nA new \"Write with Siri\" button in several first-party apps makes it easier to locate the tools that allow Siri to assist you with writing, while there are improvements to RCS messaging, tweaks to the Camera and Wallet apps, the ability to update an Apple TV from the Home app on iPhone, and more.\r\n\r\n2027 Macs to Get AI-Focused M7 Chips as Apple Skips High-End M6\n\r\nA significant shakeup for Apple's chip roadmap is underway, according to Bloomberg, with Apple cutting higher-end chips from the upcoming M6 family as the company seeks to speed up development of the M7 family to deliver greater AI optimizations.\r\n\r\n\r\nIt sounds like we'll only be getting a base M6 chip from that family later this year in some lower-end Macs, with Apple quickly moving on to an M7 chip in the first half of 2027. Higher-end chips in the M7 family will follow later in 2027.\r\n\r\nuse the current M5 Pro and M5 chips that debuted in the MacBook Pro earlier this year, despite the fact that the new laptop won't arrive until late this year or even early next year.\r\n\r\nApple Explains Why watchOS 27 Drops Support for So Many Models\n\r\nAmid some consternation from users, Apple has explained why five Apple Watch models will miss out on watchOS 27 and the new Siri AI features that come with it.\r\n\r\n\r\nThe Apple Watch Series 6, 7, 8, SE 2, and the original Apple Watch Ultra will not receive watchOS 27, and will only get basic security updates going forward. With the update, Apple is effectively dropping three years' worth of device support in a single software update, which is unprecedented for the product line.\r\n\r\nSpeaking to TechRadar, Apple executives explained that the company wanted to use watchOS 27 to make the Apple Watch a \"true co-partner to Apple Intelligence,\" and that required some sacrifices in supported models for the update. Only the last few generations of Apple Watch include the processing power to be able to adequately deliver the new features both on a standalone basis and in interfacing with a paired iPhone for heavier workloads with Siri AI.\r\n\r\nMacRumors Newsletter\n\r\nEach week, we publish an email newsletter like this highlighting the top Apple stories, making it a great way to get a bite-sized recap of the week hitting all of the major topics we've covered and tying together related stories for a big-picture view.\r\n\r\ntop stories like the above recap delivered to your email inbox each week, subscribe to our newsletter!\nTag: Top Stories\nThis article, \"Top Stories: Massive Apple Price Increases, iOS 27 Beta 2, and More\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-27T03:33:30.000Z",
-    "creator": "MacRumors Staff",
-    "tags": "Mac,iOS,Vision,Silicon,App Store",
-    "id": 1425
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple asks Trump admin to approve Chinese RAM after product price increases",
-    "link": "https://9to5mac.com/2026/06/26/apple-asks-trump-admin-to-approve-chinese-ram-after-product-price-increases/",
-    "content": "The Financial Times reports that Apple is seeking clearance from the Trump administration to purchase memory chips from a banned Chinese company. The move would help it meet demand for product manufacturing during the ongoing global memory supply shortage.",
-    "pub_date": "2026-06-27T03:04:56.000Z",
-    "creator": "Zac Hall",
-    "tags": "General",
-    "id": 1412
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "OLED, touchscreen, and more: What to expect from the 2027 MacBook Pro",
-    "link": "https://appleinsider.com/articles/26/06/26/oled-touchscreen-and-more-what-to-expect-from-the-2027-macbook-pro?utm_source=rss",
-    "content": "Apple's MacBook Pro is set to receive an overhaul, with a redesign, an an OLED touchscreen expected to be the key changes. Here's what the rumor mill has to say about the device.\n\n\nThe MacBook Pro is expected to receive an OLED panel in 2027 or 2026.\nWhile AppleInsider readers have wanted a Mac with an OLED screen for years, actual claims of an OLED-equipped MacBook Pro date back to at least 2019. As for when such an upgrade might arrive, it depends on who you ask.\nLeakers and analysts alike have had a lot to say about the future of the MacBook Pro, with claims of hardware changes, performance upgrades, and more. Some have even claimed Apple's touchscreen laptop will be called the MacBook Ultra.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-27T00:01:22.000Z",
-    "creator": "Marko Zivkovic <marko@appleinsider.com>",
-    "tags": "Mac,Rumors",
-    "id": 1402
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Anthropic cleared to release Claude Mythos 5 to over 100 US institutions [U]",
-    "link": "https://9to5mac.com/2026/06/26/anthropic-cleared-to-release-claude-mythos-5-to-over-100-us-institutions/",
-    "content": "Following an export control directive two weeks ago that forced Anthropic to disable access to Claude Fable 5 and Claude Mythos 5 for all customers, the company scored a partial victory in a deal with the US government earlier tonight. Here are the details.",
-    "pub_date": "2026-06-26T23:03:33.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 1413
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "AI-generated knockoffs of Joanna Stern’s book keep appearing on Apple Books",
-    "link": "https://9to5mac.com/2026/06/26/ai-generated-knockoffs-of-joanna-sterns-book-keep-appearing-on-apple-books/",
-    "content": "In a video published on YouTube Shorts today, Joanna Stern called out Apple over AI-generated knockoffs of her book that continue to appear on Apple Books. Here are the details.",
-    "pub_date": "2026-06-26T22:36:41.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 1390
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Ron Johnson breaks his silence on forging Apple Retail with Steve Jobs",
-    "link": "https://appleinsider.com/articles/26/06/26/ron-johnson-breaks-his-silence-on-forging-apple-retail-with-steve-jobs?utm_source=rss",
-    "content": "Even though Steve Jobs could be demanding, Ron Johnson says he still managed to make Apple Stores \"the most productive in the world.\"\n\n\n\n\nRon Johnson was Apple's head of retail. Image Credit: Tech Crunch\n\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-26T21:48:02.000Z",
-    "creator": "Marko Zivkovic <marko@appleinsider.com>",
-    "tags": "General",
-    "id": 1398
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "WhatsApp beta brings Liquid Glass design to the iPad app, here’s what it looks like",
-    "link": "https://9to5mac.com/2026/06/26/whatsapp-beta-brings-liquid-glass-design-to-the-ipad-app-heres-what-it-looks-like/",
-    "content": "Following last month’s wider rollout of the Liquid Glass redesign on iPhone, WhatsApp is now testing the updated look on iPad, while a separate version remains in development for Mac. Here are the details.",
-    "pub_date": "2026-06-26T21:43:10.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Mac,iOS,App Store",
-    "id": 1391
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iOS 27 Makes the Shortcuts App Much Less Intimidating",
-    "link": "https://www.macrumors.com/guide/ios-27-shortcuts/",
-    "content": "The Shortcuts app can be intimidating to casual iPhone users, but with iOS 27, it's a lot easier to use. With Apple Intelligence integration, shortcuts can be created using natural language, and they're much more accessible to the average person.\r\n\r\n\r\nDescribe a Shortcut\n\r\nWhen you tap on the New Shortcut button in the ‌iOS 27‌ Shortcuts app, it opens to the Describe a Shortcut interface.\r\n\r\n\r\nThere's a text box that asks you what you want your shortcut to do, and you can describe what you need in natural language. You can start with a single step, or add in multiple parameters. ‌Apple Intelligence‌ selects the correct actions, creates the automations, and folds it all into a completed shortcut. A few examples of what you can do:\r\n\r\n \nEach evening, set tomorrow's alarm based on my first Calendar event, turn on Sleep Focus, and dim the bedroom lights.\n\r\n \nEvery morning, show me my first meeting, today's weather, and my Reminders due today.\n\r\n \nTurn on the porch lights at night when you get a notification that food delivery is arriving.\n\r\n \nText my partner an ETA when I leave work, then start playing my podcast.\n\r\n \nShow me a summary of my day's meetings and to-do list, and suggest anything I should prioritize.\n\r\n \nWhen I open YouTube, turn off orientation lock. Turn it back on when I close the app.\n\r\n \nGive me a three-line summary of today's tech news.\n\r\n\r\nShortcuts and automations can run based on time of day, location, an app action, a system feature like a screenshot, an incoming notification, and more. Shortcuts can do all kinds of things, from accessing system features to opening and running apps.\r\n\r\nAdd Refinements\n\r\nAfter dictating a shortcut, the app will outline each of the actions the shortcut will perform. If it's what you want, you can tap on the play button to test it. It will be added automatically to your personal shortcuts.\r\n\r\n\r\nIf it's not quite what you want or you want to add more features, you can use the \"Describe a change\" interface. You can type in what you want to tweak, and go through multiple rounds of refinement until you get exactly what you want.\r\n\r\nSiri, the app, Control Center, the Action Button, and more.\r\n\r\nEdit Manually\n\r\nOnce created, you can tap into a manual editing interface if you want to add more complicated actions or tweak without using ‌Apple Intelligence‌. AI Shortcuts is in beta and it's not always perfect, so sometimes manual edits are required to get the end result you want.\r\n\r\n\r\nYou can also open any shortcut and use the ‌Apple Intelligence‌ mode to make edits.\r\n\r\nNew Automation Triggers\n\r\n\r\nWhen a notification is received\n\r\n \nWhen a screenshot is captured\n\r\n \nWhen a keyboard is connected\n\r\n \nWhen an Apple Watch workout starts\n\r\n\r\n\r\nNew Actions\n\r\nThere are several new actions in the Shortcuts app.\r\n\r\n \nAutomate a recording in Notes\n\r\n \nSend messages to a group conversation\n\r\n \nUpdated Get What's On Screen option that gets context information from the display (e.g. text, title, or links)\n\r\n \nChoose an item from a list\n\r\n \nDelete conversations or messages in Messages\n\r\n \nMark as read in Messages\n\r\n \nSearch in Messages\n\r\n \nOpen Messages inbox\n\r\n \nSend Tapback\n\r\n \nAuto Enhance Photo\n\r\n \nDelete albums and photos\n\r\n \nFavorite photos\n\r\n \nHide photos\n\r\n \nOpen photo\n\r\n \nCreate Group in Reminders\n\r\n \nCreate Section in Reminders\n\r\n \nDelete groups, lists, and sections in Reminders\n\r\n \nEdit list in Reminders\n\r\n \nToggle Hearing Aid Mute\n\r\n \nToggle Vehicle Motion Cues\n\r\n\r\nImproved Apple Intelligence Models\n\r\nShortcuts can use improved ‌Apple Intelligence‌ models that have access to broad world knowledge, which means the model can search the web to get information.\r\n\r\n\r\nThere are now Cloud, Cloud Pro, and on-device models that can be used in shortcuts. Cloud Pro is able to search the web, and is used for queries that need information from the internet.\r\n\r\nData Storage\n\r\nShortcuts can store and update data, so you can do things like add items to a list or keep a tally.\r\n\r\n\r\nAutomation Updates\n\r\nAutomation is no longer a separate section in the Shortcuts app, and automation triggers are under the general Shortcuts actions.\r\n\r\n\r\nCross-Platform Support\n\r\nThe Describe a Shortcut feature is available in the Shortcuts app in ‌iOS 27‌, iPadOS 27, and macOS Golden Gate.\r\n\r\nRequirements\n\r\nThe ‌Apple Intelligence‌ Shortcut app features require a device that supports ‌Apple Intelligence‌, which includes the iPhone 15 Pro and later, iPads with an M-series chip or the iPad mini with A17 Pro, or a Mac with an Apple silicon chip.\r\n\r\nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"iOS 27 Makes the Shortcuts App Much Less Intimidating\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-26T20:50:48.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,iOS,Silicon,App Store",
-    "id": 1385
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Save $850 on M5 Max MacBook Pro 16-inch with last-minute Prime Day deal",
-    "link": "https://appleinsider.com/articles/26/06/26/save-850-on-m5-max-macbook-pro-16-inch-with-last-minute-prime-day-deal?utm_source=rss",
-    "content": "Amazon's staggering $850 discount on a loaded 16-inch MacBook Pro with Apple's M5 Max chip is available now, but with Prime Day ending tonight, you'll want to act fast.\n\n\nSave $850 on M5 Max 16-inch MacBook Pro in final hours of Prime Day - Image credit: Apple\nPrime Day ends tonight, and there's a high likelihood this 16-inch MacBook Pro will go up in price. That's because Amazon is currently knocking $850 off Apple's revised MSRP for the high-end M5 Max model with an 18-core CPU and 40-core GPU, and we're already seeing stockouts for other MacBook Pro SKUs.\nBuy 16\" M5 Max MacBook Pro for $4,149.99\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-26T20:38:23.000Z",
-    "creator": "Christine McKee <christine@appleinsider.com>",
-    "tags": "Mac,Silicon",
-    "id": 1399
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "OpenAI has poached another Apple executive for its hardware division",
-    "link": "https://appleinsider.com/articles/26/06/26/openai-has-poached-another-apple-executive-for-its-hardware-division?utm_source=rss",
-    "content": "Apple has lost yet another upper-level executive to OpenAI, this time Paul Meade from its Vision Products Group.\n\n\nChatGPT Logo\nLongtime Apple executive Paul Meade, known for his work on the Apple Vision Pro, is reportedly leaving Cupertino for Mission Bay. There, he'll join OpenAI alongside fellow Apple alumni Jony Ive, Tang Tan, and Evans Hankey.\nAccording to Bloomberg, the vice president of hardware engineering for the Vision Products Group is set to depart for OpenAI at some point in the next week. He'll start working at OpenAI's hardware unit on OpenAI's upcoming line of AI-powered devices.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-26T20:27:40.000Z",
-    "creator": "Amber Neely <amber@appleinsider.com>",
-    "tags": "Vision",
-    "id": 1400
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple working with supplier Tata after sensitive files leak online",
-    "link": "https://9to5mac.com/2026/06/26/apple-works-with-supplier-tata-after-sensitive-files-leak-online/",
-    "content": "A new report from Reuters details how Apple and its Indian supplier, Tata Electronics, are responding to a massive data breach that exposed sensitive files earlier this month. Here are the details.",
-    "pub_date": "2026-06-26T20:18:09.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Rumors",
-    "id": 1392
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Loses Another Top Executive to OpenAI",
-    "link": "https://www.macrumors.com/2026/06/26/apple-loses-another-executive-to-openai/",
-    "content": "Paul Meade, who oversees development on the Vision Pro and Apple's upcoming smart glasses, is leaving Apple for OpenAI, reports Bloomberg.\r\n\r\n\r\nMeade took over leadership of Apple's Vision Products Group when Vision Pro chief Mike Rockwell took over Siri's AI upgrade. He was previously leading the Vision Pro hardware engineering team, and before that, he was on the iPad and iPhone teams. Meade has been at Apple since 2010, and working in the Vision Products Group since 2017.\r\n\r\nMeta Ray-Bans, and also leading the team working on future augmented reality glasses.\r\n\r\nMeade is leaving Apple by next week and will join OpenAI's hardware unit to work on AI devices. Fletcher Rothkopf, who heads up product design function for the Vision Pro and smart glasses, will take over for Meade. Meade's decision to leave is a result of executive changes at Apple as John Ternus prepares to take over as CEO. Apple chip lead Johny Srouji is taking Ternus's role as chief hardware officer, and the reorganization has upset some hardware executives.\r\n\r\nTag: OpenAI\nThis article, \"Apple Loses Another Top Executive to OpenAI\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-26T19:46:16.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,Vision",
-    "id": 1386
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "OpenAI poaches Apple Vision Pro and smart glasses chief",
-    "link": "https://9to5mac.com/2026/06/26/openai-poaches-apple-vision-pro-and-smart-glasses-chief/",
-    "content": "According to Bloomberg, OpenAI has hired Paul Meade, who had been in charge of Apple Vision Pro and Apple’s smart glasses initiative. Here are the details.",
-    "pub_date": "2026-06-26T19:45:23.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Vision",
-    "id": 1393
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple will launch 15+ new products this fall, here’s what’s coming",
-    "link": "https://9to5mac.com/2026/06/26/apple-will-launch-15-new-products-this-fall-heres-whats-coming/",
-    "content": "Apple has a packed lineup of product launches coming this fall, including new iPhones, Macs, iPads, and more. Here’s every new Apple product rumored to arrive later this year.",
-    "pub_date": "2026-06-26T19:29:32.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "General",
-    "id": 1394
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iPhone 18 Pro and Pro Max May See $200 Price Increase",
-    "link": "https://www.macrumors.com/2026/06/26/iphone-18-pro-price-increase-estimate/",
-    "content": "Apple's iPhone 18 Pro models could be up to $200 more expensive, according to a prediction from analytics firm IDC.\r\n\r\n\r\nIDC expected Apple to raise iPhone 18 prices, but prior to yesterday's Mac and iPad price hike, the prediction was a $100 increase for the 18 Pro and Pro Max, and a $50 increase for the base models.\r\n\r\niPad price increase points to even higher ‌iPhone 18‌ prices.\r\nIn our forecast, we had assumed a price hike of $100 to Pro and Pro Max models, and $50 hike to base models–-however, seeing the price hikes today to iPad and Macs going as high as $300 for some models, my personal instinct says the hike to iPhones may be even higher than what we assumed–-perhaps even $200 to the Pro/Pro Max models. I think the days of $50 price increases are over.\n\r\nApple also plans to release a foldable iPhone this year, and IDC thinks it could have an average selling price of $2,500, with higher storage tiers to cost as much as $3,000. The price of the premium model could offset some of the increased memory costs and avoid a larger price hike to other models.\r\n\r\niPad Air and lower-tier M5 iPad Pro have 12GB RAM, with prices going up $150 and $200, respectively.\r\n\r\nIt's possible the ‌iPhone 18 Pro‌ models will see similar increases in price, raising the starting price of the ‌iPhone 18 Pro‌ to between $1,249 and $1,299 and the starting price of the ‌iPhone 18 Pro‌ Max to between $1,349 and $1,399.\r\n\r\nSiri AI. The firm estimates that 54 percent of iPhones shipped since 2022 need to be upgraded to get the new ‌Siri‌. Customers who choose a Pro Max are also \"premium-focused and less price sensitive\" and so won't be dissuaded by a price increase, plus many customers opt for monthly payment plans. A $200 increase to the ‌iPhone 18 Pro‌ price over 36 months is just about $5 per month.\nRelated Roundups: iPhone 18 Pro, iPhone Fold\nTag: IDC\nThis article, \"iPhone 18 Pro and Pro Max May See $200 Price Increase\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-26T19:17:59.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,iOS,Rumors,Silicon",
-    "id": 1387
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "MacBook Ultra and new MacBook Pro both launching this fall, per rumors",
-    "link": "https://9to5mac.com/2026/06/26/macbook-ultra-and-new-macbook-pro-both-launching-this-fall-per-rumors/",
-    "content": "Apple’s plans for new high-end MacBooks are coming into focus after recent Bloomberg reports, with a MacBook Ultra and new M6 MacBook Pro both now expected to launch this fall.",
-    "pub_date": "2026-06-26T19:03:19.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "Mac",
-    "id": 1395
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "LG UltraFine 6K Review: A Premium 6K Display Designed With Mac Users in Mind",
-    "link": "https://www.macrumors.com/review/lg-ultrafine-6k-32u990a-display/",
-    "content": "With Apple's discontinuation of the Pro Display XDR earlier this year, Mac users looking for a larger high-resolution display suddenly found themselves with fewer options on the market. Apple's current display lineup now includes its 27-inch Studio Display and ‌Studio Display‌ XDR, both of which offer excellent image quality and tight macOS integration, but neither provides the larger 32-inch form factor that some users prefer.\r\n\r\n\r\nLG's UltraFine 6K (32U990A) display helps fill that gap. The display, which was unveiled way back in January 2025 but didn't launch until last October, features a 32-inch 6K Nano IPS Black panel, Thunderbolt 5 connectivity, and a design that feels more Apple-inspired than previous UltraFine displays. After using it for several weeks in my daily setup, I've found it to be a compelling alternative to Apple's own displays, albeit with a few tradeoffs.\r\n\r\nThe first thing that stands out about the UltraFine 6K is simply how much workspace it provides. Compared to Apple's 27-inch displays and my trusty 27-inch UltraFine 5K displays that have anchored my workspace for nearly a decade, the extra screen area is immediately noticeable. Multiple apps can sit side by side in large windows without feeling cramped to support my typical \"command center\" view of our editorial operations, while creative apps that need the canvas all to themselves benefit from the additional room for toolbars and timelines.\r\n\r\n\r\nUnlike many larger displays, the UltraFine 6K doesn't compromise on sharpness. The 6,144 x 3,456 resolution delivers a true Retina experience, with crisp text and interface elements sized appropriately for the typical viewing distance. That's one of the biggest advantages the display has over most monitors in this size class that deliver only 4K resolution. While those displays can often yield a similarly sized desktop through scaling, the result sometimes lacks a bit of sharpness while the UltraFine 6K feels completely native due to its higher pixel density.\r\n\r\nMacBook Pro, a single cable handled display output, charging, and connected accessories, and you can even daisy chain multiple displays over a single connection. DisplayPort 2.1, HDMI 2.1, and non-Thunderbolt USB-C ports on the display provide additional display connectivity options, plus a downstream Thunderbolt 5 port support to support daisy chain configurations and a pair of upstream USB-C ports for hub functionality.\r\n\r\n\r\nLG includes up to 96 watts of power delivery in the display, which easily keeps a 16-inch ‌MacBook Pro‌ topped up throughout the day and relatively quickly recharges a depleted one upon connecting the display.\r\n\r\nDay-to-day reliability was excellent during testing. The monitor consistently woke from sleep without issue, display scaling options appeared properly in macOS, and there were none of the connection quirks that sometimes affect third-party displays. While that might sound like a small detail, seamless operation remains one of the most important qualities for a monitor intended primarily for Mac users.\r\n\r\nMac Studio or ‌MacBook Pro‌. A wide foot provides stability, as does a wide vertical stand arm that features an unobtrusive silver color on the front but some dark blue ribbed plastic on the back to provide a bit of visual interest if the display is used in a setting where it the rear is visible.\r\n\r\n\r\nPorts and a joystick button for controlling display settings are hidden away on the rear of the display, and there's no distracting pulsing LED to light up a dark bedroom when the display is sleeping.\r\n\r\nThe included stand offers height, tilt, swivel, and pivot adjustments, providing considerably more flexibility than Apple's standard display configurations to help you get the display in just the right ergonomic position.\r\n\r\nImage quality is excellent overall. Colors appear vibrant and accurate, and the Nano IPS Black panel provides solid contrast. And of course the 6K resolution provides the sharpness and clarity many users are looking for.\r\n\r\nThe matte finish does a good job minimizing reflections, particularly in brighter environments or near windows. Apple's glossy displays still provide a slightly more vibrant appearance, but the tradeoff may be worthwhile for users who work in rooms with significant ambient light.\r\n\r\nLG touts the UltraFine 6K's ability to work with macOS keyboard shortcuts for brightness and volume adjustments, although it's not fully baked into the macOS experience. Unlike my older UltraFine 5K displays that integrated perfectly into the built-in macOS functionality for these shortcuts, the UltraFine 6K requires a separate LG Switch app to enable these keyboard shortcuts and they are separate from the macOS-level adjustments while using the same keys, which makes things less seamless than I'd like them to be. Simply put, things can be finicky when using multiple displays and audio output options.\r\n\r\n\r\nThere are a few other areas where Apple's displays continue to maintain an advantage. The ‌Studio Display‌ XDR delivers substantially brighter HDR highlights and more impressive HDR performance overall, thanks to its advanced backlighting technology. Users working extensively with HDR video content will still benefit from Apple's higher-end display. The UltraFine 6K is also limited to a 60Hz refresh rate. For productivity work, that isn't a major concern, but users who spend much of their day on ProMotion-equipped Macs may notice the difference when scrolling or performing other actions resulting in quick onscreen movements.\r\n\r\nThose limitations feel relatively minor, however, when viewed in the context of the entire UltraFine 6K package, especially considering the price difference versus the ‌Studio Display‌ XDR. The UltraFine 6K's primary appeal isn't HDR performance or refresh rate. It's the combination of a large 32-inch panel, Retina resolution, Thunderbolt 5 connectivity, and solid Mac compatibility.\r\n\r\nLG UltraFine 6K 32U990A is normally priced at $1,999.99, but LG is currently offering savings of $700 on the display, bringing it down to $1,299.99.\r\n\r\nNote: LG provided MacRumors with the UltraFine 6K display for the purposes of this review. No other compensation was received. MacRumors is an affiliate partner with LG. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\nTag: LG\nThis article, \"LG UltraFine 6K Review: A Premium 6K Display Designed With Mac Users in Mind\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-26T18:57:01.000Z",
-    "creator": "Eric Slivka",
-    "tags": "Mac,App Store",
-    "id": 1388
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Level Lock team gutting leaves unanswered questions",
-    "link": "https://appleinsider.com/articles/26/06/26/level-lock-team-gutting-leaves-unanswered-questions?utm_source=rss",
-    "content": "Assa Abloy, the parent company of Level, has laid off most of the company's staff. While the Apple Home Key locks will work in the short term, others are concerned about the platform's future.\n\nLevel Lock Pro\nThe Verge reported on June 26 that Assa Abloy laid off most of Level Home's employees and is folding the smart lock maker into its Kwikset brand. Assa Abloy disputed reports that Level was shutting down.\nThe company said it will continue developing, selling, and supporting its smart locks while keeping customer support in place. Existing owners shouldn't expect immediate problems.\nBasic locking and unlocking through Apple Home and Matter should continue because those features work locally instead of relying on Level's cloud. Features such as the mobile app, auto-unlock, and door status updates still depend on the company's online services.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-26T18:55:02.000Z",
-    "creator": "Andrew Orr <andreworr@appleinsider.com>",
-    "tags": "App Store",
-    "id": 1401
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "WhatsApp finally lets iPhone users search Channel posts",
-    "link": "https://www.cultofmac.com/news/whatsapp-finally-lets-iphone-users-search-channel-posts",
-    "content": "WhatsApp finally lets iPhone users search Channel posts by keyword, making it much easier to find older updates.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-06-26T18:50:06.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,iOS",
-    "id": 1409
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Coming to Apple TV: All the upcoming shows, series, movies, trailers, and more",
-    "link": "https://www.macworld.com/article/340717/apple-tv-plus-upcoming-shows-future-moves-series-release-dates-film-television.html",
-    "content": "Macworld\n\n\nApple’s list of currently available content for Apple TV continues to grow, and so does the list of upcoming projects in the works.\nSome of these projects have been officially announced and acknowledged by Apple, while others have been reported by the Hollywood press.\nWe’ve divided this list in two: Coming Soon is a list of shows and films for which Apple has given an official release date or release window, and Further Out compiles content that is still in production or perhaps haven’t even begun yet.\nUpdated June 26, 2026: We have updated our list with the latest release dates, images, and trailers.\nHow to get Apple TV\nApple TV 4K (2022, 3. Gen.) 128GB WiFi + Ethernet\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tRead our review\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n$129 at  Apple\t\t\t\t\t\t\t\n\t\t\t\t\t\t\nYou can subscribe to Apple TV on Apple’s website here, or via the Apple TV app on your device. It costs $12.99/£9.99 a month, which you can cancel at any time (Read: How to cancel and Apple subscription). You can also opt for a one-year subscription for $99/£89, which gives you two months free each year.\nApple also offers various trials. Take a look at our article explaining all the ways you can watch Apple TV for free, and the best Apple TV deals you can get. Students can get Apple TV for free with an already subsidized Apple Music subscription.\nYou don’t need an Apple TV set top box to watch Apple TV, nor do you have to pay for a subscription, see: How to watch Apple TV for free.\nComing Soon to Apple TV\nThe following shows, series, and movies have been officially announced by Apple and will typically will begin streaming in the next few weeks or months.\nSilo (season 3)\nWhat it’s about: Season three of Silo continues the saga of a dystopian society of 10,000 people living underground under mysterious circumstances, while revealing an origin story set centuries earlier.\n\n\n\n\n\n\nImportant names: Stars Rebecca Ferguson, Common, Harriet Walter, and Chinaza Uche.\nWhen you can watch: Season 3 of Silo premieres on July 3, 2026. \nTrying (season 5)\nWhat it’s about: Season five finds Nikki and Jason dealing with the consequences of Princess and Tyler’s biological mother Kat turning up at their doorstep.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nImportant names: Stars Rafe Spall, Esther Smith, Scarlett Rayner, and Siân Brooke.\nWhen you can watch: Season 5 of Trying premieres on July 8, 2026.\nLucky\nWhat it’s about: Based on Marissa Stapley’s bestselling novel, Lucky centers on a young woman who left behind the life of crime she was raised in years ago, but must now embrace her darker, criminal side one final time in a desperate attempt to escape her past.\n\n\n\n\n\n\nImportant names: Starring Anya Taylor-Joy, Annette Bening, Timothy Olyphant, Aunjanue Ellis-Taylor.\nWhen you can watch: Lucky premieres on July 15, 2026.\nThe Dink\nWhat it’s about: Washed up former tennis prodigy Dusty Boyd has been reduced to coaching unruly children at his father Chuck’s suburban country club. After reactivating an old injury, he is forced to play pickleball and loves it.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nImportant names: Produced by Ben Stiller and directed by Josh Greenbaum. Cast includes Jake Johnson, Ed Harris, Patton Oswalt, Chloe Fineman, Chris Parnell, and more.\nWhen you can watch: The Dink premieres on July 24, 2026.\nSnoopy Presents: There’s No Place Like Home, Snoopy\nWhat it’s about: When Snoopy’s beloved doghouse is accidentally sold at a yard sale, he’s devastated. After all, that’s where his imagination first took flight and where he keeps all his favorite things. \n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nImportant names: Stars the voices of Riley Vargas, Terry McGurrin, Rob Tinkler, and Kitai O’Garro.\nWhen you can watch: The latest Snoopy adventure will stream on July 31, 2026.\nTed Lasso (season 4)\nWhat it’s about: Apple’s biggest show was thought to be over for good, but Apple announced it’s coming back for a 4th season, with Jason Sudeikis returning in the title role.\n\n\n\n\n\n\nImportant names: Stars Jason Sudeikis, Brett Goldstein, Jeremy Swift, Hannah Waddington, and Juno Temple.\nWhen you can watch: Season 4 of Ted Lasso will premiere on August 5, 2026.\nWomen in Blue (season 2)\nWhat it’s about: Season two will follow María, now promoted to lieutenant, as she finds herself torn between the rules she’s sworn to uphold and a relentless pull toward the truth when the body of a student activist is discovered, and the Azules are pulled into an investigation that reaches back to the student massacre of 1968.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nImportant names: Stars Bárbara Mori, Natalia Téllez, Amorita Rasgado, and Ximena Sariñana.\nWhen you can watch: The second season of Women in Blue (Las Azules) premieres on August 12, 2026.\nThe Dynasty: UConn Huskies\nWhat it’s about: A three-part documentary series chronicling the rise of the most dominant program in college basketball history.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nImportant names: Produced and directed by Matthew Hamachek and Erica Sashin.\nWhen you can watch: The Dynasty: UConn Huskies streams on August 21, 2026\nDark Matter (season 2)\nWhat it’s about: Season two picks up with the Dessens as they settle into a quiet life in a world that finally seems safe until the unimaginable forces them to run once again. aJson’s obsession with the Box deepens, while Daniela’s growing paranoia pushes her to the brink, threatening to tear their fragile stability apart. \n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nImportant names: Stars Joel Edgerton, Jennifer Connelly, Alice Braga, Jimmi Simpson. \nWhen you can watch: The second season of Dark Matter premieres on August 28, 2026.\nMayday\nWhat it’s about: An action-packed buddy comedy film. When hotshot U.S. Navy pilot Lieutenant Troy “Assassin” Kelly is sent on a top-secret mission into Russian territory at the height of the Cold War, the operation implodes, leaving him stranded behind enemy lines.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nImportant names: Stars Ryan Reynolds and Kenneth Branaugh. Written and directed by John Francis Daley and Jonathan Goldstein.\nWhen you can watch: Mayday premieres on September 4, 2026.\nLast Seen\nWhat it’s about: A former police detective, now working as a dispatcher, receives a call from a teenage girl who he is convinced is his daughter that went missing 11 years ago.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nImportant names: Stars Patrick Brammall, Brendan Cowell, Maxine Peake, and Jessica Wren.\nWhen you can watch: Last Seen premieres on September 9, 2026.\nSlow Horses (season 6)\nWhat it’s about: This darkly funny British spy thriller show is easily one of the best things on Apple TV, and it’s back for another short season.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nImportant names: Stars Sir Gary Oldman, Kristin Scott Thomas, Jack Lowden, Saskia Reeves, and more.\nWhen you can watch: The sixth season of Slow Horses debuts on September 16, 2026.\nBrothers\nWhat it’s about: Matthew McConaughey and Woody Harrison play fictionalized versions of themselves whose lifelong friendship is thrown into chaos when they uncover a decades-old secret: they might actually be brothers.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nImportant names: Stars Matthew McConaughey, Woody Harrelson, Natalie Martinez, produced by Lee Eisenberg.\nWhen you can watch: Brothers premieres on September 23, 2026.\nMatchbox the Movie\nWhat it’s about: Inspired by the iconic Mattel toys (really!), this is an action film about a group of friends since childhood who have their lives upended when undercover CIA agent Sean, their long-absent former leader, returns to their small town and unwittingly gets them embroiled in a frantic international pursuit to save the world.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nImportant names: Stars John Cena, Jessica Biel, Sam Richardson, and Arturo Castro. Written by David Coggeshall. Directed by Sam Hargrave.\nWhen you can watch: Matchbox the Movie will premiere on October 9, 2026.\nWay of the Warrior Kid\nWhat it’s about: Middle school has been a nightmare for Marc, a good kid who’s bullied by his classmates and feels like he’s behind in everything, from academics to P.E. to just making friends. That changes when his injured Uncle Jake, a decorated Navy SEAL, comes to spend the summer and recuperate with Marc and his mom, Sarah.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nImportant names: Stars Chris Pratt, Jude Hill, Linda Cardellini, Levi McConaughey.\nWhen you can watch: Way of the Warrior Kid premieres on November 20, 2026. \nFurther Out\nThese shows, series, and movies may or may not have been officially announced, and do not yet have definitive release dates. Some may debut in the next few months, others be more than a year away. It’s even possible that some of these projects will never be released.\nLance Armstrong biopic\nWhat it’s about: Deadline reports that Apple has won the bidding war for rights to a movie about the storied cyclist Lance Armstrong.\nImportant names: Stars Austin Butler, directed by Edward Berger.\nWhen you can watch: The Lance Armstrong biopic does not yet have a title or release date.\nFoster the Snowman\nWhat it’s about: Per Deadline, Apple out-bid Netflix and MGM for this holiday high-concept movie about a snowman that comes alive, and will go through every stage of life in just 72 hours. The childless couple who act as his “parents” go through every parenting milestone in just three days.\nImportant names: No stars are yet attached. The film will be directed by Hikari.\nWhen you can watch: Foster the Snowman is being fast-tracked to be ready in time for the holidays 2026.\nOnce and Again\nWhat it’s about: Deadline says that Apple won the rights to produce a film from the upcoming romance book Once and Again by Rebecca Serle (set to release on March 10). \nImportant names: This project is early in product and has no director or stars attached yet.\nWhen you can watch: The adaptation of Once and Again is very early in production and has no release date.\nCosmere\nWhat it’s about: Apple has landed the rights to the Cosmere fantasy universe books from Brandon Sanderson. It’s unclear what projects are coming in this fantasy setting.\nImportant names: Brandon Sanderson’s series The Stormlight Archive is a large and ongoing series of high fantasy novels. Sanderson is also known for finishing Robert Jordan’s Wheel of Time novels.\nWhen you can watch: The Cosmere deal is fresh and specific projects haven’t yet begun as of January 2026, so it will be a long while before we can watch anything.\nNeuromancer\nWhat it’s about: A new 10-episode drama based on the award-winning novel of the same name by William Gibson. The series will follow a damaged, top-rung super-hacker named Case who is thrust into a web of digital espionage and high-stakes crime with his partner Molly, a razor-girl assassin with mirrored eyes, aiming to pull a heist on a corporate dynasty with untold secrets.\n\n\n\n\n\n\nImportant names: Created for TV by Graham Roland and JD Dillard. Stars Callum Turner, Briana Middleton, Joseph Lee, and Mark Strong.\nWhen you can watch: Neuromancer is in production now but does not yet have a release date.\nThe Dispatcher\nWhat it’s about: A 6-episode thriller about a police detective whose life fell apart 10 years ago when his young daughter Maggie disappeared without a trace. Now working as a police dispatcher, he receives a distress call from a young girl he is certain is Maggie, he will stop at nothing to find her and reunite his broken family, whatever the cost. Adapted from Ryan David Jahn’s book.\nImportant names: Starring Patrick Brammall, adapted by writer Kris Mrksa.\nWhen you can watch: The Dispatcher does not yet have a release date.\nSpeed Racer\nWhat it’s about: A live-action series based on the beloved Japanese animated show from the ’60s. \nImportant names: Will be produced by J.J. Abrams’ Bad Robot production company, with Hiram Martinez and Ron Fitzgerald as writers and showrunners.\nWhen you can watch: Speed Racer has no release date yet.\nThe White Darkness\nWhat it’s about: A limited series based on David Grann’s nonfiction book about Henry Worsley, who crossed Antarctica on foot.\nImportant names: Tom Hiddleston stars, Soo Hugh directs.\nWhen you can watch: The White Darkness has no release date yet.\nUntitled Negro League Baseball series\nWhat it’s about: Follows the life and career of legendary pitcher Leroy “Satchel” Paige. \nImportant names: The series is produced by Erving “Magic” Johnson, among others. It is in conjunction with the Negro Leagues Baseball Museum and MLB.\nWhen you can watch: This series has no release date yet.\nUntitled Chuck Barris drama\nWhat it’s about: Gong Show host Chuck Barris famously claimed to be a secret CIA assassin in his autobiography Confessions of a Dangerous Mind, which was made into a feature film in 2002. A Deadline report says Apple is developing an hour-long drama series about Barris as both Gong Show host and CIA assassin.\nImportant names: Justin Timberlake is attached to star as Chuck Barris.\nWhen you can watch: This series has no release date yet.  \nDolly\nWhat it’s about: Deadline describes it as a “sci-fi courtroom drama in which a robotic ‘companion doll’ kills its owner and then shocks the world by claiming that she is not guilty and asking for a lawyer.”\nImportant names: Florence Pugh and Vanessa Taylor are attached to star and Drew Pearce will write the script.\nWhen you can watch: No release date yet.\nBride\nWhat it’s about: Deadline reports that this is a genre-bending film about an engineered “ideal wife” who rejects her creator, escapes captivity, and discovers her true self.\nImportant names: The film will star Scarlett Johansson and will be directed by Sebastián Lelio.\nWhen you can watch: No release date yet.\nEarthsound\nWhat it’s about: A natural history documentary series that uses new audio technology and cinematic 360-degree audio to reveal untold nature stories from every continent.\nImportant names: It will be executive produced by Alex Williamson, and the series producer is Sam Hodgson.\nWhen you can watch: No release date yet.\nUntitled Idris Elba spy thriller\nWhat it’s about: According to Variety, this is to be a “spy movie with romance set in Africa” but little else is known about the nascent project. The report says it’s early in production. \nImportant names: The film will star Idris Elba and is produced by Simon Kinberg and Audrey Chon.\nWhen you can watch: No release date yet.\nHedy Lamarr series\nWhat it’s about: According to The Hollywood Reporter, it’s an eight-episode series about the 1930s and 40s actress and inventor Hedy Lamarr (whose frequency-hopping radio technology is still the basis for many modern wireless communications).\nImportant names: Gal Gadot is set to star as Lamarr, with a script written by Sarah Treem.\nWhen you can watch: No release date yet.\nWhere the Wild Things Are\nWhat it’s about: Apple has struck an overall deal with The Maurice Sendak Foundation to produce shows or series based on the author’s works for children. The most famous of these, by far, is Where the Wild Things Are.\nImportant names: Apple is working with longtime Sendak collaborator Arthur Yorinks and his production studio Night Kitchen Studios.\nWhen you can watch: No release date yet.\nCustom of the Country\nWhat it’s about: A limited-series adaptation of the Edith Wharton novel The Custom of the Country. The novel, published in the early 20th century, is about a midwestern girl who climbs the ladder of New York high society.\nImportant names: The big one is Sofia Coppola, who is developing the series for Apple. No word yet on whether she will direct it.\nWhen you can watch: No release date yet.\nEl Gato Negro\nWhat it’s about: Based on Richard Dominguez’s comic book about an aging luchador who teams up with his grandson to use the El Gato Negro persona to fight crime in South Texas.\nImportant names: Robert Rodriguez will direct and produce, while Diego Boneta will star and also produce.\nWhen you can watch: No release date yet.\nBrie Larson CIA biography series\nWhat it’s about: A report in Variety says that Apple has made a direct-to-series order for a new drama based on the real-life experiences of CIA undercover operative Amaryllis Fox. Fox has a hot novel named Life Undercover: Coming of Age in the CIA that released in October 2019. \nImportant names: Brie Larson will star and executive produce the series.\nWhen you can watch: No release date yet.\nYou Think It, I’ll Say It\nWhat it’s about:  According to Variety, Apple has ordered a 10-episode, half-hour run of a new comedy variety show. The show is inspired by Curtis Sittenfeld’s collection of short stories You Think It, I’ll Say It.\nImportant names: SNL alum Kristen Wiig was set to star, but pulled out citing scheduling conflicts with Wonder Woman 1984. The show is created and produced by Colleen McGuinness (30 Rock, About a Boy).\nWhen you can watch: This project does not yet have a title or release date.",
-    "pub_date": "2026-06-26T18:46:47.000Z",
-    "creator": "Macworld",
-    "tags": "Rumors,App Store,Services",
-    "id": 1408
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "iPhone 18 and 18e may get only 9GB RAM — here’s why that matters",
-    "link": "https://www.cultofmac.com/news/iphone-18-and-18e-may-get-only-9gb-ram",
-    "content": "Apple analyst issued a major revision, saying iPhone 18 and 18e may get only 9GB RAM instead of the expected 12GB. Here's why that matters.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-06-26T18:35:18.000Z",
-    "creator": "David Snow",
-    "tags": "Mac,iOS,Rumors",
-    "id": 1410
   }
 ]
