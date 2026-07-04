@@ -1,5 +1,15 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Which iPad is right for you? Here’s what Apple has to say",
+    "link": "https://9to5mac.com/2026/07/03/which-ipad-is-right-for-you/",
+    "content": "Over the years, buying an iPad has become an increasingly confusing task. With multiple models and overlapping features and accessories, there’s no longer a clear-cut way to recommend one iPad for one type of user. Still, Apple does have a general idea of how it sees the iPad lineup and who each model is meant for.",
+    "pub_date": "2026-07-03T20:55:07.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 1841
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Three changes Apple could do to make iPhone Air 2 a hit",
     "link": "https://appleinsider.com/articles/26/07/03/three-changes-apple-could-do-to-make-iphone-air-2-a-hit?utm_source=rss",
@@ -88,6 +98,16 @@
     "creator": "Anurag Chawake",
     "tags": "Mac",
     "id": 1837
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "We really need a way to hand over ownership of an Apple Home",
+    "link": "https://9to5mac.com/2026/07/03/we-really-need-a-way-to-hand-over-ownership-of-an-apple-home/",
+    "content": "Me being me, one of the first things I wanted to do in my new home was set up the smart home technology. That’s now almost complete (I’m currently engaged in mortal battle with presence detectors) and I’ll have an update soon.\nBut there was also the matter of the smart home tech I was leaving behind – and that was less straightforward thanks to a surprising omission in the Apple Home ecosystem …",
+    "pub_date": "2026-07-03T16:00:00.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "General",
+    "id": 1842
   },
   {
     "source_name": "MacRumors",
@@ -2978,25 +2998,5 @@
     "creator": "Anurag Chawake",
     "tags": "Mac,iOS",
     "id": 1550
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "How Thread is fixing smart home networks on Smart Home Insider",
-    "link": "https://appleinsider.com/articles/26/06/29/how-thread-is-fixing-smart-home-networks-on-smart-home-insider?utm_source=rss",
-    "content": "This week on Smart Home Insider, Ann Olivo from the Thread Group joins to talk about the future of the wireless standard and how it's improving smart home networks.\n\n\nSmart Home Insider Podcast\nJoining as this week's guest host is Ann Olivo. Olivo serves as the Corporate Campaigns Manager for Silicon Labs, as well as the VP of Marketing for the Thread Group.\nThe topic comes just a week after Unify, a public-facing conference put on by the Connectivity Standards Alliance. Thread, as many other groups and companies, had new announcements to share.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-29T15:12:02.000Z",
-    "creator": "Andrew O'Hara <andrew@appleinsider.com>",
-    "tags": "General",
-    "id": 1532
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Don't Pay Apple's New M4 Prices: Save Hundreds on the M3 iPad Air",
-    "link": "https://www.macrumors.com/2026/06/29/save-hundreds-m3-ipad-air/",
-    "content": "Best Buy's Fourth of July sale is currently running, and it features a big sale across Apple's previous generation M3 iPad Air tablets. You can find up to $400 off these devices during the event, and they're particularly notable when compared to the recently increased prices of the 2026 M4 iPad Air.\r\n\r\nNote: MacRumors is an affiliate partner with Best Buy. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\nSavings are focused on the cellular models of the M3 iPad Air, with these devices priced similarly to their Wi-Fi only counterparts in many cases. Below we've listed all of the biggest deals for the M3 iPad Air, as well as comparisons to each M4 model.\r\n\r\n\nUP TO $400 OFF\nM3 iPad Air at Best Buy\n\n\r\n\r\nPrices start at $499.00 for the 128GB Cellular 11-inch M3 iPad Air, which is a $250 markdown and compares favorably to the $899.00 price tag on the same M4 iPad Air. The main difference between the M3 and M4 iPad Air generations is faster chip speed with the M4 chip, and upgraded wireless technologies, but otherwise the tablets are similar.\r\n\r\n11-inch\n\r\n\n11-inch M3 iPad Air (128GB Cell) - $499.00 ($899.00 for M4 model)\n\r\n11-inch M3 iPad Air (256GB Cell) - $599.00 ($999.00 for M4 model)\n\r\n11-inch M3 iPad Air (512GB Cell) - $749.00 ($1,199.00 for M4 model)\n\r\n11-inch M3 iPad Air (1TB Cell) - $849.00 ($1,499.00 for M4 model)\n\r\n13-inch\n\r\n\n13-inch M3 iPad Air (128GB Cell) - $779.00 ($1,099.00 for M4 model)\n\r\n13-inch M3 iPad Air (256GB Cell) - $879.00 ($1,199.00 for M4 model)\n\r\n13-inch M3 iPad Air (512GB Cell) - $949.00  ($1,399.00 for M4 model)\n\r\n13-inch M3 iPad Air (1TB Cell) - $1,049.00 ($1,699.00 for M4 model)\n\r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"Don't Pay Apple's New M4 Prices: Save Hundreds on the M3 iPad Air\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-29T15:11:50.000Z",
-    "creator": "Mitchel Broussard",
-    "tags": "iOS,Silicon,Services",
-    "id": 1503
   }
 ]
