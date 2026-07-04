@@ -1,6 +1,46 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Hands-on: BenQ’s new MA270S is a glossy 27-inch 5K display made for Mac [U]",
+    "link": "https://9to5mac.com/2026/07/04/benq-ma270s-hands-on-for-mac-27-inch-5k-monitor/",
+    "content": "BenQ has been making excellent Mac-friendly monitors for years, and their new MA270S is the creme de la creme of their lineup. It’s a 27-inch 5K monitor, but with a feature that most monitors don’t ship with: a glossy finish.\nAll of Apple’s displays ship with glossy finishes by default, but for one reason or another, matte finishes have dominated the external monitor market – and BenQ is bucking that trend. This makes the MA270S much more at home with the Mac.",
+    "pub_date": "2026-07-04T11:17:35.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "Mac",
+    "id": 1843
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Security Bite: A note on camera covers in 2026",
+    "link": "https://9to5mac.com/2026/07/04/security-bite-why-i-stopped-using-camera-covers-and-you-should-too/",
+    "content": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\nPlastic webcam covers—especially of the sliding kind—boomed in popularity sometime in the 2010s as a low-tech way to keep hackers from eavesdropping on compromised machines. The concern felt justified at the time. But by 2020, Apple was beginning to issue warnings that those covers aren’t actually needed and can even damage a MacBook’s display.\nFor this Security Bite, let’s set aside our tin-foil hats and talk about how webcam covers don’t meaningfully improve privacy, could cause features like True Tone to not work properly, and are far more likely to damage your screen than stop someone from spying on you.",
+    "pub_date": "2026-07-04T10:21:00.000Z",
+    "creator": "Arin Waichulis",
+    "tags": "Mac",
+    "id": 1844
+  },
+  {
+    "source_name": "Macworld",
+    "title": "10TB of Internxt lifetime cloud storage is on sale for a one-time $252 through 7/5",
+    "link": "https://www.macworld.com/article/3181421/10tb-of-internxt-lifetime-cloud-storage-is-on-sale-for-a-one-time-252-through-7-5.html",
+    "content": "Macworld\n\n\nTL;DR: Ditch the monthly cloud bill—replace iCloud with 10 TB of Internxt storage for a one-time payment of $251.99 through July 5.\nToo many cloud storage platforms ask you to pay a monthly bill just to keep your files safe. If you want an alternative to expensive cloud storage platforms like iCloud, then try Internxt. This secure cloud storage platform uses end-to-end encryption, and they just dropped the price for a 10TB lifetime subscription. Instead of paying $2,900, now it’s only $251.99 through July 5 with code JULY30.\nInternxt’s 10TB lifetime plan works on Windows, macOS, Linux, Android, iOS, and any web browser. Your files are encrypted before upload and split into fragments that only you can unlock. Even Internxt’s servers can’t read your data.\nThe platform’s code is public on GitHub, and it follows strict GDPR and post-quantum encryption standards for extra protection. You can sync, back up, and share files easily while keeping complete control over your data. Everything loads quickly, and there are no limits on how many devices you can connect.\nThe interface is simple and intuitive, so you can organize files, upload large folders, or share links without setup or configuration. It works like Google Drive or Dropbox, but you own the space for life.\nRight now, it’s only $251.99 to get an Internxt 10TB Cloud Storage Lifetime Subscription through July 5 with code JULY30.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nInternxt Cloud Storage Lifetime Subscription: 10TB PlanSee Deal\nStackSocial prices subject to change.",
+    "pub_date": "2026-07-04T08:00:00.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,iOS,Services",
+    "id": 1850
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Block ads & more on 9 devices for life — AdGuard’s Family Plan is a one-time $28 through 7/5",
+    "link": "https://www.macworld.com/article/3183548/block-ads-more-on-9-devices-for-life-adguards-family-plan-is-a-one-time-28-through-7-5.html",
+    "content": "Macworld\n\n\nTL;DR: Get lifetime ad blocking across nine devices with the AdGuard Family Plan for $27.99 (reg. $169.99) with code JULY30. Offer ends July 5.\nAds hound you across browsers, apps, and every device you touch. The AdGuard Family Plan cuts the constant noise for good. Right now, you can lock in a lifetime license for $27.99 with code JULY30.\nWhat AdGuard Actually Does\nBlocks ads and pop-ups across nine devices at once, including Windows, Mac, iOS, and Android\nKeeps trackers and analytics scripts from following you around the web\nFlags and blocks phishing and malware-laden sites before they load\nIncludes parental controls for filtering unsafe or adult content\nThis isn’t a subscription. Redeem it once, and the ad blocking sticks around for as long as you use AdGuard, no renewal, no monthly charge chipping away at your budget. That $27.99 already reflects the JULY30 discount and covers all nine device slots.\nIt’s a solid fit for anyone juggling ads across a work laptop, a personal phone, and a couple of kids’ tablets, and who’d rather deal with it once than manage it device by device. The parental controls make it especially useful for households with younger browsers online unsupervised.\nGet the AdGuard Family Plan for $27.99 with code JULY30 before the offer closes July 5.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nAdGuard Family Plan: Lifetime SubscriptionSee Deal\nStackSocial prices subject to change.",
+    "pub_date": "2026-07-04T08:00:00.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,iOS,Services",
+    "id": 1851
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Which iPad is right for you? Here’s what Apple has to say",
     "link": "https://9to5mac.com/2026/07/03/which-ipad-is-right-for-you/",
     "content": "Over the years, buying an iPad has become an increasingly confusing task. With multiple models and overlapping features and accessories, there’s no longer a clear-cut way to recommend one iPad for one type of user. Still, Apple does have a general idea of how it sees the iPad lineup and who each model is meant for.",
@@ -2958,45 +2998,5 @@
     "creator": "Luke Dormehl",
     "tags": "Mac,iOS",
     "id": 1549
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple's iPhone went on sale 19 years ago today, and changed the world",
-    "link": "https://appleinsider.com/articles/26/06/29/apples-original-iphone-went-on-sale-14-years-ago?utm_source=rss",
-    "content": "Compared to today's iPhone 17 Pro Max and what we know of the forthcoming iPhone 18 range, the very first iPhone that went on sale 19 years ago today was startlingly slow and incredibly limited — yet it changed the world.\n\n\nApple launched the iPhone in 2007 - image credit: Apple\nIt was on June 29, 2007, that the original iPhone went on sale in the US, and arguably that was the day that it truly began shaking up what users expected from a phone.\nWe and the phone industry had already known all about it for over five months. But it wasn't until you could buy it that the impact of this little device began to be felt — even inside Apple.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-29T15:28:28.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "iOS",
-    "id": 1534
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple just acquired the app that won last year’s ‘Innovation’ Apple Design Award",
-    "link": "https://9to5mac.com/2026/06/29/apple-just-acquired-the-app-that-won-last-years-innovation-apple-design-award/",
-    "content": "Apple has acquired a variety of apps recently, and the latest—Play—won the 2025 Apple Design Award in the ‘Innovation’ category. Here’s what it does.",
-    "pub_date": "2026-06-29T15:27:50.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "App Store",
-    "id": 1521
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Deals: MacBook Pro still up to $650 off after price hikes, M4 iPad Air $350 off, black Magic Mouse, AirTag 2, more",
-    "link": "https://9to5mac.com/2026/06/29/deals-macbook-pro-m4-ipad-air-magic-mouse-airtag-2/",
-    "content": "Today’s 9to5Toys Lunch Break is headlined by what might be your chance so score a seriously deep deal as official price hikes start to hit Amazon – score MacBook Pro at up to $650 off while you still can and the same goes for M4 iPad Air at $350 off. Prime Day all-time low pricing is still live on Apple’s 2026 AirTag 2 from $22 each, and the ultra-rare Prime Day deal rolls on with the latest black Apple Magic Mouse back at its best Amazon price ever. Head below for a closer look.",
-    "pub_date": "2026-06-29T15:27:07.000Z",
-    "creator": "Justin Kahn",
-    "tags": "Mac,iOS,Silicon",
-    "id": 1522
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Apple could buy banned Chinese memory chips to keep your iPhone’s price down",
-    "link": "https://www.cultofmac.com/news/apple-buy-cxmt-chinese-memory-chips-rumor",
-    "content": "Apple might be lobbying the White House to buy chips from a Pentagon-blacklisted Chinese company called CXMT.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-06-29T15:15:16.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,iOS",
-    "id": 1550
   }
 ]
