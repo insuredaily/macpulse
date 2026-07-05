@@ -1,5 +1,25 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "iPhone 17 Pro Max buried in America’s 250th anniversary time capsule: to be opened in 2276",
+    "link": "https://9to5mac.com/2026/07/04/iphone-17-pro-max-included-in-america-250-time-capsule/",
+    "content": "In celebration of America’s 250th anniversary, a gigantic time capsule has been buried with numerous items from every state to commemorate our current era – one of them being an iPhone 17 Pro Max in Cosmic Orange. The time capsule is set to be unsealed in 2276 for America’s 500th anniversary.",
+    "pub_date": "2026-07-05T03:07:08.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS",
+    "id": 1870
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Indie App Spotlight: ‘PulseKit’ makes it easy to monitor all of your key analytics on iPhone",
+    "link": "https://9to5mac.com/2026/07/04/indie-app-spotlight-pulsekit-makes-it-easy-to-monitor-all-of-your-key-analytics-on-iphone/",
+    "content": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nPulseKit is an all-in-one app for iPhone that makes it easy to track all of the key analytics that matter to you – without needing to code anything on your own. Everything is visible right from your home screen and lock screen with widgets.",
+    "pub_date": "2026-07-04T19:30:00.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS,App Store",
+    "id": 1871
+  },
+  {
     "source_name": "Cult of Mac",
     "title": "Today in Apple history: Steve Jobs visits the Soviet Union",
     "link": "https://www.cultofmac.com/apple-history/steve-jobs-soviet-union",
@@ -51,7 +71,7 @@
   },
   {
     "source_name": "Cult of Mac",
-    "title": "Your iPhone will soon call your scammer’s bluff: Here’s how",
+    "title": "Your iPhone will soon call your scammer’s bluff — here’s how",
     "link": "https://www.cultofmac.com/news/ios-27-trust-insights-feature",
     "content": "iOS 27’s new Trust Insights feature flags suspicious behavior during calls, texts and payments to help stop scams before they happen.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
     "pub_date": "2026-07-04T14:00:37.000Z",
@@ -201,9 +221,9 @@
   },
   {
     "source_name": "Cult of Mac",
-    "title": "Apple’s defense in AI lawsuit: those YouTube videos were public all along",
+    "title": "Apple’s defense in AI lawsuit: Those YouTube videos were public all along",
     "link": "https://www.cultofmac.com/news/apple-youtube-ai-lawsuit-response",
-    "content": "Apple wants a YouTube lawsuit against it thrown out, arguing the videos it used for AI training were never locked down to begin with. \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "content": "Apple wants a lawsuit against it thrown out, arguing the YouTube videos Cupertino used for AI training were never locked down to begin with. \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
     "pub_date": "2026-07-03T16:13:39.000Z",
     "creator": "Anurag Chawake",
     "tags": "Mac",
@@ -2978,25 +2998,5 @@
     "creator": "Juli Clover",
     "tags": "iOS,App Store",
     "id": 1499
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Third macOS Tahoe 26.6 Beta Now Available for Developers",
-    "link": "https://www.macrumors.com/2026/06/29/apple-seeds-macos-tahoe-26-6-beta-3/",
-    "content": "Apple today provided the third beta of an upcoming macOS Tahoe 26.6 update to developers for testing purposes, with the update coming two weeks after Apple seeded the second beta.\r\n\r\n\r\nDevelopers can download the ‌macOS Tahoe‌ 26.6 update by opening up the System Settings app, selecting the General category, and then choosing Software Update. Beta Updates will need to be enabled, and a free developer account is required.\r\n\r\nmacOS Golden Gate set to launch in just a few months, Apple is likely focusing most of its attention on the new software. We are not expecting any major new features in ‌macOS Tahoe‌ 26.6.\r\nRelated Roundup: macOS Tahoe\nRelated Forum: macOS Tahoe\nThis article, \"Third macOS Tahoe 26.6 Beta Now Available for Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-29T17:09:00.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,App Store",
-    "id": 1500
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Releases Third watchOS 26.6, tvOS 26.6 and visionOS 26.6 Betas",
-    "link": "https://www.macrumors.com/2026/06/29/apple-seeds-watchos-26-6-beta-3/",
-    "content": "Apple today provided developers with the third betas of upcoming watchOS 26.6, tvOS 26.6, and visionOS 26.6 betas for testing purposes. The software comes two weeks after Apple seeded the second betas.\r\n\r\n\r\nThe software updates are available through the Settings app on each device, and because these are developer betas, a free developer account is required.\r\n\r\nRelated Roundups: Apple TV, Apple Vision Pro, watchOS 26, watchOS 27\nBuyer's Guide: Apple TV (Don't Buy), Vision Pro (Neutral)\nRelated Forums: Apple TV and Home Theater, Apple Vision Pro, Apple Watch\nThis article, \"Apple Releases Third watchOS 26.6, tvOS 26.6 and visionOS 26.6 Betas\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-29T17:08:00.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,Vision,App Store",
-    "id": 1501
   }
 ]
