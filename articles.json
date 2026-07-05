@@ -1,5 +1,25 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Report: iPhone Ultra to have incredibly limited availability at launch, may ship slightly later",
+    "link": "https://9to5mac.com/2026/07/05/iphone-fold-low-supply-at-launch-delayed-release/",
+    "content": "According to supply chain analyst Ming-Chi Kuo, Apple is likely to have very limited supply for iPhone Ultra at its time of announcement in September. This means it’s plausible that the company may delay shipping it for another month or two, similar to iPhone X.",
+    "pub_date": "2026-07-05T20:38:55.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS,Rumors",
+    "id": 1882
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Sunday Reboot: Stats, iPhones, and AI devices are still a threat",
+    "link": "https://appleinsider.com/articles/26/07/05/sunday-reboot-stats-iphones-and-ai-devices-are-still-a-threat?utm_source=rss",
+    "content": "In this week's \"Sunday Reboot,\" scientists somehow say iPhones lowered birthrates, and Musk's AI prototype story shows that specialist hardware is coming, even if we don't necessarily want it.\n\n\nElon Musk denies there's an xAI AI device being prototyped - Image Credit: Tesla\nSunday Reboot is a weekly column covering some of the lighter stories within the Apple reality distortion field from the past seven days. All to get the next week underway with a good first step.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-05T20:02:13.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "General",
+    "id": 1883
+  },
+  {
     "source_name": "MacRumors",
     "title": "'iPhone Ultra' Likely to 'Repeat the iPhone X Story'",
     "link": "https://www.macrumors.com/2026/07/05/foldable-iphone-to-repeat-iphone-x-story/",
@@ -2978,25 +2998,5 @@
     "creator": "Macworld",
     "tags": "Mac,iOS,App Store",
     "id": 1541
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Third developer betas of iOS 26.6, macOS 26.6 arrive with iOS 26.5.2 release",
-    "link": "https://appleinsider.com/articles/26/06/29/third-developer-betas-of-ios-266-macos-266-arrive-with-ios-2652-release?utm_source=rss",
-    "content": "Apple is now on the third round of its 26-gen operating system updates, including developer builds of its iOS 26.6 and others alongside some 26.5.2 releases.\n\n\nApple's hardware that works with the 26-generation operating systems - Image Credit: Apple\nApple is in the phase of the year where it has two developer beta tracks running at the same time. While the main attention is on the 27-generation, it is also still building for its current-gen operating systems.\nThe third developer betas landed after the second, which were distributed on June 15. The first round came out on May 26.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-29T17:37:13.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "Mac,iOS,App Store",
-    "id": 1529
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Cursor releases iPhone and iPad app following recent acquisition by SpaceX",
-    "link": "https://9to5mac.com/2026/06/29/cursor-releases-iphone-and-ipad-app-following-recent-acquisition-by-spacex/",
-    "content": "Earlier this month, SpaceX (which includes xAI) purchased the agentic coding firm Cursor. Today, Cursor has released its first iOS app.",
-    "pub_date": "2026-06-29T17:36:52.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS,App Store",
-    "id": 1514
   }
 ]
