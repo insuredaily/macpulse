@@ -1,13 +1,553 @@
 [
   {
     "source_name": "MacRumors",
+    "title": "Siri AI Comes to Apple Watch in watchOS 27 Beta 3",
+    "link": "https://www.macrumors.com/2026/07/06/siri-ai-apple-watch/",
+    "content": "With watchOS 27 beta 3, Apple added support for Siri AI and the ‌Siri‌ app, so Apple Watch users can now use the features right from their wrist.\r\n\r\n\r\nApple said ‌Siri‌ AI would be coming to the watch back when ‌watchOS 27‌ was first introduced, but the feature wasn't live until now.\r\n\r\nThe Dynamic App Grid that pops up when the Digital Crown is pressed displays the ‌Siri‌ app in the center, and the smarter version of ‌Siri‌ is available to answer queries and complete requests.\r\n\r\niPad, and Mac.\nRelated Roundups: Apple Watch 11, watchOS 26, watchOS 27\nTag: Siri\nBuyer's Guide: Apple Watch (Caution)\nRelated Forum: Apple Watch\nThis article, \"Siri AI Comes to Apple Watch in watchOS 27 Beta 3\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-06T20:24:40.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS,App Store",
+    "id": 1901
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple will launch two new products this year that could reshape iPad’s future",
+    "link": "https://9to5mac.com/2026/07/06/apple-will-launch-two-new-products-this-year-that-could-reshape-ipads-future/",
+    "content": "The iPad is 16 years old, but two new products Apple is rumored to launch this year could have a major impact on reshaping the tablet’s future.",
+    "pub_date": "2026-07-06T20:21:33.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 1915
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iOS 27 beta 3 lets users fine-tune how Siri sounds",
+    "link": "https://9to5mac.com/2026/07/06/ios-27-beta-3-lets-users-fine-tune-how-siri-sounds/",
+    "content": "With iOS 27 beta 3, users can now fine-tune how the new Siri AI sounds using separate controls for speaking pace and expressivity. Here are the details.",
+    "pub_date": "2026-07-06T20:14:43.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 1916
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "watchOS 27 beta 3 brings Siri AI to the Apple Watch",
+    "link": "https://appleinsider.com/articles/26/07/06/watchos-27-beta-3-brings-siri-ai-to-the-apple-watch?utm_source=rss",
+    "content": "Apple Watch owners can now finally use the new-and-improved Siri AI, thanks to watchOS 27 beta 3.\n\n\nwatchOS 27 beta 3 introduces a dedicated Siri app.\nAt WWDC 2026, Apple's virtual assistant received a long-overdue upgrade. Siri AI, available on iOS 27 beta, supports contextual awareness and understands natural language, effectively making it an Apple-designed chatbot.\nInitially, Siri AI was made available to developers with an iPhone, iPad, Mac, or Apple Vision Pro. With Monday's watchOS 27 developer beta, however, the revamped digital assistant has made its way to the Apple Watch, in the form of a dedicated Siri app.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-06T19:57:18.000Z",
+    "creator": "Marko Zivkovic <marko@appleinsider.com>",
+    "tags": "Mac,iOS,Vision,App Store",
+    "id": 1940
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "watchOS 27 adds three new Health upgrades for Apple Watch",
+    "link": "https://9to5mac.com/2026/07/06/watchos-27-adds-three-new-health-upgrades-for-apple-watch/",
+    "content": "watchOS 27 packs a variety of Health-related improvements for Apple Watch users that span three main areas, here’s what’s new.",
+    "pub_date": "2026-07-06T19:55:04.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 1917
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "How to upgrade your CarPlay experience with Ottocast products [15% off]",
+    "link": "https://9to5mac.com/2026/07/06/ottocast-turns-your-car-screen-into-a-match-day-hub-for-summer-soccer-celebration-15-off/",
+    "content": "Soccer season has a way of starting at exactly the wrong time. You’re running errands, waiting in the parking lot, or stuck away from the TV when the match finally kicks off. While your car screen is great for maps and music, it’s usually not set for match day streaming.\nThat’s what Ottocast wants to change this Summer Soccer Celebration. OttoAibox E2, OttoAibox P3 Pro, and Play2Video Ultra turn compatible car displays into entertainment hubs. Wireless CarPlay and Android Auto, streaming apps, and split-screen multitasking are included without replacing your car’s built-in head unit. Ottocast gives you a much better way to stay connected to the match.",
+    "pub_date": "2026-07-06T19:46:36.000Z",
+    "creator": "Sponsored Post",
+    "tags": "General",
+    "id": 1918
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Judge agrees to postpone deadlines as Apple seeks broader pause in Epic Games case",
+    "link": "https://9to5mac.com/2026/07/06/judge-agrees-to-postpone-deadlines-as-apple-seeks-broader-pause-in-epic-games-case/",
+    "content": "Judge Yvonne Gonzalez Rogers has approved Apple and Epic’s request to temporarily postpone key deadlines in their long-running App Store dispute. Here are the details.",
+    "pub_date": "2026-07-06T19:33:26.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "App Store",
+    "id": 1919
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple adds new popup for AI features that send data to Google Cloud",
+    "link": "https://9to5mac.com/2026/07/06/apple-adds-new-popup-for-ai-features-that-send-data-to-google-cloud/",
+    "content": "Apple now uses Google servers to power some of its new and upcoming AI features, and the company is using a popup to notify and request user permission in both iOS 27 and iOS 26. Here are the details.",
+    "pub_date": "2026-07-06T19:27:07.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 1920
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "macOS Golden Gate Gets New Wallpaper",
+    "link": "https://www.macrumors.com/2026/07/06/macos-golden-gate-wallpaper/",
+    "content": "With the third beta of macOS 27, Apple added new Golden Gate-themed wallpaper options to the Mac.\r\n\r\n\r\nThere are new Golden Gate Sunset and Golden Gate Night options, both of which join the prior Golden Gate abstract wallpaper that Apple introduced with the initial beta.\r\n\r\nGolden Gate Sunset and Golden Gate Night animate when unlocking the Mac, and can be set as a screen saver. When used as a screen saver, the Golden Gate Sunset wallpaper features waves breaking on the rocks near the Golden Gate Bridge. The Golden Gate Night wallpaper shows cars driving across the bridge.\r\n\r\nmacOS Golden Gate is limited to developers right now, but we are expecting a public beta soon.\nRelated Roundup: macOS Golden Gate\nThis article, \"macOS Golden Gate Gets New Wallpaper\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-06T19:22:26.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac",
+    "id": 1902
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "B&H is blowing out M4 Pro MacBook Pro inventory at $1,799",
+    "link": "https://appleinsider.com/articles/26/07/06/bh-is-blowing-out-m4-pro-macbook-pro-inventory-at-1799?utm_source=rss",
+    "content": "B&H is clearing out M4 Pro MacBook Pro inventory, offering discounts of up to $500 off and prices as low as $1,799. But inventory is limited, and the deals may sell out quickly.\n\n\nSave up to $500 on blowout 14-inch MacBook Pro laptops - Image credit: Apple\nKicking off the sale is Apple's last-gen M4 Pro 14-inch laptop that's marked down to $1,799. This configuration in Apple's silver finish has a 12-core CPU and 16-core GPU, along with 24GB of unified memory and 512GB of storage.\nBuy M4 Pro MacBook Pro for $1,799\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-06T19:18:25.000Z",
+    "creator": "Christine McKee <christine@appleinsider.com>",
+    "tags": "Mac,Silicon",
+    "id": 1941
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "watchOS 27 beta 3 includes upgraded Siri AI experience and dedicated Siri app",
+    "link": "https://9to5mac.com/2026/07/06/watchos-27-beta-3-includes-upgraded-siri-ai-experience-and-dedicated-siri-app/",
+    "content": "Apple’s upgraded Siri AI experience and the standalone Siri app have arrived on the Apple Watch with today’s watchOS 27 beta 3 release.",
+    "pub_date": "2026-07-06T18:54:40.000Z",
+    "creator": "Zac Hall",
+    "tags": "iOS,App Store",
+    "id": 1921
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "New in iOS 27 beta 3: Siri AI voice customization options",
+    "link": "https://appleinsider.com/articles/26/07/06/new-in-ios-27-beta-3-siri-ai-voice-customization-options?utm_source=rss",
+    "content": "The third developer beta of iOS 27 is here, with added customization options for Siri AI, visual tweaks, and more. Here's what's new.\n\n\niOS 27 beta 3 delivers new customization options for Siri AI.\nOn Monday, two weeks after the arrival of iOS 27 beta 2, Apple made the third developer beta available for download. While iOS 27 beta 1 delivered the long-overdue Siri AI, the second beta included enhancements for the Apple Home and Apple Wallet apps.\nNotably, for most, the entire Siri AI model needs to be redownloaded between beta 2 and beta 3. For some users, this has made the features gated behind a wait-list again.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-06T18:42:08.000Z",
+    "creator": "Marko Zivkovic <marko@appleinsider.com>",
+    "tags": "iOS,App Store",
+    "id": 1942
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "macOS 27 Golden Gate adds these new wallpapers and screen savers to your Mac",
+    "link": "https://9to5mac.com/2026/07/06/macos-27-golden-gate-adds-these-new-wallpapers-and-screen-savers-to-your-mac/",
+    "content": "Today’s macOS 27 Golden Gate beta 3 release includes two new wallpaper and screen saver options for your Mac.",
+    "pub_date": "2026-07-06T18:41:21.000Z",
+    "creator": "Zac Hall",
+    "tags": "Mac",
+    "id": 1922
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Here’s what’s new with iOS 27 beta 3",
+    "link": "https://9to5mac.com/2026/07/06/heres-whats-new-with-ios-27-beta-3/",
+    "content": "Apple released iOS 27 beta 3 today, giving developers the second follow-up update since iOS 27 debuted at WWDC. Developers can download the new beta now, ahead of this month’s expected public beta release.\niOS 27 is a major iPhone update centered around Siri AI, Apple Intelligence, Liquid Glass refinements, and a long list of quality-of-life changes. Here’s what we’ve found so far in iOS 27 beta 3.",
+    "pub_date": "2026-07-06T18:11:31.000Z",
+    "creator": "Zac Hall",
+    "tags": "iOS",
+    "id": 1923
+  },
+  {
+    "source_name": "Macworld",
+    "title": "iOS 27 beta 3 is out now for developers as Apple approaches the first public release",
+    "link": "https://www.macworld.com/article/3172166/apple-releases-the-second-ios-27-developer-beta-for-testers.html",
+    "content": "Macworld\n\n\nOn the first day of the WWDC developer conference, Apple released the first developer beta of its new operating system. This year, that means that the first release of iOS 27 outside Cupertino came on June 8, 2026.\nThe pattern goes like this: Apple releases developer-only betas for the first month or so, and then starts releasing the same build for both developers and public beta testers. Based on historical precedent, we expect the third or fourth beta to be the first one to go out to public beta testers rather than just developers. \nIf you want to try out the new OS 27 updates and provide feedback, check out our article on how to become a beta tester. It’s easy.\nUpdated July 6, 2026: Apple has released the third iOS 27 developer beta. This build could be released as the first public beta this week.\nWhat’s new in iOS 27\nThe big iOS 27 release this year is focused on three main areas:\nTrust and Safety – New parental controls to keep kids safe and control screen time.\nPerformance and refinement – Speeding everything up, improving efficiency, tweaking interfaces, and addressing dozens of small user requests.\nApple Intelligence and Siri – Entirely new Apple Intelligence models improve AI throughout the system, and a brand-new Siri is vastly more capable than ever before.\nFor a more complete breakdown of all the new features and changes, check out our iOS 27 guide.\nBeta 2 brought the following changes. (We’ll update this with Beta 3 changes once they are discovered.):\nRCS messaging gets inline replies and proper tapback reactions.\nYou can update your Apple TV through the Home app on your iPhone.\nThe Apple Wallet “Insights” feature comes to more regions.\nThe new “Write with Siri” feature is enabled, replacing the old Writing Tools.\niOS 27: How to install the developer beta\nYou’ll need to be registered as an Apple Developer, but a free developer account will do. You can get one via Xcode or the Apple Developer app in iOS. Here’s how to do it via the Apple Developer app:\nDownload the Apple Developer App from the App Store.\nOpen the app.\nTap on Account.\nSign in using your usual Apple ID.\nOnce you have a free developer account, just follow the same instructions as with the public beta:\nOpen Settings.\nTap General, then Software Update.\nMake sure the Beta Updates selection is set to iOS 27 Developer Beta.\nFollow the on-screen instructions.\niOS 27: How to install the public beta\nThe first iOS 27 public beta is not available yet but is expected to arrive in July. When it lands, you can follow these steps to test it out even if you’re not a developer:\nClick Sign Up on the Apple Beta page and register with your Apple ID.\nLog in to the Beta Software Program.\nClick Enroll your iOS device.\nOpen the Settings app, tap General, then Software Update.\nIn the Beta Updates section, select the iOS 27 Public Beta.\nIt may take a few moments after registering for the beta option to appear in Software Update.",
+    "pub_date": "2026-07-06T17:52:20.000Z",
+    "creator": "Macworld",
+    "tags": "iOS,App Store",
+    "id": 1953
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple rolls out the third iOS 27, macOS 27 developer betas",
+    "link": "https://appleinsider.com/articles/26/07/06/apple-rolls-out-the-third-ios-27-macos-27-developer-betas?utm_source=rss",
+    "content": "Apple has now moved to the third round for the developer betas of iOS 27, macOS 27, and others of the 27 generation. Expect more to come before the eventual fall releases.\n\n\nAn earlier iOS 27 beta screen\nThe developer beta program for the 27-gen operating systems is continuing with its third round of builds. All to make sure that the versions that ship in the fall are in top working order for the general public.\nThe third developer builds arrive after the second, which arrived on June 22 for most of the operating systems. The watchOS 27 counterparts landed later, on June 23 and June 25. \n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-06T17:45:29.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "Mac,iOS,App Store",
+    "id": 1944
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple rolls out fourth Release Candidates for macOS Sonoma 14.8.8 and Sequoia 15.7.8",
+    "link": "https://9to5mac.com/2026/07/06/apple-rolls-out-fourth-release-candidates-for-macos-sonoma-14-8-8-and-sequoia-15-7-8/",
+    "content": "After releasing a rare third RC for macOS Sonoma 14.8.8 and Sequoia 15.7.8 late last month, the company is now rolling out a fourth version alongside macOS 26.6 beta 4 and macOS 27 beta 3. Here are the details.",
+    "pub_date": "2026-07-06T17:40:50.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac",
+    "id": 1924
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Fourth developer betas of iOS 26.6, macOS 26.6 land for testing",
+    "link": "https://appleinsider.com/articles/26/07/06/fourth-developer-betas-of-ios-266-macos-266-land-for-testing?utm_source=rss",
+    "content": "Apple's beta program for its 26-gen operating systems continues, with the fourth developer builds of iOS 26.6 and others now available for testing.\n\n\nApple's hardware that works with the 26-generation operating systems - Image Credit: Apple\nWhile the main attention is on the 27-generation, Apple is still making changes to its current-gen operating systems.\nThe fourth developer betas landed after the third, which landed on June 29. The second was distributed on June 15, and the first round came out on May 26.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-06T17:36:25.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "Mac,iOS,App Store",
+    "id": 1943
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple releases beta 3 for iPadOS 27, tvOS 27, and more",
+    "link": "https://9to5mac.com/2026/07/06/apple-releases-beta-3-for-ipados-27-tvos-27-and-more/",
+    "content": "Apple has released new betas today for its next major software updates, with developer beta 3 rolling out for iPadOS 27, tvOS 27, visionOS 27, and more.",
+    "pub_date": "2026-07-06T17:26:48.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS,Vision,App Store",
+    "id": 1925
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "macOS Golden Gate Beta 3 Now Available for Developers",
+    "link": "https://www.macrumors.com/2026/07/06/apple-seeds-macos-27-beta-3/",
+    "content": "Apple today provided developers with the third beta of macOS Golden Gate, with the update coming two weeks after Apple seeded the second beta.\r\n\r\n\r\nDevelopers can download ‌macOS Golden Gate‌ by going to System Settings > General > Software Update. Beta Updates will need to be enabled, and a free developer account is required.\r\n\r\n‌macOS Golden Gate‌ includes multiple design improvements. Liquid Glass opacity has been improved to increase readability, there's a slider for controlling the level of transparency, and changes to shadowing make it easier to tell when a window is active. Apps now have uniform toolbars, edge-to-edge sidebars, and less rounded corners, plus there are fewer icons in menu bars.\r\n\r\nSiri has been transformed into ‌Siri‌ AI, a chatbot-style assistant that combines general world knowledge, your personal data, and onscreen awareness to answer questions about anything and find information for you. ‌Siri‌ lives in Spotlight, and you can ask questions with the new Search or Ask interface.\r\n\r\nVisual Intelligence is now on the Mac so ‌Siri‌ can answer questions about what's on your screen, and a Write with ‌Siri‌ feature lets ‌Siri‌ generate text or give feedback on your writing.\r\n\r\nPhotos app, AI tab organization in Safari, an option to use AI to automatically update weak passwords in the Passwords app, and a revamped Image Playground app that can generate photorealistic images.\r\n\r\nfound in our macOS Golden Gate roundup. ‌macOS Golden Gate‌ is limited to developers right now, but Apple plans to release a public beta soon.\nRelated Roundup: macOS Golden Gate\nThis article, \"macOS Golden Gate Beta 3 Now Available for Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-06T17:25:59.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,App Store",
+    "id": 1903
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Seeds Third iOS 27 and iPadOS 27 Betas to Developers",
+    "link": "https://www.macrumors.com/2026/07/06/apple-seeds-ios-27-beta-3/",
+    "content": "Apple today seeded the third betas of iOS 27 and iPadOS 27 to developers for testing purposes, with the update coming two weeks after Apple released the second betas.\r\n\r\n\r\nRegistered developers can download the betas from the Settings app on the iPhone or iPad by going to the General section and selecting Software Update.\r\n\r\nSiri, ‌Siri‌ AI. ‌Siri‌ AI is a chatbot similar to ChatGPT, incorporating general world knowledge, personal data from apps like Messages and Mail, and onscreen awareness to answer questions and find information for you.\r\n\r\nApple Intelligence features in apps like Photos, Safari, Shortcuts, Wallet, and Passwords, plus Apple added a standalone ‌Siri‌ app that houses ‌Siri‌ conversations. Write with ‌Siri‌ is available systemwide for generating text or offering feedback on your writing, and Visual Intelligence has been relocated to the Camera app with a new ‌Siri‌ mode.\r\n\r\nApple improved the look of Liquid Glass and added a slider for customizing transparency. There are multiple performance improvements to speed up iOS, so everything feels faster, even on older iPhones. Apps launch quicker, AirDrop transfers are faster, the keyboard pops up more quickly, and devices are better at transitioning between Wi-Fi and Cellular to keep you connected.\r\n\r\nwe have a dedicated iOS 27 roundup.\nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"Apple Seeds Third iOS 27 and iPadOS 27 Betas to Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-06T17:24:00.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,App Store",
+    "id": 1904
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "macOS 27 Golden Gate beta 3 now available, here’s what’s to expect",
+    "link": "https://9to5mac.com/2026/07/06/macos-27-golden-gate-beta-3-now-available-heres-whats-to-expect/",
+    "content": "Two weeks after releasing macOS 27 Golden Gate beta 2, Apple is now rolling out beta 3 for developers. Here are the details.",
+    "pub_date": "2026-07-06T17:23:38.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac",
+    "id": 1926
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iOS 27 beta 3 now available as Apple tests major Siri AI upgrade",
+    "link": "https://9to5mac.com/2026/07/06/ios-27-beta-3/",
+    "content": "Apple has released the third iOS 27 beta for developer testing. iOS 27 beta 3 replaces the second iOS 27 beta and continues Apple’s summer beta cycle ahead of a public release this fall. We’ll update our devices and share what we discover.",
+    "pub_date": "2026-07-06T17:23:37.000Z",
+    "creator": "Zac Hall",
+    "tags": "iOS,App Store",
+    "id": 1927
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Seeds Third visionOS 27 Beta to Developers",
+    "link": "https://www.macrumors.com/2026/07/06/apple-seeds-visionos-27-beta-3/",
+    "content": "Apple today provided developers with the third beta of an upcoming visionOS 27 update for testing purposes, with the beta coming two weeks after Apple released the second beta.\r\n\r\n\r\nvisionOS 27 can be installed by opening the Settings app, going to Software Updates, and opting into Beta Updates.\r\n\r\nSiri AI, the smarter and more capable version of ‌Siri‌ that's similar in capability to chatbots like ChatGPT and Claude. On the Vision Pro, ‌Siri‌ can answer questions about anything the wearer is looking at, and there's a new ‌Siri‌ orb that can be placed anywhere in wearer's virtual space.\r\n\r\nPanorama photos can be turned into spatial environments, and there's a new Icelandic Thórsmörk environment that features dramatic mountains, valleys, and glaciers, along with the northern lights. Web Environment support allows developers to create 360-degree environments in Safari for a more native Vision Pro browsing experience.\r\n\r\nApp windows are now curved to provide a more immersive workspace, and Control Center has been reorganized to make system controls easier to find. Apple added a smaller widget size, and notifications automatically expand when the wearer looks at them.\r\n\r\nlisted in our Vision Pro roundup.\nRelated Roundup: Apple Vision Pro\nBuyer's Guide: Vision Pro (Neutral)\nRelated Forum: Apple Vision Pro\nThis article, \"Apple Seeds Third visionOS 27 Beta to Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-06T17:23:00.000Z",
+    "creator": "Juli Clover",
+    "tags": "Vision,App Store",
+    "id": 1905
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Seeds watchOS 27 Beta 3 to Developers",
+    "link": "https://www.macrumors.com/2026/07/06/apple-seeds-watchos-27-beta-3/",
+    "content": "Apple today seeded the third beta of watchOS 27 to developers, with the update coming two weeks after the launch of the second beta.\r\n\r\n\r\nThe beta can be downloaded through the Watch app on the iPhone with a free developer account. The Apple Watch will need to be on the charger, connected to Wi-Fi, and have a battery level of 50 percent or above for new software to be installed. The beta is available for all Apple Watch models compatible with ‌watchOS 27‌ except for the Apple Watch Ultra 3. \r\n\r\nSiri AI, the smarter, more capable version of ‌Siri‌. ‌Siri‌ can hold back-and-forth conversations, plus it has access to general world knowledge and your personal data to answer questions and find information. ‌Siri‌ AI on Apple Watch requires an iPhone that supports Apple Intelligence, including the iPhone 15 Pro and later.\r\n\r\nThere's a new Dynamic app grid that highlights ‌Siri‌ suggested apps, and more intuitive Smart Stack Suggestions. You can find your parked car, see pinned messages, get noise alerts, and view identity and transit cards.\r\n\r\nFind My app with support for Precision Finding, and there are performance optimizations that improve battery life.\r\n\r\nis available in our watchOS 27 roundup.\r\nRelated Roundups: watchOS 26, watchOS 27\nRelated Forum: Apple Watch\nThis article, \"Apple Seeds watchOS 27 Beta 3 to Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-06T17:23:00.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,App Store",
+    "id": 1906
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Seeds tvOS 27 Beta 3 to Developers",
+    "link": "https://www.macrumors.com/2026/07/06/apple-seeds-tvos-27-beta-3/",
+    "content": "Apple today seeded the third beta of tvOS 27 to developers for testing purposes, with the update coming two weeks after Apple released the second beta.\r\n\r\n\r\nThe beta can be downloaded and installed through the Settings app on the Apple TV. A free developer account is required.\r\n\r\ntvOS 27 has few new features compared to the other 27 software updates, but it does add a redesigned Podcasts app, options for larger text, and a more responsive Control Center.\r\n\r\nAppleCare coverage details in the Settings app.\r\n\r\nfound in our Apple TV roundup.\nRelated Roundup: Apple TV\nBuyer's Guide: Apple TV (Don't Buy)\nRelated Forum: Apple TV and Home Theater\nThis article, \"Apple Seeds tvOS 27 Beta 3 to Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-06T17:22:00.000Z",
+    "creator": "Juli Clover",
+    "tags": "App Store",
+    "id": 1907
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Ill-timed interview touts Macs as ‘amazing’ AI devices–if you can afford one",
+    "link": "https://www.macworld.com/article/3185202/apple-silicon-macs-are-an-amazing-system-for-ai-if-you-can-afford-one.html",
+    "content": "Macworld\n\n\nWWDC wasn’t even a month ago, but it feels like an eternity. In the four weeks since the keynote aired, Apple has released two OS 27 betas, unleashed Siri AI on the world, and raised prices on Macs and iPads by hundreds of dollars.\nThat’s why this interview with senior Apple silicon product manager Doug Brooks by The Deep View, a “daily guide to the fast-moving world of AI,” feels so out of touch. It’s not so much what he says, but rather when he said it.\nThe interview, which is relatively short and light on news, was conducted “ahead of WWDC 2026 in June” and was only just published late last week ahead of the Fourth of July holiday in the U.S. As expected, it’s all about how primed Apple silicon is for on-device AI, but in light of all that’s happened in the past month, it sort of misses the mark.\nFor one, Brooks notes that AI’s performance demands, which rely on “the whole chip contributing to different parts of the task,” are a good match for the “strengths of Apple silicon.” He adds that Apple is “maintaining our core strengths around unified memory and incredibly power-efficient performance,” and points out that “the momentum around AI capabilities continues to be phenomenal.”\nHe particularly calls out the Mac mini and Mac Studio as “amazing platforms for AI in general and especially for these emerging agentic tools … [that] tap into the strengths of Apple silicon and unified memory in a very power-efficient way.” \nAll of this is true, of course. Earlier this year, the Mac mini became the AI agent desktop of choice, leading to a supply crunch that forced Apple to drop several models from its lineup, including the cheapest Mac mini. That model actually returned in late June, but unfortunately came with a $200 price increase—and you still can’t get one until next month.\nBut it’s this bit that’s particularly eye-rolling: “Increasingly they’re delivering compelling price-performance as well.” That may have been true in early June, but it’s no longer the case, as Apple has raised base prices across the board and hiked RAM and storage prices as well. The M3 Ultra Mac Studio, which cost $3,999 at the time of this interview, now costs $5,299. That’s hardly compelling value—and besides, it won’t be in stock till October.\nOf course, none of this is Brooks’ fault specifically. Had the interview run on June 10, for example, it would have made a lot more sense. But it’s hard to believe he didn’t know Mac prices were about to blow up less than a month later.",
+    "pub_date": "2026-07-06T17:21:32.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,Silicon",
+    "id": 1954
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "macOS 26.6 beta 4 rolling out now, here’s what to expect",
+    "link": "https://9to5mac.com/2026/07/06/macos-26-6-beta-4-rolling-out-now-heres-what-to-expect/",
+    "content": "A week after releasing macOS 26.6 developer beta 3, Apple is now rolling out the fourth beta for developers, ahead of the system’s official rollout. Here’s what to expect.",
+    "pub_date": "2026-07-06T17:21:06.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac,App Store",
+    "id": 1928
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple releases beta 4 for iPadOS 26.6, watchOS 26.6, more",
+    "link": "https://9to5mac.com/2026/07/06/apple-releases-beta-4-for-ipados-26-6-watchos-26-6-more/",
+    "content": "One week after its last betas, Apple has just released beta 4 for iPadOS 26.6, watchOS 26.6, and more. Here’s what to expect.",
+    "pub_date": "2026-07-06T17:20:00.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 1929
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple releases iOS 26.6 beta 4 for iPhone, here’s what to expect",
+    "link": "https://9to5mac.com/2026/07/06/apple-releases-ios-26-6-beta-4-for-iphone-heres-what-to-expect/",
+    "content": "While iOS 27 is very much the new focus for pre-release software, Apple is still preparing iOS 26.6 as the next iPhone update. Apple has released the fourth iOS 26.6 developer beta. iOS 26.6 beta has been in testing since the end of May.",
+    "pub_date": "2026-07-06T17:18:42.000Z",
+    "creator": "Zac Hall",
+    "tags": "iOS,App Store",
+    "id": 1930
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Fourth macOS Tahoe 26.6 Beta Now Available for Developers",
+    "link": "https://www.macrumors.com/2026/07/06/apple-seeds-macos-26-6-beta-4/",
+    "content": "Apple today provided the fourth beta of an upcoming macOS Tahoe 26.6 update to developers for testing purposes, with the update coming a week after Apple seeded the third beta.\r\n\r\n\r\nDevelopers can download the ‌macOS Tahoe‌ 26.6 update by opening up the System Settings app, selecting the General category, and then choosing Software Update. Beta Updates will need to be enabled, and a free developer account is required.\r\n\r\nmacOS Golden Gate launching in just a couple months, Apple is likely focusing most of its attention on the new software. We are not expecting any major new features in ‌macOS Tahoe‌ 26.6.\nRelated Roundup: macOS Tahoe\nRelated Forum: macOS Tahoe\nThis article, \"Fourth macOS Tahoe 26.6 Beta Now Available for Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-06T17:18:37.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,App Store",
+    "id": 1908
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Seeds Fourth iOS 26.6 and iPadOS 26.6 Betas to Developers",
+    "link": "https://www.macrumors.com/2026/07/06/apple-seeds-ios-26-6-beta-4/",
+    "content": "Apple today seeded the fourth betas of upcoming iOS 26.6 and iPadOS 26.6 updates to developers for testing purposes, with the software coming a week after Apple seeded the third betas.\r\n\r\n\r\nRegistered developers can download the betas from the Settings app on the iPhone or iPad by going to the General section and selecting Software Update.\r\n\r\niOS 27 set to launch in September, Apple is wrapping up work on iOS 26. We are not expecting any major new features in the iOS 26.6 update, and it will primarily focus on bug fixes and performance improvements.\r\n\r\nmaximum number of blocked contacts. The update might also include a new anti-snatching feature that locks your iPhone if it's grabbed from your hand.\nRelated Roundups: iOS 26, iPadOS 26\nRelated Forum: iOS 26\nThis article, \"Apple Seeds Fourth iOS 26.6 and iPadOS 26.6 Betas to Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-06T17:17:55.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,App Store",
+    "id": 1909
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Releases Fourth watchOS 26.6, tvOS 26.6 and visionOS 26.6 Betas",
+    "link": "https://www.macrumors.com/2026/07/06/apple-seeds-watchos-26-6-beta-4/",
+    "content": "Apple today provided developers with the fourth betas of upcoming watchOS 26.6, tvOS 26.6, and visionOS 26.6 betas for testing purposes. The software comes a week after Apple seeded the third betas.\r\n\r\n\r\nThe software updates are available through the Settings app on each device, and because these are developer betas, a free developer account is required.\r\n\r\nRelated Roundups: Apple TV, Apple Vision Pro, watchOS 26, watchOS 27\nBuyer's Guide: Apple TV (Don't Buy), Vision Pro (Neutral)\nRelated Forums: Apple TV and Home Theater, Apple Vision Pro, Apple Watch\nThis article, \"Apple Releases Fourth watchOS 26.6, tvOS 26.6 and visionOS 26.6 Betas\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-06T17:16:00.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,Vision,App Store",
+    "id": 1910
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "iPhone 17 Pro Max will represent America's present, in 250 years",
+    "link": "https://appleinsider.com/articles/26/07/06/iphone-17-pro-max-will-represent-americas-present-in-250-years?utm_source=rss",
+    "content": "An iPhone 17 Pro Max will represent American innovation in the nation's official time capsule, joining a collection that reflects how the United States chose to remember itself in 2026.\n\nAmerica 250\nAmerica250 has sealed the nation's official time capsule with an iPhone 17 Pro Max inside. The capsule preserves a snapshot of the United States that won't be reopened until 2276.\nThe collection will be buried on July 4 at Independence National Historical Park in Philadelphia as part of the country's 250th anniversary celebration. Organizers chose the iPhone to represent American innovation during the semiquincentennial.\nAmerica250 says the iPhone 17 Pro Max represents advances in handheld computing, photography, and connectivity. Few consumer products have changed how people communicate, work, and create as profoundly as Apple's smartphone.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-06T17:09:41.000Z",
+    "creator": "Andrew Orr <andreworr@appleinsider.com>",
+    "tags": "iOS",
+    "id": 1945
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Infamous Apple leaker info-dumps almost every iPhone Air 2 detail",
+    "link": "https://www.macworld.com/article/3185339/infamous-apple-leaker-info-dumps-almost-every-iphone-air-2-detail.html",
+    "content": "Macworld\n\n\nWith all eyes on this fall’s iPhone launches, the notorious leaker Jon Prosser has released a video purporting to reveal numerous details about the biggest Apple product of next spring: the iPhone Air 2.\nIn just over eight minutes (which includes a minute-long sponsor message), Prosser spills the beans on the next Air’s release timing, design, strategic changes, technical upgrades, and color options. He even claims to know how Apple will alter the Air’s name across the next couple of years… but we’ll come to that in a moment.\n\n\n\n\n\n\nBefore we get to the details, a disclaimer. There’s still around seven or eight months to go until Apple reveals this product, which means things can change. Prosser himself acknowledges that the design of the Air 2 “won’t be finalised for a few more months,” so the rather nice rendered images in his video may be inaccurate.\nIt’s also worth mentioning that he doesn’t give a source for any of his assertions, coyly prefacing his reveals with the phrase “I can’t say how I know, but…” Some of the claims, it must be said, are likely just recycled from other leakers’ predictions. But Prosser does seem to have sources inside Apple or its supplier partners (to the extent that Apple filed a lawsuit against him), and while he has made some notable errors in the past, he is generally worth listening to.\nTo return to the iPhone Air 2, Prosser says it’ll launch in spring, alongside the baseline iPhone 18 and the iPhone 18e. It will therefore be the premium model of that half-yearly batch of phones, much as the Ultra will be the premium model of this fall’s set. That’s not a new theory, but it’s always nice to have corroboration.\nOn design, he predicts a device that’s similar to the first-gen Air, referring to it as “slightly refreshed, slightly repositioned.” It will still be made of titanium.\nThe main externally visible change is the addition of a second camera lens (a 48MP ultrawide) on the rear, in addition to the single 48MP main lens that its predecessor relies on. Only having one rear lens was one of the biggest complaints that device faced: our reviewer lamented, “Not a day went by that I didn’t miss having a second (or third) camera.” So that’s nice.\nThis upgrade was a technical challenge, Prosser says, because the plateau was already crammed with components and Apple didn’t want to make the chassis any thicker. It’s only become possible to squeeze in the ultrawide lens because Apple has redesigned the Face ID apparatus to take up less space, a change we’re expecting to debut in the iPhone 18 Pro.\nAnother qualm customers and reviewers raised about the iPhone Air was its battery performance, which wasn’t terrible but offered “considerably less battery life than the basic iPhone 17.” Prosser says the Air 2 will do better in this area. “Nothing dramatic,” he says, “but definitely noticeable.”\nWhat will certainly be noticeable is the new color finish which Prosser thinks Apple will offer for the Air 2. We’ll still get the Space Black, Cloud White, and Light Gold options, he says, but Sky Blue will be replaced by something “shifted closer to lavender.”\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\tFront Page Tech\nRegarding the processor, Prosser appears to imply that the Air 2 will get a standard A20 chip (like the iPhone 18) rather than a 2nm A20 Pro chip (like the iPhone 18 Pro). That would be something of a downgrade, as the current Air uses a slimmed-down version of the A19 Pro chip, but his speculations in this area are a little confusing.\n“Inside, Apple was planning on having this phone sport a 2nm chip, which would be a significant jump in all the areas that make a phone, a phone,” he says. But then he discusses price pressures, and concludes that “for iPhone Air, the user base likely wouldn’t even care to know the difference between a 2nm chip and, say, a standard A20 chip.” Make of that what you will.\nSpeaking of pricing, Prosser doesn’t offer a specific number, but he speculates that Apple’s recent price hikes in the Mac and iPad ranges are likely to translate to $50 increases on its iPhones. Given that the iPhone Air starts at $999, that hints at a possible price tag of $1,049, but it’s impossible to confidently predict the direction of the RAM market over the next six months.\nFinally, we get a hint at how Apple is going to change the Air’s positioning and branding over the next few years. Prosser thinks this will become the standard model, switching from the Air branding to just “iPhone.” Ultimately, he thinks, we’ll wind up with three brands: iPhone (based on the Air chassis), iPhone Pro, and iPhone Ultra.",
+    "pub_date": "2026-07-06T17:08:32.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,iOS,Silicon",
+    "id": 1955
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "9to5Mac Daily: July 6, 2026 – New iOS 27 framework, more",
+    "link": "https://9to5mac.com/2026/07/06/daily-july-6-2026/",
+    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.",
+    "pub_date": "2026-07-06T16:57:13.000Z",
+    "creator": "Seth Kurkowski",
+    "tags": "iOS,App Store",
+    "id": 1931
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "AirPods Ultra could beat Apple’s smart glasses to market",
+    "link": "https://www.cultofmac.com/news/apple-airpods-ultra-hidden-ios-27-code",
+    "content": "A hidden line of code in iOS 27 suggestes Apple's next wearable is closer to AirPods Ultra than smart glass, and the codename backs it up.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-06T16:55:06.000Z",
+    "creator": "Anurag Chawake",
+    "tags": "Mac,iOS",
+    "id": 1957
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple starts offering free 4K upgrades for purchased TV shows",
+    "link": "https://9to5mac.com/2026/07/06/apple-starts-offering-free-4k-upgrades-for-purchased-tv-shows/",
+    "content": "Back in 2017, Apple began rolling out 4K content on the iTunes Store in conjunction with the launch of the first Apple TV 4K. At the time, Apple also began upgrading previously purchased movies to 4K quality at no additional charge.\nNow, Apple is finally extending that to TV shows and has started offering free 4K upgrades on select titles in the Apple TV app.",
+    "pub_date": "2026-07-06T16:17:56.000Z",
+    "creator": "Chance Miller",
+    "tags": "App Store",
+    "id": 1932
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Replace your MacBook brick with this powerful Anker charger for under $100 ($50 off)",
+    "link": "https://www.macworld.com/article/3185248/replace-your-macbook-brick-with-this-powerful-anker-charger-for-under-100-50-off.html",
+    "content": "Macworld\n\n\nAnker 160W Prime Charger\nView Deal\nYou can grab Anker’s $150 Prime 160W 3-port charger for $100 at Amazon right now, a serious $50 discount. That’s the best price we’e ever seen and matches the all-time-low it hit during Amazon’s recent Prime Day sale.\nWhile MacBook Pro chargers only have a single port, this charger has three ports but is more compact and just as powerful as Apple’s. You get a full 160W total output from a charger that’s about the size of your AirPods Pro case. You can fast-charge a MacBook, iPhone, and iPad all at once with this speedy GaN charger.\nWhen all ports are in use, the top USB-C port will still deliver 100W of power, while the other two will split the remaining 60W in two. When using single-port charging, however, any of the C-ports will push 140W of charging speeds. Anker says it will take Apple’s most power-hungry 16-inch MacBook Pro from 0 to 50 percent in about 25 minutes, which is quite impressive.\nEven at $50 off the MSRP, this Anker charger is quite pricey. It is, however, best suited for folks who juggle plenty of power-hungry devices, and it most definitely can replace your MacBook charger. You will, however, also need to shell out for a 240W cable, such as Apple’s USB-C to MagSafe 3 Cable, if you want to get the fastest speeds. But if you’re tired of lugging around a large charger just to keep your MacBook filled up, act fast on this charger deal.",
+    "pub_date": "2026-07-06T16:10:38.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,iOS",
+    "id": 1956
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Netflix viewers keep abandoning hit series after one season",
+    "link": "https://9to5mac.com/2026/07/06/netflix-viewers-keep-abandoning-hit-series-after-one-season/",
+    "content": "The biggest player in streaming is easily Netflix, but viewership data shows a surprising problem area for the company: getting viewers to come back for a second season.",
+    "pub_date": "2026-07-06T16:03:40.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "General",
+    "id": 1933
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iPhone 17 Pro Max Sealed in Time Capsule Until 2276",
+    "link": "https://www.macrumors.com/2026/07/06/iphone-17-pro-max-sealed-in-time-capsule/",
+    "content": "An iPhone 17 Pro Max in Cosmic Orange has been sealed inside a 250 year time capsule as part of America's Semiquincentennial celebrations, with the device not due to be seen again until the 23rd century.\r\n\r\n\r\nAmerica250, the congressionally appointed nonprofit leading the 250th anniversary celebrations, announced that \"America's Time Capsule\" was officially sealed and buried at Independence National Historical Park in Philadelphia on July 4, 2026, to be reopened in 2276.\r\n\r\nThe iPhone was included through America250's \"America Innovates\" initiative as a representative of the cutting edge of American innovation and technology in 2026, with the device showcasing advances in handheld computing, imaging, and connectivity that have transformed how people work, communicate, and create in the 21st century. The device contains \"digital artifacts\" in the Notes app, intended to give whoever opens the capsule in 2276 a small window into everyday life in 2026.\r\n\r\nThe capsule itself was built to give the iPhone and everything else inside it the best possible chance of surviving intact. Developed with the National Institute of Standards and Technology and preservation experts at the Library of Congress, it uses a 900 pound, precision milled stainless steel cylinder sealed with indium, a soft metal that deforms under compression to fill microscopic imperfections in the sealing groove. It was covered with a 1,100 pound stainless steel bell jar that creates a protective air pocket to keep the vessel dry underground.\r\n\r\nRelated Roundup: iPhone 17 Pro\nBuyer's Guide: iPhone 17 Pro (Caution)\nRelated Forum: iPhone\nThis article, \"iPhone 17 Pro Max Sealed in Time Capsule Until 2276\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-06T16:03:21.000Z",
+    "creator": "Hartley Charlton",
+    "tags": "iOS,App Store",
+    "id": 1911
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "9to5Mac Overtime 071: A weird time for Apple",
+    "link": "https://9to5mac.com/2026/07/06/9to5mac-overtime-071-a-weird-time-for-apple/",
+    "content": "Fernando and Jeff discuss CarPlay on iOS 27, experience with the Rivian R1S on a road trip, why you might consider buying an iPhone 17 Pro right now instead of waiting for the iPhone 18 Pro, Apple Wallet and Amex Membership Rewards points, Apple’s dramatic hardware price increases, and the idea of getting more out of older technology.\n9to5Mac Overtime is a weekly video-first podcast exploring fun and interesting observations in the Apple ecosystem, featuring 9to5Mac’s Fernando Silva & Jeff Benjamin. Subscribe to Overtime via Apple Podcasts and our YouTube channel for more.",
+    "pub_date": "2026-07-06T16:01:20.000Z",
+    "creator": "Jeff Benjamin",
+    "tags": "iOS",
+    "id": 1934
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Deals: M5 iPad Pro $420 off, AirTag 2 from $22 each, Apple Watch Ultra 3, Anker 25W MagSafe chargers, more",
+    "link": "https://9to5mac.com/2026/07/06/deals-m5-ipad-pro-airtag-2-apple-watch-ultra-3/",
+    "content": "Alongside the ongoing deal on AirPods 4 at nearly 25% off and the best price ever on Apple’s new AirTag 2, today’s 9to5Toys Lunch Break is headlined by the last remaining chances to land pre-price hike deals on M5 iPad Pro – this 1TB 13-inch is now $420 off. We also have M5 MacBook Air at $150 under the new prices at Apple, several Apple Watch Ultra 3 models at nearly $100 off, and a series of notable deals on Anker charging gear – latest 3-in-1 Qi2 25W foldable MagSafe Charging Station back at Prime Day all-time low, its 45W Nano charger with smart display down to just $26, and this notable discount on its display-equipped Qi2 25W smart MagSafe charger. Head below for a closer look.",
+    "pub_date": "2026-07-06T15:26:31.000Z",
+    "creator": "Justin Kahn",
+    "tags": "Mac,iOS,Silicon",
+    "id": 1935
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple’s M6 chip could skip many new products, here’s what’s rumored",
+    "link": "https://9to5mac.com/2026/07/06/apples-m6-chip-could-skip-many-new-products-heres-whats-rumored/",
+    "content": "Apple is expected to launch its next-generation M6 chip this fall, but rumors indicate the new chip could skip a number of new products.",
+    "pub_date": "2026-07-06T15:09:10.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "General",
+    "id": 1936
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple Watch Ultra 3 drops to $699 with $100 Amazon discount",
+    "link": "https://appleinsider.com/articles/26/07/06/apple-watch-ultra-3-drops-to-699-with-100-amazon-discount?utm_source=rss",
+    "content": "Amazon has knocked $100 off the Apple Watch Ultra 3, dropping Apple's premium smartwatch to $699.99 for a limited time.\n\n\nSave $100 on the Apple Watch Ultra 3 at Amazon - Image credit: Apple\nAmazon has cut the price of the Apple Watch Ultra 3 to $699.99, delivering a solid $100 discount on Apple's premium smartwatch. While we've seen the wearable dip to as low as $649 this year, today's offer remains one of the best widely available deals on the current-generation model.\nBuy Apple Watch Ultra 3 for $699.99\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-06T14:37:25.000Z",
+    "creator": "Christine McKee <christine@appleinsider.com>",
+    "tags": "iOS",
+    "id": 1946
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Anker's 3-in-1 Foldable Wireless Charger Matches Prime Day Low at $99.74",
+    "link": "https://www.macrumors.com/2026/07/06/ankers-charger-matches-prime-day/",
+    "content": "Anker's popular Prime 3-in-1 Wireless Charging Station has dropped to $99.74 on Amazon, down from $149.99. This is one of Anker's newest accessories, and Amazon's sale today is a match of the all-time low price that we last tracked during Prime Day.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\nThe Prime 3-in-1 Wireless Charging Station features Qi2.2 support, which lets a compatible MagSafe ‌iPhone‌ charge at up to 25W. It's the same speed as Apple's ‌MagSafe‌ charger, and it is 10W faster than the standard Qi2 ‌MagSafe‌ chargers. You can also simultaneously charge an Apple Watch and AirPods with the device.\r\n\r\n\n$50 OFF\nAnker Prime 3-in-1 Wireless Charging Station for $99.74\n\n\r\n\r\n$25.99, down from $39.99.\r\n\r\nWall Chargers\n\r\n\nAnker Nano USB-C Wall Charger with Smart Display - $25.99, down from $39.99\n\r\nAnker 140W 4-Port GaN USB-C Charger - $79.99, down from $99.99\n\r\nAnker 3-Port Prime Charger - $99.99, down from $149.99\n\r\nWireless Chargers\n\r\n\r\nAnker MagGo 3-in-1 Charging Station - $71.99, down from $89.99\n\r\nAnker 3-in-1 MagSafe-Compatible UFO Charger - $71.99, down from $89.99\n\r\nAnker 3-in-1 MagSafe-Compatible Foldable Charging Station - $85.99, down from $109.99\n\r\nAnker 3-in-1 MagSafe-Compatible Charging Cube - $89.99, down from $129.99\n\r\nAnker 3-in-1 Prime Wireless Charging Station - $99.74, down from $149.99\n\r\nAnker Prime MagSafe-Compatible 3-in-1 Charging Station - $139.99, down from $229.99\n\r\nPortable Chargers\n\r\n\r\nAnker MagGo Power Bank 10,000 mAh - $65.99, down from $79.99\n\r\nAnker Prime Power Bank 20,100 mAh - $129.99, down from $179.99\n\r\nAnker Prime Power Bank 26,250 mAh - $179.99, down from $229.99\n\r\nPortable Power Stations\n\r\n\nAnker SOLIX C300 Power Station with Lantern - $189.99, down from $249.00\n\r\nAnker SOLIX C300 - $249.99, down from $299.99\n\r\nAnker SOLIX S2000 - $599.00, down from $1,199.00\n\r\nAnker SOLIX C2000 Gen 2 - $899.99, down from $1,499.00\n\r\nDocks\n\r\n\nAnker Nano 13-in-1 Laptop Docking Station - $111.99, down from $149.99\n\r\nAnker Prime 14-Port Docking Station - $169.99, down from $269.99\n\r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"Anker's 3-in-1 Foldable Wireless Charger Matches Prime Day Low at $99.74\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-06T14:28:20.000Z",
+    "creator": "Mitchel Broussard",
+    "tags": "iOS",
+    "id": 1912
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "iPhone 18 Pro Max may get significantly longer battery life after all",
+    "link": "https://appleinsider.com/articles/26/07/06/iphone-18-pro-max-may-get-significantly-longer-battery-life-after-all?utm_source=rss",
+    "content": "Despite previous reports saying the iPhone 18 Pro range will see only fractional improvements to battery life, a cautious leaker now claims that might not be the case with the iPhone 18 Pro Max.\n\n\nThe current iPhone 17 Pro Max\n\n\n\nModelUSChina\n\n Rumor Score: 🤯 Likely \n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-06T14:27:23.000Z",
+    "creator": "William Gallagher <wg@williamgallagher.com>",
+    "tags": "iOS,Rumors",
+    "id": 1947
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple & Broadcom renew partnership through 2031",
+    "link": "https://appleinsider.com/articles/26/07/06/apple-broadcom-renew-partnership-through-2031?utm_source=rss",
+    "content": "Apple has extended its long-time supplier agreement with Broadcom, ensuring Apple gets a steady flow of custom chips until 2031.\n\n\nBroadcom offices - Image Credit: Broadcom\nApple has used Broadcom as a supplier for its iPhone and other hardware for quite some time. However, as threats like the global memory crisis demonstrate, supply chains often aren't as stable as they could be.\nOn July 6, Broadcom confirmed to Reuters that it had agreed to an extension of its partnership with Apple. The deal means Broadcom will be developing and supplying custom chips for Apple through to 2031.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-06T14:15:01.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS",
+    "id": 1948
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "This USB-C dock powers your Mac, iPhone and more from one hub [Review] ★★★★☆",
+    "link": "https://www.cultofmac.com/reviews/baseus-spacemate-rd1-pro-review",
+    "content": "The Baseus Spacemate RD1 Pro won’t replace a Thunderbolt dock, but its thoughtful design and integrated Qi2.2 charger make it one of the most versatile USB-C docks I’ve used.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-06T14:10:43.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac,iOS",
+    "id": 1958
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iPhone 18 Pro Max vs Pro: Leak reveals Apple’s plan to differentiate models",
+    "link": "https://9to5mac.com/2026/07/06/iphone-18-pro-max-vs-pro-leak-reveals-apples-plan-to-differentiate-models/",
+    "content": "Every year, the iPhone Pro models share nearly every feature in common apart from screen size. But at times, Apple gives the Pro Max model a special advantage, and a new leak indicates that might happen with the iPhone 18 Pro line.",
+    "pub_date": "2026-07-06T14:10:02.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS,Rumors",
+    "id": 1937
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iPhone 18 Pro vs. iPhone 18 Pro Max: Here's What the Latest Leak Says",
+    "link": "https://www.macrumors.com/2026/07/06/iphone-18-pro-vs-pro-max-rumors/",
+    "content": "Apple is expected to unveil the iPhone 18 Pro and iPhone 18 Pro Max in September. The devices will have a lot in common, but the latest leak suggests that the Pro Max model will take an even bigger step forward in regards to battery life.\r\n\r\n\r\nAccording to new filings in a Chinese regulatory database, it appears that the iPhone 18 Pro Max will be equipped with a 5,567mAh battery in the U.S., while the iPhone 18 Pro will seemingly have a 4,288mAh battery. It is no surprise the Pro Max has a larger battery, but its year-over-year gains in battery life look to be particularly significant this year.\r\n\r\nIf the leaked capacities are accurate, the iPhone 18 Pro Max would have nearly a 10% larger battery compared to the iPhone 17 Pro Max, while the size of the iPhone 18 Pro's battery would only increase by less than 1% over the iPhone 17 Pro.\r\n\r\nthicker than the iPhone 18 Pro. If so, that might be to accommodate the larger battery.\r\n\r\ngets some camera features before the Pro, but that is not expected to be the case this year. The main 48-megapixel Fusion camera is rumored to get variable aperture on both the iPhone 18 Pro and iPhone 18 Pro Max.\r\n\r\nRelated Roundup: iPhone 18 Pro\nThis article, \"iPhone 18 Pro vs. iPhone 18 Pro Max: Here's What the Latest Leak Says\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-06T13:59:43.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "iOS,Rumors",
+    "id": 1913
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "PamStealer malware poses as a Mac clipboard app — and verifies your password before stealing it",
+    "link": "https://www.cultofmac.com/news/pamstealer-macos-malware-fake-maccy-app",
+    "content": "PamStealer, a fake version of the popular Maccy clipboard app, tricks Mac users into handing over a password that’s already been confirmed to work.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-06T13:55:19.000Z",
+    "creator": "Anurag Chawake",
+    "tags": "Mac,App Store",
+    "id": 1959
+  },
+  {
+    "source_name": "MacRumors",
     "title": "Apple Watch Ultra 3 Now $99 Off on Amazon, Starting at $699.99",
     "link": "https://www.macrumors.com/2026/07/06/apple-watch-ultra-3-99-off-3/",
     "content": "Amazon today has a few deals on the Apple Watch Ultra 3, providing $99 discounts on select models. We did track these models at $149 off during Prime Day this year, but those discounts are long gone and Amazon's prices today are still solid second-best options for anyone who missed those sales in June.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n$699.99 in Natural and Black color options, down from $799.00. There are also a few Milanese Loop models on sale for $799.99, down from $899.00.\r\n\r\n\n$99 OFF\nApple Watch Ultra 3 for $699.99\n\n\r\n\r\nWe've collected some of the Apple Watch Ultra 3 models currently on sale on Amazon in the list below. Amazon provides an estimated delivery date of July 11 for most of the watches, although Prime members should see same-day delivery in many locations.\r\n\r\nBlack with Black Ocean Band - $699.99 ($99 off)\n\r\nNatural with Anchor Blue Ocean Band - $699.99 ($99 off)\n\r\nNatural with Blue/Bright Blue Trail Loop (M/L) - $699.99 ($99 off)\n\r\nBlack with Black Milanese Loop (Large) - $799.99 ($99 off)\n\r\nNatural Milanese Loop (Large) - $799.99 ($99 off)\n\r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"Apple Watch Ultra 3 Now $99 Off on Amazon, Starting at $699.99\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-06T12:54:25.000Z",
+    "pub_date": "2026-07-06T13:26:05.000Z",
     "creator": "Mitchel Broussard",
     "tags": "iOS",
     "id": 1884
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple radio chips switch likely to take five more years, suggests Broadcom deal",
+    "link": "https://9to5mac.com/2026/07/06/apple-radio-chips-switch-likely-to-take-five-more-years-suggests-broadcom-deal/",
+    "content": "The next generation of Apple radio chips is expected to debut in the iPhone 18 Pro and iPhone Ultra, but a new deal suggests the company doesn’t expect to complete a switch to its own cellular modems before 2031.\nThe company has committed to retaining and expanding its partnership with radio chip maker Broadcom through 2031 …",
+    "pub_date": "2026-07-06T13:25:26.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "iOS",
+    "id": 1938
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple and Broadcom Extend Chip Supply Deal to 2031",
+    "link": "https://www.macrumors.com/2026/07/06/apple-and-broadcom-extend-deal/",
+    "content": "Broadcom has agreed to extend its chip partnership with Apple through 2031, expanding a deal that covers the development and supply of a wide range of custom chips, Reuters reports.\r\n\r\n\r\nToday's extension builds on an existing supply relationship between the two companies, which have worked together for years. Apple is one of Broadcom's largest customers, believed to account for about 20% of its annual revenue.\r\n\r\nC1 and C1X cellular modems, but many of Broadcom's wireless connectivity and radio frequency components remain in use. Broadcom's chips cover custom radio frequency components, Wi-Fi and Bluetooth connectivity, and other networking semiconductors found throughout Apple's lineup.\r\n\r\nmultibillion-dollar agreement in 2023 covering 5G radio frequency components manufactured in the United States. Broadcom shares rose nearly 4% in premarket trading today on the news.\nTag: Broadcom\nThis article, \"Apple and Broadcom Extend Chip Supply Deal to 2031\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-06T12:58:39.000Z",
+    "creator": "Hartley Charlton",
+    "tags": "General",
+    "id": 1914
   },
   {
     "source_name": "AppleInsider",
@@ -78,6 +618,16 @@
     "creator": "Tim Hardwick",
     "tags": "Mac,iOS,Silicon",
     "id": 1886
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple Watch sleep score became more useful for me with these settings",
+    "link": "https://9to5mac.com/2026/07/06/apple-watch-sleep-score-became-more-useful-for-me-with-these-settings/",
+    "content": "Apple Watch includes a built-in sleep tracking feature. Just wear your Apple Watch to bed, and it works automatically. No need to install apps or enter a special mode.\nwatchOS 26 takes sleep tracking further with Apple’s sleep score feature. Sleep score is a great way to visualize the quality of your sleep from night to night. There’s one setting in particular that has made sleep score especially useful for me.",
+    "pub_date": "2026-07-06T12:00:00.000Z",
+    "creator": "Zac Hall",
+    "tags": "iOS",
+    "id": 1939
   },
   {
     "source_name": "9to5Mac",
@@ -171,9 +721,9 @@
   },
   {
     "source_name": "MacRumors",
-    "title": "'iPhone Ultra' Likely to 'Repeat the iPhone X Story'",
+    "title": "'iPhone Ultra' Likely to 'Repeat the iPhone X Story' With Delayed Launch",
     "link": "https://www.macrumors.com/2026/07/05/foldable-iphone-to-repeat-iphone-x-story/",
-    "content": "Apple will likely \"repeat the iPhone X story\" by unveiling its foldable iPhone at the same time as the iPhone 18 Pro and iPhone 18 Pro Max, but starting foldable iPhone pre-orders at a later date, according to analyst Ming-Chi Kuo.\r\n\r\n\r\nKuo today said manufacturing challenges have limited early production of the foldable iPhone, which will reportedly be named iPhone Ultra. As a result, he believes the device may launch at some point after the iPhone 18 Pro models.\r\n\r\nIn 2017, Apple unveiled the iPhone 8, iPhone 8 Plus, and iPhone X on September 12. iPhone 8 and iPhone 8 Plus pre-orders began just three days later, while iPhone X pre-orders began six weeks later on Friday, October 27. Likewise, Kuo believes the foldable iPhone may not be available to pre-order until the fourth quarter of 2026.\r\n\r\nKuo estimated that the foldable iPhone could have a starting price of around $2,299 to $2,499 in the U.S., and he believes that the device \"could sell out immediately after pre-orders open, with delivery lead times quickly stretching to 4-6 weeks or longer.\"\r\n\r\nApple's suppliers will ship roughly 7–8 million foldable iPhones in 2026, compared to 20–22 million for the iPhone 18 Pro models combined, he said.\r\n\r\nRelated Roundup: iPhone Fold\nTags: iPhone Ultra, Ming-Chi Kuo\nThis article, \"'iPhone Ultra' Likely to 'Repeat the iPhone X Story'\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "content": "Apple will likely \"repeat the iPhone X story\" by unveiling its foldable iPhone at the same time as the iPhone 18 Pro and iPhone 18 Pro Max, but starting foldable iPhone pre-orders at a later date, according to analyst Ming-Chi Kuo.\r\n\r\n\r\nKuo today said manufacturing challenges have limited early production of the foldable iPhone, which will reportedly be named iPhone Ultra. As a result, he believes the device may launch at some point after the iPhone 18 Pro models.\r\n\r\nIn 2017, Apple unveiled the iPhone 8, iPhone 8 Plus, and iPhone X on September 12. iPhone 8 and iPhone 8 Plus pre-orders began just three days later, while iPhone X pre-orders began six weeks later on Friday, October 27. Likewise, Kuo believes the foldable iPhone may not be available to pre-order until the fourth quarter of 2026.\r\n\r\nKuo estimated that the foldable iPhone could have a starting price of around $2,299 to $2,499 in the U.S., and he believes that the device \"could sell out immediately after pre-orders open, with delivery lead times quickly stretching to 4-6 weeks or longer.\"\r\n\r\nApple's suppliers will ship roughly 7–8 million foldable iPhones in 2026, compared to 20–22 million for the iPhone 18 Pro models combined, he said.\r\n\r\nRelated Roundup: iPhone Fold\nTags: iPhone Ultra, Ming-Chi Kuo\nThis article, \"'iPhone Ultra' Likely to 'Repeat the iPhone X Story' With Delayed Launch\" first appeared on MacRumors.com\nDiscuss this article in our forums",
     "pub_date": "2026-07-05T17:28:32.000Z",
     "creator": "Joe Rossignol",
     "tags": "iOS,Rumors",
@@ -2448,555 +2998,5 @@
     "creator": "Hartley Charlton",
     "tags": "iOS",
     "id": 1597
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple Pay now lets you pay using American Express points",
-    "link": "https://9to5mac.com/2026/06/30/apple-pay-now-lets-you-pay-using-american-express-points/",
-    "content": "American Express has announced a new way for cardholders to redeem their rewards points: they can be used to pay for Apple Pay transactions. Here are the details.",
-    "pub_date": "2026-06-30T15:33:20.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "Services",
-    "id": 1608
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Deals: M5 iPad Pro $350 off, M5 Pro MacBook $450 off, Beats 240W cable $19, Sport Bands $15, more",
-    "link": "https://9to5mac.com/2026/06/30/deals-m5-ipad-pro-m5-pro-macbook-beats-240w-cable/",
-    "content": "Alongside the now live Best Buy 4th of July sale, today’s 9to5Toys Lunch Break is headlined by M5 iPad Pro at up to $350 off before the price hikes completely take hold at Amazon, alongside the last remaining M5 Pro MacBook Pro configs still live with pre-price hike deals (Up to $450 off). You can also grab the latest Beats 240W Woven USB-C cable from just $19 (up to 37% off) and load up on official Apple Watch Sport Bands while they are just $15 Prime shipped (69% off). Head below for a closer look.",
-    "pub_date": "2026-06-30T15:29:48.000Z",
-    "creator": "Justin Kahn",
-    "tags": "Mac,iOS,Silicon",
-    "id": 1609
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "TP-Link Roam 7: Don’t leave home without this reliable travel router [Review] ★★★★☆",
-    "link": "https://www.cultofmac.com/reviews/tp-link-roam-7-review-travel-router-wi-fi-7",
-    "content": "The TP-Link Roam 7 router is outstanding for travelers. Our testing found fast wireless connections thanks to Wi-Fi 7 support.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-06-30T15:20:38.000Z",
-    "creator": "Ed Hardy",
-    "tags": "Mac",
-    "id": 1633
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Supreme Court says police can’t access iPhone location data without warrant",
-    "link": "https://www.cultofmac.com/news/supreme-court-phone-location-data-ruling-fourth-amendment",
-    "content": "A Supreme Court ruling changes how police can access data tracking your phone's location. Find out what this means for your privacy.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-06-30T15:04:00.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,iOS",
-    "id": 1634
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iOS 27 makes Apple’s Shortcuts app exactly what I’ve always wanted",
-    "link": "https://9to5mac.com/2026/06/30/ios-27-makes-apples-shortcuts-app-exactly-what-ive-always-wanted/",
-    "content": "iOS 27 is packed with new Apple Intelligence features, with Siri AI chief among them. But the Shortcuts app offers another standout AI upgrade in iOS 27 thanks to a new ‘describe a shortcut’ feature.",
-    "pub_date": "2026-06-30T15:01:46.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS,App Store",
-    "id": 1610
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple's $502M Optis patent infringement payment headed to UK Supreme Court",
-    "link": "https://appleinsider.com/articles/26/06/29/apples-502m-payment-to-optis-over-patent-infringement-goes-to-uk-supreme-court?utm_source=rss",
-    "content": "Apple is contesting a ruling that would force it to pay Optis $502 million for LTE patent infringement, but the UK Supreme Court has yet to reach a verdict.\n\n\nApple seeks to avoid paying Optis $502 million over alleged patent infringement.\nThe legal battle between Apple and Optis goes back to February 2019, and there's still no end in sight all these years later. Apple was accused of infringing upon Optis' LTE patents, which ultimately led to lawsuits in both the United Kingdom and the United States.\nThe latter case resulted in Apple's victory, as it avoided paying Optis $300M in damages in February 2026. The outcome of the UK lawsuit, however, isn't quite as clear-cut.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-30T14:58:35.000Z",
-    "creator": "Marko Zivkovic <marko@appleinsider.com>",
-    "tags": "Services",
-    "id": 1567
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple's $502M Optis Patent Case Heads to UK Supreme Court",
-    "link": "https://www.macrumors.com/2026/06/30/optis-patent-case-heads-to-uk-supreme-court/",
-    "content": "Apple will try to convince the UK Supreme Court this week to throw out a $502 million judgment in favor of patent holder Optis Wireless.\r\n\r\n\r\nAs reported in the Financial Times, the UK Supreme Court this week takes up a dispute that has stretched on since 2019 in both U.S. and UK courts, when Optis first accused iPhones, iPads, and LTE-equipped Apple Watch models of infringing patents covering 4G networking technology.\r\n\r\nThe current UK fight is no longer about whether Apple infringed the patents, but rather what Apple should reasonably owe for using it. Patents deemed essential to a wireless standard must be licensed on fair, reasonable, and non-discriminatory (FRAND) terms, and the two sides remain far apart on the number. The award is structured as a single upfront payment spanning 2013 to 2027, covering Optis' LTE patents across Apple's cellular hardware.\r\n\r\nmultiplied that roughly ninefold to $502 million last year. To get to that figure, the judges leaned on a separate agreement Optis had signed with Google as a reference point and counted royalties stretching back to 2013, well beyond the six-year window the High Court had favored.\r\n\r\nApple wants the justices to reconsider not just the size of the award but how the lower court arrived at it, contending the Court of Appeal \"erred in law\" and produced a figure it calls \"arbitrary.\" Optis counters that Apple has spent years dodging fair payment and using its scale to drive rates down. Qualcomm has also lined up against the appeal, warning that Apple's stance breaks with established licensing norms and risks discouraging future innovation.\r\n\r\nThe dispute traces back to a pivotal 2020 ruling in which the UK Supreme Court held that British courts can set worldwide patent licensing rates, even though they can only rule on the infringement of UK patents. That decision opened the door for Optis to pursue global damages. After a 2021 High Court finding that Apple had infringed two of its patents, with the potential bill reported to run as high as $7 billion, an Apple lawyer told the court the company could withdraw from the UK rather than accept terms it considered \"commercially unacceptable.\" Apple later backed away from that position.\r\n\r\ncleared Apple of infringing any of the five patents in dispute, the latest turn in a case that has repeatedly ended in Apple's favor.\r\n\r\nTags: Patent Lawsuits, United Kingdom\nThis article, \"Apple's $502M Optis Patent Case Heads to UK Supreme Court\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-30T14:45:05.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "iOS",
-    "id": 1598
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Proton Lumo 2.0 Adds Image Generation, Memory, Stronger Web Search",
-    "link": "https://www.macrumors.com/2026/06/30/proton-lumo-version-2-new-features/",
-    "content": "Last summer, Swiss-based Proton launched Lumo, an AI assistant with a privacy-first approach. Today, the company has announced Lumo 2.0, a major update to the chatbot that brings three new features commensurate with its core principles of no logs, no data sharing, and zero-access encryption.\r\n\r\n\r\nProton says Lumo 2 has been rebuilt on a new architecture that brings its biggest leap in capability to date, with Fast and Thinking modes now available. Fast of course prioritizes speed, while Thinking is optimized for more complex, multi-step reasoning. Proton says Lumo 2 responds to everyday queries up to 76 percent faster than Lumo 1.4.\r\n \r\nBeyond the new architecture, Lumo 2 also boasts multimodal capabilities such as image generation and image recognition. Users can now upload an image to analyze, create visuals from a prompt or a rough sketch, or edit existing images, all in the same conversation.\r\n\r\nOn top of the new features, Lumo 2.0 has far stronger web search compared to Lumo 1.4, according to the company. There's also a Memory feature that lets Lumo learn your preferences, working style, and ongoing context, with the context window now twice as large.\r\n\r\nLumo 2.0 also introduces Custom Lumos, described as enabling purpose-built assistants that can be tailored to specific tasks, such as a research assistant that structures answers the way you need them.\r\n\r\n\r\nLumo is free to use at Lumo.proton.me and does not require a Proton account when accessed. However, if you have a Proton account, your chat history can be saved using the company's \"zero-access\" encryption across all your devices. There are also mobile apps for iPhone and Android.\r\n\r\nTag: Proton\nThis article, \"Proton Lumo 2.0 Adds Image Generation, Memory, Stronger Web Search\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-30T14:42:13.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "iOS",
-    "id": 1599
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple Music's billions of streams, billions of dollars in fines, and one failure",
-    "link": "https://appleinsider.com/articles/25/06/30/apple-musics-ten-years-billions-of-dollars-in-fines-and-one-failure?utm_source=rss",
-    "content": "On June 30, 2015, Apple launched Apple Music that has brought music pleasure to millions, a social media feature you probably don't remember and cost Apple billions in fines.\n\n\nIt's fine to be nostalgic for red blobs.\nIf you joined Apple Music when it first launched and have stayed with it since, you have easily paid out more than a thousand dollars. The price has gone up over the years, too, plus there are more expensive tiers with a family plan, cheaper ones with the student offering, and Apple Music is also part of the Apple One bundle, but you've been paying something for over a decade.\nWhat won't have happened during that time, though, is that you've ever had the service for free — at least not other than some limited-time trial periods. Unlike its rivals, specifically Spotify, Apple Music does not offer a free ad-supported version.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-30T14:14:39.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "Services",
-    "id": 1620
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple Watch to get ‘major overhaul’ next year, says leaker",
-    "link": "https://9to5mac.com/2026/06/30/apple-watch-to-get-major-overhaul-next-year-says-leaker/",
-    "content": "This fall’s Apple Watch Ultra 4 is rumored to have major design changes, but per a new leak, the Apple Watch ‘Series’ line could get its own big upgrades next year.",
-    "pub_date": "2026-06-30T14:09:30.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS,Rumors",
-    "id": 1611
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Today in Apple history: Apple Music 1 radio station brings free 24/7 radio to Apple Music",
-    "link": "https://www.cultofmac.com/apple-history/apple-music-1-launch",
-    "content": "On June 30, 2015, Apple launched Beats 1, a 24/7 music radio station as part of Apple Music. It's still streaming daily as Apple Music 1.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-06-30T14:05:54.000Z",
-    "creator": "Luke Dormehl",
-    "tags": "Mac,Services",
-    "id": 1635
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Save $450 on Apple's M5 Pro 14-inch MacBook Pro with 2TB SSD",
-    "link": "https://appleinsider.com/articles/26/06/30/save-450-on-apples-m5-pro-14-inch-macbook-pro-with-2tb-ssd?utm_source=rss",
-    "content": "Amazon's July price cut on Apple's M5 Pro MacBook Pro with an upgrade to 2TB of storage delivers a 15% discount off retail.\n\n\nSave $450 on an upgraded 2TB 14-inch MacBook Pro today - Image credit: Apple\nAmazon's post-Prime Day MacBook Pro deals are selling out quickly as shoppers scramble to grab aggressive discounts on the heels of Apple's price increases.\nWe're following this $450 discount on Apple's latest 14-inch MacBook Pro. This M5 Pro model has 24GB of RAM and 2TB of storage, a bump up from the 1TB SSD found in the standard configuration.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-30T14:04:29.000Z",
-    "creator": "Christine McKee <christine@appleinsider.com>",
-    "tags": "Mac,Silicon",
-    "id": 1621
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Samsung's 2026 Monitors Hit New Record Low Prices at Up to $350 Off",
-    "link": "https://www.macrumors.com/2026/06/30/samsungs-2026-monitors-record-low/",
-    "content": "Samsung's newest monitors have been further discounted this week, with big savings on the Odyssey G8, ViewFinity S8, and Movingstyle Essential. All of these have discounts that have been applied automatically, plus an additional $50 on-page coupon that you can clip to add to your cart.\r\n\r\nNote: MacRumors is an affiliate partner with Samsung. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n$749.99 ($200 off) for the 27-inch Odyssey G8 5K Monitor, and also include Samsung's first 6K monitor with the 32-inch Odyssey G8 6K Monitor for $1,549.99 ($50 off). Samsung also has a new 40-inch ViewFinity S8 Curved Monitor on sale for $1,139.99 ($260 off), as well as the Movingstyle Essential Monitor for $649.99 ($250 off). \r\n\r\n\nUP TO $350 OFF\nSamsung 2026 Monitors\n\n\r\n\r\nShoppers should remember that all of the prices listed below will be reflected after clipping Samsung's $50 extra credit coupon and heading to the cart screen. The coupon can be found in the \"Your Special Offers\" section of each monitor's page, which is typically at the very top of each page.\r\n\r\n43-inch Movingstyle Essential - $649.99 ($250 off)\n\r\n27-inch Odyssey G8 5K Monitor - $749.99 ($200 off)\n\r\n32-inch Odyssey OLED G7 4K Monitor - $799.99 ($300 off)\n\r\n27-inch Odyssey OLED G8 4K Monitor - $1,049.99 ($50 off)\n\r\n32-inch Odyssey OLED G8 4K Monitor - $949.99 ($350 off)\n\r\n40-inch ViewFinity S8 Curved Monitor - $1,139.99 ($260 off)\n\r\n32-inch Odyssey G8 6K Monitor - $1,549.99 ($50 off)\n\r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"Samsung's 2026 Monitors Hit New Record Low Prices at Up to $350 Off\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-30T13:59:24.000Z",
-    "creator": "Mitchel Broussard",
-    "tags": "General",
-    "id": 1600
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Amazon just slashed Apple’s Magic Keyboard with Touch ID to an all-time low",
-    "link": "https://www.macworld.com/article/3180898/amazon-just-slashed-apples-magic-keyboard-with-touch-id-to-an-all-time-low.html",
-    "content": "Macworld\n\n\nRare Price Cut\nApple Magic Keyboard with Touch ID and Numeric Keypad\nView Deal\nApple’s gorgeous Magic Keyboard with Touch ID and numpad is on sale for $144 right now at Amazon, a rare sale that cuts $35 off the usual price. This is due to a 13 percent discount and an extra $12 coupon that gets added at checkout. That’s the best price we’ve ever seen and a rare sale for the full-sized Apple keyboard.\nWe’ve seen quite a few keyboards that look like this one, including the Logitech MX Keys S, but none have this one feature that helps you unlock your Mac with just a finger. Touch ID is a truly magical feature that lets you unlock, authenticate apps, approve purchases, and more right from your keyboard. If you’re one to lock up your device every time you get up from your desk, this will make your life so much easier—like having MacBook keyboard at your fingertips all day long.\nThe Magic Keyboard has a full layout with a numeric keypad, arrow keys, and function keys. The keys have a low profile and make little noise when you’re typing away on them. Plus, it’s wireless and rechargeable, with a single charge lasting about a month or more, so you won’t go hunting for a cable every day.\nWhen buying the Apple Magic Keyboard, you do have to keep in mind that this is a made-for-Mac peripheral, so if you also have some Windows gear, you won’t be able to use Touch ID with it. It’ll work as a keyboard, but that’s about it. But if you have a Mac, go grab one of these Apple Magic Keyboards for $144 while this sale is still live at Amazon.",
-    "pub_date": "2026-06-30T13:44:22.000Z",
-    "creator": "Macworld",
-    "tags": "Mac",
-    "id": 1628
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple is delivering security updates faster to beat AI hackers",
-    "link": "https://appleinsider.com/articles/26/06/30/apple-is-delivering-security-updates-faster-to-beat-ai-hackers?utm_source=rss",
-    "content": "AI is now helping hackers find and exploit security issues faster than ever before. Apple says it will no longer wait to include updates in the next scheduled releases of iOS, iPadOS, and macOS.\n\n\nApple's latest iOS update comprises security updates.\nFollowing a trio of security updates to iOS, iPadOS, and macOS, Apple has announced that it now intends to cut the time between discovery of an exploit and the update to address it. Normally some more minor security updates would have been held until the next regular release, but now they should be issued as soon as possible.\nAccording to Reuters, Apple says that this is why there was a release of iOS 26.5.2 on Monday. Previously, the company would typically have included these security updates in iOS 26.6, which is expected in July 2026.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-30T13:33:45.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "Mac,iOS",
-    "id": 1622
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Law proposed to ban AI companies from selling your health data",
-    "link": "https://9to5mac.com/2026/06/30/law-proposed-to-ban-ai-companies-from-selling-your-health-data/",
-    "content": "People commonly disclose all kinds of personal data to AI chatbots, including the highly inadvisable practice of asking them for health advice. In addition to the grave medical dangers of obtaining inaccurate advice, users are also running significant privacy risks.\nMost AI chatbots have terms and conditions that allow any of your conversations with them to be used as training data, and often app terms that allow data to be collated and sold. Democrats now propose to update a privacy law to prevent the sale of health data …",
-    "pub_date": "2026-06-30T13:32:29.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "App Store",
-    "id": 1612
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Hey old school Mac gamers, Bolo is back!",
-    "link": "https://appleinsider.com/articles/26/06/30/hey-old-school-mac-gamers-bolo-is-back?utm_source=rss",
-    "content": "Classic game \"Bolo\" died on Mac more than two decades ago. It's back for modern Macs for free on Steam now, and on the App Store for iPhone later. You need to try it.\n\n\nBolo, on classic hardware - Image Credit MacMuseum.au\nAges and ages ago, when I was still in the Navy and transferring from one duty station to another, my brother was visiting. It was freezing and snowing, and we were basically stuck in the hotel room, with a U-Haul outside with everything I owned in it.\nIn a hotel in Saratoga Springs, we hooked up a very rudimentary network with Farallon PhoneNet connectors between my Classic II and a Mac Portable obtained from, I think, Shreve Systems, and played network games all afternoon.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-30T13:22:33.000Z",
-    "creator": "Mike Wuerthele <mike@appleinsider.com>",
-    "tags": "Mac,iOS,App Store",
-    "id": 1623
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Tons of new features in Photos help sort your massive library in iOS 27",
-    "link": "https://www.cultofmac.com/news/ios-27-photos-features",
-    "content": "The new Photos app in iOS 27 clearly did not get the memo that this was a small year of bug fixes — there are tons of excellent new features.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-06-30T13:00:09.000Z",
-    "creator": "D. Griffin Jones",
-    "tags": "Mac,iOS,App Store",
-    "id": 1636
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple's legal team is striking social media sharing stolen iPhone 18 Pro data",
-    "link": "https://appleinsider.com/articles/26/06/30/apples-legal-team-is-striking-social-media-sharing-stolen-iphone-18-pro-data?utm_source=rss",
-    "content": "Apple is going after anyone leaking iPhone 18 Pro footage and imagery stolen from Tata, with DMCA claims deleting social media posts.\n\n\nThe iPhone 18 Pro in the videos was silver in color, similar to this iPhone 17 Pro. \nThe hack of one of Tata's iPhone assembly plants in India led to over 630 gigabytes of data being stolen, including some from Apple. With that data being shared online, Apple is now working to take it all down.\nOn Monday, videos were being circulated on X depicting an iPhone 18 Pro undergoing drop testing. The silver-colored smartphone was shown without the iPhone 17 Pro's two-tone aesthetic, but retained elements such as the three-camera plateau and the Apple logo.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-30T12:54:32.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "iOS",
-    "id": 1624
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Crackdown Suspected After iPhone 18 Pro Leak Videos Disappear",
-    "link": "https://www.macrumors.com/2026/06/30/apple-crackdown-iphone-18-pro-leak-video-gone/",
-    "content": "Apple could be taking action to limit the spread of leaked iPhone 18 Pro video footage that surfaced online following a recent cyberattack targeting Tata Electronics, one of Apple's manufacturing partners in India.\r\n\r\n\r\nOver the last day, video clips that apparently showed an iPhone 18 Pro undergoing drop testing began appearing on X (Twitter). The clips appeared to show a silver-gray iPhone 18 Pro model with a more uniform rear aesthetic than the current iPhone 17 Pro's two-tone design. The device had the expected three-camera rear array, but the lenses appeared to protrude more from the plateau than on the iPhone 17 Pro. The Apple logo on the back of the device also appeared to have a reflective finish.\r\n\r\nsuspended.\r\n\r\nEvan Blass, who was previously associated with the EvLeaks name, says he has \"nothing to do with the new @EvLeaks account nor the purported iPhone leak posted there.\" Blass added: \"Looks like Apple may have done what Samsung never could,\" likely referring back to the hundreds of Samsung leaks that Blass himself has been able to freely make public unimpeded over the years.\r\n\r\nIt is not clear whether the posts were removed at Apple's request or Tata's request, or because the videos were later believed to be fake.\r\n\r\nIce Universe claimed on Weibo that Apple had \"already banned the leaked data on Twitter.\" \r\n\r\nReuters.\r\n\r\nApple is \"concerned\" about confidential files stolen from Tata Electronics and circulated on the dark web. Reuters said the leaked files included Apple-watermarked documents, component details, supplier information, codenames, and images of iPhone 18 Pro models during drop testing. Apple is said to be investigating the incident and working with Tata on long-term measures to improve security.\r\n\r\nWe are not sharing the videos or images of them here out of caution, though some are still circulating online. They may not last the day, however. The speed of the takedowns, if instigated by Apple, may indicate that the company is moving more aggressively than usual in the face of a major data breach in order to prevent further spread. \r\n\r\nRelated Roundup: iPhone 18 Pro\nThis article, \"Apple Crackdown Suspected After iPhone 18 Pro Leak Videos Disappear\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-30T12:39:32.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "iOS,Rumors",
-    "id": 1572
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Netflix ramps up account sharing protections via new email requirement",
-    "link": "https://9to5mac.com/2026/06/30/netflix-ramps-up-account-sharing-protections-via-new-email-requirement/",
-    "content": "Netflix has been trying to clamp down on password sharing for years now, and it has just added an additional barrier in the form of a new requirement for each profile to have a unique email address.\nIn other streaming news, Amazon is being sued for forcing Prime Video members to watch ads without reducing the subscription fee to compensate them …",
-    "pub_date": "2026-06-30T12:37:44.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "Services",
-    "id": 1613
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Alleged iPhone 18 Pro Sim Tray Again Shows Dark Cherry Color",
-    "link": "https://www.macrumors.com/2026/06/30/iphone-18-pro-sim-tray-dark-cherry-color/",
-    "content": "Apple's upcoming iPhone 18 Pro models are expected to introduce new color options, including a dark cherry color, and today we may have been given another peek at the rumored finish, courtesy of the Chinese leaker known as Ice Universe.\r\n\r\nImage shared by leaker Ice Universe\n\r\nIn an image posted on Weibo, a SIM tray allegedly from the unreleased iPhone is shown in a dark cherry color, which could also be described in this grainy example as burgundy, brownish, or purple.\r\n\r\ndeep reddish finish for the iPhone 18 Pro models, and the color is expected to be the special one that Apple markets prominently in 2026, similar to how it did for the Cosmic Orange iPhone 17 Pro.\r\n\r\nMacworld has previously claimed to have identified the Pantone colors for all four finishes.\r\n\r\niPhone 18 Pro dummy models to leak, providing another look at the shades Apple is likely to use.\r\n\r\nno black iPhone 18 Pro model this year.\r\n\r\ntwo colors or perhaps even just one.\nRelated Roundup: iPhone 18 Pro\nTag: Ice Universe\nThis article, \"Alleged iPhone 18 Pro Sim Tray Again Shows Dark Cherry Color\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-30T12:19:56.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "iOS,Rumors",
-    "id": 1601
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Crackdown raises red flags over ‘biggest leak in Apple’s history’",
-    "link": "https://www.macworld.com/article/3180830/crackdown-raises-red-flags-over-biggest-leak-in-apples-history.html",
-    "content": "Macworld\n\n\nThere’s still more than two months to go until Apple unveils its flagship iPhones for the year, which made it all the more surprising when a respected leaker this week posted a video supposedly showing the iPhone 18 Pro undergoing a drop test. Leaks from the supply chain aren’t unknown ahead of an Apple launch, but they’re rarely this revelatory. Another leaker, Ice Universe, was so impressed that they shared the post and described it as “easily the biggest leak in Apple’s history.”\nNow the leak itself is under some scrutiny, though it’s unclear whether it’s because of the doubtful origins of the account that originally shared it or the video itself.\nThe video does appear plausible, though we’re not embedding or linking to it because it’s believed to have come from a ransomware attack reported by Reuters on Monday. The report claimed that iPhone 18 Pro drop tests were part of the leaked files, and lo and behold, the video making the rounds on X and other social media outlets, shows an iPhone 18 Pro being dropped in what appears to be a laboratory setting.\nHowever, the source of the video has also been called into question. Part of the reason why commentators paid attention to the video in the first place was due to the credentials of the account. Evan Blass, known as @evleaks, is a prolific leaker with lots of big scoops and an excellent track record of predictive accuracy. If the video came from Blass, the media reasoned, there was a fair chance it was legitimate. \nHowever, Blass shut down his evleaks account in May due to health concerns and hasn’t posted anything about smartphones or anything else since then. After the so-called “drop test” video posted under the @evleaks account, Blass resurfaced to post on his personal account that he is not associated with the iPhone leak or the @evleaks account. As if to back this up, Twitter/X has since suspended the @evleaks account, and Ice Universe deleted their own tweet.\nTwitter allows Premium+ users to “explore inactive handles” and “participate in rare handle drops,” so it’s likely the @evleaks account was simply handed off to someone else.\nThere’s some speculation that Apple is behind the scrubbing of the video, and Blass quipped that it “Looks like Apple may have done what Samsung never could…” when the account was suspended.  So maybe this video is real; maybe it’s not. But the fact remains that there was an attack on one of Apple’s manufacturers, and iPhone 18 Pro documents were among the stolen files.\nFor all the real news and verifiable rumors as we head towards the big launch, along with our expert analysis of what you should believe and what you should take with a pinch of salt, bookmark our comprehensive iPhone 18 Pro superguide.",
-    "pub_date": "2026-06-30T12:15:52.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,Rumors",
-    "id": 1629
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Three AirDrop vulnerabilities discovered, with Apple working on a full fix",
-    "link": "https://9to5mac.com/2026/06/30/three-airdrop-vulnerabilities-discovered-with-apple-working-on-a-full-fix/",
-    "content": "Three AirDrop vulnerabilities have been discovered by security researchers, affecting both iPhone and Mac, with similar ones found in Android’s Quick Share.\nAn attacker could easily exploit the vulnerabilities to cause AirDrop, AirPlay, Handoff, Universal Clipboard, and Continuity Camera to crash and remain unavailable for as long as the attack continues …",
-    "pub_date": "2026-06-30T11:53:17.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "Mac,iOS",
-    "id": 1614
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "UK ponders copying more EU App Store rules",
-    "link": "https://appleinsider.com/articles/26/06/30/uk-ponders-copying-more-eu-app-store-rules?utm_source=rss",
-    "content": "The UK's Competition and Markets Authority is considering forcing Apple and Google to open their App Stores and allow rival payment systems, exactly like the European Union.\n\n\nUK Parliament - image credit: Parliament\nIn February 2026, the UK's Competition and Markets Authority (CMA) got agreements from Apple and Google over changes to their app stores. It was an easy win for the UK, since it just meant the two firms agreeing to issues over transparency that they already did in the EU.\nAccording to Reuters, however, the CMA is now proposing that the UK adopts much more of the EU's positions. In a post-Brexit UK, politicians will never say they're emulating the European Union, but that is exactly what is being considered.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-30T11:29:49.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "App Store",
-    "id": 1583
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple may have to allow 3rd-party app payments and Apple Pay rivals in UK",
-    "link": "https://9to5mac.com/2026/06/30/apple-may-have-to-allow-3rd-party-app-payments-and-apple-pay-rivals-in-uk/",
-    "content": "Britain’s antitrust regulator has proposed forcing Apple to allow developers to link to third-party payment options to purchase apps and subscriptions outside of the App Store.\nThe proposal would specifically ban Apple from using the same forms of “malicious compliance” it has tried in both the US and EU …",
-    "pub_date": "2026-06-30T11:27:12.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "App Store,Services",
-    "id": 1575
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Apple won’t go broke for us, so why should we go broke for Apple?",
-    "link": "https://www.macworld.com/article/3180393/apple-wont-go-broke.html",
-    "content": "Macworld\n\n\nBoy, it seems like it was just a month ago that we were making fun of the competition’s prices, doesn’t it? The MacBook Neo came out at the low, low price of just five dollars and ninety-nine cents (okay, it was actually $599, but it seemed crazy cheap), causing a seismic wave in the PC industry.\nAnd, oh, the fun we had. The Macalope may have had a little too much fun as karma apparently read what he wrote, sat back in its chair, said “Is that right? Well, we’ll just see about that.” and wrote the Macalope’s name in a ledger.\nBut it wasn’t just since the introduction of the MacBook Neo that Apple fans have been reaping price benefits. It’s actually been since the introduction of Apple Silicon. Apple’s price to performance ratio has been pretty staggering since then. When the Macalope finally decided to upgrade from his M1 MacBook Air to an M4 last year (and is he glad he did), it was less because the M1 was slow than it was simply five years old.\nWell, the horny one hoped you gathered ye rosebuds while you had Mayesth (?) because the party’s over! You don’t have to go home, but you can’t stay at Apple’s Amazing Price-to-Performance Ratio, The Bar, because it’s shutting down for the foreseeable future.\nAs you may have heard (and if you didn’t hear you probably felt a great disturbance in the Force as if millions of voices cried out “Why didn’t I buy it yesterday?!”), Apple raised prices last week on everything that didn’t end with “Phone” or “Watch” or start with “AirPod”.\nThey’re all fairly significant increases but in some cases–some very surprising cases!–the increases are really quite something to behold.\nApple TV 4K was hit particularly hard on a percentage basis, with the 64GB base model going up 54 percent and the 128GB model … rising 67 percent.\nIf it had only been two more percent we could have said “Nice.” and at least been able to laugh about it a bit. C’mon, Apple, work with us here.\nOf course, Apple could have absorbed the price increase and taken a hit on margins but, let’s be honest, does that even remotely sound like Apple? High margins are just who Apple is. We don’t have to like it, but something something person who brought you to the dance. And also happens to own the dance hall.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nIf you’d like to receive regular news and updates to your inbox, sign up for our newsletters, including The Macalope and Apple Breakfast, David Price’s weekly, bite-sized roundup of all the latest Apple news and rumors.\n\nFoundry\n\n\n\n\nEven the low-priced Neo had relatively good margins at the $599 price point because Apple was able to make it by sweeping up the chips that were unceremoniously dropped to the factory floor when making iPhones. The company could have just buried these chips out in the desert with all those copies of E.T. – The Video Game, but instead it stuck them in some leftover aluminum and sold it as a MacBook. Step 3: profit.\nDespite having basked in the glory of a great price to performance ratio for a number of years and enjoyed the benefits of it, we do not need to like this, we don’t need to be happy about this, and we don’t need to be shy about mean mugging Tim Cook the next time we pass him in the cereal aisle at the Piggly Wiggly.\nJust make really long, extended eye contact as you bend down to the bottom shelf to get a bag of generic “Legally Distinct Früt Circles”. Then look pointedly at the family-sized box of “Froot Loops” in his cart and whisper “Must be nice.” as you walk away, one wheel of your cart squeaking and spinning wildly, the “JU” and “CY” emblazoned on your short shorts moving in opposite directions, the “I” simply lost in the mix.\nThe Macalope doesn’t know what you wear to grocery shop; that’s just what he wears, so he assumes you wear something similar.\nThe horny has actually been trying to tell people for years that they should not feel the need to get the latest and greatest Apple products. And the benefit of Apple Silicon is you don’t have to get them as often. The Macalope writes about tech but even he has never owned an iPhone with the “Pro” monicker. And when it comes time to upgrade from his iPhone 17, there’s a good chance it’ll be to an iPhone 18e.\nApple is not going to go broke for us. Think twice before you go broke for Apple.",
-    "pub_date": "2026-06-30T10:30:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS,Silicon",
-    "id": 1587
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "UK Pushes Apple to Loosen App Store Payment and NFC Rules",
-    "link": "https://www.macrumors.com/2026/06/30/uk-apple-loosen-app-store-payment-rules/",
-    "content": "The U.K.'s competition regulator has proposed letting app developers direct users to payment options outside Apple's App Store and Google's Play Store, in a move aimed at increasing competition and reducing the fees charged by the two companies.\r\n\r\n\r\nAs reported by Reuters, the Competition and Markets Authority (CMA) said the proposals would remove restrictions that currently prevent U.K. developers from directing users to off-platform payment options.\r\n\r\nThe regulator said any fees Apple and Google charge developers for enabling such \"steering\" must be fair and reasonable, remain below existing App Store and Play Store commissions, and allow developers to either pass savings on to consumers or reinvest them in innovation.\r\n\r\nThe CMA said it was also considering making Apple open up access to its near-field communication (NFC) technology, which is used for Apple Pay contactless payments. This would allow developers to potentially offer alternative payment options within their own apps.\r\n\r\nstrategic market status (SMS) in the U.K. for iOS and iPadOS, which enables the CMA to initiate targeted interventions designed to open the platforms to greater competition.\r\n\r\nApple has previously said it does not support allowing developers to direct users to off-platform payments. The company argues this ​could undermine user security and fraud ​protections, and limit its ability ⁠to verify transactions.\r\n\r\nReuters it could open the door to \"scams, bait-and-switch tactics, and the circumvention of parental controls.\"\r\n\"When users are directed away from Apple's trusted payment infrastructure, they lose the protections ​they rely on Apple to provide,\" the spokesperson said, adding the U.S. tech giant would continue to \"make ​our concerns clear\" ⁠to the CMA.\n\r\nIn February, Apple and Google agreed to a series of changes aimed at making their app stores fairer for developers. Under terms published by the CMA, both companies said they will ensure apps are reviewed and ranked on their app stores in a \"fair, objective and transparent way,\" without discrimination against apps that compete with their own services.\r\n\r\nTags: Apple Antitrust, App Store, United Kingdom\nThis article, \"UK Pushes Apple to Loosen App Store Payment and NFC Rules\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-30T10:00:27.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "iOS,App Store,Services",
-    "id": 1573
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Proton launches Lumo 2.0 with image generation, memory, private web search, more",
-    "link": "https://9to5mac.com/2026/06/30/proton-launches-lumo-2-0-with-image-generation-memory-private-web-search-more/",
-    "content": "Today, Proton is introducing Lumo 2.0, in what the company says is the largest upgrade to its privacy-first AI assistant to date. Here are the details.",
-    "pub_date": "2026-06-30T10:00:00.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 1576
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple @ Work Podcast: macOS ClickFix is back for more",
-    "link": "https://9to5mac.com/2026/06/30/podcast-macos-clickfix-is-back-for-more/",
-    "content": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\nIn this episode of Apple @ Work, Ray Canzanese from Netskope joins the show to discuss the latest macOS ClickFix campaign, designed to create a permanent backdoor.",
-    "pub_date": "2026-06-30T10:00:00.000Z",
-    "creator": "Bradley C",
-    "tags": "Mac",
-    "id": 1577
-  },
-  {
-    "source_name": "Macworld",
-    "title": "How to check your Mac’s temperature and keep it cool",
-    "link": "https://www.macworld.com/article/351897/how-to-check-mac-temperature-cool.html",
-    "content": "Macworld\n\n\nWhile people are at the greatest risk from high temperatures during the summer season, your Mac can also be at risk. (People can be water-cooled, and no current Mac offers that option, though some have tried.) An iPhone or iPad will warn you when it detects it’s too hot before shutting down, while a Mac may simply suddenly power off. If it doesn’t power down, you may be running it too close to its maximum capability and putting a lot of additional wear in the process on components that might fail later during other seasons.\nKnowing the temperature is one thing. The other is: how hot should your internal components run? Apple says you should only use a Mac when the ambient temperature–the temperature around you–is in the range of 50°F to 95°F (10° to 35°C) and 95 percent or lower humidity.\nInternal components produce far more heat than the ambient temperature, with around 100°F or 40°C often the minimum at which they operate in normal indoor circumstances. CPUs, GPUs, ports, and other elements shouldn’t exceed about 192°F (89°C) for extended periods. At 212°F (100°C), the boiling temperature for water at sea level, you should either figure out what energy hogs are making your computer work that hard or shut the system down for a while. (Hint: It’s almost always a browser.) You can use the Activity Monitor app in Applications > Utilities to look at Energy Impact in the Energy column for more particulars.\nMonitoring the Mac’s temperature\nModern Macs have an inordinate number of power sensors to detect problems and manage fan speeds in models that contain them–I count 34 using one tool on an M1 Mac mini. These sensors can be monitored with the right knowledge or software. (Also read: Why is my Mac fan so loud).\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nThe Energy section of the Mac’s Activity Monitor utility provides information on apps and the amount of heat they generate while processing.\n\nFoundry\n\n\n\n\nOn some Intel Macs, you can use Terminal or a free utility for basic temperature monitoring. In Terminal enter the following command and press return:\nsudo powermetrics --samplers smc |grep -i \"CPU die temperature\"\n(Note that those quotation marks are straight double-quotes.) Enter your administrative password when prompted. This will provide a continuous temperature reading of the CPU’s temperature. Press Control-C to stop the monitoring.\nYou can also install the free app Fanny (not the most perfect name for U.K. and other Commonwealth Mac owners), which offers a simple drop-down set of information in the menu bar or as a notifications widget. Details include the average CPU and GPU temperatures along with current fan speeds.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nTG Pro provides an enormous amount of detail on demand and control of built-in fans, but uses color coding and a menu bar summary for at-a-glance status.\n\nFoundry\n\n\n\n\nFor any Intel Mac and M-series Mac, the utility TG Pro ($20 but often on sale for $10) provides detailed monitoring and fan control. You can see the temperature recorded by every sensor in your Mac and for hard disks and SSDs that support the industry-standard SMART diagnostics. Information and controls are available both in a standard app window and a drop-down menu bar. That bar shows the highest port and CPU temperature and the current fan rotation.\nYou can also monitor the speed of internal fans and override Apple’s settings. This includes creating rules for when fans run and how fast they run. The app comes with a preset rule that turns the blades up to their maximum rotation if the highest temperature of any CPU parameter is at least 158°F (70°C).\nBest Mac Temperature Monitoring apps \nFanny\nTG Pro\n\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tRead our review\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n$20 at  Tunabelly Software",
-    "pub_date": "2026-06-30T08:47:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS,Silicon,App Store",
-    "id": 1588
-  },
-  {
-    "source_name": "Macworld",
-    "title": "This app replaces your printer, scanner, and filing cabinet, and a lifetime license is $25 for Deal Days",
-    "link": "https://www.macworld.com/article/3177288/this-app-replaces-your-printer-scanner-and-filing-cabinet-and-a-lifetime-license-is-25-for-deal-days.html",
-    "content": "Macworld\n\n\nTL;DR: iScanner is an iOS app that scans, edits, and organizes any document, and a lifetime subscription is only $25 for Deal Days.\nMost phone scanning apps either upload your files to a cloud service or charge a monthly fee for basic features. iScanner skips both, running locally on iOS or Android and turning your phone into a full document scanner with no subscription attached. A lifetime subscription is on sale for $24.97 (reg. $199.90) during Deal Days.\nScanning works on contracts, receipts, ID cards, tax forms, handwritten notes, books, and just about anything else flat enough to point a camera at. The AI handles the cleanup automatically. Borders get detected, skewed pages straighten out, and text recognition kicks in across more than 20 languages. Exports come out as PDF, JPG, DOC, XLS, PPT, or TXT, so a scan can drop straight into the format you actually need it in.\nA full PDF editor lets you sign documents manually, blur sensitive text before sharing, add watermarks, merge multi-page files, and lock confidential folders behind a PIN. The file manager handles folders with drag and drop, which makes finding a tax form from two years ago a lot less painful than scrolling through an unsorted gallery.\niScanner also has some little extras that desktop scanners definitely can’t manage. That includes a math solver for working through equations, an area calculator for measuring objects in the frame, an automatic count tool for repeating objects, and a built-in QR code reader.\nDuring Deal Days, you can get an iScanner lifetime subscription on sale for $24.97.\nOffer ends July 1 at 11:59 p.m. PT.\nCheck out the rest of the Deal Days Extended collection while you can.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\niScanner App: Lifetime SubscriptionSee Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-06-30T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,App Store,Services",
-    "id": 1589
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "WhatsApp usernames are here, and you can reserve yours today",
-    "link": "https://www.cultofmac.com/news/whatsapp-usernames-reserve-yours-today",
-    "content": "Meta is opening early WhatsApp username reservations, giving you a chance to secure you preferred handle before the global launch.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-06-30T06:05:48.000Z",
-    "creator": "Rajesh Pandey",
-    "tags": "Mac",
-    "id": 1590
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "How to use Tailscale to remotely connect to your Mac from anywhere",
-    "link": "https://appleinsider.com/articles/26/06/30/how-to-use-tailscale-to-remotely-connect-to-your-mac-from-anywhere?utm_source=rss",
-    "content": "If you need to securely connect to your Mac desktop at home while on the move, Tailscale may be the answer. Here's how to get started.\n\n\nTailscale helps you connect to your Mac remotely, even in tough networking conditions. \nOne of the main benefits of having a gigabit-class Internet connection is being able to connect to your home devices from outside the home. If you need  a file from a home fileserver, you have tons of bandwidth so you know you can get it remotely, quickly.\nHowever, while having the bandwidth is good, establishing the connection in the first place can be a problem.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-30T02:57:06.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "Mac",
-    "id": 1584
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "9to5Mac Daily: June 29, 2026 – Apple Silicon roadmap leaks",
-    "link": "https://9to5mac.com/2026/06/29/daily-june-29-2026/",
-    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.",
-    "pub_date": "2026-06-30T01:23:21.000Z",
-    "creator": "Seth Kurkowski",
-    "tags": "Silicon,App Store",
-    "id": 1578
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "T-Mobile Automatically Moving Legacy Plan Customers to New Plans",
-    "link": "https://www.macrumors.com/2026/06/29/t-mobile-legacy-plan-transition/",
-    "content": "Some T-Mobile customers with legacy phone plans are being upgraded to newer T-Mobile plans automatically, reports CNET. The company has been sending out notifications to customers with older plans, letting them know that they're going to be transferred to a current plan.\r\n\r\n\r\nCustomers being pushed to a new plan could get an automatic bill increase. The carrier plans to move customers to comparable modern plans. T-Mobile options include Essentials, Essentials Saver, Experience More, and Experience Beyond. Prices for a single line start at $50 per month.\r\n\r\nT-Mobile marketing lead Allan Samson said the majority of customers being automatically upgraded will pay below what the plan sells for, and won't have the same pricing that a plan would cost a new customer. The average increase will be around $4 per line per month, with some pricing going up $6.\r\n\r\nEmployees were told T-Mobile is transitioning customers to modern plans to get rid of over 1,100 legacy billing codes, and were warned to expect increased customer contact volume in the coming weeks.\r\n\r\nCNET which plans are being retired, but some date back 15 years. The company has run through a lot of plans over the last decade and a half, plus Sprint users on legacy plans were folded into T-Mobile after the 2020 merger.\r\n\r\nTag: T-Mobile\nThis article, \"T-Mobile Automatically Moving Legacy Plan Customers to New Plans\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-29T23:46:41.000Z",
-    "creator": "Juli Clover",
-    "tags": "Services",
-    "id": 1574
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Stop paying monthly for cloud storage with up to 70% off pCloud Lifetime this 4th of July",
-    "link": "https://9to5mac.com/2026/06/29/stop-paying-monthly-cloud-storage-up-to-70-off-pcloud-lifetime-4th-of-july/",
-    "content": "For Apple users, storage never feels finished. iPhone photo libraries keep growing, Macs fill up with large projects and downloads, and the monthly services meant to solve the problem can become another subscription to track.\npCloud’s 4th of July promotion takes a different approach: pay once for lifetime cloud storage, then keep using it across your devices without monthly or annual renewal fees.\nFor a limited time, pCloud is offering up to 70% off its Individual Lifetime plans, and each plan includes pCloud Encryption for free for life. Storage options range from 1 TB to 10 TB.",
-    "pub_date": "2026-06-29T23:30:00.000Z",
-    "creator": "Sponsored Post",
-    "tags": "iOS,Services",
-    "id": 1558
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple accelerates security updates in response to AI-powered hacking risks",
-    "link": "https://9to5mac.com/2026/06/29/apple-accelerates-security-updates-in-response-to-ai-powered-hacking-risks/",
-    "content": "Today’s iOS, iPadOS, and macOS 26.5.2 updates include security fixes that Apple had originally planned to release with version 26.6 of each operating system. Here’s why the company pushed them out early.",
-    "pub_date": "2026-06-29T23:29:19.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Mac,iOS",
-    "id": 1559
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "WhatsApp Now Lets You Reserve a Username",
-    "link": "https://www.macrumors.com/2026/06/29/whatsapp-username-reservations/",
-    "content": "Popular messaging app WhatsApp is now allowing users to reserve usernames ahead of plans to launch username-based messaging. Right now, WhatsApp uses a person's phone number as an identifier, but usernames will allow people to interact without having to exchange personal information.\r\n\r\n\r\nUsername reservations are rolling out starting this week, and not all users will have access to the reservation system right away. WhatsApp is sending a notification when a username can be reserved. Usernames are optional, and once access has been granted, a username can be selected by going to Settings > Account > Username. Usernames can be 3 to 35 characters in length.\r\n\r\nThere are over three billion people on WhatsApp, and the company says it is opening up reservations early so \"everyone has the opportunity to select the username that matters to them.\" WhatsApp suggests users choose a unique name only contacts would know.\r\n\r\nCreators, small businesses, and organizations have the option to claim their existing Instagram or Facebook username on WhatsApp. Users who have a username on Instagram or Facebook can claim the same username on WhatsApp by choosing the Use Instagram username or Use Facebook username option, as long as it isn't already taken.\r\n\r\nWhatsApp has no directory of usernames to browse, and no username discovery suggestions. People will need to know a WhatsApp user's exact username to send a message, plus there is an optional username key that adds extra spam protection.\r\n\r\nTag: WhatsApp\nThis article, \"WhatsApp Now Lets You Reserve a Username\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-29T23:01:05.000Z",
-    "creator": "Juli Clover",
-    "tags": "App Store",
-    "id": 1554
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Open Source AI Agent OpenClaw Gets Native iOS App",
-    "link": "https://www.macrumors.com/2026/06/29/openclaw-ios-app/",
-    "content": "Popular open source AI agent OpenClaw is expanding to the iPhone and iPad with a new native iOS app. OpenClaw for iOS can be used alongside an existing gateway as a secure node for chat, voice approvals, sharing, and device-aware automation.\r\n\r\n\r\nThe iOS app replaces iPhone and ‌iPad‌ workarounds that involved using Telegram or WhatsApp for on-the-go access.\r\n\r\nOpenClaw is a self-hosted AI agent that runs on a Mac or PC. Users can connect an API key from Claude, OpenAI, Gemini, or other AI services, linking the model to content on the gateway machine. OpenClaw lets an AI model access messaging apps, files, web browsers, and more, so it can complete tasks.\r\n\r\nApp Store description says the iOS app can be used in multiple ways.\r\n\r\n\r\nPair with your private OpenClaw Gateway by QR code or setup code\n\r\n \t\nChat with your assistant from iPhone\n\r\n \t\nUse realtime and background Talk mode\n\r\n \t\nReview Gateway action approvals from your iPhone\n\r\n \t\nShare text, links, and media directly from iOS into OpenClaw\n\r\n \t\nEnable device capabilities such as camera, screen, location, photos, contacts, calendar, and reminders when you choose\n\r\n \t\nReceive push wakes and node status updates for connected workflows\n\r\n\r\n\r\nOpenClaw is a useful tool, but it has risks. It is susceptible to prompt injection and requires broad system permissions on gateway devices.\r\n\r\nOpenClaw started out as Clawdbot, because the initial version created by Peter Steinberger used Claude. Anthropic complained about the name, prompting a rename.\r\n\r\nDirect Link]\nThis article, \"Open Source AI Agent OpenClaw Gets Native iOS App\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-29T22:42:11.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,iOS,App Store",
-    "id": 1555
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "SCOTUS says detailed cellphone location data is protected by the Fourth Amendment",
-    "link": "https://9to5mac.com/2026/06/29/scotus-says-detailed-cellphone-location-data-is-protected-by-the-fourth-amendment/",
-    "content": "In a 6-3 decision, the Supreme Court ruled that police conduct a Fourth Amendment search when they obtain a person’s detailed cellphone location history from a tech company, even when the data covers only a short period. Here’s what that means.",
-    "pub_date": "2026-06-29T22:29:28.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 1560
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple asks UK Supreme Court to overturn $502 million patent ruling in Optis dispute",
-    "link": "https://9to5mac.com/2026/06/29/apple-asks-uk-supreme-court-to-overturn-502-million-patent-ruling-in-optis-dispute/",
-    "content": "Apple’s long-running patent dispute with Optis is set to enter a new chapter this week, as the case reaches the UK Supreme Court. Here are the details.",
-    "pub_date": "2026-06-29T21:48:46.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 1561
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "User location data that Google & Apple have is protected by Fourth Amendment, says SCOTUS",
-    "link": "https://appleinsider.com/articles/26/06/29/user-location-data-that-google-apple-have-is-protected-by-fourth-amendment-says-scotus?utm_source=rss",
-    "content": "A new Supreme Court ruling will require police to have probable cause before using sweeping geofence warrants that rely on people's personal location data to find criminals.\n\n\nThe Supreme Court rules against the use of geofence warrants\nPolice subpoena Apple, Google, and other tech companies for precious user location data using so-called \"geofence warrants,\" which can serve as a dragnet to catch a single criminal while implicating many others. The Supreme Court says this method is no longer an option without probable cause.\nAccording to SCOTUSblog, breaking down the ruling, a geofence warrant meets the criteria of a \"search\" as defined by the Fourth Amendment. Simply put, this means that anyone included in a warrant must be there with a reason.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-29T21:41:47.000Z",
-    "creator": "Wes Hilliard and Mike Wuerthele <news@appleinsider.com>",
-    "tags": "General",
-    "id": 1568
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "New iPhone and Mac updates offer dozens of security fixes",
-    "link": "https://www.cultofmac.com/news/ios-26-5-2-ipados-macos-security-fixes",
-    "content": "Update your iPhone to iOS 26.5.2 today for a wide range of security fixes. Apple also releasedequally important macOS and iPadOS updates. \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-06-29T21:19:59.000Z",
-    "creator": "Ed Hardy",
-    "tags": "Mac,iOS",
-    "id": 1571
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Released iOS 26.5.2 Security Fixes Early to Thwart AI-Assisted Hacks",
-    "link": "https://www.macrumors.com/2026/06/29/apple-ios-26-5-2-early-release/",
-    "content": "Apple today released iOS 26.5.2, iPadOS 26.5.2, and macOS Tahoe 26.5.2 with a long list of security fixes that it initially introduced in the iOS 26.6, iPadOS 26.6, and ‌macOS Tahoe‌ 26.6 betas.\r\n\r\n\r\nApple told Reuters that it released the updates earlier than planned due to concerns about AI-assisted hacks.\r\nThe company told Reuters on Monday it was adapting to ​the reality that, given the ability of artificial intelligence ​to speed the development of malicious hacking tools, it needed to reduce the time between when updates were first ​made public and when they were put into customers' hands.\n\r\nVulnerability fixes are typically included in most Apple software updates, but its major point updates usually include more fixes. Apple intended to release the 25+ security fixes that it introduced today in iOS 26.6 and its sister updates, but didn't want to wait for iOS 26.6 to come out.\r\n\r\noutlining the changes, Apple did not say that any of the vulnerabilities that were fixed had been actively exploited, and the company further told Reuters that there was no evidence any of the now-patched vulnerabilities had been taken advantage of. Apple said the time between when the security fixes were announced and when they were deployed needed to be compressed, but did not say which vulnerabilities drove the urgency.\r\n\r\nProject Glasswing partners, and it has been using the Claude Mythos Preview to hunt down and patch vulnerabilities before hackers can use them to breach devices. It's not known if Mythos played a role in Apple's decision to release the fixes ahead of schedule.\nRelated Roundups: iOS 26, iPadOS 26\nRelated Forum: iOS 26\nThis article, \"Apple Released iOS 26.5.2 Security Fixes Early to Thwart AI-Assisted Hacks\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-29T21:14:23.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,iOS",
-    "id": 1556
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Future OLED Macs and iPads could support a much wider color gamut, per report",
-    "link": "https://9to5mac.com/2026/06/29/future-oled-macs-and-ipads-could-support-a-much-wider-color-gamut-per-report/",
-    "content": "As Apple gears up to bring OLED to the Mac, a new TrendForce report looks at the wider color gamut reportedly planned for future MacBook Pro, iPad Pro, and iMac displays. Here are the details.",
-    "pub_date": "2026-06-29T20:56:35.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Mac,iOS",
-    "id": 1562
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "OpenClaw just launched an official app for iPhone, details here",
-    "link": "https://9to5mac.com/2026/06/29/openclaw-just-launched-an-official-app-for-iphone-details-here/",
-    "content": "Remember Clawdbot, the effort to put AI models to work as agents? Clawdbot eventually became OpenClaw and gained OpenAI’s support. Now there’s an official iPhone (and Android) app for OpenClaw for the first time.",
-    "pub_date": "2026-06-29T20:52:20.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS,App Store",
-    "id": 1563
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iOS 26.5.2 Patches More Than 25 Security Vulnerabilities",
-    "link": "https://www.macrumors.com/2026/06/29/ios-26-5-2-vulnerabilities/",
-    "content": "Apple's newly released iOS 26.5.2, iPadOS 26.5.2, and macOS 26.5.2 updates address more than 25 security vulnerabilities, which means you should install the updates as soon as possible.\r\n\r\n\r\nAccording to Apple's security support documents for the updates, the new software has vulnerability fixes that Apple previously made available in the iOS 26.6, iPadOS 26.6, and macOS Tahoe 26.6 betas.\r\n\r\nThere are multiple kernel fixes, and several WebKit vulnerabilities that could lead to crashes or data leaks have been addressed. None of the vulnerabilities are known to have been actively exploited, but now that Apple has published details about them, it is possible malicious entities could create exploits targeting users who have not yet updated.\r\n\r\niPad, and Mac users keep their devices up to date and install the new software patches shortly after they're released.\nRelated Roundups: iOS 26, iPadOS 26\nRelated Forum: iOS 26\nThis article, \"iOS 26.5.2 Patches More Than 25 Security Vulnerabilities\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-29T20:15:47.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,iOS",
-    "id": 1557
-  },
-  {
-    "source_name": "Macworld",
-    "title": "iPhone 18 Pro ‘drop test’ images, parts list included in ransomware leak",
-    "link": "https://www.macworld.com/article/3180152/iphone-18-pro-drop-test-images-parts-list-included-in-ransomware-leak.html",
-    "content": "Macworld\n\n\nReuters reported last week that Tata Electronics in India had a “cybersecurity incident” that resulted in more than 200,000 Tata files being stolen and posted to the internet in a purported ransomware attack. We’re now learning that many of those files involved projects with Apple, and in a new report on Monday, Reuters details that the supplier lists, parts, and photos of the upcoming iPhone 18 Pro were included in those documents that can now be found on the dark web.\nTata Electronics is an electronics manufacturing company in India that is under contract with Apple to produce the iPhone. The contract is part of Apple’s effort to diversify its iPhone manufacturing, which is concentrated in China.\nIn Reuters’ review of the documents, they found at least six files that map the iPhone 18 Pro chips, battery, and cameras to their suppliers. The files also detail where Apple uses several suppliers for a part, and where only a few suppliers are used. Reuters states that making this information public affects Apple’s “bargaining leverage and its vulnerabilities.”\nThe leaked files also contain confidential watermarks and internally used code names for the iPhone 18 Pro. Reuters also found photos of “a conventional slab-shaped, grey handset with a three-rear-camera setup and the Apple logo” being used in drop tests performed at a Tata plant. In all, Reuters reports the documents detail “hundreds of parts” expected to be included in the upcoming iPhone 18 Pro models.\nApple and Tata did not respond to Reuters’ request for comment. Reuters also said that Apple is investigating the incident and “working with Tata on long-term measures,” and “is concerned about the documents being shared on the dark web as they relate to unreleased models.” \nThe iPhone 18 Pro is expected to be announced at an event sometime in September. That event is also expected to feature the new iPhone Ultra, Apple’s first folding phone, but that specific model will not be available at the same time as the iPhone 18 Pro. Learn more about the iPhone 18 Pro.",
-    "pub_date": "2026-06-29T20:10:17.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,Rumors",
-    "id": 1570
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "MagSafe Monday: The ESR OmniLock mount proves MagSafe is not just for charging",
-    "link": "https://9to5mac.com/2026/06/29/esr-omnilock-for-magsafe-car-mount/",
-    "content": "MagSafe is typically known for charging only, but there are use cases for it as just a mounting technology/use case. If you don’t want to charge your iPhone in your car or you have a wired CarPlay setup, you might want to use it just for mounting. That’s what the ESR OmniLock for MagSafe Car Mount is designed to do. Let’s take a look.",
-    "pub_date": "2026-06-29T20:00:00.000Z",
-    "creator": "Bradley C",
-    "tags": "iOS",
-    "id": 1564
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple says India built its App Store antitrust case on ‘copy-pasted’ claims from rivals",
-    "link": "https://9to5mac.com/2026/06/29/apple-says-india-built-its-app-store-antitrust-case-on-copy-pasted-claims-from-rivals/",
-    "content": "Apple is reportedly seeking to have India’s antitrust findings against the App Store quashed, arguing that investigators simply “copy-pasted” claims from its rivals rather than conducting their own investigation. Here are the details.",
-    "pub_date": "2026-06-29T19:56:13.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "App Store",
-    "id": 1565
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "watchOS 27 has brand new default Home Screen for Apple Watch",
-    "link": "https://9to5mac.com/2026/06/29/watchos-27-has-brand-new-default-home-screen-for-apple-watch/",
-    "content": "Apple Watch users have two current Home Screen layout options, but in watchOS 27 they’re joined by a new default: the dynamic app grid. Here’s how it works.",
-    "pub_date": "2026-06-29T19:32:51.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS,App Store",
-    "id": 1566
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Don't wait to update: iOS 26.5.2 includes over 25 security fixes for web browsing",
-    "link": "https://appleinsider.com/articles/26/06/29/dont-wait-to-update-ios-2652-includes-over-25-security-fixes-for-web-browsing?utm_source=rss",
-    "content": "Apple's iOS 26.5.2 update adds a variety of fixes to keep your data safe while browsing the web. Here's what you need to know and why you should update.\n\n\niOS 26.5.2 includes more than 25 security fixes.\nOn Monday, just under a month after releasing iOS 26.5.1, Apple made iOS 26.5.2 available for download. The update contains more than 25 different security enhancements, and over 15 of them are related to WebKit.\nNotably, Apple patched two WebKit vulnerabilities that used maliciously crafted web content to disclose sensitive information. One of the vulnerabilities, a cross-origin issue, was resolved with improved tracking of security origins, while the other security issue was addressed with validation improvements.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-29T19:00:49.000Z",
-    "creator": "Marko Zivkovic <marko@appleinsider.com>",
-    "tags": "iOS",
-    "id": 1526
-  },
-  {
-    "source_name": "Macworld",
-    "title": "macOS 26 Tahoe Guide: All the new features in macOS Tahoe, including the latest update",
-    "link": "https://www.macworld.com/article/2644146/macos-26-features-latest-update-release-date-beta.html",
-    "content": "Macworld\n\n\nLike its counterparts on the other Apple devices, on September 15, 2025 macOS got a brand new look along with a new name: macOS 26. Because Apple is aligning the names of all the operating systems this year, the new version of macOS is called macOS 26 rather than macOS 16. It also takes the name Tahoe, inspired by the lake, beaches, and the ski resorts of that area of California. \nAlong with a big redesign, macOS 26 brings new Continuity features to bring your iPad, iPhone, and Mac even closer together, a brand new Phone app, and more. Spotlight also gets its biggest ever update with the ability to action things like sending emails directly from Spotlight. \nmacOS Tahoe might have launched, but Apple is continuing development with new features being added every couple of months – the latest update being macOS 26.5.2. You can get a first look at the new upcoming features via Apple’s developer and public betas, which are available to download if you join the beta program (we explain how to do so below).\nYou will find all the things you need to know about macOS Tahoe and all its new features below, including which Macs are compatible with macOS 26 and the new features you can expect, including what’s been added since the September launch, and what’s coming in the next update. Stay tuned to this superguide for everything you need to know about macOS 26 Tahoe. \nmacOS 26 Tahoe: Summary\nThe new version of macOS, called macOS 26 Tahoe, was released on September 15 2025. \nThe latest version–macOS 26.5.2–arrived on June 29, 2026.\nmacOS 26 Tahoe is still being developed and you can access new features before they are launched via the Developer and Public Betas.\nTahoe runs on Macs released since 2019. macOS 26 Tahoe runs on all M-series Macs, but it runs on a small number of Intel-powered models. Apple has confirmed that macOS Tahoe will be the last macOS version to support Intel-powered Macs; from macOS 27 Intel Macs will not be supported.\nWith its new Liquid Glass interface, macOS 26 has its biggest design change since 2013.\nNew features in macOS Tahoe include more options for personalization, improvements to Spotlight and Shortcuts app, and the introduction of a Phone app on the Mac and all the associated features.\nWhat is the latest version of macOS 26 Tahoe?\nLatest version of macOS is macOS Tahoe 26.5.2, which arrived on June 29, 2026.\nApple released the first version of macOS 26 Tahoe on September 15, 2025. The release coincided with the iOS 26 update. Since then the following updates to Tahoe have been issued by Apple:\nmacOS 26 – September 15, 2025\nmacOS 26.0.1 – September 29, 2025 (bug fixes) \nmacOS 26.1 – November 3, 2025\nmacOS 26.2 – December 12, 2025\nmacOS 26.3 – February 11, 2026\nmacOS 25.3.1 – March 4, 2026\nmacOS 26.4 – March 24, 2026\nmacOS 26.4.1  – April 9, 2026\nmacOS 26.5 – May 11, 2026\nmacOS 26.5.1 – June 1, 2026\nmacOS 26.5.2 – June 29, 2026\nWondering whether to install macOS Tahoe? Read: macOS Tahoe vs macOS Sequoia: What’s different, what’s new, and should you update?\nWhat’s coming in the next version of macOS?\nmacOS 26.6 – release date tbc\nApple is working on the next beta of macOS 26 – version 6. It may be the last major update to macOS Tahoe. \nOn June 8, Apple will hold its WWDC event at which the company will reveal news about what’s coming in macOS 27 later in 2026. The macOS 26.6 update is unlikely to arrive before the WWDC Keynote. \nWith Apple already working on the next update to macOS, we are less likely to see new features for macOS 26. Future updates to macOS 26 are more likely to relate to bug fixes and security updates, unless Apple needs to release new features for compatibility with upcoming new products.\nApple runs a developer beta as well as a public beta so that upcoming new features can be tested. Both betas are free, though the developer beta requires a free registration as a developer. Apple issues updates to the betas fairly regularly. The public beta updates tend to come a day or two after the updated developer beta. If you are interested in trying out the beta, you can join Apple’s beta program. For help installing the macOS beta, see our guide to installing the macOS beta.\nNew features that have arrived in macOS 26 Tahoe since launch\nDevelopment continues even after the official macOS update is released, as Apple seeks to introduce new features that missed the initial introduction date. \nBelow you can see all the new macOS features that have arrived with each iteration of macOS 26 since it’s initial launch in September 2025. \nNew features in macOS 26.5.2\nThis update has no new features and contains security fixes. Apple has released a support document that has the details on the security fixes.\nNew features in macOS 26.5.1\nThe macOS 26.5.1 update only contains a bug fix for M5 Macs. According to the release notes, “This update addresses an issue for enterprise users where Macs with an M5 chip could unexpectedly shut down when using certain content filtering network extensions.” No new features are included in the update.\nNew features in macOS 26.5\nWith macOS 26.5, Apple added a new option for desktop Mac owners who think it’s too difficult to reach their Mac’s power button.\nA new option labeled “Start up when power is connected” now appears in the Energy section of System Settings for the Mac mini, iMac, and Mac Studio. An Apple support document explains that “Your Mac will now automatically turn on whenever you connect it to power, such as when plugging it into a power outlet or restoring power using an external power switch.” This should be helpful for those who find the on switch awkward to reach on the Mac mini. \nApple also included several features that are also in iOS 26.5 and iPadOS 26.5: \nMaps now has Suggested Places and ads\nPower control setting in Energy for Mac mini, Mac Studio, and iMac enables you to power off or restart your Mac using assistive accessories like switches\nRCS end-to-en encryption\nBug fixes and security enhancement\nNew features in macOS 26.4.1\nmacOS 26.4 is specific to the M5 MacBook Air and the M5 Pro and M5 Max MacBook Pros released in March 2026. \nIt fixes an issue that can occur when using content filter extensions and connecting to a Wi-Fi network on those machines.\nNew features in macOS 26.4\nBattery management feature: A manual battery charge limit for MacBooks. This is a feature previously exclusive to iPhones that allows users to cap their battery charge at 80 percent, 100 percent, or any five-percent increment in between to reduce long-term wear and tear. \nTerminal warning: A new Terminal paste warning alerts users who paste in suspicious commands that scammers encourage pasting text into Terminal. \nApple Music “Playlist Playground”: A new feature that uses Apple Intelligence to generate or edit playlists based on text prompts or a selection of songs.\nWriting Tools and Summaries: Continued integration of system-wide AI tools for proofreading and summarizing text.\nApple Podcasts update: A new video podcast experience that utilizes HTTP Live Streaming (HLS) to allow users to switch seamlessly between watching and listening to shows.\nApple Music update: The interface for albums and playlists has been updated so that the background color dynamically matches the album artwork. \nFreeform: The whiteboarding app has received a “Creator Studio” update, which includes new features and a refreshed app icon.\nAdvanced Fingerprinting Protection: macOS 26.4 includes critical security patches and expands on privacy features like Advanced Fingerprinting Protection.\nStolen Device Protection: This a feature, first seen on iPhone, is expected to be enabled by default starting with this release.\nEight new emoji: Ballet Dancer, Distorted Face, Fight Cloud, Hairy Creature (Bigfoot), Landslide, Orca, Treasure Chest, and Trombone\nRosetta 2 warnings: Support for the transition layer for Intel-based apps will end with macOS 27.\nNew features in macOS 26.3.1\nExternal Display Support: macOS 26.3.1 adds support for the 2026 models of the Studio Display and Studio Display XDR.\n If you’re planning on investing in a Studio Display, you’ll need to install this update, according to the release notes. It also includes security patches and bug fixes.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nNew features in macOS 26.3\nThis update continues the refinement of the major features introduced with the initial launch of macOS 26 Tahoe. In iOS 26.3 there were a number of EU-mandated changes. It is also optimized for the M5 Pro and M5 Max chips, which are due to launch. Read our iOS 26 guide for more information.\nNew features in macOS 26.2\nmacOS Tahoe 26.2, released in late 2025, introduced several specialized updates focusing on video conferencing enhancements, AI development tools, and hardware-specific performance boosts. While it was not considered a massive overhaul, it brought a few “genius” utility features that improved the daily user experience, particularly for those working in remote or low-light environments. \nEdge Light: The most prominent consumer-facing feature in macOS 26.2 is Edge Light, a virtual ring light designed to improve webcam image quality. It places a bright white border around the display to mimic a selfie ring light, significantly improving visibility in dark rooms. It uses the Neural Engine to detect the user’s face for appropriate light adjustment and can even detect the cursor to hide the light when it might interfere with navigation. Users can adjust the intensity of the light and choose between warmer or cooler color temperatures. It requires an M-series Mac, but on M4 Macs and later, the feature can be set to enable automatically when low light is detected .\nAI and Developer Enhancements: For developers and power users, macOS 26.2 introduced significant updates to machine learning frameworks and hardware clustering. Developers using the open-source MLX framework can now leverage the Neural Accelerator in the M5 chip. The update enhanced the ability to create AI clusters using the Mac Studio’s Thunderbolt 5 connectivity.\nSecurity Updates: Critical patches for vulnerabilities, aligning with security fixes found in iPadOS 26.2.\nInterface Polish: Continued refinement of the “Liquid Glass” UI, which introduced more translucency and visionOS-style effects across the system.\nPerformance: General “under-the-hood” changes to improve system stability and responsiveness .\nNew features in macOS 26.1\nThe macOS 26.1 update includes fixes for problems with games controllers and some other issues. There are a lot more changes coming to iPhones with iOS 26.1.\nNew features in macOS 26.1 include:\nLiquid Glass: Ability to tone down Liquid Glass effect. Choose between clear and tinted look for increased opacity.\nAutoMix support for Apple Music over AirPlay.\nFaceTime audio improvements over low-bandwidth.\nRegional Communication Safety and Web content filters for adult websites.\nIcons: Changes to the Macintosh HD icon.\nNew TV app icon with Apple TV+ rebranded to Apple TV.\nA new Results from Clipboard setting for Spotlight, where the user can turn on/off Spotlight’s ability to search and display clipboard items. Users can also set an expiration time for the clipboard and clear the Clipboard history. (Settings > Spotlight > Results from Clipboard.)\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nmacOS Tahoe 26.1 has a new Spotlight setting for Clipboard management.\n\nFoundry\n\n\n\n\nmacOS 26 Tahoe problems & fixes\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nYouTube / Apple\n\n\n\n\nSome M3 Ultra Mac Studio users have reported that they are unable to install macOS Tahoe. It seems the problematic Mac Studios already had Sequoia 15.7 installed, and during the attempted installation, Tahoe would look for a driver, and when it failed to find it, it resulted in a failed installation.\nThe macOS 26.0.1 update addresses the initial bugs, including the Mac Studio installation bug.\nmacOS 26 Tahoe supported devices: Which Macs get macOS Tahoe\nRequires M-series chip or Intel-based Mac computers with a T2 Security Chip\nApple Intelligence features require M1 or later\nNo Intel support from macOS 27 onwards\nWhen Apple updates the operating system for its devices, it sometimes means that certain models are no longer supported. The good news is that Macs that ran macOS Sonoma will be able to run the new macOS. Apple states that the base requirement includes Macs with M-series chips and Intel-based Mac computers with a T2 security chip.\nHere are Macs with Apple Silicon that will be able to run macOS Tahoe:\nMacBook Air (M1/2020 and later)\nMacBook Pro (M1/2020 and later)\niMac (M1/2021 and later)\nMac mini (M1/2020 and later)\nMac Studio (M1/2022 and later)\nMac Pro (M2/2023 and later)\nThere are four Intel-powered Macs able to run macOS Tahoe. These models won’t support Apple Intelligence features:\nMacBook Pro (16‑inch, Intel/2019)\nMacBook Pro (13‑inch, Intel/2020, Four Thunderbolt 3 ports)\niMac (Intel/mid 2020)\nMac Pro (Intel/2019)\nApple confirmed that this is the last version of macOS that will run on Intel Macs. \nWhat were the biggest changes in macOS 26 Tahoe\nmacOS 26 Tahoe represents one of the most significant overhauls to Apple’s desktop operating system in over a decade. The update is characterized by a dramatic visual redesign, the introduction of core mobile apps to the Mac, and a complete rethinking of system-wide tools like Spotlight. \nWe’ll run through each new feature in detail below, including the Liquid Glass redesign, Spotlight overhaul, new apps, new iPhone features that are coming to the Mac and more… \nmacOS 26 Tahoe design: Liquid Glass and other interface changes \n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nAt WWDC in June, Apple showed off some enticing new features for macOS that will be coming later in 2025. A number of new features and interface enhancements were promised, but one of the biggest changes is coming to all of Apple’s products: a new design based on a graphical user interface that Apple is calling Liquid Glass.\nApple showed off the brand new look for macOS in the WWDC keynote. As with Apple’s other operating systems, macOS Tahoe uses Apple’s new Liquid Glass effect to create reflective, glossy elements around the interface. The Liquid Glass elements will change color to reflect the content beneath as you scroll and will dynamically react. Buttons appear more curved and less flat. \nYou’ll see the effect in the Dock, sidebars, toolbars, and elsewhere. The menu bar is fully transparent, and you can adjust the transparency of icons in the Dock, for example. If you don’t like the new transparent look or if it affects how well you can see items, there is a way to reduce it, and in some instances, turn it in off altogether. Read: How to reduce transparency in macOS Tahoe.\nThis is the first time in years that Apple has made significant changes to the visual style of macOS, and it certainly makes the OS appear more modern.\n\n \n @macworld.com \nTop 3 features in macOS Tahoe from WWDC #wwdc #macostahoe #fyp\n ♬ original sound – Macworld – Macworld \n  \n\n\n\n\nmacOS Tahoe interface changes \n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nApple says the design overhaul will elevate the key elements of macOS and enhance the macOS experience. The cleaner design is intended to help the user to focus on their content rather than other distractions, while elements like the translucent menu bar will make the screen feel larger. \nUsers will be able to choose to add third-party apps to the menu bar and even drag widgets and buttons from the Control Centre into the menu bar, thanks to a customizable layout, similar to iOS 18. Users will also be able to add controls for their favorite apps to the Control Centre. We have a guide to how to use Control Centre in macOS Tahoe where you can read about how to add controls, remove the ones you don’t want, and arrange them in a way that makes sense for you. \nApple is taking advantage of the Liquid Glass introduction to bring some new icon designs to the Mac as well to help give macOS a fresh look. Some of the icons look drastically different, for others the changes are more subtle. The ‘hard drive’ icon will now be replaced with one that looks more like an SSD, for example. \nThe new icons tend to take the form of ‘squircles’. The changes may make some third party icons less recognisable. Take a look at: 21 of the new macOS Tahoe icons with new designs for the Finder, Automator, Calendar and Contacts icons among others. You can change the icons if you want, read: How to change the icon of a macOS storage device.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\tThe new Finder icon.\nApple\n\n\n\n\nmacOS will also gain a feature that arrived on the iPhone and iPad with iOS 18: tinted and dark app icons. \nUsers will be able to personalize their Mac in other ways, too, such as changing the color of folders and adding emoji or symbols to help them identify folders. Users can also pick personalised wallpapers and choose theme colors. If you want to change your folder color read: How to change folder color and add icons in Tahoe. \nNew dynamic screensavers will be included. One, based on the default macOS Tahoe wallpaper, depicts the landscapes of South Lake Tahoe in a stylized artistic manner, is available in both light and dark versions. See how it looks in Tahoe’s gorgeous new screen saver. \nThere are up to 15 other new screensavers with images of Tahoe at various time of the day, Himalayas, Goa, The Ganges and more.\nmacOS Tahoe Spotlight overhaul\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nSpotlight has always been much more than a search tool built into macOS, helping users find anything on their Macs, make calculations and conversions, and more. In macOS Tahoe, Spotlight will be able to do even more.  \nSpotlight’s design and functionality have been completely rethought for macOS 26, with changes that will help Mac users get things done faster.\nRather than being a single bar, on the right-hand side of the new Spotlight search box, you will find icons for things like apps, files, Shortcuts, Actions, and clipboard. Select one of these buttons, and Spotlight’s box expands to house relevant items in an easy-to-browse view. When you search for something, you’ll see relevant filters under your search terms – click one to quickly apply it.\nNot only will Spotlight be the easiest way to find anything on your Mac, but in macOS 26, Spotlight will be contextually aware so it can make suggestions based on what you are doing. Search results will be listed based on their relevance to you, and it will be possible to use new filtering options for more specific search results. \nSpotlight will also have the ability to perform actions that normally require you to be inside an app. For example, you will be able to create a calendar event, begin an audio recording, or play a podcast from within Spotlight. It will even let you fill out parameters for actions, such as typing out an email message and filling in the recipient and subject. You can essentially compose an email from inside Spotlight, without opening your email app.\nThis will be simplified further with Quick Keys, with which you will be able to type a short string of letters to launch an action, such as typing “sm” to start sending a message to a friend. An App Intents API will make it possible for third-party developers to add Spotlight shortcuts for their applications.\nOne of the most exciting new arrivals in Spotlight is Clipboard History, something we have wanted for years. Instead of being limited to pasting the last copied item, you will be able to view previous text and photos you’ve copied and re-insert them as needed. Why did it take Apple so long to offer this?\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\n\nApple\n\n\n\n\nTied to the new Spotlight is the new Apps app, which replaces Launchpad, which has been a feature of Macs for more than a decade and provides users with a Home page like view of all their apps. Instead Spotlight will be the means of finding apps. This will take some adjustment, especially if you were a Launchpad user. Learn more about Apps replacing Launchpad, and if you want to get Launchpad back we have a tutorial to show you how. \nmacOS 26 Tahoe: New and updated apps \nThere are also lots of updates coming to Apple apps that are included with iPads, iPhones, and Macs. Many of the changes are shared across all the new apps, but there are a number of Mac-specific updates coming. \nPhone app\nA Phone app on the Mac is the latest Continuity feature to come to macOS. Continuity is Apple’s name for the features that work seamlessly between Macs, iPad and iPhones, these include Handoff (which enables you to start a task on one device and switch to another to finish it), Universal Clipboard (which allows you to copy something on one device and paste it on another), and Universal Control (where you can use one mouse and keyboard to interface with more than one Mac), among other features. \nWith the new Phone app, users will be able to receive their calls and voicemail on the Mac. The Phone app is getting some new features of its own, including Call Screening, which is designed to help you avoid spam calls, and Hold Assist, which means you will never have to listen to hold music again.\nWith Call Screening, before a call is put through, an unknown caller will have to share their name and reason for calling, and you will then be provided with that information. With Hold Assist, when you join a queue to wait for a call operator and the hold music starts, you can choose to be called back. \n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nYouTube / Apple\n\n\n\n\nLive Activities \nAnother feature that demonstrates the interoperability between the iPhone and Mac is Live Activities. \nIn iOS 18, you can see a live update on your Lock Screen relating to things like a takeaway order. Live Activities show the process of a food delivery driver, for example. Now, that functionality is coming to the Mac.\nIt will be powered by the iPhone Mirroring function, and will take the form of an iPhone-style widget that you will see on the screen of your Mac. \nGames app\nThe Games app is another one that is available across all three main operating system updates: iOS, iPadOS, and macOS. As with the iOS Games app, the Games app on the Mac will bring together all the games you have on your Mac (bought from the App Store, Apple Arcade and elsewhere), as well as your friends list, achievements, and leaderboards. Tabs will make it easy to find the games you and your friends are playing.\nA new Game Overlay will make it easy to adjust settings for a particular game. You’ll also be able to chat with friends and ask them to play. \n\n \n @macworld.com \nNew Mac gaming features just dropped! #wwdc25 #gaming #apple #fyp\n ♬ original sound – Macworld – Macworld \n  \n\n\n\n\nThere is also a new Low Power Mode coming, which gamers will be able to turn on to maximise battery life when playing games. \nAnd in related news, Metal 4 is coming, which will enable next-gen features for Mac game developers, such as MetalFX Frame Interpolation and MetalFX De-noising. \n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\n\nApple\n\n\n\n\nShortcuts \n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nThe Shortcuts app is getting an overhaul in macOS Tahoe. \nShortcuts is a tool for automating tasks and repetitive actions. For those with more specific needs, there is also Automator on the Mac, but Shortcuts is simple to use and available on iPhone and iPad as well. \nIn Tahoe, Shortcuts will be able to run workflows based on factors like time of day, or in response to an email from a specific person arriving. This functionality was previously limited to the iPhone and iPad versions.\nThere are new intelligent actions available that can be used to create Smart Shortcuts. Apple Intelligence and ChatGPT can be used to enhance these Shortcuts. Apple says that “Users will see dedicated actions for features like summarizing text with Writing Tools or creating images with Image Playground.”\nLive Translation \nOne of the most useful new features announced at WWDC is Live Translation. With Live Translation, you can text a friend who speaks a different language and have the translations appear in real time, or get instant translations during a phone call or FaceTime conference. Everyone gets their own translator. \nYou’ll be able to take advantage of Live Translation in the Phone app, Messages, and FaceTime on your Mac.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nJournal\nThe Journal app, which arrived on iOS in 2023, is coming to the Mac (and iPad).\nTerminal\nTerminal is getting a colorful redesign and the Liquid Glass treatment, with support for 24-bit color and the ability to use Powerline fonts. \nReminders\nReminders is getting some help from Apple Intelligence. Reminders will scan a website, note, email or other content, then decide the most relevant action items for you based on its findings. You’ll be able to use Apple Intelligence to automatically categorize your reminders into sections, making them easier to find\nThere are also changes coming to Safari, Messages, Photos, FaceTime, and Notes.",
-    "pub_date": "2026-06-29T18:58:13.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS,Vision,Silicon,App Store,Services",
-    "id": 1539
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple suppliers Samsung, SK hynix & Micron hit by RAM price fixing suit",
-    "link": "https://appleinsider.com/articles/26/06/29/apple-suppliers-samsung-sk-hynix-micron-hit-by-ram-price-fixing-suit?utm_source=rss",
-    "content": "Apple's largest memory suppliers are being sued in California, with consumers and small businesses alleging Samsung Electronics, SK hynix and Micron coordinated DRAM production cuts that drove up memory prices.\n\nApple has a unified memory architecture for its chips\nApple isn't accused of wrongdoing in the lawsuit. Samsung, SK hynix and Micron supply memory used across Apple's hardware lineup, putting the dispute much closer to customers than it might first appear.\nThe company has already raised prices on several Mac, iPad and other products after saying higher RAM and storage costs had become too expensive to absorb. Court filings argue coordinated DRAM production cuts contributed to those higher costs, though the plaintiffs still have to prove that claim.\nCourt filings argue the shift reduced supplies of mainstream DRAM, including DDR3 and DDR4, and drove prices higher across the market. The allegations haven't been proven, and Micron denied the claims and said it will defend itself, according to Investor's Business Daily.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-29T18:47:46.000Z",
-    "creator": "Andrew Orr <andreworr@appleinsider.com>",
-    "tags": "Mac,iOS",
-    "id": 1527
   }
 ]
