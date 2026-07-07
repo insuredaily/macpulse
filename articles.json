@@ -1,5 +1,155 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "9to5Mac Daily: July 7, 2026 – New iPad Pro and MacBook Pro rumors",
+    "link": "https://9to5mac.com/2026/07/07/daily-july-7-2026/",
+    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.",
+    "pub_date": "2026-07-07T10:00:00.000Z",
+    "creator": "Seth Kurkowski",
+    "tags": "Mac,iOS,App Store",
+    "id": 1963
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple @ Work Podcast: The 3 pillars of AI for the Apple enterprise",
+    "link": "https://9to5mac.com/2026/07/07/the-3-pillars-of-ai-for-the-apple-enterprise/",
+    "content": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\nIn this episode of Apple @ Work, Matt Vlasach, SVP of Enterprise Product and Solutions Engineering at Jamf joins the show to talk about their recent survey around AI usage amongst Apple focused enterprise.",
+    "pub_date": "2026-07-07T10:00:00.000Z",
+    "creator": "Bradley C",
+    "tags": "General",
+    "id": 1964
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iPhone Air 2 Could Get an 11% Battery Capacity Boost",
+    "link": "https://www.macrumors.com/2026/07/07/iphone-air-2-battery-capacity-3500mah/",
+    "content": "Apple is reportedly working on a second-generation iPhone Air that's expected to launch in spring 2027, and one of Apple's main aims is to improve battery life. We now have the first rumor suggesting what kind of improvement could be coming.\r\n\r\n\r\nIn a post on Weibo listing supply chain predictions, serial leaker Digital Chat Station said the iPhone Air 2 is expected to feature a 3,500mAh battery. That's up from the 3,149mAh battery in the current iPhone Air, indicating around a 11% increase in raw capacity.\r\n\r\nA larger battery capacity usually implies either a physically larger battery or a denser one, but it does not automatically mean a bigger phone. Apple may also be able to improve internal packaging to fit a larger battery in the same chassis. Either way, it's going to be another tight squeeze.\r\n\r\nadding a second camera to the ‌iPhone Air‌ to address the main customer complaint about the device. The current model has a single rear Wide lens, which makes it less versatile compared to the more affordable iPhone 17 in terms of photography. Reports suggest Apple will add an Ultra Wide lens to the iPhone Air 2 to address this.\r\n\r\nMultiple technologies are housed in the plateau of the iPhone Air to maximize space for the battery, so Apple would presumably need to redesign the internals considerably to fit in another camera. Whether that will impact the battery packaging design remains to be seen.\r\n\r\nCoE (Color Filter on Encapsulation), which could make the iPhone Air 2's display thinner. That could allow Apple to slide in a slightly larger battery while retaining the same device dimensions.\r\n\r\nRelated Roundup: iPhone Air\nTag: Digital Chat Station\nBuyer's Guide: iPhone Air (Neutral)\nThis article, \"iPhone Air 2 Could Get an 11% Battery Capacity Boost\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-07T09:58:10.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "iOS,Rumors",
+    "id": 1960
+  },
+  {
+    "source_name": "Macworld",
+    "title": "10 safety features every iPhone user needs to turn on",
+    "link": "https://www.macworld.com/article/3114137/10-safety-features-every-iphone-user-needs-to-turn-on.html",
+    "content": "Macworld\n\n\nIn the mighty iPhone, Apple has built arguably the most private mobile platform in the mainstream market. Users have full control over personal data authorization; third-party apps, for the most part, cannot access sensitive sensors and user files without your explicit permission. \niOS also offers a slew of features that can assist you during emergencies and keep your data safe if your iPhone is ever lost or stolen. While many of these protective tools work by default, some of them need to be manually set up by the user. In this article we outline 10 safety features you need to turn on right now.\nProtect your Apple Account\nFirst, you must make your Apple Account more recoverable, as it can be the key to your entire digital life. Losing access to it could cost you your iCloud uploads, passwords, app purchases, and much more.\nHead to the Settings app on your iPhone, then tap on [your name] at the very top, followed by Sign-In & Security. Head to the Two-Factor Authentication page and Add a Trusted Phone Number (or two). This way, if you ever lose physical access to your Apple devices, you’ll still be able to sign into your account by receiving the 2FA code via SMS (as opposed to the default on-device popup).\nGo back to the Sign-In & Security page, and choose a (trusted!) friend or family member as a Recovery Contact. If you ever get locked out of your Apple Account, they may be able to help you regain access.\nLock down iCloud\niCloud is the most convenient way to store your iPhone’s data, as it continuously syncs in the background and pushes updates to all of your Apple devices. It works with Apple Photos, Contacts, Notes, Files, Messages, plus many other first- and third-party apps. Open the Settings app and tap iCloud, then enable the desired apps’ toggles to keep their data in the cloud and easily retrieve them if your iPhone gets damaged. The same goes for full device iCloud backups, which will maintain a safe copy of your iPhone settings, wallpaper, and overall setup.\nOnce done, you may want to enable Advanced Data Protection to add end-to-end encryption and disable iCloud.com if you exclusively access iCloud on your Apple devices and never from the web app. If you’re an iCloud+ subscriber, it’s wise to also use the Hide My Email and Private Relay features, as they can protect your privacy when signing up for online accounts and browsing via Safari.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\tEnd-to-end data encryption is a valuable addition to your privacy toolkit.\nMahmoud Itani / Foundry\n\n\n\n\nShield prying eyes\nOpting for a passcode or password as your primary iPhone lock is not advisable, as people may spot you typing it in while you’re in a public space. Biometric authentication is generally safer, as well as being more convenient. \nOpen Settings and go to Face ID & Passcode, then set up Face ID by following the onscreen instructions. You may also want to scroll down and disable access to the Notification Center, Control Center, Wallet, and other sensitive menus when your iPhone is locked using their respective toggles. Finally, at the very bottom, enable the Erase Data option, which will wipe your iPhone if someone inputs a wrong passcode ten times in a row. In this case, the device will remain locked and tied to your Apple account, but they won’t be able to retrieve your data through a brute force attack.\nSet up emergency tools\nEmergency situations can occur at any time, and you’ll want to be prepared for them. Fortunately the iPhone has plenty of tools which can provide peace of mind.\nGo to Emergency SOS in the Settings app (you’ll find it just below Face ID & Passcode towards the bottom of the main screen) and make sure the quick shortcuts to call emergency services are enabled. Next, enable the Crash Detection feature, which automatically calls emergency services and notifies your emergency contacts if your iPhone detects a severe car crash. \nTo add or remove emergency contacts, tap on Edit Emergency Contacts in Health (if you haven’t added any, this will instead read Set up Emergency Contacts in Health). Make the needed adjustments and complete your Medical ID by inputting your blood type, allergies, and other vital information. Make sure the Show When Locked toggle is on, too, to allow first responders to view your details even if your iPhone is locked.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\tWhen disaster strikes, it’s easy to contact emergency services by pressing and holding just two buttons.\nMahmoud Itani / Foundry\n\n\n\n\nDefend your location\nFind My can help you locate, ping, and even wipe a lost or stolen iPhone. Open Settings and head to [your name] > Find My > Find My iPhone, and enable the Find My iPhone, Find My network, and Send Last Location options. You can view and control all of your supported Apple devices using the Devices tab in the Find My app.\nFor added peace of mind, you can grant a trusted partner or family member access to your precise location at all times using the Find My app’s People tab. Or, if you’d prefer something less permanent and invasive, consider iMessage’s Check In applet, which is perfect for one-off location monitoring. If you’re taking a questionable route or worried about reaching your destination, send the applet to a friend or loved one: tap the + symbol next to the message entry field, scroll down until you see the yellow Check In icon, and tap it. This will temporarily share your location and other relevant updates (which you can customise to suit) with the selected recipient.\nCheck In, incidentally, is one of the 12 hidden iMessage features we think every iPhone user should try.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\tThe iPhone lets you share your location with a trusted friend, while controlling the extent (and period) of the surveillance. \nMahmoud Itani / Foundry\n\n\n\n\nLimit access\niPhone apps are barred from accessing your photos, contacts, location, camera, and microphone unless you explicitly choose otherwise. To check the permissions you’ve already granted, head to Privacy & Security in Settings, and visit each section. You can revoke any of the permissions using the respective toggles.\nIf you believe someone is targeting you specifically with a sophisticated cyberattack, you may want to enable Lockdown Mode (you’ll find this at the bottom of the Privacy & Security screen). This will restrict certain iPhone apps and features to protect you and your data. It’s the last resort for when a regular block isn’t sufficient. Alternatively, from the same screen, go to Safety Check > Emergency Reset. This is also a solid option that revokes sensitive permissions in apps and quickly stops sharing your information with other users in Apple apps such Health, Fitness, and Find My.\nHide your apps\nIf you’re using an app which could get you in trouble, you may want to lock or hide it. On the Home Screen, simply tap and hold on the desired app icon and hit Require Face ID. (This option isn’t available for absolutely every app, but most of the ones which don’t offer it, such as Camera and Settings, are pretty harmless.) Go for Require Face ID to just lock it or Hide and Require Face ID to also move it to the concealed Hidden folder in your App Library.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\tFace ID lets you lock down individual apps, as well as the entire phone.\nMahmoud Itani / Foundry\n\n\n\n\nTurn on Stolen Device Protection\nStolen Device Protection is an effective security measure which prevents a thief with physical access to your iPhone from fully taking it over, even if they know the passcode. Resetting the device or changing sensitive settings will require a successful Face ID scan, followed by a one-hour delay. This gives you ample time to remotely secure your stolen iPhone via Find My on another Apple device, limiting the thief’s options.\nTo enable the feature and customize the way it works, head to Privacy & Security, scroll to the bottom, and visit the Stolen Device Protection page.\nAdd Apple Passwords to your Dock\nIf you’ve been using the Notes app to store your login credentials, consider this your sign to switch to Apple Passwords. The built-in app is more secure and designed specifically for this purpose. It can generate 2FA codes and store passkeys, which you should enable for all of your eligible online accounts to maximize their security.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\tApple Passwords is a secure and convenient resource to manage all your, well, passwords.\nMahmoud Itani / Foundry\n\n\n\n\nUpdate iOS\nBeyond user-facing changes and feature introductions, Apple actively relies on iOS updates to deliver important security patches. These help prevent hackers from exploiting vulnerabilities that can harm you in ways such as installing malware on your iPhone. \nTo ensure you receive all future OS releases, it’s wise to turn on automatic updates. Open Settings and go to General > Software Update > Automatic Updates, and enable the Automatically Install toggle. Similarly, head to Privacy & Security, followed by Background Security Improvements, and ensure Automatically Install is toggled on.\nYou can read more about this process in our guide to updating iOS on your iPhone.",
+    "pub_date": "2026-07-07T09:45:00.000Z",
+    "creator": "Macworld",
+    "tags": "iOS,App Store,Services",
+    "id": 1978
+  },
+  {
+    "source_name": "Macworld",
+    "title": "The app that protects years of email is just $50 right now",
+    "link": "https://www.macworld.com/article/3183202/the-app-that-protects-years-of-email-is-just-50-right-now.html",
+    "content": "Macworld\n\n\nTL;DR: Protect years of emails with Mail Backup X—a lifetime backup solution for $49.99 (reg. $179).\nNobody thinks about backing up their email until the day an important conversation disappears. That’s exactly the problem Mail Backup X is designed to solve.\nRight now, you can grab a lifetime license for just $49.99 (reg. $179), giving you a permanent way to back up, archive, restore, and migrate your email without paying another subscription.\nWhether you use Gmail, Apple Mail, Outlook, Thunderbird, Yahoo, Microsoft Exchange, or another IMAP-compatible service, Mail Backup X pulls everything into searchable, compressed archives that can save up to three times the storage space.\nOne feature that’s especially handy is mirror backup. You can automatically copy your archives to cloud services like Google Drive, Dropbox, OneDrive, pCloud, or even a USB drive, giving you another layer of protection.\nArchives are protected using AES-256 encryption, and you control the encryption key, so your data stays yours.\nOne thing to know before buying: this isn’t a cloud email service. It’s desktop software for people who want to manage and protect their own email archives. It’s a much more capable solution than manually exporting mail every few months and hoping for the best.\nGet lifetime access to Mail Backup X for a one-time $49.99 (reg. $179).\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nMail Backup X Individual Edition: Lifetime SubscriptionSee Deal\nStackSocial prices subject to change.",
+    "pub_date": "2026-07-07T08:00:00.000Z",
+    "creator": "Macworld",
+    "tags": "App Store,Services",
+    "id": 1979
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Terramaster F4-425 Pro review: Excellent set-and-forget networking hardware",
+    "link": "https://appleinsider.com/articles/26/07/07/terramaster-f4-425-pro-review-excellent-set-and-forget-networking-hardware?utm_source=rss",
+    "content": "The TerraMaster F4-425 Pro is a compact four-bay NAS that punches above its price class, with an eight-core Intel chip, three M.2 slots, and dual 5GbE networking, at the cost of a few real but manageable caveats.\n\n\nTerraMaster F4-425 Pro review\nNAS devices have evolved well beyond simple network drives. They now run media servers, security camera systems, and containerized apps, all from one box on the home or office network.\nTerraMaster pitches the F4-425 Pro squarely at that all-in-one role. It pairs a decently powerful Intel chip with unusually flexible storage for the class and price point.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-07T01:44:02.000Z",
+    "creator": "Mike Wuerthele <mike@appleinsider.com>",
+    "tags": "General",
+    "id": 1971
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "MagSafe Monday: The NOCO XGrid XDS3 is the perfect StandBy mode companion",
+    "link": "https://9to5mac.com/2026/07/06/noco-xgrid-xds3/",
+    "content": "If you look around all the normal wbesites for a 3-in-1 MagSafe charger for iPhone, Apple Watch, and AirPods, you will find hundreds of options made of plastic. They all work well, but sometimes you might want something that is more of a premium feels. The NOCO XGrid XDS3 is one of those options. It is certainly not the most affordable option on the market, but it is undoubtedly one of the best (and best looking)",
+    "pub_date": "2026-07-07T00:18:10.000Z",
+    "creator": "Bradley C",
+    "tags": "iOS",
+    "id": 1965
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iOS 27 beta 3 makes it easier to adjust AirPods Adaptive mode intensity",
+    "link": "https://9to5mac.com/2026/07/06/ios-27-beta-3-makes-it-easier-to-adjust-airpods-adaptive-mode-intensity/",
+    "content": "A new Listening Mode setting lets users more easily adjust how much ambient noise their AirPods can allow through in Adaptive mode. Here are the details.",
+    "pub_date": "2026-07-06T23:49:08.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 1966
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple overhauls RAW photo processing with iOS 27, showcases impressive results",
+    "link": "https://9to5mac.com/2026/07/06/apple-overhauls-raw-photo-processing-with-ios-27-showcases-impressive-results/",
+    "content": "With iOS 27 and its companion systems, Apple is introducing a new version of its system-level RAW image processing engine. It uses machine learning to greatly improve detail and reduce noise, including when reprocessing older RAW photos. Here are the details.",
+    "pub_date": "2026-07-06T22:52:54.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 1967
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Everything New in iOS 27 Beta 3",
+    "link": "https://www.macrumors.com/2026/07/06/ios-27-beta-3-features/",
+    "content": "Apple is continuing to refine iOS 27 ahead of its planned September launch, and the third beta includes several new features. Siri is more customizable, there's a fun new wallpaper action, and some useful improvements to Photos and Shortcuts.\r\n\r\n\r\nSiri Voice\n\r\nBeta 3 adds support for ‌Siri‌ voice customization on compatible devices. The customization option existed in prior betas, but it was not active. It's now usable, and you can customize the pace and expressivity of ‌Siri‌, with two base voice options available right now.\r\n\r\n\r\n‌Siri‌ voice customization requires an iPhone 17 Pro or an iPhone Air because it uses on-device processing.\r\n\r\nLive Recognition\n\r\nIn Accessibility, Apple added a new Live Recognition section. Live Recognition uses on-device intelligence to detect and describe things around you with the camera app. The feature is able to answer questions about what it sees, with an option to set a default question. There's also support for custom activities.\r\n\r\n\r\nReminders\n\r\nThe Reminders app has an updated icon with Liquid Glass to-do list bullets.\r\n\r\n\r\nPhotos\n\r\nIn the ‌Photos‌ section of the Settings app, there's a new Show Rating Controls toggle. It displays star ratings on photos and videos, and shows a rating badge on thumbnails.\r\n\r\n\r\nControl Center\n\r\nIn Control Center, you can see details about your cellular connection even when connected to Wi-Fi. It shows signal strength and whether you're connected to LTE or 5G.\r\n\r\n\r\nShortcuts\n\r\nYou can now choose whether to open to the Describe a Shortcut interface or the manual Shortcuts editor when creating a new shortcut.\r\n\r\n\r\nWallpaper\n\r\nWhen you swipe down into the notification center, a cutout of the subject of your wallpaper now appears first over the Home Screen or app you're using.\r\n\r\n\niOS 27 beta 3 adds a new wallpaper animation which is so smooth pic.twitter.com/8LzBOx3HMD\n— Aaron (@aaronp613) July 6, 2026\n \n\r\n\r\nAirPods\n\r\nThe Adaptive setting on the AirPods has a slider that lets you select more transparency or more noise cancellation.\r\n\r\n\r\nHome App\n\r\nApple clarified that Apple Intelligence features in the Home app will require a 2GB iCloud+ plan.\r\n\r\nMaps\n\r\nApple added a tooltip to make it clearer that route preferences haven't been eliminated and can be accessed by tapping under the options interface when getting directions.\r\n\r\n\r\nLock Screen\n\r\nThe Control Center buttons on the Lock Screen now have black icons instead of white icons with some wallpaper. \r\n\r\n\r\n5G in India\n\r\n5G+ is now available in India on supported carriers. \nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"Everything New in iOS 27 Beta 3\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-06T22:19:23.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,App Store,Services",
+    "id": 1961
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Report: Apple Watch accounted for nearly all Edge AI smartwatch shipments in Q1 2026",
+    "link": "https://9to5mac.com/2026/07/06/report-apple-watch-accounted-for-nearly-all-edge-ai-smartwatch-shipments-in-q1-2026/",
+    "content": "According to a new Counterpoint Research report, global shipments of Edge AI-capable smartwatches grew 70% year over year in Q1 2026, with Apple accounting for roughly 90% of the total. Here are the details.",
+    "pub_date": "2026-07-06T22:01:17.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 1968
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple Home AI features locked behind 2TB iCloud+ plan",
+    "link": "https://appleinsider.com/articles/26/07/06/apple-home-ai-features-locked-behind-2tb-icloud-plan?utm_source=rss",
+    "content": "Whether you subscribe to the 2TB iCloud+ tier individually or pay for Apple One Premier, you're getting the new Apple Intelligence in Apple Home features announced during WWDC 2026.\n\n\nApple Home AI updates are behind an iCloud+ subscription tier\nApple didn't break out exactly what customers might have to pay in order to access its most advanced AI features. While there aren't any separate AI subscriptions or token purchase programs, users will need to spend more cash for the most access.\nIn the macOS Golden Gate beta release notes, Apple has confirmed that the Apple Home AI features will require the 2TB iCloud+ plan. On its own, that is a $10 a month plan, or is included with the $37.95 Apple One Premier subscription tier.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-06T21:34:08.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "Mac,Services",
+    "id": 1972
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Intelligence Home Features Require 2TB iCloud+ Plan in iOS 27",
+    "link": "https://www.macrumors.com/2026/07/06/ios-27-home-app-features-icloud/",
+    "content": "Using Apple Intelligence camera features in the Home app will require an iCloud+ plan starting at 2TB, according to Apple. Apple shared the detail in its notes for the third macOS Golden Gate beta that was released today.\r\n\r\n\r\nIn iOS 27, iPadOS 27, and macOS 27 Golden Gate, the Home app is able to generate written summaries for motion alerts from HomeKit Secure Video cameras. It's also able to group footage from separate cameras for an overview of activity and pull out noteworthy recordings, plus it supports natural language search.\r\n\r\nApple said at WWDC that some ‌Apple Intelligence‌ features would require an ‌iCloud‌+ plan, but Apple didn't specify which tier users would need to subscribe to. For the Home features, users will need the 2TB ‌iCloud‌+ plan or better. The 2TB plan includes 2TB of ‌iCloud‌ storage and it costs $9.99 per month.\r\n\r\nHomeKit video storage does not count against the storage limit of an ‌iCloud‌+ plan, so the full 2TB stays available for photos and other data.\r\n\r\ncan be found in our guide.\nRelated Roundups: iOS 27, iPadOS 27\nTag: Apple Intelligence\nThis article, \"Apple Intelligence Home Features Require 2TB iCloud+ Plan in iOS 27\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-06T21:13:16.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS,App Store,Services",
+    "id": 1962
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Julia Garner to headline new Apple TV murder thriller series",
+    "link": "https://9to5mac.com/2026/07/06/julia-garner-to-headline-new-apple-tv-murder-thriller-series/",
+    "content": "Apple TV today announced Guilty Creatures, a new thriller series based on Mikita Brottman’s true-crime book of the same name. Here are the details.",
+    "pub_date": "2026-07-06T21:11:47.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 1969
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple is warning when your AI prompts go to Google's servers, just like with ChatGPT",
+    "link": "https://appleinsider.com/articles/26/07/06/apple-is-warning-when-your-ai-prompts-go-to-googles-servers-just-like-with-chatgpt?utm_source=rss",
+    "content": "Image generation features found in Apple Creator Studio rely on Google Cloud servers, but users will be warned before prompts are sent to the third-party AI tool.\n\n\nApple warns users before sending prompts to Google Cloud\nApple Intelligence is powered by Apple Foundation Models found on your iPhone and in Apple's Private Cloud Compute servers. Those are distinct features and models from the integrations that utilize third-party AI tools like Google Cloud and ChatGPT.\nAfter updating to the latest Apple Creator Studio version, users are encountering a new pop-up, whether they are running iOS 26 or iOS 27. That pop-up warns that the user's prompt will be sent to a Google Cloud server, but won't be used for training.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-06T21:05:57.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "iOS",
+    "id": 1973
+  },
+  {
     "source_name": "MacRumors",
     "title": "Siri AI Comes to Apple Watch in watchOS 27 Beta 3",
     "link": "https://www.macrumors.com/2026/07/06/siri-ai-apple-watch/",
@@ -143,7 +293,7 @@
     "source_name": "Macworld",
     "title": "iOS 27 beta 3 is out now for developers as Apple approaches the first public release",
     "link": "https://www.macworld.com/article/3172166/apple-releases-the-second-ios-27-developer-beta-for-testers.html",
-    "content": "Macworld\n\n\nOn the first day of the WWDC developer conference, Apple released the first developer beta of its new operating system. This year, that means that the first release of iOS 27 outside Cupertino came on June 8, 2026.\nThe pattern goes like this: Apple releases developer-only betas for the first month or so, and then starts releasing the same build for both developers and public beta testers. Based on historical precedent, we expect the third or fourth beta to be the first one to go out to public beta testers rather than just developers. \nIf you want to try out the new OS 27 updates and provide feedback, check out our article on how to become a beta tester. It’s easy.\nUpdated July 6, 2026: Apple has released the third iOS 27 developer beta. This build could be released as the first public beta this week.\nWhat’s new in iOS 27\nThe big iOS 27 release this year is focused on three main areas:\nTrust and Safety – New parental controls to keep kids safe and control screen time.\nPerformance and refinement – Speeding everything up, improving efficiency, tweaking interfaces, and addressing dozens of small user requests.\nApple Intelligence and Siri – Entirely new Apple Intelligence models improve AI throughout the system, and a brand-new Siri is vastly more capable than ever before.\nFor a more complete breakdown of all the new features and changes, check out our iOS 27 guide.\nBeta 2 brought the following changes. (We’ll update this with Beta 3 changes once they are discovered.):\nRCS messaging gets inline replies and proper tapback reactions.\nYou can update your Apple TV through the Home app on your iPhone.\nThe Apple Wallet “Insights” feature comes to more regions.\nThe new “Write with Siri” feature is enabled, replacing the old Writing Tools.\niOS 27: How to install the developer beta\nYou’ll need to be registered as an Apple Developer, but a free developer account will do. You can get one via Xcode or the Apple Developer app in iOS. Here’s how to do it via the Apple Developer app:\nDownload the Apple Developer App from the App Store.\nOpen the app.\nTap on Account.\nSign in using your usual Apple ID.\nOnce you have a free developer account, just follow the same instructions as with the public beta:\nOpen Settings.\nTap General, then Software Update.\nMake sure the Beta Updates selection is set to iOS 27 Developer Beta.\nFollow the on-screen instructions.\niOS 27: How to install the public beta\nThe first iOS 27 public beta is not available yet but is expected to arrive in July. When it lands, you can follow these steps to test it out even if you’re not a developer:\nClick Sign Up on the Apple Beta page and register with your Apple ID.\nLog in to the Beta Software Program.\nClick Enroll your iOS device.\nOpen the Settings app, tap General, then Software Update.\nIn the Beta Updates section, select the iOS 27 Public Beta.\nIt may take a few moments after registering for the beta option to appear in Software Update.",
+    "content": "Macworld\n\n\nOn the first day of the WWDC developer conference, Apple released the first developer beta of its new operating system. This year, that means that the first release of iOS 27 outside Cupertino came on June 8, 2026.\nThe pattern goes like this: Apple releases developer-only betas for the first month or so, and then starts releasing the same build for both developers and public beta testers. Based on historical precedent, we expect the third or fourth beta to be the first one to go out to public beta testers rather than just developers. \nIf you want to try out the new OS 27 updates and provide feedback, check out our article on how to become a beta tester. It’s easy.\nUpdated July 6, 2026: Apple has released the third iOS 27 developer beta. This build could be released as the first public beta this week.\nWhat’s new in iOS 27\nThe big iOS 27 release this year is focused on three main areas:\nTrust and Safety – New parental controls to keep kids safe and control screen time.\nPerformance and refinement – Speeding everything up, improving efficiency, tweaking interfaces, and addressing dozens of small user requests.\nApple Intelligence and Siri – Entirely new Apple Intelligence models improve AI throughout the system, and a brand-new Siri is vastly more capable than ever before.\nFor a more complete breakdown of all the new features and changes, check out our iOS 27 guide.\nBeta 3 brings the following changes, in addition to bug fixes and performance improvements:\nSiri voice menu to control Pace and Expressivity is active. (iPhone Air and 17 Pro)\nApple Watch finally gets the new Siri. (watchOS 27 beta 3)\nIndexing notice in Settings changed to “Optimizing Search and Siri.”\nSmall adjustments to some app icons.\nSome users have to redownload new Apple Intelligence models.\niOS 27: How to install the developer beta\nYou’ll need to be registered as an Apple Developer, but a free developer account will do. You can get one via Xcode or the Apple Developer app in iOS. Here’s how to do it via the Apple Developer app:\nDownload the Apple Developer App from the App Store.\nOpen the app.\nTap on Account.\nSign in using your usual Apple ID.\nOnce you have a free developer account, just follow the same instructions as with the public beta:\nOpen Settings.\nTap General, then Software Update.\nMake sure the Beta Updates selection is set to iOS 27 Developer Beta.\nFollow the on-screen instructions.\niOS 27: How to install the public beta\nThe first iOS 27 public beta is not available yet but is expected to arrive in July. When it lands, you can follow these steps to test it out even if you’re not a developer:\nClick Sign Up on the Apple Beta page and register with your Apple ID.\nLog in to the Beta Software Program.\nClick Enroll your iOS device.\nOpen the Settings app, tap General, then Software Update.\nIn the Beta Updates section, select the iOS 27 Public Beta.\nIt may take a few moments after registering for the beta option to appear in Software Update.",
     "pub_date": "2026-07-06T17:52:20.000Z",
     "creator": "Macworld",
     "tags": "iOS,App Store",
@@ -2848,155 +2998,5 @@
     "creator": "Juli Clover",
     "tags": "Mac,iOS,App Store",
     "id": 1593
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Pages, Keynote, and Numbers updates arrive with these new features",
-    "link": "https://9to5mac.com/2026/06/30/pages-keynote-and-numbers-updates-arrive-with-these-new-features/",
-    "content": "Today Apple launched new features for Apple Creator Studio, but the company also has rolled out upgrades for Pages, Keynote, and Numbers—alongside Final Cut Camera—that don’t require a Creator Studio subscription.",
-    "pub_date": "2026-06-30T17:37:25.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "Services",
-    "id": 1603
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "US Supreme Court agrees to hear Apple's Epic Games appeal",
-    "link": "https://appleinsider.com/articles/26/06/30/us-supreme-court-agrees-to-hear-apples-epic-games-appeal?utm_source=rss",
-    "content": "Apple is getting its wish in the ongoing lawsuit against Epic Games, as the Supreme Court agrees to hear its argument against being found in contempt of court.\n\n\nA Fortnite parody of Apple's famous 1984 commercial - Image Credit: Epic Games. \nApple and Epic Games have been impatiently waiting for the Supreme Court to determine whether it will listen to arguments between the two companies. On Tuesday, the answer finally came.\nReuters reports the U.S. Supreme Court agreed to hear Apple's argument that lower courts had made mistakes in two areas of the case. If the Supreme Court agrees, it could have implications that bring the lawsuit more into Apple's favor.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-30T17:37:23.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "General",
-    "id": 1617
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "American Express Announces New Apple Pay Feature",
-    "link": "https://www.macrumors.com/2026/06/30/american-express-apple-pay-redeem-points/",
-    "content": "American Express today announced that you can now redeem Membership Rewards points when checking out with Apple Pay on the web and in apps on the iPhone and iPad.\r\n\r\n\r\nWhen checking out with Apple Pay on iOS 18 or iPadOS 18 or later, tap on your eligible American Express card (Platinum, Gold, Green, and others) and select the Membership Rewards points option. You can use points to cover all or part of your purchase, with every 10,000 points redeemed through Apple Pay worth a $70 statement credit.\r\n\r\nAmerican Express points can be redeemed entirely within the Apple Pay checkout flow, with no need to open another app or complete additional steps.\r\n\r\nRelated Roundup: Apple Pay\nTag: American Express\nRelated Forum: Apple Music, Apple Pay/Card, iCloud, Fitness+\nThis article, \"American Express Announces New Apple Pay Feature\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-30T17:27:04.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "iOS,App Store,Services",
-    "id": 1595
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Apple Watch is (again) rumored to get a major redesign next year",
-    "link": "https://www.macworld.com/article/3181186/apple-watch-is-again-rumored-to-get-a-major-redesign-next-year.html",
-    "content": "Macworld\n\n\nIt all started with the rumors of the Apple Watch X about three years ago. For the 10th anniversary of the Apple Watch, rumors predicted, Apple was going to produce an all-new device with massive changes. A new magnetic band system! A thinner case! MicroLED display! A larger battery! Blood pressure monitoring!\nObviously none of that happened, and every now and then we hear a new rumor that a dramatic redesign of the Apple Watch is going to drop “next year.” We’ve already heard that the Apple Watch Ultra 4 is supposed to be a big redesign with a focus on new sensors, though that is seemingly a change to the internal design more than the actual shape of the case, the bands, the buttons, and so on.\nNow, new rumors from popular Weibo leaker Instant Digital claims that the 2027 Apple Watch—the usual “Series” model not the Ultra—will finally bring a big redesign to market after all these years.\nIt’s not exactly clear what changes we can expect from next year’s new design. The only claim is that the band attachment system will change, allowing for more internal space for a larger battery, while breaking compatibility with existing bands for the first time since the original Apple Watch.\nWhat’s likely happening is that Apple intended for a 10th anniversary Apple Watch X to remake the line the way the iPhone X did, but it simply wasn’t ready in time. Apple then continued to work on the design and engineering for a next-generation Apple Watch to serve as the basis for another decade of updates, so it’s sort of always coming “next year.” As far as we’re concerned, don’t believe it until we get much closer to release and Apple starts ordering parts and building production test units.\nIt’s worth noting, however, that the Apple Watch is overdue for a radical change. The watch has changed so little over the years that the same bands all work on previous generations as long as they’re the proper size. That’s more than a decade of consistency, so at some point, these rumors of a major Apple Watch design overhaul are sure to be right.\nBut it won’t be until at least next year. The Apple Watch Series 12, expected to release this fall along with the new iPhone 18 Pro and iPhone Ultra, is not expected to be very different from the current Series 11.",
-    "pub_date": "2026-06-30T17:26:58.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,Rumors",
-    "id": 1627
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Creator Studio Gets New AI Features",
-    "link": "https://www.macrumors.com/2026/06/30/apple-creator-studio-gets-new-ai-features/",
-    "content": "Apple today updated its Creator Studio apps, adding new AI features to Pixelmator Pro, Final Cut Pro, Logic Pro, and more.\r\n\r\n\r\nApple is integrating Pixelmator Pro with Final Cut Pro, Keynote, Numbers, and Pages. Final Cut Pro users can send a frame to Pixelmator Pro to create thumbnails and social graphics. In Keynote, Numbers, and Pages, users can select an image in a document and open it in Pixelmator Pro to edit, with changes saved to the original document.\r\n\r\niOS 27, iPadOS 27, and macOS Golden Gate.\r\n\r\nFinal Cut Pro is getting Generate Captions, an on-device AI feature that automatically adds subtitles to videos based on audio. Subtitles can have animations and custom fonts, colors, and positions.\r\n\r\nEdit Detection is a new AI feature that analyzes rendered video and splits it back into the original clips on the timeline. Apple says editors can use the tool for edit refinements or assembling a cut-down highlight clip for social media.\r\n\r\nOn the Mac, Final Cut Pro has an Auto Mask feature that isolates and refines video elements like skin, hair, sky, foliage, and clothing. Users can hover over a clip and make precise adjustments with no manual tracking. Color Match now produces more accurate and natural color matches in different lighting conditions, plus Advanced Trimming lets users fine-tune incoming and outgoing frames one-by-one.\r\n\r\nMotion gains native support for scaling vector graphics without affecting quality, and Compressor has an Immersive Metadata Viewer for the Vision Pro. Final Cut Camera is getting expanded ProRes Support, an option to disable digital zoom, and Clean HDMI Out for sending a pristine video signal to external monitors and recorders.\r\n\r\nLogic Pro's Chord ID feature has been rebuilt and it is more accurate than before. Apple says Session Players will respond and perform chord changes more quickly. Both Logic Pro and MainStage have a new granular sync mode in Alchemy to open up \"new dimensions of sound design.\"\r\n\r\ncan be found on Apple's website. Creator Studio Pro includes all of Apple's creative software, and it is priced at $12.99 per month or $129 per year. Up to six people can share a single membership.\nTag: Apple Creator Studio\nThis article, \"Apple Creator Studio Gets New AI Features\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-30T17:21:51.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,iOS,Vision",
-    "id": 1596
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Leaker warns coming Apple Watch redesign will make your bands obsolete",
-    "link": "https://www.cultofmac.com/news/apple-watch-13-will-bring-major-redesign",
-    "content": "A leaker says Apple Watch 13 will bring a major redesign, which is great -- except a case redesign may make your band collection useless.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-06-30T17:15:54.000Z",
-    "creator": "David Snow",
-    "tags": "Mac,iOS",
-    "id": 1631
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple Creator Studio just got better, here’s what’s new",
-    "link": "https://9to5mac.com/2026/06/30/apple-creator-studio-just-got-better-heres-whats-new/",
-    "content": "Apple has announced a flurry of updates for Apple Creator Studio apps rolling out today, plus previewed some iOS 27 additions coming. Here’s what’s new for Apple Creator Studio.",
-    "pub_date": "2026-06-30T17:15:49.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 1604
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Anthropic just released a brand-new Claude Science app for Mac",
-    "link": "https://9to5mac.com/2026/06/30/anthropic-just-released-a-brand-new-claude-science-app-for-mac/",
-    "content": "Anthropic just launched a brand-new desktop app called Claude Science. The new app joins the main Claude app on the Mac, which includes Claude AI, Cowork, and Code.",
-    "pub_date": "2026-06-30T17:14:01.000Z",
-    "creator": "Zac Hall",
-    "tags": "Mac,App Store",
-    "id": 1605
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "AirDrop vulnerability lets anyone nearby knock it offline, no tap required",
-    "link": "https://www.cultofmac.com/news/apple-airdrop-vulnerability-knocked-off-no-tap",
-    "content": "A newly discovered AirDrop vulnerability lets someone nearby crash it on your iPhone, along with AirPlay, Handoff and more.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-06-30T16:54:18.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,iOS",
-    "id": 1632
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Stop us if you've heard this before: Apple Watch redesign will have new band attachment points",
-    "link": "https://appleinsider.com/articles/26/06/30/stop-us-if-youve-heard-this-before-apple-watch-redesign-will-have-new-band-attachment-points?utm_source=rss",
-    "content": "The rumor mill is at it again with this one — the Apple Watch Series 12 will finally get a major overhaul with a new band attachment method, making all your old ones obsolete. We've heard that off and on for four years, and always for the next release.\n\n\nApple Watch Series 12 may look different, if you believe one leaker. \nLike many other Apple products, the Apple Watch generally gets minor annual spec-bump updates, with an unchanged exterior. It's been a few years since the last revision, prompting leakers to make claims about a new one being on the way.\nAccording to a Tuesday post by Instant Digital on Weibo, the Apple Watch is finally going to get a major overhaul. This will be the first update in three years, they claim, in a relatively simple initial post.\n\n Rumor Score: 🙄 Unlikely \n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-30T16:51:37.000Z",
-    "creator": "Mike Wuerthele  and Malcolm Owen <tips@appleinsider.com>",
-    "tags": "iOS,Rumors",
-    "id": 1618
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "New AirDrop security flaws are significant, but aren't a giant threat",
-    "link": "https://appleinsider.com/articles/26/06/30/new-airdrop-security-flaws-are-significant-but-arent-a-giant-threat?utm_source=rss",
-    "content": "Nearby attackers can crash Apple's AirDrop before users see a file transfer request, temporarily disabling AirPlay, Handoff, Universal Clipboard, and other Continuity features. They're no threat, assuming you're configured properly.\n\nAirDrop settings on iPhone\nThe findings, published on June 30, also identify security flaws in Google and Samsung Quick Share. The CISPA Helmholtz Center for Information Security conducted the research.\nResearchers Arash Ale Ebrahim and Nils Ole Tippenhauer analyzed the network protocols behind AirDrop and Quick Share. Their research identified three vulnerabilities affecting Apple's AirDrop implementation.\nThe team also found three additional vulnerabilities affecting Quick Share on Android and Windows. These attacks require an attacker to be within wireless range of a target device, typically between 10 and 30 meters, without prior pairing, an existing contact relationship, or a shared Wi-Fi network.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-06-30T16:39:19.000Z",
-    "creator": "Andrew Orr <andreworr@appleinsider.com>",
-    "tags": "iOS",
-    "id": 1619
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Cibby is a beautifully designed iOS app for physical video game collectors",
-    "link": "https://9to5mac.com/2026/06/30/cibby-is-a-beautifully-designed-ios-app-for-physical-video-game-collectors/",
-    "content": "Here’s a cool new thing coming son: Cibby, a beautifully designed iOS app for physical video game collectors.",
-    "pub_date": "2026-06-30T16:37:03.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS,App Store",
-    "id": 1606
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Supreme Court agrees to hear Apple appeal over Epic Games ruling",
-    "link": "https://9to5mac.com/2026/06/30/supreme-court-agrees-to-hear-apple-appeal-over-epic-games-ruling/",
-    "content": "The US Supreme Court has agreed to hear Apple’s appeal over a lower court ruling that held the company in contempt related to its Epic Games case and app fees. Update: Apple has shared a statement with 9to5Mac about the decision, added below, alongside Epic’s response.",
-    "pub_date": "2026-06-30T16:34:45.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "App Store",
-    "id": 1607
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Your iPhone, iPad, and Mac just got an update. Here’s why you should install it ASAP",
-    "link": "https://www.macworld.com/article/3180118/apple-os-26-5-2-is-out-now-to-fix-dozens-of-security-vulnerabilities.html",
-    "content": "Macworld\n\n\nApple has released iOS 26.5.2, iPadOS 26.5.2, and macOS 26.5.2, a relatively small series of updates with no new features or bug fixes. The simple release notes for all three versions:\nThis update provides security fixes for your iPhone.\nThose security updates are worth paying attention to, though. According to Apple’s security page, there are 29 vulnerabilities addressed in this release. Many of them are related to WebKit, which is Apple’s browser engine for Safari and is used by third-party web browsers in most of the world, too. \nWebKit vulnerabilities are especially important to pay attention to because they impact almost everyone, all the time—everyone browses the web, and it’s easy to be tricked into visiting a malicious website. So we recommend anyone running iOS 26 update their iPhone or iPad as soon as they can.\nApple is also working on OS 26.6, which should release sometime in July. A third beta was released to developers today.\nTo update your iPhone to iOS 26.5.2\nOpen Settings\nTap General\nTap Software Update and follow the on-screen instructions.",
-    "pub_date": "2026-06-30T16:28:41.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS,Services",
-    "id": 1538
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Report: Apple Watch Redesign Coming Next Year With New Band System",
-    "link": "https://www.macrumors.com/2026/06/30/apple-watch-redesign-coming-next-year/",
-    "content": "A \"major overhaul\" of the Apple Watch's design is due to arrive next year with a new system for connecting bands, according to a known Weibo leaker. \r\n\r\n\r\nIn a set of recent posts, the leaker known as \"Instant Digital\" linked the new claim to older rumors about an \"Apple Watch X\" model, which was said to introduce a fresh design and break compatibility with the existing watch band system. Citing a post from August 2023, the leaker reiterated that the way the band attaches to the case would change, creating internal space for a larger battery. The leaker went on to advise that anyone planning to buy a new Apple Watch in 2027 should hold off on buying extra bands in the meantime, given that a redesigned case could leave the current attachment system behind.\r\n\r\na 2023 report from Bloomberg's Mark Gurman, who said Apple was planning the \"biggest overhaul yet\" for the Apple Watch's 10th anniversary, complete with a new magnetic band attachment system, a thinner case, and a microLED display. None of this materialized and Apple instead released the Apple Watch Series 10, keeping the existing band system intact with a design that, while tweaked somewhat, scarcely represented a major overhaul. It now looks like this redesign could simply have been delayed, rather than shelved entirely. \r\n\r\narrived with the Apple Watch Series 10. Following that roughly three-year pattern, a new design would be due to land with the Apple Watch Series 13 in 2027, matching the timeline Instant Digital is now describing.\r\n\r\nnot appear until 2028, the year after the debut of the 20th anniversary iPhone. Last year, DigiTimes said that at least one future high-end Apple Watch model would get a \"significant redesign ,\" including exterior changes such as eight sensors arranged in a ring pattern on the device's underside, tied to broader health-sensing ambitions. Earlier this month, Apple was said to be evaluating next-generation OLED backplane technology for the 2027 Apple Watch.\r\n\r\nRelated Roundup: Apple Watch 11\nTag: Instant Digital\nBuyer's Guide: Apple Watch (Caution)\nThis article, \"Report: Apple Watch Redesign Coming Next Year With New Band System\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-06-30T15:40:09.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "iOS",
-    "id": 1597
   }
 ]
