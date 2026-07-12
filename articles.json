@@ -1,5 +1,35 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "iPadOS 27 still needs simpler multitasking, here’s what I’d like to see",
+    "link": "https://9to5mac.com/2026/07/11/ipad-pro-needs-simpler-multitasking-with-ipados-27/",
+    "content": "Last year, Apple completely reinvented multitasking on the iPad, with the introduction of windowing in iPadOS 26. At first, this meant the removal of the simpler version of multitasking, Split View and Slide Over. Those features did eventually return, but at a cost – they required you to use the clunky new windowing system. I was hoping iPadOS 27 would improve this, but it didn’t.",
+    "pub_date": "2026-07-11T21:05:01.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS",
+    "id": 2279
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Indie App Spotlight: ‘Route 25’ is an all-in-one social app for Pokémon collectors",
+    "link": "https://9to5mac.com/2026/07/11/indie-app-spotlight-route-25-is-an-all-in-one-social-app-for-pokemon-collectors/",
+    "content": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nMany apps make it easy to track your Pokémon card collection. Route 25 takes that a step further by bringing a social experience into the mix, so you can talk to other collectors about your cards, pulls, and so on.",
+    "pub_date": "2026-07-11T19:30:00.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "App Store",
+    "id": 2280
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "SANDISK Phone Drive for iPhone is a great solution to low storage ",
+    "link": "https://9to5mac.com/2026/07/11/sandisk-phone-drive-iphone-great-solution-to-low-storage/",
+    "content": "Each time we buy a phone, we have to decide which storage tier to go for, and that requires a judgment call – not just about how much storage we need today, but how much we are likely to need for however long we end up keeping the phone. \nThere are times when we’ll get this wrong, but fortunately there’s a simple solution to your storage woes: the SANDISK® Phone Drive for iPhone.",
+    "pub_date": "2026-07-11T16:00:00.000Z",
+    "creator": "Sponsored Post",
+    "tags": "iOS",
+    "id": 2281
+  },
+  {
     "source_name": "Macworld",
     "title": "Apple sues OpenAI exec for theft of trade secrets",
     "link": "https://www.macworld.com/article/3189066/apple-sues-openai-exec-for-theft-of-trade-secrets.html",
@@ -2968,35 +2998,5 @@
     "creator": "Juli Clover",
     "tags": "iOS,App Store",
     "id": 1906
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Seeds tvOS 27 Beta 3 to Developers",
-    "link": "https://www.macrumors.com/2026/07/06/apple-seeds-tvos-27-beta-3/",
-    "content": "Apple today seeded the third beta of tvOS 27 to developers for testing purposes, with the update coming two weeks after Apple released the second beta.\r\n\r\n\r\nThe beta can be downloaded and installed through the Settings app on the Apple TV. A free developer account is required.\r\n\r\ntvOS 27 has few new features compared to the other 27 software updates, but it does add a redesigned Podcasts app, options for larger text, and a more responsive Control Center.\r\n\r\nAppleCare coverage details in the Settings app.\r\n\r\nfound in our Apple TV roundup.\nRelated Roundup: Apple TV\nBuyer's Guide: Apple TV (Don't Buy)\nRelated Forum: Apple TV and Home Theater\nThis article, \"Apple Seeds tvOS 27 Beta 3 to Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-06T17:22:00.000Z",
-    "creator": "Juli Clover",
-    "tags": "App Store",
-    "id": 1907
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Ill-timed interview touts Macs as ‘amazing’ AI devices–if you can afford one",
-    "link": "https://www.macworld.com/article/3185202/apple-silicon-macs-are-an-amazing-system-for-ai-if-you-can-afford-one.html",
-    "content": "Macworld\n\n\nWWDC wasn’t even a month ago, but it feels like an eternity. In the four weeks since the keynote aired, Apple has released two OS 27 betas, unleashed Siri AI on the world, and raised prices on Macs and iPads by hundreds of dollars.\nThat’s why this interview with senior Apple silicon product manager Doug Brooks by The Deep View, a “daily guide to the fast-moving world of AI,” feels so out of touch. It’s not so much what he says, but rather when he said it.\nThe interview, which is relatively short and light on news, was conducted “ahead of WWDC 2026 in June” and was only just published late last week ahead of the Fourth of July holiday in the U.S. As expected, it’s all about how primed Apple silicon is for on-device AI, but in light of all that’s happened in the past month, it sort of misses the mark.\nFor one, Brooks notes that AI’s performance demands, which rely on “the whole chip contributing to different parts of the task,” are a good match for the “strengths of Apple silicon.” He adds that Apple is “maintaining our core strengths around unified memory and incredibly power-efficient performance,” and points out that “the momentum around AI capabilities continues to be phenomenal.”\nHe particularly calls out the Mac mini and Mac Studio as “amazing platforms for AI in general and especially for these emerging agentic tools … [that] tap into the strengths of Apple silicon and unified memory in a very power-efficient way.” \nAll of this is true, of course. Earlier this year, the Mac mini became the AI agent desktop of choice, leading to a supply crunch that forced Apple to drop several models from its lineup, including the cheapest Mac mini. That model actually returned in late June, but unfortunately came with a $200 price increase—and you still can’t get one until next month.\nBut it’s this bit that’s particularly eye-rolling: “Increasingly they’re delivering compelling price-performance as well.” That may have been true in early June, but it’s no longer the case, as Apple has raised base prices across the board and hiked RAM and storage prices as well. The M3 Ultra Mac Studio, which cost $3,999 at the time of this interview, now costs $5,299. That’s hardly compelling value—and besides, it won’t be in stock till October.\nOf course, none of this is Brooks’ fault specifically. Had the interview run on June 10, for example, it would have made a lot more sense. But it’s hard to believe he didn’t know Mac prices were about to blow up less than a month later.",
-    "pub_date": "2026-07-06T17:21:32.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,Silicon",
-    "id": 1954
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "macOS 26.6 beta 4 rolling out now, here’s what to expect [U: Public beta]",
-    "link": "https://9to5mac.com/2026/07/06/macos-26-6-beta-4-rolling-out-now-heres-what-to-expect/",
-    "content": "Update July 7, 4:18 p.m. ET: The public beta is also now available.\nA week after releasing macOS 26.6 developer beta 3, Apple is now rolling out the fourth beta for developers, ahead of the system’s official rollout. Here’s what to expect.",
-    "pub_date": "2026-07-06T17:21:06.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Mac,App Store",
-    "id": 1928
   }
 ]
