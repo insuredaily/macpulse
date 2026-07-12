@@ -1,5 +1,145 @@
 [
   {
+    "source_name": "MacRumors",
+    "title": "iOS 27 Public Beta Reportedly Available This Week",
+    "link": "https://www.macrumors.com/2026/07/12/ios-27-public-beta-release-date-timing/",
+    "content": "The first public betas of iOS 27, macOS Golden Gate, and more will be released this week, according to Bloomberg's Mark Gurman. This aligns with Apple's promised July timeframe.\r\n\r\nSiri AI, but there is a waitlist if you want to try it.\nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"iOS 27 Public Beta Reportedly Available This Week\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-12T15:22:30.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "Mac,iOS",
+    "id": 2290
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Here's Why Apple is Reportedly Skipping M6 Pro and M6 Max Chips",
+    "link": "https://www.macrumors.com/2026/07/12/why-apple-is-skipping-m6-pro-m6-max-chips/",
+    "content": "According to Bloomberg's Mark Gurman, Apple will be releasing a regular M6 chip, but it has no plans to offer higher-end M6 Pro and M6 Max chips. In his Power On newsletter today, he said the reason for this break in tradition is AI.\r\n\r\n\r\n\"Apple had been planning major neural-processing upgrades for the M7 family and ultimately decided those improvements were important enough to justify accelerating the next generation rather than completing the M6 lineup,\" he explained.\r\n\r\nThere won't be an M6 Ultra chip either, he said.\r\n\r\nnew 14-inch MacBook Pro with a base M6 chip will be released later this year, and then Apple plans to move on to releasing the base M7 chip in the first half of 2027, M7 Pro and M7 Max chips in late 2027, and an M7 Ultra chip in 2028.\r\n\r\nHe said the M7 Ultra chip in particular \"dramatically upgrades AI performance,\" and that it may power Apple Intelligence servers starting in 2029.\r\n\r\n\"AI is no longer just another feature Apple's chips need to support,\" said Gurman. \"It is now shaping how those products are designed and when they are shipped.\"\r\n\r\nexpects an M5 Ultra chip to debut in the Mac Studio as early as this year.\r\n\r\nM5 chip: October 2025\n\r\nM5 Pro and M5 Max chips: March 2026\n\r\n  \nM5 Ultra chip: Late 2026\n\r\n  \nM6 chip: Late 2026\n\r\n  \nM7 chip: First half of 2027\n\r\n  \nM7 Pro and M7 Max chips: Second half of 2027\n\r\n  \nM7 Ultra chip: 2028\n\nRelated Roundups: Mac Studio, MacBook Pro\nTags: Apple Silicon, Mark Gurman\nBuyer's Guide: Mac Studio (Don't Buy), MacBook Pro (Buy Now)\nRelated Forums: Mac Studio, MacBook Pro\nThis article, \"Here's Why Apple is Reportedly Skipping M6 Pro and M6 Max Chips\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-12T15:12:08.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "Mac,Silicon",
+    "id": 2291
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "M6 era will last just six months as Apple pushes for AI-focused M7",
+    "link": "https://appleinsider.com/articles/26/07/12/m6-era-will-last-just-six-months-as-apple-pushes-for-ai-focused-m7?utm_source=rss",
+    "content": "It takes years to tape out a chip and bring it to market, with overall industry seismic shifts taking much less time. Nothing will demonstrate that better than the rumored six-month gap between the M6 processor debut and the AI-focused M7.\n\n\nWith no M6 Pro or M6 Max on the horizon, don't expect much from the Mac Studio. \nApple's chip lines have gradually become more AI-centric, and that will be the same in the future too. However, rather than sticking to an established release format, Apple's intending to skip ahead to the bits it wants the public to use.\nIn Sunday's \"Power On\" newsletter for Bloomberg, Mark Gurman revives a late June report that the M6 Pro and M6 Max chips won't exist. Instead, it is putting the work into the development of AI-first chips for the M7 generation.\n\n Rumor Score: 🤔 Possible \n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-12T15:06:52.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "Mac,Rumors,Silicon",
+    "id": 2297
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Power of Apple's M7 & M8 chips was born from Apple Car research",
+    "link": "https://appleinsider.com/articles/26/07/12/power-of-apples-m7-m8-chips-was-born-from-apple-car-research?utm_source=rss",
+    "content": "We've been telling you this for years — Apple Car research wasn't lit on fire, and the fruits of Apple's labor on it will be seen in artificial intelligence performance in the M7 and M8 processor.\n\n\n16-inch MacBook Pro will be the first to get M7 Pro processors\nBefore AI used to be called Apple's biggest failure, that title went to the Apple Car which was cancelled after ten years of development and ten billion dollars of investment. AppleInsider argued at the time that Apple Car research would pay off, but now both of these failures are being recast as positives, with Bloomberg saying this research is being used in designing future AI processors.\nThe report claims that for the future M7 and M8 processors, Apple is concentrating more on AI support than on issues such as overall speed and power efficiency. This reportedly means that these chip designs for the Mac and Apple Intelligence servers are based on the company's efforts toward a self-driving car.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-12T14:59:59.000Z",
+    "creator": "William Gallagher <wg@williamgallagher.com>",
+    "tags": "Mac,Silicon,Services",
+    "id": 2298
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "M7 Ultra to potentially feature up to 1.5TB of RAM, finally matching 2019 Mac Pro: report",
+    "link": "https://9to5mac.com/2026/07/12/m7-ultra-mac-studio-to-support-up-to-1-5-tb-unified-memory/",
+    "content": "According to the latest Power On newsletter from Mark Gurman, Apple is preparing to include up to 1.5TB of RAM in the upcoming M7 Ultra chip. This’ll mean Apple Silicon will finally match the highest RAM configuration available on the highest end 2019 Intel Mac Pro.",
+    "pub_date": "2026-07-12T14:34:28.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "Mac,Silicon",
+    "id": 2294
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "AirPods Pro 3 Hit Best Price Since Prime Day at $199.99",
+    "link": "https://www.macrumors.com/2026/07/12/airpods-pro-3-at-199-99/",
+    "content": "Amazon today has the AirPods Pro 3 available for $199.99, down from $249.00. This is the best price we've seen on the AirPods Pro 3 since Prime Day ended last month, coming in around $20 higher when compared to that all-time low price.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\nThis model of the AirPods Pro launched in September 2025 and has 2x better Active Noise Cancellation than the previous generation, better audio quality, a revised fit that's meant to improve comfort and stability, Live Translation for in-person conversations, and heart rate sensing for workouts.\r\n\r\n\n$49 OFF\nAirPods Pro 3 for $199.99\n\n\r\n\r\nDeals Roundup to get caught up with all of the latest deals and discounts that we've been tracking over the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"AirPods Pro 3 Hit Best Price Since Prime Day at $199.99\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-12T14:32:24.000Z",
+    "creator": "Mitchel Broussard",
+    "tags": "General",
+    "id": 2292
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Today in Apple history: ‘Antennagate’ scandal hits its peak",
+    "link": "https://www.cultofmac.com/apple-history/consumer-reports-iphone-4-review-antennagate",
+    "content": "The iPhone 4 suffered a major blow when a \"Consumer Reports\" review failed to recommend the new smartphone. \"Antennagate\" was real.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-12T14:30:21.000Z",
+    "creator": "Luke Dormehl",
+    "tags": "Mac,iOS",
+    "id": 2305
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple's 2026 Back to School Offer is Coming Soon",
+    "link": "https://www.macrumors.com/2026/07/12/apple-2026-back-to-school-offer-soon/",
+    "content": "Apple's stores will be rolling out Back to School marketing materials this week, according to Bloomberg's Mark Gurman. This suggests that the offer will begin in the U.S. in the next few days.\r\n\r\nfree accessory like AirPods 4 or an Apple Pencil Pro with the purchase of a qualifying Mac or iPad model. The Back to School offer is in addition to the discounted prices already available through Apple's education store year-round, but it will be a bittersweet situation this year given that Apple recently raised prices on all Macs and iPads.\nThis article, \"Apple's 2026 Back to School Offer is Coming Soon\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-12T14:29:46.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "Mac,iOS",
+    "id": 2293
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "EU regulations could force an Apple Pencil upgrade in early 2027",
+    "link": "https://appleinsider.com/articles/26/07/12/eu-regulations-could-force-an-apple-pencil-upgrade-in-early-2027?utm_source=rss",
+    "content": "The iPad Pro with M6 is expected in early 2027 and Apple may release upgraded Apple Pencil models with easier-to-replace batteries in time for new EU regulations.\n\n\nEU regulations will force Apple to rethink Apple Pencil design\nThe European Union mandated in 2023 that consumer electronics must have easily replaced batteries by 2027. One of Apple's notoriously impossible-to-repair products is the Apple Pencil, which could see some design changes to meet this mandate.\nAccording to the \"Power On\" newsletter from Bloomberg, Apple is expected to release an updated Apple Pencil Pro and Apple Pencil with USB-C in early 2027. That timing aligns with previous reports of an iPad Pro refresh during the same release window.\n\n Rumor Score: 🤯 Likely \n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-12T14:28:53.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "iOS,Rumors",
+    "id": 2299
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple developing new Apple Pencil models for release next year, possibly with replaceable batteries",
+    "link": "https://9to5mac.com/2026/07/12/apple-pencil-ipad-new-battery-replacement/",
+    "content": "Bloomberg’s Mark Gurman says that Apple is developing a new lineup of Apple Pencil stylus accessories, set for launch next year alongside new iPad Pro models in spring 2027.\nThis would mean new generations of Apple Pencil (USB-C) and the wireless-charging Apple Pencil Pro. Bloomberg suggests that these new stylus could feature new battery systems, which would make them more easily user-replaceable in order to comply with upcoming EU regulation.",
+    "pub_date": "2026-07-12T14:17:27.000Z",
+    "creator": "Benjamin Mayo",
+    "tags": "iOS",
+    "id": 2295
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Assess Apple's imminent Back to School sales, before you pull the trigger on a bad deal",
+    "link": "https://appleinsider.com/articles/26/07/12/assess-apples-imminent-back-to-school-sales-before-you-pull-the-trigger-on-a-bad-deal?utm_source=rss",
+    "content": "Apple is preparing to launch its annual Back to School promotions in the United States. Take a minute after they're revealed to assess before you buy, because they're very rarely blockbuster deals, and other vendors will likely have better ones.\n\n\nMacBook Neo will be a popular item this Back to School sales period. \nEach summer, Apple joins the rest of retailers by holding Back To School offers. Preparing for the academic year ahead, students and teachers can get some extra money off from their purchases.\nWhile the Education Store pricing discount is helpful, the Back to School promotions often sweeten the deal with steeper discounts or free items.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-12T14:11:24.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "Mac",
+    "id": 2300
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Gurman: Apple’s ‘Back to School’ deal for U.S. students likely launching later this week",
+    "link": "https://9to5mac.com/2026/07/12/gurman-apples-back-to-school-deal-for-u-s-students-likely-launching-later-this-week/",
+    "content": "Every year, Apple has a ‘Back to School’ promo for students – offering some kind of special incentive if they buy a Mac or iPad during the promotional window. Typically, this has come in the form of free accessories (like AirPods), or a $100-150 Apple gift card. According to Bloomberg’s Mark Gurman, the offer should be returning later this week.",
+    "pub_date": "2026-07-12T14:04:23.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "Mac,iOS",
+    "id": 2296
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Price cut: 1minAI puts ChatGPT and other top AIs all in one place",
+    "link": "https://www.cultofmac.com/deals/1minai-all-in-one-ai-tool",
+    "content": "Get an AI tool that brings top AI models like ChatGPT, Mistral AI and more together in one interface. Enter 1minAI, the all-in-one AI tool.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-12T13:50:36.000Z",
+    "creator": "Cult of Mac Deals",
+    "tags": "Mac",
+    "id": 2306
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "iOS 27 public beta arrives soon — prep your iPhone now",
+    "link": "https://www.cultofmac.com/how-to/ios-27-public-beta-release-ready-iphone",
+    "content": "The first iOS 27 public beta is almost here. While the launch could come any day, it's more likely to still be weeks away. Here's why.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-12T13:15:00.000Z",
+    "creator": "Anurag Chawake",
+    "tags": "Mac,iOS",
+    "id": 2307
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Crime blotter: Stolen iPad leads to arrest of accused bank robber",
     "link": "https://appleinsider.com/articles/26/07/12/crime-blotter-stolen-ipad-leads-to-arrest-of-accused-bank-robber?utm_source=rss",
@@ -491,7 +631,7 @@
   },
   {
     "source_name": "Cult of Mac",
-    "title": "Apple talking to a startup that could cram GPT-class AI into your iPhone",
+    "title": "Apple talks with startup that could cram GPT-class AI onto your iPhone",
     "link": "https://www.cultofmac.com/news/apple-on-device-ai-prismml-startup-talks",
     "content": "Apple is reportedly talking to a startup that claims it squeezed a massive AI language model onto an iPhone.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
     "pub_date": "2026-07-10T15:02:55.000Z",
@@ -2858,145 +2998,5 @@
     "creator": "Ryan Christoffel",
     "tags": "iOS",
     "id": 1920
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "macOS Golden Gate Gets New Wallpaper",
-    "link": "https://www.macrumors.com/2026/07/06/macos-golden-gate-wallpaper/",
-    "content": "With the third beta of macOS 27, Apple added new Golden Gate-themed wallpaper options to the Mac.\r\n\r\n\r\nThere are new Golden Gate Sunset and Golden Gate Night options, both of which join the prior Golden Gate abstract wallpaper that Apple introduced with the initial beta.\r\n\r\nGolden Gate Sunset and Golden Gate Night animate when unlocking the Mac, and can be set as a screen saver. When used as a screen saver, the Golden Gate Sunset wallpaper features waves breaking on the rocks near the Golden Gate Bridge. The Golden Gate Night wallpaper shows cars driving across the bridge.\r\n\r\nmacOS Golden Gate is limited to developers right now, but we are expecting a public beta soon.\nRelated Roundup: macOS Golden Gate\nThis article, \"macOS Golden Gate Gets New Wallpaper\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-06T19:22:26.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac",
-    "id": 1902
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "B&H is blowing out M4 Pro MacBook Pro inventory at $1,799",
-    "link": "https://appleinsider.com/articles/26/07/06/bh-is-blowing-out-m4-pro-macbook-pro-inventory-at-1799?utm_source=rss",
-    "content": "B&H is clearing out M4 Pro MacBook Pro inventory, offering discounts of up to $500 off and prices as low as $1,799. But inventory is limited, and the deals may sell out quickly.\n\n\nSave up to $500 on blowout 14-inch MacBook Pro laptops - Image credit: Apple\nKicking off the sale is Apple's last-gen M4 Pro 14-inch laptop that's marked down to $1,799. This configuration in Apple's silver finish has a 12-core CPU and 16-core GPU, along with 24GB of unified memory and 512GB of storage.\nBuy M4 Pro MacBook Pro for $1,799\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-06T19:18:25.000Z",
-    "creator": "Christine McKee <christine@appleinsider.com>",
-    "tags": "Mac,Silicon",
-    "id": 1941
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "watchOS 27 beta 3 includes upgraded Siri AI experience and dedicated Siri app",
-    "link": "https://9to5mac.com/2026/07/06/watchos-27-beta-3-includes-upgraded-siri-ai-experience-and-dedicated-siri-app/",
-    "content": "Apple’s upgraded Siri AI experience and the standalone Siri app have arrived on the Apple Watch with today’s watchOS 27 beta 3 release.",
-    "pub_date": "2026-07-06T18:54:40.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS,App Store",
-    "id": 1921
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "New in iOS 27 beta 3: Siri AI voice customization options",
-    "link": "https://appleinsider.com/articles/26/07/06/new-in-ios-27-beta-3-siri-ai-voice-customization-options?utm_source=rss",
-    "content": "The third developer beta of iOS 27 is here, with added customization options for Siri AI, visual tweaks, and more. Here's what's new.\n\n\niOS 27 beta 3 delivers new customization options for Siri AI.\nOn Monday, two weeks after the arrival of iOS 27 beta 2, Apple made the third developer beta available for download. While iOS 27 beta 1 delivered the long-overdue Siri AI, the second beta included enhancements for the Apple Home and Apple Wallet apps.\nNotably, for most, the entire Siri AI model needs to be redownloaded between beta 2 and beta 3. For some users, this has made the features gated behind a wait-list again.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-06T18:42:08.000Z",
-    "creator": "Marko Zivkovic <marko@appleinsider.com>",
-    "tags": "iOS,App Store",
-    "id": 1942
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "macOS 27 Golden Gate adds these new wallpapers and screen savers to your Mac",
-    "link": "https://9to5mac.com/2026/07/06/macos-27-golden-gate-adds-these-new-wallpapers-and-screen-savers-to-your-mac/",
-    "content": "Today’s macOS 27 Golden Gate beta 3 release includes two new wallpaper and screen saver options for your Mac.",
-    "pub_date": "2026-07-06T18:41:21.000Z",
-    "creator": "Zac Hall",
-    "tags": "Mac",
-    "id": 1922
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Here’s what’s new with iOS 27 beta 3",
-    "link": "https://9to5mac.com/2026/07/06/heres-whats-new-with-ios-27-beta-3/",
-    "content": "Apple released iOS 27 beta 3 today, giving developers the second follow-up update since iOS 27 debuted at WWDC. Developers can download the new beta now, ahead of this month’s expected public beta release.\niOS 27 is a major iPhone update centered around Siri AI, Apple Intelligence, Liquid Glass refinements, and a long list of quality-of-life changes. Here’s what we’ve found so far in iOS 27 beta 3.",
-    "pub_date": "2026-07-06T18:11:31.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS",
-    "id": 1923
-  },
-  {
-    "source_name": "Macworld",
-    "title": "iOS 27 beta 3 is out now for developers as Apple approaches the first public release",
-    "link": "https://www.macworld.com/article/3172166/apple-releases-the-second-ios-27-developer-beta-for-testers.html",
-    "content": "Macworld\n\n\nOn the first day of the WWDC developer conference, Apple released the first developer beta of its new operating system. This year, that means that the first release of iOS 27 outside Cupertino came on June 8, 2026.\nThe pattern goes like this: Apple releases developer-only betas for the first month or so, and then starts releasing the same build for both developers and public beta testers. Based on historical precedent, we expect the third or fourth beta to be the first one to go out to public beta testers rather than just developers. \nIf you want to try out the new OS 27 updates and provide feedback, check out our article on how to become a beta tester. It’s easy.\nUpdated July 6, 2026: Apple has released the third iOS 27 developer beta. This build could be released as the first public beta this week.\nWhat’s new in iOS 27\nThe big iOS 27 release this year is focused on three main areas:\nTrust and Safety – New parental controls to keep kids safe and control screen time.\nPerformance and refinement – Speeding everything up, improving efficiency, tweaking interfaces, and addressing dozens of small user requests.\nApple Intelligence and Siri – Entirely new Apple Intelligence models improve AI throughout the system, and a brand-new Siri is vastly more capable than ever before.\nFor a more complete breakdown of all the new features and changes, check out our iOS 27 guide.\nBeta 3 brings the following changes, in addition to bug fixes and performance improvements:\nSiri voice menu to control Pace and Expressivity is active. (iPhone Air and 17 Pro)\nApple Watch finally gets the new Siri. (watchOS 27 beta 3)\nIndexing notice in Settings changed to “Optimizing Search and Siri.”\nSmall adjustments to some app icons.\nSome users have to redownload new Apple Intelligence models.\niOS 27: How to install the developer beta\nYou’ll need to be registered as an Apple Developer, but a free developer account will do. You can get one via Xcode or the Apple Developer app in iOS. Here’s how to do it via the Apple Developer app:\nDownload the Apple Developer App from the App Store.\nOpen the app.\nTap on Account.\nSign in using your usual Apple ID.\nOnce you have a free developer account, just follow the same instructions as with the public beta:\nOpen Settings.\nTap General, then Software Update.\nMake sure the Beta Updates selection is set to iOS 27 Developer Beta.\nFollow the on-screen instructions.\niOS 27: How to install the public beta\nThe first iOS 27 public beta is not available yet but is expected to arrive in July. When it lands, you can follow these steps to test it out even if you’re not a developer:\nClick Sign Up on the Apple Beta page and register with your Apple ID.\nLog in to the Beta Software Program.\nClick Enroll your iOS device.\nOpen the Settings app, tap General, then Software Update.\nIn the Beta Updates section, select the iOS 27 Public Beta.\nIt may take a few moments after registering for the beta option to appear in Software Update.",
-    "pub_date": "2026-07-06T17:52:20.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,App Store",
-    "id": 1953
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple rolls out the third iOS 27, macOS 27 developer betas",
-    "link": "https://appleinsider.com/articles/26/07/06/apple-rolls-out-the-third-ios-27-macos-27-developer-betas?utm_source=rss",
-    "content": "Apple has now moved to the third round for the developer betas of iOS 27, macOS 27, and others of the 27 generation. Expect more to come before the eventual fall releases.\n\n\nAn earlier iOS 27 beta screen\nThe developer beta program for the 27-gen operating systems is continuing with its third round of builds. All to make sure that the versions that ship in the fall are in top working order for the general public.\nThe third developer builds arrive after the second, which arrived on June 22 for most of the operating systems. The watchOS 27 counterparts landed later, on June 23 and June 25. \n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-06T17:45:29.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "Mac,iOS,App Store",
-    "id": 1944
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple rolls out fourth Release Candidates for macOS Sonoma 14.8.8 and Sequoia 15.7.8 [U]",
-    "link": "https://9to5mac.com/2026/07/06/apple-rolls-out-fourth-release-candidates-for-macos-sonoma-14-8-8-and-sequoia-15-7-8/",
-    "content": "Update July 7, 4:17 p.m. ET: Public betas are also now available.\nAfter releasing a rare third RC for macOS Sonoma 14.8.8 and Sequoia 15.7.8 late last month, the company is now rolling out a fourth version alongside macOS 26.6 beta 4 and macOS 27 beta 3. Here are the details.",
-    "pub_date": "2026-07-06T17:40:50.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Mac",
-    "id": 1924
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Fourth developer betas of iOS 26.6, macOS 26.6 land for testing",
-    "link": "https://appleinsider.com/articles/26/07/06/fourth-developer-betas-of-ios-266-macos-266-land-for-testing?utm_source=rss",
-    "content": "Apple's beta program for its 26-gen operating systems continues, with the fourth developer builds of iOS 26.6 and others now available for testing.\n\n\nApple's hardware that works with the 26-generation operating systems - Image Credit: Apple\nWhile the main attention is on the 27-generation, Apple is still making changes to its current-gen operating systems.\nThe fourth developer betas landed after the third, which landed on June 29. The second was distributed on June 15, and the first round came out on May 26.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-06T17:36:25.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "Mac,iOS,App Store",
-    "id": 1943
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple releases beta 3 for iPadOS 27, tvOS 27, and more",
-    "link": "https://9to5mac.com/2026/07/06/apple-releases-beta-3-for-ipados-27-tvos-27-and-more/",
-    "content": "Apple has released new betas today for its next major software updates, with developer beta 3 rolling out for iPadOS 27, tvOS 27, visionOS 27, and more.",
-    "pub_date": "2026-07-06T17:26:48.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS,Vision,App Store",
-    "id": 1925
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "macOS Golden Gate Beta 3 Now Available for Developers",
-    "link": "https://www.macrumors.com/2026/07/06/apple-seeds-macos-27-beta-3/",
-    "content": "Apple today provided developers with the third beta of macOS Golden Gate, with the update coming two weeks after Apple seeded the second beta.\r\n\r\n\r\nDevelopers can download ‌macOS Golden Gate‌ by going to System Settings > General > Software Update. Beta Updates will need to be enabled, and a free developer account is required.\r\n\r\n‌macOS Golden Gate‌ includes multiple design improvements. Liquid Glass opacity has been improved to increase readability, there's a slider for controlling the level of transparency, and changes to shadowing make it easier to tell when a window is active. Apps now have uniform toolbars, edge-to-edge sidebars, and less rounded corners, plus there are fewer icons in menu bars.\r\n\r\nSiri has been transformed into ‌Siri‌ AI, a chatbot-style assistant that combines general world knowledge, your personal data, and onscreen awareness to answer questions about anything and find information for you. ‌Siri‌ lives in Spotlight, and you can ask questions with the new Search or Ask interface.\r\n\r\nVisual Intelligence is now on the Mac so ‌Siri‌ can answer questions about what's on your screen, and a Write with ‌Siri‌ feature lets ‌Siri‌ generate text or give feedback on your writing.\r\n\r\nPhotos app, AI tab organization in Safari, an option to use AI to automatically update weak passwords in the Passwords app, and a revamped Image Playground app that can generate photorealistic images.\r\n\r\nfound in our macOS Golden Gate roundup. ‌macOS Golden Gate‌ is limited to developers right now, but Apple plans to release a public beta soon.\nRelated Roundup: macOS Golden Gate\nThis article, \"macOS Golden Gate Beta 3 Now Available for Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-06T17:25:59.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,App Store",
-    "id": 1903
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Seeds Third iOS 27 and iPadOS 27 Betas to Developers",
-    "link": "https://www.macrumors.com/2026/07/06/apple-seeds-ios-27-beta-3/",
-    "content": "Apple today seeded the third betas of iOS 27 and iPadOS 27 to developers for testing purposes, with the update coming two weeks after Apple released the second betas.\r\n\r\n\r\nRegistered developers can download the betas from the Settings app on the iPhone or iPad by going to the General section and selecting Software Update.\r\n\r\nSiri, ‌Siri‌ AI. ‌Siri‌ AI is a chatbot similar to ChatGPT, incorporating general world knowledge, personal data from apps like Messages and Mail, and onscreen awareness to answer questions and find information for you.\r\n\r\nApple Intelligence features in apps like Photos, Safari, Shortcuts, Wallet, and Passwords, plus Apple added a standalone ‌Siri‌ app that houses ‌Siri‌ conversations. Write with ‌Siri‌ is available systemwide for generating text or offering feedback on your writing, and Visual Intelligence has been relocated to the Camera app with a new ‌Siri‌ mode.\r\n\r\nApple improved the look of Liquid Glass and added a slider for customizing transparency. There are multiple performance improvements to speed up iOS, so everything feels faster, even on older iPhones. Apps launch quicker, AirDrop transfers are faster, the keyboard pops up more quickly, and devices are better at transitioning between Wi-Fi and Cellular to keep you connected.\r\n\r\nwe have a dedicated iOS 27 roundup.\nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"Apple Seeds Third iOS 27 and iPadOS 27 Betas to Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-06T17:24:00.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,App Store",
-    "id": 1904
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "macOS 27 Golden Gate beta 3 now available, here’s what’s to expect",
-    "link": "https://9to5mac.com/2026/07/06/macos-27-golden-gate-beta-3-now-available-heres-whats-to-expect/",
-    "content": "Two weeks after releasing macOS 27 Golden Gate beta 2, Apple is now rolling out beta 3 for developers. Here are the details.",
-    "pub_date": "2026-07-06T17:23:38.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Mac",
-    "id": 1926
   }
 ]
