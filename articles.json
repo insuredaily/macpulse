@@ -1,6 +1,16 @@
 [
   {
     "source_name": "AppleInsider",
+    "title": "Sunday Reboot: No cell service for 250 years",
+    "link": "https://appleinsider.com/articles/26/07/12/sunday-reboot-no-cell-service-for-250-years?utm_source=rss",
+    "content": "In this week's Sunday Reboot, an iPhone 17 Pro Max goes underground for a very, very long time.\n\n\nAmerica 250\nSunday Reboot is a weekly column covering some of the lighter stories within the Apple reality distortion field from the past seven days. All to get the next week underway with a good first step.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-12T21:30:53.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS",
+    "id": 2316
+  },
+  {
+    "source_name": "AppleInsider",
     "title": "Apple Watch Series 11 drops to $299 with Amazon deal, save $100",
     "link": "https://appleinsider.com/articles/26/07/12/apple-watch-series-11-drops-to-299-with-amazon-deal-save-100?utm_source=rss",
     "content": "Amazon has brought the 42mm Apple Watch Series 11 back down to $299 for the weekend, offering $100 off its regular price. The sale also includes discounts on larger 46mm models and premium titanium styles.\n\n\nSave $100 on Apple Watch Series 11 styles.\nWeekend Apple Watch shoppers have plenty of reasons to take a look at Amazon, where Apple Watch Series 11 models are $100 off across multiple configurations. The standout offer drops the 42mm GPS model to $299, within $20 of the lowest price on record.\n\nBuy Apple Watch Series 11 for $299\n\n Continue Reading on AppleInsider | Discuss on our Forums",
@@ -571,7 +581,7 @@
   },
   {
     "source_name": "Cult of Mac",
-    "title": "Folding iPhone Ultra may not have the battery we hoped for",
+    "title": "Folding iPhone Ultra might not pack the big, beautiful battery we hoped for",
     "link": "https://www.cultofmac.com/news/iphone-ultra-foldable-battery-rumor",
     "content": "A new leak suggests Apple’s foldable iPhone will pack a smaller battery than previous rumors promised.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
     "pub_date": "2026-07-10T16:40:38.000Z",
@@ -2988,15 +2998,5 @@
     "creator": "Ryan Christoffel",
     "tags": "iOS",
     "id": 1915
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iOS 27 beta 3 lets users fine-tune how Siri sounds",
-    "link": "https://9to5mac.com/2026/07/06/ios-27-beta-3-lets-users-fine-tune-how-siri-sounds/",
-    "content": "With iOS 27 beta 3, users can now fine-tune how the new Siri AI sounds using separate controls for speaking pace and expressivity. Here are the details.",
-    "pub_date": "2026-07-06T20:14:43.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "iOS",
-    "id": 1916
   }
 ]
