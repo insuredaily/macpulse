@@ -1,5 +1,35 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "AirPods just got a long-requested feature in new public beta",
+    "link": "https://9to5mac.com/2026/07/15/airpods-just-got-a-long-requested-feature-in-new-public-beta/",
+    "content": "While it was overshadowed by the iOS 27 public beta, Apple also released a new public beta firmware for AirPods this week. The update brings a long-requested feature to supported AirPods models: custom EQ.",
+    "pub_date": "2026-07-16T00:19:11.000Z",
+    "creator": "Chance Miller",
+    "tags": "iOS",
+    "id": 2567
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Google and Epic Abandon Settlement, Clearing the Way for Rival Android App Stores",
+    "link": "https://www.macrumors.com/2026/07/15/google-third-party-app-stores/",
+    "content": "Google and Epic Games this week withdrew their joint settlement agreement after it became clear the court was unlikely to allow it.\r\n\r\n\r\nWith the settlement out, Google is bound by a permanent injunction issued in October 2024 requiring it to allow alternative app stores on Android devices. In a court filing [PDF], Google said that it plans to begin supporting alternative app stores on July 22. In a statement to The Verge, Google said it decided to withdraw the motion to avoid a prolonged legal fight.\r\nWe've agreed with Epic to withdraw our motion to modify the US Court's injunction rather than prolonging this process which creates uncertainty for the ecosystem. This allows us to focus on executing our recently announced global business model evolution to deliver greater app store choice, lower prices, and more opportunities for developers and users. We remain committed to maintaining Android's industry-leading security and fostering a competitive ecosystem where every app store and developer has the freedom to compete. In parallel, we continue to comply with the US Court's injunction.\n\r\n‌Epic Games‌ sued Google at the same time that it sued Apple, but the cases had different judges and different outcomes. The lawsuit largely went in Apple's favor, but ‌Epic Games‌ came out ahead in the Google case after a jury found Google abused its power by operating an app store monopoly and charging developers fees that were too high.\r\n\r\nApp Store program for sideloading later in the year, but in the U.S., alternative app stores will be an option on Android starting next week.\r\n\r\npublished a guide on the process. The app stores will be available through the Google Play Store, and Google will charge alternative marketplaces a $5,000 annual access fee. Apps downloaded through alternative stores will still use the Google Play system, and Google will collect its service fee on those transactions.\r\n\r\nagreement to lower fees for apps and accept alternative payment options is separate from the injunction requiring it to support third-party marketplaces in the Play Store. Google is still cutting its fees and supporting alternative payment methods.\r\n\r\nThe injunction forcing Google to support third-party app stores doesn't have a direct impact on Apple, but it is a legal outcome Apple has been fighting worldwide. The European Union's Digital Markets Act requires Apple to support alternative app marketplaces and app sideloading in the EU, and Apple has repeatedly said the requirement weakens user privacy and protections. Google adding support for third-party app stores through the Android Play Store could eventually impact Apple's own Epic fight or future regulatory changes.\r\n\r\nwill hear Apple's argument in late 2026 or early 2027.\nTags: Android, Epic Games, Google\nThis article, \"Google and Epic Abandon Settlement, Clearing the Way for Rival Android App Stores\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-16T00:02:48.000Z",
+    "creator": "Juli Clover",
+    "tags": "App Store",
+    "id": 2565
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "CrashStealer Malware Impersonates Apple Tool to Steal Mac Passwords and Crypto",
+    "link": "https://www.macrumors.com/2026/07/15/crashstealer-mac-malware/",
+    "content": "Mac users should watch out for macOS malware called CrashStealer, according to Jamf Threat Labs. The malware impersonates Apple's crash reporting framework, and it's meant to steal all kinds of sensitive information.\r\n\r\n\r\nCrashStealer collects browser data, password manager data, cryptocurrency wallet extensions, and keychain data, and Jamf first noticed it circulating in a fake Apple-notarized app called Werkbit. With notarization, the malware is not stopped by Gatekeeper, which is part of the macOS security system.\r\n\r\nIt targets more than 80 cryptocurrency wallet extensions, and 14 password managers like 1Password, LastPass, and Dashlane. It searches through the Document and Downloads folders to look for information worth collecting.\r\n\r\ndetailed on Jamf's website. A fake CrashReporter.app is downloaded through Werkbit, and it's meant to impersonate Apple's own crash reporter. A user clicking on the app would likely see it as a legitimate Apple utility.\r\n\r\nIt requests full disk access \"for system administration,\" and uses a native password prompt that looks like a genuine macOS authorization request. The password entered is used to access the login keychain. Data collected is encrypted with AES–256-GCM through Apple's CommonCrypto and sent to the attacker's IP address.\r\n\r\nJamf says the way CrashStealer was implemented \"shows real care,\" with the concealment steps setting it apart from standard infostealers. The malware was reported to Apple after first being spotted in May and found actively in use in July.\r\n\r\nApple revoked the Werkbit app's signing credentials, so the specific attack vector outlined by Jamf has been disabled, but the malware could surface again. The original version was gated behind a PIN required for installation, suggesting it was aimed at specific people.\r\n\r\nApple's notarization system is meant to protect Mac users from malware, and Apple says that notarized apps are checked for malicious components. CrashStealer makes it clear there are methods for hiding malware from Apple's security process.\r\n\r\nTag: Malware\nThis article, \"CrashStealer Malware Impersonates Apple Tool to Steal Mac Passwords and Crypto\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-15T23:14:33.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,App Store",
+    "id": 2566
+  },
+  {
     "source_name": "MacRumors",
     "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing",
     "link": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
@@ -2968,35 +2998,5 @@
     "creator": "Wesley Hilliard <wes@appleinsider.com>",
     "tags": "iOS,Vision",
     "id": 2217
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "iPhone Fold battery now rumored to have less capacity than expected",
-    "link": "https://appleinsider.com/articles/26/07/10/iphone-fold-battery-now-rumored-to-have-less-capacity-than-expected?utm_source=rss",
-    "content": "A leaker claims to have the specifications for both of the batteries expected in the iPhone Fold, and the suggestion is that despite its thin chassis, it will have all-day battery life.\n\n\nThe two sides of the iPhone Fold are each expected to house a battery.\nA leak in February 2026 claimed that the iPhone Fold would have the largest-capacity battery of any iPhone ever, but stopped short of any specifics. Around the same time, a separate rumor said that capacity would be 5,000 mAh, and the battery would have two cells that are \"3D stacked.\"\nNow leaker Digital Chat Station has posted on the Chinese social media site Weibo that the iPhone Fold will have a battery capacity of at least 4,883 mAh. This figure is said to have come from regulatory filings made by an unspecified battery supplier.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-10T12:45:14.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "iOS,Rumors",
-    "id": 2220
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Security Bite: Passkeys were supposed to have killed the password by now…",
-    "link": "https://9to5mac.com/2026/07/10/security-bite-passkeys-were-supposed-to-have-killed-the-password-by-now/",
-    "content": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\nFor years, bullish supporters have heralded passkeys as the future of sign-on, while traditional passwords are seen as the way of the past. It’s praised as a frictionless, far more secure alternative. But this week, I used normal passwords to authenticate more times than I can count.\nDon’t get me wrong, the adoption of passkeys has been impressive. More on that soon. However, I can’t help but reflect on the current state of sign-on and how lesser is still largely dominant in the wake of far better technology.",
-    "pub_date": "2026-07-10T12:31:16.000Z",
-    "creator": "Arin Waichulis",
-    "tags": "General",
-    "id": 2212
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "EU: Facebook and Instagram's Infinite Scroll May Break Digital Rules",
-    "link": "https://www.macrumors.com/2026/07/10/eu-facebook-instagram-break-digital-rules/",
-    "content": "Meta has been warned by the European Commission that its endlessly scrolling Facebook and Instagram feeds may violate the EU's new Digital Services Act rules.\r\n\r\n\r\nIn preliminary findings published on Friday, the Commission said that its investigation into features such as infinite scroll, autoplay, push notifications, and highly personalized recommender systems, found that Meta \"did not adequately assess the risks of their addictive design on the physical and mental wellbeing of users, including minors and vulnerable adults.\"\r\n\r\npress release:\r\nThese features fuel the user's urge to keep scrolling and shift the brain into 'autopilot mode,' contributing to unhealthy habits and compulsive use.\r\n\r\nThe Commission additionally criticized Meta's risk mitigation measures, saying that the platforms' time management tools could be easily dismissed and don't meaningfully limit the time users spend on the services. It also found fault with Meta's parental controls, which the Commission said were \"only effective if parents and guardians possess adequate technical expertise, as well as devote effort and time to understand them.\"\r\n\r\nThe Commission said that at this stage of its investigation, it believes Meta needs to make design changes to both Instagram and Facebook. These could include disabling addictive features such as autoplay and infinite scroll by default, introducing effective screen time breaks, and modifying its recommender system to make it less focused on driving engagement.\r\n\r\nMeta on Friday said it disagreed with the Commission's findings, claiming they \"don't accurately take into account the significant steps we've taken to protect teens.\"\r\n\r\nTags: European Commission, European Union, Facebook, Instagram, Meta\nThis article, \"EU: Facebook and Instagram's Infinite Scroll May Break Digital Rules\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-10T12:31:07.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "General",
-    "id": 2196
   }
 ]
