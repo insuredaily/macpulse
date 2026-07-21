@@ -1,5 +1,115 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "This ergonomic office chair packs premium comfort features for under $500",
+    "link": "https://9to5mac.com/2026/07/21/ergonomic-office-chair-packs-premium-comfort-features-under-500/",
+    "content": "If you’re in the market for an office chair, the SIHOO Doro C300 Pro V2 comes packed with personalization and comfort-focused features that deserve your attention.",
+    "pub_date": "2026-07-21T23:00:00.000Z",
+    "creator": "Sponsored Post",
+    "tags": "General",
+    "id": 3040
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple loses bid to overturn $634 million Masimo patent verdict, new trial also denied",
+    "link": "https://9to5mac.com/2026/07/21/apple-loses-bid-to-overturn-634-million-masimo-patent-verdict-new-trial-also-denied/",
+    "content": "Apple’s requests to overturn a $634 million patent verdict and secure a new trial in its long-running legal battle with Masimo were denied. Here are the details.",
+    "pub_date": "2026-07-21T22:19:01.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 3041
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple shares true story video on how Apple Watch helped rescue an injured cyclist",
+    "link": "https://9to5mac.com/2026/07/21/apple-shares-true-story-video-on-how-apple-watch-helped-rescue-an-injured-cyclist/",
+    "content": "From time to time, Apple shares real-life stories of users who received potentially life-saving help from the Apple Watch’s safety features.\nToday, the company published a new video recounting how Fall Detection and Emergency SOS helped rescue an injured cyclist. You can watch it below.",
+    "pub_date": "2026-07-21T21:27:28.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 3042
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple's $634M payment to Masimo now set in stone after Judge tosses appeal",
+    "link": "https://appleinsider.com/articles/26/07/21/apples-634m-payment-to-masimo-now-set-in-stone-after-judge-tosses-appeal?utm_source=rss",
+    "content": "The Masimo trial ultimately failed to get a permanent ban on Apple Watch sales or use of the blood oxygen sensor, but the final verdict will have Apple pay $634M to Masimo's new owner Danaher after the appeal was rejected.\n\n\nApple Watch blood oxygen detection is safe from the patent lawsuit\nApple Watch users have been able to take advantage of the blood oxygen sensor in Apple Watch since a software update in January 2024 successfully bypassed a sales ban. Masimo's attempts to reinstate a ban failed, and all that was left in the case for Apple to pay a fine.\nApple appealed the merits of the jury's findings based on the definition of a \"patient monitor.\" According to a report from Law360, U.S. District Judge James V. Selna turned down Apple's request.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-21T21:23:42.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "iOS,Services",
+    "id": 3048
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iPhone Air 2 is coming, here’s everything we know so far",
+    "link": "https://9to5mac.com/2026/07/21/iphone-air-2-is-coming-heres-everything-we-know-so-far/",
+    "content": "Apple is working on a second-generation iPhone Air, and it could address several key limitations of the current model. Here’s everything we know about the iPhone Air 2, including features, release date, and more.",
+    "pub_date": "2026-07-21T20:47:24.000Z",
+    "creator": "Chance Miller",
+    "tags": "iOS",
+    "id": 3043
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple TV drops trailer for Women in Blue’s second season",
+    "link": "https://9to5mac.com/2026/07/21/apple-tv-drops-trailer-for-women-in-blues-second-season/",
+    "content": "With the premiere just a few weeks away, Apple TV today released the trailer for Women in Blue season two. Watch it below.",
+    "pub_date": "2026-07-21T20:45:01.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 3044
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iOS 27 code suggests Apple could restrict leased devices after missed payments",
+    "link": "https://9to5mac.com/2026/07/21/ios-27-code-suggests-apple-could-restrict-leased-devices-after-missed-payments/",
+    "content": "Code found in the iOS 27 beta suggests Apple has built a system that could restrict leased devices when customers fall behind on payments. Here are the details.",
+    "pub_date": "2026-07-21T20:28:19.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 3045
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple Invites update brings emoji replies and confetti to the party",
+    "link": "https://appleinsider.com/articles/26/07/21/apple-invites-update-brings-emoji-replies-and-confetti-to-the-party?utm_source=rss",
+    "content": "A second update to Apple Invites for iOS in as many months adds two small changes: emoji replies and a pile of confetti.\n\n\nApple Invites \nApple has already made one update to the Apple Invites app this summer with some handy new features. Its second is smaller, but still quite celebratory in nature.\nThe release of version 1.10 on the App Store explains there are two changes made to the app. The first is that the host and guests are able to reply to each other using emoji, rather than words.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-21T20:06:32.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS,App Store",
+    "id": 3049
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Invites App Updated With Two New Features",
+    "link": "https://www.macrumors.com/2026/07/21/apple-invites-app-two-new-features/",
+    "content": "Apple Invites was updated today with two minor features related to RSVPing to an invite: hosts and guests can now react with emoji when someone replies to an event, and a confetti animation now appears when guests reply.\r\n\r\n\r\nVersion 1.10 of the app also contains bug fixes and performance improvements, according to Apple. The update is available now in the App Store.\r\n\r\nTag: Apple Invites\nThis article, \"Apple Invites App Updated With Two New Features\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-21T19:55:31.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "App Store",
+    "id": 3039
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iPhone 18 Pro release date: Here’s when Apple’s new model is coming",
+    "link": "https://9to5mac.com/2026/07/21/iphone-18-release-date-when-apples-new-model-is-coming/",
+    "content": "Apple’s new flagship iPhone 18 Pro and companion models are expected to be unveiled this fall, following the same pattern the company has kept for years. Here’s when to expect the iPhone 18 Pro announcement and release date, plus details on the lineup.",
+    "pub_date": "2026-07-21T19:48:10.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 3046
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "A fake Hide My Email header can expose the address behind your Apple Account",
+    "link": "https://appleinsider.com/articles/26/07/21/a-fake-hide-my-email-header-can-expose-the-address-behind-your-apple-account?utm_source=rss",
+    "content": "A forged Hide My Email header can make Mac Mail expose a user's Apple Account address, extending the privacy risk beyond people who use Apple's alias service.\n\nApple Mail\nDeveloper Jeff Johnson disclosed the Mac Mail privacy flaw on July 19. His testing showed that a specially crafted message could make Mail display a misleading sender identity while a reply went out from the email address tied to his Apple Account.\nThe behavior didn't require Johnson to use Hide My Email or maintain an iCloud.com mailbox. He also found that the malicious message could arrive through an unrelated personal or business account before Mail exposed the Apple Account address in a reply.\nJohnson said he doesn't know whether the finding is technically related to an earlier flaw that could reveal the address behind a Hide My Email alias. His report documents a separate technique and doesn't establish that both issues share the same underlying cause.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-21T19:45:47.000Z",
+    "creator": "Andrew Orr <andreworr@appleinsider.com>",
+    "tags": "Mac,App Store,Services",
+    "id": 3050
+  },
+  {
     "source_name": "MacRumors",
     "title": "Apple Updates TestFlight",
     "link": "https://www.macrumors.com/2026/07/21/apple-updates-testflight/",
@@ -1241,7 +1351,7 @@
   },
   {
     "source_name": "Cult of Mac",
-    "title": "Grab AirPods 4 at less than $100",
+    "title": "Grab AirPods 4 for less than $100",
     "link": "https://www.cultofmac.com/deals/airpods-deal",
     "content": "AirPods 4 deals let you save big on Apple's most affordable earbuds, making them even more appealing than ever.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
     "pub_date": "2026-07-20T13:50:22.000Z",
@@ -2888,115 +2998,5 @@
     "creator": "Macworld",
     "tags": "Mac,iOS,Rumors,Silicon",
     "id": 2637
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Rumor: Apple increases orders for key component ahead of foldable iPhone launch",
-    "link": "https://9to5mac.com/2026/07/16/rumor-apple-increases-orders-for-key-component-ahead-of-foldable-iphone-launch/",
-    "content": "Apple has reportedly ramped up orders for vapor chambers, signaling that the cooling technology could play a bigger role across its future hardware lineup. Here are the details.",
-    "pub_date": "2026-07-16T14:52:57.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "iOS,Rumors",
-    "id": 2614
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Apple closes unlocked iPhone loophole for T-Mobile and Verizon buyers",
-    "link": "https://www.cultofmac.com/news/apple-closes-unlocked-iphone-loophole",
-    "content": "Apple closed the unlocked iPhone loophole that allowed T-Mobile and Verizon buyers to finance a phone that worked on any network.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-07-16T14:45:53.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,iOS",
-    "id": 2625
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "iPad & iPad Air refreshes are coming, but not until 2027",
-    "link": "https://appleinsider.com/articles/26/07/16/ipad-ipad-air-refreshes-are-coming-but-not-until-2027?utm_source=rss",
-    "content": "While a new iPad mini is expected before the end of 2026, a new report says you'll need to wait longer for updates to the entry-level iPad, iPad Air, and iPad Pro.\n\n\nThe whole iPad range is scheduled for updates.\nThe most recent rumors of the first update to the iPad mini since October 2024 have claimed that it will be released with an OLED screen before the end of 2026. Now according to Bloomberg, this update is the first of several iPad model refreshes.\nSpecifically, the report claims that Apple plans to release new iPads from the fall through to spring 2027:\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-16T14:28:44.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "iOS",
-    "id": 2615
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Four more chip plants promised as TSMC teases a further $100 billion US expansion",
-    "link": "https://appleinsider.com/articles/26/07/16/four-more-chip-plants-promised-as-tsmc-plans-a-further-100-billion-to-the-us?utm_source=rss",
-    "content": "Apple's main processor supplier TSMC has announced another increase in US investment, saying its new plants will include ones making its most advanced chips.\n\n\nTSMC plant in Arizona - image credit: Christopher Payne\nIn May 2026, TSMC announced an additional $20 billion investment in its Arizona plants. Now according to the Financial Times, the company has revealed plans to build four more plants, costing a total of $100 billion.\nHoward Lutnick, US commerce secretary, said that the extra investment would \"create tens of thousands of American jobs and bring advanced semiconductor manufacturing back to America.\"\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-16T14:22:21.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "Silicon",
-    "id": 2590
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Today in Apple history: Apple pays $450 million to settle e-books suit",
-    "link": "https://www.cultofmac.com/apple-history/e-books-lawsuit-apple",
-    "content": "On July 16, 2014, Apple agreed to pay $450 million to resolve the Department of Justice's antitrust case regarding e-book pricing.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-07-16T14:21:35.000Z",
-    "creator": "Luke Dormehl",
-    "tags": "Mac,Services",
-    "id": 2626
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "AppleCare+ price increase lands for new Mac and iPad buyers",
-    "link": "https://www.cultofmac.com/news/applecare-plus-price-increase-mac-ipad",
-    "content": "Apple’s latest AppleCare+ price increase adds 50 cents per month to Mac and iPad plans.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-07-16T14:05:29.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,iOS",
-    "id": 2601
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "iPad mini with OLED release imminent, pricing unclear",
-    "link": "https://appleinsider.com/articles/26/07/16/ipad-mini-with-oled-release-imminent-pricing-unclear?utm_source=rss",
-    "content": "While the rumor that the next iPad mini would have an expensive OLED screen is not new, what is, is that in all likelihood it will ship very shortly after the iPhone 18 Pro release.\n\n\niPad mini 7 running Assassin's Creed\nThe unit, said to be codenamed J510, is very late in the development process. While Thursday's report by Bloomberg's Mark Gurman doesn't explicitly say that it is in mass production, it will have to be by now to make Apple's rumored timetable for release.\nA release for the new unit is expected as soon as October, following the iPhone 18 Pro release cycle. What is not clear is pricing for the unit.\n\n Rumor Score: 🤯 Likely \n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-16T14:04:53.000Z",
-    "creator": "Mike Wuerthele <mike@appleinsider.com>",
-    "tags": "iOS,Rumors",
-    "id": 2588
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Apple’s Back to School promo doesn’t add up",
-    "link": "https://www.macworld.com/article/3192834/apples-back-to-school-promo-doesnt-add-up.html",
-    "content": "Macworld\n\n\nAt long last, Apple finally announced its Back to School promotion, and at first glance, it seems similar to previous years. You can get a gift card valued at up to $150 for buying a new MacBook Pro, or $100 for buying a MacBook Air, iPad Pro, or iPad Air. But when you dive into the details, you’ll see just how limiting this limited-time offer really is.\nFirst off, it’s shorter than ever. While previous sales have lasted more than three months, this year’s offer ends on August 27, just six weeks from now. So not only did it start about a month later than usual, it’s ending more than a month sooner than recent years:\n2026: July 16 to August 27\n2025: June 17 to September 30\n2024: June 20 to September 30\n2023: June 5 to October 2\n2022: June 24 to September 26\nSo students will need to make their decisions on what to buy sooner than ever, many of them before the school year begins. And they’ll also have fewer products to choose from. As expected, the MacBook Neo isn’t part of the promotion, but you also won’t find any desktop Macs. In previous years, Apple has offered iMacs and Mac minis alongside MacBooks, but not this year.\nAnd then there’s the offer itself. After offering buyers a choice of accessories valued at up to $199, including AirPods, an Apple Pencil Pro, or a Magic Keyboard, Apple has returned to giving away gift cards this year: $150 with the purchase of a MacBook Pro, and $100 when you buy a MacBook Air, iPad Air, or iPad Pro. Not only is that less than in 2024, when buyers got $150 when purchasing a MacBook Air, but it also doesn’t take any of the recent price hikes into consideration.\nThat $100 gift card you’re getting on the iPad Air doesn’t even bring it down to the price it used to be before Apple raised prices by $150. MacBook Pros still cost $150 more than they did just last month, and if you’re planning to use that gift card on a HomePod or Apple TV, well, you might as well just throw your money in the trash.\nUnfortunately, this promotion is still among the best “deals” you’re going to find on a MacBook or iPad. Prices on Amazon and other stores have all been adjusted to match Apple’s new prices, and we’ve yet to see much in the way of major Apple discounts yet (although we do recommend looking at the Apple Certified Refurbished Store where prices are more favorable). But remember you’re need to act fast—the clock runs out on the Back to School deal a lot earlier this year.",
-    "pub_date": "2026-07-16T14:04:19.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS",
-    "id": 2622
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Report: Apple targets October launch for OLED iPad mini, kicking off next wave of iPad updates",
-    "link": "https://9to5mac.com/2026/07/16/report-apple-targets-october-launch-for-oled-ipad-mini-kicking-off-next-wave-of-ipad-updates/",
-    "content": "entry-level iPad, the iPad Air, and the iPad Pro. Here are the details.",
-    "pub_date": "2026-07-16T14:02:28.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "iOS",
-    "id": 2579
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "EU won’t force Apple to redesign AirPods",
-    "link": "https://www.cultofmac.com/news/eu-wont-force-apple-to-redesign-airpods",
-    "content": "Apple's AirPods dodged a possible redesign as the EU exempts wireless earbuds from new battery rules aimed at reducing waste.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-07-16T13:45:38.000Z",
-    "creator": "Ed Hardy",
-    "tags": "Mac",
-    "id": 2602
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "These iPad minis just dropped to less than $295",
-    "link": "https://www.cultofmac.com/deals/refurbished-ipad-mini-6-deal",
-    "content": "Pick up a perfectly portable, and perfectly capable, Apple tablet that's marked down to just $294.99 in this refurbished iPad mini 6 deal.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-07-16T13:30:54.000Z",
-    "creator": "Cult of Mac Deals",
-    "tags": "Mac,iOS",
-    "id": 2603
   }
 ]
