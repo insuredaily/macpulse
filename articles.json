@@ -1,5 +1,45 @@
 [
   {
+    "source_name": "Cult of Mac",
+    "title": "iOS 27 beta 4: All the new features and changes",
+    "link": "https://www.cultofmac.com/news/ios-27-beta-new-features-changes",
+    "content": "iOS 27 beta 4 is now rolling out to developers with new Siri voices, Log 2 support and other minor tweaks.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-21T03:39:40.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac,iOS",
+    "id": 2940
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "How to roll back macOS Golden Gate on Apple Silicon",
+    "link": "https://appleinsider.com/inside/macos-golden-gate/tips/how-to-roll-back-macos-golden-gate-on-apple-silicon?utm_source=rss",
+    "content": "Mac users who want to leave the macOS Golden Gate beta must erase their startup disk and reinstall Tahoe, making a verified backup the most important step before they begin. Here's how to downgrade safely.\n\nmacOS Golden Gate\nDowngrading from macOS Golden Gate isn't as simple as leaving Apple's beta program. Turning off beta updates prevents later beta builds from installing, but it leaves the current operating system in place.\nReturning to macOS Tahoe requires erasing the Mac's startup volume, reinstalling Tahoe, and restoring your files afterward. The reinstall is usually the easy part because protecting files created while running the Golden Gate beta takes more planning.\nApple recommends restoring a Time Machine backup made before the beta was installed. A newer backup may contain app data, settings, and databases that Golden Gate changed in ways that Tahoe can't fully understand.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-21T03:00:34.000Z",
+    "creator": "Andrew Orr <andreworr@appleinsider.com>",
+    "tags": "Mac,Silicon,App Store",
+    "id": 2933
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Seven years after Apple Card, Samsung leaps into fintech with its own credit card",
+    "link": "https://appleinsider.com/articles/26/07/21/seven-years-after-apple-card-samsung-leaps-into-fintech-with-its-own-credit-card?utm_source=rss",
+    "content": "The Samsung Galaxy Card is a direct mirror of the Apple Card, though it has some interesting cash-back offers that might be compelling for those deep in the Samsung ecosystem.\n\n\nSamsung Galaxy Card is a new fintech offering from Samsung and Barclays\nIf there has ever been a tried and true strategy from Samsung, its compete with what Apple offers by beating them on the spec sheet. The Samsung Galaxy Card does exactly that with some good cash back rates right out of the gate.\nThe company announced the Samsung Galaxy Card via a press release on Monday. It's launching primarily as a virtual-first card with up to 5% cash back, issued by Barclays on the Visa network.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-21T02:33:04.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "General",
+    "id": 2934
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iOS 27 beta 4 adds a useful Apple TV app feature, here’s how it works",
+    "link": "https://9to5mac.com/2026/07/20/ios-27-beta-4-adds-a-useful-apple-tv-app-feature-heres-how-it-works/",
+    "content": "Apple released iOS 27 beta 4 today, and it comes with a useful new “Automatic Downloads” feature in the Apple TV app. Here’s how it works.",
+    "pub_date": "2026-07-21T00:25:03.000Z",
+    "creator": "Chance Miller",
+    "tags": "iOS,App Store",
+    "id": 2928
+  },
+  {
     "source_name": "MacRumors",
     "title": "Samsung Debuts Galaxy Card With 5% Cash Back to Take On Apple Card",
     "link": "https://www.macrumors.com/2026/07/20/samsung-galaxy-card/",
@@ -2958,45 +2998,5 @@
     "creator": "Macworld",
     "tags": "Mac,iOS,Silicon",
     "id": 2550
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "OpenAI blames email mixup for why it didn't respond to Apple trade theft claims",
-    "link": "https://appleinsider.com/articles/26/07/15/openai-blames-email-mixup-for-why-it-didnt-respond-to-apple-trade-theft-claims?utm_source=rss",
-    "content": "It seemed as if the last straw for Apple was how OpenAI failed to respond to complaints about trade secret theft, but the ChatGPT maker says it did reply and the real problem is a lack of attention to detail by Apple's lawyers.\n\n\nOpenAI CEO Sam Altman - image credit: Emerson Collective\nApple is suing OpenAI over alleged theft of intellectual property, and initially the firm's response was an empty claim of being unaware of the issue. However, as first spotted by NBC, OpenAI's lawyers are now concentrating on an issue they seem to think derails the whole suit.\nReportedly, despite Apple saying that OpenAI failed to even respond to its allegations of trade secret theft, the company says it did. A source that is unknown but difficult not to guess, has shared OpenAI emails with NBC and they apparently do confirm that the firm responded.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-15T15:20:31.000Z",
-    "creator": "William Gallagher and Mike Wuerthele <news@appleinsider.com>",
-    "tags": "General",
-    "id": 2524
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Today in Apple history: Apple debuts its thinnest-ever iPod touch",
-    "link": "https://www.cultofmac.com/apple-history/sixth-gen-ipod-touch-launch-date",
-    "content": "On July 15, 2015, Apple introduced the sixth version of its iPod touch music player. The super-skinny sixth-gen iPod touch rocked.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-07-15T15:14:58.000Z",
-    "creator": "Luke Dormehl",
-    "tags": "Mac",
-    "id": 2529
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Save $150 on Apple's 1TB M5 MacBook Air at Amazon",
-    "link": "https://appleinsider.com/articles/26/07/15/save-150-on-apples-1tb-m5-macbook-air-at-amazon?utm_source=rss",
-    "content": "Amazon is knocking $150 off 1TB 13-inch MacBook Air M5 models, available with 16GB or 24GB of RAM.\n\n\nSave $150 on 1TB 13-inch MacBook Air models - Image credit: Apple\nThe $150 markdown can be found on two 13-inch MacBook Air models, each with 1TB of storage. With the discount, the M5/16GB/1TB option is now $1,449, while the 24GB option is marked down to $1,649.\nSave $150 on 1TB MacBook Air M5\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-15T14:55:02.000Z",
-    "creator": "Christine McKee <christine@appleinsider.com>",
-    "tags": "Mac,Silicon",
-    "id": 2523
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Judge dismisses $32.8 billion iCloud CSAM lawsuit against Apple",
-    "link": "https://www.cultofmac.com/news/apple-icloud-csam-lawsuit-dismissed",
-    "content": "A federal judge tosses a class-action lawsuit filed against Apple, ruling that a 1996 law shields it from liability for CSAM material in iCloud Photos.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-07-15T14:48:44.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,Services",
-    "id": 2530
   }
 ]
