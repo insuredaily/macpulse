@@ -1,5 +1,65 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "How to use iOS 27 Recovery Mode before erasing or restoring your iPhone",
+    "link": "https://appleinsider.com/inside/ios-27/tips/how-to-use-ios-27-recovery-mode-before-erasing-or-restoring-your-iphone?utm_source=rss",
+    "content": "Apple's iOS 27 recovery screen offers iPhone and iPad users a better first step when a device won't start, especially without a computer nearby. Here's how to open it, which repair option to try first, and when computer-based recovery is still safer.\n\niOS 27 Recovery Mode\nA failed startup is one of those iPhone problems that immediately feels worse than it may actually be. The device can sit on the Apple logo, restart in a loop or refuse to finish booting after an update.\nBefore iOS 27, most users eventually ended up connecting the device to a computer and working through Recovery Mode. The iOS 27 and iPadOS 27 public betas add a recovery screen that puts several troubleshooting tools directly on the affected device.\nThe new recovery screen matters most for people who use an iPhone or iPad as their main computer. Recovery Assistant and Software Update may get the device running again without immediately erasing it, while Diagnostics Mode can show whether software recovery is worth attempting.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-22T02:49:35.000Z",
+    "creator": "Andrew Orr <andreworr@appleinsider.com>",
+    "tags": "iOS",
+    "id": 3056
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "AppleCare+ Changes Announced in Japan",
+    "link": "https://www.macrumors.com/2026/07/21/applecare-changes-in-japan/",
+    "content": "Apple today announced that AppleCare+ with Theft and Loss coverage is now available for the iPad and Apple Watch in Japan, after previously being limited to the iPhone there.\r\n\r\nTag: AppleCare\nThis article, \"AppleCare+ Changes Announced in Japan\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-22T02:34:53.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "iOS",
+    "id": 3051
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple promotes ‘Nido de Villanas,’ a Mexican microdrama shot on iPhone 17 Pro",
+    "link": "https://9to5mac.com/2026/07/21/apple-promotes-nido-de-villanas-a-mexican-microdrama-shot-on-iphone-17-pro/",
+    "content": "Apple has shared a first look at Nido de Villanas, a tongue-in-cheek Mexican microdrama shot entirely on an iPhone 17 Pro, which is now available as 14 Shorts on YouTube.",
+    "pub_date": "2026-07-22T01:37:01.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 3053
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Claude Code brings live iOS app testing into its Mac app",
+    "link": "https://9to5mac.com/2026/07/21/claude-code-brings-live-ios-app-testing-into-its-mac-app/",
+    "content": "Claude Code’s Mac app now lets users test iOS apps in an interactive simulator pane, provided they have Xcode with the iOS platform installed. Here are the details.",
+    "pub_date": "2026-07-22T00:52:43.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac,iOS,App Store",
+    "id": 3054
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Aqara W200 review: Affordably-priced smart thermostat has firsts for Apple users",
+    "link": "https://appleinsider.com/articles/26/04/07/aqara-w200-review-affordably-priced-smart-thermostat-has-firsts-for-apple-users?utm_source=rss",
+    "content": "The Aqara W200 smart thermostat is the first to take advantage of Apple's Adaptive Temperature technology for Apple Home, and that's a big deal for users.\n\n\nAqara W200 thermostat review: There's a new go-to smart thermostat for Apple users\nAt least in the U.S., two or three big players largely have a stranglehold on the premium smart thermostat market. If you want a nice-looking smart thermostat, you're likely opting for Ecobee, Nest, or Honeywell Home.\nAqara is looking to shake that up with its W200, which first launched at CES 2026. It's compact, well-designed, and is the only model that currently supports Adaptive Temperature for Apple Home.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-22T00:28:36.000Z",
+    "creator": "Andrew O'Hara <andrew@appleinsider.com>",
+    "tags": "General",
+    "id": 3057
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Claude Code Can Now Build and Test iOS Apps in Apple's Simulator",
+    "link": "https://www.macrumors.com/2026/07/21/claude-code-ios-simulator/",
+    "content": "Anthropic today said Claude Code for desktop has been updated to work with the iOS Simulator, with the integration available in public beta.\r\n\r\n\r\nClaude Code can open in-progress apps in the iOS Simulator pane when it's instructed to build, run, or check an app. Claude can watch the iOS Simulator live as it runs, interact with it, and then iterate until a project is finished. Developers can continue to use the iOS Simulator as Claude works.\r\n\r\nThe pane in Claude Code drives the simulator directly, and it does not need computer use, which lets Claude control the screen the way a person would. With direct access, it works without the macOS Accessibility and Screen Recording permissions required for computer use.\r\n\r\nClaude's screenshots of a device in iOS Simulator are sent to Anthropic and kept per standard conversation retention settings. Anthropic suggests users not sign in to real accounts on a device Claude uses.\r\n\r\nfound on Anthropic's website.\nTag: Anthropic\nThis article, \"Claude Code Can Now Build and Test iOS Apps in Apple's Simulator\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-21T23:46:44.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS,App Store",
+    "id": 3052
+  },
+  {
     "source_name": "9to5Mac",
     "title": "This ergonomic office chair packs premium comfort features for under $500",
     "link": "https://9to5mac.com/2026/07/21/ergonomic-office-chair-packs-premium-comfort-features-under-500/",
@@ -761,10 +821,10 @@
   },
   {
     "source_name": "MacRumors",
-    "title": "Apple Watch Series 12 Coming in September With These New Features",
+    "title": "Apple Watch Series 12 Launching in September With These New Features",
     "link": "https://www.macrumors.com/2026/07/20/apple-watch-series-12-rumored-features/",
-    "content": "With the Apple Watch Series 12 now just two months away, we have created a recap of rumored new features, with some more likely than others.\r\n\r\n\r\nBelow, we have outlined everything rumored so far for the Apple Watch Series 12.\r\n\r\nMore Likely\n\r\nNew Chip After One-Year Hiatus\n\r\nWhile the Apple Watch Series 11, Apple Watch Ultra 3, and Apple Watch SE 3 all contain the same S10 chip as the previous year's models, leaked Apple code showed the Apple Watch Series 12 will get a new chip. It is unclear if the chip will have S11 or S12 branding, but performance improvements are expected either way after a one-year hiatus.\r\n\r\nLonger Battery Life\n\r\nWith the Apple Watch Series 12, Apple is focused on longer battery life, according to a known leaker on the Chinese social media platform Weibo. Apple says the Series 11 lasts up to 24 hours on a single charge, or up to 38 hours in Low Power Mode.\r\n\r\nLess Likely\n\r\nTouch ID\n\r\nTouch ID may be coming to the Apple Watch Series 12, according to leaked Apple code.\r\n\r\nTouch ID would likely be built into the Apple Watch's side button, enabling users to unlock the device with their fingerprint instead of a passcode.\r\n\r\ndenied the rumor, and credible sources such as Bloomberg's Mark Gurman and Apple supply chain analyst Ming-Chi Kuo have yet to mention Touch ID coming to the Apple Watch this year.\r\n\r\nBand Sensors\n\r\nAnother sketchy rumor from a leaker known as Kosutami claimed that the Apple Watch Series 12 will have a band with at least one health sensor in it, which would be a first. Health sensors are built into the Apple Watch directly on all existing models.\nRelated Roundup: Apple Watch 11\nBuyer's Guide: Apple Watch (Don't Buy)\nThis article, \"Apple Watch Series 12 Coming in September With These New Features\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-20T20:00:46.000Z",
+    "content": "With the Apple Watch Series 12 now just two months away, we have created a recap of rumored new features, with some more likely than others.\r\n\r\n\r\nBelow, we have outlined everything rumored so far for the Apple Watch Series 12.\r\n\r\nMore Likely\n\r\nNew Chip After One-Year Hiatus\n\r\nWhile the Apple Watch Series 11, Apple Watch Ultra 3, and Apple Watch SE 3 all contain the same S10 chip as the previous year's models, leaked Apple code showed the Apple Watch Series 12 will get a new chip. It is unclear if the chip will have S11 or S12 branding, but performance improvements are expected either way after a one-year hiatus.\r\n\r\nLonger Battery Life\n\r\nWith the Apple Watch Series 12, Apple is focused on longer battery life, according to a known leaker on the Chinese social media platform Weibo. Apple says the Series 11 lasts up to 24 hours on a single charge, or up to 38 hours in Low Power Mode.\r\n\r\nLess Likely\n\r\nTouch ID\n\r\nTouch ID may be coming to the Apple Watch Series 12, according to leaked Apple code.\r\n\r\nTouch ID would likely be built into the Apple Watch's side button, enabling users to unlock the device with their fingerprint instead of a passcode.\r\n\r\ndenied the rumor, and credible sources such as Bloomberg's Mark Gurman and Apple supply chain analyst Ming-Chi Kuo have yet to mention Touch ID coming to the Apple Watch this year.\r\n\r\nBand Sensors\n\r\nAnother sketchy rumor from a leaker known as Kosutami claimed that the Apple Watch Series 12 will have a band with at least one health sensor in it, which would be a first. Health sensors are built into the Apple Watch directly on all existing models.\nRelated Roundup: Apple Watch 11\nBuyer's Guide: Apple Watch (Don't Buy)\nThis article, \"Apple Watch Series 12 Launching in September With These New Features\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-20T20:00:38.000Z",
     "creator": "Joe Rossignol",
     "tags": "iOS,Rumors",
     "id": 2909
@@ -2938,65 +2998,5 @@
     "creator": "Mitchel Broussard",
     "tags": "iOS",
     "id": 2532
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple's 2026 Smart Home Lineup: New Apple TV, HomePod, and Home Hub",
-    "link": "https://www.macrumors.com/2026/07/15/apple-smart-home-lineup-rumors/",
-    "content": "Now that Siri AI is ready to launch in iOS 27, iPadOS 27, and macOS 27 Golden Gate, Apple can finally introduce new smart home products built to work with the smarter version of ‌Siri‌.\r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\nApple has multiple new home devices in development, several of which are rumored to launch before the end of the year. We're waiting on a new version of the Apple TV 4K, a smart home hub, a new HomePod, and a new HomePod mini.\r\n\r\nHome Hub\n\r\nSimilar to an iPad in design, but with a 7-inch square display. There will be a wall mount option or a speaker base option. The speaker base has a hemispherical dome, similar to the base of the iMac G4. The device will have a built-in camera for video calls, facial recognition, and presence detection. It'll run apps like Safari, Calendar, Photos, and Home, and it will integrate with ‌Siri‌ AI. Rumors suggest it could be priced around $350.\r\n\r\nApple TV 4K\n\r\nThe next ‌Apple TV‌ 4K will have the same form factor as the current model, but it's expected to have an A17 Pro chip or better that supports Apple Intelligence and ‌Siri‌ AI. There are no ‌Apple Intelligence‌ features on the ‌Apple TV‌ right now, so a more powerful chip will bring quite a few changes. It could also get more RAM and Apple's N1 networking chip for Wi-Fi 7, Bluetooth 6, and Thread.\r\n\r\nHomePods\n\r\nApple is expected to refresh both the ‌HomePod‌ and the ‌HomePod mini‌, but we're not expecting new form factors.\r\n\r\nThe speakers will get new chips that are faster and could support ‌Siri‌ AI via the iPhone like the Apple Watch. A faster processor could bring improvements in sound quality, and an upgraded Ultra Wideband chip could bring connectivity improvements and new features.\r\n\r\nThe ‌HomePod mini‌ is expected to get new colors.\r\n\r\nCameras\n\r\nApple is designing its own security camera, and it could launch as soon as this year. HomeKit Secure Video cameras are getting several upgrades in ‌iOS 27‌, including 4K video recording, AI summaries, and the option to stitch video from different cameras together for tracking a single event across rooms.\r\n\r\nAll of these features would be ideal for an Apple-created camera, so it's not hard to imagine the update is meant for Apple hardware. A 2026 launch isn't a sure thing for the camera, and it could come at a later time.\r\n\r\nThe ‌Apple Intelligence‌ Home app features require an ‌Apple TV‌ or ‌HomePod‌ to serve as a hub, and Apple's upcoming home hub will likely also serve as a hub for accessories like cameras.\r\n\r\nLaunch Timing\n\r\nWith so many home devices planned for the end of the year, we could get them alongside the new iPhone models at Apple's September event, or Apple could do a second home-centric event around the October timeframe. Apple often holds two fall events. The second event is typically for iPads or Macs, but there's no reason it couldn't be home products this year.\r\n\r\nRelated Roundups: Apple TV, HomePod\nTag: Apple Command Center\nBuyer's Guide: Apple TV (Don't Buy), HomePod (Caution)\nRelated Forum: Apple TV and Home Theater\nThis article, \"Apple's 2026 Smart Home Lineup: New Apple TV, HomePod, and Home Hub\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-16T15:10:49.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,iOS,Silicon,App Store",
-    "id": 2533
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Report: OnePlus to Pull Out of US and Europe",
-    "link": "https://www.macrumors.com/2026/07/15/report-oneplus-to-pull-out-of-us-and-europe/",
-    "content": "OnePlus is exiting the U.S. and European smartphone markets as part of a broader restructuring at parent company Oppo, Bloomberg reports.\r\n\r\n\r\nOnePlus is a wholly-owned subsidiary of Oppo. The change could happen as early as this week, according to a person familiar with the matter who spoke to Bloomberg. Realme, another Oppo-owned mobile brand, will exit the China market as part of the same restructuring. Outside China, OnePlus' withdrawal is expected to expand to the rest of the world, including India, at some point in 2027.\r\n\r\nOnePlus built a loyal following among some Android enthusiasts in its early years for pairing solid performance and lightweight software with aggressive pricing that consistently undercut Apple and Samsung by hundreds of dollars, but its influence has waned considerably in recent years.\r\n\r\ncapturing a record 20% of the global smartphone market in the second quarter of 2026 as Samsung held the top spot at 22%, according to Omdia. OnePlus, meanwhile, trails far behind smaller contenders like Motorola and Google in the U.S.\r\n\r\nfell 4.3% year-over-year in the second quarter to roughly 66 million units, the fifth consecutive quarterly decline, with Apple and Huawei the only major vendors to grow. The slowdown is tied to the same memory chip shortage that has forced Apple to raise prices across much of its product lineup, with CEO Tim Cook calling the increases \"unavoidable.\"\r\n\r\nface greater pressure than Apple and Samsung from the memory crunch, since thinner margins leave less room to absorb rising component costs, particularly in the entry-level segment where costs have jumped 20% to 30% since early 2025.\r\n\r\nTags: Bloomberg, Mark Gurman, OnePlus\nThis article, \"Report: OnePlus to Pull Out of US and Europe\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-16T15:10:49.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "General",
-    "id": 2534
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "AppleCare One warranty bundle just became an even better value for customers",
-    "link": "https://9to5mac.com/2026/07/16/applecare-one-warranty-bundle-just-became-an-even-better-value-for-customers/",
-    "content": "While Apple’s latest AppleCare+ price increase for Mac and iPad is small in isolation, it makes AppleCare One an even better value. Apple increasing the price of Mac and iPad hardware also makes warranty coverage a stronger consideration.",
-    "pub_date": "2026-07-16T15:05:12.000Z",
-    "creator": "Zac Hall",
-    "tags": "Mac,iOS",
-    "id": 2612
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "You’ll never need a USB-C cable with this brilliant 200W power bank [Review] ★★★★★",
-    "link": "https://www.cultofmac.com/reviews/reelcharge-reelpro-200w-power-bank-review",
-    "content": "Read our detailed ReelCharge ReelPro 200W Power Bank review to discover its real-world performance with Apple products. \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-07-16T15:00:34.000Z",
-    "creator": "Ed Hardy",
-    "tags": "Mac",
-    "id": 2624
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Hands-on: Satechi’s new color-matched MacBook Neo accessories add ports and extra functionality",
-    "link": "https://9to5mac.com/2026/07/16/hands-on-satechis-new-color-matched-macbook-neo-accessories-add-ports-and-extra-functionality/",
-    "content": "A few months back, the MacBook Neo took the tech world by storm, delivering the best-value laptop of 2026. Even after the recent price increase, it remains the most recommended entry-level laptop for most people. And just like Apple’s other cost-effective products, they brought some playful colors into the mix, like Citrus, Blush, Indigo, and Silver, giving these MacBooks a pop of personality and color. But one gripe I had was that most MacBook accessories are color-matched to the traditional silver or space grey colors. That is where Satechi comes in with their new trio of color-matched accessories for the MacBook Neo. They add more ports, connectivity, and functionality without taking away from what makes the Neo visually unique. Here is what you should know!",
-    "pub_date": "2026-07-16T15:00:00.000Z",
-    "creator": "Fernando Silva",
-    "tags": "Mac",
-    "id": 2613
-  },
-  {
-    "source_name": "Macworld",
-    "title": "2027 iPad: Everything we know about Apple’s next entry-level tablet",
-    "link": "https://www.macworld.com/article/3030272/2026-ipad-a19-design-display-specs-release-price.html",
-    "content": "Macworld\n\n\nRumors about Apple’s 2027 iPads point to faster chips and potential display improvements across the range, from the iPad Air (updated in March 2026) to the Pro (last updated in October 2025). Yet for most buyers, the most important update may be coming to the most affordable model.\nThe entry-level iPad–Apple’s cheapest tablet and the one aimed at students and families–is reportedly set to receive a performance boost that will finally enable Apple Intelligence features in an update that could arrive in early 2027.\nThe current iPad was released in March 2025, and while it’s a perfectly good iPad for most people, it’s the only iPad that doesn’t support Apple Intelligence. Apple’s 2027 update should address that shortcoming. \nHere’s everything you need to know about the new iPad. \nWhat’s new vs 2025 iPad A16: At a glance\n\n2027 iPad predictions2025 iPad\n\nLaunch dateEarly 2027March 2025\nProcessor A18 (maybe A19) A16 \nRAM8GB6GB\nWi-Fi  Wi-Fi 7 Wi-Fi 6\nBluetooth Bluetooth 6Bluetooth 5.3\nApple IntelligenceYesNo\nDesignUnchangedUnchanged\n\n\n\n\n\n\n\n\n2027 iPad release date: When will Apple launch the next entry-level iPad?\nEarly 2027 launch predicted\nIn a July 2026 report, Bloomberg’s Mark Gurman said that Apple has scheduled the release of the entry-level iPad for “as early as the first calendar quarter next year.” Previously, Gurman reported that the new entry-level iPad is “on the roadmap for a release in the iOS 26.4 timeframe, which runs until May.” Apple released iOS 26.4 on March 24, and the iPad was not released.\nWhy the later ship date? It’s possible that Apple needs to ensure sufficient supply of whichever chip it chooses (A18, A19, or A20) and may also be waiting for its Apple Intelligence features to be fully ready. This includes ongoing work to improve next-generation Siri AI, which is part of the iPadOS 27 update that will be released in the fall.\nA delay is more likely to be strategic than technical. Apple did not update the base iPad during its March 2026 launch event, despite releasing the M4 iPad Air. Holding back the entry-level iPad helps avoid cannibalising sales of more expensive models, and staggered releases like this are typical of Apple’s product strategy.\nShould you wait? \nWe recommend waiting for the 2027 iPad if you’re considering an upgrade. The next-generation iPad is expected to deliver a meaningful upgrade with a faster chip, more RAM, and support for Apple Intelligence, making it a much more future-proof choice.\n\n\n\n\n\n\n\n2027 iPad chip: Will the new iPad use the A18 or A19 chip?\nA18 chip most likely\n6-core CPU and 5-core GPU\nN1 chip for Wi-Fi 6E/7 and Bluetooth 6\nThe biggest upgrade coming to the 2027 iPad will be a new processor, but reports are divided on exactly which chip Apple will use.\nMost evidence points to the A18 chip, which debuted in the iPhone 16 and 16 Plus in 2024. In March 2026, Bloomberg’s Mark Gurman reported that the new iPad is “ready to go” with an A18, making it the most likely candidate. The A18 would also enable Apple Intelligence, something the current A16-powered iPad cannot support.\nHowever, there is still a possibility that Apple could opt for the A19 chip instead. As we reported in December 2025, a code-leak suggested that Apple had been testing new iPad models (codenamed J581 and J582) equipped with the same A19 chip expected in the iPhone 17 lineup. \nFor now, the balance of evidence leans toward the A18 as the more realistic choice. Reports of A18 Pro shortages (linked to the popularity of the MacBook Neo) are unlikely to affect supply of the standard A18 chip if Apple chooses to use that in the new iPad.\nWhat to expect\nA18 chip: Expected to feature a 6-core CPU and a 5-core GPU, similar to its implementation in recent iPhones. Apple may use a “binned” version with one fewer CPU or GPU core, a common strategy to improve manufacturing yields and differentiate products. The A18 should deliver a 30–40 percent performance boost over the A16, along with 8GB of RAM (up from 6GB), enabling support for Apple Intelligence.\nA19 chip: Expected to feature a 6-core CPU and a 5-core GPU in the iPhone 17. Apple could use the same configuration or a slightly reduced “binned” version for the iPad. The A19 would offer an even larger jump—around 50 percent faster than the A16—while also including 8GB of RAM, which is essential for Apple Intelligence features.\nOther specs\nApple is also expected to bring its new N1 connectivity chip to the iPad. First introduced with the iPhone 17 lineup, the N1 handles Wi-Fi, Bluetooth, and Thread connectivity. Its inclusion could upgrade the iPad to Wi-Fi 6E or even Wi-Fi 7, along with Bluetooth 6.x, up from the current Wi-Fi 6 and Bluetooth 5.3.\nFor cellular models, Apple will likely use its in-house C1 modem (or a variant of it), continuing its shift away from third-party suppliers while improving efficiency and integration.\n\n\n\n\n\n\n\nWhy does Apple Intelligence matter for the iPad? \nApple Intelligence introduces a range of AI-powered features designed to enhance creativity, productivity, and real-time communication, including:\nImage Generation: Tools like Image Playground and Genmoji allow users to create custom visuals and personalized emojis from text prompts.\nLive Translation: Integrated into FaceTime and Messages, this feature provides real-time translated captions during calls, effectively giving every user a personal translator.\nPhoto Editing: The “Clean Up” tool uses AI to identify and remove unwanted background objects from photos, a task that previously required complex manual editing.\nWriting Tools: System-wide rewriting, proofreading, and summarization in apps such as Mail and Notes. \nSmart Shortcuts: Automation of repetitive tasks using intelligent actions and text summarization. \nPriority Management: AI-driven Priority Notifications and Priority Inbox to surface time-sensitive information.\nThese features require at least 8GB of RAM and a more powerful Neural Engine, which means Apple Intelligence is currently limited to M-series iPads (Air and Pro) and the A17 Pro iPad mini.\nBy contrast, the standard iPad with the A16 chip (released in March 2025) does not support Apple Intelligence. This is a notable limitation for long-term value, especially as future versions of iPadOS are expected to rely increasingly on AI-driven features.\n\n\n\n\n\n\n\n2027 iPad display: No OLED or ProMotion\nSame 10.9-inch LCD\nNo OLED display\nNo ProMotion \nWhile there are reports that the other iPads (mini, Air and Pro) could get new OLED panels with richer colors and deeper contrast in 2027, the base model is unlikely to evolve from its LCD panel.\nWe expect the upcoming iPad to have the same 11-inch Liquid Retina display 2360-by-1640 display with 500 nits of brightness and 60Hz refresh rate that it has had since 2022.\n\n\n\n\n\n\n\n2027 iPad design: No new design\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple currently offers the iPad in four colors.\n\nApple\n\n\n\n\nThe A19 iPad is also expected to have the same dimensions: 9.79 x 7.07 x 0.28 inches (248.6 x 179.5 x 7 millimeters) and weigh 1.05 pounds (477 grams). \nWe haven’t heard anything about new colors, but since Apple hasn’t changed the color palette (blue, pink, yellow, silver) since its original release, it’s possible we get a couple of new options.\n\n\n\n\n\n\n\n2027 iPad cameras: Will Apple update the FaceTime camera?\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nBritta O’Boyle\n\n\n\n\n\n12MP rear camera \n12MP Center Stage front camera \nThe current iPad has two 12MP cameras, with the front ‘FaceTime’ camera having support for Center Stage. Apple isn’t expected to make changes to the camera for the upcoming iPad. \nHowever, the company did change the Centre Stage camera with the arrival of the iPhone 17, and the new ‘square’ 18MP camera could be used on the front of the new iPad. \nThis front-facing camera has a larger, square sensor that supports automatic subject framing, orientation-agnostic capture, and advanced video features. On the iPad the 18MP camera could translate to improved video quality. However, current iPads already support smart framing during video calls so that aspect of the design may not be necessary. \n\n\n\n\n\n\n\n2027 iPad price: Will Apple keep the entry-level iPad affordable?\nAfter launching at $449 in 2022, Apple cut the price of the entry-level iPad to $349 in May 2024, and doubled the starting storage from 64GB to 128GB with the 11th-gen model. However, in June 2026, Apple raised the price back to the to $449 level due to supply-chain shortages. It’s possible that Apple could raise the price again.",
-    "pub_date": "2026-07-16T14:54:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS,Rumors,Silicon",
-    "id": 2637
   }
 ]
