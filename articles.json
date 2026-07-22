@@ -1,5 +1,45 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "Apple Store app Virtual Shopping Assistant could be coming soon",
+    "link": "https://appleinsider.com/articles/26/07/22/apple-store-app-virtual-shopping-assistant-could-be-coming-soon?utm_source=rss",
+    "content": "The privacy policy for the Apple Store app suggests that a new feature called Virtual Shopping Assistant could be implemented soon. It may function similarly to the Apple Support Assistant.\n\n\nApple Support already has a chatbot, and soon, Apple Store will too\nApple has been slowly increasing its use of AI tools both internally and in public-facing apps. While Apple still relies on humans for some support inquiries, AI is being offered in more locations.\nIt seems Apple may have let slip that a new feature is coming to the Apple Store app. The Virtual Shopping Assistant feature is called out in the Apple Store app privacy policy, which was first spotted by MacRumors.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-22T21:50:29.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "App Store",
+    "id": 3148
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple Store app may soon get an AI-powered shopping assistant",
+    "link": "https://9to5mac.com/2026/07/22/apple-store-app-may-soon-get-an-ai-powered-shopping-assistant/",
+    "content": "Apple has updated the Apple Store app’s privacy policy, adding terms regarding a yet-to-be-released virtual shopping assistant. Here are the details.",
+    "pub_date": "2026-07-22T20:56:34.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "App Store",
+    "id": 3146
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Here’s everything new for CarPlay in iOS 27",
+    "link": "https://9to5mac.com/2026/07/22/heres-everything-new-for-carplay-in-ios-27/",
+    "content": "iOS 27 is launching this fall, and it brings a handful of improvements for CarPlay. Here’s everything new for CarPlay in iOS 27.",
+    "pub_date": "2026-07-22T20:42:20.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 3147
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Store App Getting AI Shopping Assistant",
+    "link": "https://www.macrumors.com/2026/07/22/apple-store-app-shopping-assistant/",
+    "content": "Apple's privacy policy for the Apple Store app suggests it will soon get a virtual shopping assistant to help users decide what to purchase.\r\n\r\n\r\nThe app will have a chat interface where users can ask questions about Apple products, with Apple using data like account information, device identifiers, chat information, carrier information, and location data to offer a personalized experience. Transcripts of chats are saved for later reference.\r\n\r\nApple says that information is sent to its \"partners\" to help Apple provide a conversational response, which suggests Apple might be using a third-party AI model for the virtual assistant.\r\nWhere the Apple Store app virtual shopping assistant is available, Apple collects and stores your account information, device identifiers, carrier information, chat information, and where enabled, location data to personalize the chat experience, provide relevant responses, and if you opt in, to improve the virtual shopping assistant. Before sharing the chat with our partners, Apple scrubs personal identifiers from it. These partners will use this information only to help Apple to provide a conversational response. Apple will save these transcripts to make them available when you return to the Apple Store app, for our business analytics, and if you opt in, to improve the virtual shopping assistant.\n\r\nThe virtual shopping assistant interface is not live in the ‌Apple Store‌ app yet, though it is possible Apple is testing the feature with some users. Apple also added a virtual assistant to its Apple Support app, but that feature still hasn't rolled out to everyone.\nTag: Apple Store\nThis article, \"Apple Store App Getting AI Shopping Assistant\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-22T20:25:51.000Z",
+    "creator": "Juli Clover",
+    "tags": "App Store",
+    "id": 3145
+  },
+  {
     "source_name": "9to5Mac",
     "title": "Apple promotes two limited-time offers to save on new products",
     "link": "https://9to5mac.com/2026/07/22/apple-promotes-two-limited-time-offers-to-save-on-new-products/",
@@ -183,7 +223,7 @@
     "source_name": "MacRumors",
     "title": "Next Mac Mini Will Reportedly Have Mismatched M6 and M5 Pro Chips",
     "link": "https://www.macrumors.com/2026/07/22/mac-mini-m6-m5-pro-chips-rumor/",
-    "content": "Apple is testing new Mac mini configurations with mismatched M6 and M5 Pro chips, according to Bloomberg's Mark Gurman, but he did not provide a release timeframe.\r\n\r\nupdated the Mac Studio with mismatched M4 Max and M3 Ultra chips.\nThis article, \"Next Mac Mini Will Reportedly Have Mismatched M6 and M5 Pro Chips\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "content": "Apple is testing new Mac mini configurations with generationally mismatched M6 and M5 Pro chips, according to Bloomberg's Mark Gurman, but he did not provide a release timeframe.\r\n\r\nupdated the Mac Studio with mismatched M4 Max and M3 Ultra chips.\nThis article, \"Next Mac Mini Will Reportedly Have Mismatched M6 and M5 Pro Chips\" first appeared on MacRumors.com\nDiscuss this article in our forums",
     "pub_date": "2026-07-22T17:04:46.000Z",
     "creator": "Joe Rossignol",
     "tags": "Mac,Silicon",
@@ -2958,45 +2998,5 @@
     "creator": "Hartley Charlton",
     "tags": "iOS",
     "id": 2705
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "What will you do if Apple’s higher pricing turns out to be permanent? [Poll]",
-    "link": "https://9to5mac.com/2026/07/17/what-will-you-do-if-apples-higher-pricing-turns-out-to-be-permanent-poll/",
-    "content": "When Apple finally responded to the dramatically increased costs of memory and other components, the company didn’t hold back. Some of the price hikes exceeded 50%, while memory and storage upgrades literally doubled in some cases.\nThere’s a strong possibility that these higher prices will remain in effect for years, and quite possibly permanently …",
-    "pub_date": "2026-07-17T16:00:00.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "General",
-    "id": 2714
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Grab a 24,000mAh Anker portable charger for just $35 at Woot",
-    "link": "https://www.macworld.com/article/3193882/grab-a-24000mah-anker-portable-charger-for-just-35-at-woot.html",
-    "content": "Macworld\n\n\nAnker 24,000 mAh power bank\nView Deal\nIf you’re looking for a power bank that can handle your iPhone, iPad, and even your MacBook Air, you usually need to spend at least $50. Not today: This Anker 24,000mAh 65W Portable Power Bank is just $35 today at Woot, half off its $70 MSRP.\nWith a massive 24,000mAh capacity, this power bank delivers roughly one full MacBook charge or about 4-5 charges for your smartphone. It’s more than enough to cover everything you need when you’re on the go, so you don’t have to look for a wall socket.\nThe charging setup holds up nicely, too. You get 65W total output across two USB-C ports, so you can power two devices at once. Recharging the pack itself is quick as well, as a 30W input tops it off in about 4.5 hours. That’s not super fast if you’re in a hurry, but if you plug it in overnight, you’ll even forget about it.\nYou have to be aware of a couple of things before buying. First of all, the two ports split power unevenly. One USB-C port maxes out at 45W, while the other caps at 20W. Therefore, you have to be well aware of how you’re distributing charging power on the go. This is also a no-frills battery, so you’ll need to bring your own cables. \nFor the price, those trade-offs are easy to live with. You’re paying for raw capacity and dependable output, not extra bells and whistles. At $35, this is a smart pick if you want big, reliable power for travel. Grab it while this deal still lasts.",
-    "pub_date": "2026-07-17T15:36:18.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS",
-    "id": 2728
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Deals: AirPods Pro 3, Magic Keyboard all-time low, iPhone 17 Pro Max up to $449 off, ChargeKey tool, more",
-    "link": "https://9to5mac.com/2026/07/17/deals-airpods-pro-3-magic-keyboard-iphone-17-pro-max/",
-    "content": "We are kicking of Friday’s deals with the ongoing $50 price drop on AirPods Pro 3, the best price in months on AirPods 4 with ANC, and a chance to score them from $119, but we also have this Apple Watch Series 11 cell model at $130 off and Apple’s latest Magic Keyboard with Touch ID and Numeric Keypad still down at its best price ever. You can land iPhone 17 Pro Max at up to $449 off and this base M5 MacBook Pro 1TB with the 96W Apple charger upgrade at $170 off alongside Nomad’s USB-C keychain charging and data transfer tool and deals on almost all of the brand’s Apple Watch bands at up to 25% off. Check it out below.",
-    "pub_date": "2026-07-17T15:29:33.000Z",
-    "creator": "Justin Kahn",
-    "tags": "Mac,iOS,Silicon",
-    "id": 2715
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "The MacRumors Show: iPhone XX? Next Year's Major Upgrades Will Change Everything",
-    "link": "https://www.macrumors.com/2026/07/17/the-macrumors-show-iphone-xx/",
-    "content": "This week's episode of The MacRumors Show looks ahead to the 20th anniversary iPhone, the radically redesigned model that Apple is expected to launch in 2027.\r\n\r\nSubscribe to The MacRumors Show YouTube channel for more videos\n\r\n\r\n\"iPhone XX\" as placeholder names, and it is still possible that they will sit above the iPhone 18 Pro and 18 Pro Max as a separate, higher-tier directly, even though they are more likely to replace them as usual. Apple has reset iPhone branding before with the iPhone Air, whose successor is expected to be the iPhone Air 2.\r\n\r\nbiggest redesign since the iPhone X. Apple is reportedly aiming for a near bezel-less design with curved glass that wraps around all four edges and a return to a glass back, in line with the single slab of glass that former design chief Jony Ive long described as a goal. The frame is said to be a thin polished band, potentially in a material other than the aluminum used on Apple's straight-edged models, with the display curving onto the sides rather than following one consistent curve.\r\n\r\ncurve down the sides can be prone to accidental touches, an issue seen on earlier Android handsets with waterfall edges, though Apple is expected to engineer the device to work with a case. The extent of the curvature, and how far the display appears to refract at the edges, is not yet clear.\r\n\r\nunder-display technology is unlikely to be ready in time, meaning some form of front-facing cutout is expected to persist. Current reporting points to a gradually shrinking Dynamic Island, Face ID components moving beneath the panel, and an under-display camera arriving last, since image quality still degrades when a lens sits behind the display.\r\n\r\nsolid-state haptic buttons, reviving the \"Project Bongo\" effort that reached prototype hardware years ago before being shelved. Reports have cited several potential motivations, including a cleaner frame with no moving parts, a reduction in the mechanical button failures that account for many AppleCare repairs, and additional internal space for a larger battery or additional haptic engine.\r\n\r\ncustom image sensor that would replace the Sony sensors currently used across the iPhone lineup, following the company's move to bring its silicon, modem, Wi-Fi, and Bluetooth chips in-house. The rear camera plateau is likely to remain, owing to the space required by the folded optics used for the telephoto lens.\r\n\r\nA21 chip, along with efficiency gains and a newer Apple modem. A 6,000mAh battery has appeared in some rumors, though it is unclear whether that figure is based on supply chain information.\r\n\r\nMagSafe battery pack through their wireless coil, but Apple has never enabled the capability for other devices, a feature Samsung has offered on its phones for several years. Its viability on the anniversary model may depend on the larger battery and efficiency gains rumored for the device, given how much charge reverse wireless charging draws from the handset itself.\r\n\r\niPhone 18, iPhone 18e, and ‌iPhone Air‌ 2 in the spring. The MacRumors Show has its own YouTube channel, so make sure you're subscribed to keep up with new episodes and clips.\r\n\r\n\nSubscribe to The MacRumors Show YouTube channel!\n\n\r\n\r\nApple Podcasts, Spotify, Overcast, or other podcast apps. You can also copy our RSS feed directly into your player.\r\n\r\n\n\r\n\r\nprevious episode of The MacRumors Show, catch up to hear our discussion about the future of Apple's increasingly tangled high-end MacBook lineup, including the entry-level MacBook Pro and the rumored \"MacBook Ultra.\"\r\n\r\nMacRumors, often joined by interesting guests such as Kayci Lacob, Kevin Nether, John Gruber, Mark Gurman, Jon Prosser, Luke Miani, Matthew Cassinelli, Brian Tong, Quinn Nelson, Jared Nelson, Eli Hodapp, Mike Bell, Sara Dietschy, iJustine, Jon Rettinger, Andru Edwards, Arnold Kim, Ben Sullins, Marcus Kane, Christopher Lawley, Frank McShan, David Lewis, Tyler Stalman, Sam Kohl, Federico Viticci, Thomas Frank, Jonathan Morrison, Ross Young, Ian Zelbo, and Rene Ritchie.\r\n\r\n@MacRumorsShow, so be sure to give us a follow to keep up with the podcast. You can also email us at podcast@macrumors.com or head over to The MacRumors Show forum thread. Remember to rate and review the podcast, and let us know what subjects and guests you would like to see in the future.\nTag: The MacRumors Show\nThis article, \"The MacRumors Show: iPhone XX? Next Year's Major Upgrades Will Change Everything\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-17T15:28:24.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "Mac,iOS",
-    "id": 2706
   }
 ]
