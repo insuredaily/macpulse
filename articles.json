@@ -1,5 +1,95 @@
 [
   {
+    "source_name": "MacRumors",
+    "title": "iPhone Driver's Licenses May Soon Expand to New State",
+    "link": "https://www.macrumors.com/2026/07/23/iphone-drivers-licenses-utah/",
+    "content": "Driver's licenses and IDs may soon be available in Apple Wallet for iPhone and Apple Watch users who live in Utah. MacRumors discovered signs of a Utah ID in Apple's backend, suggesting Apple is moving forward on implementing support.\r\n\r\n\r\nUtah already offers a mobile driver's license option through a standalone app, but there is no Apple Wallet integration. Utah's mobile driver's license FAQ page still says that it is still in the initial planning process of adding Utah IDs to Apple Wallet, but it may not be up to date.\r\n\r\nThe site also says that when Apple Wallet integration launches, iPhone users who already use the mobile app for their Utah ID will be able to download it to Apple Wallet.\r\n\r\nApple announced plans to add Utah driver's licenses and IDs to the Apple Wallet app way back in 2021, but no integration has materialized. Utah was one of the first states Apple mentioned when rolling out the feature.\r\n\r\nOther states planning to add support for driver's licenses in Apple Wallet include Connecticut, Kentucky, Mississippi, Oklahoma, and Virginia.\r\n\r\nMultiple states have already implemented support, as has Puerto Rico.\r\n\r\n \t\nArkansas\n\r\n \t\nArizona\n\r\n \t\nCalifornia\n\r\n \t\nColorado\n\r\n \t\nGeorgia\n\r\n \t\nHawaii\n\r\n \t\nIllinois\n\r\n \t\nIowa\n\r\n \t\nMaryland\n\r\n \t\nMontana\n\r\n \t\nNew Mexico\n\r\n \t\nNorth Dakota\n\r\n \t\nOhio\n\r\n \t\nWest Virginia\n\r\n\r\nDigital IDs and licenses are accepted at select TSA checkpoints across the United States. It can also be used at some business venues and in select apps that require ID verification for services or purchases.\r\n\r\niOS 26 Digital ID feature.\nTag: Apple Wallet\nThis article, \"iPhone Driver's Licenses May Soon Expand to New State\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-23T20:58:38.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,App Store",
+    "id": 3226
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Opera One browser joins the vertical tab club, expands Google Lens integration",
+    "link": "https://9to5mac.com/2026/07/23/opera-one-browser-joins-the-vertical-tab-club-expands-google-lens-integration/",
+    "content": "Opera announced two new features for its desktop browser today: optional vertical tabs and expanded Google Lens integration. Here are the details.",
+    "pub_date": "2026-07-23T20:35:12.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 3227
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Here’s everything new for Messages in iOS 27",
+    "link": "https://9to5mac.com/2026/07/23/heres-everything-new-for-messages-in-ios-27/",
+    "content": "iOS 27 adds new features across many system apps, like Wallet, Calendar, Music, and Maps. Here’s what’s new for the Messages app in iOS 27.",
+    "pub_date": "2026-07-23T20:34:08.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS,App Store",
+    "id": 3228
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iPhone 18 Pro: Three reasons you might want to upgrade from iPhone 17 Pro",
+    "link": "https://9to5mac.com/2026/07/23/iphone-18-pro-three-reasons-you-might-want-to-upgrade-from-iphone-17-pro/",
+    "content": "iPhone 18 Pro is just a couple months away, and while most iPhone 17 Pro owners won’t upgrade so soon, for those considering a new iPhone there are three main features likely to motivate them.",
+    "pub_date": "2026-07-23T20:22:10.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 3229
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "ChatGPT and Codex are currently down for some users",
+    "link": "https://9to5mac.com/2026/07/23/chatgpt-and-codex-are-currently-down-for-some-users/",
+    "content": "OpenAI’s system status page confirms that some users are encountering elevated error rates when trying to use ChatGPT and Codex. Here are the details.",
+    "pub_date": "2026-07-23T20:05:08.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 3230
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iPhone leasing, Apple Music price increase, iOS 27 beta 4",
+    "link": "https://9to5mac.com/2026/07/23/happy-hour-600/",
+    "content": "Benjamin and Chance talk about the last week in Apple News, including the rumored new ‘Apple Upgrade’ leasing program, Apple Music price hike, iOS 27 beta 4 changes, an OLED screen roadmap for future Macs and iPads, and next-gen Apple Pencils with replaceable batteries.\nAnd in Happy Hour Plus, Apple and Ford announce a new partnership to bring Apple Music directly into the car infotainment system. Subscribe at 9to5mac.com/join.\nSponsored by Shopify: All you need is the idea. Shopify handles the rest. Start your free trial at shopify.com/happyhour.\nSponsored by Framer: The only free design tool that brings your ideas to the web. Visit framer.com/happyhour for 30% off a Framer Pro annual plan.\nSponsored by Keeper: Get 60% off personal and family plans at keepersecurity.com/HAPPYHOUR.",
+    "pub_date": "2026-07-23T20:00:00.000Z",
+    "creator": "Chance Miller",
+    "tags": "iOS,Services",
+    "id": 3231
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Report: iPhone Ultra set to account for 25% of foldable smartphone shipments in 2026",
+    "link": "https://9to5mac.com/2026/07/23/report-iphone-ultra-set-to-account-for-25-of-foldable-smartphone-shipments-in-2026/",
+    "content": "Counterpoint Research is out with a new report forecasting 21% year-over-year growth in global foldable smartphone shipments in 2026, with Apple expected to capture a 25% share following its entry into this market. Here are the details.",
+    "pub_date": "2026-07-23T19:49:23.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 3232
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "OpenAI updating ChatGPT desktop app with GPT Voice for talking through work",
+    "link": "https://9to5mac.com/2026/07/23/openai-updating-chatgpt-desktop-app-with-gpt-voice-for-talking-through-work/",
+    "content": "OpenAI is releasing a big update to the ChatGPT desktop app today that introduces GPT Voice mode for talking through work to complete tasks. The new feature is powered by GPT-Live, OpenAI’s upgraded voice mode that arrived on mobile this month.",
+    "pub_date": "2026-07-23T19:36:11.000Z",
+    "creator": "Zac Hall",
+    "tags": "App Store",
+    "id": 3233
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Geekbench 7 is out now with new, modern workloads and better multi-core tests",
+    "link": "https://www.macworld.com/article/3198338/geekbench-7-is-out-now-with-new-modern-workloads-and-better-multi-core-tests.html",
+    "content": "Macworld\n\n\nIt’s not easy to make a quick, reliable benchmark that works across architectures and operating systems. There’s a reason Geekbench has been sort of the gold standard for comparing overall CPU performance over the years, and to a lesser degree, GPU compute performance.\nOn Thursday, around three years after the release of Geekbench 6, Primate Labs is releasing Geekbench 7. To better represent the demands of modern applications, it includes new workload tests, a redesigned multi-core benchmark, and a new GPU benchmark. The benchmarks operate on larger data sets as well, again better representing the demands of modern applications.\nNew media workloads include encoding screen-sharing video with the AV1 codec, compressing music and speech with the Opus audio codec, and decoding audio and video while using the Whisper speech recognition model to generate live captions. Other new test include Game Physics, an updated Photo editing test, and new Photo library tests that processes JPEG XL and DNG formats.\nThe multi-core tests are especially changed, redesigned to “better reflect how real applications behave,” according to Primate Labs. Instead of forcing a series of exclusively multi-threaded tasks, which produces a distorted view of performance, the Geekbench 7 tests only include tests in the multi-threaded benchmark if it’s highly multi-threaded in real life.\nThe example Primate Labs gives is the HTML5 Browser test–web browsers and the tasks they run are typically highly dependent on single-thread performance, so it’s not included in the multi-threaded tests.\nThe GPU benchmarks are still focused on the compute applications for GPUs rather than on real-time 3D graphics rendering, but the types of applications have evolved. The tests now focus on the content creation and machine learning uses of GPUs, since those dominate GPU compute applications. For example: tracking faces in video, upscaling images using machine learning algorithms, or blurring the background of a video chat.\nHere at Macworld, we’ll be using Geekbench 7 to benchmark new Apple hardware moving forward, while still including Geekbench 6 for a while to provide comparisons against older hardware.\nScores are not comparable between versions. We quickly ran Geekbench 7 on an M5 MacBook Air, and got a single-core CPU score of 3,608 and a multi-core score of 17,470. That compares to 4,164 and 16,995 on Geekbench 6.6. The GPU benchmark, using the Metal API, scored 72,514 on Geekbench 7 and 76,377 on Geekbench 6.6.\nYou can download Geekbench 7 for Mac from Primate Labs’ website, and Geekbench 7 for iPhone and iPad from the App Store. At the time of publishing, the App Store version does not yet appear to be available, but should be coming soon.",
+    "pub_date": "2026-07-23T19:22:46.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,iOS,Silicon,App Store",
+    "id": 3235
+  },
+  {
     "source_name": "AppleInsider",
     "title": "OpenAI sued after ChatGPT used religious faith to convince a man to not talk to a doctor",
     "link": "https://appleinsider.com/articles/26/07/23/openai-sued-after-chatgpt-used-religious-faith-to-convince-a-man-to-not-talk-to-a-doctor?utm_source=rss",
@@ -2908,95 +2998,5 @@
     "creator": "Macworld",
     "tags": "Mac,iOS,Rumors,Silicon,App Store",
     "id": 2826
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Get Word, Excel, PowerPoint, and more for a one-time fee of $40",
-    "link": "https://www.macworld.com/article/3192993/get-word-excel-powerpoint-and-more-for-a-one-time-fee-of-40.html",
-    "content": "Macworld\n\n\nTL;DR: Get Microsoft Office for life for $40. Sale ends July 26.\nMicrosoft 365 charges a subscription fee every year. You could cancel, but you wouldn’t have a single thing to show for all the money you’ve spent. If you want a simpler alternative, Microsoft Office now comes in a lifetime license, and it’s only $39.97 right now (reg. $219).\nThis license includes Word, Excel, PowerPoint, Outlook, Teams, and OneNote. You install the suite on one Mac and keep it for good, with updates included and no annual renewal fee.\nThe license connects to your Microsoft account rather than the Mac itself. This is a digital purchase, so your license key and download link arrive by email right after you check out.\nMicrosoft Office is a little different from Microsoft 365. The apps live directly on your computer and don’t require an internet connection. They also don’t have all the new AI integrations, which may be a welcome reprieve for some users who prioritize a clean, reliable set of tools over new AI functions that are still being refined.\nCancel Microsoft 365.\nUntil July 26 at 11:59 p.m. PT, you can get Microsoft Office for life for $39.97.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nMicrosoft Office Home & Business for Mac 2021: Lifetime LicenseSee Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-07-20T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,Services",
-    "id": 2827
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Apple planned a monster Mac Pro, then killed it",
-    "link": "https://www.cultofmac.com/news/apple-planned-monster-mac-pro-then-killed-it",
-    "content": "Apple explored Extreme chips and other ambitious Mac Pro upgrades before scrapping the machine altogether due to high costs and weak demand.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-07-20T06:44:50.000Z",
-    "creator": "Rajesh Pandey",
-    "tags": "Mac",
-    "id": 2828
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Testing New 'Live Notes' Feature at Genius Bar",
-    "link": "https://www.macrumors.com/2026/07/19/apple-testing-live-notes-feature-at-genius-bar/",
-    "content": "Apple is testing a new AI-powered \"Live Notes\" feature that can transcribe conversations between Genius Bar employees and customers at some of its stores, according to Bloomberg's Mark Gurman. The system is currently opt-in, meaning it is only active if both the employee and customer agree to use it.\r\n\r\nThis article, \"Apple Testing New 'Live Notes' Feature at Genius Bar\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-20T01:59:22.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "General",
-    "id": 2815
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Car Key Support Coming to Future GWM Tank SUVs",
-    "link": "https://www.macrumors.com/2026/07/17/apple-car-key-support-gwm-tank-suvs/",
-    "content": "Apple's Car Keys feature appears to be coming to TANK vehicles made by Chinese maker Great Wall Motor (GWM), based on code changes discovered by MacRumors in Apple's Wallet app backend.\r\n\r\n\r\nGWM Tank is a dedicated off-road luxury SUV brand produced by the Chinese automaker.\r\n\r\nCar Keys allows an iPhone or Apple Watch with NFC capabilities to unlock a vehicle through the Wallet app. A digital version of a car key is stored in Wallet, and unlocking can be done simply by holding an Apple Watch or ‌iPhone‌ near a compatible vehicle's NFC reader.\r\n\r\nWhat can be done with Car Keys may vary by car manufacturer, but at a minimum, Car Keys can be used to unlock your car, lock your car, and start your car, which are the features available with a physical key.\r\n\r\nCarPlay model availability webpage.\nTag: iPhone Car Keys\nThis article, \"Apple Car Key Support Coming to Future GWM Tank SUVs\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-20T01:40:39.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "iOS,App Store",
-    "id": 2683
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iOS 27 makes your iPhone faster in 30+ ways",
-    "link": "https://9to5mac.com/2026/07/19/ios-27-makes-your-iphone-faster-in-30-ways-heres-the-full-list/",
-    "content": "The iOS 27 public beta is now available, and one of the big changes is that it makes your iPhone a lot faster. In fact, Apple has outlined more than 30 ways in which your iPhone will be faster after you update.",
-    "pub_date": "2026-07-19T23:07:19.000Z",
-    "creator": "Chance Miller",
-    "tags": "iOS",
-    "id": 2816
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple testing ‘Live Notes’ AI system to record Genius Bar sessions: report",
-    "link": "https://9to5mac.com/2026/07/19/apple-testing-live-notes-ai-system-to-record-genius-bar-sessions-report/",
-    "content": "Apple is reportedly piloting a new “Live Notes” system at some of its retail locations. This system uses AI to record and transcribe Genius Bar sessions with customers, according to a new report.",
-    "pub_date": "2026-07-19T22:40:39.000Z",
-    "creator": "Chance Miller",
-    "tags": "General",
-    "id": 2817
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Sunday Reboot: Shrinking models and an on-device AI future",
-    "link": "https://appleinsider.com/articles/26/07/19/sunday-reboot-shrinking-models-and-an-on-device-ai-future?utm_source=rss",
-    "content": "In this week's Sunday Reboot, Apple's AI model-shrinking talk could have massive benefits, with a chance of also being a billion-dollar deal if it plays its cards right.\n\n\nOn-device AI processing will be a big thing in the coming years if Apple bets right. \nSunday Reboot is a weekly column covering some of the lighter stories within the Apple reality distortion field from the past seven days. All to get the next week underway with a good first step.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-19T20:12:40.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "General",
-    "id": 2814
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple’s scrapped Mac Pro plans reportedly included a new Intel model",
-    "link": "https://9to5mac.com/2026/07/19/apples-scrapped-mac-pro-plans-reportedly-included-an-intel-model/",
-    "content": "In March, Apple announced it was discontinuing the Mac Pro and confirmed that it had no plans to offer future Mac Pro hardware.\nA new report from Bloomberg today offers more context on Apple’s Mac Pro strategy, with a surprising tidbit on something Apple was working on …",
-    "pub_date": "2026-07-19T20:10:46.000Z",
-    "creator": "Chance Miller",
-    "tags": "Mac",
-    "id": 2813
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "WhatsApp Begins Rolling Out New Username Feature",
-    "link": "https://www.macrumors.com/2026/07/17/whatsapp-rolling-out-new-username-feature/",
-    "content": "WhatsApp has started rolling out its new username feature, reports WABetaInfo. Some users who reserved their username have started receiving a notification that their username is active, and that they can now use it to send and receive messages to other users without revealing their phone number.\r\n\r\nTag: WhatsApp\nThis article, \"WhatsApp Begins Rolling Out New Username Feature\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-19T19:03:17.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "General",
-    "id": 2684
   }
 ]
