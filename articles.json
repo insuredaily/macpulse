@@ -1,5 +1,25 @@
 [
   {
+    "source_name": "Cult of Mac",
+    "title": "WhatsApp supercharges its iPad and CarPlay apps",
+    "link": "https://www.cultofmac.com/news/whatsapp-supercharges-ipad-carplay-apps",
+    "content": "WhatsApp’s latest feature drop brings account sign-ups to the iPad, a major CarPlay upgrade and music sharing through Status.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-23T04:19:48.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac,iOS",
+    "id": 3156
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "MacBook Neo 2: Here’s everything we know so far",
+    "link": "https://9to5mac.com/2026/07/22/macbook-neo-2-features-release-date/",
+    "content": "Apple released the all-new MacBook Neo earlier this year, and it’s been a resounding success by all indications. Here’s everything we know so far about what’s next for Apple’s most affordable laptop …",
+    "pub_date": "2026-07-23T00:55:26.000Z",
+    "creator": "Chance Miller",
+    "tags": "Mac",
+    "id": 3152
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Brydge ProDock Trio review: An elite space-saving MacBook dock",
     "link": "https://appleinsider.com/articles/26/07/23/brydge-prodock-trio-review-an-elite-space-saving-macbook-dock?utm_source=rss",
@@ -68,6 +88,16 @@
     "creator": "Juli Clover",
     "tags": "App Store",
     "id": 3145
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "How Apple Wallet's Create a Pass works in iOS 27",
+    "link": "https://appleinsider.com/articles/26/06/09/how-apple-wallets-create-a-pass-works-in-ios-27?utm_source=rss",
+    "content": "The Wallet app in iOS 27 lets you make your own digital passes from all those membership bar codes you have. It takes a little work, but it already works well.\n\n\nWallet's Create a Pass in iOS 27\nThe Wallet app has been used to hold more than just your credit and debit cards for years. Membership cards and digital passes have been a staple of the iPhone app for quite some time.\nHowever, to add a pass to the Wallet, you had to do so in one of two ways. The easiest is to use an app for a service and select the option to add a card or digital pass to the Wallet.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-22T19:32:48.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS,App Store",
+    "id": 3153
   },
   {
     "source_name": "9to5Mac",
@@ -2968,35 +2998,5 @@
     "creator": "Andrew Orr <andreworr@appleinsider.com>",
     "tags": "iOS",
     "id": 2717
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Car Keys in Apple Wallet reportedly coming to major Chinese automaker",
-    "link": "https://9to5mac.com/2026/07/17/car-keys-in-apple-wallet-reportedly-coming-to-major-chinese-automaker/",
-    "content": "As Apple continues expanding Car Keys support across the auto industry, the feature now appears to be headed to select vehicles from a major Chinese automaker. Here are the details.",
-    "pub_date": "2026-07-17T16:56:43.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 2711
-  },
-  {
-    "source_name": "Macworld",
-    "title": "New Mac malware pretends to be a login box that won’t go away",
-    "link": "https://www.macworld.com/article/3193904/new-mac-malware-pretends-to-be-a-login-box-to-steal-your-data.html",
-    "content": "Macworld\n\n\nSecurity researcher Group-IB has discovered new Mac malware that it has dubbed ClickLock Stealer. As part of the installation of ClickLock Stealer, the installer will essentially lock your Mac until a login password is entered in a persistent window. Once a password is entered, the malware is installed and covertly captures data: browser credentials, crypto wallet extensions, desktop wallet files, password manager data, and more.\nUsers are targeted by threat agents using a fake Cloudflare CAPTCHA that persuades users to copy and paste a command in the Terminal of macOS. Once the installation is triggered, malware components are installed on the Mac while a fake Cloudflare progress window is displayed.\nHowever, if a user trying to cancel the installation in progress, the malware then kills “every visible application every 210 milliseconds, leaving only a password dialog on screen until the user is forced to comply,” according to Group-IB. \nThe report also states that the highest number of users targeted are located in Italy, the U.S., Jordan, and the U.K. “The geographic distribution is consistent with a financially-motivated campaign targeting users in high-income regions where cryptocurrency adoption and macOS market share are both elevated,” said Group-IB.\nHow to protect yourself from malware\nThe easiest way to protect yourself from malware is to avoid downloading software from unfamiliar download sites. Never open links in emails or texts you receive from unknown and unexpected sources. If you get a message that looks like it is from an entity that you do business with, check the sender’s email address and inspect the URL carefully. If you see a link or button, you can Control-click it, select Copy Link Address, and then paste it into a text editor to see the actual URL to check it there.\nApple has vetted software in the Mac App Store, and it is the safest way to get apps. If you prefer not to patronize the Mac App Store, then buy software directly from the developer and their website. If you insist on using cracked software, you will always risk malware exposure.\nMacworld has several guides to help, including a guide on whether or not you need antivirus software, a list of Mac viruses, malware, and trojans, and a comparison of Mac security software.",
-    "pub_date": "2026-07-17T16:46:52.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,App Store",
-    "id": 2726
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple TV drops first trailer for ‘The Dynasty: UConn Huskies’",
-    "link": "https://9to5mac.com/2026/07/17/apple-tv-drops-first-trailer-for-the-dynasty-uconn-huskies/",
-    "content": "After announcing ‘The Dynasty: UConn Huskies’ last May, Apple TV today released the first trailer for the docuseries, ahead of its debut next month. Watch it below.",
-    "pub_date": "2026-07-17T16:27:41.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 2712
   }
 ]
