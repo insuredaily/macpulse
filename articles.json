@@ -1,6 +1,56 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Apple art director shares early sketches and prototype of Lil’ Finder Guy",
+    "link": "https://9to5mac.com/2026/07/23/apple-art-director-shares-early-sketches-and-prototype-of-lil-finder-guy/",
+    "content": "Sofia Coelho, the art director who led the visual design and concept for Lil’ Finder Guy, has shared a rare behind-the-scenes look at how the MacBook Neo campaign’s mascot came to be. Here are the details.",
+    "pub_date": "2026-07-24T02:36:03.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac,Rumors",
+    "id": 3238
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "District judge assigned to oversee Apple's trade secrets lawsuit against OpenAI",
+    "link": "https://appleinsider.com/articles/26/07/24/district-judge-assigned-to-oversee-apples-trade-secrets-lawsuit-against-openai?utm_source=rss",
+    "content": "A federal district judge will oversee Apple's lawsuit accusing OpenAI of using stolen intellectual property to advance its hardware efforts.\n\n\nOpenAI CEO Sam Altman - image credit: Emerson Collective\nIn early July, Apple sued OpenAI after alleging that two ex-employees successfully stole intellectual property to enrich OpenAI's development efforts. Now, on Thursday, a judge has been assigned to the case.\nInitially, when the suit was first filed, it was randomly assigned to Magistrate Judge Virginia K. DeMarchi. Now, it seems as though U.S. District Judge Edward Davila will oversee the case.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-24T01:14:02.000Z",
+    "creator": "Amber Neely <amber@appleinsider.com>",
+    "tags": "General",
+    "id": 3242
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Pickleball comedy ‘The Dink’ premieres on Apple TV",
+    "link": "https://9to5mac.com/2026/07/23/pickleball-comedy-the-dink-premieres-on-apple-tv/",
+    "content": "Apple TV subscribers can now watch ‘The Dink,’ the platform’s new star-studded sports comedy produced by Ben Stiller. Watch the trailer below.",
+    "pub_date": "2026-07-24T01:01:04.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 3239
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple’s trade secrets lawsuit against OpenAI reassigned to new judge",
+    "link": "https://9to5mac.com/2026/07/23/apples-trade-secrets-lawsuit-against-openai-reassigned-to-new-judge/",
+    "content": "Apple’s trade secrets lawsuit against OpenAI has been reassigned to U.S. District Judge Edward Davila, replacing the magistrate judge initially assigned to the case. Here are the details.",
+    "pub_date": "2026-07-24T00:33:42.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 3240
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Keychron Q6 HE 8K Review: A great mechanical keyboard for work and play",
+    "link": "https://appleinsider.com/articles/26/07/23/keychron-q6-he-8k-review-a-great-mechanical-keyboard-for-work-and-play?utm_source=rss",
+    "content": "The Keychron Q6 HE 8K is a solid mechanical keyboard with magnetic switches. While it's not cheap, it's got more than enough to give a great typing experience on Mac.\n\n\nKeychron Q6 HE 8K\nWhen it comes to mechanical keyboards, Keychron stands out as one of the industry leaders. All thanks to its vast array of styles, colors, and features aimed at both Windows and macOS users.\nThe Keychron Q6 HE 8K is a beefy new release, and I put it through an extended test drive in my ongoing series of reviews of Keychron products. It's an ever-continuing search for the mechanical keyboard that will earn a permanent position on my workspace.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-23T23:59:47.000Z",
+    "creator": "Brian Patterson <mike@appleinsider.com>",
+    "tags": "Mac",
+    "id": 3243
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Geekbench 7 is out with overhauled performance tests for CPU and GPU workloads",
     "link": "https://9to5mac.com/2026/07/23/geekbench-7-is-out-with-overhauled-performance-tests-for-cpu-and-gpu-workloads/",
     "content": "Primate Labs released Geekbench 7 today, promising benchmarks that more closely reflect how people use their devices across everyday tasks, gaming, and AI workloads. Here’s what’s new.",
@@ -2948,55 +2998,5 @@
     "creator": "Ben Lovejoy",
     "tags": "General",
     "id": 2836
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Siri AI is hiding a more concise set of Writing Tools for Mac",
-    "link": "https://appleinsider.com/articles/26/07/20/siri-ai-is-hiding-a-more-concise-set-of-writing-tools-for-mac?utm_source=rss",
-    "content": "A hidden feature in the beta of macOS Golden Gate shows how Apple is testing ways to simplify and speed up Writing Tools in Siri AI.\n\n\nHow the hidden Siri AI Writing Tools appear when you selected text.\nAlthough some users, including ones at AppleInsider, are finding that Writing Tools have vanished in macOS Golden Gate, typically they remain available whenever selected text is right-clicked. But Reddit users have found that there is a hidden alternative that automatically pops up a short list of Writing Tools when you select text.\nTo try it out, you have to enter two Terminal commands and macOS will caution you that it's possible the commands are malware. They are not, and they are required to uncover this hidden feature.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-20T12:26:56.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "Mac",
-    "id": 2838
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Upgrade your home office with this $40 set of rollerblade wheels (really)",
-    "link": "https://www.macworld.com/article/3191888/my-best-home-office-upgrade-wasnt-a-mac-its-this-40-set-of-rollerblade-wheels.html",
-    "content": "Macworld\n\n\nBuy on Amazon\nThe Office Oasis Rollerblade Office Chair Wheels – $39.95\nView Deal\nThe best upgrade I ever made to my home office wasn’t my Mac Studio or Studio Display XDR. It’s a set of rollerblade wheels. For my office chair. Really!\nWe all just sort of accept that our office chair wheels are the way they are. Those little double-wheel plastic or hard rubberized (if you’re lucky) casters that swivel and scratch and make noise. They don’t roll well over carpet, and there’s an entire commodity industry selling ugly sheets of thick plastic to put under your office chair so they don’t mess up your hard floors.\nIt doesn’t have to be that way. I don’t even remember where I saw it recommended, but several years ago someone pointed me to a company that takes rollerblade wheels and puts them on office chair casters. Proper bearings, sturdier construction, and smooth polyurethane that rolls easily over carpet and doesn’t scratch up your floor.\nThe brand is The Office Oasis (there are lots of cheap knockoffs, but these are the original), and it’s only about $40 for a set of 5 casters in a variety of colors. Installing them is trivial—office chair casters are designed to simply pull off and pop on without tools.\nI took a chance and couldn’t believe the difference. My chair glided so easily that when I put it on a section of floor that was just a little bit uneven, it just started rolling on its own. They’re whisper-quiet, too. You don’t realize regular office chair wheels are noisy until you get some that aren’t. And now my chair doesn’t need a big plastic sheet to protect my tile floor.\n\n \n @macworld.com \nThe best $40 office upgrade I ever made \n ♬ original sound – Macworld – Macworld \n  \n\n\n\n\nThe wheels also made my office chair just a tiny bit higher—about half an inch—which is a nice little bonus for a tall guy like me that usually has my chair extended up as high as it will go.\nThis isn’t a sponsored post (though we do earn affiliate revenue if any purchase is made leading from our site). The Office Oasis has never been in contact with anyone here at all. I have used these wheels on my office chair for several years after purchasing them myself, and I just love them. It’s one of those things you use all day every day and forget how great they are until you sit in an office chair without them and instantly regret it.\nSpending $40 on a product that has made my life just a tiny bit better all day every day for years is a no-brainer.",
-    "pub_date": "2026-07-20T12:09:20.000Z",
-    "creator": "Macworld",
-    "tags": "Mac",
-    "id": 2677
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Game development diary: Crunch and preparing to launch",
-    "link": "https://appleinsider.com/articles/26/07/20/game-development-diary-crunch-and-preparing-to-launch?utm_source=rss",
-    "content": "The Steam launch of \"Character Limit\" looms thanks to a final push to get the game ready. However, while it's \"done\" enough for people to play, there's still the problem of actually releasing it.\n\n\nThe full game is in Steam, awaiting launch. \nIt is safe to say that developing a word game like this wasn't meant to take a year. The first installment of this series was posted on July 28, 2025.\nThe math is easy to figure out how long it's been since I started.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-20T12:05:33.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "General",
-    "id": 2839
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Mac beach balls and unresponsive trackpad? This fix seems to work",
-    "link": "https://9to5mac.com/2026/07/20/mac-beach-balls-and-unresponsive-trackpad-this-fix-seems-to-work/",
-    "content": "There have been growing complaints about users experiencing beach balls on the Mac when running macOS 26.5, with some also saying that their trackpad becomes completely unresponsive for several seconds at a time.\nActivity Monitor typically reveals three culprits, and there does now appear to be a reliable solution to the problem …",
-    "pub_date": "2026-07-20T11:34:31.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "Mac",
-    "id": 2819
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "AI fakes a growing problem on Apple Books, some ‘written’ in a few hours",
-    "link": "https://9to5mac.com/2026/07/20/ai-fakes-a-growing-problem-on-apple-books-some-written-in-a-few-hours/",
-    "content": "Tech writer Joanna Stern wrote last month about discovering 10 fake versions of her book I Am Not a Robot on Apple Books within days of the real thing being published. While she was able to get these removed, new ones quickly appeared.\nNew York Times journalist Kashmir Hill found a fake biography of herself on Amazon, and discovered this was one of thousands of AI-written biographies available on sale …",
-    "pub_date": "2026-07-20T11:09:53.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "General",
-    "id": 2820
   }
 ]
