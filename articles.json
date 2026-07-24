@@ -1,5 +1,45 @@
 [
   {
+    "source_name": "MacRumors",
+    "title": "iOS 27: All the New iCloud Features",
+    "link": "https://www.macrumors.com/guide/ios-27-icloud/",
+    "content": "iOS 27 includes new iCloud capabilities across several apps like Apple Home, Siri, Photos, and more. There are some direct ‌iCloud‌ improvements like upgrades to photo uploads and sharing, along with some indirect new features.\r\n\r\n\r\nHomeKit Secure Video Cameras (iCloud+)\n\r\nIf you have HomeKit Secure Video cameras, the Home app in ‌iOS 27‌ has a couple of useful new Apple Intelligence features.\r\n\r\nYou can get text-based summaries of what's going on, sent as notifications. So when you get a notification for movement, it will say something like \"Someone was seen,\" or \"Animal seen.\"\r\n\r\nThe text descriptions are also shown in the video playback timeline, and you can search for specific events. Events that take place across two cameras, such as the same person walking from room to room, are paired together to give an overview of action across the home.\r\n\r\nrequire a 2TB or higher iCloud+ plan, which is priced starting at $9.99 in the United States. The 2TB plan is also the plan required for an unlimited number of ‌HomeKit Secure Video‌ cameras.\r\n\r\n‌HomeKit Secure Video‌ cameras have always required an ‌iCloud‌+ plan to store the camera footage in ‌iCloud‌. A single camera can be added with the 50GB plan, and five cameras can be added with the 200GB plan.\r\n\r\nHomePod, HomePod mini, or Apple TV 4K, as well as a device that supports ‌Apple Intelligence‌ (iPhone 15 Pro or newer).\r\n\r\n‌HomeKit Secure Video‌ cameras can also record up to 4K footage in ‌iOS 27‌, but that feature does not use ‌Apple Intelligence‌.\r\n\r\nApple Intelligence Limit Increase (iCloud+)\n\r\nApple said at WWDC that some ‌Apple Intelligence‌ features like image generation with Image Playground will have limits on daily use.\r\n\r\nThose limits can be increased with most ‌iCloud‌+ plans. Apple has not given a list of features that will have limits beyond ‌Image Playground‌, nor has it said what the limits will be without an ‌iCloud‌+ plan and with the tiered options.\r\n\r\nSiri\n\r\n‌Siri‌ conversations in the ‌Siri‌ app sync across devices using ‌iCloud‌. The ‌Siri‌ app lets you revisit previous conversations, start new conversations, pin important chats, and continue chats across iOS, macOS, and iPadOS.\r\n\r\nPhotos\n\r\nThere are several new ‌iCloud‌ features in the ‌Photos‌ app.\r\n\r\n \nPrioritize Syncing - There's a toggle to force all of your photos to upload to ‌iCloud‌ regardless of battery status. It turns on for 24 hours and then turns off.\n\r\n \nShared Albums - Android and Windows users can upload photos to Shared Albums. Shared Albums also keep full-resolution photos and videos to support the cross-platform sharing feature.\n\r\n \nUpload Speed - iPhones will now start uploading to iCloud Photos more quickly to make images available across devices faster.\n\r\n\r\n\r\nCollaboration\n\r\n\r\nLink Previews - ‌iCloud‌ collaboration links now show richer previews so you can more clearly see what you've been sent.\n\r\n \nAccess Requests - Users can send access requests for items shared via ‌iCloud‌.\n\r\n \nSpeed - Apple says users will get faster access to shared content on iCloud.com.\n\r\n \nLinks - Creating links to ‌iCloud‌ content is easier with a more accessible share link.\n\r\n\r\n\r\nJournal\n\r\nYou can now see the ‌iCloud‌ sync status for each journal entry.\r\n\r\nPasswords\n\r\nThe Passwords app can use ‌Apple Intelligence‌ to automatically fix weak passwords in ‌iOS 27‌. It uses ‌iCloud‌ Keychain and Safari to operate.\r\n\r\nAn Apple Intelligence-compatible iPhone is required to use the feature.\r\n\r\nRead More\n\r\nMore information on the features in ‌iOS 27‌ can be found in our roundup.\r\n\r\nLaunch Date\n\r\n‌iOS 27‌ is available to developers and public beta testers. It will launch in September alongside new iPhone models.\nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"iOS 27: All the New iCloud Features\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-24T22:54:55.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS,App Store,Services",
+    "id": 3314
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Tapbots launches Pastebot 3 with improved organization and automation tools",
+    "link": "https://9to5mac.com/2026/07/24/tapbots-launches-pastebot-3-with-improved-organization-and-automation-tools/",
+    "content": "Pastebot, one of the most popular clipboard managers for Mac, was updated today, nearly ten years after the release of Pastebot 2. Here are the details.",
+    "pub_date": "2026-07-24T22:18:26.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac",
+    "id": 3315
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple Pay is getting even better with four new features",
+    "link": "https://9to5mac.com/2026/07/24/apple-pay-is-getting-even-better-with-four-new-features/",
+    "content": "Apple Pay is a go-to feature for iPhone users when shopping in stores, online, and in apps. Apple recently announced four new features that make Apple Pay even better. Here’s how they work.",
+    "pub_date": "2026-07-24T21:24:36.000Z",
+    "creator": "Chance Miller",
+    "tags": "iOS,Services",
+    "id": 3316
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Trump vows retaliation over EU fines against Apple and other ‘GREAT’ US tech giants",
+    "link": "https://9to5mac.com/2026/07/24/trump-vows-retaliation-over-eu-fines-against-apple-and-other-great-us-tech-giants/",
+    "content": "President Trump has pledged to retaliate against the European Union over what he claims are unfair fines targeting Apple and other American tech giants. Here are the details.",
+    "pub_date": "2026-07-24T21:20:17.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 3317
+  },
+  {
     "source_name": "9to5Mac",
     "title": "WhatsApp testing new message bubbles on iOS",
     "link": "https://9to5mac.com/2026/07/24/whatsapp-testing-new-message-bubbles-on-ios/",
@@ -2958,45 +2998,5 @@
     "creator": "Marcus Mendes",
     "tags": "Mac,iOS,App Store",
     "id": 2918
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Seeds Fourth visionOS 27 Beta to Developers",
-    "link": "https://www.macrumors.com/2026/07/20/apple-seeds-visionos-27-beta-4/",
-    "content": "Apple today provided developers with the fourth beta of an upcoming visionOS 27 update for testing purposes, with the beta coming two weeks after Apple released the third beta.\r\n\r\n\r\nvisionOS 27 can be installed by opening the Settings app, going to Software Updates, and opting into Beta Updates.\r\n\r\nSiri AI, the smarter and more capable version of ‌Siri‌ that's similar in capability to chatbots like ChatGPT and Claude. On the Vision Pro, ‌Siri‌ can answer questions about anything the wearer is looking at, and there's a new ‌Siri‌ orb that can be placed anywhere in wearer's virtual space.\r\n\r\nPanorama photos can be turned into spatial environments, and there's a new Icelandic Thórsmörk environment that features dramatic mountains, valleys, and glaciers, along with the northern lights. Web Environment support allows developers to create 360-degree environments in Safari for a more native Vision Pro browsing experience.\r\n\r\nApp windows are now curved to provide a more immersive workspace, and Control Center has been reorganized to make system controls easier to find. Apple added a smaller widget size, and notifications automatically expand when the wearer looks at them.\r\n\r\nlisted in our Vision Pro roundup.\nRelated Roundup: Apple Vision Pro\nBuyer's Guide: Vision Pro (Neutral)\nRelated Forum: Apple Vision Pro\nThis article, \"Apple Seeds Fourth visionOS 27 Beta to Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-20T19:24:21.000Z",
-    "creator": "Juli Clover",
-    "tags": "Vision,App Store",
-    "id": 2910
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iOS 27 Code References iPhone With Two Batteries",
-    "link": "https://www.macrumors.com/2026/07/20/ios-27-dual-battery-iphone/",
-    "content": "The fourth developer beta of iOS 27 has references to an iPhone with two batteries, according to Macworld. New Battery Health strings include mentions of multiple internal batteries, instead of a single battery. MacRumors confirmed the mentions are in the beta.\r\n\r\n\r\n\r\n\"The batteries in this iPhone are performing as expected.\"\n\r\n \t\n\"The health of the batteries in this iPhone has significantly degraded. An Apple Authorized Service Provider can replace the batteries to restore full performance and capacity.\"\n\r\n \t\n\"The health of the batteries in this iPhone has significantly degraded, and one of the batteries could not be verified as a genuine Apple battery. An Apple Authorized Service Provider can replace the batteries to restore full performance and capacity.\"\n\r\n\r\nAll of the wording in the Settings app on current iPhone models references a single battery, so the plural phrasing is curious.\r\n\r\nMacworld speculates the wording references the foldable \"iPhone Ultra\" Apple is working on. Prior rumors suggest the ‌iPhone Ultra‌ will use two battery cells with 1,921mAh and 2,962mAh capacities for a total of 4,883mAh. Foldable smartphones typically have two batteries, with one located in each half of the device. Apple is likely to use the same design.\r\n\r\nThe ‌iOS 27‌ strings suggest the batteries in the ‌iPhone Ultra‌ could be serviceable separately, so a single failing cell could be swapped on its own. An option to replace a single degraded cell could lower repair costs.\r\n\r\niPhone 18 Pro models.\nRelated Roundups: iOS 27, iPadOS 27, iPhone Fold\nThis article, \"iOS 27 Code References iPhone With Two Batteries\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-20T19:10:35.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,App Store",
-    "id": 2911
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "MagSafe Monday: The RORRY Flow power bank is a travel essential",
-    "link": "https://9to5mac.com/2026/07/20/rorry-flow-power-bank/",
-    "content": "Traveling with your Apple setup usually means bringing a bunch of cables and wall adaptors. The RORRY Flow power bank aims to fix that by putting everything you need into a single compact battery. It has a built-in wall plug, an integrated USB-C cable, and a magnetic charger for your Apple Watch. It is the exact kind of accessory I love for vacations because it handles everything from travel charging to overnight charging.",
-    "pub_date": "2026-07-20T18:57:00.000Z",
-    "creator": "Bradley C",
-    "tags": "iOS",
-    "id": 2878
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "How to ping your lost Apple Watch from your iPhone",
-    "link": "https://www.cultofmac.com/how-to/ping-apple-watch",
-    "content": "You can ping a lost Apple Watch from your iPhone. The reverse has always been one of the best uses of an Apple Watch.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-07-20T18:53:11.000Z",
-    "creator": "D. Griffin Jones",
-    "tags": "Mac,iOS",
-    "id": 2905
   }
 ]
