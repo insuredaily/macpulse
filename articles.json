@@ -1,5 +1,55 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "9to5Mac Overtime 074: Apple’s foldable iPhone",
+    "link": "https://9to5mac.com/2026/07/25/9to5mac-overtime-074-apples-foldable-iphone/",
+    "content": "Fernando and Jeff discuss Samsung’s Galaxy Z Fold8 event in depth, including hands-on experience with Samsung’s newest foldable form factor, the pros and cons of the new 4:3 aspect ratio, efforts to address the crease issue, and what this all means for Apple’s upcoming foldable iPhone.\nSponsored by Bitwarden: Check out Bitwarden Password Manager, featuring an Apple Watch authenticator integration, secure autofill on Safari and iOS apps, and enterprise-grade security tools that help you manage credentials with confidence.",
+    "pub_date": "2026-07-25T19:13:44.000Z",
+    "creator": "Jeff Benjamin",
+    "tags": "iOS",
+    "id": 3338
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "HomeKit Weekly: The Amazon Basics Matter plug delivers Apple Home support for under $10",
+    "link": "https://9to5mac.com/2026/07/25/the-amazon-basics-matter-plug-delivers-apple-home-control-for-under-10/",
+    "content": "The price increase in technology is exhausting. With the recent price increases across the Apple lineup, seeing items go down in price is becoming rare. The Amazon Basics smart plug is one of the rare exceptions that seems to be holding the line. With Matter support and a price under $10, it may be my new go-to smart plug. Let’s take a look.",
+    "pub_date": "2026-07-25T18:57:00.000Z",
+    "creator": "Bradley C",
+    "tags": "General",
+    "id": 3339
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Weekend deals deliver $299 Apple Watch Series 11, $89 AirTag 4-pack, $399 iPad",
+    "link": "https://appleinsider.com/articles/26/07/25/weekend-deals-deliver-299-apple-watch-series-11-89-airtag-4-pack-399-ipad?utm_source=rss",
+    "content": "Amazon's weekend Apple sale is going strong, with price drops of up to $150 off Apple Watch, AirTag, and iPad devices.\n\n\nApple Watch, AirTags, and iPads are all on sale this weekend.\n\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-25T18:38:27.000Z",
+    "creator": "Christine McKee <christine@appleinsider.com>",
+    "tags": "iOS",
+    "id": 3341
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Sued by Customers Who Lost Combined $1.8 Million Through Fake Bitcoin Wallet in App Store",
+    "link": "https://www.macrumors.com/2026/07/25/apple-app-store-fake-bitcoin-wallet-lawsuit/",
+    "content": "Apple is facing a new lawsuit from three customers who allegedly lost a combined $1.8 million after falling victim to a fake Bitcoin wallet app in the App Store, according to a complaint filed in California federal court on Friday.\r\n\r\n\r\nThe complaint alleges that Apple violated California's Consumers Legal Remedies Act and other laws by failing to adequately review and monitor apps distributed through the App Store, despite marketing it as \"a safe and trusted place to discover and download apps.\" Due to these assurances in Apple's marketing, the complaint said the plaintiffs trusted that a Sparrow Wallet app they downloaded from the App Store on iOS was legitimate, when in reality it was a fraudulent spoof designed to steal Bitcoin from users.\r\n\r\nonly available on Windows, macOS, and Linux. The popular Bitcoin wallet is not available on iOS, but scammers have released fake lookalike apps in the App Store that can trick users into giving up control of their funds. \r\n\r\n\"Users found their accounts had been wiped out and their cryptocurrency assets transferred to the scammers' private wallets,\" the complaint says. \"This fraud succeeded precisely because Apple exploited the consumer trust it had deliberately cultivated through more than a decade of marketing the App Store as a uniquely safe and trusted environment.\"\r\n\r\nThe plaintiffs James Ramirez, Christopher Ellis, and Jalen Delgado had Bitcoin amounts that were worth approximately $875,000, $840,000, and $120,000 respectively stolen via the app from May to August of 2025, according to the complaint.\r\n\r\nEven when victims reported fraud, the lawsuit alleges that Apple often took little to no action, and it says other fake Sparrow apps remain in the App Store.\r\n\r\nJanuary 2024 social media post, for example, he said \"there is still a scam 'Sparrow Wallet' app on the @Apple App Store, despite myself and others having reported it weeks ago.\"\r\n\r\nsaid his attempt at protecting users by submitting a \"placeholder\" app to the App Store that contained marketing screenshots stating that Sparrow Wallet is a desktop app only resulted in his Apple Developer account being flagged for termination due to \"dishonest activity.\" Apple later reversed this decision.\r\n\r\nTags: App Store, Apple Lawsuits\nThis article, \"Apple Sued by Customers Who Lost Combined $1.8 Million Through Fake Bitcoin Wallet in App Store\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-25T18:08:31.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "Mac,iOS,App Store",
+    "id": 3337
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iPhone 18 won’t debut this fall, here’s why",
+    "link": "https://9to5mac.com/2026/07/25/heres-why-iphone-18-wont-launch-in-september/",
+    "content": "We’re about two months away from Apple’s annual iPhone debut in September. This year, though, will be a bit different. Instead of the entire iPhone lineup debuting at once, only the iPhone 18 Pro, iPhone 18 Pro Max, and all-new foldable iPhone will launch this September. Here’s why.",
+    "pub_date": "2026-07-25T17:35:51.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS",
+    "id": 3340
+  },
+  {
     "source_name": "MacRumors",
     "title": "AirPods, AirTag 2, and iPads Hit Low Prices This Week",
     "link": "https://www.macrumors.com/2026/07/25/best-apple-deals-of-the-week-7-25-26/",
@@ -2948,55 +2998,5 @@
     "creator": "Tim Hardwick",
     "tags": "iOS",
     "id": 2941
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Free Volvo update adds Apple Music to your car’s dashboard",
-    "link": "https://www.cultofmac.com/news/this-free-volvo-update-adds-apple-music-cars-dashboard",
-    "content": "Volvo brings native Apple Music integration, Spatial Audio support and a free three-month trial to millions of compatible cars.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-07-21T08:57:40.000Z",
-    "creator": "Rajesh Pandey",
-    "tags": "Mac,Services",
-    "id": 2955
-  },
-  {
-    "source_name": "Macworld",
-    "title": "New Members who join Costco can receive a $50 Digital Costco Shop Card*",
-    "link": "https://www.macworld.com/article/3193807/new-members-who-join-costco-can-receive-a-50-digital-costco-shop-card.html",
-    "content": "Macworld\n\n\nTL;DR: A Costco Gold Star Membership costs $65 a year. New members who enroll in auto-renewal can receive a $50 Digital Costco Shop Card* upon sign-up.\nA Costco Gold Star Membership can help households manage everyday costs, particularly on groceries and gasoline. Members shop at more than 600 warehouses across the U.S., along with Costco.com, and gain access to Kirkland Signature™ products alongside brand-name products across grocery, home, and technology categories.\nA Costco Gold Star Membership costs $65 a year and includes the $50 Digital Costco Shop Card*. Act fast, these promotions typically don’t last very long! Here’s how the process works:\nComplete your purchase.\nFollow the instructions in your email to activate your Costco membership online.\nPick up your physical card in person at your nearest Costco warehouse (bring your ID).\nReceive your Digital Costco Shop Card* by email about two weeks later.\nWhat you get with a Costco Gold Star Membership\nShopping at Costco warehouses and Costco.com\nKirkland Signature™ products across grocery, home, and other categories\nMember pricing at the Costco Gas Station\nAccess to Costco Optical and Costco Pharmacy\nOne free Affiliate Card for an individual age 18 or older living at your address\nThis promotion may be available to new members or to members whose accounts (Primary and Affiliate) have expired for at least 18 months. It is not valid for renewal or upgrade of an existing membership. Members must provide a valid email address at sign-up and enroll in auto-renewal to receive the Digital Costco Shop Card*, which is emailed within 2 weeks of enrollment.\nJoin as a new Gold Star Member and enroll in auto renewal to receive a $50 Digital Costco Shop Card*.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nCostco 1-Year Gold Star Membership + a $50 Digital Costco Shop CardSee Deal\nStackSocial prices subject to change.\n*To receive a Digital Costco Shop Card, you must provide a valid email address at the time of sign-up. Valid only for new members and those whose memberships (Primary and Affiliate) have been expired for at least 18 months. Valid only for nonmembers for their first year of membership. Not valid for upgrade or renewal of an existing membership. Promotion may not be combined with any other promotion. Costco employees are not eligible for new member promotions. Digital Costco Shop Card will be emailed to the email address provided by the Primary Member at time of sign-up within 2 weeks after successful sign-up and enrollment in auto renewal. Digital Costco Shop Card is not redeemable for cash, except as required by law. Costco is not liable for incentives not received due to entry of an invalid address during sign-up. Digital Costco Shop Cards are not accepted at the U.S. or Canada Food Court. Neither Costco Wholesale Corporation nor its affiliates are responsible for use of the card without your permission. Use the provided single-use promo code when entering your payment information. A Costco Gold Star Membership is $65 a year. An Executive Membership is an additional $65 upgrade fee a year. Each membership includes one free Affiliate Card. May be subject to sales tax. Costco accepts all Visa cards, as well as cash, checks, debit/ATM cards, EBT and Costco Shop Cards. Departments and product selection may vary.",
-    "pub_date": "2026-07-21T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "General",
-    "id": 2954
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "iOS 27 beta 4: All the new features and changes",
-    "link": "https://www.cultofmac.com/news/ios-27-beta-new-features-changes",
-    "content": "iOS 27 beta 4 is now rolling out to developers with new Siri voices, Log 2 support and other minor tweaks.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-07-21T03:39:40.000Z",
-    "creator": "Rajesh Pandey",
-    "tags": "Mac,iOS",
-    "id": 2940
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "How to roll back macOS Golden Gate on Apple Silicon",
-    "link": "https://appleinsider.com/inside/macos-golden-gate/tips/how-to-roll-back-macos-golden-gate-on-apple-silicon?utm_source=rss",
-    "content": "Mac users who want to leave the macOS Golden Gate beta must erase their startup disk and reinstall Tahoe, making a verified backup the most important step before they begin. Here's how to downgrade safely.\n\nmacOS Golden Gate\nDowngrading from macOS Golden Gate isn't as simple as leaving Apple's beta program. Turning off beta updates prevents later beta builds from installing, but it leaves the current operating system in place.\nReturning to macOS Tahoe requires erasing the Mac's startup volume, reinstalling Tahoe, and restoring your files afterward. The reinstall is usually the easy part because protecting files created while running the Golden Gate beta takes more planning.\nApple recommends restoring a Time Machine backup made before the beta was installed. A newer backup may contain app data, settings, and databases that Golden Gate changed in ways that Tahoe can't fully understand.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-21T03:00:34.000Z",
-    "creator": "Andrew Orr <andreworr@appleinsider.com>",
-    "tags": "Mac,Silicon,App Store",
-    "id": 2933
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Seven years after Apple Card, Samsung leaps into fintech with its own credit card",
-    "link": "https://appleinsider.com/articles/26/07/21/seven-years-after-apple-card-samsung-leaps-into-fintech-with-its-own-credit-card?utm_source=rss",
-    "content": "The Samsung Galaxy Card is a direct mirror of the Apple Card, though it has some interesting cash-back offers that might be compelling for those deep in the Samsung ecosystem.\n\n\nSamsung Galaxy Card is a new fintech offering from Samsung and Barclays\nIf there has ever been a tried and true strategy from Samsung, its compete with what Apple offers by beating them on the spec sheet. The Samsung Galaxy Card does exactly that with some good cash back rates right out of the gate.\nThe company announced the Samsung Galaxy Card via a press release on Monday. It's launching primarily as a virtual-first card with up to 5% cash back, issued by Barclays on the Visa network.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-21T02:33:04.000Z",
-    "creator": "Wesley Hilliard <wes@appleinsider.com>",
-    "tags": "General",
-    "id": 2934
   }
 ]
