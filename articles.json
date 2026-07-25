@@ -1,6 +1,16 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Indie App Spotlight: ‘NeoCam’ brings a retro video game style look to your iPhone photos",
+    "link": "https://9to5mac.com/2026/07/25/indie-app-spotlight-neocam-brings-a-retro-video-game-style-look-to-your-iphone-photos/",
+    "content": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nNeoCam is a fun, new camera app for iPhone and iPad that brings a Game Boy camera style look to all of your photos. It works in real time, can be adjusted on the fly, and more.",
+    "pub_date": "2026-07-25T19:30:00.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS,App Store",
+    "id": 3342
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "9to5Mac Overtime 074: Apple’s foldable iPhone",
     "link": "https://9to5mac.com/2026/07/25/9to5mac-overtime-074-apples-foldable-iphone/",
     "content": "Fernando and Jeff discuss Samsung’s Galaxy Z Fold8 event in depth, including hands-on experience with Samsung’s newest foldable form factor, the pros and cons of the new 4:3 aspect ratio, efforts to address the crease issue, and what this all means for Apple’s upcoming foldable iPhone.\nSponsored by Bitwarden: Check out Bitwarden Password Manager, featuring an Apple Watch authenticator integration, secure autofill on Safari and iOS apps, and enterprise-grade security tools that help you manage credentials with confidence.",
@@ -2988,15 +2998,5 @@
     "creator": "William Gallagher <wg@williamgallagher.com>",
     "tags": "iOS,Rumors",
     "id": 2946
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Testing 7-Inch Display for Largest 20th Anniversary iPhone Model",
-    "link": "https://www.macrumors.com/2026/07/21/iphone-20-pro-max-7-inch-display/",
-    "content": "Apple is reportedly prototyping a larger iPhone display measuring roughly 6.96 inches, which would likely be marketed as a 7-inch panel if it reaches production.\r\n\r\n\r\nAccording to Chinese leaker Digital Chat Station, Apple is testing the display internally in preparation for the 20th anniversary iPhone, which is expected to launch next year. The leaker said that the screen ratio is the same as the current iPhone 17 Pro Max, but whether the display is ultimately used in the iPhone 20 Pro Max remains unconfirmed at this stage. \r\n\r\nBloomberg reported that Apple had started ramping up work on two sizes of the 20th anniversary iPhone. Multiple rumors have suggested the device will have an edge-to-edge display with curved glass at all sides for a nearly borderless visual effect.\r\n\r\nThis year's upcoming iPhone 18 Pro‌ and ‌iPhone 18 Pro‌ Max models are expected to be the same dimensions as the current iPhone 17 Pro models, which are available in 6.3- and 6.9-inch sizes. \r\n\r\nApple last increased the size of its premium iPhone displays with the iPhone 16 Pro lineup in 2024. The iPhone 16 Pro grew from 6.1 to 6.3 inches, while the iPhone 16 Pro Max increased from 6.7 to 6.9 inches, thanks to slimmer bezels and slightly larger chassis dimensions. \r\n\r\nTags: 20th-Anniversary iPhone, Digital Chat Station\nThis article, \"Apple Testing 7-Inch Display for Largest 20th Anniversary iPhone Model\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-21T09:08:23.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "iOS",
-    "id": 2941
   }
 ]
