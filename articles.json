@@ -1,5 +1,15 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "Crime blotter: A second arrest in the 2025 FedEx robbery",
+    "link": "https://appleinsider.com/articles/26/07/26/crime-blotter-a-second-arrest-in-the-2025-fedex-robbery?utm_source=rss",
+    "content": "A woman who stole from a Wendy's returned for her AirPods, a shooting followed an argument about an Apple Watch, and another FedEx robbery in Memphis, all in this week's Apple Crime Blotter.\n\n\nAirPods 4\nThe latest in an occasional AppleInsider feature, looking at the world of Apple-related crime.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-26T11:08:40.000Z",
+    "creator": "Stephen Silver <stephen@appleinsider.com>",
+    "tags": "iOS",
+    "id": 3351
+  },
+  {
     "source_name": "Macworld",
     "title": "This tool helps older Macs edit 4K videos, and it’s only $60 for life",
     "link": "https://www.macworld.com/article/3196351/this-tool-helps-older-macs-edit-4k-videos-and-its-only-60-for-life.html",
@@ -2988,15 +2998,5 @@
     "creator": "Ben Lovejoy",
     "tags": "iOS,Silicon",
     "id": 2958
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Chipmaker TSMC Plans Price Hikes of Up to 10% in 2027",
-    "link": "https://www.macrumors.com/2026/07/21/apple-tsmc-price-hikes-2027/",
-    "content": "Apple's principal chipmaker TSMC plans to raise prices by as much as 10 percent starting in 2027, according to a new report from Nikkei Asia.\r\n\r\n\r\nThe Taiwan-based foundry has reportedly held talks with clients about base price increases of 5 to 10 percent, covering both mature nodes and the more advanced processes at 7-nanometers and below that Apple relies on for its A-series and M-series chips. Negotiations began in June and were finalized this month, according to the publication's sources, with the new pricing set to take effect at the start of 2027.\r\n\r\nCustomers placing additional high-performance computing orders beyond their original forecasts will face a further 10 to 15 percent premium, which could lead to some advanced chip orders costing more than 10 percent extra overall.\r\n\r\nThe increased prices are said to reflect rising costs for materials, manufacturing equipment, and construction of new overseas chip plants. \r\n\r\nNikkei Asia that its general market approach was \"strategic, not opportunistic.\"\r\n\r\n20th anniversary iPhone models. Whether Apple absorbs the increases or passes them along to customers remains to be seen. Apple last month dramatically increased device prices across multiple product lines, which CEO Tim Cook called \"unavoidable,\" citing the soaring cost of memory and storage chips.\nTags: Nikkei, TSMC\nThis article, \"Apple Chipmaker TSMC Plans Price Hikes of Up to 10% in 2027\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-21T11:01:47.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "iOS,Silicon",
-    "id": 2956
   }
 ]
