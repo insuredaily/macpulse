@@ -1,5 +1,35 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "Sunday Reboot: Apple TV dating, Matchbox, and Lasso hope",
+    "link": "https://appleinsider.com/articles/26/07/26/sunday-reboot-apple-tv-dating-matchbox-and-lasso-hope?utm_source=rss",
+    "content": "In this week's Sunday Reboot, Apple TV's dating docuseries could lead to new content areas, an unexpected Mattel movie, and the hope of even more \"Ted Lasso.\"\n\n\nThe cast of \"Matchbox\" - Image Credit: Apple\nSunday Reboot is a weekly column covering some of the lighter stories within the Apple reality distortion field from the past seven days. All to get the next week underway with a good first step.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-26T20:02:54.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "General",
+    "id": 3368
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple’s AI glasses to be unveiled at WWDC27: report",
+    "link": "https://9to5mac.com/2026/07/26/apples-ai-glasses-to-be-unveiled-at-wwdc27-report/",
+    "content": "Apple’s long-awaited AI smart glasses, expected to launch late next year, finally have an expected reveal date.",
+    "pub_date": "2026-07-26T18:54:46.000Z",
+    "creator": "Dylan McDonald",
+    "tags": "General",
+    "id": 3367
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Game development diary: Launched, but far from finished",
+    "link": "https://appleinsider.com/articles/26/07/26/game-development-diary-launched-but-far-from-finished?utm_source=rss",
+    "content": "While the Steam launch of \"Character Limit\" isn't the end of Malcolm's game development journey, he still has to combat the oddities of promotions and scammers. That, and get the iOS release done.\n\n\nCharacter Limit is out on Steam. The future is now full of patches and work on the iOS release. \nThe Character Limit launch on July 21 was a weird day for a number of reasons. For a start, that it actually happened at all.\nWhen I last left off, I was in a predicament of waiting for Steam's review process to approve the game on a second attempt, after the first failed on a technicality. Thankfully, instead of waiting for five days, Steam's support approved the game on Monday, meaning I could release on Tuesday as originally intended.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-26T18:46:18.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS",
+    "id": 3369
+  },
+  {
     "source_name": "Cult of Mac",
     "title": "Apple smart glasses might skip the feature I want most",
     "link": "https://www.cultofmac.com/news/apple-smart-glasses-privacy-concerns",
@@ -1021,9 +1051,9 @@
   },
   {
     "source_name": "9to5Mac",
-    "title": "Apple’s trade secrets lawsuit against OpenAI reassigned to new judge",
+    "title": "Apple’s trade secrets lawsuit against OpenAI reassigned to new judge [U]",
     "link": "https://9to5mac.com/2026/07/23/apples-trade-secrets-lawsuit-against-openai-reassigned-to-new-judge/",
-    "content": "Apple’s trade secrets lawsuit against OpenAI has been reassigned to U.S. District Judge Edward Davila, replacing the magistrate judge initially assigned to the case. Here are the details.",
+    "content": "Update, July 26: Apple’s form has now been made public, confirming that the company declined magistrate judge jurisdiction and requested that the case be reassigned to a district judge. The original story follows below.\nApple’s trade secrets lawsuit against OpenAI has been reassigned to U.S. District Judge Edward Davila, replacing the magistrate judge initially assigned to the case. Here are the details.",
     "pub_date": "2026-07-24T00:33:42.000Z",
     "creator": "Marcus Mendes",
     "tags": "General",
@@ -2968,35 +2998,5 @@
     "creator": "Ed Hardy",
     "tags": "Mac,iOS",
     "id": 2992
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iPhone 18 Rumor Reality Check: 20 Claims Ranked by Likelihood",
-    "link": "https://www.macrumors.com/2026/07/21/ranked-best-features-rumored-iphone-18/",
-    "content": "Apple's iPhone 18 Pro models and its first foldable iPhone are less than two months away from being unveiled, with the standard iPhone 18, iPhone 18e, and iPhone Air 2 expected to follow in spring 2027 as part of the company's new split-launch strategy. We've looked back at everything we know so far, and ranked the most consistent rumors, followed by the more speculative ones.\r\n\r\n\r\nSolid Rumors\n\r\n\r\niPhone Air 2 With Two Cameras – The second-generation iPhone Air is reportedly in advanced testing with an Ultra Wide camera joining the existing Main camera. The overall design is expected to remain largely unchanged apart from the additional lens.\n\r\nNew iPhone 18 Pro Colors – Dark Cherry is expected to be this year's signature finish, accompanied by Light Blue, Silver, and a Dark Gray option. The four colors have appeared in dummy-model images that corroborate earlier reports.\n\r\niPhone 18 Pro Variable Aperture Lens – Both Pro models are expected to gain a variable aperture for the 48-megapixel Main camera. This would let the camera adjust how much light reaches the sensor and provide users with greater control over exposure and depth of field.\n\r\nMore RAM for iPhone 18 – Reports disagree over whether the standard iPhone 18 will have 9GB or 12GB of RAM, but both amounts would be an increase over the iPhone 17's 8GB. The additional memory would support some of the more advanced on-device Apple Intelligence features coming in iOS 27.\n\r\niPhone 18 Pro Battery Life – Leaked capacities suggest larger batteries for Apple's premium models, with the iPhone 18 Pro Max potentially reaching around 5,567mAh outside of China. A more efficient 2nm A20 Pro chip and LTPO+ display could deliver a more noticeable improvement in actual battery life.\n\r\nBook-Style Foldable Design – Apple's first foldable is consistently described as a short, wide, book-style device with an approximately 5.5-inch outer screen and 7.8-inch inner display. It is expected to use a 4:3 aspect ratio and resemble a small iPad when unfolded. It has been compared to \"two titanium iPhone Airs side by side.\"\n\r\nNew Apple-Designed Modems – The foldable iPhone and at least international versions of iPhone 18 Pro models are expected to use Apple's faster second-generation C2 modem, which could come with support for 5G satellite connectivity. However, if the C2 lacks mmWave capability (which is not a feature of the C1 or C1X), Apple is expected to opt for a Qualcomm modem instead for the U.S. market.\n\r\nHigher Prices – Rising memory and storage costs make price increases likely across the iPhone 18 lineup. Analysts estimate that the iPhone 18 Pro and Pro Max could start at $1,299 and $1,399, respectively – $200 more than their predecessors – while the foldable iPhone is expected to cost north of $2,000.\n\r\n\r\nPossibly, Maybe\n\r\n\r\niPhone Air 2 Battery Life – One leaker claims the iPhone Air 2 will have a 3,500 mAh battery, an increase of around 11 percent over the current model. The 2nm A20 chip and a potentially thinner display could provide further efficiency or make room for the larger cell.\n\r\nOnly Two Foldable Colors – Some reports point to only two understated finishes for the foldable iPhone. White or silver appears most likely, while the darker option has variously been described as indigo, space gray, or black.\n\r\nSmaller Dynamic Island – Alleged prototypes, screen protectors, and CAD images of the iPhone 18 Pro depict a Dynamic Island around 35 percent narrower than on current iPhone 17 models. Other reports say Apple considered both designs or may have postponed the change until next year's models due to challenges with Face ID components, so this rumor remains ambiguous.\n\r\nThicker Camera Plateau – Dummy models suggest the iPhone 18 Pro Max's camera plateau could increase from 11.23mm to 11.54mm. A separate report says the smaller iPhone 18 Pro's camera housing will also become thicker, but no precise measurement has been shared.\n\r\nSimplified Camera Control – Apple is reportedly removing the capacitive sensing layer from Camera Control in future iPhones and instead relying solely on pressure sensitivity. The change could eliminate swipe gestures and accidental adjustments while reducing manufacturing and repair costs.\n\r\nCrease-Free Foldable Display – Apple is said to have reduced the inner display's crease to less than 0.15mm deep, making it almost invisible during normal use. More recent rumors appear to acknowledge that some physical crease may be unavoidable, so \"nearly crease-free\" is probably more realistic than completely crease-free.\n\r\niPhone Ultra Naming – Recent rumors have increasingly referred to the foldable as the \"iPhone Ultra,\" which would suit its expected position above the Pro Max. There is still no firm evidence of the final name, and \"iPhone Fold\" remains another, albeit outside possibility.\n\r\n\r\n\r\nSeems Unlikely\n\r\n\r\niPhone 18 Pro Teleconverter – A single report claims Apple has evaluated a teleconverter that would increase the camera's effective focal length. The claim comes from a relatively new Apple leaker, and it remains unclear how such a system would work inside an iPhone.\n\r\nHole-Punch Selfie Camera – An early report from The Information said the iPhone 18 Pro would abandon the Dynamic Island for a top-left hole-punch camera. Subsequent reports instead point to either a smaller centered Dynamic Island or no change, making the hole-punch design look increasingly doubtful.\n\r\niPhone 18 Downgrades – One leaker claims Apple will reduce the standard iPhone 18's display and chip specifications to control costs, potentially sharing more components with the iPhone 18e. The report has little corroboration and conflicts with expectations for a 2nm A20 chip and additional RAM.\n\r\nFoldable UDC Front Lens – The foldable's inner display has been rumored to contain a 24-megapixel under-display camera (UDC), but other information suggests the technology will not be ready this year. Apple may instead use visible hole-punch cameras on both the inner and outer displays.\n\r\nGoodbye, SIM Tray – The foldable iPhone itself is widely expected to be eSIM-only, but the SIM tray does not appear ready to disappear from the entire lineup. Battery capacity rumors still list physical-SIM variants of the iPhone 18 Pro for China, Hong Kong, and other markets.\n\r\nWhat are you most looking forward to in the iPhone 18 lineup? Let us know in the comments below. For more rumors, check out our iPhone 18, iPhone Fold, iPhone Air, and iPhone 18 Pro roundups, which we update regularly.\nRelated Roundup: iPhone 18\nRelated Forum: iPhone\nThis article, \"iPhone 18 Rumor Reality Check: 20 Claims Ranked by Likelihood\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-21T14:32:19.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "iOS,Rumors",
-    "id": 2972
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "As Garmin Cirqa launches, should Apple make a fitness band or ring? [Poll]",
-    "link": "https://9to5mac.com/2026/07/21/as-garmin-cirqa-launches-should-apple-make-a-fitness-band-or-ring-poll/",
-    "content": "The Apple Watch is undoubtedly one of the most capable wearables on the market, but not everyone wants a device that needs to be recharged daily and constantly demands their attention.\nThe majority of you have long agreed with me that Apple should also make a smart ring, and today’s launch of the Garmin Cirqa Smart Band adds to the evidence of growing demand for screen-free activity trackers …",
-    "pub_date": "2026-07-21T14:26:29.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "iOS",
-    "id": 2975
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "iPhone 20 Pro Max display could stretch to a massive size",
-    "link": "https://www.cultofmac.com/news/iphone-20-pro-max-7-inch-display-rumor",
-    "content": "A new leak claims Apple is testing a display larger than any before to go into 20th-anniversary iPhone 20 Pro Max.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-07-21T14:19:24.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,iOS,Rumors",
-    "id": 2993
   }
 ]
