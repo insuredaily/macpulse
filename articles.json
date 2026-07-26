@@ -1,5 +1,55 @@
 [
   {
+    "source_name": "Cult of Mac",
+    "title": "Apple smart glasses might skip the feature I want most",
+    "link": "https://www.cultofmac.com/news/apple-smart-glasses-privacy-concerns",
+    "content": "Explore the privacy concerns surrounding Apple smart glasses as the company develops a product that might someday replace the iPhone.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-26T17:15:45.000Z",
+    "creator": "Ed Hardy",
+    "tags": "Mac,iOS",
+    "id": 3364
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Today in Apple history: The last iBook laptop goes on sale",
+    "link": "https://www.cultofmac.com/apple-history/ibook-g4",
+    "content": "On July 26, 2005, Apple debuted the final iBook before switching to the MacBook product line. Here's a look at the opaque white iBook G4.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-26T16:57:27.000Z",
+    "creator": "Luke Dormehl",
+    "tags": "Mac",
+    "id": 3365
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple Upgrade installment program set to go live on Tuesday",
+    "link": "https://appleinsider.com/articles/26/07/26/apple-upgrade-installment-program-set-to-go-live-on-tuesday?utm_source=rss",
+    "content": "Apple Upgrade, the company's new installment program, will be going live on July 28, coinciding with the ending of sign-ups for the iPhone Upgrade Program.\n\n\nKlarna on Apple Pay - Image Credit: Klarna\nOn July 21, a report surfaced claiming that the iPhone Upgrade Program was on borrowed time, and was due to be replaced. It seems that the replacement, Apple Upgrade, will be arriving very soon.\nPosted as part of Sunday's \"Power On\" newsletter for Bloomberg, Mark Gurman writes that Apple Upgrade will launch on Tuesday. At the same time, Apple will stop new enrollments for the iPhone Upgrade Program.\n\n Rumor Score: 🤯 Likely \n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-26T16:44:40.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS,Rumors,Services",
+    "id": 3361
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Planning to Unveil Privacy-Focused Smart Glasses at WWDC 2027",
+    "link": "https://www.macrumors.com/2026/07/26/apple-smart-glasses-wwdc-2027-report/",
+    "content": "Apple currently plans to unveil its first smart glasses at WWDC 2027 next June, and privacy will be a focus, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nFor the glasses, Apple is prototyping \"a slew of new hardware and software-related privacy features\" that are not available on current products, he said. He did not mention any specific features, but he noted that Apple's marketing will likely emphasize the privacy measures of its glasses compared to rival products like the Meta Ray-Bans.\r\n\r\nIn a world where some people are wary of being secretly recorded by camera-equipped glasses, Gurman said Apple has considered releasing smart glasses with cameras that assist with AI features, but lack photo and video recording capabilities. In fact, he said Apple has even prototyped smart glasses without a camera system entirely.\r\n\r\nStill, the most likely outcome is that Apple's glasses will have cameras, but with the sort of privacy protections that the company is known for.\r\n\r\nLike the Meta Ray-Bans, Apple's glasses would also have speakers and microphones for music, phone calls, and notifications announced by Siri.\r\n\r\nin late 2027.\nTags: Apple Glasses, Mark Gurman\nRelated Forum: Apple, Inc and Tech Industry\nThis article, \"Apple Planning to Unveil Privacy-Focused Smart Glasses at WWDC 2027\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-26T16:26:47.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "General",
+    "id": 3360
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Never lose a Netflix show again: Save 4K streams forever with this lifetime deal",
+    "link": "https://www.cultofmac.com/deals/keeprix-streaming-downloader",
+    "content": "Save videos you care about so you can watch them whenever you want with Keeprix streaming downloader. Works with Netflix, YouTube and more.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-26T16:15:58.000Z",
+    "creator": "Cult of Mac Deals",
+    "tags": "Mac",
+    "id": 3366
+  },
+  {
     "source_name": "MacRumors",
     "title": "'Apple Upgrade' Program Launching on Tuesday",
     "link": "https://www.macrumors.com/2026/07/26/apple-upgrade-program-launching-tuesday/",
@@ -2948,55 +2998,5 @@
     "creator": "Anurag Chawake",
     "tags": "Mac,iOS,Rumors",
     "id": 2993
-  },
-  {
-    "source_name": "Macworld",
-    "title": "iOS 27 beta code reveals Apple’s dual-battery iPhone plans",
-    "link": "https://www.macworld.com/article/3195170/ios-27-beta-code-reveals-apple-is-preparing-a-dual-battery-iphone.html",
-    "content": "Macworld\n\n\nApple has just released the fourth developer beta of iOS 27, and buried deep inside the update is what may be one of the clearest references yet to the company’s long-rumored foldable iPhone.\nMacworld discovered new Battery Health strings referencing an iPhone with multiple internal batteries, a setup no current iPhone has, but one that would make a lot of sense for a foldable device.\niOS 27 lays the groundwork for Apple’s foldable iPhone\nThe new code strings explicitly state that they are intended for a multi-battery iPhone, alongside the existing references to single-battery iPhones (emphasis ours): “The batteries in this iPhone are performing as expected,” reads one of the strings. Another mentions that “the health of the batteries in this iPhone has significantly degraded.”\nThe wording is notable. Rather than referring to a single battery, as every current iPhone does. Apple now explicitly talks about “the batteries in this iPhone” and even mentions a situation where “one of the batteries” may not be a genuine Apple part.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nThe folding iPhone Ultra is expected to utilize a dual-battery system, with separate batteries on both sides of the display.\n\n\nFoundry\n\n\n\n\nOn its own, that might not sound like much. After all, it’s not likely that Apple is going to suddenly shove two batteries into an iPhone Pro Max. But given the rumors that Apple’s expected to reveal its first foldable iPhone this fall (the so-called iPhone Ultra), the idea of adding dual-battery support suddenly makes a whole lot of sense. \nOnce again, no shipping iPhone today would ever trigger these strings. Every current model contains a single battery, making the new “multi-battery” wording difficult to explain unless Apple is actively developing hardware with a different internal architecture. Back when the iPhone X arrived, Apple implemented a twin-cell L-shaped battery design for space purposes, but they functioned as a single battery. The wording here makes it seem as though the batteries will operate independently and users could replace a single battery. \nFurthermore, this isn’t the first time we’ve found evidence in iOS pointing toward a foldable iPhone. The first iOS 27 beta already included references to angle detection and fold states, suggesting Apple is prepping to support a folding display. The company has also been encouraging developers to get their apps ready to run on multiple screen sizes.\nSeparately, reliable supply chain reports have consistently claimed that Apple’s first foldable iPhone will use a dual-cell battery design. That’s hardly surprising, since nearly every book-style foldable smartphone splits its battery into two separate cells (one on each side of the hinge) to make better use of the limited internal space.\nAs always, software references aren’t a guarantee that a feature or product will ultimately ship. But taken together with the growing number of foldable-related discoveries inside iOS 27 and the increasingly consistent reports from the supply chain, the evidence continues to point in one direction.\nWe’re still two months away from the likely official announcement of the first foldable iPhone, but all signs are pointing to an imminent release.",
-    "pub_date": "2026-07-21T14:17:18.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,App Store",
-    "id": 2899
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Score the A16 iPad for Its Best Price Since June's Hike",
-    "link": "https://www.macrumors.com/2026/07/21/get-the-a16-ipad-for-399/",
-    "content": "Amazon this week is taking $50 off Wi-Fi models of Apple's 11th generation iPad. Prices start at $399.00 for the 128GB Wi-Fi iPad, down from $449.00. This is now the best price we've seen on the iPad since Apple's price hikes in June.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n$499.00 ($50 off) and the 512GB Wi-Fi iPad for $699.00 ($50 off). Free delivery estimates are placed around July 26 for most of these iPad models, but Prime members should be able to get same-day delivery in many locations.\r\n\r\n\n$50 OFF\n128GB Wi-Fi iPad for $399.00\n\n\r\n\n$50 OFF\n256GB Wi-Fi iPad for $499.00\n\n\r\n\n$50 OFF\n512GB Wi-Fi iPad for $699.00\n\n\r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"Score the A16 iPad for Its Best Price Since June's Hike\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-21T14:15:29.000Z",
-    "creator": "Mitchel Broussard",
-    "tags": "iOS",
-    "id": 2973
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iPhone 18 Pro: New display upgrades are coming in two ways",
-    "link": "https://9to5mac.com/2026/07/21/iphone-18-pro-new-display-upgrades-are-coming-in-two-ways/",
-    "content": "iPhone 18 Pro and Pro Max will have the same screen sizes as their predecessors, but rumors indicate their displays will be upgraded in two other ways. Here’s what’s coming.",
-    "pub_date": "2026-07-21T14:04:43.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 2976
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Apple’s 20th anniversary iPhone could bring the largest screen ever",
-    "link": "https://www.macworld.com/article/3195883/apples-20th-anniversary-iphone-could-bring-the-largest-screen-ever.html",
-    "content": "Macworld\n\n\nBack in 2024, Apple launched the iPhone 16 Pro Max with one of the largest smartphone screens ever made, jumping from 6.7 inches to 6.9 inches. Now, a new report claims that Apple is looking to take it even further for its 20th anniversary phone.\nAccording to prolific leaker Digital Chat Station on Weibo (via Macrumors), Apple is testing a 7-inch screen for next year’s overhaul, which is expected to feature a “quad-curved screen” along with other design upgrades. Granted, a tenth of an inch (3mm) isn’t that big of a deal, and with the rumored decrease in bezel size, it probably won’t even be all that noticeable, but Apple will surely market it as the largest iPhone ever.\nConsidering it’s more than a year away, we’ve heard a surprisingly large number of rumors about the 20th anniversary iPhone. According to reports, Apple is planning to commemorate the 20th anniversary of the iPhone much in the way it marked the 10th anniversary, with a massive redesign that sets the stage for the next 10 years.\nThe handset is expected to feature a near-bezel-less screen with a curved design all around, with a small hole for the camera. It’s also supposed to feature haptic buttons and an upgraded camera system.\nBack in 2017, Apple unveiled the iPhone X with a dramatic redesign that dumped the Home button, added more than an inch to the screen size, and introduced the camera notch. The original iPhone X was just a single model with a 5.8-inch display, with the larger models arriving later.",
-    "pub_date": "2026-07-21T13:53:28.000Z",
-    "creator": "Macworld",
-    "tags": "iOS",
-    "id": 2989
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "New ClickLock malware locks your Mac until you hand over your password",
-    "link": "https://www.cultofmac.com/news/click-lock-malware-locks-mac-password",
-    "content": "New ClickLock malware locks your Mac until you hand over your password. Here's how to protect yourself. \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-07-21T13:30:32.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac",
-    "id": 2994
   }
 ]
