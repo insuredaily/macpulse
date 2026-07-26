@@ -1,5 +1,35 @@
 [
   {
+    "source_name": "Cult of Mac",
+    "title": "Why Apple’s touchscreen MacBook will be worth the wait",
+    "link": "https://www.cultofmac.com/news/touchscreen-macbook-rumors",
+    "content": "Explore the latest rumors about the touchscreen MacBook with so many new features it's a potential game changer for Apple.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-26T14:40:04.000Z",
+    "creator": "Ed Hardy",
+    "tags": "Mac",
+    "id": 3356
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple Watch redesign is coming, but not for years",
+    "link": "https://appleinsider.com/articles/26/07/26/apple-watch-redesign-is-coming-but-not-for-years?utm_source=rss",
+    "content": "Apple is reportedly testing its September 2026 Apple Watch lineup, but the new models are expected to be minor updates while more substantial changes are much further off.\n\n\nThe sensors on the back of the Apple Watch Ultra 3\nMost recent rumors have claimed that the forthcoming Apple Watch Series 12 will not feature any hardware improvements over its predecessor. Now backing up those reports, Bloomberg says that neither the Apple Watch Series 12 nor the expected Apple Watch Ultra 4 will get visible upgrades to their design.\nInstead, the updates will be concentrated on giving the new Apple Watches a significant performance boost through a new processor. There may also be health and fitness tracking improvements, though previous reports have claimed that there won't be new sensors, so this may be a software update.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-26T14:32:26.000Z",
+    "creator": "William Gallagher <wg@williamgallagher.com>",
+    "tags": "iOS,Silicon",
+    "id": 3352
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple TV shares new trailers for 'Matchbox,' 'Neuromancer,' 'Dark Matter'",
+    "link": "https://appleinsider.com/articles/26/07/26/apple-tv-teases-new-trailers-for-matchbox-neuromancer-dark-matter?utm_source=rss",
+    "content": "Apple TV paid a visit to San Diego Comic-Con, hosting a two-hour panel and revealing new trailers for \"Dark Matter,\" \"Neuromancer,\" and the loosely toy-based \"Matchbox The Movie.\"\n\n\nMatchbox The Movie - Image Credit: Apple\nJust like any major media company that streams movies and TV shows, Apple held a lengthy two-hour panel at San Diego Comic-Con. The panels are usually an opportunity for fans to see stars talk about past and upcoming projects, as well as the reveal of new trailers for inbound releases.\nAs part of Saturday's panel, Apple introduced a trio of new trailers for two shows and a movie.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-26T13:01:28.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "General",
+    "id": 3353
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Crime blotter: A second arrest in the 2025 FedEx robbery",
     "link": "https://appleinsider.com/articles/26/07/26/crime-blotter-a-second-arrest-in-the-2025-fedex-robbery?utm_source=rss",
@@ -2968,35 +2998,5 @@
     "creator": "Macworld",
     "tags": "Mac,iOS,Silicon,Services",
     "id": 2990
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Expect 2027 iPhones to cost more as TSMC increases chip prices",
-    "link": "https://appleinsider.com/articles/26/07/21/expect-2027-iphones-to-cost-more-as-tsmc-increases-chip-prices?utm_source=rss",
-    "content": "Apple will have to pay more for its iPhone and Mac chips from 2027 onwards, as long-term supply chain partner TSMC is upping its base prices by as much as 10%.\n\n\nWorkers at a TSMC facility\nApple is already trying to mitigate the memory market's pricing spikes to reduce its costs, but it's not the only component price problem on its hands. It faces having to pay TSMC even more for the all-important processors too.\nAccording to Nikkei on Tuesday, TSMC will be increasing the base price of its chips from between 5% and 10%.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-21T12:10:23.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "Mac,iOS,Silicon,Services",
-    "id": 2963
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "HBO Max and Paramount+ may not merge after all",
-    "link": "https://9to5mac.com/2026/07/21/hbo-max-and-paramount-may-not-merge-after-all/",
-    "content": "A planned merger of two major streaming platforms, HBO Max and Paramount+, may not be happening after all.\nThe plan was announced back in March after Netflix dropped out of the bidding war for Warner Bros Discovery. However, a federal judge has now imposed a restraining order preventing the transaction from completing – at least for now …",
-    "pub_date": "2026-07-21T11:52:40.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "General",
-    "id": 2957
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "More bad news for Apple pricing as TSMC increases chip costs",
-    "link": "https://9to5mac.com/2026/07/21/more-bad-news-for-apple-pricing-as-tsmc-increases-chip-costs/",
-    "content": "Apple has already increased the prices of most of its products very significantly after it said it could no longer absorb far high memory costs. iPhone price rises are also expected when this year’s models launch in September.\nThe majority already took the pessimistic view that these rises will be permanent, despite the company’s claims that it was working hard to address them, and it’s now looking like things could get even worse as TSMC increases chipmaking prices …",
-    "pub_date": "2026-07-21T11:26:09.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "iOS,Silicon",
-    "id": 2958
   }
 ]
