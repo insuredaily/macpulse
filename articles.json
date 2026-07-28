@@ -1,5 +1,45 @@
 [
   {
+    "source_name": "Cult of Mac",
+    "title": "Your YouTube Premium subscription will soon get a major free perk",
+    "link": "https://www.cultofmac.com/news/your-youtube-premium-subscription-major-free-perk",
+    "content": "YouTube Premium subscribers in the US will soon get even more value from their membership through an expanded NBCUniversal partnership.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-28T04:40:57.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac,Services",
+    "id": 3466
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Everything We Know About MacBook Ultra's All-New Design",
+    "link": "https://www.macrumors.com/2026/07/27/macbook-ultra-all-new-design/",
+    "content": "Apple's next high-end laptop is expected to bring the most substantial external changes to the MacBook Pro line since 2021. No renders, case leaks, or dimensions have emerged, but a series of reports have established much of what is set to change.\r\n\r\n\r\nBloomberg's Mark Gurman has said there is a good chance the model represents a \"true overhaul\" for the laptop, thanks to the combination of an OLED display and a thinner design, and Apple is reportedly working toward the thinnest and lightest products in their categories across the tech industry. The design is also expected to extend beyond this machine, with the entry-level 14-inch ‌MacBook Pro‌ due in 2027 said to resemble it.\r\n\r\nhybrid OLED panel removes a physical layer from the lid, so the reduction may be most pronounced in the upper half of the machine.\r\n\r\nroadmap from research firm Omdia and subsequently corroborated by Bloomberg. The cutout is said to be pill-shaped to accommodate an interactive Dynamic Island.\r\n\r\nSpotlight in macOS 27 adopts a dark, pill-shaped design suited to a cutout of that shape.\r\n\r\nThe bezels surrounding the display may also shrink. Omdia claims Samsung Display will supply 14.3-inch and 16.3-inch panels, fractionally larger than the 14.2-inch and 16.2-inch displays currently in use, which within a largely unchanged chassis would result in narrower borders. \r\n\r\nreinforced hinge so that the display does not wobble when tapped. Whether the lid will also tilt further back than the current model, which stops relatively early for structural reasons, is yet to be seen.\r\n\r\nBloomberg reported in February that the machine would look a lot like the current MacBook Pro, specifying that the keyboard and trackpad would be retained and that the device would remain a conventional clamshell in 14-inch and 16-inch sizes, rather than a detachable or convertible design. HDMI, MagSafe, and the SD card slot were reinstated in the 2021 redesign after an unpopular absence, and no report has suggested they will be removed again.\r\n\r\nbetween late 2026 and early 2027, with the later window now considered more likely owing to the global memory chip shortage.\nTag: MacBook Ultra\nThis article, \"Everything We Know About MacBook Ultra's All-New Design\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-28T01:00:12.000Z",
+    "creator": "Hartley Charlton",
+    "tags": "Mac",
+    "id": 3462
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "LM Studio Bionic adds support for Moonshot AI’s Kimi K3 model",
+    "link": "https://9to5mac.com/2026/07/27/lm-studio-bionic-adds-support-for-moonshot-ais-kimi-k3-model/",
+    "content": "LM Studio’s agentic workflow platform now lets users run tasks with Kimi K3, Moonshot AI’s 2.8-trillion-parameter model with a 1-million-context window. Here are the details.",
+    "pub_date": "2026-07-28T00:21:34.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 3463
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "T-Mobile ‘actively working’ to fix ongoing outage, iPhone SOS mode",
+    "link": "https://9to5mac.com/2026/07/27/psa-t-mobile-is-down-iphones-forced-into-sos-mode/",
+    "content": "Update #2, 4:15 p.m. PT: In a statement to 9to5Mac, a T-Mobile spokesperson said: \n“Our teams are actively working the reports of technical challenges impacting some customers. Any service impacts are in the process of being resolved and are our highest priority. We know how critical it is to stay connected, and every available resource is focused on resolving this as quickly as possible.”\nUpdate #1, 3 p.m. PT: Some T-Mobile users report that service is returning to their iPhones. Others, however, say the outage is ongoing.\nT-Mobile is down across the United States, and many iPhone users are seeing “SOS” in their device’s status bar. Here’s everything you need to know about today’s T-Mobile outage.",
+    "pub_date": "2026-07-27T23:17:44.000Z",
+    "creator": "Chance Miller",
+    "tags": "iOS",
+    "id": 3457
+  },
+  {
     "source_name": "MacRumors",
     "title": "Apple's 2026 and 2027 Mac Roadmap: Every Model and When It Ships",
     "link": "https://www.macrumors.com/2026/07/27/mac-roadmap-2026/",
@@ -8,16 +48,6 @@
     "creator": "Juli Clover",
     "tags": "Mac,iOS,Silicon,Services",
     "id": 3456
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "PSA: T-Mobile is down, iPhones showing ‘SOS’ mode",
-    "link": "https://9to5mac.com/2026/07/27/psa-t-mobile-is-down-iphones-forced-into-sos-mode/",
-    "content": "Update, 3 p.m. PT: Some T-Mobile users report that service is returning to their iPhones. Others, however, say the outage is ongoing. \nT-Mobile is down across the United States, and many iPhone users are seeing “SOS” in their device’s status bar. Here’s everything you need to know about today’s T-Mobile outage.",
-    "pub_date": "2026-07-27T22:07:46.000Z",
-    "creator": "Chance Miller",
-    "tags": "iOS",
-    "id": 3457
   },
   {
     "source_name": "Cult of Mac",
@@ -2968,35 +2998,5 @@
     "creator": "William Gallagher <wg@williamgallagher.com>",
     "tags": "General",
     "id": 3109
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Entire MacBook Pro, MacBook Air & MacBook Neo line rumored for refresh in next six months",
-    "link": "https://appleinsider.com/articles/26/07/22/entire-macbook-pro-macbook-air-macbook-neo-line-rumored-for-refresh-in-next-six-months?utm_source=rss",
-    "content": "Apple's fall Mac updates will include a brand new entry-level MacBook Pro, but there are other alterations in the pipeline coming relatively soon, like a revised MacBook Neo and a speed-boosted MacBook Air.\n\n\nMacBook Neo\nApple's fall releases tend to include a number of Mac and MacBook launches alongside the usual iPhones. For 2026, Apple is preparing a very AI-forward refresh of its catalog, starting this fall.\nAccording to Bloomberg on Wednesday, Apple's refreshes are all to capitalize on the demand for more powerful notebooks, all thanks to AI. That apparently means Apple's bringing out new versions of every Mac model it sells in the next year.\n\n Rumor Score: 🤔 Possible \n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-22T15:54:05.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "Mac,Rumors",
-    "id": 3110
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Apple Upgrade leasing program could lock iPhone over late payments",
-    "link": "https://www.cultofmac.com/news/apple-upgrade-leasing-program-restricted-mode",
-    "content": "The Apple Upgrade leasing program could help cash-strapped consumers, but hidden iOS 27 code shows it might restrict your iPhone.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-07-22T15:45:14.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,iOS",
-    "id": 3118
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Massive Mac overhaul expected to begin this fall–here’s what’s coming",
-    "link": "https://www.macworld.com/article/3197016/massive-mac-overhaul-expected-to-begin-this-fall-heres-whats-coming.html",
-    "content": "Macworld\n\n\nWhile the world waits for new iPhones to land in just a couple of months, Apple is quietly preparing major changes to its lineup of Macs and MacBooks. According to a new Bloomberg report, Apple is prepping new versions of “every Mac it sells,” beginning this fall.\nThe “wave of new computers” is expected to begin this fall with M6 updates to the 14-inch MacBook Pro (codenamed J804) and iMac (J833 and J834). It’s not clear whether the new iMac, which hasn’t had a design upgrade since 2021, will bring any changes beyond the new chip.\nBloomberg’s Mark Gurman notes that the new MacBook Pro “looks like the current 14-inch version,” though a redesigned version (K104) is due later in 2027 with an M7 chip following a touchscreen overhaul to the 14-inch and 16-inch models.\nThe report reiterates that Apple is planning “a high-end 14-inch and 16-inch MacBook with a refresh design and a touch screen that uses OLED display technology.” As previously reported, the new MacBooks (K114 and K116) will use M5 Pro and M5 Max chips rather than M6 variants as Apple accelerates development of the M7 family of chips.\nGurman says Apple is testing these laptops with iOS 27.1, which is expected to arrive in late October, though the release could be delayed until 2027. It’s not clear from the report whether standard models will be available alongside touchscreen models.\nApple is also planning M6 updates to the MacBook Air (J913 and J915) and a 2nd-gen MacBook Neo with “an updated A19 Pro chip and more memory.” These models are expected to arrive early next year.\nFinally, Apple is also working on new Mac mini and Mac Studio models with upgraded chips. As with the MacBook Pro, the Mac mini is expected to use a base M6 alongside M5 Pro models, while the Mac Studio uses M5 Mac and a new M5 Ultra. Gurman says the timing of these models is dependent on the state of memory-chip supplies.\nAs it stands, the Mac mini and Mac Studio are sold out until the fall. Apple recently raised prices on its Macs by as much as $500 due to the rising cost of RAM and other components. It’s unclear whether these updates will bring even higher prices or whether the touchscreen MacBook Pros will have higher starting prices.",
-    "pub_date": "2026-07-22T15:31:35.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS,Silicon",
-    "id": 3115
   }
 ]
