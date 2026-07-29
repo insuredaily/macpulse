@@ -1,6 +1,126 @@
 [
   {
     "source_name": "AppleInsider",
+    "title": "UK is asking for 'highly intrusive' controls over App Store, says Apple",
+    "link": "https://appleinsider.com/articles/26/07/29/uk-is-asking-for-highly-intrusive-controls-over-app-store-says-apple?utm_source=rss",
+    "content": "Apple has told UK regulators that the plans to adopt more EU-like measures over the App Store are too restrictive, go beyond promoting competition, and amount to illegal regulation of service pricing.\n\n\nUK Parliament - image credit: Parliament\nThe UK's Competition and Markets Authority (CMA) is considering emulating the European Union, including forcing Apple and Google to open their App Stores to rivals. As the regulator's open consultation with interested parties concludes, Reuters reports how Apple has formally objected to the proposals.\n\"Under the [proposals], the CMA would not only regulate Apple's prices, but also restrict the products and services for which Apple can charge a commission,\" said Apple in its formal filing.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-29T17:18:26.000Z",
+    "creator": "William Gallagher <wg@williamgallagher.com>",
+    "tags": "App Store",
+    "id": 3582
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Review: This Asus ProArt 4K display has several features that separate it from the pack [Video]",
+    "link": "https://9to5mac.com/2026/07/29/asus-pa27ucge-review-160hz-colorimeter-monitor-hood-display/",
+    "content": "The Asus ProArt PA27UCGE is a 27-inch 4K display with a few tricks up its sleeve that set it apart from a crowded monitor market. It begins with its high frame rate support, up to 160Hz, which is great for fluid web browsing, gaming, and video editing. It also features an optional monitor hood to help mitigate ambient light, and a built-in motorized colorimeter for scheduled calibration.\nWe previously reviewed Asus’ 5K ProArt (review) and 6K ProArt Displays (review) and found both to be excellent options for Mac users looking for an affordable third-party option. Can we say the same about the ProArt Display, with lots of bells and whistles but lower resolution? Watch our hands-on video review for the details.",
+    "pub_date": "2026-07-29T17:00:45.000Z",
+    "creator": "Jeff Benjamin",
+    "tags": "Mac",
+    "id": 3577
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Gemini for Mac Adds System-Wide Voice Dictation and Screen-Aware Commands",
+    "link": "https://www.macrumors.com/2026/07/29/gemini-for-mac-dictation/",
+    "content": "Google today updated Gemini for Mac to add a new quick keyboard shortcut that activates voice mode. By long-pressing the Fn key, users can speak naturally to Gemini from any window on their desktop machine.\r\n\r\n\r\nGemini supports intelligent dictation, so users can speak to the chatbot using natural language and Gemini will transcribe their words to text. Ums, ahs, and other filler words are removed during the process, and it can catch mid-sentence corrections, dropping formatted text at the cursor.\r\n\r\nThere's an opt-in screen-aware reasoning mode. If enabled, Gemini can see what's on the Mac's screen to complete tasks. Users can highlight files, images, text, or documents and have Gemini edit, summarize, and compose content in the app they're working in. Gemini is also able to generate and edit images when the screen-aware mode is turned on.\r\n\r\nA double press on the Fn key is one of the options for triggering the Mac's built-in dictation feature, so the Gemini replacement will be familiar to those who prefer Gemini.\r\n\r\nTags: Gemini, Google\nThis article, \"Gemini for Mac Adds System-Wide Voice Dictation and Screen-Aware Commands\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-29T16:46:53.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,App Store",
+    "id": 3574
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple One’s high-end tier is getting harder to resist in iOS 27",
+    "link": "https://9to5mac.com/2026/07/29/apple-ones-high-end-tier-is-getting-harder-to-resist-in-ios-27/",
+    "content": "Apple One offers a bundle of popular Apple services at a discount, and in iOS 27 the high-end Premier plan gains new advantages.",
+    "pub_date": "2026-07-29T16:34:52.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 3578
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iOS 27 Lets You Hide the Messages Button Everyone Hits by Mistake",
+    "link": "https://www.macrumors.com/how-to/ios-hide-dictation-messages-button/",
+    "content": "If you accidentally press the dictation or voice icon after sending a text in Messages, your music may pause while your iPhone starts listening. It's a small annoyance, but a frequent one, since the dictation/audio icon sits so close to the send arrow that stray taps are almost inevitable. In iOS 27 and iPadOS 27, Apple has finally given you a way to get rid of it.\r\n\r\n\r\nThe issue is one that popstar Justin Bieber publicly complained about, claiming that the send button shouldn't have multiple functions so close together. The post went viral, and in iOS 27, Apple has done something about it.\r\n\r\nQuite simply, the message text field now has a new setting. You can choose whether it displays the audio waveform icon for recording a voice message, the microphone icon for dictation, or nothing at all. Here's how to find it:\r\n\r\n  \nOpen the Settings app on your iPhone or iPad.\n\r\n  \nTap Apps at the bottom of the list.\n\r\n  \nTap Messages.\n\r\n  \nTap Show in Text Field.\n\r\n  \nChoose one of the three options: Record Audio, Start Dictation, or None.\r\n\r\nIf you keep tapping the text field icon by mistake, you'll want to choose None.\r\n\r\nAudio. If it's dictation you sometimes use, you'll find the microphone key at the bottom right of the iOS keyboard (if it's not there, go to Settings ➝ General ➝ Keyboard and turn on Enable Dictation.)\r\n\r\nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"iOS 27 Lets You Hide the Messages Button Everyone Hits by Mistake\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-29T16:10:46.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "iOS,App Store",
+    "id": 3575
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Today in Apple history: Mac Centris 660av is an audiovisual masterpiece",
+    "link": "https://www.cultofmac.com/apple-history/macintosh-centris-660av",
+    "content": "On July 29, 1993, Apple released the Macintosh Centris 660av. The Mac came with PlainTalk, Apple's first software that recognized speech.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-29T15:42:37.000Z",
+    "creator": "Luke Dormehl",
+    "tags": "Mac",
+    "id": 3584
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Gemini for macOS rolling out voice control and Gboard Rambler-level transcription",
+    "link": "https://9to5google.com/2026/07/29/gemini-mac-voice-control/",
+    "content": "After the preview at I/O 2026 in May, Gemini for macOS is now rolling out advanced voice control capabilities.",
+    "pub_date": "2026-07-29T15:36:30.000Z",
+    "creator": "9to5Google",
+    "tags": "Mac",
+    "id": 3579
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Deals: M5 MacBook Pro $320 off, base MacBook Air $170 off, AirPods Pro 3, TechWoven case 32% off, Apple cables, more",
+    "link": "https://9to5mac.com/2026/07/29/deals-m5-macbook-pro-macbook-air-airpods-techwoven/",
+    "content": "While summer sale pricing continues on AirPods Pro 3 at $50 off, AirPods Max 2 at $100 off, and Apple’s AirTag 2 down at $22 each, today’s 9to5Toys Lunch Break is headlined by this 24GB 14-inch M5 MacBook Pro at $320 off alongside the ongoing $500 price drop on the 2TB M5 Pro MacBook Pro and the most affordable 15-inch M5 MacBook Air with the upgraded Power Adapter at $170 off. We also have official Apple USB-C cables from $7.50 a pop, a deep 32% price drop on Apple’s black iPhone 17 Pro Max TechWoven MagSafe case (Amazon all-time low), and more waiting below.",
+    "pub_date": "2026-07-29T15:26:54.000Z",
+    "creator": "Justin Kahn",
+    "tags": "Mac,iOS,Silicon",
+    "id": 3580
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Best Buy's Back to School Sale Brings Big Savings on AirPods, MacBooks, Headphones, and More",
+    "link": "https://www.macrumors.com/2026/07/29/best-buys-school-sale/",
+    "content": "Best Buy this week is hosting a pair of sales kicking off Back to School season, as well as its annual Black Friday in July event, with notable markdowns on Apple devices, TVs, headphones, monitors, and much more. These sales are set to last for the rest of this week, and you don't need to be a My Best Buy Plus or Total member to see the deals.\r\n\r\nNote: MacRumors is an affiliate partner with Best Buy. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\nApple devices, you can find solid deals on AirPods Max 2, iPhone Air, Beats accessories, and MacBook Pro. You can get the AirPods Max 2 for $449.00 ($100 off), as well as up to $500 off M5 Pro and M5 Max MacBook Pro, starting at $2,299.00 for the 1TB 14-inch model.\r\n\r\n\nSITEWIDE SALE\nBest Buy Back to School Sale\n\n\r\n\r\nmajor savings from popular brands like Insignia, Samsung, and LG. Best Buy has Samsung's popular line of The Frame TVs on sale, including the 65-inch 2025 model for $999.99 ($600 off), which is a match of the record low price on this device.\r\nApple\n\r\n\nAirPods Max 2 - $449.00 ($100 off)\n\r\n256GB iPhone Air - $899.99 ($100 off)\n\r\n14-inch MacBook Pro (M5 Pro, 1TB) - $2,299.00 ($200 off)\n\r\n14-inch MacBook Pro (M5 Pro, 2TB) - $2,499.00 ($500 off)\n\r\n14-inch MacBook Pro (M5 Max, 2TB) - $3,599.00 ($500 off)\n\r\n16-inch MacBook Pro (M5 Max, 36GB, 2TB) - $3,999.00 ($400 off)\n\r\n16-inch MacBook Pro (M5 Max, 48GB, 2TB) - $4,499.00 ($500 off)\n\r\nTVs\n\r\n\n55-inch Toshiba C350 4K Smart Fire TV - $249.99 ($150 off)\n\r\n65-inch Samsung U7900 4K Smart TV - $329.99 ($140 off)\n\r\n65-inch LG UA7050 4K Smart TV - $329.99 ($160 off)\n\r\n98-inch Hisense QLED 4K Smart Google TV - $1,499.99 ($800 off)\n\r\n65-inch Samsung The Frame TV (2025) - $999.99 ($600 off)\n\r\n65-inch LG OLED 4K Smart TV - $1,399.99 ($1,300 off)\n\r\nMonitors\n\r\n\n27-inch Samsung Curved 100Hz Monitor - $139.99 ($60 off)\n\r\n34-inch LG UltraWide 100Hz Monitor - $209.99 ($90 off)\n\r\n27-inch Alienware Gaming Monitor - $699.99 ($200 off)\n\r\n49-inch Samsung Odyssey OLED Curved Monitor - $999.99 ($700 off)\n\r\nAudio\n\r\n\nBeats Pill - $99.99 ($50 off)\n\r\nBeats Solo 4 Headphones - $129.49 ($70 off)\n\r\nBeats Studio Pro Headphones - $199.99 ($150 off)\n\r\nBose QuietComfort Ultra Headphones - $299.00 ($130 off)\n\r\nSony Bravia Theater Bar 6 - $549.99 ($150 off)\n\r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"Best Buy's Back to School Sale Brings Big Savings on AirPods, MacBooks, Headphones, and More\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-29T15:24:22.000Z",
+    "creator": "Mitchel Broussard",
+    "tags": "Mac,iOS,Silicon",
+    "id": 3549
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Gemini for Mac takes on Wispr Flow with smarter AI dictation",
+    "link": "https://www.cultofmac.com/news/gemini-mac-wispr-flow-smarter-ai-dictation",
+    "content": "Google turned Gemini into a smarter macOS assistant with AI dictation that removes filler words, plus a new screen-aware reasoning feature.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-29T15:22:51.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac",
+    "id": 3585
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Wallet Support Coming to Manchester's Bee Card",
+    "link": "https://www.macrumors.com/2026/07/29/bee-card-apple-wallet-support-in-works/",
+    "content": "Apple is preparing to allow the Bee Card to be added to the Wallet app, according to code seen by MacRumors.\r\n\r\nTag: Apple Wallet\nThis article, \"Apple Wallet Support Coming to Manchester's Bee Card\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-29T15:20:18.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "App Store",
+    "id": 3576
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iPhone 18 Pro vs iPhone Ultra: Here are the biggest differences",
+    "link": "https://9to5mac.com/2026/07/29/iphone-18-pro-vs-iphone-ultra-here-are-biggest-differences/",
+    "content": "Apple’s fall iPhone lineup this year is rumored to revolve around iPhone 18 Pro and iPhone Ultra. Here are the three biggest feature differences—not counting price—that may influence your upgrade decision.",
+    "pub_date": "2026-07-29T15:18:29.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 3581
+  },
+  {
+    "source_name": "AppleInsider",
     "title": "AI leaves the chat window behind with Gemini's new Mac voice mode",
     "link": "https://appleinsider.com/articles/26/07/29/ai-leaves-the-chat-window-behind-with-geminis-new-mac-voice-mode?utm_source=rss",
     "content": "Google is bringing voice-first AI assistance to the Mac, letting Gemini turn spoken requests into finished text without pulling users out of the app they're already using.\n\nMacs could finally get a Gemini app\nGemini's default intelligent dictation mode transcribes speech at the cursor and automatically removes verbal fillers such as \"ums\" and \"ahs.\" Google said the feature produces polished text directly where the user is already working.\nUsers can also enable screen-aware reasoning, which lets Gemini understand on-screen content before carrying out more complex requests. Google said Gemini can turn highlighted notes into an executive summary and insert the rewritten text directly into the document.\nHolding down the Function, or Fn, key activates the voice controls from any desktop window. The shortcut lets users call on Gemini without opening a separate chat window or copying text between apps.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
@@ -31,20 +151,10 @@
   },
   {
     "source_name": "MacRumors",
-    "title": "Best Buy's Back to School Sale Brings Big Savings on AirPods, MacBooks, Headphones, and More",
-    "link": "https://www.macrumors.com/2026/07/29/best-buys-school-sale/",
-    "content": "Best Buy this week is hosting a pair of sales kicking off Back to School season, as well as its annual Black Friday in July event, with notable markdowns on Apple devices, TVs, headphones, monitors, and much more. These sales are set to last for the rest of this week, and you don't need to be a My Best Buy Plus or Total member to see the deals.\r\n\r\nNote: MacRumors is an affiliate partner with Best Buy. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\nApple devices, you can find solid deals on AirPods Max 2, iPhone Air, Beats accessories, and MacBook Pro. You can get the AirPods Max 2 for $449.00 ($100 off), as well as up to $500 off M5 Pro and M5 Max MacBook Pro, starting at $2,299.00 for the 1TB 14-inch model.\r\n\r\n\nSITEWIDE SALE\nBest Buy Back to School Sale\n\n\r\n\r\nmajor savings from popular brands like Insignia, Samsung, and LG. Best Buy has Samsung's popular line of The Frame TVs on sale, including the 65-inch 2025 model for $999.99 ($600 off), which is a match of the record low price on this device.\r\nApple\n\r\n\nAirPods Max 2 - $449.00 ($100 off)\n\r\n256GB iPhone Air - $899.99 ($100 off)\n\r\n14-inch MacBook Pro (M5 Pro, 1TB) - $2,299.00 ($200 off)\n\r\n14-inch MacBook Pro (M5 Pro, 2TB) - $2,499.00 ($500 off)\n\r\n14-inch MacBook Pro (M5 Max, 2TB) - $3,599.00 ($500 off)\n\r\n16-inch MacBook Pro (M5 Max, 36GB, 2TB) - $3,999.00 ($400 off)\n\r\n16-inch MacBook Pro (M5 Max, 48GB, 2TB) - $4,499.00 ($500 off)\n\r\nTVs\n\r\n\n55-inch Toshiba C350 4K Smart Fire TV - $249.99 ($150 off)\n\r\n65-inch Samsung U7900 4K Smart TV - $329.99 ($140 off)\n\r\n65-inch LG UA7050 4K Smart TV - $329.99 ($160 off)\n\r\n98-inch Hisense QLED 4K Smart Google TV - $1,499.99 ($800 off)\n\r\n65-inch Samsung The Frame TV (2025) - $999.99 ($600 off)\n\r\n65-inch LG OLED 4K Smart TV - $1,399.99 ($1,300 off)\n\r\nMonitors\n\r\n\n27-inch Samsung Curved 100Hz Monitor - $139.99 ($60 off)\n\r\n34-inch LG UltraWide 100Hz Monitor - $209.99 ($90 off)\n\r\n27-inch Alienware Gaming Monitor - $699.99 ($200 off)\n\r\n49-inch Samsung Odyssey OLED Curved Monitor - $999.99 ($700 off)\n\r\nAudio\n\r\n\nBeats Pill - $99.99 ($50 off)\n\r\nBeats Solo 4 Headphones - $129.49 ($70 off)\n\r\nBeats Studio Pro Headphones - $199.99 ($150 off)\n\r\nBose QuietComfort Ultra Headphones - $299.00 ($130 off)\n\r\nSony Bravia Theater Bar 6 - $549.99 ($150 off)\n\r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"Best Buy's Back to School Sale Brings Big Savings on AirPods, MacBooks, Headphones, and More\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-29T14:32:54.000Z",
-    "creator": "Mitchel Broussard",
-    "tags": "Mac,iOS,Silicon",
-    "id": 3549
-  },
-  {
-    "source_name": "MacRumors",
     "title": "Apple Upgrade: Is Leasing Your Next iPhone Worth It?",
     "link": "https://www.macrumors.com/2026/07/29/is-apple-upgrade-program-worth-it/",
-    "content": "With the new Apple Upgrade program in the U.S., you can now lease an iPhone, but is it worth it? The answer is more complicated than a simple yes or no.\r\n\r\n\r\nWe'll use the iPhone 17 Pro with 256GB of storage on a one-year lease as an example. In the U.S., the device costs $1,099 upfront, but through Apple Upgrade you can lease it for $45.99/month for 12 months.\r\n\r\n\r\n  \nReturn your iPhone.\n\r\n  \nReturn your iPhone and upgrade to a newer iPhone.\n\r\n  \nBuy the iPhone outright by paying an amount equal to the device's retail price minus any lease payments made.\n\r\nWe dive into each of those options below.\r\n\r\nOptions\n\r\nReturning the iPhone\n\r\nIf you return the iPhone 17 Pro and simply move on from the Apple Upgrade program, then your total cost to own the device would be $551.88 after 12 months, plus sales tax if applicable. While that is less than paying $1,099 upfront, the catch is that you are no longer in possession of the device after your lease ends and cannot resell it or trade it in.\r\n\r\nResale value is a big factor. If you paid $1,099 upfront for the iPhone 17 Pro but resold it for say $650 through a private sale on eBay or Facebook Marketplace after 12 months, then you only spent $450 to own the device for a year, compared to $551 if you leased it through the Apple Upgrade Program for that long. But if you somehow only managed to get $500 for the device in a private sale, then you spent $600 for the device and could have saved a bit of money by opting for the Apple Upgrade program.\r\n\r\n$551.88 is approximately 50% of the iPhone 17 Pro's price, so Apple is essentially betting that the device will retain more than 50% of its value after one year, in order to ensure that the Apple Upgrade program is profitable. Resale prices for used iPhones can vary significantly, but Apple almost certainly expects to come out ahead.\r\n\r\nFor instance, Apple's trade-in program currently offers $560 for a used iPhone 16 Pro in good condition, and that device was released nearly two years ago. Yet, Apple is effectively \"giving you back\" only $547.12 on a used iPhone 17 Pro after just one year ($1,099 minus $551.88), so the math unsurprisingly works in Apple's favor.\r\n\r\nKeep in mind that the Apple Upgrade program is partly about convenience, as you do not have to deal with reselling your iPhone — not everyone likes to deal with eBay or Facebook Marketplace. That alone might sway some customers towards Apple Upgrade, even if they know there is a chance it is not the most financially optimal decision. \r\n\r\nUpgrading to a New iPhone\n\r\nIf you return the iPhone and upgrade to a newer one, the process essentially starts over.\r\n\r\nFor example, if the iPhone 18 Pro with 256GB of storage were to be offered at the same $45.99/month price, you would pay another $551.88 during the following 12 months. That would bring your total cost to $1,103.76 over two years, and you would still need to return the iPhone 18 Pro or make a final payment to keep it.\r\n\r\nIf you had purchased both the iPhone 17 Pro and iPhone 18 Pro upfront for $1,099 each, the total cost would have been $2,198. If you had managed to resell the devices for $650 each, you would have recouped $1300, lowering your final cost to $898, which would have been less than the $1,103.76 cost of leasing the devices after two years.\r\n\r\nOf course, the resale values we have provided are purely hypothetical. There is no way of knowing what a used iPhone will be worth with certainty, but Apple has surely put a lot of research into its leasing prices to ensure that it makes a profit.\r\n\r\nBuying the iPhone\n\r\nIf you opt to buy the iPhone outright at the end of your 12-month lease, by paying an amount equal to the device's retail price minus the $551.88 in lease payments made, then you simply owe the remaining $547.12 to Apple's financing partner Klarna. This brings your total cost to $1,099, which is the upfront price of the iPhone 17 Pro.\r\n\r\nIn this case, you ultimately just purchased your iPhone 17 Pro with interest-free financing, by spreading out the $1,099 cost over 12 months.\r\n\r\nIs It Worth It?\n\r\nIf you simply want to spend the least amount of money on iPhones over time, buying them upfront and reselling them privately is very likely the best option.\r\n\r\nHowever, the Apple Upgrade program can be worth it for customers who value convenience and predictability. If you want a new iPhone every year or two and want to avoid the hassle of selling your existing iPhone through eBay or Facebook Marketplace, then the program is worth considering if the monthly payments fit into your budget.\r\n\r\nTag: Apple Upgrade Program\nThis article, \"Apple Upgrade: Is Leasing Your Next iPhone Worth It?\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-29T14:29:37.000Z",
+    "content": "With the new Apple Upgrade program in the U.S., you can now lease an iPhone, but is it worth it? The answer is more complicated than a simple yes or no.\r\n\r\n\r\nWe'll use the iPhone 17 Pro with 256GB of storage on a one-year lease as an example. In the U.S., the device costs $1,099 upfront, but through Apple Upgrade you can lease it for $45.99/month for 12 months.\r\n\r\n\r\n  \nReturn your iPhone.\n\r\n  \nReturn your iPhone and upgrade to a newer iPhone.\n\r\n  \nBuy the iPhone outright by paying an amount equal to the device's retail price minus any lease payments made.\n\r\nWe dive into each of those options below.\r\n\r\nOptions\n\r\nReturning the iPhone\n\r\nIf you return the iPhone 17 Pro and simply move on from the Apple Upgrade program, then your total cost to own the device would be $551.88 after 12 months, plus sales tax if applicable. While that is less than paying $1,099 upfront, the catch is that you are no longer in possession of the device after your lease ends and cannot resell it or trade it in.\r\n\r\nResale value is a big factor. If you paid $1,099 upfront for the iPhone 17 Pro but resold it for say $650 through a private sale on eBay or Facebook Marketplace after 12 months, then you only spent $450 to own the device for a year, compared to $551 if you leased it through the Apple Upgrade Program for that long. But if you somehow only managed to get $500 for the device in a private sale, then you spent $600 for the device and could have saved a bit of money by opting for the Apple Upgrade program.\r\n\r\n$551.88 is approximately 50% of the iPhone 17 Pro's price, so Apple is essentially betting that the device will retain more than 50% of its value after one year, in order to ensure that the Apple Upgrade program is profitable. Resale prices for used iPhones can vary significantly, but Apple almost certainly expects to come out ahead.\r\n\r\nFor instance, Apple's trade-in program currently offers $560 for a used iPhone 16 Pro in good condition, and that device was released nearly two years ago. Yet, Apple is effectively \"giving you back\" only $547.12 on a used iPhone 17 Pro after just one year ($1,099 minus $551.88), so the math unsurprisingly works in Apple's favor.\r\n\r\nKeep in mind that the Apple Upgrade program is partly about convenience, as you do not have to deal with reselling your iPhone — not everyone likes to deal with eBay or Facebook Marketplace. That alone might sway some customers towards Apple Upgrade, even if they know there is a chance it is not the most financially optimal decision. \r\n\r\nUpgrading to a New iPhone\n\r\nIf you return the iPhone and upgrade to a newer one, the process essentially starts over.\r\n\r\nFor example, if the iPhone 18 Pro with 256GB of storage were to be offered at the same $45.99/month price, you would pay another $551.88 during the following 12 months. That would bring your total cost to $1,103.76 over two years, and you would still need to return the iPhone 18 Pro or make a final payment to keep it.\r\n\r\nIf you had purchased both the iPhone 17 Pro and iPhone 18 Pro upfront for $1,099 each, the total cost would have been $2,198. If you had managed to resell the devices for $650 each, you would have recouped $1300, lowering your final cost to $898, which would have been less than the $1,103.76 cost of leasing the devices after two years.\r\n\r\nOf course, the resale values we have provided are purely hypothetical. There is no way of knowing what a used iPhone will be worth with certainty, but Apple has surely put a lot of research into its leasing prices to ensure that it makes a profit.\r\n\r\nBuying the iPhone\n\r\nIf you opt to buy the iPhone outright at the end of your 12-month lease, by paying an amount equal to the device's retail price minus the $551.88 in lease payments made, then you simply owe the remaining $547.12 to Apple's financing partner Klarna. This brings your total cost to $1,099, which is the upfront price of the iPhone 17 Pro.\r\n\r\nIn this case, you ultimately just purchased your iPhone 17 Pro with interest-free financing by spreading out the $1,099 cost over 12 months.\r\n\r\nIs It Worth It?\n\r\nIf you simply want to spend the least amount of money on iPhones over time, buying them upfront and reselling them privately is very likely the best option.\r\n\r\nHowever, the Apple Upgrade program can be worth it for customers who value convenience and predictability. If you want a new iPhone every year or two and want to avoid the hassle of selling your existing iPhone through eBay or Facebook Marketplace, then the program is worth considering if the monthly payments fit into your budget.\r\n\r\nTag: Apple Upgrade Program\nThis article, \"Apple Upgrade: Is Leasing Your Next iPhone Worth It?\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-29T14:29:29.000Z",
     "creator": "Joe Rossignol",
     "tags": "iOS,Services",
     "id": 3550
@@ -2888,115 +2998,5 @@
     "creator": "Marcus Mendes",
     "tags": "General",
     "id": 3239
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple’s trade secrets lawsuit against OpenAI reassigned to new judge [U]",
-    "link": "https://9to5mac.com/2026/07/23/apples-trade-secrets-lawsuit-against-openai-reassigned-to-new-judge/",
-    "content": "Update, July 26: Apple’s form has now been made public, confirming that the company declined magistrate judge jurisdiction and requested that the case be reassigned to a district judge. The original story follows below.\nApple’s trade secrets lawsuit against OpenAI has been reassigned to U.S. District Judge Edward Davila, replacing the magistrate judge initially assigned to the case. Here are the details.",
-    "pub_date": "2026-07-24T00:33:42.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 3240
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Geekbench 7 is out with overhauled performance tests for CPU and GPU workloads",
-    "link": "https://9to5mac.com/2026/07/23/geekbench-7-is-out-with-overhauled-performance-tests-for-cpu-and-gpu-workloads/",
-    "content": "Primate Labs released Geekbench 7 today, promising benchmarks that more closely reflect how people use their devices across everyday tasks, gaming, and AI workloads. Here’s what’s new.",
-    "pub_date": "2026-07-23T22:05:31.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Silicon",
-    "id": 3237
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "10 iOS 27 Performance Improvements You'll Actually Notice",
-    "link": "https://www.macrumors.com/guide/ios-27-performance-improvements/",
-    "content": "With iOS 27, Apple focused on making improvements to iOS performance, optimizing everything from system animations to AirDrop transfer speeds. iPhone performance is smoother and faster on all iPhones able to run ‌iOS 27‌, which includes the iPhone 11 and newer.\r\n\r\n\r\nThere are over 80 ‌iOS 27‌ improvements Apple announced, with 10 of the most useful listed below.\r\n\r\nApp Launching\n\r\nApps launch up to 30 percent faster in ‌iOS 27‌, and that includes Apple's own apps and third-party apps. When you're opening apps dozens of times a day, less loading time adds up and makes the system feel faster.\r\n\r\niPhone 11 Pro Max running iOS 26.4.2 and ‌iOS 27‌.\r\nOptimized CPU Scheduler\n\r\niOS includes a CPU scheduler that manages computational resources across workloads as you use your iPhone. Apple says it optimized the CPU scheduler in ‌iOS 27‌ to more efficiently handle performance-intensive tasks.\r\n\r\nApple extended CPU scheduler optimization all the way back to the iPhone 11, which is part of the reason even old iPhones feel faster with the update installed.\r\n\r\nApple is often accused of making old iPhones slower with new iOS updates, but there are noticeable speed improvements in ‌iOS 27‌ so we likely won't hear that complaint this year.\r\n\r\nBetter Wi-Fi to Cellular Transitions\n\r\niPhones are better at determining when to transition from Wi-Fi to a cellular connection, and from a cellular connection to Wi-Fi. When you're connected to your home Wi-Fi and walk out the door, you'll see less connectivity loss as your device changes networks.\r\n\r\nApple says the iPhone is better about choosing the best available Wi-Fi or cellular connection to help you stay connected.\r\n\r\nRebuilt Search Index\n\r\nApple rebuilt its search foundation in ‌iOS 27‌, giving Spotlight, Photos, Mail, and other apps a more comprehensive index of content that stays updated throughout the day.\r\n\r\nIn the Mail app, there's a new ranking system that surfaces more relevant emails for search queries instead of listing results by date. You'll see up to five ranked Top Results now.\r\n\r\nPhoto Load Time\n\r\nWhen you take a photo and then open up the ‌Photos‌ app, your just-captured image appears more quickly so you can edit it or share it. Apple says photos and videos load up to 70 percent faster in the ‌Photos‌ library, which it tested with a ‌Photos‌ app that had a 50,000-asset library.\r\n\r\nWaiting on a photo to unblur when you quickly swap over to the ‌Photos‌ app is a small annoyance, but cutting down on load time makes taking a photo feel much faster.\r\n\r\nRecent camera captures are also added more quickly in the Messages app photo picker.\r\n\r\nAutomatic Message Resending\n\r\nWhen a message, photo, or video fails to send in iMessage, your iPhone will automatically retry sending it instead of throwing up a red exclamation point and forcing you to manually try again.\r\n\r\nSending photos and videos when you have a poor connection also does not pause a Messages conversation while the content sends. Each photo or video has its own progress bar, and your texts will still go through while you wait for images and video to upload.\r\n\r\nFaster Camera Launch in Low Power Mode\n\r\nWhen you have Low Power Mode turned on, the Camera app can launch slowly. That's been fixed in ‌iOS 27‌, and it loads faster than before.\r\n\r\nThe Camera also draws less power in Low Power Mode.\r\n\r\nFaster Keyboard Loading\n\r\nThe emoji and sticker keyboards load more quickly, so there's no longer an irritating pause when you want to use an emoji. The keyboard is something you use frequently, so this is a time-saving improvement.\r\n\r\nMail Badges\n\r\nIf you're tired of unread Mail badges popping up when you have read all your emails, ‌iOS 27‌ addresses the issue. The Mail app badge is now less likely to show an inaccurate number of unread emails.\r\n\r\nBluetooth\n\r\nApple says it improved Bluetooth power management in ‌iOS 27‌, an update relevant to AirPods, Apple Watch, CarPlay, speakers, and other Bluetooth devices.\r\n\r\nBluetooth accessories should draw less power for some minor improvements to battery life.\r\nOther Useful Improvements\n\r\n\r\nAirDrop transfers are up to 80 percent faster, and AirDrop is faster to find nearby recipients\n\r\n \nText recognition in images and documents is quicker\n\r\n \nSafari has enhanced power efficiency and web apps are faster\n\r\n \nUnlocking an iPhone, scrolling through Home Screen pages and App Library, and scrolling in Control Center are all smoother\n\r\n \nThe Lock Screen no longer goes to sleep when you're scrolling through notifications\n\r\n \nWireless ‌CarPlay‌ is more reliable\n\r\n\r\niOS 27 Launch\n\r\n‌iOS 27‌ is being beta tested right now, and can be downloaded by developers and public beta testers. It will launch this fall alongside new iPhone models.\r\nRead More\n\r\nFor more on the new features in ‌iOS 27‌, we have a dedicated iOS 27 roundup.\nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"10 iOS 27 Performance Improvements You'll Actually Notice\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-23T22:02:58.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,App Store",
-    "id": 3236
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iPhone Driver's Licenses May Soon Expand to New State",
-    "link": "https://www.macrumors.com/2026/07/23/iphone-drivers-licenses-utah/",
-    "content": "Driver's licenses and IDs may soon be available in Apple Wallet for iPhone and Apple Watch users who live in Utah. MacRumors discovered signs of a Utah ID in Apple's backend, suggesting Apple is moving forward on implementing support.\r\n\r\n\r\nUtah already offers a mobile driver's license option through a standalone app, but there is no Apple Wallet integration. Utah's mobile driver's license FAQ page still says that it is still in the initial planning process of adding Utah IDs to Apple Wallet, but it may not be up to date.\r\n\r\nThe site also says that when Apple Wallet integration launches, iPhone users who already use the mobile app for their Utah ID will be able to download it to Apple Wallet.\r\n\r\nApple announced plans to add Utah driver's licenses and IDs to the Apple Wallet app way back in 2021, but no integration has materialized. Utah was one of the first states Apple mentioned when rolling out the feature.\r\n\r\nOther states planning to add support for driver's licenses in Apple Wallet include Connecticut, Kentucky, Mississippi, Oklahoma, and Virginia.\r\n\r\nMultiple states have already implemented support, as has Puerto Rico.\r\n\r\n \t\nArkansas\n\r\n \t\nArizona\n\r\n \t\nCalifornia\n\r\n \t\nColorado\n\r\n \t\nGeorgia\n\r\n \t\nHawaii\n\r\n \t\nIllinois\n\r\n \t\nIowa\n\r\n \t\nMaryland\n\r\n \t\nMontana\n\r\n \t\nNew Mexico\n\r\n \t\nNorth Dakota\n\r\n \t\nOhio\n\r\n \t\nWest Virginia\n\r\n\r\nDigital IDs and licenses are accepted at select TSA checkpoints across the United States. It can also be used at some business venues and in select apps that require ID verification for services or purchases.\r\n\r\niOS 26 Digital ID feature.\nTag: Apple Wallet\nThis article, \"iPhone Driver's Licenses May Soon Expand to New State\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-23T20:58:38.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,App Store",
-    "id": 3226
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Opera One browser joins the vertical tab club, expands Google Lens integration",
-    "link": "https://9to5mac.com/2026/07/23/opera-one-browser-joins-the-vertical-tab-club-expands-google-lens-integration/",
-    "content": "Opera announced two new features for its desktop browser today: optional vertical tabs and expanded Google Lens integration. Here are the details.",
-    "pub_date": "2026-07-23T20:35:12.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 3227
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Here’s everything new for Messages in iOS 27",
-    "link": "https://9to5mac.com/2026/07/23/heres-everything-new-for-messages-in-ios-27/",
-    "content": "iOS 27 adds new features across many system apps, like Wallet, Calendar, Music, and Maps. Here’s what’s new for the Messages app in iOS 27.",
-    "pub_date": "2026-07-23T20:34:08.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS,App Store",
-    "id": 3228
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iPhone 18 Pro: Three reasons you might want to upgrade from iPhone 17 Pro",
-    "link": "https://9to5mac.com/2026/07/23/iphone-18-pro-three-reasons-you-might-want-to-upgrade-from-iphone-17-pro/",
-    "content": "iPhone 18 Pro is just a couple months away, and while most iPhone 17 Pro owners won’t upgrade so soon, for those considering a new iPhone there are three main features likely to motivate them.",
-    "pub_date": "2026-07-23T20:22:10.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 3229
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "ChatGPT and Codex are currently down for some users",
-    "link": "https://9to5mac.com/2026/07/23/chatgpt-and-codex-are-currently-down-for-some-users/",
-    "content": "OpenAI’s system status page confirms that some users are encountering elevated error rates when trying to use ChatGPT and Codex. Here are the details.",
-    "pub_date": "2026-07-23T20:05:08.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 3230
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iPhone leasing, Apple Music price increase, iOS 27 beta 4",
-    "link": "https://9to5mac.com/2026/07/23/happy-hour-600/",
-    "content": "Benjamin and Chance talk about the last week in Apple News, including the rumored new ‘Apple Upgrade’ leasing program, Apple Music price hike, iOS 27 beta 4 changes, an OLED screen roadmap for future Macs and iPads, and next-gen Apple Pencils with replaceable batteries.\nAnd in Happy Hour Plus, Apple and Ford announce a new partnership to bring Apple Music directly into the car infotainment system. Subscribe at 9to5mac.com/join.\nSponsored by Shopify: All you need is the idea. Shopify handles the rest. Start your free trial at shopify.com/happyhour.\nSponsored by Framer: The only free design tool that brings your ideas to the web. Visit framer.com/happyhour for 30% off a Framer Pro annual plan.\nSponsored by Keeper: Get 60% off personal and family plans at keepersecurity.com/HAPPYHOUR.",
-    "pub_date": "2026-07-23T20:00:00.000Z",
-    "creator": "Chance Miller",
-    "tags": "iOS,Services",
-    "id": 3231
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Report: iPhone Ultra set to account for 25% of foldable smartphone shipments in 2026",
-    "link": "https://9to5mac.com/2026/07/23/report-iphone-ultra-set-to-account-for-25-of-foldable-smartphone-shipments-in-2026/",
-    "content": "Counterpoint Research is out with a new report forecasting 21% year-over-year growth in global foldable smartphone shipments in 2026, with Apple expected to capture a 25% share following its entry into this market. Here are the details.",
-    "pub_date": "2026-07-23T19:49:23.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "iOS",
-    "id": 3232
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "OpenAI updating ChatGPT desktop app with GPT Voice for talking through work",
-    "link": "https://9to5mac.com/2026/07/23/openai-updating-chatgpt-desktop-app-with-gpt-voice-for-talking-through-work/",
-    "content": "OpenAI is releasing a big update to the ChatGPT desktop app today that introduces GPT Voice mode for talking through work to complete tasks. The new feature is powered by GPT-Live, OpenAI’s upgraded voice mode that arrived on mobile this month.",
-    "pub_date": "2026-07-23T19:36:11.000Z",
-    "creator": "Zac Hall",
-    "tags": "App Store",
-    "id": 3233
   }
 ]
