@@ -1,5 +1,55 @@
 [
   {
+    "source_name": "MacRumors",
+    "title": "Apple Says UK App Store Steering Rules Would Be 'Highly Intrusive'",
+    "link": "https://www.macrumors.com/2026/07/29/app-store-uk-rules-highly-intrusive/",
+    "content": "Apple said new UK App Store rules would give regulators a \"highly intrusive\" role dictating how it runs its business, reports Reuters. Apple submitted feedback to the UK's Competition and Markets Authority as it considers forcing Apple to change its ‌App Store‌ rules around steering.\r\n\r\n\r\nThe CMA wants Apple to let developers link to payment options outside of the ‌App Store‌, which the CMA says will cut fees and boost competition. Developers in the UK are not currently able to direct customers outside of the ‌App Store‌, even though that's allowed with the current U.S. ‌App Store‌ rules and the EU ‌App Store‌ rules.\r\n\r\nUK regulators said Apple can charge developers a fee, but it must be fair and reasonable, and below existing ‌App Store‌ commissions, so developers can pass savings to customers or reinvest them in innovation.\r\n\r\nAccording to Apple, the CMA's proposed rules would undermine innovation and investment, and would amount to price regulation because of the restriction on fees. Apple claims there is no evidence that allowing developers to direct users to purchase options outside the ‌App Store‌ would result in savings for customers. Apple said the ‌App Store‌ facilitated over £46.5 billion in UK billings and sales in 2025, and commissions accounted for less than 3.5 percent of the total.\r\n\r\nReuters.\r\n\r\nwith strategic market status (SMS) in the UK last year. Under the designation, the CMA can impose requirements meant to open up the platforms to greater competition.\nTags: App Store, United Kingdom\nThis article, \"Apple Says UK App Store Steering Rules Would Be 'Highly Intrusive'\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-29T22:43:12.000Z",
+    "creator": "Juli Clover",
+    "tags": "App Store",
+    "id": 3602
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Qualcomm says supply constraints are shrinking its Apple business faster than expected",
+    "link": "https://9to5mac.com/2026/07/29/qualcomm-says-supply-constraints-are-shrinking-its-apple-business-faster-than-expected/",
+    "content": "After Qualcomm released its quarterly report and projected weaker-than-expected profit for the current quarter, the company’s CEO told Reuters that supply constraints would cause its revenue from Apple products to decline faster than expected. Here are the details.",
+    "pub_date": "2026-07-29T22:30:08.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 3605
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Pastebot 3 for Mac Adds Rule-Based Organization, Powerful Paste Filters",
+    "link": "https://www.macrumors.com/2026/07/29/tapbots-pastebot-3/",
+    "content": "Tapbots recently launched Pastebot 3, the newest version of its popular clipboard management software.\r\n\r\n\r\nLike prior versions of Pastebot, Pastebot 3 records everything you copy so that it's easy to find and paste when needed. You can store links and other content that you often paste, and organize the snippets by category in Custom Pastebins.\r\n\r\nThere are also rule-based Smart Pastebins for automatic organization, like every link or image copied from Safari. Smart Pastebins can be filtered by clipping size, type, file extension, creation date, text, text length, and more. Multiple parameters can be combined for detailed filtering, and custom notes can be added to clippings to make them easy to find via search.\r\n\r\nYou can create more powerful custom filters and apply them to text you've copied before pasting it. You can do things like convert to plaintext and remove smart punctuation, wrap what you're pasting in paragraph tags, convert to upper or lowercase, nix emojis, find and replace, extract URLs or phone numbers, remove empty lines, sort, and translate. Multiple filters can be combined and keyboard shortcuts can be assigned to the filters you use most often.\r\n\r\nA quick paste menu can be activated with a Shift+Command+V keyboard shortcut for bringing up your most frequently used clippings in any app, and there's a Stack function for copying multiple items and pasting them one after another.\r\n\r\niCloud, and there are options for customizing how many clippings are saved. You can keep up to 1,500.\r\n\r\nTapbots says Pastebot 3 was built to work with Apple's Universal Clipboard feature, and when enabled and active, anything you copy on your iPhone is saved in Pastebot automatically. Clippings saved in Pastebot can also be pasted on iPhone. Pastebot 3 supports Apple Shortcuts and CLI access for automating clippings.\r\n\r\nmacOS Tahoe or later. It can be purchased directly from Tapbots for $39, with a year of updates included and the option to buy another year of updates for $19. There's also a Mac App Store purchase option with a $24.99 per year or $2.99 per month subscription. Pastebot customers who enter a Pastebot 2 license key can get a $12.99 upgrade discount on the direct purchase option. New customers can try the app for 14 days.\nTags: Pastebot, Tapbots\nThis article, \"Pastebot 3 for Mac Adds Rule-Based Organization, Powerful Paste Filters\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-29T22:14:30.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS,App Store,Services",
+    "id": 3603
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Releases Safari Technology Preview 249 With Bug Fixes and Performance Improvements",
+    "link": "https://www.macrumors.com/2026/07/29/apple-releases-safari-technology-preview-249/",
+    "content": "Apple today released a new update for Safari Technology Preview, the experimental browser that was first introduced in March 2016. Apple designed ‌Safari Technology Preview‌ to allow users to test features that are planned for future release versions of the Safari browser.\r\n\r\n\r\n‌Safari Technology Preview‌ 249 includes fixes and updates for Accessibility, Animations, CSS, Editing, Forms, HTML, JavaScript, Media, Rendering, Spatial Web, Web API, Web Audio, Web Inspector, WebAssembly, WebDriver, and WebRTC.\r\n\r\nmacOS Tahoe and macOS Golden Gate, the newest version of macOS.\r\n\r\ndownloaded the browser from Apple's website. Complete release notes for the update are available on the Safari Technology Preview website.\r\n\r\nThis article, \"Apple Releases Safari Technology Preview 249 With Bug Fixes and Performance Improvements\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-29T22:03:29.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac",
+    "id": 3604
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple pushes back against UK proposal to loosen App Store payment rules",
+    "link": "https://9to5mac.com/2026/07/29/apple-pushes-back-against-uk-proposal-to-loosen-app-store-payment-rules/",
+    "content": "Apple today alleged that a new UK proposal targeting App Store fees amounts to price regulation, warning that it could undermine innovation and investment. Here are the details.",
+    "pub_date": "2026-07-29T21:43:45.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "App Store",
+    "id": 3606
+  },
+  {
     "source_name": "9to5Mac",
     "title": "Almost all future robot vacuums were just banned by the US government",
     "link": "https://9to5mac.com/2026/07/29/almost-all-future-robot-vacuums-were-just-banned-by-the-us-government/",
@@ -51,20 +101,20 @@
   },
   {
     "source_name": "MacRumors",
-    "title": "Apple Begins Selling Refurbished Studio Display XDR at a Discount",
+    "title": "Apple Begins Selling Refurbished Studio Display XDR",
     "link": "https://www.macrumors.com/2026/07/29/apple-refurbished-studio-display-xdr/",
-    "content": "Apple this month began selling certified refurbished Studio Display XDR models in the U.S. for the first time since the display was released in March. Availability extends to Australia, New Zealand, Canada, Japan, and select other countries. \r\n\r\n\r\nA refurbished Studio Display XDR with a VESA mount adapter and standard glass is priced at $2,459, down from $2,899 for the equivalent new configuration. This amounts to a 15% discount, which is typical for Apple's refurbished products.\r\n\r\nA refurbished model with a tilt- and height-adjustable stand and standard glass is priced at $2,799, down from $3,299, which is likewise a 15% discount.\r\n\r\nRefurbished models with nano-texture glass are also available at a discount.\r\n\r\nApple says it puts refurbished products through \"full functionality testing\" and a \"thorough cleaning process and inspection,\" and they are covered by Apple's one-year limited warranty and eligible for extended AppleCare+ coverage. In our view, Apple's own refurbished devices are virtually indistinguishable from brand-new devices.\r\n\r\nThe refurbished models come in a plain white box with a Thunderbolt 5 Pro cable.\r\n\r\nRelated Roundup: Studio Display\nTag: Apple Refurbished Products\nBuyer's Guide: Displays (Buy Now)\nRelated Forum: Mac Accessories\nThis article, \"Apple Begins Selling Refurbished Studio Display XDR at a Discount\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-29T20:14:57.000Z",
+    "content": "Apple this month began selling certified refurbished Studio Display XDR models in the U.S. for the first time since the display was released in March. Availability extends to Australia, New Zealand, Canada, Japan, and select other countries. \r\n\r\n\r\nA refurbished Studio Display XDR with a VESA mount adapter and standard glass is priced at $2,459, down from $2,899 for the equivalent new configuration. This amounts to a 15% discount, which is typical for Apple's refurbished products.\r\n\r\nA refurbished model with a tilt- and height-adjustable stand and standard glass is priced at $2,799, down from $3,299, which is likewise a 15% discount.\r\n\r\nRefurbished models with nano-texture glass are also available at a discount.\r\n\r\nApple says it puts refurbished products through \"full functionality testing\" and a \"thorough cleaning process and inspection,\" and they are covered by Apple's one-year limited warranty and eligible for extended AppleCare+ coverage. In our view, Apple's own refurbished devices are virtually indistinguishable from brand-new devices.\r\n\r\nThe refurbished models come in a plain white box with a Thunderbolt 5 Pro cable.\r\n\r\nRelated Roundup: Studio Display\nTag: Apple Refurbished Products\nBuyer's Guide: Displays (Buy Now)\nRelated Forum: Mac Accessories\nThis article, \"Apple Begins Selling Refurbished Studio Display XDR\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-29T20:14:49.000Z",
     "creator": "Joe Rossignol",
     "tags": "Mac",
     "id": 3595
   },
   {
     "source_name": "MacRumors",
-    "title": "Here Are All the Changes to AppleCare+ This Month",
+    "title": "All the Changes to AppleCare+ This Month",
     "link": "https://www.macrumors.com/2026/07/29/applecare-changes-made-this-month/",
-    "content": "July has been a busy month for AppleCare+ news. We have recapped all the changes to AppleCare+ and the AppleCare One bundle below.\r\n\r\n\r\nIn the U.S., Apple raised the prices on monthly ‌and annual AppleCare‌+ subscription plans for Macs and iPads by $0.50/month and $5/year, respectively.\r\n\r\nin Canada and Japan for the first time this month.\r\n\r\nJapan, Australia, France, Germany, and the United Kingdom.\r\n\r\nexpanding too. Starting on Tuesday, August 4, it will be available in Australia, France, Germany, and the United Kingdom.\r\n\r\nTag: AppleCare\nThis article, \"Here Are All the Changes to AppleCare+ This Month\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-29T19:32:45.000Z",
+    "content": "July has been a busy month for AppleCare+ news. We have recapped all the changes to AppleCare+ and the AppleCare One bundle below.\r\n\r\n\r\nIn the U.S., Apple raised the prices on monthly ‌and annual AppleCare‌+ subscription plans for Macs and iPads by $0.50/month and $5/year, respectively.\r\n\r\nin Canada and Japan for the first time this month.\r\n\r\nJapan, Australia, France, Germany, and the United Kingdom.\r\n\r\nexpanding too. Starting on Tuesday, August 4, it will be available in Australia, France, Germany, and the United Kingdom.\r\n\r\nTag: AppleCare\nThis article, \"All the Changes to AppleCare+ This Month\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-29T19:32:38.000Z",
     "creator": "Joe Rossignol",
     "tags": "Services",
     "id": 3596
@@ -291,7 +341,7 @@
   },
   {
     "source_name": "Cult of Mac",
-    "title": "HBO Max Shorts brings vertical AI-picked clips to iPhone",
+    "title": "HBO Max Shorts brings vertical, AI-picked clips to iPhone",
     "link": "https://www.cultofmac.com/news/hbo-max-shorts-vertical-video-feed-ai-iphone-test",
     "content": "HBO Max Shorts is a new video feed being tested on iPhone in the U.S. The hook? The videos being shown are vertical. \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
     "pub_date": "2026-07-29T14:56:33.000Z",
@@ -503,7 +553,7 @@
     "source_name": "Cult of Mac",
     "title": "Apple’s long-delayed smart home hub could finally arrive this year",
     "link": "https://www.cultofmac.com/news/apple-long-delayed-smart-home-hub-arrive-year",
-    "content": "Apple's long-rumoured smart home hub could finally arrive in 2026, alongside a refreshed Apple TV and HomePod mini.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "content": "Powered by Siri AI, Apple's rumored smart home hub could finally arrive soon alongside a refreshed Apple TV and HomePod mini.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
     "pub_date": "2026-07-29T04:57:52.000Z",
     "creator": "Rajesh Pandey",
     "tags": "Mac",
@@ -2948,55 +2998,5 @@
     "creator": "Joe Rossignol",
     "tags": "General",
     "id": 3260
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Meta just released a brand-new Facebook Seller app for iPhone",
-    "link": "https://9to5mac.com/2026/07/24/meta-just-released-a-brand-new-facebook-seller-app-for-iphone/",
-    "content": "Meta has launched a brand-new iPhone app officially called Seller, a Facebook app. The new Meta app is specifically for Facebook users managing listings on Marketplace, the social network’s virtual storefront for physical items.",
-    "pub_date": "2026-07-24T13:28:51.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS,App Store",
-    "id": 3263
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple Wallet driver’s licenses coming to two more states soon: report",
-    "link": "https://9to5mac.com/2026/07/24/apple-wallet-drivers-licenses-coming-to-two-more-states-soon-report/",
-    "content": "Apple Wallet offers digital IDs and driver’s licenses in a variety of US states, and according to findings by MacRumors’ Aaron Perris, there are two new states that could add support soon.",
-    "pub_date": "2026-07-24T13:27:09.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "General",
-    "id": 3264
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Save $100 on the Apple Watch Series 11 in near-all-time-low deal",
-    "link": "https://www.macworld.com/article/3198697/save-100-on-the-apple-watch-series-11-in-near-all-time-low-deal.html",
-    "content": "Macworld\n\n\nApple Watch Series 11\nView Deal\nBuying Apple’s newest smartwatch just got easier to justify. The Apple Watch Series 11 is on sale for $299 right now, which is $100 under its MSRP. That’s a solid 25 percent discount for a device you’ll wear every day, helping you keep your activity levels up and keeping you connected to the world. It’s just $20 more than the lowest price we’ve ever seen during Prime Day.\nThe Apple Watch Series 11 is the perfect purchase for someone who wants to keep a closer eye on their health without much effort. It tracks your heart, helps you learn more about your sleeping habits, and pushes you to stay active with tools like Workout Buddy, Pacer, and Heart Rate Zones. You can also take an ECG anytime and get alerts for high or low heart rate and irregular rhythms, while the Vitals app shows you overnight metrics at a glance, and you’ll even find out if you have sleep apnea. It’s a natural fit for iPhone owners who are busy with work, family, workouts, and everything else.\nSafety features are also pretty great here. The Series 11 can detect a hard fall or severe car crash and automatically connect you with emergency services while alerting your contacts. It’s also ready for watchOS 27 in the fall, which brings the all-new Siri AI and other enhancements.\nThe watch is thin and lightweight, so it’s comfortable to wear around the clock, including during sleep. A single charge will give you enough juice to use the watch for up to 24 hours, and a quick 15-minute charge buys you about 8 hours of use. Of course, you can also text, take calls, stream music, and use Siri right from your wrist.\nYou should be well aware that this is the GPS model you’re paying $299 for, so you’ll need your iPhone to stay connected. If you want the 5G model, it’s going to cost you $350 ($150 off). Additionally, you can get the larger 46mm model for $329 ($100 off)\nAt $299, the Apple Watch Series 11 is easy to recommend. Grab it while the deal lasts.",
-    "pub_date": "2026-07-24T13:26:49.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,App Store",
-    "id": 3272
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "New Macs are coming soon, here’s everything we know",
-    "link": "https://9to5mac.com/2026/07/24/new-macs-are-coming-soon-heres-everything-we-know/",
-    "content": "Apple has a lineup of multiple new Macs launching later this year. This includes the first-ever touchscreen MacBook, the first M6 machines, and more. Here’s everything we know so far about new Macs launching soon.",
-    "pub_date": "2026-07-24T13:19:36.000Z",
-    "creator": "Chance Miller",
-    "tags": "Mac",
-    "id": 3265
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Turn your old notes and journals into a book with this AI tool",
-    "link": "https://www.cultofmac.com/deals/concepts-of-a-book-ai-book-architect",
-    "content": "Concepts of a Book AI Book Architect gives you a structured way to turn your manuscripts into an actual book.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-07-24T13:15:22.000Z",
-    "creator": "Cult of Mac Deals",
-    "tags": "Mac",
-    "id": 3274
   }
 ]
