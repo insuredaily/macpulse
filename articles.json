@@ -1,9 +1,149 @@
 [
   {
     "source_name": "Cult of Mac",
+    "title": "Mac mini shortage drags into summer (and Mac Studio situation is even worse)",
+    "link": "https://www.cultofmac.com/news/mac-mini-shortage-price-hikes-2026",
+    "content": "The Mac mini shortage isn’t over. Wait times still stretch past four months, and Apple’s June price hikes made things worse.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-30T16:38:52.000Z",
+    "creator": "Anurag Chawake",
+    "tags": "Mac",
+    "id": 3658
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Minimal Phone 2 lets you break free from iPhone but still keep iMessage",
+    "link": "https://www.macworld.com/article/3202852/minimal-phone-2-lets-you-break-free-from-iphone-but-still-keep-imessage.html",
+    "content": "Macworld\n\n\nIn an era where social media seems to be doing more harm than good, the Minimal Phone 2 seems like a really good idea. Billed as a distraction-free device, it’s a mobile phone with a physical keyboard that offers no social media access and only basic apps, including the ability to send and receive messages.\nHowever, it’s still an Android phone, so when you send a chat message from the Minimal Phone 2, it naturally appears in a green bubble on an iPhone. As silly as it sounds, there’s a stigma that some iPhone users attach to Android phone users because iOS displays chat messages from Android phones as green bubbles instead of blue ones, the telltale indication that a message came from an Apple device.\nThere’s a fix for that, though, in case you’re worried about being a social outcast by your iPhone buddies. Andre Youkhna, the founder of The Minimal Company, points out that the Minimal Phone 2 can run OpenBubbles, which means messages for the phone appear as blue bubbles on iPhones. It even has a blue blinking indicator light on the front to let you know when one arrives.\n\n\nPre-order soon… iMessage thanks to open bubbles 🙌\n— Andre (@Youkhna) July 28, 2026\n\n\n\n\n\nOpenBubbles is an app that basically spoofs a Mac or iPhone that you own, so that an Android phone can access Apple’s Messages, FaceTime, and iCloud Shared Albums (though it’s not clear if the latter two can be accessed by the Minimal Phone 2). If you don’t have an Apple device to spoof, you can sign up for OpenBubbles Hosted, which is $16.99 per month.\nDoesn’t OpenBubble sound like something Apple would disapprove of? OpenBubbles has been around since 2020, so Apple would’ve sicced its lawyers on the company by now if it cared at all. Learn more about OpenBubbles. If you want to jump on the waitlist for Minimal Phone 2, you can sign up on the Minimal website.",
+    "pub_date": "2026-07-30T16:23:13.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,iOS,App Store,Services",
+    "id": 3656
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Amazon launches $399 Samsung 32\" M80F monitor deal, now $300 off",
+    "link": "https://appleinsider.com/articles/26/07/30/amazon-launches-399-samsung-32-m80f-monitor-deal-now-300-off?utm_source=rss",
+    "content": "Save $300 on Samsung's 32-inch M80F smart monitor at Amazon today, matching the all-time low price of $399.99.\n\n\nAmazon's limited-time monitor deal drives M80F down to $399.99 - Image credit: Samsung\nYou can pick up the Samsung M80F Smart Monitor for $399.99 at Amazon thanks to a $300 month-end discount.\nBuy 32\" Samsung M80F for $399.99\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-30T16:05:47.000Z",
+    "creator": "Christine McKee <christine@appleinsider.com>",
+    "tags": "General",
+    "id": 3651
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Yahoo Weather iOS app overhauled with new features  and enhanced radar and maps",
+    "link": "https://9to5mac.com/2026/07/30/yahoo-weather-ios-update/",
+    "content": "Yahoo Weather for iPhone and iPad was recently updated with a major overhaul that focuses on new features and an overall redesign.",
+    "pub_date": "2026-07-30T15:59:20.000Z",
+    "creator": "Zac Hall",
+    "tags": "iOS,App Store",
+    "id": 3646
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Here’s everything new for Apple Notes in iOS 27",
+    "link": "https://9to5mac.com/2026/07/30/heres-everything-new-for-apple-notes-in-ios-27/",
+    "content": "iOS 27 adds new features for CarPlay, the Messages app, and a lot more, including a handful of Apple Notes upgrades. Here’s what’s new for Apple Notes in iOS 27.",
+    "pub_date": "2026-07-30T15:55:10.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS,App Store",
+    "id": 3647
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Spotify Adds Running Mode to iOS App With Tempo-Matched Music",
+    "link": "https://www.macrumors.com/2026/07/30/spotify-adds-running-mode-iphone/",
+    "content": "Spotify today announced a new Running Mode that turns playlists into structured running sessions built around workout type, tempo, and listening habits. It's launching on iOS first.\r\n\r\n\r\nLocated in the app's Fitness Hub, the feature lets runners choose from 25 presets that can be tweaked to fit workout type (interval, steady, or pyramid, for example), with options for duration, beats per minute, and the preferred kind of music. Spotify then matches track selection to the chosen tempo and moves through songs as the session progresses.\r\n\r\nOptional audio cues can be enabled to guide users through their run, although these are English-only for now. \r\n\r\nPrompted Playlists,\" a natural-language playlist feature that has seen a lot of fitness prompts directed its way.\r\n\r\nRunning Mode sits alongside the fitness content Spotify added in April, when it began featuring Peloton classes and creator workout videos in the app.\r\n\r\nlate last month, and removed the music controls that had lived in Strava's workout display since 2023, so Spotify's new mode could be a timely salve for runners who want to keep listening. \r\n\r\nTag: Spotify\nThis article, \"Spotify Adds Running Mode to iOS App With Tempo-Matched Music\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-30T15:49:15.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "iOS,App Store",
+    "id": 3645
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Deals: MacBook Pro $500 off, rare MacBook Air discounts, AirTag 2, charging gear, MagSage Battery, more",
+    "link": "https://9to5mac.com/2026/07/30/deals-macbook-pro-macbook-air-airtag-2-airpods/",
+    "content": "Today’s 9to5Toys Lunch Break is headlined by the ongoing price drops on AirPods Pro 3 at $50 off and AirPods Max 2 at $100 off, as well as the best price ever on Apple’s AirTag 2, but we also spotted some rare M5 MacBook Air deals – 10-Core base model $150 off and the 13-inch with the 70W charger at $1,199. On top of that, Amazon is now offering Apple’s 20-core 2TB M5 Pro MacBook Pro at $300 off and this 16-core model is $500 off. Just be sure to scope out the Apple iPhone Air MagSafe Battery sitting down at the $59 Amazon all-time low (40% off) and the charging gear deals we have down below as well.",
+    "pub_date": "2026-07-30T15:38:48.000Z",
+    "creator": "Justin Kahn",
+    "tags": "Mac,iOS,Silicon",
+    "id": 3648
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple pledges aid as wildfires devastate southern Europe",
+    "link": "https://appleinsider.com/articles/26/07/30/apple-pledges-aid-as-wildfires-devastate-southern-europe?utm_source=rss",
+    "content": "As wildfires continue to devastate southern Europe, Apple is backing relief efforts with a donation announced by CEO Tim Cook.\n\n\nApple donates to European wildfire relief\nNorth America isn't the only region struggling to combat the growing problem of wildfires; it's an ongoing problem in Europe as well. According to the Joint Research Centre, more than 434,976 hectares have been burnt in 1,400 fire instances in 2026 alone.\nRecent fires in southwestern France have burned so intensely that they created a fire-generated thunderstorm, according to CNN. Other countries, like Spain, Greece, and Italy, remain on high alert as the risk of wildfires grows across the region.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-30T15:33:05.000Z",
+    "creator": "Amber Neely <amber@appleinsider.com>",
+    "tags": "General",
+    "id": 3652
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "It's not just humanoid robots, new robot vacuums face a US blockade",
+    "link": "https://appleinsider.com/articles/26/07/30/its-not-just-humanoid-robots-new-robot-vacuums-face-a-us-blockade?utm_source=rss",
+    "content": "A new Federal Communications Commission order goes far, far beyond banning just humanoid robots, and will leave Apple Home users with fewer new autonomous robot vacuums to choose from.\n\nA robot vacuum in Apple Home\nThe FCC added foreign-produced \"advanced robotic devices\" to its Covered List on July 28, citing surveillance, remote-control and supply-chain risks. Covered devices can't receive new FCC equipment authorizations unless the Department of War grants a Conditional Approval.\nThe ban goes way past humanoid robots. It also covers robotic lawn mowers, robot vacuums, pool cleaners, and other autonomous home robots.\nPreviously authorized robot vacuums aren't being banned, and consumers can continue using devices they already own. The change instead creates a new obstacle for manufacturers seeking to introduce qualifying models in the United States.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-30T15:25:52.000Z",
+    "creator": "Andrew Orr <andreworr@appleinsider.com>",
+    "tags": "General",
+    "id": 3653
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple Upgrade vs iPhone Upgrade Program: Here are the key differences",
+    "link": "https://9to5mac.com/2026/07/30/apple-upgrade-vs-iphone-upgrade-program-here-are-the-key-differences/",
+    "content": "Apple Upgrade launched this week, and the iPhone Upgrade Program is being discontinued as a result. But despite some similarities, the two offerings are not the same. Here are the key differences.",
+    "pub_date": "2026-07-30T15:08:26.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 3649
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "How iPadOS 27 changed the way I use my iPad",
+    "link": "https://www.cultofmac.com/news/how-ipados-27-changed-the-way-i-use-my-ipad",
+    "content": "Another signature feature from macOS is making its way to iPadOS 27, making the iPad easier to use. And I love it.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-30T15:05:47.000Z",
+    "creator": "Ed Hardy",
+    "tags": "Mac,iOS",
+    "id": 3659
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Today in Apple history: Apple launches ill-fated Lisa project",
+    "link": "https://www.cultofmac.com/apple-history/apple-lisa-project",
+    "content": "On July 30, 1979, Apple engineers began work on the Lisa, the first computer in company history to come with a graphical interface and mouse.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-30T14:44:27.000Z",
+    "creator": "Luke Dormehl",
+    "tags": "Mac",
+    "id": 3660
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iOS 27 will bring five new features not yet announced, per rumors",
+    "link": "https://9to5mac.com/2026/07/30/ios-27-will-bring-five-new-features-not-yet-announced-per-rumors/",
+    "content": "iOS 27 is currently in beta, and launches to all users this fall. Here are five new features rumored for iOS 27 that haven’t yet appeared in the beta.",
+    "pub_date": "2026-07-30T14:35:24.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 3650
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Get the M5 MacBook Pro for the price it should be ($290 off)",
+    "link": "https://www.macworld.com/article/3202764/get-the-m5-macbook-pro-for-the-price-it-should-be-290-off.html",
+    "content": "Macworld\n\n\nTake $290 off the M5 MacBook Pro\nView Deal\nEver since Apple raised prices on MacBooks last month, we’ve been on the lookout for anything that comes close to the prices they were before. Today’s deal gets there: B&H Photo is selling a 14-inch M5 MacBook Pro with a 96W power adapter for $1,729, a savings of $290 on the price Apple charges and just $10 more than the price before the hike.\nThis is the base-model MacBook Pro, but you’re still getting a lot of high-end features, including the speedy M5 chip, 1TB of storage, 2x faster read/write performance compared to the M4 model. You can also hook up a pair of high-resolution external displays as well as Thunderbolt 5 drives. And with the bundled 96W charger, you’ll get fast charging (up to 50 percent battery in around 30 minutes) as well.\nOf course, it also comes with a brilliant Liquid Retina XDR display with ProMotion and XDR, tons of expansion, including Thunderbolt 5, HDMI, and an SDXC card slot, and Wi-Fi 6E. And it all comes wrapped in Apple’s sleek design that’s gorgeous in either silver or space black. We loved this model when we reviewed it and still recommend it even at the higher price.\nSo go save $300 and get a great laptop at the price it should be.",
+    "pub_date": "2026-07-30T14:30:17.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,Silicon",
+    "id": 3657
+  },
+  {
+    "source_name": "Cult of Mac",
     "title": "I got this iPhone accessory as a joke. Now I love it. ★★★★☆",
     "link": "https://www.cultofmac.com/reviews/phone-fan-review",
-    "content": "When I heard about a gizmo I could plug into my iPhone, I laughed out loud. But the jokes is on me — I use it all the time now.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "content": "When I heard about a gizmo I could plug into my iPhone, I laughed out loud. But the joke is on me — I use it all the time now.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
     "pub_date": "2026-07-30T14:15:52.000Z",
     "creator": "Ed Hardy",
     "tags": "Mac,iOS",
@@ -1543,7 +1683,7 @@
     "source_name": "Macworld",
     "title": "I switched to Beats, and I’ll never go back to Apple again",
     "link": "https://www.macworld.com/article/3199724/i-switched-to-beats-and-ill-never-go-back-to-apple-again.html",
-    "content": "Macworld\n\n\nApple has its own official lineup of accessories, which includes not only AirPods but also iPhone cases. And they’re great, all designed to work together seamlessly. But over the past few months, I decided to give a set of Beats accessories a try.\nAfter spending quite a while testing the new Powerbeats Fit alongside Beats’ Rugged Case for the iPhone 17 Pro Max, I’ve come to an unexpected conclusion. My new favorite gym accessories don’t have an Apple logo on them at all.\nBeats solved problems Apple didn’t\nThere’s a reason I don’t usually wear my AirPods Pro to the gym anymore, and it has very little to do with sound quality.\nThe AirPods Pro are excellent earbuds. Their noise cancellation remains among the best in the industry, Transparency Mode is still something competitors struggle to match, and they integrate so well with the Apple ecosystem that it’s easy to forget they’re even there. Outside the gym, they’re almost always my first choice.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nAirPods are great, but the Powerbeats Fit are a better options for working out.\n\nFoundry\n\n\n\n\nAt the gym, however, it’s a different story. Even with the right ear tips, AirPods can feel a little uncomfortable depending on my movements. Not only that, but I always find myself adjusting them or checking to see if they’re still properly secured in my ears during intense workouts.\nPowerbeats Fit\nRead our review\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n$152.97 at  Walmart\t\t\t\t\t\t\t\t\t\t\t | \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t$194.99 at  Best Buy US\t\t\t\t\t\t\t\t\t\t\t | \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t$199.95 at  Amazon\t\t\t\t\t\t\t\n\t\t\t\t\t\t\nPowerbeats Fit eliminate that distraction entirely. The flexible wingtips help keep each earbud in place, and after a few minutes, I simply stop thinking about them.\nI wrote last year that the Powerbeats Fit are probably the best companion for the iPhone 17 Pro based on color and comfort, and after spending even more time with them, I still believe that. They deliver Apple’s best features, such as quick pairing, auto device switching, Find My support, and Spatial Audio, while providing a secure fit that AirPods weren’t designed to offer. Plus they’re $50 cheaper than AirPods Pro.\nThe trade-off is obvious. They’re bulkier than AirPods Pro, and I probably wouldn’t choose them for a long flight or an afternoon working at a coffee shop. But that’s exactly why I think Apple was smart not to position them as AirPods replacements. They are designed for a specific purpose, and that’s what makes them so good.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nPowerbeats Fit in Spark Orange and the Beats Rugged Case in Sierra Orange are as close to Cosmic Orange as you’re going to find.\n\nFoundry\n\n\n\n\nBuy PowerbeaTS Fit At Amazon\nI underestimated the Beats Rugged Case\nThe biggest surprise for me wasn’t the earbuds, but the iPhone case. I’ve never been particularly drawn to cases, especially rugged ones, because they usually make modern smartphones look unnecessarily bulky. One of the reasons I use my iPhone caseless is that I appreciate its design, and putting it in a case has never really appealed to me.\nThe Beats Rugged Case doesn’t completely eliminate this trade-off, but I’ve found that it’s quite convenient in certain situations, especially when I’m at the gym.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nThe Beats Rugged Case is attractive and functional.\n\nFoundry\n\n\n\n\nYes, it’s noticeably thicker than Apple’s Silicone Case, but it also feels substantially more reassuring when being held. The textured sides provide considerably more grip, which matters more than I realized once my hands become sweaty halfway through a workout. Setting the phone down on gym equipment or tossing it into a backpack alongside a metal water bottle suddenly becomes much less stressful.\nBeats iPhone 17 Rugged Case\n$21.35 at  Walmart\t\t\t\t\t\t\t\t\t\t\t | \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t$79 at  Apple\t\t\t\t\t\t\t\t\t\t\t | \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t$79 at  Apple United States\t\t\t\t\t\t\t\n\t\t\t\t\t\t\nWhat impressed me most, though, was how little it feels like a third-party accessory. Just like Apple’s cases, it supports MagSafe, and everything works as expected, from the buttons to Camera Control. It features its own sapphire layer for seamless integration, rather than relying on a simple cutout around the button.\nIt sounds like a small detail, but it’s one of those touches that immediately makes the case feel like it belongs in Apple’s own lineup. Plus, the colors are really nice, and I love mine in Sierra (Cosmic) Orange.\n\nBuy the Beats Rugged Case at Amazon\nBeats has finally found its place inside Apple\nFor years after Apple acquired Beats, the company’s identity felt somewhat unclear. AirPods quickly became Apple’s flagship audio brand, leaving Beats to occupy an increasingly vague position alongside it. There were excellent products, but it wasn’t always obvious why they existed separately.\nThat distinction feels much clearer today. AirPods have become Apple’s everyday earbuds. They’re designed for commuting, working, traveling, and fitting seamlessly into daily life. Beats, meanwhile, increasingly feels like Apple’s brand for people who prioritize durability and stability.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nIf you like Cosmic Orange, you’ll love the Beats Rugged Case in Sierra Orange.\n\nFoundry\n\n\n\n\nThe introduction of products like the Rugged Case reinforces that idea. Beats is no longer just making headphones. It’s building accessories that complement an active lifestyle in ways Apple’s own accessories often don’t.\nI don’t expect everyone to replace their AirPods Pro with Powerbeats Fit or swap Apple’s Silicone Case for a rugged alternative. Outside the gym, I still use both Apple products regularly. But every time I pack my gym bag, I instinctively reach for the same two accessories instead.\nThe Powerbeats Fit earbuds sell for $200, while the Beats Rugged Case costs $79 if you buy them directly through Apple. However, you can find both products on sale on Amazon – and I really recommend giving them a try.",
+    "content": "Macworld\n\n\nApple has its own official lineup of accessories, which includes not only AirPods but also iPhone cases. And they’re great, all designed to work together seamlessly. But over the past few months, I decided to give a set of Beats accessories a try.\nAfter spending quite a while testing the new Powerbeats Fit alongside Beats’ Rugged Case for the iPhone 17 Pro Max, I’ve come to an unexpected conclusion. My new favorite gym accessories don’t have an Apple logo on them at all.\nBeats solved problems Apple didn’t\nThere’s a reason I don’t usually wear my AirPods Pro to the gym anymore, and it has very little to do with sound quality.\nThe AirPods Pro are excellent earbuds. Their noise cancellation remains among the best in the industry, Transparency Mode is still something competitors struggle to match, and they integrate so well with the Apple ecosystem that it’s easy to forget they’re even there. Outside the gym, they’re almost always my first choice.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nAirPods are great, but the Powerbeats Fit are a better options for working out.\n\nFoundry\n\n\n\n\nAt the gym, however, it’s a different story. Even with the right ear tips, AirPods can feel a little uncomfortable depending on my movements. Not only that, but I always find myself adjusting them or checking to see if they’re still properly secured in my ears during intense workouts.\nPowerbeats Fit\nRead our review\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n$152.97 at  Walmart\t\t\t\t\t\t\t\t\t\t\t | \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t$199.95 at  Amazon\t\t\t\t\t\t\t\t\t\t\t | \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t$199.95 at  B&H\t\t\t\t\t\t\t\n\t\t\t\t\t\t\nPowerbeats Fit eliminate that distraction entirely. The flexible wingtips help keep each earbud in place, and after a few minutes, I simply stop thinking about them.\nI wrote last year that the Powerbeats Fit are probably the best companion for the iPhone 17 Pro based on color and comfort, and after spending even more time with them, I still believe that. They deliver Apple’s best features, such as quick pairing, auto device switching, Find My support, and Spatial Audio, while providing a secure fit that AirPods weren’t designed to offer. Plus they’re $50 cheaper than AirPods Pro.\nThe trade-off is obvious. They’re bulkier than AirPods Pro, and I probably wouldn’t choose them for a long flight or an afternoon working at a coffee shop. But that’s exactly why I think Apple was smart not to position them as AirPods replacements. They are designed for a specific purpose, and that’s what makes them so good.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nPowerbeats Fit in Spark Orange and the Beats Rugged Case in Sierra Orange are as close to Cosmic Orange as you’re going to find.\n\nFoundry\n\n\n\n\nBuy PowerbeaTS Fit At Amazon\nI underestimated the Beats Rugged Case\nThe biggest surprise for me wasn’t the earbuds, but the iPhone case. I’ve never been particularly drawn to cases, especially rugged ones, because they usually make modern smartphones look unnecessarily bulky. One of the reasons I use my iPhone caseless is that I appreciate its design, and putting it in a case has never really appealed to me.\nThe Beats Rugged Case doesn’t completely eliminate this trade-off, but I’ve found that it’s quite convenient in certain situations, especially when I’m at the gym.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nThe Beats Rugged Case is attractive and functional.\n\nFoundry\n\n\n\n\nYes, it’s noticeably thicker than Apple’s Silicone Case, but it also feels substantially more reassuring when being held. The textured sides provide considerably more grip, which matters more than I realized once my hands become sweaty halfway through a workout. Setting the phone down on gym equipment or tossing it into a backpack alongside a metal water bottle suddenly becomes much less stressful.\nBeats iPhone 17 Rugged Case\n$21.35 at  Walmart\t\t\t\t\t\t\t\t\t\t\t | \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t$79 at  Apple\t\t\t\t\t\t\t\t\t\t\t | \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t$79 at  Apple United States\t\t\t\t\t\t\t\n\t\t\t\t\t\t\nWhat impressed me most, though, was how little it feels like a third-party accessory. Just like Apple’s cases, it supports MagSafe, and everything works as expected, from the buttons to Camera Control. It features its own sapphire layer for seamless integration, rather than relying on a simple cutout around the button.\nIt sounds like a small detail, but it’s one of those touches that immediately makes the case feel like it belongs in Apple’s own lineup. Plus, the colors are really nice, and I love mine in Sierra (Cosmic) Orange.\n\nBuy the Beats Rugged Case at Amazon\nBeats has finally found its place inside Apple\nFor years after Apple acquired Beats, the company’s identity felt somewhat unclear. AirPods quickly became Apple’s flagship audio brand, leaving Beats to occupy an increasingly vague position alongside it. There were excellent products, but it wasn’t always obvious why they existed separately.\nThat distinction feels much clearer today. AirPods have become Apple’s everyday earbuds. They’re designed for commuting, working, traveling, and fitting seamlessly into daily life. Beats, meanwhile, increasingly feels like Apple’s brand for people who prioritize durability and stability.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nIf you like Cosmic Orange, you’ll love the Beats Rugged Case in Sierra Orange.\n\nFoundry\n\n\n\n\nThe introduction of products like the Rugged Case reinforces that idea. Beats is no longer just making headphones. It’s building accessories that complement an active lifestyle in ways Apple’s own accessories often don’t.\nI don’t expect everyone to replace their AirPods Pro with Powerbeats Fit or swap Apple’s Silicone Case for a rugged alternative. Outside the gym, I still use both Apple products regularly. But every time I pack my gym bag, I instinctively reach for the same two accessories instead.\nThe Powerbeats Fit earbuds sell for $200, while the Beats Rugged Case costs $79 if you buy them directly through Apple. However, you can find both products on sale on Amazon – and I really recommend giving them a try.",
     "pub_date": "2026-07-28T11:15:00.000Z",
     "creator": "Macworld",
     "tags": "iOS",
@@ -2858,145 +2998,5 @@
     "creator": "Macworld",
     "tags": "Mac,App Store,Services",
     "id": 3324
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Report: Apple and Micron clash before Trump over Chinese memory chips",
-    "link": "https://9to5mac.com/2026/07/24/report-apple-and-micron-clash-before-trump-over-chinese-memory-chips/",
-    "content": "The Wall Street Journal reports that Micron is pressing the Trump administration to block Apple’s push to use memory chips from Chinese suppliers. Here are the details.",
-    "pub_date": "2026-07-25T02:03:00.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 3319
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "'MacBook Ultra' Coming Soon With These 12 New Features",
-    "link": "https://www.macrumors.com/2026/07/24/macbook-ultra-12-new-features/",
-    "content": "Apple's first high-end MacBook redesign in five years is expected to arrive in the near future, bringing a run of firsts to the Mac.\r\n\r\n\r\nBloomberg's Mark Gurman expects the laptop to arrive between late 2026 and early 2027, with the later window now looking more likely owing to the global memory chip shortage. Analyst Ming-Chi Kuo expects mass production to begin by late 2026.\r\n \r\nMacBook Pro in 2021 with the M1 Pro and M1 Max models, so this would be its first new high-end laptop design in at least five years. Here is everything rumored about the device so far:\r\n \r\n\r\n\"MacBook Ultra\" branding: Apple has reportedly decided to market two new \"Ultra\" products over the next year, the foldable iPhone and this laptop, which would establish a tier above the ‌MacBook Pro‌ for the first time. The name is not confirmed and Apple theoretically could still use \"‌MacBook Pro‌\" branding, but for now, \"MacBook Ultra\" seems highly likely.\n\r\nOLED display: The ‌MacBook Ultra‌ is expected to be the first Mac with an OLED display, replacing the mini-LED backlighting used in current ‌MacBook Pro‌ models. It should deliver richer colors, a higher contrast ratio with true blacks, greater brightness, and improved power efficiency, since individual pixels switch off rather than dim. The laptop will reportedly use hybrid OLED technology combining an oxide TFT backplane with a tandem two-stack ‌OLED‌ structure, the same approach used in the iPad Pro, offering a longer panel lifespan.\n\r\nTouch screen: The device is expected to be the first Mac to support touch input directly on the display, ending years of Apple resistance to the idea. Kuo first claimed the panel would support touch, Gurman corroborated it, and the Weibo leaker known as \"Instant Digital\" says the feature is now confirmed. Apple is apparently not positioning the machine as a touch-first device like the iPad, instead letting customers move between touch, trackpad, and keyboard interchangeably, in what Gurman describes as \"touch-friendly, not touch-first.\" The laptop is said to remain a conventional clamshell, with the keyboard and trackpad retained and no detachable or convertible design.\n\r\nTouch-optimized macOS: Apple is reportedly reworking macOS so that controls adapt to the input method being used. Tapping a menu bar item would apparently surface a larger set of touch-optimized controls, and the system is said to gain iPad-style gestures including pinch-to-zoom and fast scrolling. Touch-based options would be integrated throughout the operating system rather than confined to a handful of apps.\n\r\nReinforced hinge: Apple likely plans to add a reinforced hinge so the display does not wobble when it is tapped. The current ‌MacBook Pro‌ hinge moves easily and does not tilt especially far back, both of which could be a problem on a machine designed to be prodded.\n\r\nHole-punch camera: The \"notch\" is expected to disappear, replaced by a far smaller hole-punch camera at the top of the display. The change was first indicated by a roadmap from research firm Omdia and has since been corroborated by Bloomberg. Losing the notch would add visible screen area and free up the menu bar space it currently intrudes upon, taking the design a step closer to an uninterrupted, edge-to-edge display.\n\r\nDynamic Island: The cutout is expected to digitally expand into an iPhone-style Dynamic Island. It would be interactive and expand contextually based on the app or Mac feature in use, surfacing items such as Siri, low battery alerts, and AirPods connection indicators in the area surrounding the camera.\n\r\nM5 Pro and M5 Max chips: The laptop is now expected to ship with the existing M5 Pro and M5 Max chips already found in the current ‌MacBook Pro‌, rather than the \"M6 Pro\" and \"M6 Max.\" Apple has apparently scrapped the M6 Pro and M6 Max altogether, accelerating instead to M7 Pro and M7 Max chips said to be optimized for intensive AI workloads with upgraded neural accelerators, graphics improvements, and increased memory bandwidth. A second-generation model with those chips is reportedly planned for late 2027.\n\r\nThinner design: The ‌MacBook Ultra‌ is expected to be noticeably thinner and lighter than the current ‌MacBook Pro‌. Moving away from mini-LED backlighting should itself help slim down the lid. There has so far been no indication that Apple intends to remove ports such as HDMI, MagSafe, or the SD card slot to achieve it, which was a deeply unpopular decision the last time around.\n\r\nTwo display sizes: The laptop is expected to be offered in both 14-inch and 16-inch sizes, mirroring the current ‌MacBook Pro‌ lineup, with the two models reportedly code-named K114 and K116.\n\r\nSlimmer bezels: Research firm Omdia claims Samsung Display will supply 14.3-inch and 16.3-inch panels, marginally larger than the 14.2-inch and 16.2-inch screens on current models, which would suggest thinner bezels around a slightly bigger display. A February report from Bloomberg indicated that overall screen sizes are not expected to change compared to the ‌MacBook Pro‌.\n\r\nBuilt-in cellular: Apple has reportedly at least considered built-in cellular connectivity for future Macs, which would be a first for the platform. If the plan goes ahead, the ‌MacBook Ultra‌ would likely use Apple's existing C1X modem or its next-generation C2 modem for 5G and LTE. This is seemingly the most uncertain feature on this list.\n\r\n\r\n\r\nat least three ways: it adds direct touch input to Sidecar, allowing users to tap and interact with macOS elements with a finger on an ‌iPad‌; it introduces iPhone-style pull-to-refresh across apps including Safari, Mail, News, Podcasts, and Calendar; and its new \"Search or Ask\" ‌Siri‌ interface in Spotlight adopts a dark, pill-shaped design that would sit naturally around a Dynamic Island.\r\n\r\nThere is some awkwardness for buyers. The first ‌MacBook Ultra‌ looks set to pair Apple's most ambitious Mac redesign in years with silicon that has already been on sale for months, but a successor with much more advanced chips could follow less than a year later.\r\n \r\nraised prices across its Mac lineup in June, and the 14-inch ‌MacBook Pro‌ now starts at $1,999, rising to $2,499 with the M5 Pro chip, while the 16-inch model starts at $2,999. The ‌MacBook Ultra‌ is expected to sit above all of them.\nTag: MacBook Ultra\nThis article, \"'MacBook Ultra' Coming Soon With These 12 New Features\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-25T01:00:12.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "Mac,iOS,Rumors,Silicon,App Store",
-    "id": 3318
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "New lawsuit alleges unpatchable Apple chip exploit was developed using stolen trade secrets",
-    "link": "https://9to5mac.com/2026/07/24/new-lawsuit-alleges-unpatchable-apple-chip-exploit-was-developed-using-stolen-trade-secrets/",
-    "content": "Magnet Forensics is suing Paradigm Shift Technology over its publication of usbliter8, alleging that the unpatchable exploit affecting several Apple SoCs was developed using trade secrets misappropriated by a former engineer. Here are the details.",
-    "pub_date": "2026-07-25T00:53:03.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 3320
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iOS 27: All the New iCloud Features",
-    "link": "https://www.macrumors.com/guide/ios-27-icloud/",
-    "content": "iOS 27 includes new iCloud capabilities across several apps like Apple Home, Siri, Photos, and more. There are some direct ‌iCloud‌ improvements like upgrades to photo uploads and sharing, along with some indirect new features.\r\n\r\n\r\nHomeKit Secure Video Cameras (iCloud+)\n\r\nIf you have HomeKit Secure Video cameras, the Home app in ‌iOS 27‌ has a couple of useful new Apple Intelligence features.\r\n\r\nYou can get text-based summaries of what's going on, sent as notifications. So when you get a notification for movement, it will say something like \"Someone was seen,\" or \"Animal seen.\"\r\n\r\nThe text descriptions are also shown in the video playback timeline, and you can search for specific events. Events that take place across two cameras, such as the same person walking from room to room, are paired together to give an overview of action across the home.\r\n\r\nrequire a 2TB or higher iCloud+ plan, which is priced starting at $9.99 in the United States. The 2TB plan is also the plan required for an unlimited number of ‌HomeKit Secure Video‌ cameras.\r\n\r\n‌HomeKit Secure Video‌ cameras have always required an ‌iCloud‌+ plan to store the camera footage in ‌iCloud‌. A single camera can be added with the 50GB plan, and five cameras can be added with the 200GB plan.\r\n\r\nHomePod, HomePod mini, or Apple TV 4K, as well as a device that supports ‌Apple Intelligence‌ (iPhone 15 Pro or newer).\r\n\r\n‌HomeKit Secure Video‌ cameras can also record up to 4K footage in ‌iOS 27‌, but that feature does not use ‌Apple Intelligence‌.\r\n\r\nApple Intelligence Limit Increase (iCloud+)\n\r\nApple said at WWDC that some ‌Apple Intelligence‌ features like image generation with Image Playground will have limits on daily use.\r\n\r\nThose limits can be increased with most ‌iCloud‌+ plans. Apple has not given a list of features that will have limits beyond ‌Image Playground‌, nor has it said what the limits will be without an ‌iCloud‌+ plan and with the tiered options.\r\n\r\nSiri\n\r\n‌Siri‌ conversations in the ‌Siri‌ app sync across devices using ‌iCloud‌. The ‌Siri‌ app lets you revisit previous conversations, start new conversations, pin important chats, and continue chats across iOS, macOS, and iPadOS.\r\n\r\nPhotos\n\r\nThere are several new ‌iCloud‌ features in the ‌Photos‌ app.\r\n\r\n \nPrioritize Syncing - There's a toggle to force all of your photos to upload to ‌iCloud‌ regardless of battery status. It turns on for 24 hours and then turns off.\n\r\n \nShared Albums - Android and Windows users can upload photos to Shared Albums. Shared Albums also keep full-resolution photos and videos to support the cross-platform sharing feature.\n\r\n \nUpload Speed - iPhones will now start uploading to iCloud Photos more quickly to make images available across devices faster.\n\r\n\r\n\r\nCollaboration\n\r\n\r\nLink Previews - ‌iCloud‌ collaboration links now show richer previews so you can more clearly see what you've been sent.\n\r\n \nAccess Requests - Users can send access requests for items shared via ‌iCloud‌.\n\r\n \nSpeed - Apple says users will get faster access to shared content on iCloud.com.\n\r\n \nLinks - Creating links to ‌iCloud‌ content is easier with a more accessible share link.\n\r\n\r\n\r\nJournal\n\r\nYou can now see the ‌iCloud‌ sync status for each journal entry.\r\n\r\nPasswords\n\r\nThe Passwords app can use ‌Apple Intelligence‌ to automatically fix weak passwords in ‌iOS 27‌. It uses ‌iCloud‌ Keychain and Safari to operate.\r\n\r\nAn Apple Intelligence-compatible iPhone is required to use the feature.\r\n\r\nRead More\n\r\nMore information on the features in ‌iOS 27‌ can be found in our roundup.\r\n\r\nLaunch Date\n\r\n‌iOS 27‌ is available to developers and public beta testers. It will launch in September alongside new iPhone models.\nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"iOS 27: All the New iCloud Features\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-24T22:54:55.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,iOS,App Store,Services",
-    "id": 3314
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Tapbots launches Pastebot 3 with improved organization and automation tools",
-    "link": "https://9to5mac.com/2026/07/24/tapbots-launches-pastebot-3-with-improved-organization-and-automation-tools/",
-    "content": "Pastebot, one of the most popular clipboard managers for Mac, was updated today, nearly ten years after the release of Pastebot 2. Here are the details.",
-    "pub_date": "2026-07-24T22:18:26.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Mac",
-    "id": 3315
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple Pay is getting even better with four new features",
-    "link": "https://9to5mac.com/2026/07/24/apple-pay-is-getting-even-better-with-four-new-features/",
-    "content": "Apple Pay is a go-to feature for iPhone users when shopping in stores, online, and in apps. Apple recently announced four new features that make Apple Pay even better. Here’s how they work.",
-    "pub_date": "2026-07-24T21:24:36.000Z",
-    "creator": "Chance Miller",
-    "tags": "iOS,Services",
-    "id": 3316
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Trump vows retaliation over EU fines against Apple and other ‘GREAT’ US tech giants",
-    "link": "https://9to5mac.com/2026/07/24/trump-vows-retaliation-over-eu-fines-against-apple-and-other-great-us-tech-giants/",
-    "content": "President Trump has pledged to retaliate against the European Union over what he claims are unfair fines targeting Apple and other American tech giants. Here are the details.",
-    "pub_date": "2026-07-24T21:20:17.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 3317
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "WhatsApp testing new message bubbles on iOS",
-    "link": "https://9to5mac.com/2026/07/24/whatsapp-testing-new-message-bubbles-on-ios/",
-    "content": "Following the official rollout of its Liquid Glass redesign to most WhatsApp users on iOS, the messaging platform is now testing another visual change, this time focused on the look of its chat bubbles. Here are the details.",
-    "pub_date": "2026-07-24T20:25:32.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "iOS",
-    "id": 3304
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iPhone Ultra is coming: Six new features in Apple’s top-tier model",
-    "link": "https://9to5mac.com/2026/07/24/iphone-ultra-is-coming-six-new-features-in-apples-top-tier-model/",
-    "content": "Apple’s first foldable iPhone is coming this fall, and rumors say it will be called iPhone Ultra. Here are six features to expect from Apple’s new high-end iPhone Ultra.",
-    "pub_date": "2026-07-24T20:25:12.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 3305
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Trump promises investigation into EU fines on US big tech",
-    "link": "https://appleinsider.com/articles/26/07/24/trump-promises-investigation-into-eu-fines-on-us-big-tech?utm_source=rss",
-    "content": "President Donald Trump is escalating the fight over European Union antitrust penalties against Apple, Google, and other U.S. tech companies by opening a trade investigation that could lead to new tariffs.\n\nApple CEO Tim Cook and President Donald Trump\nTrump announced the investigation in a social media post after the European Commission fined Google 890 million euros on July 23 for violating the Digital Markets Act.\nThe fine included 460 million euros, or about $517 million, for favoring Google services in search results and 430 million euros, or about $483 million, for restricting how businesses direct Google Play users to alternative purchasing options.\n\"The United States of America is not a PIGGYBANK' for Europe, nor will we allow it to be,\" Trump wrote. He accused the EU of unfairly taking money from American companies and said its penalties should be reversed.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-24T19:46:33.000Z",
-    "creator": "Andrew Orr <andreworr@appleinsider.com>",
-    "tags": "General",
-    "id": 3308
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Trump Vows to Reverse EU Fines Against Apple and Other Tech Companies, Threatens Tariffs",
-    "link": "https://www.macrumors.com/2026/07/24/trump-eu-fine-investigation/",
-    "content": "U.S. President Donald Trump today said on Truth Social that his administration plans to launch an investigation into fines the European Union has levied against tech companies like Apple, Google, and Meta for violating antitrust and Digital Markets Act rules.\r\n\r\n\r\n\r\nTrump called the European Union's conduct \"illegal and highly unethical,\" vowing to get the penalties reversed and planning to institute a \"substantial tariff.\"\r\nThe European Union is at it again and, as usual, taking direct aim at GREAT American Companies! After having fined Apple, for no reason at all, 15 Billion Dollars, Meta, 3 Billion Dollars, Amazon 2.5 Billion Dollars, and many others, we have just been informed that Google, a truly advanced and amazing group, has been fined yet another 1 Billion Dollars, without explanation. This brings the Google total to over 18 Billion Dollars! This illegal and highly discriminatory practice started at these high levels during the first year of the Sleepy Joe Biden Administration, but it's not going to continue during the Trump Administration. The United States of America is not a \"PIGGYBANK\" for Europe, nor will we allow it to be! Please let this TRUTH serve to represent that we will immediately initiate a 301 Investigation into the practice of \"ROBBING\" American Companies and, in turn, the American Taxpayer. The European Union will pay a very big price for this illegal and highly unethical conduct, which I have consistently warned them about. The penalties will be entirely reversed and, we anticipate, a substantial TARIFF to be placed on them at the earliest possible moment.\n\r\nApple was fined $570 million in 2025, ‌Meta‌ was fined $840 million in 2024 and $200 million in 2025, and Google was fined $1 billion this week after a $4.5 billion Android fine was upheld earlier this month.\r\n\r\non European services and companies.\r\n\r\nTags: Donald Trump, European Union\nThis article, \"Trump Vows to Reverse EU Fines Against Apple and Other Tech Companies, Threatens Tariffs\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-24T19:37:08.000Z",
-    "creator": "Juli Clover",
-    "tags": "Services",
-    "id": 3303
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple releases seventh RCs for macOS Sonoma 14.8.8 and macOS Sequoia 15.7.8",
-    "link": "https://9to5mac.com/2026/07/24/apple-releases-seventh-rcs-for-macos-sonoma-14-8-8-and-macos-sequoia-15-7-8/",
-    "content": "Continuing Apple’s extended test period for macOS Sonoma 14.8.8 and macOS Sequoia 15.7.8, the company is now rolling out the seventh Release Candidate for both systems. Here are the details.",
-    "pub_date": "2026-07-24T19:20:55.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Mac",
-    "id": 3306
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Apple wants a 20% price cut on iPhone 18 Pro Max OLED panels",
-    "link": "https://www.cultofmac.com/news/iphone-18-pro-max-oled-panel-price-cut",
-    "content": "Apple is pushing suppliers for a 20% price cut on iPhone 18 Pro Max OLED panels, even as materials and memory chip costs climb.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-07-24T18:59:22.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,iOS",
-    "id": 3312
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iOS 27 adds new Phone app feature that’s an instant favorite",
-    "link": "https://9to5mac.com/2026/07/24/ios-27-adds-new-phone-app-feature-thats-an-instant-favorite/",
-    "content": "iOS 27 is packed with new features for apps like Notes, Wallet, Maps, Messages, and more. But one iOS 27 addition that’s especially impressed me is a new Phone feature: Call Context.",
-    "pub_date": "2026-07-24T18:53:53.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS,App Store",
-    "id": 3307
   }
 ]
