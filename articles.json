@@ -1,5 +1,95 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "PSA: App Store, iTunes Store and other Apple services are currently down for some users",
+    "link": "https://9to5mac.com/2026/07/29/psa-app-store-itunes-store-and-other-apple-services-are-currently-down-for-some-users/",
+    "content": "For the second time in a week, Apple is facing a widespread outage affecting services for end users and developers. Here are the details.",
+    "pub_date": "2026-07-30T02:29:50.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "App Store",
+    "id": 3609
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "US senators urge Apple to abandon plans for Chinese-made chips",
+    "link": "https://appleinsider.com/articles/26/07/30/us-senators-urge-apple-to-abandon-plans-for-chinese-made-chips?utm_source=rss",
+    "content": "Apple wants to use China-sourced chips for products sold in China during the AI-driven memory shortage, but a letter from US senators hopes to persuade Apple otherwise.\n\n\nUS senators don't want Apple seeking help from China\nThe hype cycle around what is basically a natural evolution of an advanced autocomplete engine has destabilized the global economy and supply chain. The ever-increasing demand for more components to build data centers has led to a global chip and component shortage.\nApple has looked to blacklisted Chinese companies to bolster its supply chain, but, according to a letter viewed by Bloomberg, US senators want to urge Apple away from this solution. They worry about various potential calamities like other companies following suit, potential national security issues, and yet another industrial exodus from the United States.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-30T02:18:51.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "General",
+    "id": 3614
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple pledges support for communities affected by southern Europe wildfires",
+    "link": "https://9to5mac.com/2026/07/29/apple-pledges-support-for-communities-affected-by-southern-europe-wildfires/",
+    "content": "Tim Cook took to X tonight to announce that Apple will donate to relief efforts supporting those affected by the wildfires affecting southern Europe. Here are the details.",
+    "pub_date": "2026-07-30T02:14:39.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 3610
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "20th Anniversary iPhone Coming Next Year With These 10 Features",
+    "link": "https://www.macrumors.com/2026/07/29/20th-anniversary-iphone-10-features/",
+    "content": "Apple's 20th anniversary iPhone is expected to arrive in the fall of 2027 with the most significant redesign the device has seen since the iPhone X.\r\n\r\n\r\nThe first iPhone was announced in January 2007 and went on sale that June, meaning the device's 20th anniversary technically falls on June 29, 2027. Apple rarely launches new high-end iPhones outside of its September timeframe, and the anniversary models are still expected to arrive in the fall of that year, just as the iPhone X did in 2017 despite marking the 10th anniversary of a device that launched in June.\r\n\r\nall-glass design, new display technology, and a series of upgrades Apple has been working toward for several generations. Much as the iPhone X set the template for the years of iPhones that followed, the anniversary model is likely to define the device's design direction for some time.\r\n\r\nApple could skip the name \"iPhone 19\" in the same way it skipped \"iPhone 9\" ahead of the iPhone X in 2017, with rumors so far variably referring to the device as the \"iPhone 20\" and the \"iPhone XX.\" Here is everything that has been rumored for the device so far:\r\n\r\n\r\nCurved all-glass design with edge-to-edge display: Apple is reportedly aiming for a new design with curved glass generously wrapping around the front and back, described by Bloomberg's Mark Gurman as a curved iPhone without cutouts in the display. Facilities in Apple's supply chain have reportedly finished renovations ahead of production, with manufacturing quality said to be around that of the first-generation iPhone Air. The panel is said to curve down around all four edges for a borderless effect, going beyond the curved displays used by other manufacturers. Rather than the aggressively curved \"waterfall\" edges seen on some Samsung panels, Apple is said to be seeking an equal-depth quad-curved design with very shallow \"micro-curves,\" which could make edge swipes feel more natural and reduce distortion of on-screen content. Bending the display circuitry around every edge reportedly requires an ultra-thin film encapsulation layer to protect the OLED panel from moisture and air, and one leak claims a bezel of 1.1mm, compared to approximately 1.44mm on the iPhone 17 Pro.\n\r\nMore advanced display: Apple is reported to be adopting a Samsung-made panel using Color Filter on Encapsulation, which removes the polarizing film and applies the color filter directly onto the encapsulation layer. The technique reduces the thickness of the display stack and lets more light through, improving brightness while reducing power draw, and the panel is said to be paired with next-generation 16nm display driver chips. Apple is also said to be employing a crater-shaped light diffusion layer designed to even out brightness so the display appears uniformly lit across all areas, including at the curved edges.\n\r\nUnder-display Face ID: Apple reportedly wants to move the Face ID system beneath the panel, using a \"spliced micro-transparent glass\" window that allows infrared sensors to pass through the display. The technology is expected to debut on iPhone 18 Pro models first, but DSCC's Ross Young has said it is unlikely to be fully ready even for 2027, and expects an iPhone 18 Pro-style smaller Dynamic Island to remain.\n\r\nTwo size options: Unlike the iPhone X, which launched in a single 5.8-inch size, Apple is planning two anniversary models roughly matching the iPhone 18 Pro and Pro Max at 6.3 and 6.9 inches, although the larger model could be marketed as a 7-inch device owing to its slimmer bezels and all-screen design.\n\r\nCustom Apple image sensor: Apple is reported to be developing its own stacked image sensor to replace the Sony sensors used across the iPhone lineup, having already built a working prototype. The sensor is said to use LOFIC technology, allowing each pixel to store varying amounts of light and potentially reaching up to 20 stops of dynamic range.\n\r\nSolid-state haptic buttons: Apple is rumored to be reviving \"Project Bongo\" to replace the mechanical Side button, volume buttons, Action button, and Camera Control with haptic equivalents integrated into the frame. The buttons have reportedly passed tests for use with gloves, wet hands, extreme temperatures, and with a case fitted. An ultra-low energy microprocessor is claimed to keep the solid-state buttons functional even when the handset is powered off or the battery has run out.\n\r\nA21 chip: Both anniversary models are expected to use a second-generation 2-nanometer \"A21\" chip, shared with the second-generation foldable iPhone.\n\r\nHigh bandwidth memory: Apple is reported to be considering mobile HBM, a form of DRAM that stacks memory chips vertically and connects them using through-silicon vias to increase signal transmission speeds. Connecting the memory to the iPhone's GPU is said to be a strong candidate for improving on-device AI performance, and Apple has reportedly discussed the plan with memory suppliers Samsung and SK Hynix, both of which expect to begin mass production after 2026.\n\r\nApple modem in the United States: Apple is aiming to have modems that outperform Qualcomm's on speed and AI functionality by 2027, following the C1 and C1X used in the iPhone 16e and ‌iPhone Air‌, and the C2 on the ‌iPhone 18 Pro‌ outside the United States only. With the 20th anniversary iPhone, an Apple-designed modem should come to the high-end devices for the first time in the United States, delivering an efficiency boost for better battery life.\n\r\nPure silicon battery: Apple is said to be pairing the new display with pure silicon battery technology for improved power efficiency, which offers higher energy density than conventional lithium-ion cells and could allow greater capacity in the same physical space. One leaker has claimed a 6,000mAh battery could come to the device, though it is unclear where that figure comes from.\n\r\n\r\n\r\nmentioned by one leaker, but it is unknown whether these claims are based on supply chain information.\r\n\r\nWith the device still more than a year away, the final 20th anniversary iPhone could still change considerably from the current picture provided by rumors. A two-stage rollout has been reported for the curved panel itself, with the 2027 implementation said to introduce some distortion and brightness loss at the edges before a more advanced version follows in 2028.\r\n\r\nThis article, \"20th Anniversary iPhone Coming Next Year With These 10 Features\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-30T01:00:11.000Z",
+    "creator": "Hartley Charlton",
+    "tags": "iOS,Rumors,Silicon",
+    "id": 3607
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple faces bipartisan Senate pushback over plans to buy Chinese memory chips",
+    "link": "https://9to5mac.com/2026/07/29/apple-faces-bipartisan-senate-pushback-over-plans-to-buy-chinese-memory-chips/",
+    "content": "Bloomberg reports that US senators from both sides of the aisle are urging Apple CEO Tim Cook to commit by August 21 to not using memory chips from Chinese suppliers CXMT and YMTC. Here are the details.",
+    "pub_date": "2026-07-30T00:41:49.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 3611
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Qualcomm Expects Apple Modem Revenue to Drop Faster Than Expected",
+    "link": "https://www.macrumors.com/2026/07/29/qualcomm-apple-modem-revenue-dropping/",
+    "content": "Qualcomm expects its Apple revenue to decline faster than it previously anticipated, Qualcomm CEO Cristiano Amon told Reuters in an interview following the company's earnings call for the third fiscal quarter of 2026.\r\n\r\n\r\n\r\nAmon chalked up the loss to supply constraints, which will reduce the share of Qualcomm components used in the next iPhone launch well below its earlier 20 percent estimate. Qualcomm expects the drop in Apple revenue to start in the fourth quarter.\r\n\r\nQualcomm is raising its prices starting September 1 to improve its margin because of increasing costs across the supply chain. \"We're just passing through big cost increases that we have,\" said Amon.\r\n\r\nIn fiscal 2027, Qualcomm is expecting most of its chip sales to come from categories other than smartphones, and growth in its data center business will replace the Apple-related revenue it collected in fiscal 2026.\r\n\r\niPhone 17e, and iPhone Air. Rumors suggest Apple could transition to using more of its own chips starting with the iPhone 18 lineup. Apple is working on a C2 modem chip rumored to deliver faster speeds and better power efficiency than Qualcomm modems.\r\n\r\nthat lasts through March 2027, and it is not clear if Apple will extend it again or move to using its own modem chips across its entire product lineup.\nTags: Apple 5G Modem, Qualcomm\nThis article, \"Qualcomm Expects Apple Modem Revenue to Drop Faster Than Expected\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-30T00:13:43.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS",
+    "id": 3608
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Studio Display XDR hits Apple’s refurb store, saving you up to $540",
+    "link": "https://9to5mac.com/2026/07/29/studio-display-xdr-hits-apples-refurb-store-saving-you-up-to-540/",
+    "content": "There’s a new addition to Apple’s popular Certified Refurbished store. Apple has started selling the Studio Display XDR in refurbished condition, offering 15% off the mini-LED external display that’s perfect for Mac users.",
+    "pub_date": "2026-07-30T00:09:03.000Z",
+    "creator": "Chance Miller",
+    "tags": "Mac",
+    "id": 3612
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple's reliance on Qualcomm could decline faster than expected after Q4 2026",
+    "link": "https://appleinsider.com/articles/26/07/29/apples-reliance-on-qualcomm-could-decline-faster-than-expected-after-q4-2026?utm_source=rss",
+    "content": "The 2026 iPhone lineup could divest further from Qualcomm as Apple increases use of its in-house C-series modem, though Qualcomm blames supply constraints on a faster-than-expected transition.\n\n\niPhone 17e uses an Apple C-series modem\nQualcomm and Apple's relationship has been in question since Apple's release of an in-house C-series modem. While a contract between the companies is set to end in March 2027, Qualcomm is looking to use AI data centers to replace the revenue provided by Apple.\nAccording to a report from Reuters, Qualcomm CEO Cristiano Amon says that revenue from Apple will decline more quickly starting in the fourth quarter as due to supply constraints. The share of components used in the iPhone 18 will fall well below Qualcomm's earlier estimate of 20%.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-29T23:31:12.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "iOS",
+    "id": 3616
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "9to5Mac Daily: July 29, 2026 – iOS 26.6, Apple’s smart home plans",
+    "link": "https://9to5mac.com/2026/07/29/daily-july-29-2026/",
+    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.",
+    "pub_date": "2026-07-29T23:27:51.000Z",
+    "creator": "Seth Kurkowski",
+    "tags": "iOS,App Store",
+    "id": 3613
+  },
+  {
     "source_name": "MacRumors",
     "title": "Apple Says UK App Store Steering Rules Would Be 'Highly Intrusive'",
     "link": "https://www.macrumors.com/2026/07/29/app-store-uk-rules-highly-intrusive/",
@@ -2908,95 +2998,5 @@
     "creator": "William Gallagher <wg@williamgallagher.com>",
     "tags": "Mac,App Store",
     "id": 3268
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Best ‘Black Friday in July’ Apple deals: $500 off MacBook Pro, $100 off AirPods, more",
-    "link": "https://9to5mac.com/2026/07/24/best-black-friday-in-july-apple-deals-50-off-airpods-pro-400-off-macbook-pro-more/",
-    "content": "Update 6/24: Amazon is now offering a giant $500 price drop on the 14-inch M5 Pro MacBook Pro with 24GB of RAM and the 2TB storage capacity down at $2,499 shipped.\nWe are getting a blast of notable Apple deals this week as part of the Black Friday in July festivities, starting with some of the best AirPods deals in months:\n$50 off AirPods Pro 3\n$34 off AirPods 4 with ANC \n$100 off AirPods Max 2\nThose offers join Amazon low pricing on the 2026 AirTag 2 from $22 each, a sizable 40% off the official iPhone Air MagSafe Battery, all-time low pricing on Apple Magic Keyboard, ongoing discounts on Apple Watch Series 11 from $299, and as much as $500 off M5/Pro MacBook Pro configs. Everything awaits in detail down below.",
-    "pub_date": "2026-07-24T14:38:18.000Z",
-    "creator": "Justin Kahn",
-    "tags": "Mac,iOS,Silicon",
-    "id": 3280
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "New U.S. tariffs hit Apple's supply chain, with no clear exemptions",
-    "link": "https://appleinsider.com/articles/26/07/24/new-us-tariffs-hit-apples-supply-chain-with-no-clear-exemptions?utm_source=rss",
-    "content": "The United States has chosen to apply new 10% tariffs to goods imported from a total of 60 countries, including the countries where nearly every iPhone and Mac are assembled.\n\n\nApple's supply chain may be impacted by new tariffs. Image credit: Intel\nThe new tariffs went into effect on Friday, July 24, 2026. They come into force as a 10% blanket import tax imposed by the Trump administration lapsed following a Supreme Court ruling that it was unlawful.\nThe new action follows a months-long investigation by the U.S. Trade Representative into the possible use of forced labor in the production of goods in 60 countries.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-24T14:37:38.000Z",
-    "creator": "Oliver Haslam <oliver@monkeymanmedia.com>",
-    "tags": "Mac,iOS",
-    "id": 3283
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Dispatch records cut claims of major Apple Park fire damage down to size",
-    "link": "https://appleinsider.com/articles/26/07/24/dispatch-records-cut-claims-of-major-apple-park-fire-damage-down-to-size?utm_source=rss",
-    "content": "Santa Clara County firefighters responded to an outside fire at an Apple property in Cupertino on July 23, but public evidence available and fire department reports refute major damage claims.\n\nApple Park headquarters\nA public PulsePoint listing from Santa Clara County Fire shows an outside fire reported at 5:38 p.m. Pacific time on July 23 at 18922 Forge Drive. The department closed the call at 6:24 p.m., about 45 minutes later, and the listing identifies Engine 71 as the only assigned unit.\nThe dispatch record doesn't describe the damage, identify what burned, or say how the fire started. It also doesn't mention an Apple employee, a cigarette, injuries, evacuations, structural damage, or any disruption to Apple Park.\nA July 24 post from ShrimpApplePro claimed that an Apple employee discarded a cigarette near the campus fence, starting a fire that spread to fencing installed in 2025. ShrimpApplePro didn't identify a source, provide a damage estimate, or offer evidence connecting an employee to the fire.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-24T14:29:27.000Z",
-    "creator": "Andrew Orr <andreworr@appleinsider.com>",
-    "tags": "General",
-    "id": 3284
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Facebook announces face scanning to confirm you’re a human",
-    "link": "https://9to5mac.com/2026/07/24/facebook-announces-face-scanning-to-confirm-youre-a-human/",
-    "content": "Meta has just announced ‘Facebook Verified,’ a new way for Facebook users to confirm they’re human by submitting a face scan to the service. Here are the details.",
-    "pub_date": "2026-07-24T14:09:17.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "General",
-    "id": 3281
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Can’t wait till September? Check out the new iPhone 18 Pro colors right now",
-    "link": "https://www.macworld.com/article/3116701/iphone-18-pro-colors-revealed-exclusive-look-at-apples-2026-models.html",
-    "content": "Macworld\n\n\nIt’s iPhone leaks season again. In just a couple of months, Apple is expected to unveil three new phones: the iPhone 18 Pro and 18 Pro Max, and a new foldable iPhone now rumored to be called the iPhone Ultra. But as always, one of the most important questions for buyers will be, What colors will Apple release this time?\nLike last year, Macworld has received information from a source familiar with Apple’s supply chain regarding the color options for the iPhone 18 lineup. We can now reveal an inside look at the colors Apple is planning to release in September, along with our own renders to show what to expect.\nDark Cherry is the hot new hue\nEvery year, Apple introduces a new signature color for the iPhone Pro models. With the iPhone 17 Pro, the color that stood out the most was the vibrant Cosmic Orange. What about this year’s models?\nWhile other sources have previously reported on a “Dark Red” color, the information we’ve heard suggests that Apple has been working on a Dark Cherry option to serve as the headline new color for the iPhone 18 Pro and iPhone 18 Pro Max. Previously, Bloomberg’s Mark Gurman and other leakers had suggested that Apple has been experimenting with a shade of red for this year’s phones, but we can reveal the hue will be much closer to wine than fruit punch.\nWhile Dark Cherry color won’t be as bright and striking as Cosmic Orange in person, it will still be unique enough to distinguish it as the new iPhone 18 Pro. As always, Apple is expected to discontinue the current lineup of colors, including Cosmic Orange.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nThe iPhone 18 Pro could come in three all-new colors.\n\nFoundry\n\n\n\n\nApple has also been reportedly experimenting with two other new color options for this year’s Pro lineup. One of them is Light Blue, which would resemble the current Mist Blue color of the base iPhone 17. The other color in development is a dark shade of gray. Finally, our source also reports on the existence of a silver variant of the iPhone 18 Pro, similar to the current generation.\nOnce again, our source notes that the colors are all in development, but since the iPhone 18 Pro hasn’t gone into mass production yet, Apple still has time to change them. Also, bear in mind that Apple doesn’t always offer four color options for the Pro models, so one of these hues could be dropped.\nLast year, both Macworld and the reliable leaker Sonny Dickson reported that Apple had also considered launching the iPhone 17 Pro in black or steel gray. However, those color options never saw the light of day. \nHere are the Pantone color codes our says are being used internally by Apple:\nLight Blue (Pantone 2121)\nDark Cherry (Pantone 6076)\nDark Gray (Pantone 426C)\nSilver (Pantone 427C)\nWe used these codes to generate the image above. Of course, colors may look a bit different in real life due to the material and lighting conditions. Since this report was published, we’ve seen real-world evidence of these colors, specifically the Dark Cherry hue, so we’re confident it will be among the options when the phone arrives in September.\nA very familiar design with minor changes\nMacworld’s sources also had access to the CAD drawings of the new iPhones. These documents support the rumors that the iPhone 18 Pro and iPhone 18 Pro Max will look very similar to their predecessors, with only minor changes.\nMost notably, the renders show a smaller Dynamic Island on the screen, which has been rumored to be one of the changes for this year’s models. This means the display will have more screen space for content when the Dynamic Island isn’t showing Live Activities.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nThe Dynamic Island could be smaller on the iPhone 18 Pro.\n\nFoundry\n\n\n\n\nAnother interesting change noted by our source is that, in one of the renders, the gap between the glass cutout on the back and the camera bump is a bit smaller. Our source was unable to verify whether this is an old render, or if Apple is moving forward with a design change.\nLast year, a Weibo leaker known as Instant Digital reported that Apple would adopt a new process to minimize the color difference between the glass and the aluminum frame, so perhaps that change also involves reducing the gap between the glass and the camera bump at some point.\nMore neutral colors for the foldable iPhone\nWe’ve also received details about the color options for the rumored foldable iPhone. The device, which will reportedly look like an iPad mini when unfolded, won’t come in fun colors like the base iPhone and may have even fewer options than the iPhone Pro.\nFor the foldable iPhone, Apple has been working on a classic silver and white model, as well as an Indigo option similar to the iPhone 17 Pro’s Deep Blue.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nThe iPhone Fold will reportedly come in a dark Indigo option.\n\nFoundry\n\n\n\n\nThe source also corroborates leaked CADs and renders showing the potential design of the foldable iPhone, which is expected to feature two rear cameras, a selfie camera on the outer display, and another selfie camera in the upper-left corner of the inner display. The schematics seen by our source reveal that the foldable iPhone will be just 4.7 millimeters thick when unfolded, making it significantly thinner than the 5.6mm iPhone Air.\nThe iPhone 18 Pro, 18 Pro Max, and the foldable iPhone are all expected to launch in September, while our sources also report that the foldable model will hit stores at a later date. The base model of the iPhone 18, the iPhone 18e, and a new Air have been rumored to arrive in the first half of 2027, which has also been confirmed by our source.",
-    "pub_date": "2026-07-24T14:07:58.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,Rumors",
-    "id": 3287
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Today in Apple history: Mighty Mouse goes wireless — with lasers!",
-    "link": "https://www.cultofmac.com/apple-history/wireless-mighty-mouse",
-    "content": "On July 24, 2006, the world got its first glimpse of Apple's new wireless Mighty Mouse due to an FCC filing. It became an instant winner.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-07-24T13:55:36.000Z",
-    "creator": "Luke Dormehl",
-    "tags": "Mac",
-    "id": 3273
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Meta Launches Free 'Facebook Verified' Badge to Confirm Real Users",
-    "link": "https://www.macrumors.com/2026/07/24/meta-launches-free-facebook-verified-badge/",
-    "content": "Meta today announced Facebook Verified, a free badge designed to confirm that a Facebook profile belongs to a real person rather than an AI-generated fake.\r\n\r\n\r\nThe feature uses a selfie-based verification process: users record a short video selfie, which ‌Meta‌ checks against their existing profile photos to confirm a match. ‌Meta‌ says the process is free and typically takes just a few minutes to complete, though accounts must meet the company's trust and safety standards to qualify.\r\n\r\nFacebook Verified is limited to users 18 and older who are in good standing with ‌Meta‌'s Community Standards around fraud, scams, and deceptive practices, and who show no evidence of inauthentic behavior. The badge is not available for Pages or ProMode accounts, positioning it squarely as a personal-profile feature rather than one aimed at creators or businesses.\r\n\r\nOnce verified, the badge will appear on Marketplace, Dating, Groups, and Profile, with ‌Meta‌ planning to extend it to Feed posts over time. There is no subscription fee for the feature, and the badge carries across the platform once a user has completed the one-time verification process.\r\n\r\nThe launch is separate from ‌Meta‌ Verified, the company's existing paid subscription that bundles a verified badge with extras like impersonation protection and direct account support. Facebook Verified is free and narrower in scope, aimed specifically at signaling humanity rather than offering premium account features.\r\n\r\nTags: Facebook, Meta\nThis article, \"Meta Launches Free 'Facebook Verified' Badge to Confirm Real Users\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-24T13:55:12.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "Services",
-    "id": 3259
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Here’s everything new Apple TV has coming in August",
-    "link": "https://9to5mac.com/2026/07/24/heres-everything-new-apple-tv-has-coming-in-august-2026/",
-    "content": "Apple TV subscribers will get to enjoy the long-awaited return of Ted Lasso in August, alongside a new season of sci-fi series Dark Matter, more episodes of Silo, and several other returning shows. Here’s everything new coming to Apple TV in August.",
-    "pub_date": "2026-07-24T13:44:51.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "General",
-    "id": 3262
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Fire Reported Near Apple Park",
-    "link": "https://www.macrumors.com/2026/07/24/fire-reported-near-apple-park/",
-    "content": "According to the Santa Clara County Fire Department, firefighters responded at approximately 5:30 p.m. local time on Thursday to a report of an outdoor fire at an Apple-leased building adjacent to Apple Park in Cupertino, California.\r\n\r\n\r\nThe fire occurred outside of a building known as Apple Forge 1, which spans 18920 to 18922 Forge Drive. While one person on social media described the damage as \"huge,\" the photos they shared only show damage to some fencing on the property. The incident report was marked as closed after 45 minutes. It is unclear if there were any injuries.\r\n\r\nThis article, \"Fire Reported Near Apple Park\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-24T13:30:29.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "General",
-    "id": 3260
   }
 ]
