@@ -1,9 +1,19 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "How to change your Home address in Maps on iPhone",
+    "link": "https://appleinsider.com/articles/26/07/30/how-to-change-your-home-address-in-maps-on-iphone?utm_source=rss",
+    "content": "Changing your home's address on Apple Maps can be almost as stressful as moving home in real life, but there's one sure-fire way to get the job done without pulling your hair out.\n\n\nRemember to update your home address whenever you move house.\nThe Apple Maps app is a great way to get around, whether you're using it while driving via CarPlay or just walking. It also makes it easy to quickly get directions to the places that you visit often, like your home or where you work.\nBut if you've moved home and ever tried to change your address in your iPhone's Maps app, you'll know it can be tricky. The job can be complicated considerably if you also have your home address pinned, too.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-30T03:04:43.000Z",
+    "creator": "Oliver Haslam <oliver@monkeymanmedia.com>",
+    "tags": "iOS,App Store",
+    "id": 3617
+  },
+  {
     "source_name": "9to5Mac",
-    "title": "PSA: App Store, iTunes Store and other Apple services are currently down for some users",
+    "title": "PSA: App Store, iTunes Store and other Apple services are currently down for some users [U: Fixed]",
     "link": "https://9to5mac.com/2026/07/29/psa-app-store-itunes-store-and-other-apple-services-are-currently-down-for-some-users/",
-    "content": "For the second time in a week, Apple is facing a widespread outage affecting services for end users and developers. Here are the details.",
+    "content": "Update, 11:00 p.m ET: Apple’s System Status pages say all the issues have now been resolved. The original story follows below.\nFor the second time in a week, Apple is facing a widespread outage affecting services for end users and developers. Here are the details.",
     "pub_date": "2026-07-30T02:29:50.000Z",
     "creator": "Marcus Mendes",
     "tags": "App Store",
@@ -313,7 +323,7 @@
     "source_name": "9to5Mac",
     "title": "Review: This Asus ProArt 4K display has several features that separate it from the pack [Video]",
     "link": "https://9to5mac.com/2026/07/29/asus-pa27ucge-review-160hz-colorimeter-monitor-hood-display/",
-    "content": "The Asus ProArt PA27UCGE is a 27-inch 4K display with a few tricks up its sleeve that set it apart from a crowded monitor market. It begins with its high frame rate support, up to 160Hz, which is great for fluid web browsing, gaming, and video editing. It also features an optional monitor hood to help mitigate ambient light, and a built-in motorized colorimeter for scheduled calibration.\nWe previously reviewed Asus’ 5K ProArt (review) and 6K ProArt Displays (review) and found both to be excellent options for Mac users looking for an affordable third-party option. Can we say the same about the ProArt Display, with lots of bells and whistles but lower resolution? Watch our hands-on video review for the details.",
+    "content": "The Asus ProArt PA27UCGE is a 27-inch 4K display with a few tricks up its sleeve that set it apart from a crowded monitor market. It begins with its high frame rate support, up to 160Hz, which is great for fluid web browsing, gaming, and video editing. It also features an optional monitor hood to help mitigate ambient light, and a built-in motorized colorimeter for scheduled calibration.\nWe previously reviewed Asus’ 5K ProArt (review) and 6K ProArt Displays (review) and found both to be excellent options for Mac users looking for an affordable third-party option. Can we say the same about this 4K ProArt Display? Watch our hands-on video review for the details.",
     "pub_date": "2026-07-29T17:00:45.000Z",
     "creator": "Jeff Benjamin",
     "tags": "Mac",
@@ -2988,15 +2998,5 @@
     "creator": "Oliver Haslam <oliver@monkeymanmedia.com>",
     "tags": "General",
     "id": 3282
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Trusted Mac apps could possibly be swapped out for malware",
-    "link": "https://appleinsider.com/articles/26/07/24/trusted-mac-apps-could-possibly-be-swapped-out-for-malware?utm_source=rss",
-    "content": "It takes a very specific series of steps and even then it cannot affect every Mac app, but researchers have found a way to bypass Apple's macOS security and run malware.\n\n\nThere is a way to get malware onto your Mac, although it's not very likely. Background skull and crossbones image by stg_max_gts\nIf they don't already come installed on the Mac, macOS apps are either downloaded from the Mac App Store, or from developers' websites. Whichever it is, macOS has security measures to prevent bad actors running malware on Macs, but researchers say they have found a way around this.\nResearchers Talal Haj Bakry and Tommy Mysk also say in a blog post that they reported their findings, but Apple is unconcerned. Apple has good reason, but it is still a potential weakness that the researchers believe could be readily fixed.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-24T14:43:14.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "Mac,App Store",
-    "id": 3268
   }
 ]
