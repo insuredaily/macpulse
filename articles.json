@@ -1,5 +1,65 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Fortnite returns to iPhone in Brazil with Epic Games Store launch",
+    "link": "https://9to5mac.com/2026/07/30/fortnite-returns-to-iphone-in-brazil-with-epic-games-store-launch/",
+    "content": "Fortnite is back on the iPhone in Brazil today with the launch of the Epic Games Store. However, Epic Games is calling foul on the nine-step process required for access.",
+    "pub_date": "2026-07-30T17:47:31.000Z",
+    "creator": "Zac Hall",
+    "tags": "iOS",
+    "id": 3662
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple is about to launch Home product overhaul I’ve wanted for years",
+    "link": "https://9to5mac.com/2026/07/30/apple-is-about-to-launch-home-product-overhaul-ive-wanted-for-years/",
+    "content": "A new Bloomberg report earlier this week confirmed what’s long been expected: Apple’s major new push into Home products will kick off soon. And I’m thrilled by what rumors say is coming.",
+    "pub_date": "2026-07-30T17:29:44.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "General",
+    "id": 3663
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Donating to Japan Earthquake Relief Efforts",
+    "link": "https://www.macrumors.com/2026/07/30/apple-japan-earthquake-donation/",
+    "content": "Apple CEO Tim Cook today said Apple would be making a donation to support earthquake relief efforts in Japan.\r\n\r\n\r\nA magnitude 6.8 earthquake (per the USGS) hit the Kumamoto prefecture on Kyushu island on Tuesday, collapsing buildings and killing at least 34 people.\r\n\r\n\nJapan has a very special place in my heart. We're thinking of everyone as they continue to face the effects of the Kumamoto earthquake and aftershocks. We're grateful to the first responders helping those in need. Apple is making a donation to support relief efforts.\n— Tim Cook (@tim_cook) July 30, 2026\n \n\r\nAftershocks continued on Wednesday and Thursday. Kyushu is the third largest of Japan's four main islands, and it has the second-highest population.\r\n\r\ndonating to wildfire relief efforts in France, Spain, and other countries.\r\n\r\ncollected donations for Japan through iTunes.\nTag: Donations\nThis article, \"Apple Donating to Japan Earthquake Relief Efforts\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-30T17:26:39.000Z",
+    "creator": "Juli Clover",
+    "tags": "General",
+    "id": 3661
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "OpenAI makes two GPT-5.6 models cheaper, expanding usage in ChatGPT",
+    "link": "https://9to5mac.com/2026/07/30/openai-makes-two-gpt-5-6-models-cheaper-expanding-usage-in-chatgpt/",
+    "content": "OpenAI is making two of its GPT-5.6 models more affordable today, and the benefits extend beyond API customers.",
+    "pub_date": "2026-07-30T17:25:37.000Z",
+    "creator": "Zac Hall",
+    "tags": "General",
+    "id": 3664
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "G4 meets M4: This project fuses an iconic iMac with a Mac mini",
+    "link": "https://appleinsider.com/articles/26/07/30/g4-meets-m4-this-project-fuses-an-iconic-imac-with-a-mac-mini?utm_source=rss",
+    "content": "The iMac G4 is instantly recognizable, but it's even better when you swap out its aged internals for a full-on Mac mini powered by Apple's M4 chip to create the perfect mix of iconic design and top-tier performance.\n\n\nThis M4 iMac isn't like the ones Apple sells today. Image: moddingdome.com\nThe iMac G4 has been around since 2002, and it's just as stunning today as it was almost a quarter of a century ago. But its IBM PowerPC chip leaves a lot to be desired at a time when Apple Silicon has changed the game for Macs and computers everywhere.\nThankfully, you don't have to ditch your iMac G4 for something less exciting just to be able to actually use your computer. You can buy a kit that puts an M4 Mac mini right inside that thing and, best of all, it's entirely reversible.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-30T17:21:24.000Z",
+    "creator": "Oliver Haslam <oliver@monkeymanmedia.com>",
+    "tags": "Mac,Silicon",
+    "id": 3640
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Senators tell Apple to drop Chinese memory chips plan",
+    "link": "https://www.cultofmac.com/news/senators-urge-apple-drop-chinese-memory-chips",
+    "content": "A bipartisan group of U.S. senators wants Apple to stop pursuing Chinese memory chips, warning of national security risks.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-30T17:20:16.000Z",
+    "creator": "Anurag Chawake",
+    "tags": "Mac",
+    "id": 3667
+  },
+  {
     "source_name": "Cult of Mac",
     "title": "Mac mini shortage drags into summer (and Mac Studio situation is even worse)",
     "link": "https://www.cultofmac.com/news/mac-mini-shortage-price-hikes-2026",
@@ -13,7 +73,7 @@
     "source_name": "Macworld",
     "title": "Minimal Phone 2 lets you break free from iPhone but still keep iMessage",
     "link": "https://www.macworld.com/article/3202852/minimal-phone-2-lets-you-break-free-from-iphone-but-still-keep-imessage.html",
-    "content": "Macworld\n\n\nIn an era where social media seems to be doing more harm than good, the Minimal Phone 2 seems like a really good idea. Billed as a distraction-free device, it’s a mobile phone with a physical keyboard that offers no social media access and only basic apps, including the ability to send and receive messages.\nHowever, it’s still an Android phone, so when you send a chat message from the Minimal Phone 2, it naturally appears in a green bubble on an iPhone. As silly as it sounds, there’s a stigma that some iPhone users attach to Android phone users because iOS displays chat messages from Android phones as green bubbles instead of blue ones, the telltale indication that a message came from an Apple device.\nThere’s a fix for that, though, in case you’re worried about being a social outcast by your iPhone buddies. Andre Youkhna, the founder of The Minimal Company, points out that the Minimal Phone 2 can run OpenBubbles, which means messages for the phone appear as blue bubbles on iPhones. It even has a blue blinking indicator light on the front to let you know when one arrives.\n\n\nPre-order soon… iMessage thanks to open bubbles 🙌\n— Andre (@Youkhna) July 28, 2026\n\n\n\n\n\nOpenBubbles is an app that basically spoofs a Mac or iPhone that you own, so that an Android phone can access Apple’s Messages, FaceTime, and iCloud Shared Albums (though it’s not clear if the latter two can be accessed by the Minimal Phone 2). If you don’t have an Apple device to spoof, you can sign up for OpenBubbles Hosted, which is $16.99 per month.\nDoesn’t OpenBubble sound like something Apple would disapprove of? OpenBubbles has been around since 2020, so Apple would’ve sicced its lawyers on the company by now if it cared at all. Learn more about OpenBubbles. If you want to jump on the waitlist for Minimal Phone 2, you can sign up on the Minimal website.",
+    "content": "Macworld\n\n\nIn an era where social media seems to be doing more harm than good, the Minimal Phone 2 seems like a really good idea. Billed as a distraction-free device, it’s a mobile phone with a physical keyboard that offers no social media access and only basic apps, including the ability to send and receive messages.\nHowever, it’s still an Android phone, so when you send a chat message from the Minimal Phone 2, it naturally appears in a green bubble on an iPhone. As silly as it sounds, there’s a stigma that some iPhone users attach to Android phone users because iOS displays chat messages from Android phones as green bubbles instead of blue ones, the telltale indication that a message came from an Apple device.\nThere’s a fix for that, though, in case you’re worried about being a social outcast by your iPhone buddies. Andre Youkhna, the founder of The Minimal Company, points out that the Minimal Phone 2 can run OpenBubbles, which means messages for the phone appear as blue bubbles on iPhones. It even has a blue blinking indicator light on the front to let you know when one arrives.\n\n\nPre-order soon… iMessage thanks to open bubbles 🙌\n— Andre (@Youkhna) July 28, 2026\n\n\n\n\n\nOpenBubbles is an app that basically spoofs a Mac or iPhone that you can access, so that an Android phone can access Apple’s Messages, FaceTime, and iCloud Shared Albums (though it’s not clear if the latter two can be accessed by the Minimal Phone 2). If you don’t have an Apple device to spoof, you can sign up for OpenBubbles Hosted, which is $16.99 per month.\nDoesn’t OpenBubble sound like something Apple would disapprove of? OpenBubbles has been around since 2020, so Apple would’ve sicced its lawyers on the company by now if it cared at all. Learn more about OpenBubbles. If you want to jump on the waitlist for Minimal Phone 2, you can sign up on the Minimal website.",
     "pub_date": "2026-07-30T16:23:13.000Z",
     "creator": "Macworld",
     "tags": "Mac,iOS,App Store,Services",
@@ -103,7 +163,7 @@
     "source_name": "Cult of Mac",
     "title": "How iPadOS 27 changed the way I use my iPad",
     "link": "https://www.cultofmac.com/news/how-ipados-27-changed-the-way-i-use-my-ipad",
-    "content": "Another signature feature from macOS is making its way to iPadOS 27, making the iPad easier to use. And I love it.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "content": "Another signature feature from macOS is jumping to iPadOS 27, making the iPad easier to use. And I love it.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
     "pub_date": "2026-07-30T15:05:47.000Z",
     "creator": "Ed Hardy",
     "tags": "Mac,iOS",
@@ -148,16 +208,6 @@
     "creator": "Ed Hardy",
     "tags": "Mac,iOS",
     "id": 3643
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "G4 meets M4: This project fuses an iconic iMac with a Mac mini",
-    "link": "https://appleinsider.com/articles/26/07/30/g4-meets-m4-this-project-fuses-an-iconic-imac-with-a-mac-mini?utm_source=rss",
-    "content": "The iMac G4 is instantly recognizable, but it's even better when you swap out its aged internals for a full-on Mac mini powered by Apple's M4 chip to create the perfect mix of iconic design and top-tier performance.\n\n\nThis M4 iMac isn't like the ones Apple sells today. Image: moddingdome.com\nThe iMac G4 has been around since 2002, and it's just as stunning today as it was almost a quarter of a century ago. But its IBM PowerPC chip leaves a lot to be desired at a time when Apple Silicon has changed the game for Macs and computers everywhere.\nThankfully, you don't have to ditch your iMac G4 for something less exciting just to be able to actually use your computer. You can buy a kit that puts an M4 Mac mini right inside that thing and, best of all, it's entirely reversible.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-30T14:03:13.000Z",
-    "creator": "Oliver Haslam <oliver@monkeymanmedia.com>",
-    "tags": "Mac,Silicon",
-    "id": 3640
   },
   {
     "source_name": "Cult of Mac",
@@ -441,12 +491,12 @@
   },
   {
     "source_name": "9to5Mac",
-    "title": "9to5Mac Daily: July 29, 2026 – iOS 26.6, Apple’s smart home plans",
+    "title": "9to5Mac Daily: July 29, 2026 –  iOS 27 tidbits, touchscreen Mac pricing",
     "link": "https://9to5mac.com/2026/07/29/daily-july-29-2026/",
     "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.",
     "pub_date": "2026-07-29T23:27:51.000Z",
     "creator": "Seth Kurkowski",
-    "tags": "iOS,App Store",
+    "tags": "Mac,iOS,App Store",
     "id": 3613
   },
   {
@@ -2948,55 +2998,5 @@
     "creator": "MacRumors Staff",
     "tags": "Mac,iOS,App Store,Services",
     "id": 3326
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Micron urges White House to reject Apple's blacklist memory plan",
-    "link": "https://appleinsider.com/articles/26/07/25/micron-urges-white-house-to-reject-apples-blacklist-memory-plan?utm_source=rss",
-    "content": "Apple's plan to buy memory from a blacklisted supplier is receiving some pushback from Micron, which claims it will destabilize the U.S. tech industry.\n\n\nMicron memory chips - Image Credit: Micron\nIn June, Apple petitioned the Trump administration to allow it to buy Mac RAM chips from a supplier blacklisted in the United States. Now, a U.S. memory producer has urged President Trump not to give in to Apple's request.\nAccording to the Wall Street Journal on Friday, Micron lobbied the White House on the matter. Micron CEO Sanjay Mehrota and others met with Commerce Secretary Howard Lutnick and others, saying the move to allow sales from blacklisted Chinese companies to U.S. tech companies will be incredibly harmful.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-25T12:48:35.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "Mac",
-    "id": 3330
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple weekend deals: MacBook Pro $500 off, AirPods Pro 3, AirTag 2, iPhone Air, Series 11, more",
-    "link": "https://9to5mac.com/2026/07/25/apple-weekend-deals-macbook-pro-airpods-airtag-2/",
-    "content": "It’s time for your weekend edition of 9to5Toys Lunch Break, and this week it’s a Black Friday in July edition as sale events at Amazon, Best Buy, and elsewhere carry through Sunday.  \nAlongside the ongoing price drop on AirPods Pro 3 and $100 off AirPods Pro Max, we also have up to $500 off M5 Pro MacBook Pro models, a series of ongoing discounts on Apple Watch Series 11, and up to $220 off iPhone 17 Pro. Hit the jump for all that and a bunch of discounts on charging and Find My gear.",
-    "pub_date": "2026-07-25T12:10:03.000Z",
-    "creator": "Justin Kahn",
-    "tags": "Mac,iOS,Silicon",
-    "id": 3328
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple @ Work: Apple TV proves to be more reliable than Android in new digital signage report",
-    "link": "https://9to5mac.com/2026/07/25/apple-tv-proves-to-be-more-reliable-than-android-in-new-digital-signage-report/",
-    "content": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\nWhen deploying digital signage across a corporate or retail environment, IT teams often face a choice between buying premium boxes like an Apple TV or saving money upfront with cheap Android devices. The new State of Digital Signage 2026 report from Kitcast provides compelling telemetry data on this exact situation, and the results clearly show that Apple TV is the superior choice for enterprise reliability (especially at scale).",
-    "pub_date": "2026-07-25T10:00:00.000Z",
-    "creator": "Bradley C",
-    "tags": "General",
-    "id": 3329
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Keeprix saves streaming videos so your shows & movies can travel with you—on sale for just $96",
-    "link": "https://www.macworld.com/article/3196343/keeprix-saves-streaming-videos-so-your-shows-movies-can-travel-with-you-on-sale-for-just-96.html",
-    "content": "Macworld\n\n\nTL;DR: Get Keeprix All-in-One Streaming Video Downloader lifetime access for just $95.99 (reg. $159.99) and download videos from your streaming platforms in up to 4K for offline viewing.\nThere’s never a bad time to have a few favorite movies or shows ready to watch—especially when Wi-Fi is spotty, you’re traveling, or you simply don’t want to rely on an internet connection.\nKeeprix All-in-One Streaming Video Downloader lets you have that forever for a one-time $95.99 (reg. $159.99); For a one-time payment, you get lifetime access to software that lets you download videos from many of today’s most popular streaming platforms and social media sites for offline playback.\nKeeprix supports downloads from services including Netflix, Amazon Prime Video, Disney+, Hulu, Max, Paramount+, YouTube, and TikTok, saving videos in MP4 or MKV formats for easy playback on your own devices. It also supports resolutions up to 4K for compatible content, so your downloads can look just as good offline as they do online.\n\nhttps://youtube.com/watch?v=eqQu98KB0QA%3Ffeature%3Doembed\n\n\n\n\nBeyond downloading, Keeprix includes features that make building a personal media library easier. Queue up multiple videos with batch processing, manage downloads in one place, and enjoy ad-free offline playback whenever it’s convenient.\nIf you’d rather spend your next flight, commute, or hotel stay watching instead of waiting for a connection, this is how you do it.\nGet the Keeprix All-in-One Streaming Video Downloader for life for just $95.99.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nKeeprix All-in-One Streaming Video Downloader: Lifetime SubscriptionSee Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-07-25T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "General",
-    "id": 3323
-  },
-  {
-    "source_name": "Macworld",
-    "title": "A new PDF editor is only charging $40 for a lifetime license",
-    "link": "https://www.macworld.com/article/3196348/a-new-pdf-editor-is-only-charging-40-for-a-lifetime-license.html",
-    "content": "Macworld\n\n\nTL;DR: PDF Reader Pro turns your Mac into a full PDF editor with text editing, OCR, forms, and redaction, and a lifetime license is on sale for $40 (reg. $79.99).\nEditing a PDF on a Mac usually means exporting to another format or paying monthly for Acrobat because the built-in Preview app really only handles annotation. PDF Reader Pro turns your Mac into a full editing suite, and a lifetime license is on sale for $39.99 (reg. $79.99).\nPDF Reader Pro makes quick work of files that are usually deeply frustrating. It can rewrite the original text and swap out images right inside a PDF, close to how you’d edit a Word file. Page management is just as flexible, letting you merge, split, rotate, crop, and reorder pages as often as a document demands. Batch mode compresses, encrypts, and watermarks stacks of files at once instead of one at a time.\nOCR reads scanned documents and turns them into searchable, editable text, so a pile of old paper stops being a dead end. You can build fillable forms, fill and sign existing ones, and add a legally binding digital signature when a contract calls for it. A redaction tool blacks out sensitive lines permanently, and password protection keeps private files locked down.\nPay once instead of renting a PDF editor by the month.\nGet a PDF Reader Pro lifetime license on sale for $39.99.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nPDF Reader Pro Premium License For Mac: Lifetime SubscriptionSee Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-07-25T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,App Store,Services",
-    "id": 3324
   }
 ]
