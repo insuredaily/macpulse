@@ -1,6 +1,46 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Apple TV drops full San Diego Comic-Con panels for Silo, Dark Matter, Widow’s Bay, more",
+    "link": "https://9to5mac.com/2026/07/31/apple-tv-drops-full-san-diego-comic-con-panels-for-silo-dark-matter-widows-bay-more/",
+    "content": "Apple TV’s YouTube channel has shared the full panels for Matchbox The Movie, Widow’s Bay, Dark Matter, Mayday, and Silo, from its first-ever Hall H takeover at San Diego Comic-Con 2026. Watch them below.",
+    "pub_date": "2026-07-31T20:04:18.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 3788
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Nearly half of smartphone revenue goes to Apple despite 23% shipment share",
+    "link": "https://appleinsider.com/articles/26/07/31/nearly-half-of-smartphone-revenue-goes-to-apple-despite-23-shipment-share?utm_source=rss",
+    "content": "Apple captured 49% of global smartphone revenue in the second quarter despite accounting for only 23% of shipments, showing how much more money the iPhone generates per device than competing smartphones.\n\niPhone 17 Pro\nThe company's iPhone revenue climbed 22% year over year in the second quarter, the fastest increase among the five largest brands, according to preliminary data from Counterpoint Research. Its share of global smartphone revenue reached a second-quarter record of 49%, up from 44% a year earlier.\nApple's growth came from higher shipments and a more expensive sales mix. Counterpoint's latest report estimated that shipments rose 13% from a year earlier, while Apple's average selling price increased 8% to $946.\nCounterpoint attributed the performance to sustained demand for the iPhone 17 lineup, particularly the base iPhone 17 and iPhone 17 Pro Max. Demand for the two models helped keep Apple's product mix concentrated on premium devices without requiring the steep price increases imposed by some competitors.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-31T19:51:54.000Z",
+    "creator": "Andrew Orr <andreworr@appleinsider.com>",
+    "tags": "iOS",
+    "id": 3789
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Another iPhone 17 Pro plummets from plane, and found intact",
+    "link": "https://appleinsider.com/articles/26/07/31/another-iphone-17-pro-plummets-from-plane-and-found-intact?utm_source=rss",
+    "content": "A Canadian artist dropped her iPhone 17 Pro from a plane at 3,600 feet, then found it sitting face-up and virtually untouched in a canola field. Here's why this is more common than you'd think.\n\n\niPhone 17 Pro survives 3,600-foot fall from a plane\nHeather Cline, a mixed-media artist from Saskatchewan, Canada, routinely takes to the skies with her husband, David, in their small plane. The goal is to gain inspiration for her artwork, which often depicts the Canadian landscape from aerial perspectives.\nRecently, during an outing above Regina, Heather decided to use her new iPhone 17 Pro to help gather inspiration for a new project. Her husband wasn't so sure about her choice.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-31T19:42:41.000Z",
+    "creator": "Amber Neely and Mike Wuerthele <news@appleinsider.com>",
+    "tags": "iOS",
+    "id": 3790
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Inside Beats lab: Outside Apple, because AirPods can't do everything well",
+    "link": "https://appleinsider.com/articles/26/07/31/inside-beats-lab-outside-apple-because-airpods-cant-do-everything-well?utm_source=rss",
+    "content": "Apple has spent 12 years strengthening Beats without folding it into AirPods, preserving a separate brand that can reach Android users, compete at lower prices, and sell products that wouldn't fit under Apple's own name. Here's what it looks like inside the Beats lab.\n\nBeats headphones\nThe strategy emerged from a rare look inside Beats' Culver City operations. Executives described how the company combines its original design and marketing culture with Apple's engineering resources.\nApple completed its $3 billion acquisition in 2014. Many employees who worked at Beats before the deal remain with the company.\nMatthew Costello, Apple's vice president of hardware engineering, told TechRadar that Beats was developed to complement AirPods rather than duplicate them. The company sells colorful headphones, fitness-focused earbuds and lower-cost products with support for both Apple and Google platforms.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-31T18:36:06.000Z",
+    "creator": "Andrew Orr <andreworr@appleinsider.com>",
+    "tags": "General",
+    "id": 3791
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Report: Apple hit a record 49% share of global smartphone revenue for Q2",
     "link": "https://9to5mac.com/2026/07/31/report-apple-hit-a-record-49-share-of-global-smartphone-revenue-for-q2/",
     "content": "According to Counterpoint Research, Apple captured nearly half of global smartphone revenue during the second quarter, despite a market-wide decline in shipments. Here are the details.",
@@ -31,7 +71,7 @@
   },
   {
     "source_name": "9to5Mac",
-    "title": "Following Apple’s Q4 2026 guidance, JP Morgan cuts its target for the company’s stock",
+    "title": "Following Apple’s Q4 2026 guidance, JP Morgan cuts its target for the company’s stock [U]",
     "link": "https://9to5mac.com/2026/07/31/following-apples-q4-2026-guidance-jp-morgan-cuts-its-target-for-the-companys-stock/",
     "content": "A few weeks ago, JP Morgan set a $345 price target for Apple’s stock through December 2027. Following yesterday’s quarterly results, the investment bank has slightly lowered its outlook. Here are the details.",
     "pub_date": "2026-07-31T17:30:36.000Z",
@@ -2958,45 +2998,5 @@
     "creator": "Amber Neely <amber@appleinsider.com>",
     "tags": "iOS",
     "id": 3445
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "macOS Sonoma 14.8.8 and macOS Sequoia 15.7.8 now available",
-    "link": "https://9to5mac.com/2026/07/27/macos-sonoma-14-8-8-and-macos-sequoia-15-7-8-now-available/",
-    "content": "In addition to macOS 26.6, Apple is also rolling out macOS Sonoma 14.8.8 and macOS Sequoia 15.7.8 with important bug fixes. Here are the details.",
-    "pub_date": "2026-07-27T17:49:08.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Mac",
-    "id": 3442
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Releases macOS Tahoe 26.6",
-    "link": "https://www.macrumors.com/2026/07/27/apple-releases-macos-tahoe-26-6/",
-    "content": "Apple today released macOS Tahoe 26.6, a small update to the ‌macOS Tahoe‌ operating system that came out last year. ‌macOS Tahoe‌ 26.6 comes a month after Apple released macOS Tahoe 26.5.2.\r\n\r\n\r\nMac owners can download the software by opening the System Settings app and then navigating to the Software Updates section.\r\n\r\nRelated Roundup: macOS Tahoe\nRelated Forum: macOS Tahoe\nThis article, \"Apple Releases macOS Tahoe 26.6\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-27T17:48:57.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,App Store",
-    "id": 3435
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple rolls out another behind-the-scenes update with tvOS 26.6",
-    "link": "https://appleinsider.com/articles/26/07/27/apple-rolls-out-another-behind-the-scenes-update-with-tvos-266?utm_source=rss",
-    "content": "Apple TV and HomePod owners can now update their devices to tvOS 26.6.\n\n\nApple rolls out tvOS 26.6\nOn Monday, Apple released an update for its Apple TV and HomePod devices. The update, tvOS 26.6, is not much to write home about.\nApple hasn't included any notes about new features, making the release a stability and performance update. These updates, while not the most exciting, are critical for keeping your devices running optimally.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-27T17:42:34.000Z",
-    "creator": "Amber Neely <amber@appleinsider.com>",
-    "tags": "General",
-    "id": 3423
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Early Siri indexing gives iPadOS 26.6 a bigger job than it looks",
-    "link": "https://appleinsider.com/articles/26/07/27/early-siri-indexing-gives-ipados-266-a-bigger-job-than-it-looks?utm_source=rss",
-    "content": "iPadOS 26.6 is now available for iPad, beginning under-the-hood preparation for Siri AI while delivering security patches, bug fixes, and reliability improvements.\n\niPadOS 26.6 is out\nThe update is light on visible features because Apple has shifted most of its development attention to iPadOS 27. However, iPadOS 26.6 appears to handle some of the background work required before the next operating system and its new Siri capabilities arrive.\nApple also tested iPadOS 26.6 alongside iOS 26.6 through an extended beta cycle. The two operating systems share many components, so some security improvements discovered during iPhone testing may also apply to compatible iPads.\nThe release build for iPadOS 26.6 is number 23G71.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-27T17:40:31.000Z",
-    "creator": "Andrew Orr <andreworr@appleinsider.com>",
-    "tags": "iOS",
-    "id": 3424
   }
 ]
