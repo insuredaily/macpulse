@@ -1,5 +1,65 @@
 [
   {
+    "source_name": "Cult of Mac",
+    "title": "I did the math on Apple Upgrade, one option clearly makes more sense",
+    "link": "https://www.cultofmac.com/buying-guides/apple-upgrade-math",
+    "content": "I did the math on Apple Upgrade to see whether its lower monthly payments make leasing an iPhone or Mac worthwhile.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-07-31T13:00:58.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac,iOS",
+    "id": 3738
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Apple warns it may be really hard to get a new iPhone this year",
+    "link": "https://www.macworld.com/article/3203632/apple-warns-it-may-be-really-hard-to-get-a-new-iphone-this-year.html",
+    "content": "Macworld\n\n\nWith the calendar about to change over to August, all eyes will soon be on Apple’s fall event, and with it, new iPhones. This year, we’re expecting the iPhone 18 Pro and Pro Max to arrive alongside the brand-new folding iPhone Ultra, and demand is sure to be bigger than ever.\nBut if you’re planning on buying one of these new products, you might not be able to. During Apple’s Q3 earnings call Thursday, Tim Cook warned that “the impact from the supply constraints (will) increase significantly” in the coming quarter. In plain English, that means supplies of new products could be severely limited.\nOf course, that’s not a new thing for new iPhone launches, but it sounds like this year will be particularly bad. While Cook stressed that the current shortage is due to an “incredibly strong iPhone and Mac product cycle that has really yielded a demand beyond our expectation” and “isn’t a partner or supplier issue,” the fact of the matter is RAM is becoming very expensive and hard to get.\nCook explains that Apple sees “the market pricing for memory continuing to increase and having an increasing impact on our business.” Apple raised prices significantly last month to offset the rising costs of memory chips, but left iPhone prices stable, though they, too, are expected to rise in September. \nHigher prices aside, there is sure to be tremendous demand for the new iPhones in September, especially the Ultra. And if RAM is still hard to get, that’s going to create something of a perfect storm for buyers, with stock of the iPhone Ultra likely selling out as quickly as the iPhone X and the hot new iPhone 18 color backordered for months.",
+    "pub_date": "2026-07-31T12:50:26.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,iOS",
+    "id": 3737
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iPhone 18 Pro Models Could Be Up to $300 More Expensive, Says Analyst",
+    "link": "https://www.macrumors.com/2026/07/31/iphone-18-pro-models-300-more-expensive/",
+    "content": "This year's iPhone 18 Pro and iPhone 18 Pro Max could be $250-$300 more expensive than existing iPhone 17 Pro models due to higher silicon and memory costs, an analyst claimed today.\r\n\r\n\r\nAccording to an earnings note by Jeff Pu of GF Securities, higher 2nm silicon and DRAM/NAND costs could drive the price hikes, as Apple grapples with global component shortages owing to the AI infrastructure buildout.\r\n\r\nincreased the prices of iPads, Macs, HomePods, the Apple TV, and the Vision Pro. iPhone models were spared similar hikes. Pu believes price hikes on the next-generation Pro models could create \"demand uncertainty.\" The analyst has subsequently downgraded AAPL from buy to hold.\r\n\r\naggressively,\" despite rising memory costs.\r\n\r\nQ3 earnings call on Thursday, outgoing Apple CEO Tim Cook did not comment on whether Apple plans to raise iPhone prices when the iPhone 18 Pro models and first foldable launch this September, but many analysts believe prices will go up.\r\n\r\nRelated Roundup: iPhone 18 Pro\nTag: Jeff Pu\nThis article, \"iPhone 18 Pro Models Could Be Up to $300 More Expensive, Says Analyst\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-07-31T12:27:01.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "iOS,Vision,Rumors",
+    "id": 3728
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Rosenblatt hikes AAPL to $300 on expected iPhone 18 demand, still underwater",
+    "link": "https://appleinsider.com/articles/26/07/31/rosenblatt-hikes-aapl-to-300-on-expected-iphone-18-demand-still-underwater?utm_source=rss",
+    "content": "Securities firm Rosenblatt is still bearish on Apple's future, seeing short term supply problems as well as difficulties matching the iPhone 17 range's success. Just the same, it has raised its price target to a still-underwater $300.\n\n\niPhone 17 Pro was such a hit that Apple may have difficulty matching it\nFollowing Apple's latest earnings call, the company's shares took their usual inexplicable dip, but investment and securities firms are looking further ahead. Rosenblatt, which remains amongst the most bearish on Apple, has told investors that it is raising its price target by $24 to $300.\nIn an note to investors seen by AppleInsider, the company says that it has decided to do this by focusing on how it believes Apple will be faring in a year's time. Even then, it says the reason for only raising the target by what it calls a modest amount, is down to the volatile financial environment.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-07-31T12:18:05.000Z",
+    "creator": "William Gallagher and Mike Wuerthele <news@appleinsider.com>",
+    "tags": "iOS",
+    "id": 3731
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "macOS 27 brings three key upgrades to iPhone Mirroring",
+    "link": "https://9to5mac.com/2026/07/31/macos-27-brings-three-key-upgrades-to-iphone-mirroring/",
+    "content": "I use iPhone Mirroring every day to quickly access my iPhone directly from my Mac, and it’s getting even better this year. iOS 27 and macOS 27 Golden Gate public betas were released this month, bringing three key updates to iPhone Mirroring. Here’s everything new.",
+    "pub_date": "2026-07-31T11:37:47.000Z",
+    "creator": "Chance Miller",
+    "tags": "Mac,iOS",
+    "id": 3729
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "First impressions of smart glasses with a display: the Even Realities G2",
+    "link": "https://9to5mac.com/2026/07/31/first-impressions-of-smart-glasses-with-a-display-the-even-realities-g2/",
+    "content": "Apple’s cautious entrance into the smart glasses field means that we have a reasonably good idea what to expect, and have been able to preview some of the capabilities through existing devices.\nRay-Ban Meta glasses have given me two years’ experience of the kind of capabilities we’re expecting from the first Apple Glasses model, and the Even Realities G2 are currently giving me a preview of what we can expect from a later model: smart glasses with a display …",
+    "pub_date": "2026-07-31T11:18:43.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "General",
+    "id": 3730
+  },
+  {
     "source_name": "AppleInsider",
     "title": "From iTools to iCloud: Apple's first foray into Software as a Service",
     "link": "https://appleinsider.com/articles/26/07/31/from-itools-to-icloud-apples-foray-into-subscriptions-as-a-service?utm_source=rss",
@@ -2938,65 +2998,5 @@
     "creator": "Joe Rossignol",
     "tags": "Mac,iOS,App Store",
     "id": 3390
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Accessibility paywall on Meta Glasses ‘paused’ after condemnation [U]",
-    "link": "https://9to5mac.com/2026/07/27/an-accessibility-paywall-on-meta-glasses-could-be-good-news-for-apple-glasses/",
-    "content": "Ray-Ban Meta Glasses and the latest cheaper non-designer option are sold on the basis of the built-in AI features, but in early July the company announced a “ridiculous” limit on the free usage you can make of an accessibility feature.\nEffectively, Meta has retroactively applied a paywall to a hardware product it already sold to customers. Update: The social network has now said it is “pausing” plans to paywall the feature – see the end of the piece.",
-    "pub_date": "2026-07-27T12:27:42.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "General",
-    "id": 3373
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Apple eyes WWDC smart glasses launch with a focus on privacy",
-    "link": "https://www.macworld.com/article/3199653/apple-eyes-wwdc-smart-glasses-launch-with-a-focus-on-privacy.html",
-    "content": "Macworld\n\n\nHaving reportedly shelved plans for a cheaper and lighter version of Vision Pro, Apple is currently focusing all of its augmented-reality efforts on a pair of smart glasses. According to a new report, these are slated to be unveiled at WWDC in June 2027, and would have arrived sooner if it weren’t for privacy concerns.\nIn the latest edition of his Power On newsletter, Bloomberg reporter Mark Gurman lays out the particular difficulties which have dogged the so-called “Apple Glasses” project. As he explains, products in this field made by Meta and (to a lesser extent) Samsung and Google have become associated with surveillance and intrusive non-consensual video recording, but Apple stands to lose far more than those companies if it launches a pair of smart glasses because so much of its brand is built around privacy.\n“Consumers remain uneasy around people wearing camera-equipped glasses, unsure whether they’re being recorded during conversations at work, restaurants or other public places,” Gurman writes. “In most cases, those fears are probably unfounded. But years of headlines about Meta’s privacy practices, viral social media posts and broader skepticism toward always-available cameras have left many people wary of the category.” Such wariness, then, isn’t confined to Meta’s products; it has created a more general distrust which affects smart glasses launched by any company.\nIn order to combat this, and to safeguard a pro-privacy reputation a decade in the making, Apple plans to emulate the safety measures introduced by rivals. There will be a light to indicate when the device is recording video, as on the glasses currently being developed by Samsung and Google, and a feature which disables recording if that light has been tampered with. But Apple’s measures need to go further, Gurman says.\nPro-privacy marketing specific to Apple’s entry to the market will include emphasising on-device rather than datacenter-based processing, and steering clear of facial recognition and “super-sensing”-style continuous monitoring features. Unlike Meta, Apple will choose not to have outside contractors review footage shot by its smart glasses, nor to have that footage used to train AI models.\nMost drastic of all, Gurman speculates, Apple could launch a set of smart glasses without a camera at all. This, he acknowledges, would undercut much of the appeal of the category, but it would still offer a convenient hands-free device for phone calls, music playback, and AI assistance. Or, if Apple doesn’t want to go quite this far, it could include the hardware for a camera but hard-code limits on what this camera could be used for: namely, that it wouldn’t record video or still images at the user’s behest. It would act as a data collection tool for the onboard AI assistant, generating information about the user’s surroundings, but wouldn’t store the imagery for future perusal.\nThere are other possible approaches. The analyst Max Weinbach responded to Gurman’s article by proposing the idea of a “privacy beacon.” This would be a Bluetooth signal broadcast by AirTags or other devices which either consents to or declines video surveillance. “If I enable that feature any smart glasses that record near me would put a full body blur over me,” he explains. But this would require widespread agreement among different companies and likely regulators, and the establishment of a standardized protocol.\nIt’s clear that Apple’s smart glasses will be a challenging launch, from a marketing, PR and even cultural standpoint as well as a technical one. Gurman believes the device will be shown off at next year’s WWDC in June 2027, but won’t become available for sale until later in the year. For all the latest news and rumors, bookmark our regularly updated Apple Glasses superguide.",
-    "pub_date": "2026-07-27T12:20:27.000Z",
-    "creator": "Macworld",
-    "tags": "Vision,Rumors",
-    "id": 3381
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Claude Cowork escaped sandbox on Mac, gain full access to all files",
-    "link": "https://9to5mac.com/2026/07/27/claude-cowork-escaped-sandbox-on-mac-gain-full-access-to-all-files/",
-    "content": "Security researchers demonstrated that Claude Cowork could escape the sandbox intended to control the access it gets to your Mac. The exploit, dubbed ShareRoot, could allow an attacker to read and write files stored anywhere on your Mac, as well as access login credentials for online services.\nAround half a million Mac users had co-work sessions exposed, and some still remain vulnerable to the exploit today …",
-    "pub_date": "2026-07-27T12:16:29.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "Mac",
-    "id": 3374
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Daughters overjoyed as Apple Watch gift saves their father's life",
-    "link": "https://appleinsider.com/articles/26/07/27/daughters-overjoyed-as-apple-watch-gift-saves-their-fathers-life?utm_source=rss",
-    "content": "A Cincinnati man says that if the fall detection feature of Apple Watch hadn't called 911, he would have died from undiagnosed blood clotting.\n\n\n\nMohammad Islam with the Apple Watch that saved his life - image credit: WKRC\n\nBack in 2023, it was the Apple Watch heart rate monitor that saved a Cincinnati woman's life by alerting her to a dangerous condition. Now the device's fall detection has done the same for Mohammad Islam in the city, according to local station WKRC.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-27T11:49:00.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "iOS",
-    "id": 3377
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple Glasses just won’t be useful without video recording",
-    "link": "https://9to5mac.com/2026/07/27/apple-glasses-just-wont-be-useful-without-video-recording/",
-    "content": "A Bloomberg report suggests that Apple Glasses might be launched without the capability to take photos or record video. Apple is said to be considering this option as a way to address privacy concerns.\nHowever, while I do absolutely understand the thinking that would leave the company to mull this option, my own experience of Ray-Ban Meta glasses is that video recording is absolutely core functionality for this type of product …",
-    "pub_date": "2026-07-27T11:40:01.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "General",
-    "id": 3375
-  },
-  {
-    "source_name": "Macworld",
-    "title": "iPhone Air 2: Apple’s thinnest, strongest iPhone is getting these upgrades",
-    "link": "https://www.macworld.com/article/3197343/iphone-air-2-release-date-price-features-and-latest-rumors.html",
-    "content": "Macworld\n\n\nWhen we reviewed the iPhone Air, we said it “felt like the future.” The perfect in-between screen size, the thin design that feels delightful in the hand and disappears in your pocket, the impressive glass durability and surprisingly bend-proof frame. But Apple had to make a number of important compromises to get there. A single rear camera. A battery that doesn’t quite last all day when it’s new, let alone after a couple years of use. And a thousand-dollar price tag that felt like paying more for less.\nWith iPhone Air 2, Apple should rectify at least some of those issues, making one of Apple’s nicest iPhones into one of Apple’s best. At least, if the rumors are to be believed.\nEarly rumors suggested the second-generation model would arrive alongside the iPhone 18 Pro lineup in September 2026, but more recent reports indicate Apple has pushed its launch back to spring 2027, when it’s expected to debut with the standard iPhone 18 and iPhone 18e.\nHere’s what we think we know so far about the iPhone Air 2.\n\n\niPhone Air 2 design: New color, extra camera\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nAnyron Copeman / Foundry\n\n\n\n\nOutwardly, the iPhone Air 2 should resemble the current iPhone Air. The Black, White, and Light Gold colors are said to be joined by a sort of pale lavender color in place of the light blue.\nThe second iPhone Air is expected to have the same dimensions and use the same materials as the current model, with the exception of a second camera placed next to the current one on the “plateau” strip across the back.\nWe haven’t heard of any changes to the 6.5-inch always-on display, which is already excellent with a 3,000 nits peak brightness, 1 nit minimum, and 120Hz ProMotion.\nGenerally speaking, with the exception of swapping out one of the color options (as Apple does every year), the iPhone Air 2 will only be distinguishable from the iPhone Air by the second camera on the back.\n\n\n\n\n\n\n\niPhone Air 2 specs: A20 Pro and improved battery life\nOne of the sure-fire upgrades for the new iPhone Air will be a jump from the A19 Pro to the A20 Pro. It’s likely that the processor will have perhaps one GPU disabled, similar to how the current iPhone Air has an A19 Pro with 5 GPU cores instead of the 6 found in the iPhone 17 Pro. \nStill, it will bring with it significant performance improvements, and likely better efficiency.\nTogether with the rumored larger battery of roughly 3,500 mAh (about 11% larger than the 3,149 mAh in the current iPhone Air), the iPhone Air 2 should have longer battery life. This is a key improvement—the first-generation Air has a battery that doesn’t even last as long as the standard iPhone 17. The iPhone Air 2 won’t be a longevity champion, but just another 15% or so more battery life will be enough to cross that all-day threshold.\nApple is also working on a C2 cellular chip and may incorporate it’s N1 networking chip as well, which should bring greater energy efficiency. Anything to make that thin battery stretch out just a little longer.\n\n\n\n\n\n\n\niPhone Air 2 camera: Two cameras on the rear\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nPetter Ahrnstedt\n\n\n\n\nPerhaps the most disappointing compromise of the original iPhone Air is its single rear camera. Even the base iPhone models, costing hundreds less, have a Wide and Ultra Wide lenses.\nWith iPhone Air 2, multiple sources claim Apple has found ways to shrink the components in the center of the “plateau” area, namely the TrueDepth module, and that will give them room to add a second camera.\nIt is said to be a 48MP Ultra Wide camera, to go along with the 48MP Wide camera. Since the Ultra Wide camera with its very short focus range is responsible for macro mode photography, this will bring back a feature that was sorely missed.\nAs for the front camera—the square-sensor 18 megapixel selfie camera is a relatively recent upgrade, but a persistent rumor suggest Apple wants to upgrade all its front-facing cameras to 24MP. We heard that last year and it didn’t happen, and it’s being claimed again this year—if it happens, it should happen on the iPhone Air 2 as well as the iPhone 18 Pro.\n\n\n\n\n\n\n\nOther minor improvements\nWe can expect a few other tweaks to the iPhone Air 2 that may not amount to much individually, but will contribute to a better overall experience.\nFor starters, there’s a smaller dynamic island cutout. This is said to be a function of Apple further consolidating and rearranging the hardware necessary for the TrueDepth module and Face ID. The big practical benefit of this is that it makes room for the second rear camera, but it might make the cutout on the display a little smaller, too. \nIf the iPhone Air 2 contains Apple’s C2 modem as we suspect, then you’ll see improved 5G connectivity and energy efficiency. The iPhone Air was the first phone to contain Apple N1 chip for Wi-Fi and Bluetooth, and while we haven’t yet heard of a successor, it wouldn’t be surprising to see an N1X or N2 make an appearance. The N1 already supports Wi-Fi 7 and Bluetooth 6, but a newer version that improves performance and power efficiency is possible.\n\n\n\n\n\n\n\niPhone Air 2 release date: Coming in 2027\nOriginally, rumors suggested that Apple would release the iPhone Air 2 in September of 2026, along with the iPhone 18 Pro models and iPhone Ultra. \nMore recently, Bloomberg reported that the release date is instead going to be in the spring of 2027, to go with the standard iPhone 18 and iPhone 18e.\n\n\n\n\n\n\n\niPhone Air 2 price: \nThe price as already problematic at $999, so one would expect that Apple would try to lower the price or at least keep it the same. However, Apple’s recent price hikes on nearly all products except iPhones creates the assumption that the entire new generation of iPhones will carry a larger price tag. Nobody knows what the iPhone Air 2 will cost, but an increase of around $100 seems likely, making the entry-level price a whopping $1,099.\n\n\n\n\n \n @macworld.com \nInfamous Apple leaker info-dumps almost every iPhone Air 2 detail #iphoneair2 #apple\n ♬ original sound – Macworld – Macworld",
-    "pub_date": "2026-07-27T11:30:00.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,Rumors,Silicon",
-    "id": 3382
   }
 ]
