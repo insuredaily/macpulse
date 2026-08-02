@@ -1,5 +1,55 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "Sunday Reboot: Tons of money, but way more grief",
+    "link": "https://appleinsider.com/articles/26/08/02/sunday-reboot-tons-of-money-but-way-more-grief?utm_source=rss",
+    "content": "In this week's Sunday Reboot, despite Apple making more money than in any previous Q3, it's never enough to escape a beating from investors or analysts.\n\n\nApple did really well in its financials, yet analysts and stockholders somehow think otherwise. \nSunday Reboot is a weekly column covering some of the lighter stories within the Apple reality distortion field from the past seven days. All to get the next week underway with a good first step.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-02T19:55:15.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "General",
+    "id": 3854
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple's corporate espionage suit against OpenAI: How we got here",
+    "link": "https://appleinsider.com/articles/26/07/13/apples-corporate-espionage-suit-against-openai-isnt-the-first?utm_source=rss",
+    "content": "Since its founding, Sam Altman's OpenAI has been at the center of multiple controversies, with Apple's intellectual property theft suit being just the latest chapter. Here's the story so far about what's been alleged over the last decade.\n\n\nSam Altman of OpenAI\nThe artificial intelligence development wave has greatly affected the tech industry. As usual, this also includes accusations, threats, and lawsuits.\nOpenAI is no different, as it has attracted many different lawsuits in its short existence. As you might expect, Apple is central to some, and peripheral to others.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-02T19:41:09.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "General",
+    "id": 3561
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "If you use ChatGPT, you need to see this AI tool",
+    "link": "https://www.cultofmac.com/deals/undetectable-humanizer-ai-writing-tool",
+    "content": "The Undetectable Humanizer transforms your AI-generated text into natural, human-like prose to help it bypass AI-detection systems.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-02T19:36:00.000Z",
+    "creator": "Cult of Mac Deals",
+    "tags": "Mac",
+    "id": 3860
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Here’s how iPhone Ultra’s form factor could compare to other Apple products",
+    "link": "https://9to5mac.com/2026/08/02/heres-how-iphone-ultras-form-factor-could-compare-to-other-apple-products/",
+    "content": "Next month, Apple will be unveiling its first foldable iPhone – rumored to be called iPhone Ultra. It’s going to feature a 5.5-inch outer display and 7.6-inch inner display. Late last month, Samsung introduced the new Galaxy Z Fold 8 – and it comes with those same screen sizes.\nWhether or not you believe Samsung only made this phone to preempt the iPhone Ultra is a different story – but one way or another, seeing the Galaxy Z Fold 8 gives us a great early idea of what iPhone Ultra will feel like in the real world.",
+    "pub_date": "2026-08-02T19:21:00.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS",
+    "id": 3852
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "HomeKit Weekly: How I use Apple Home to keep tabs on my home during summer travels",
+    "link": "https://9to5mac.com/2026/08/02/how-i-use-apple-home-to-keep-tabs-on-my-home-during-summer-travels/",
+    "content": "As I write this article, I am about to head out for a quick trip up north, and when I hit the road, there are a few key types of gear of my smart home setup I fully rely on to keep things running smoothly. Just remember that you will need a dedicated Apple Home hub, like an Apple TV 4K or a HomePod, to access your devices remotely to take full advantage here.",
+    "pub_date": "2026-08-02T18:51:00.000Z",
+    "creator": "Bradley C",
+    "tags": "General",
+    "id": 3853
+  },
+  {
     "source_name": "9to5Mac",
     "title": "Apple’s rumored AirPods with cameras could potentially debut as soon as next month",
     "link": "https://9to5mac.com/2026/08/02/airpods-with-cameras-visual-intelligence-could-arrive-this-year/",
@@ -2191,16 +2241,6 @@
   },
   {
     "source_name": "AppleInsider",
-    "title": "Apple's corporate espionage suit against OpenAI: How we got here",
-    "link": "https://appleinsider.com/articles/26/07/13/apples-corporate-espionage-suit-against-openai-isnt-the-first?utm_source=rss",
-    "content": "Since its founding, Sam Altman's OpenAI has been at the center of multiple controversies, with Apple's intellectual property theft suit being just the latest chapter. Here's the story so far about what's been alleged over the last decade.\n\n\nSam Altman of OpenAI\nThe artificial intelligence development wave has greatly affected the tech industry. As usual, this also includes accusations, threats, and lawsuits.\nOpenAI is no different, as it has attracted many different lawsuits in its short existence. As you might expect, Apple is central to some, and peripheral to others.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-29T12:10:48.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "General",
-    "id": 3561
-  },
-  {
-    "source_name": "AppleInsider",
     "title": "iPhone sales keep rising in China even as market declines",
     "link": "https://appleinsider.com/articles/26/07/29/iphone-sales-keep-rising-in-china-even-as-market-declines?utm_source=rss",
     "content": "New figures from China show that the overall smartphone market has declined, yet sales for foreign models like the iPhone have soared.\n\n\nApple is seeing increased iPhone sales again in China\nAhead of the next Apple earnings call on July 30, 2026, there is a report that iPhone sales have again gone up in the crucial Chinese market. According to Reuters, the China Academy of Information and Communications Technology (CAICT) has released certain figures for June smartphone sales.\nThere is very little detail so far and none of it is broken down by manufacturer. But shipments of non-Chinese smartphones including the iPhone rose 66% from May to June.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
@@ -2958,45 +2998,5 @@
     "creator": "Ben Lovejoy",
     "tags": "Mac",
     "id": 3472
-  },
-  {
-    "source_name": "Macworld",
-    "title": "I switched to Beats, and I’ll never go back to Apple again",
-    "link": "https://www.macworld.com/article/3199724/i-switched-to-beats-and-ill-never-go-back-to-apple-again.html",
-    "content": "Macworld\n\n\nApple has its own official lineup of accessories, which includes not only AirPods but also iPhone cases. And they’re great, all designed to work together seamlessly. But over the past few months, I decided to give a set of Beats accessories a try.\nAfter spending quite a while testing the new Powerbeats Fit alongside Beats’ Rugged Case for the iPhone 17 Pro Max, I’ve come to an unexpected conclusion. My new favorite gym accessories don’t have an Apple logo on them at all.\nBeats solved problems Apple didn’t\nThere’s a reason I don’t usually wear my AirPods Pro to the gym anymore, and it has very little to do with sound quality.\nThe AirPods Pro are excellent earbuds. Their noise cancellation remains among the best in the industry, Transparency Mode is still something competitors struggle to match, and they integrate so well with the Apple ecosystem that it’s easy to forget they’re even there. Outside the gym, they’re almost always my first choice.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nAirPods are great, but the Powerbeats Fit are a better options for working out.\n\nFoundry\n\n\n\n\nAt the gym, however, it’s a different story. Even with the right ear tips, AirPods can feel a little uncomfortable depending on my movements. Not only that, but I always find myself adjusting them or checking to see if they’re still properly secured in my ears during intense workouts.\nPowerbeats Fit\nRead our review\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n$152.97 at  Walmart\t\t\t\t\t\t\t\t\t\t\t | \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t$199.95 at  Amazon\t\t\t\t\t\t\t\t\t\t\t | \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t$199.95 at  B&H\t\t\t\t\t\t\t\n\t\t\t\t\t\t\nPowerbeats Fit eliminate that distraction entirely. The flexible wingtips help keep each earbud in place, and after a few minutes, I simply stop thinking about them.\nI wrote last year that the Powerbeats Fit are probably the best companion for the iPhone 17 Pro based on color and comfort, and after spending even more time with them, I still believe that. They deliver Apple’s best features, such as quick pairing, auto device switching, Find My support, and Spatial Audio, while providing a secure fit that AirPods weren’t designed to offer. Plus they’re $50 cheaper than AirPods Pro.\nThe trade-off is obvious. They’re bulkier than AirPods Pro, and I probably wouldn’t choose them for a long flight or an afternoon working at a coffee shop. But that’s exactly why I think Apple was smart not to position them as AirPods replacements. They are designed for a specific purpose, and that’s what makes them so good.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nPowerbeats Fit in Spark Orange and the Beats Rugged Case in Sierra Orange are as close to Cosmic Orange as you’re going to find.\n\nFoundry\n\n\n\n\nBuy PowerbeaTS Fit At Amazon\nI underestimated the Beats Rugged Case\nThe biggest surprise for me wasn’t the earbuds, but the iPhone case. I’ve never been particularly drawn to cases, especially rugged ones, because they usually make modern smartphones look unnecessarily bulky. One of the reasons I use my iPhone caseless is that I appreciate its design, and putting it in a case has never really appealed to me.\nThe Beats Rugged Case doesn’t completely eliminate this trade-off, but I’ve found that it’s quite convenient in certain situations, especially when I’m at the gym.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nThe Beats Rugged Case is attractive and functional.\n\nFoundry\n\n\n\n\nYes, it’s noticeably thicker than Apple’s Silicone Case, but it also feels substantially more reassuring when being held. The textured sides provide considerably more grip, which matters more than I realized once my hands become sweaty halfway through a workout. Setting the phone down on gym equipment or tossing it into a backpack alongside a metal water bottle suddenly becomes much less stressful.\nBeats iPhone 17 Rugged Case\n$21.35 at  Walmart\t\t\t\t\t\t\t\t\t\t\t | \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t$79 at  Apple\t\t\t\t\t\t\t\t\t\t\t | \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t$79 at  Apple United States\t\t\t\t\t\t\t\n\t\t\t\t\t\t\nWhat impressed me most, though, was how little it feels like a third-party accessory. Just like Apple’s cases, it supports MagSafe, and everything works as expected, from the buttons to Camera Control. It features its own sapphire layer for seamless integration, rather than relying on a simple cutout around the button.\nIt sounds like a small detail, but it’s one of those touches that immediately makes the case feel like it belongs in Apple’s own lineup. Plus, the colors are really nice, and I love mine in Sierra (Cosmic) Orange.\n\nBuy the Beats Rugged Case at Amazon\nBeats has finally found its place inside Apple\nFor years after Apple acquired Beats, the company’s identity felt somewhat unclear. AirPods quickly became Apple’s flagship audio brand, leaving Beats to occupy an increasingly vague position alongside it. There were excellent products, but it wasn’t always obvious why they existed separately.\nThat distinction feels much clearer today. AirPods have become Apple’s everyday earbuds. They’re designed for commuting, working, traveling, and fitting seamlessly into daily life. Beats, meanwhile, increasingly feels like Apple’s brand for people who prioritize durability and stability.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nIf you like Cosmic Orange, you’ll love the Beats Rugged Case in Sierra Orange.\n\nFoundry\n\n\n\n\nThe introduction of products like the Rugged Case reinforces that idea. Beats is no longer just making headphones. It’s building accessories that complement an active lifestyle in ways Apple’s own accessories often don’t.\nI don’t expect everyone to replace their AirPods Pro with Powerbeats Fit or swap Apple’s Silicone Case for a rugged alternative. Outside the gym, I still use both Apple products regularly. But every time I pack my gym bag, I instinctively reach for the same two accessories instead.\nThe Powerbeats Fit earbuds sell for $200, while the Beats Rugged Case costs $79 if you buy them directly through Apple. However, you can find both products on sale on Amazon – and I really recommend giving them a try.",
-    "pub_date": "2026-07-28T11:15:00.000Z",
-    "creator": "Macworld",
-    "tags": "iOS",
-    "id": 3478
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Ternus says he plans to build on the success of Apple TV",
-    "link": "https://appleinsider.com/articles/26/07/28/ternus-says-he-plans-to-build-on-the-success-of-apple-tv?utm_source=rss",
-    "content": "It's not as if John Ternus was likely to shut down Apple TV, but he has now affirmed that it will continue to develop when he becomes Apple CEO.\n\n\nJohn Ternus at the \"Ted Lasso\" launch - image credit: Reuters\nIf you subscribe to the argument that Apple should be making hardware devices instead of TV shows, you could have expected engineer John Ternus to agree. Or at least that his focus as CEO would be on devices instead of movies.\nSpeaking at the launch of the new fourth season of \"Ted Lasso,\" Ternus said all the right things to reassure Apple TV viewers and staff. According to Reuters, he described Apple TV as amazing.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-28T11:10:16.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "General",
-    "id": 3475
-  },
-  {
-    "source_name": "Macworld",
-    "title": "It seems like every OS update is loaded with security fixes–here’s why",
-    "link": "https://www.macworld.com/article/3200215/it-seems-like-every-os-update-is-loaded-with-security-fixes-heres-why.html",
-    "content": "Macworld\n\n\nIt used to be that operating system “point releases”—the minor updates throughout the year—contained around a dozen security vulnerability fixes. But that number has been growing in the last couple of years and has exploded in the past few months.\nThere were 35 security vulnerabilities fixed in iOS 26.4. That went up to 43 in iOS 26.5. A 26.5.2 update solely for security fixes added another 29.\nThere are an unprecedented 77 security vulnerabilities fixed in iOS and iPadOS 26.6. Think that’s a lot? The macOS 26.6 update has almost twice as many, with 142 fixes on Apple’s Security Updates page.\nThanks to AI coding agents, this is the new normal. You can expect dozens of security vulnerabilities to be fixed every couple of months, at least for a while.\nWhy is this happening?\nYou can thank, and blame, AI for this.\nAI coding agents have gotten good. Very good. Not only has “vibe coding” become commonplace, but the best AI models can analyze and test very large code blocks and databases. And they find things that people miss.\nA few months ago, we wrote about Project Glasswing, a collaboration between Anthropic and a handful of other companies (including Apple) to provide those companies’ security researchers with access to the company’s most advanced AI model, in the hopes of finding vulnerabilities before the models become public and all the bad actors get their hands on them.\nThe world we live in right now is one of security acceleration. Hackers and malicious groups can use advanced AI tools to find unique vulnerabilities that can, sometimes in combination with each other, compromise systems like never before. The sort of resources and research once only available to nation-states and the largest tech corporations are now broadly available.\nBut AI is having just as much of an impact on the positive side. Security researchers are using these tools to find more vulnerabilities than ever, reporting them to software companies, who now, thanks to AI coding tools, have the scope to address more of them more quickly.\nFor the time being, we’re in an AI-accelerated arms race between the hackers who use AI to find vulnerabilities and exploit them, and the researchers and developers who use AI to find vulnerabilities and fix or report them. And it’s resulting in increasingly large and important security update releases.\nThis may eventually wind down, as the AI coding tools get sophisticated and commonplace enough to more thoroughly test massive code databases and all their interactions with other code before its ever released. But for the time being, and likely for some time to come, expect operating system updates—including Apple’s—to fix a big list of security issues with every release.",
-    "pub_date": "2026-07-28T10:45:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS",
-    "id": 3479
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Apple teases ‘Severance’ season 3 in cryptic tweet",
-    "link": "https://www.macworld.com/article/3200529/apple-teases-severance-season-3-in-cryptic-tweet.html",
-    "content": "Macworld\n\n\nGood news for fans of the bleak sci-fi workplace comedy Severance: work has begun on season 3. So it appears at any rate, based on a cryptic tweet from the director and executive producer Ben Stiller.\nIn a message this week, Stiller posted a blurry and dramatically red-tinted image which seems to show Mark S. and Helly R. running through the corridors of the show’s Lumon Industries setting, echoing the ending of season 2. This is accompanied by a caption supposedly quoting Lumon founder Kier Eagan: “To return to work is to return home.”\nAs if to give Stiller’s message the seal of approval, it was retweeted a few hours later by the official Apple TV account, along with the playful message “Please frolic in moderation.” As far as I can tell Apple is mimicking Lumon’s surreal corporate house style rather than directly quoting the show, but do let me know by email if I’m mistaken.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nBen Stiller / X\n\n\n\n\nRegardless, Apple has a point: frolicking should be moderated, because this doesn’t mean season 3 is imminent or even likely to arrive within the next 12 months. As a comparison, industry sources reported in October 2022 that season 2 had begun filming, and the first episode wasn’t released until January 2025. Admittedly there were unexpected problems, including strikes and rewrites, but even if things go perfectly to plan we should allow for at least six months of shooting, potentially more, and another six for post-production. We’d expect season 3 of Severance to be released in fall 2027 at the earliest.\nThat would be a shorter wait than we experienced between seasons 1 and 2, but not by much. The last episode of season 1 aired on April 8, 2022, and the first episode of season 2 on January 16, 2025; that’s a gap of 1,014 days. The last episode of season 2 aired on March 20, 2025, so a launch date of September 3, 2027 would still be a gap of 892 days. We recommend rewatching the previous episodes so everything is fresh in the memory before starting the new season.",
-    "pub_date": "2026-07-28T10:38:44.000Z",
-    "creator": "Macworld",
-    "tags": "General",
-    "id": 3480
   }
 ]
