@@ -1,5 +1,25 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Apple Upgrade might’ve provided our first hint for what could change with Apple Card",
+    "link": "https://9to5mac.com/2026/08/01/apple-upgrade-will-it-replace-apple-card-monhtly-installments/",
+    "content": "This week, Apple launched Apple Upgrade, its new leasing program for most Apple products. It replaces the iPhone Upgrade Program entirely, and for the most part, it’s an incredible deal.\nThe deal is so good that largely, there isn’t a great reason to use Apple Card Monthly Installments (ACMI) anymore. You still get 3% cash back using Apple Upgrade, similar to ACMI – and the leasing terms are a lot more generous than ACMI. You also don’t have to lease forever. At the end, you can purchase the device by paying the difference between the leasing cost and the MSRP. \nSo, it’s left me wondering – will Apple Card Monthly Installments go away?",
+    "pub_date": "2026-08-01T21:52:35.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS",
+    "id": 3828
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple @ Work: Apple says MacBook Neo is pulling schools away from Windows and Chromebooks",
+    "link": "https://9to5mac.com/2026/08/01/apple-says-macbook-neo-is-pulling-schools-away-from-windows-and-chromebooks/",
+    "content": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\nApple’s latest earnings call included some K12 sales numbers around the MacBook Neo that are super interesting, considering how pricing is progressing in electronics. MacBook Neo is beginning to displace Windows and Chromebooks in K-12 in a rapid fashion.",
+    "pub_date": "2026-08-01T20:14:48.000Z",
+    "creator": "Bradley C",
+    "tags": "Mac",
+    "id": 3829
+  },
+  {
     "source_name": "Macworld",
     "title": "I’m a die-hard Apple user. Here’s the travel tech I refuse to leave at home",
     "link": "https://www.macworld.com/article/3188998/im-a-die-hard-apple-user-heres-the-travel-tech-i-refuse-to-leave-at-home.html",
@@ -2978,25 +2998,5 @@
     "creator": "Marcus Mendes",
     "tags": "App Store",
     "id": 3458
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Claude, Codex, and other AI tools credited in today’s Apple security releases",
-    "link": "https://9to5mac.com/2026/07/27/claude-codex-and-other-ai-tools-credited-in-todays-apple-security-releases/",
-    "content": "Apple’s technical details on the many security fixes included in today’s operating system updates show how quickly AI tools are becoming part of vulnerability research. Here are the details.",
-    "pub_date": "2026-07-27T20:29:58.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 3453
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Don't wait to update: iOS 26.6 includes more than 75 security fixes",
-    "link": "https://appleinsider.com/articles/26/07/27/dont-wait-to-update-ios-266-includes-more-than-75-security-fixes?utm_source=rss",
-    "content": "Apple's iOS 26.6 update stops attackers from using iPhone Mirroring, Siri, and more to gain user data. Here's what you need to know.\n\n\niOS 26.6 stops attackers from using iPhone Mirroring to access user data.\nOn Monday, just under a month following the arrival of the security-focused iOS 26.5.2, Apple made iOS 26.6 available to the general public. The latter includes over 75 security enhancements, 14 of which address kernel-related vulnerabilities.\n10 of the now-patched kernel issues allowed apps to trigger unexpected system terminations, while others let apps access sensitive user data and write kernel memory. Apple resolved these issues through improved memory handling, memory management, state management, bounds checks, and more.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-27T20:15:03.000Z",
-    "creator": "Marko Zivkovic <marko@appleinsider.com>",
-    "tags": "iOS",
-    "id": 3455
   }
 ]
