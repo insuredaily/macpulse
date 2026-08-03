@@ -1,6 +1,106 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Apple announces Ted Lasso look-alike contest happening in NYC",
+    "link": "https://9to5mac.com/2026/08/03/apple-announces-ted-lasso-look-alike-contest-happening-in-nyc/",
+    "content": "Ted Lasso returns for season 4 this week (watch here), and Apple has just announced a clever marketing event: a Ted look-alike contest happening at Apple Fifth Avenue in New York City.",
+    "pub_date": "2026-08-03T19:45:14.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "General",
+    "id": 3923
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple faces new antitrust case in Russia over state-backed apps",
+    "link": "https://appleinsider.com/articles/26/08/03/apple-faces-new-antitrust-case-in-russia-over-state-backed-apps?utm_source=rss",
+    "content": "Russia has escalated its long-running dispute with Apple by opening an antitrust case that could cost the iPhone maker nearly $50 million over its refusal to preload state-backed apps.\n\n\nRussia opens antitrust case against Apple over iPhone apps\nAfter years of threatening to do so, Russia has finally begun investigating Apple after it failed to preinstall state-backed apps onto devices in the country. The apps in question are Max, a state-backed messaging service, and RuStore, a domestic app store.\n\"The company did not comply with the FAS warning to preinstall the national messaging app and the national app store on its iOS devices (iPhone, iPad). The FAS opened a case against the company in accordance with the competition law and the already established law-enforcement practice in regard to Apple,\" a statement seen by Interfax said.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-03T19:41:10.000Z",
+    "creator": "Amber Neely <amber@appleinsider.com>",
+    "tags": "iOS,App Store",
+    "id": 3927
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Google Health now shares Fitbit workouts with Apple Health",
+    "link": "https://appleinsider.com/articles/26/08/03/google-health-now-shares-fitbit-workouts-with-apple-health?utm_source=rss",
+    "content": "Apple Health and Google Health can now sync data between them, which means your Fitbit data and other tracked metrics can finally show up in the Health app without needing third-party apps or workarounds.\n\n\nGoogle Health for iOS\nIn May, Google Health launched as a replacement for the Fitbit app, making the fitness brand's hardware operate under the search company's Health arm. Months later, the app has been updated to work a lot better on Apple hardware.\nThe initial versions of Google Health did work with Apple Health, however, it was a one-way street. The integration meant that Google Health could import data from Apple Health, including  recordings from an Apple Watch, but not write to it.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-03T19:21:32.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS,App Store",
+    "id": 3928
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Pay Launches in the Philippines",
+    "link": "https://www.macrumors.com/2026/08/03/apple-pay-philippines/",
+    "content": "Apple Pay expanded to the Philippines today, which means iPhone and Apple Watch owners in the country can add supported debit and credit cards to the Wallet app for contactless payments.\r\n\r\n\r\nCredit and debit cards can be added by opening the Wallet app and tapping on the \"+\" button. According to users on Reddit, supported banks include UnionBank, GoTyme, Metrobank, and Chinabank. Cards are verified using SMS or phone call.\r\n\r\nOnce an eligible card is added to the Wallet app, it can be used at retail locations that support ‌Apple Pay‌. Reddit users have been able to add their cards to Apple Wallet and make ‌Apple Pay‌ purchases at stores like Starbucks and 7-Eleven.\r\n\r\nlong list of countries around the world, with details on supported banks. The Philippines hasn't been added to Apple's site yet, but Apple should soon have a full list of participating banks.\nRelated Roundup: Apple Pay\nRelated Forum: Apple Music, Apple Pay/Card, iCloud, Fitness+\nThis article, \"Apple Pay Launches in the Philippines\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-03T19:14:49.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,App Store,Services",
+    "id": 3922
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Master AirDrop: Your ultimate guide to seamless file sharing on iPhone, iPad and Mac",
+    "link": "https://www.cultofmac.com/how-to/how-to-airdrop",
+    "content": "If you want to know the fastest and easiest way to send someone photos, videos, files and so, so much more, you should know how to AirDrop.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-03T18:55:11.000Z",
+    "creator": "D. Griffin Jones",
+    "tags": "Mac,iOS",
+    "id": 3934
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "MagSafe Monday: The LISEN Qi2.2 MagSafe battery brings the most unique lanyard on the market",
+    "link": "https://9to5mac.com/2026/08/03/lisen-qi2-2-magsafe-battery/",
+    "content": "The new LISEN Qi2.2 MagSafe battery strikes a nice balance between size and design, bringing some very interesting features to the lanyard. On the spec side, the key feature is supporting the Qi2.2 standard for much faster MagSafe charging. To me, the most unique feature is a really clever lanyard system for the included cable.",
+    "pub_date": "2026-08-03T18:51:00.000Z",
+    "creator": "Bradley C",
+    "tags": "General",
+    "id": 3924
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "9to5Mac Daily: August 3, 2026 – Apple’s Q3 earnings",
+    "link": "https://9to5mac.com/2026/08/03/daily-august-3-2026/",
+    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.",
+    "pub_date": "2026-08-03T18:47:40.000Z",
+    "creator": "Seth Kurkowski",
+    "tags": "App Store",
+    "id": 3925
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Wikipedia for iOS just added a fun, new app widget for your Home Screen",
+    "link": "https://9to5mac.com/2026/08/03/wikipedia-for-ios-just-added-a-fun-new-app-widget-for-your-home-screen/",
+    "content": "If you’re anything like me, you can relate to spending way too much time going down the rabbit hole of random articles on Wikipedia. Now there’s officially an app, err, widget for that.",
+    "pub_date": "2026-08-03T18:38:47.000Z",
+    "creator": "Zac Hall",
+    "tags": "iOS,App Store",
+    "id": 3926
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "How a data-scrubber stopped my elderly relative from being scammed [Review] ★★★★☆",
+    "link": "https://www.cultofmac.com/reviews/incogni-review",
+    "content": "Successful scammers craft their campaigns using personal information found online. I used Incogni to purge that data for an elderly relative.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-03T18:20:48.000Z",
+    "creator": "Leander Kahney",
+    "tags": "Mac",
+    "id": 3935
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Report: Apple aiming to launch camera-equipped AirPods this fall",
+    "link": "https://www.macworld.com/article/3205100/report-apple-aiming-to-launch-camera-equipped-airpods-this-fall.html",
+    "content": "Macworld\n\n\nWe’ve been reporting on Apple’s plan to stick cameras on AirPods Pro since summer 2024, believe it or not. It was supposed to happen earlier, but setbacks in Apple Intelligence and Siri delayed them, just like Siri delayed Apple’s new HomePod mini and its push into the smart home market.\nNow, according to a brief update in Mark Gurman’s Power On newsletter at Bloomberg, they could finally be on the way this fall alongside Apple’s other smart home products.\nGurman says the original camera-equipped AirPods were developed under the codename B798. Apple frequently develops multiple competing versions of the same product, and in this case, one of the alternative designs was codenamed B790. This B790 version, Gurman reports, appears to be further along, with the code name already referenced in the OS 27 betas and a scheduled launch as early as this fall, barring any further delays.\nWhat are camera-equipped AirPods?\nThe AirPods-with-cameras have been rumored long enough that we sort of expected them to be the AirPods Pro 3. We got a heart rate sensor instead, along with some battery life and audio improvements.\nSupposedly, the AirPods with cameras are said to resemble AirPods Pro 3, and it’s not yet known if they will include a heart rate sensor or not. It’s also not known what the name will be: AirPods Pro 4, AirPods Ultra, or something else entirely.\nThe cameras are said to see both standard spectrum and infrared, but reportedly won’t be used for taking photos and videos—the quality and placement would be poor for that. Instead, the cameras are meant to be used for AI-powered features. That could be recognizing your hands for gesture controls, adjusting audio based on the environment, or recognizing if someone is talking to you or just talking nearby. It could also be used to give Siri a set of “eyes” where the AI assistant can give you answers that are appropriate for the context of your current surroundings and activity as part of Visual Intelligence.\nThere are lots of other possibilities for AirPods with cameras that would necessitate changes to other Apple software and services, too. Think of workout tracking that can count reps and sets when you lift weights, or nutrition tracking based on ingredient labels or analyzing what’s on your plate. Currently, there’s no information to suggest any specific use case for the camera-equipped AirPods, but there are lots of possibilities, now and in the future.",
+    "pub_date": "2026-08-03T18:15:35.000Z",
+    "creator": "Macworld",
+    "tags": "General",
+    "id": 3933
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Disney+ might soon launch free tier for users, per report",
     "link": "https://9to5mac.com/2026/08/03/disney-might-soon-launch-free-tier-for-users-per-report/",
     "content": "Hollywood increasingly sees YouTube as its major competition, and per a new report, free tiers from streamers like Disney+ and Paramount+ might be the answer.",
@@ -2898,105 +2998,5 @@
     "creator": "Marcus Mendes",
     "tags": "iOS",
     "id": 3536
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "'Granola' Launches on Apple Watch",
-    "link": "https://www.macrumors.com/2026/07/28/granola-launches-on-apple-watch/",
-    "content": "Granola, an app that can transcribe Zoom meetings and then create AI-generated notes with key points, is now available on Apple Watch models running watchOS 11 and later.\r\n\r\nThis article, \"'Granola' Launches on Apple Watch\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-28T20:07:18.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "iOS,App Store",
-    "id": 3532
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "No major reset is coming as John Ternus prepares to take over Apple",
-    "link": "https://appleinsider.com/articles/26/07/28/no-major-reset-is-coming-as-john-ternus-prepares-to-take-over-apple?utm_source=rss",
-    "content": "Apple is presenting John Ternus as the steady continuation of Tim Cook's leadership, with the incoming CEO praising the company's momentum while declining to reveal how he intends to reshape it.\n\nJohn Ternus\nCook and Ternus appeared together July 27 at the Los Angeles premiere of the Apple TV series Ted Lasso, giving Apple an unusually public setting to present its approaching leadership handoff.\nThe event was Cook's final Apple TV premiere as CEO and Ternus' first since Apple named him as Cook's successor. Both executives arrived in navy suits, open-collar white shirts and \"Believe\" pins, reinforcing the image of continuity.\nCook offered an emphatic endorsement of the executive who will replace him on September 1, 2026.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-28T19:51:46.000Z",
-    "creator": "Andrew Orr <andreworr@appleinsider.com>",
-    "tags": "General",
-    "id": 3540
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Twelve South debuts smaller Valet tray with 25W MagSafe charging",
-    "link": "https://9to5mac.com/2026/07/28/twelve-south-debuts-smaller-valet-tray-with-25w-magsafe-charging/",
-    "content": "Earlier this year, Twelve South debuted the new Valet accessory, which it described as a “wireless charging station and personal essentials tray.”\nNow, Twelve South has expanded the Valet lineup with a smaller option that features MagSafe and Qi2.2 wireless charging at up to 25W speeds.",
-    "pub_date": "2026-07-28T19:49:42.000Z",
-    "creator": "Chance Miller",
-    "tags": "General",
-    "id": 3537
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "AppleCare+ Changes Introduced in Canada",
-    "link": "https://www.macrumors.com/2026/07/28/applecare-changes-in-canada/",
-    "content": "As noted by MobileSyrup, monthly and annual AppleCare+ subscriptions are now available for a wider range of products in Canada, including the iPhone, iPad, Mac, Apple Watch, Apple TV, AirPods, HomePod, Studio Display, and Vision Pro.\r\n\r\n\r\nFor example, AppleCare+ coverage for a Mac starts at $5.49 per month or $54.99 per year, with prices varying by model. For lower-priced devices like the Apple TV and HomePod, coverage is available for as little as $0.99 per month or $9.99 per year.\r\n\r\nremain available.\r\n\r\nTag: AppleCare\nThis article, \"AppleCare+ Changes Introduced in Canada\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-28T19:33:17.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "Mac,iOS,Vision",
-    "id": 3523
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "There's still time to grab AirPods 4 for $99, AirPods Pro 3 for $199 at Amazon",
-    "link": "https://appleinsider.com/articles/26/07/28/theres-still-time-to-grab-airpods-4-for-99-airpods-pro-3-for-199-at-amazon?utm_source=rss",
-    "content": "Month-end Apple deals are in full effect at Amazon, with AirPods 4, AirPods Pro 3, and AirPods Max 2 discounted by up to $100.\n\n\nGrab AirPods for as low as $99 at Amazon today - Image credit: Apple\nThose looking for the lowest AirPods price this week can take advantage of Amazon's $99 special on AirPods 4, reflecting a $30 price cut off MSRP.\nBuy AirPods 4 for $99\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-28T19:00:26.000Z",
-    "creator": "Christine McKee <christine@appleinsider.com>",
-    "tags": "General",
-    "id": 3528
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Here’s everything new for Apple Wallet in iOS 27",
-    "link": "https://9to5mac.com/2026/07/28/heres-everything-new-for-apple-wallet-in-ios-27/",
-    "content": "iOS 27 will launch this fall for all users, here’s what’s new for the Apple Wallet app in the next major iPhone update.",
-    "pub_date": "2026-07-28T18:58:29.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS,App Store",
-    "id": 3524
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iOS 27 includes smarter Find My location sharing for Apple Watch users",
-    "link": "https://9to5mac.com/2026/07/28/ios-27-smarter-find-my-location-sharing-apple-watch/",
-    "content": "The Find My app is used by millions of people to find their misplaced devices in a pinch, and millions more use it to share their current location with close friends and family.\nThe iOS 27 software releases include a bevy of changes to enhance the Find My experience. Specifically, iPhone users who regularly go for a walk with just their Apple Watch will automatically benefit from smarter location sharing …",
-    "pub_date": "2026-07-28T18:53:02.000Z",
-    "creator": "Benjamin Mayo",
-    "tags": "iOS,App Store",
-    "id": 3525
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Man credits Apple Watch with saving his life after collapsing at home",
-    "link": "https://9to5mac.com/2026/07/28/man-credits-apple-watch-with-saving-his-life-after-collapsing-at-home/",
-    "content": "A Cincinnati, Ohio man is crediting his Apple Watch with saving his life. As reported by local news outlet WKRC, Mohammad Islam says his Apple Watch’s fall detection feature kicked in to contact emergency services after he collapsed outside his home several weeks ago …",
-    "pub_date": "2026-07-28T18:49:59.000Z",
-    "creator": "Chance Miller",
-    "tags": "iOS",
-    "id": 3526
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Tim Cook, John Ternus talk Apple CEO transition and more in new interview",
-    "link": "https://9to5mac.com/2026/07/28/tim-cook-john-ternus-talk-apple-ceo-transition-and-more-in-new-interview/",
-    "content": "Apple’s current CEO Tim Cook and incoming CEO John Ternus were interviewed by Deadline about the executive transition, Apple TV, and more. Here’s what they said.",
-    "pub_date": "2026-07-28T18:38:49.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "General",
-    "id": 3527
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Shares 'Ted Lasso' Season 4 Trailer",
-    "link": "https://www.macrumors.com/2026/07/28/ted-lasso-season-four-trailer/",
-    "content": "Apple today shared the full-length trailer for season four of its hit series Ted Lasso, ahead of the season premiere on Wednesday, August 5. Following the premiere, one new episode will be released every Wednesday through October 7.\r\n\r\n\r\nTed Lasso is one of the most popular shows ever released on the Apple TV streaming service. The eponymous character Ted Lasso, played by Jason Sudeikis, starts off as a small-time football coach from Kansas who is hired to coach a professional soccer team in England, despite having no experience coaching soccer.\r\n\r\nIn the fourth season, Apple said Lasso returns to England to take on his biggest challenge yet: coaching a second division women's soccer team. \r\n\r\n\"Throughout the course of the season, Ted and the team learn to leap before they look, taking chances they never thought they would,\" said Apple.\r\n\r\n\n\r\nFan favorites such as Hannah Waddingham, Juno Temple, Brett Goldstein, Brendan Hunt, and Jeremy Swift are all set to return in the fourth season.\r\n\r\nTed Lasso was released in 2023, so there has been a long wait for a fourth season. The series has won several major awards since it debuted in 2020, with its overall positive tone making it a popular comfort show.\nTags: Apple TV Service, Apple TV Shows\nThis article, \"Apple Shares 'Ted Lasso' Season 4 Trailer\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-28T17:20:11.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "App Store",
-    "id": 3511
   }
 ]
