@@ -1,5 +1,15 @@
 [
   {
+    "source_name": "MacRumors",
+    "title": "MacBook Air Experiencing 'Major' Shortage Despite $200 Price Increase",
+    "link": "https://www.macrumors.com/2026/08/02/macbook-air-shortage-report/",
+    "content": "Despite receiving a price increase in June, the MacBook Air is currently experiencing a \"major\" shortage, according to Bloomberg's Mark Gurman.\r\n\r\n\r\n\"Retail store sources say Apple is struggling to keep the laptop in stock and that shipments of new units are more constrained than they can ever recall,\" he said.\r\n\r\nIn the U.S., the MacBook Air is facing a 2-6 week delivery estimate on Apple's online store, with configurations with higher amounts of RAM delayed the longest.\r\n\r\ndue to the ongoing memory chip shortage, resulting from companies building out data centers with powerful AI servers. This has led to skyrocketing prices for RAM and SSD storage chips used in a wide range of Apple products, and the MacBook Air is now affected alongside the Mac Studio and Mac mini.\r\n\r\nRelated Roundup: MacBook Air\nTag: Mark Gurman\nBuyer's Guide: MacBook Air (Neutral)\nRelated Forum: MacBook Air\nThis article, \"MacBook Air Experiencing 'Major' Shortage Despite $200 Price Increase\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-03T02:12:10.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "Mac",
+    "id": 3861
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Sunday Reboot: Tons of money, but way more grief",
     "link": "https://appleinsider.com/articles/26/08/02/sunday-reboot-tons-of-money-but-way-more-grief?utm_source=rss",
@@ -2988,15 +2998,5 @@
     "creator": "Malcolm Owen <malcolm@appleinsider.com>",
     "tags": "Mac,Silicon",
     "id": 3474
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Touchscreen decision may push MacBook Ultra price even higher",
-    "link": "https://9to5mac.com/2026/07/28/touchscreen-decision-may-push-macbook-ultra-price-even-higher/",
-    "content": "The upcoming MacBook Ultra was never going to be cheap, with an all-new sleeker design, OLED, and touchscreen – even before the price increases driven by higher memory costs. A new report now suggests the manufacturing cost could be pushed yet higher\nApple typically likes to have multiple suppliers for components in order to maximize the reliability of display and allow it to negotiate the best possible prices, and it had hoped to do so for the MacBook Ultra. However, a supply chain source says Apple has decided to use just one display supplier …",
-    "pub_date": "2026-07-28T11:16:08.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "Mac",
-    "id": 3472
   }
 ]
