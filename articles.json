@@ -1,5 +1,45 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Bingers, a new TV-tracking app from the founder of TV Time, is now available to download",
+    "link": "https://9to5mac.com/2026/08/04/bingers-a-new-tv-tracking-app-from-the-founder-of-tv-time-is-now-available-to-download/",
+    "content": "Following last month’s sunsetting of TV Time, one of the app’s co-founders, Antonio Pinto, announced Bingers, a new TV and movies tracking app that leans more heavily on social features. Here are the details.",
+    "pub_date": "2026-08-04T20:33:46.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "App Store",
+    "id": 4046
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Telegram CEO Says Extortionist Manipulated Apple Into App Store Removal",
+    "link": "https://www.macrumors.com/2026/08/04/telegram-extortionist-app-store-removal/",
+    "content": "Telegram was subject to a \"takedown extortionist\" who planted AI-modified child sexual abuse material (CSAM) to get Apple to remove the app from the App Store, Telegram CEO Pavel Durov said today. Apple removed Telegram from the App Store for about 40 minutes on Monday night after discovering CSAM, but reinstated the app after Telegram removed the content.\r\n\r\n\r\nThe attacker was a takedown extortionist: someone who demands ransom from group owners in exchange for not targeting their communities. These extortionists use automated accounts to plant illegal content in public groups and then report it directly to Apple, attempting to trigger the removal of legitimate communities whose owners refused to pay them.\n\r\nDurov said the attacker used a \"technical trick\" to evade moderation tools, editing an old message in an active group chat to add illegal content. The attacker was able to bypass moderation because group members didn't see the message to report it. Durov said illegal pornographic content in public groups is not a systemic problem because Telegram has effective moderation, and this was an edge case where an attacker used \"backdated, effectively invisible content.\"\r\n\r\nApple pulled Telegram from the ‌App Store‌ before contacting the company, according to Durov. He said Apple was manipulated into overreacting, and he warned of a \"potential systemic risk for every mobile app that hosts user-generated content.\"\r\n\r\nTags: App Store, Telegram\nThis article, \"Telegram CEO Says Extortionist Manipulated Apple Into App Store Removal\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-04T20:21:53.000Z",
+    "creator": "Juli Clover",
+    "tags": "App Store,Services",
+    "id": 4045
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "AirPods Pro, AirPods Max get another iOS 27 beta firmware release",
+    "link": "https://appleinsider.com/articles/26/08/04/airpods-pro-airpods-max-get-another-ios-27-beta-firmware-release?utm_source=rss",
+    "content": "Apple has introduced new beta firmware for AirPods, AirPods Pro, and AirPods Max, so that developers can continue testing out inbound iOS 27 features.\n\n\nAirPods Pro\nApple will be introducing a number of new features for select AirPods models this fall, as part of the iOS 27 and other 27-gen operating system releases. Ahead of that release, it is testing out the features via beta firmware builds.\nThe new firmware, build 9A5336b, replaces the previous build, 9A5314b, which Apple seeded on July 7. It can be downloaded to the AirPods Pro 2 and AirPods Pro 3, AirPods 4, and AirPods Max 2.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-04T20:07:34.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS",
+    "id": 4047
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Limits Bug Bounty Submissions After Flood of AI Slop",
+    "link": "https://www.macrumors.com/2026/08/04/aple-bug-bounty-limits-ai/",
+    "content": "Apple limited the number of vulnerabilities security researchers can submit to its bug bounty program because of an uptick in reports about fake bugs hallucinated by AI, according to The Financial Times.\r\n\r\n\r\nApple said its bug review system was seeing a high volume of poor-quality submissions from amateur bug hunters using AI to locate vulnerabilities. In some cases, there is no actual vulnerability, and real submissions are lost in the deluge.\r\n\r\nThe Financial Times learned of the limit after cybersecurity startup Bynario used ChatGPT to locate more than 50 macOS bugs in three weeks. Bynario found a privilege escalation exploit that could let an attacker get unrestricted access to a Mac, but was unable to report it because Apple limited the number of bug reports Bynario could submit. Bynario sent eight reports to Apple in 2025, and another five in 2026 before hitting a restriction.\r\n\r\nBynario's founder said it is a \"very difficult time in the industry\" because companies are being \"flooded by the sheer amount of bugs.\" Apple has since been in contact with Bynario and is reviewing the company's submissions.\r\n\r\nWhile Apple now has a cap on the number of open submissions a researcher can have, researchers can request an increase to make sure Apple's security team doesn't miss a critical vulnerability.\r\n\r\nAI has overwhelmed Apple because it primarily uses humans to check reports, but Apple too has turned to AI for parsing submissions. AI has also helped Apple find a huge number of bugs. Apple's recent iOS 26.6 update fixes almost 90 security vulnerabilities, some of which are credited to Anthropic's Claude and OpenAI's Codex Security.\r\n\r\nTags: Bug Bounty, Vulnerabiltiies\nThis article, \"Apple Limits Bug Bounty Submissions After Flood of AI Slop\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-04T19:53:37.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS",
+    "id": 4028
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Telegram's takedown caused by planted porn & weaponized App Store policies",
     "link": "https://appleinsider.com/articles/26/08/04/telegrams-takedown-caused-by-planted-porn-weaponized-app-store-policies?utm_source=rss",
@@ -8,16 +48,6 @@
     "creator": "Malcolm Owen <malcolm@appleinsider.com>",
     "tags": "App Store",
     "id": 4037
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Limits Bug Bounty Submissions After Flood of AI Slop",
-    "link": "https://www.macrumors.com/2026/08/04/aple-bug-bounty-limits-ai/",
-    "content": "Apple limited the number of vulnerabilities security researchers can submit to its bug bounty program because of an uptick in reports about fake bugs hallucinated by AI, according to The Financial Times.\r\n\r\n\r\nApple said its bug review system was seeing a high volume of poor-quality submissions from amateur bug hunters using AI to locate vulnerabilities. In some cases, there is no actual vulnerability, and real submissions are lost in the deluge.\r\n\r\nThe Financial Times learned of the limit after cybersecurity startup Bynario used ChatGPT to locate more than 50 macOS bugs in three weeks. Bynario found a privilege escalation exploit that could let an attacker get unrestricted access to a Mac, but was unable to report it because Apple limited the number of bug reports Bynario could submit. Bynario sent eight reports to Apple in 2025, and another five in 2026 before hitting a restriction.\r\n\r\nBynario's founder said it is a \"very difficult time in the industry\" because companies are being \"flooded by the sheer amount of bugs.\" Apple has since been in contact with Bynario and is reviewing the company's submissions.\r\n\r\nWhile Apple now has a cap on the number of open submissions a researcher can have, researchers can request an increase to make sure Apple's security team doesn't miss a critical vulnerability.\r\n\r\nAI has overwhelmed Apple because it primarily uses humans to check reports, but Apple too has turned to AI for parsing submissions. AI has also helped Apple find a huge number of bugs. Apple's recent iOS 26.6 update fixes almost 90 security vulnerabilities, some of which are credited to Anthropic's Claude and OpenAI's Codex Security.\r\n\r\nTags: Bug Bounty, Vulnerabiltiies\nThis article, \"Apple Limits Bug Bounty Submissions After Flood of AI Slop\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-04T19:45:39.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,iOS",
-    "id": 4028
   },
   {
     "source_name": "9to5Mac",
@@ -2968,35 +2998,5 @@
     "creator": "Joe Rossignol",
     "tags": "iOS",
     "id": 3634
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "AI chatbots are now better than humans at romance scams – and that’s scary",
-    "link": "https://9to5mac.com/2026/07/30/ai-chatbots-are-now-better-than-humans-at-romance-scams-and-thats-scary/",
-    "content": "Romance scams are one of the oldest cons in the online world, but they continue to pull in new victims all of the time. Joint research by four universities suggests that AI chatbots are now even better at carrying out these scams than humans, and that’s a pretty scary prospect …",
-    "pub_date": "2026-07-30T11:59:14.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "General",
-    "id": 3639
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iOS 27: Tone Down Liquid Glass Transparency",
-    "link": "https://www.macrumors.com/how-to/ios-27-tone-down-liquid-glass-transparency/",
-    "content": "If you've never been a fan of Liquid Glass – Apple's glass-like interface effect introduced in iOS 26 – then there's some good news in  iOS 27. Apple has added a setting that lets you finely adjust the level of translucency, giving you more control over the look and feel of your iPhone.\r\n\r\n\r\nPerhaps you find notifications too see-through, or you want to see more of your wallpaper through Control Center. Fortunately, iOS 27 includes a dial that can help with that. Apple has swapped the two-option Clear and Tinted setting for a continuous slider that puts translucency anywhere between barely-there glass and a heavy frost.\r\n\r\nThe earlier presets arrived in iOS 26.1 and gave you two positions on a spectrum, whereas iOS 27 gives you the whole spectrum. It also locates the control in \"Appearance\" – a new section in Settings that gathers up interface options previously scattered through Display & Brightness, including Light and Dark mode and text size.\r\n\r\nNot only that, Apple has also tweaked the default look, and says that Liquid Glass now diffuses complex content behind it more effectively while drawing a clearer separation between layers. \r\n\r\nHow to Change the Liquid Glass Effect\n\r\nWhen you first install iOS 27, you'll be presented with the slider to change the Liquid Glass effect, but it's good to know how to get to it  later if you want to switch up the look.\r\n\r\n  \nOpen Settings on your iPhone.\n\r\n  \nTap Appearance.\n\r\n  \nTap Liquid Glass.\n\r\n  \nDrag the slider left for a clearer, more transparent effect, or right to add tint and opacity.\n\r\n\r\n\r\nThe midpoint on the slider is Apple's default. The UI preview redraws in real time as you drag it, so you can watch it instead of having to back out of Settings to check. Note that the setting applies across the system, and affects everything from Control Center and Home screen folders to app overlays and Lock Screen notifications.\r\n\r\nIf the Slider Doesn't Go Far Enough\n\r\nEven at the tinted end, Apple's interface retains a degree of glassiness. If you're not satisfied with the result, two Accessibility options push it further:\r\nReduce Transparency strips out nearly all translucency, leaving only flat, solid backgrounds.\n\r\nIncrease Contrast sharpens the boundaries between buttons, text, and whatever sits behind them.\nYou can find both in Settings ➝ Accessibility ➝ Display & Text Size. \r\n\r\npublic beta now, with a general release expected in September.\nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"iOS 27: Tone Down Liquid Glass Transparency\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-30T11:27:14.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "iOS,App Store",
-    "id": 3635
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Jony Ive’s first OpenAI hardware device sounds rather like … a HomePad",
-    "link": "https://9to5mac.com/2026/07/30/jony-ives-first-openai-hardware-device-sounds-rather-like-a-homepad/",
-    "content": "Jony Ive and Sam Altman have been teasing an AI hardware device for a long time now, and it’s increasingly looking like that tease was premature. We’re still not expecting to see a launch until some point next year.\nOpenAI continues to be exceedingly vague about what form its first hardware device might take, but an interview yesterday seems to point to something rather like a HomePad …",
-    "pub_date": "2026-07-30T11:13:47.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "General",
-    "id": 3624
   }
 ]
