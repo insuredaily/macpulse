@@ -1,5 +1,145 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "Telegram's takedown caused by planted porn & weaponized App Store policies",
+    "link": "https://appleinsider.com/articles/26/08/04/telegrams-takedown-caused-by-planted-porn-weaponized-app-store-policies?utm_source=rss",
+    "content": "The brief removal and restoration of Telegram from the App Store was a targeted attack by a \"takedown extortionist,\" and it's something the company's CEO says can be weaponized against other apps, too.\n\n\nTelegram\nOn Monday evening, Telegram was removed from the App Store for a number of hours, following a report that CSAM material was posted to it. The following day, the fallout of the event revealed it was a worse situation than first thought.\nIt apparently wasn't a user, but someone weaponizing Apple's policies against the app's users.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-04T19:45:45.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "App Store",
+    "id": 4037
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Limits Bug Bounty Submissions After Flood of AI Slop",
+    "link": "https://www.macrumors.com/2026/08/04/aple-bug-bounty-limits-ai/",
+    "content": "Apple limited the number of vulnerabilities security researchers can submit to its bug bounty program because of an uptick in reports about fake bugs hallucinated by AI, according to The Financial Times.\r\n\r\n\r\nApple said its bug review system was seeing a high volume of poor-quality submissions from amateur bug hunters using AI to locate vulnerabilities. In some cases, there is no actual vulnerability, and real submissions are lost in the deluge.\r\n\r\nThe Financial Times learned of the limit after cybersecurity startup Bynario used ChatGPT to locate more than 50 macOS bugs in three weeks. Bynario found a privilege escalation exploit that could let an attacker get unrestricted access to a Mac, but was unable to report it because Apple limited the number of bug reports Bynario could submit. Bynario sent eight reports to Apple in 2025, and another five in 2026 before hitting a restriction.\r\n\r\nBynario's founder said it is a \"very difficult time in the industry\" because companies are being \"flooded by the sheer amount of bugs.\" Apple has since been in contact with Bynario and is reviewing the company's submissions.\r\n\r\nWhile Apple now has a cap on the number of open submissions a researcher can have, researchers can request an increase to make sure Apple's security team doesn't miss a critical vulnerability.\r\n\r\nAI has overwhelmed Apple because it primarily uses humans to check reports, but Apple too has turned to AI for parsing submissions. AI has also helped Apple find a huge number of bugs. Apple's recent iOS 26.6 update fixes almost 90 security vulnerabilities, some of which are credited to Anthropic's Claude and OpenAI's Codex Security.\r\n\r\nTags: Bug Bounty, Vulnerabiltiies\nThis article, \"Apple Limits Bug Bounty Submissions After Flood of AI Slop\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-04T19:45:39.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS",
+    "id": 4028
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Telegram CEO says extortionist planted illegal content that triggered App Store removal",
+    "link": "https://9to5mac.com/2026/08/04/telegram-ceo-says-extortionist-planted-illegal-content-that-triggered-app-store-removal/",
+    "content": "Pavel Durov, Telegram’s CEO, has elaborated on what led to the app’s brief removal from the App Store last night. Here’s what he said.",
+    "pub_date": "2026-08-04T19:33:46.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "App Store",
+    "id": 4030
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Apple invites retail workers to pitch in with iPhone event support",
+    "link": "https://www.macworld.com/article/3206299/apple-invites-retail-workers-to-pitch-in-with-iphone-event-support.html",
+    "content": "Macworld\n\n\nAs Apple prepares for what is rumored to be one of the biggest iPhone events of all time, it’s turning to retail employees for support. In a memo to U.S. retail stores seen by Bloomberg, Apple announced a lottery system to give workers “the opportunity to participate in the Event Support Experience Program.”\nIt’s not clear whether this is a new program, but Mark Gurman of Bloomberg notes that Apple has “relied on retail employees to help staff major product launches for years.” However, the report suggests that the lottery is new for 2026, so perhaps previous events were limited to California retail workers. In the memo, Apple says it is “excited” to offer U.S. retail workers this opportunity.\nThe lottery doesn’t mean this year’s event will be a return to the in-person keynotes that were common before the COVID pandemic. In fact, Gurman reports that they will simply help “help organize lines, check in guests, greet attendees, offer directions and support the security teams,” similar to WWDC in June.\nThe memo says the event will take place in the first half of September, as is customary for iPhone events. Our best guess for a date is either Wednesday, September 9, or Tuesday, September 15.\nApple is expected to launch several new products at this year’s iPhone event, including the iPhone 18 Pro and 18 Pro Max, Apple Watch Series 12 and Ultra 4, and the brand-new folding iPhone Ultra.",
+    "pub_date": "2026-08-04T19:31:39.000Z",
+    "creator": "Macworld",
+    "tags": "iOS",
+    "id": 4043
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Releases New AirPods Beta Firmware With iOS 27 Features",
+    "link": "https://www.macrumors.com/2026/08/04/airpods-beta-firmware-ios-27/",
+    "content": "Apple today released a fourth version of the beta firmware it is testing for the AirPods Pro 2, AirPods Pro 3, AirPods 4, and AirPods Max 2. The firmware is available for developers and has a build number of 9A5336b.\r\n\r\n\r\nIn iOS 27, iPadOS 27, and macOS Golden Gate, Apple is adding a new AirPods interface, a slider for Adaptive mode, and support for custom EQ, so the firmware adds support for those features. AirPods are also compatible with the new Siri AI.\r\n\r\niPad, or Mac running iOS 26, iPadOS 26, or macOS 26 or later, there is a beta firmware option that can be accessed in the AirPods settings interface. Toggling on beta updates allows users to install the beta firmware.\r\n\r\nRelated Roundups: AirPods 4, iOS 27, iPadOS 27\nBuyer's Guide: AirPods (Caution)\nRelated Forum: AirPods\nThis article, \"Apple Releases New AirPods Beta Firmware With iOS 27 Features\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-04T19:25:41.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS",
+    "id": 4029
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "RevenueCat Shipaton mobile hackathon is back with $1 million worth of prizes",
+    "link": "https://9to5mac.com/2026/08/04/revenuecat-shipaton-mobile-hackathon-is-back-with-1-million-worth-of-prizes/",
+    "content": "RevenueCat’s annual Shipaton mobile hackathon is officially back, running August 1-September 30 with major prizes available for winning apps. Here are the details.",
+    "pub_date": "2026-08-04T19:19:59.000Z",
+    "creator": "Sponsored Post",
+    "tags": "General",
+    "id": 4031
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "These Apple products are likely getting more expensive next month",
+    "link": "https://9to5mac.com/2026/08/04/these-apple-products-are-likely-getting-more-expensive-next-month/",
+    "content": "Apple recently raised prices across much of its product lineup, but even more increases are expected next month for iPhone and more.",
+    "pub_date": "2026-08-04T19:06:12.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 4032
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Starts Preparing for September iPhone Event",
+    "link": "https://www.macrumors.com/2026/08/04/apple-september-iphone-event-preparation/",
+    "content": "Apple is getting ready for its big September iPhone event, which is expected to see the debut of the iPhone 18 Pro, ‌iPhone 18 Pro‌ Max, and an all-new foldable iPhone.\r\n\r\n\r\nAhead of the event, Apple is holding an Event Support Experience Program lottery for U.S. retail employees who want to travel to its Apple Park campus to staff the in-person media gathering. According to Bloomberg, Apple will bring in employees to organize lines, check in guests, offer directions, greet attendees, and support security teams.\r\n\r\nEmployees were told the iPhone event will take place during the first half of September, but Apple declined to offer more specific information. It's likely Apple will hold its event on Tuesday, September 8 or Wednesday, September 9. September 7 is Labor Day and Apple often gives members of the media a day to travel, so September 9 could be the target date this year.\r\n\r\nThis article, \"Apple Starts Preparing for September iPhone Event\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-04T18:36:46.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS",
+    "id": 4011
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "AirPods Pro 3 just got new firmware release in beta, more models too",
+    "link": "https://9to5mac.com/2026/08/04/airpods-pro-3-just-got-new-firmware-release-in-beta-more-models-too/",
+    "content": "Apple has just released new beta firmware for AirPods Pro 3 and more models, with the update expected to launch to all users alongside iOS 27 next month.",
+    "pub_date": "2026-08-04T18:33:57.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 4033
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Hands-on: GAMEBABY’s new translucent case turns your iPhone into a Game Boy with real buttons",
+    "link": "https://9to5mac.com/2026/08/04/hands-on-gamebabys-new-translucent-case-turns-your-iphone-into-a-game-boy-with-real-buttons/",
+    "content": "One of my favorite iPhone cases is back with a new look. I have used the previous generations of BitmoLab’s GAMEBABY case and immediately loved it. It felt like an accessory purpose-built to tug at my nostalgia strings. The superpower of this case is that it is not a secondary accessory you need to bring and make sure is charged; it’s a regular iPhone case that is smartly designed to also serve as a set of tactile, physical buttons for playing your favorite Game Boy ROMs (among others). It’s the perfect summation of work smarter, not harder. It uses no batteries or Bluetooth and requires little setup. If you are into any sort of retro game emulation, you have to check this out.",
+    "pub_date": "2026-08-04T18:30:00.000Z",
+    "creator": "Fernando Silva",
+    "tags": "iOS",
+    "id": 4034
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple Watch ‘National Fitness Day’ challenge returns this weekend",
+    "link": "https://9to5mac.com/2026/08/04/apple-watch-national-fitness-day-challenge-returns-this-weekend/",
+    "content": "Apple Watch users in China can participate in the next National Fitness Day challenge this weekend to unlock virtual rewards.",
+    "pub_date": "2026-08-04T18:28:14.000Z",
+    "creator": "Zac Hall",
+    "tags": "iOS",
+    "id": 4035
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Signal’s latest iOS update expands multi-device feature for iPhone users",
+    "link": "https://9to5mac.com/2026/08/04/signals-latest-ios-update-expands-multi-device-feature-for-iphone-users/",
+    "content": "Juggling multiple devices with Signal? The encrypted messaging service is making it easier to use the app across different iPhones and more.",
+    "pub_date": "2026-08-04T18:15:51.000Z",
+    "creator": "Zac Hall",
+    "tags": "iOS,App Store",
+    "id": 4036
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Staff lottery reveals Apple's first-half September event plans",
+    "link": "https://appleinsider.com/articles/26/08/04/staff-lottery-reveals-apples-first-half-september-event-plans?utm_source=rss",
+    "content": "Apple is opening a lottery for U.S. retail employees to staff its next major product event, bringing store workers into preparations for the company's biggest launch of the year.\nAn internal memo viewed by Bloomberg invited U.S. retail employees to enter a lottery to help staff the in-person event. Selected workers will greet and check in guests, organize lines, provide directions and support security teams.\nApplications close August 8, and Apple will notify selected employees by August 17. Workers who participated in WWDC 2026 or the 2025 iPhone launch aren't eligible.\n\niPhone 18 concept image\nRetail employees have supported major Apple Events for years, so the staffing program itself isn't new. The memo is notable because Apple gave workers a launch window before publicly announcing the event.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-04T18:08:41.000Z",
+    "creator": "Andrew Orr <andreworr@appleinsider.com>",
+    "tags": "iOS,Rumors",
+    "id": 4038
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Split View is still in iPadOS 26 — here’s how to use it",
+    "link": "https://www.cultofmac.com/how-to/how-to-use-split-view-in-ipados-26",
+    "content": "Apple kept Split View side-by-side multitasking in iPadOS 26, despite what you might have read. And setting it up is really easy.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-04T18:05:45.000Z",
+    "creator": "Ed Hardy",
+    "tags": "Mac,iOS",
+    "id": 4044
+  },
+  {
     "source_name": "9to5Mac",
     "title": "Spotify reaches huge subscriber milestone as Apple Music readies iOS 27 upgrades",
     "link": "https://9to5mac.com/2026/08/04/spotify-reaches-huge-subscriber-milestone-as-apple-music-readies-ios-27-upgrades/",
@@ -38,16 +178,6 @@
     "creator": "Chance Miller",
     "tags": "iOS",
     "id": 4013
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Starts Preparing for September iPhone Event",
-    "link": "https://www.macrumors.com/2026/08/04/apple-september-iphone-event-preparation/",
-    "content": "Apple is getting ready for its big September iPhone event, which is expected to see the debut of the iPhone 18 Pro, ‌iPhone 18 Pro‌ Max, and an all-new foldable iPhone.\r\n\r\n\r\nAhead of the event, Apple is holding an Event Support Experience Program lottery for U.S. retail employees who want to travel to its Apple Park campus to staff the in-person media gathering. According to Bloomberg, Apple will bring in employees to organize lines, check in guests, offer directions, greet attendees, and support security teams.\r\n\r\nEmployees were told the iPhone event will take place during the first half of September, but Apple declined to offer more specific information. It's likely Apple will hold its event on Tuesday, September 8 or Wednesday, September 9. September 7 is Labor Day and Apple often gives members of the media a day to travel, so September 9 could be the target date this year.\r\n\r\nThis article, \"Apple Starts Preparing for September iPhone Event\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-04T17:18:14.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS",
-    "id": 4011
   },
   {
     "source_name": "MacRumors",
@@ -2868,135 +2998,5 @@
     "creator": "Ben Lovejoy",
     "tags": "General",
     "id": 3624
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iPhone 18 Pro: Twelve Changes Coming to Apple's Next Flagship",
-    "link": "https://www.macrumors.com/2026/07/30/reasons-to-wait-iphone-18-pro/",
-    "content": "We're less than two months out from the launch of Apple's premium next-generation smartphone lineup, and while we're not expecting a dramatic change in terms of functionality, there are still several enhancements rumored to be coming to the iPhone 18 Pro and iPhone 18 Pro Max.\r\n\r\n\r\nOne thing worth noting is that Apple is reportedly planning a major change to its iPhone release cycle this year, adopting a two-phase rollout starting with the iPhone 18 series. That means the iPhone 18 Pro, iPhone 18 Pro Max, and the long-rumored foldable iPhone (\"iPhone Ultra\") will be released in September 2026, followed by the iPhone 18, iPhone Air 2, and iPhone 18e in spring 2027.\r\n\r\nOverall Design \n\r\niPhone 17 Pro Style\n\r\nRumors suggest the iPhone 18 Pro lineup will largely retain the same design as the iPhone 17 Pro models. Most rumors suggest the rear camera system will look identical to the current generation, featuring a raised \"plateau\" with three lenses arranged in a triangle – although recent dummies indicate a possible thickening of the plateau and the protrusion of individual lenses. Display sizes are also expected to remain unchanged, with the iPhone 18 Pro and iPhone 18 Pro Max continuing to use 6.3-inch and 6.9-inch panels, respectively (the same dimensions introduced with the iPhone 16 Pro series). iPhone 18 Pro models could drop the current two-tone look of the rear casing found on the iPhone 17 Pro in favor of a more seamless aesthetic, while Apple has apparently updated the back-glass \"replacement process\" to minimize the color difference between the Ceramic Shield 2 glass and the aluminum frame, resulting in a more unified appearance. More recently, rumors have suggested that the iPhone 18 Pro Max could be thicker and heavier than its predecessor, suggesting a trade-off behind the device's rumored larger battery.\r\n\r\nNext-Level Battery Life\n\r\nThicker Chassis\n\r\nThe iPhone 18 Pro Max will feature a bigger battery for continued best-in-class battery life, based on Chinese regulatory findings. The ‌iPhone 18 Pro‌ is seemingly rated for 4,056mAh in China and 4,288mAh in the U.S., up modestly from the iPhone 17 Pro's 3,988mAh and 4,252mAh. The ‌iPhone 18 Pro‌ Max shows a bigger jump, rated for 5,391mAh in China and 5,567mAh in the U.S., compared with 4,823mAh and 5,088mAh on the ‌iPhone 17 Pro‌ Max, an increase of nearly 500mAh.According to another rumor, the body of the iPhone 18 Pro Max will be slightly thicker than the iPhone 17 Pro Max, raising the device's weight to around 243 grams. That would make the iPhone 18 Pro Max approximately 3 grams more than the iPhone 14 Pro Max, which is currently the heaviest model Apple has produced. A larger battery is the most likely cause.\r\n\r\nSmaller Dynamic Island\n\r\nUnder-Screen Face ID?\n\r\nRumors continue to circulate about whether the iPhone 18 Pro models will introduce under-display Face ID, but reports remain divided on when the technology will actually arrive. The feature would move the TrueDepth camera system beneath the display, eliminating the need for the current Dynamic Island cutout.\r\n\r\nWayne Ma of The Information, Apple is targeting a design without a Dynamic Island, replacing it with a single pinhole camera in the upper-left corner of the screen. However, other sources dispute that claim. Display analyst Ross Young believes under-display Face ID is possible for the iPhone 18 Pro, but says a smaller Dynamic Island will still be present. Bloomberg's Mark Gurman has echoed this view, reporting that the new models will feature a slimmed-down Dynamic Island rather than removing it entirely. Apple is also said to be testing new camera miniaturization technology to reduce the size of the front-facing camera currently located within the Dynamic Island. \r\n\r\nclaimed the Dynamic Island cutout on the iPhone 18 Pro models will be approximately 35% narrower than it is on the iPhone 17 Pro models. Specifically, they said it will have a width of around 13.5mm, down from around 20.7mm.\r\n\r\nInstant Digital has offered yet another version of events, saying the Dynamic Island will shrink in size, but that under-display Face ID and camera technology won't debut this year. The latest word on the subject is that Apple is weighing two options for the iPhone 18 Pro's Dynamic Island, and a final decision has yet to be made. One option apparently retains the existing screen mold from the iPhone 17 Pro, while the other introduces a significantly smaller \"Mini ‌Dynamic Island‌\" enabled by moving the Face ID receiver and transmitter components beneath the display.\r\n\r\nUpgraded Display\n\r\nLTPO+\n\r\nThe iPhone 18 Pro models will reportedly use LTPO+ display technology, which should be more power efficient than the current LTPO technology in the iPhone 17 series. Such an upgrade could also contribute to longer battery life (see above), since LPTO+ enables finer control of OLED light emission, potentially allowing the display to optimize its operation based on environmental conditions. In other words, it will know better when to up screen brightness or reduce it, depending on surrounding light sources. The panels are reportedly being supplied by Samsung Display and LG Display.\r\n\r\nA20 Pro Chip\n\r\n2nm Process\n\r\nThe iPhone 18 Pro models will use Apple's A20 chip, based on TSMC's 2nm process for power and efficiency improvements. A move to 2nm fabrication increases transistor density, which will enable higher performance. The A20 series is expected to deliver roughly a 15 percent speed gain and about 30 percent better efficiency compared with the A19 series used in Apple's iPhone 17 models.\r\n\r\nWafer-Level Multi-Chip Module (WMCM) technology, suggesting at least some A20 chips will have RAM integrated directly onto the same wafer as the CPU, GPU, and Neural Engine, rather than sitting adjacent to the chip and connected via a silicon interposer. This could contribute to faster performance for both overall tasks and Apple Intelligence, and longer battery life from improved power efficiency. In June, an image of the iPhone 18 Pro motherboard leaked online, showing the A20 Pro chip will indeed use the new packaging technology.\r\n\r\nC2 Modem\n\r\nReplacing Qualcomm\n\r\nIt was previously expected that Apple would include its next-generation C2 modem in the iPhone 18 Pro models. The chip would succeed the C1 modem, which debuted in the lower-cost iPhone 16e as Apple's first in-house cellular modem, and the C1X modem chip in the iPhone Air, which Apple says is up to 2× faster than the C1. While the C2 would likely bring faster speeds, improved power efficiency, and support for mmWave 5G in the United States, a recent rumor has questioned its adoption there. It's possible that the iPhone 18 Pro will use different modem chips depending on the market it is sold in, with U.S. models retaining Qualcomm hardware and international models using Apple's in-house C2 modem.\r\n\r\nApple's modem roadmap is part of a long-term strategy to reduce reliance on Qualcomm, which currently supplies 5G modems for the rest of the iPhone lineup. The company has been working on developing its own cellular chips for years, aiming for deeper integration and greater control over power management and performance. \r\n\r\nNew Camera Sensor\n\r\nSamsung-Made\n\r\nSamsung is working on a new three-layer stacked image sensor, reportedly intended for the iPhone 18. The sensor, referred to as PD-TR-Logic, integrates three layers of circuitry, which would improve camera responsiveness, reduce noise, and increase dynamic range. The leak comes from a source known as \"Jukanlosreve,\" who claims the sensor is being developed specifically for Apple's 2026 iPhone lineup. Sony has long been Apple's sole image sensor supplier, so Samsung's entry would be a big shift in the iPhone's camera supply chain. \r\n\r\nVariable Aperture\n\r\nDSLR-Style\n\r\nApple intends to equip this year's iPhone 18 Pro models with a variable aperture lens, according to reports. Weibo-based leaker Digital Chat Station claims the main rear camera – what Apple calls the 48-megapixel Fusion camera – on both iPhone 18 Pro models will offer variable aperture, which would be a first for the iPhone. A variable-aperture system physically adjusts the lens opening, letting more light in for low-light shots or narrowing the opening for brighter scenes and deeper depth of field.\r\n\r\nNovember 2024 that Apple's iPhone 18 Pro models will get the feature.\r\n\r\n5G Satellite Internet\n\r\nNon-Terrestrial Data\n\r\nAccording to a report by The Information, Apple plans to add support for 5G networks that operate via satellites rather than Earth-based towers as early as next year. This advancement would allow future iPhones to gain full internet connectivity through satellite, not just limited emergency features.\r\n\r\nannounced in April a definitive merger agreement under which Amazon will acquire the satellite operator. Amazon's Leo satellite network will power existing iPhone features – with scope for additional feature support as part of a forthcoming infrastructure upgrade.\r\n\r\nSimplified Camera Control\n\r\nNew Design\n\r\nApple is reportedly working to simplify the Camera Control button's design on iPhone 18 models in order to reduce costs. The current Camera Control button on iPhone 17 models uses both capacitive and pressure sensors beneath a sapphire crystal surface. The capacitive layer detects touch gestures, while the force sensor recognizes different pressure levels for taps, presses, and swipes.\r\n\r\nremove the capacitive sensing layer and retain only pressure sensing recognition in the second iteration to achieve all Camera Control functions on the iPhone 18. The simplified version is not about reducing functionality in the button, but about saving money. The current solution is said to be very expensive for Apple and is generating costly after-sales repairs. \r\n\r\ndeliberate engineering compromises to ensure that the first foldable iPhone features the button.\r\n\r\nNew Colors\n\r\nThree in Testing\n\r\nIn February 2026, Bloomberg's Mark Gurman reported that Apple is testing a deep red finish for the iPhone 18 Pro and iPhone 18 Pro Max. Rumors of purple and brown finishes have also circulated, but Gurman believes those are just variants of the same red idea. Since then, we've seen aligned rumors that the devices will come in light blue, dark cherry, dark gray, and silver.\r\n\r\nwon't come in black this year. If the rumor is true, it will be the second consecutive year Apple has ditched what was arguably its most classic color option for the Pro lineup.\r\n\r\niOS 27\n\r\nSmarter Siri\n\r\nThe iPhone 18 Pro will ship with iOS 27, which brings the biggest Siri shake-up in the assistant's history. Apple introduced Siri AI at WWDC in June – a rebuilt, more conversational version of Siri with onscreen awareness, personal context understanding, and broad world knowledge that lets it pull up-to-date answers from the web. It also gains its own standalone app for revisiting past conversations, an expanded Visual Intelligence mode, and writing tools that work across email, messages, and documents. Like the iPhone 17 Pro, the iPhone 18 Pro is expected to carry 12GB of RAM, so it should run the full range of Siri AI and Apple Intelligence features. \nRelated Roundup: iPhone 18 Pro\nThis article, \"iPhone 18 Pro: Twelve Changes Coming to Apple's Next Flagship\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-30T10:43:11.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "iOS,Rumors,Silicon,App Store",
-    "id": 3623
-  },
-  {
-    "source_name": "Macworld",
-    "title": "iOS 27 finally lets you hide the Audio button in Messages—here’s how",
-    "link": "https://www.macworld.com/article/3202129/ios-27-finally-lets-you-hide-the-audio-button-in-messages-heres-how.html",
-    "content": "Macworld\n\n\nWe’ve all done it. Some more than others (just ask Justin Bieber). That annoying microphone button on the text entry line in the Messages app that kicks off dictation. It could be a button to start recording an Audio Message, depending on context.\nEither way, it’s not something you want to tap when you’re trying to type text. And for far too many people, that’s exactly what happens.\nGood news! In iOS 27, Apple allows you to decide whether that button activates Dictation or Audio Messages, or turn it off entirely. Here’s how you do it.\nOpen Settings\nScroll down and tap Apps\nTap Messages\nScroll down and tap on the Show in Text Field setting\nSelect either Record Audio, Start Dictation, or None.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nIf you turn off this button, you can still use Dictation by tapping the microphone button on the keyboard. If you want to send an Audio message, tap the (+) button on the left of the text entry field and select Audio. (And remember, you can tap-and-hold then drag to reorder that list!)",
-    "pub_date": "2026-07-30T10:34:00.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,App Store",
-    "id": 3627
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Apple Upgrade makes getting a new Mac easier but not necessarily cheaper",
-    "link": "https://www.macworld.com/article/3202168/apple-upgrade-makes-getting-a-new-mac-easier-but-not-necessarily-cheaper.html",
-    "content": "Macworld\n\n\nThe Apple Upgrade purchase program was introduced earlier this week in the U.S. It’s a leasing program where you agree to a term, pay a monthly fee, and then have to decide what to do with the device you bought at the end of the term. If you are familiar with car leases, Apple Upgrade will make perfect sense.\nWhen you’re in a situation where you need to buy a new Mac, it’s nice to have purchasing options that suit your finances. But regardless of how you buy a Mac, you should understand the implications of how you pay for your Mac. Sometimes, it’s pretty straightforward, but other times, it’s a little more involved.\nApple Upgrade is one of those times when it’s a little more involved. Let’s take a look at what you’re getting into if you enroll in Apple Upgrade. This can help you decide if it’s a plan that suits your needs, or if you should pay a different way.\nApple Upgrade: What I’m buying\nIn this examination, I’ll be looking at what’s involved with buying a 14-inch MacBook Pro. Apple Upgrade will appeal to customers in the market for pricier Mac models, so with that in mind, these are the specs of the MacBook Pro I’ll use for this article.\n\n14-inch MacBook ProSpecifications\n\nCPU15-core CPU/16-core GPU M5 Pro\nRAM24GB\nSSD1TB\nDisplayNano-texture\nPower adapter70W\n\n\n\n\n\nThe price of this laptop as configured is $2,649 without AppleCare+. Apple Upgrade does not include AppleCare coverage, and I won’t be including it in the analysis. Sales tax and other fees are also not calculated here.\nApple Upgrade: Terms and cost\nFor this particular MacBook Pro, Apple offers two Apple Upgrade term options:\n24-months: $74.34 per month. After 24 months, the total payment equals $1,784.16 (67 percent of the total $2,649).\n36-months: $52.87 per month. After 36 months, the total payment equals $1,903.32 (72 percent of the total $2,649).\nApple Upgrade looks appealing: The monthly fees are a lot more manageable than paying full price for an outright purchase or even financing it through the Apple Card, which would cost $220.75 per month for a year. The total amount you have spent when the term ends seems attractive, too.\nWith leases such as Apple Upgrade, the true value–or lack of it–comes when the terms end, and you have to decide what you are going to do with the Mac. Apple Upgrade gives you three options; let’s take a look.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nAt the end of the Apple Upgrade lease, Apple offers three options for your next step.\n\nFoundry\n\n\n\n\nEnd of lease: Buy the Mac\nYou can decide to buy the Mac after you’ve made all 24 or 36 payments. The fees you’ve paid count towards the original purchase price; you then pay the remaining cost in one sum. In our example, the price would be:\n$864.84 when the 24-month term ends\n$745.68 when the 36-month term ends\nThis option is essentially an interest-free loan. You have the burden of making monthly payments and the payment at the end of the lease, but that setup might be more manageable than paying full price all at once at the original point of purchase\nIs this a good deal?  If you lack the funds to buy a new Mac upfront, this option is attractive. However, Apple products tend to hold a substantial amount of value over time. Leasing means you miss out on getting a good return when selling or trading in the Mac when you upgrade. You’d almost certainly get more for a two-year-old M5 Mac Pro on eBay or Facebook Marketplace than $865. A similarly specced M4 Pro MacBook, for example, sell for about twice that.\nEnd of lease: Upgrade to a new Mac\nSince this is the Apple Upgrade program, Apple expects most users to return the Mac and get a new one. In this case, you’re basically renewing the Apple Upgrade lease. How much you pay with the new lease depends on the new price of the new model. If it’s the same, then you’ll make the same payments.\nSay you had a three-year term, so over those three years, you paid $1,903.32. If the upgrade you get has the same price, you’ll be paying another $1,903.32 over three years.\nAfter six years, you will have paid $3,806.64. If you decide to buy the device after the end of the second term, your final payment would be $745.68. The total cost would be $4,552.32 (lease of first laptop + lease of upgrade + final payment). You’re still paying $750 less than you would have if you bought both laptops, but remember, you never actually owned the first one.\nAs I mentioned earlier, Macs hold their value better than PCs, so if you owned the old MacBook Pro and sold it before upgrading, you’d almost certainly recoup more than $750.\nIs this a good deal? During the Q3 2026 financial announcement, Apple CEO Tim Cook stated that the Apple Upgrade program is ideal for users who have a regular upgrade schedule. A lease program is a good option for users who upgrade often and don’t want to deal with selling old Macs. It’s not the most cost-conscious, but that’s the price of avoiding the hassle of selling old stuff.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nWhether the Apple Upgrade program works for you depends on your comfort with aspects of Mac ownership.\n\nFoundry\n\n\n\n\nEnd of lease: Return the Mac\nWhen the term ends, you can simply return the Mac and walk away.\nOf the three options, this is the least cost-effective. Using the three-year term as an example, your total cost is $1,903.32, which is $745.68 less than the full price.\nOnce again, Mac value plays a key role in this scenario. Based on what we’ve seen with other older Macs, if you buy the MacBook Pro and then three years later decide to sell it, there’s a pretty good chance you can get more than $750 and end up with a larger amount than the end-of-term payment.\nPresumably, the reason you want to leave the Apple Upgrade program is that you want to buy a new Mac and pay for it in full. In this case, you’d take that $750 and use it towards that new Mac. Had you bought and sold that same MacBook Pro, you’d likely have more money towards the new purchase,\nAnother situation that can be compared to this Apple Upgrade option is Apple’s trade-in program. For a 2023 M3 Pro MacBook Pro, Apple offers  $900 to $1,300 if the laptop is in excellent condition, and $700 to $1,000 if it’s in average condition (which is more likely). There’s a good chance you can get more than $750, the amount of your final Apple Upgrade payment that you are walking away from and presumably are pocketing.\nIs this a good deal? The walk-away option is the least attractive one because you could be leaving money on the table. While you avoid the big purchase payment at the end, you could get more if you buy the Mac first, then sell it and use that money towards a new Mac.",
-    "pub_date": "2026-07-30T10:15:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,Silicon,Services",
-    "id": 3628
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Secure your digital life across all your Apple devices",
-    "link": "https://www.macworld.com/article/3200988/secure-your-digital-life-across-all-your-apple-devices.html",
-    "content": "Macworld\n\n\nOne of the things most of us love best about being in the Apple ecosystem is how easily we can move between our devices with our data always available. No matter if we’re on our iPhone, iPad or Mac, the continuity of experience is one that makes us feel at home. This also means that it’s important that our digital security covers all formats and works on all of them at the same time. So, how can we be sure that connections to networks remain private and our identities are protected whichever device we’re using? Surfshark has the solution.\nThe internet with no one watching\nWith so much of our lives now being conducted online, there’s never been more need to ensure that no-one can see what you’re doing or the sites you’re visiting. Advertising trackers are constantly trying to follow you around the web, to build profiles which enable them to sell you more things. Hackers are always looking for ways to inject malware or viruses onto your system so they can steal your data, plus there’s the background threat of governments and authorities wanting to know who you’re talking to and what it’s about. One effective weapon against these invasions of privacy is Surfshark VPN.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nSurfshark\n\n\n\n\nRather than leaving your communications with online servers open and easily readable, Surfshark VPN creates an encrypted ‘tunnel’ that protects any data passing through. This means that even if spying eyes manage to get hold of your communiques, they won’t be able to read them as the encryption will make them incoherent. It also has a MultiHop feature that acts as essentially a double-VPN for additional security, plus a rotating IP address to prevent profiling and Kill Switch that automatically ends your online session if the VPN becomes unavailable.\nSo, you can use your Mac at the coffee shop or your iPhone at the airport, connecting to public Wi-Fi networks without worrying about your data or identity being compromised.\nSurfshark VPN uses industry-leading AES-256-GCM and ChaCha20 encryption, alongside the latest VPN protocols, such as WireGuard, OpenVPN and IKEv2 to keep your data secure. It also employs its own proprietary Dausos protocol, which uses AEGIS-256X2 encryption to defend against the growing threat of powerful Quantum-computer attacks, all while delivering speeds up to 15% faster than other industry-standard protocols.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nSurfshark\n\n\n\n\nEven Surfshark can’t see your data, thanks to its no-logs policy which is audited by the third-party company Deloitte. This means it doesn’t store or access your information or web activity, and its 4,500+ RAM-only servers (located in 100 countries across the world) wipe all data when they reboot. It’s how the internet should be: private and secure.\nBest of all, Surfshark can be used simultaneously on an unlimited number of devices, rather than the 5 or 10 that other services offer, so you can stay safe no matter what you’re using and your family can even use the same subscription.\nA cleaner and safer online experience\nSurfshark offers more than a VPN, as its various plans (Starter, One, and One+) come with extra security features to improve the safety and quality of your online life. The Clean Web ad blocker does exactly that, stopping annoying pop-ups, banners and other intrusive messaging that get in your way and slows down your connection. There’s also antivirus protection that makes sure no-one can use your webcam without you knowing or load malware onto your system.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nSurfshark\n\n\n\n\nWith so many data leaks being reported these days, Surfshark Alert monitors the web to see if your account or credit card details have been exposed, then warns you so you can prevent disaster. One way to stop this happening in the first place is to use Alternative ID, a feature in the Surfshark suite that allows you to create temporary online personas for signing up to services or sites, so your actual details are never given out and therefore can’t be stolen.\nSuch is the commitment to your privacy that Surfshark even offers up to $1milion in reimbursement for any expenses incurred should your identity be stolen. It also partners with data specialist Incogni to ensure you get your details removed from any data broker servers who would sell it on to interested parties.\nProtect your data, identity and bank balance with Surfshark\nAs you can see, there are many reasons to sign up to Surfshark: privacy, security, and the freedom to use all your devices with the same levels of protection. But another compelling incentive is the current promotion that means you can get a two-year plan that starts at only $2.49 per month, plus Surfshark will throw in an extra 3-months for free! That’s 27 months of online safety and anonymity with up to 85% off the normal cost of the plan. In these times when prices everywhere else only seem to be going up, it’s good to know that someone has your back.\nGet this great deal on Surfshark and save 85%!\nLearn more",
-    "pub_date": "2026-07-30T09:35:07.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS,Services",
-    "id": 3629
-  },
-  {
-    "source_name": "Macworld",
-    "title": "One AI app, many tools—including ChatGPT & Claude—just $70 for lifetime access",
-    "link": "https://www.macworld.com/article/3201090/one-ai-app-many-tools-including-chatgpt-claude-just-70-for-lifetime-access.html",
-    "content": "Macworld\n\n\nTL;DR: Get the 1min.AI Advanced Business Plan Lifetime Subscription for $69.97 (reg. $540) through Aug. 9 and access leading AI models plus writing, image, video, audio, and document tools—all in one app.\nDoes your AI workflow involve opening five browser tabs before you’ve even started working? 1min.AI might be the productivity upgrade you didn’t know you needed. For $69.97 (reg. $540) through Aug. 9, you get lifetime access to the Advanced Business Plan, bringing an impressive collection of AI tools together under one roof.\nInstead of jumping between separate apps, you can access top models like GPT-5.5 Pro, Claude 4.6 Sonnet, Gemini 3.1 Pro, Llama 3, and more from a single dashboard. Whether you’re writing blog posts, brainstorming ideas, researching a topic, or creating marketing content, it’s easy to switch to the model that fits the task.\n\n\n\n\n\n\nThe platform goes well beyond chat. You can generate images, edit photos, create videos from text or images, summarize YouTube videos, translate documents, chat with PDFs, clone voices, remove backgrounds, and even generate presentations.\nIt also includes 4 million credits each month, plus opportunities to earn even more credits through the platform.\nFor anyone who uses AI every day, this is a practical way to simplify your workflow.\nGet lifetime access to the 1min.AI Advanced Business Plan for just $69.97 (reg. $540) through Aug. 9.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\n1min.AI Advanced Business Plan Lifetime SubscriptionSee Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-07-30T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "App Store,Services",
-    "id": 3620
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Get a Touch Bar MacBook Pro for less than the cost of a new tablet — now $399.99 refurbished",
-    "link": "https://www.macworld.com/article/3201111/get-a-touch-bar-macbook-pro-for-less-than-the-cost-of-a-new-tablet-now-399-99-refurbished.html",
-    "content": "Macworld\n\n\nTL;DR: Get a grade-A 2020 refurbished MacBook Pro with a Retina display, Touch Bar, 16GB RAM, and 1TB SSD for just $399.99 (MSRP $1,999).\nNew MacBooks bring plenty of power, but they also bring premium price tags. If you want Apple hardware without spending over $1,000, the refurbished 13-inch MacBook Pro from 2020 delivers a lot of the features that made it a favorite among professionals — now available for $399.99 (MSRP $1,999).\nThis Grade A refurbished model still packs impressive specs, including:\n10th Gen Intel Core i5 processor with Turbo Boost up to 3.8GHz\n16GB RAM for smooth multitasking and creative workflows\n1TB SSD for fast storage and plenty of room for files and apps\n13.3-inch Retina display with True Tone for sharp, accurate visuals\nMagic Keyboard, Touch Bar, and Touch ID for a premium typing experience\nFour Thunderbolt 3 ports for charging, displays, and high-speed accessories\nSince it’s a grade-A refurbished device, it arrives in near-mint condition with minimal signs of previous use.\nWith up to 10 hours of battery life and support for the latest macOS features, this MacBook Pro is a practical option for students, professionals, and creatives who want reliable Apple performance without the cost of a new device.\nGrab this near-mint 2020 refurbished Apple MacBook Pro for $399.99 for a limited time.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple MacBook Pro (2020) 13″ i5 2GHz Touchbar 16GB RAM 1TB SSD Space Gray (Refurbished)See Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-07-30T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,Silicon",
-    "id": 3621
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Macworld Podcast: Big changes in store for the Mac lineup",
-    "link": "https://www.macworld.com/article/3199209/big-changes-mac-lineup-macworld-podcast.html",
-    "content": "Macworld\n\n\nApple has major plans for the Mac, starting this fall. In episode 993 of the Macworld Podcast, we talk about the upcoming touchscreen MacBook Pro, new chips, and the big hurdle that could influence Apple’s plans. \nThis is episode 993 with Michael Simon, Jason Cross, and Roman Loyola. \nWatch episode 993 YouTube\n\n\n\n\n\n\n\nListen to episode 993 on Apple Podcasts\n\n\n\n\n\nTune in to episode 993 on Spotify\n\n\n\n\nGet info \nClick on the links below for more info on what was discussed on the show. \nMassive Mac overhaul expected to begin this fall \nApple hasn’t given up on the iMac Ultra and neither have I\nPower Mac G4 Cube review\n\nAs mentioned on the show, here is Roman wearing the G4 Cube as a hat.\n\n\n\n\nComment Corner\nThe insights to Siri and iOS 27 were useful. However you need to make a distinction between Siri on iOS 27 and Siri Apple Intelligence on iOS 27. Many iPhone users don’t have phones that will support Apple Intelligence. You might add that anyone that wants Apple Intelligence and needs a new phone should go ahead and buy one before September. \nMichael B. via email\nWhen was the last time you searched for anything on Support.Apple(dot)Com. Type a search request longer than two words and you would get a list of articles that had nothing to do with the context of your quest for information. This is where, Apple should be applying some of its AI effort. \nWilliam L. via email\nSubscribe to the Macworld Podcast\nYou can subscribe to the Macworld Podcast—or leave us a review!—right here in the Podcasts app. The Macworld Podcast is also available on Spotify and on the Macworld Podcast YouTube channel.  Or you can point your favorite podcast-savvy RSS reader at: https://feeds.megaphone.fm/macworld\nTo find previous episodes, visit Macworld’s podcast page or our home on MegaPhone.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple",
-    "pub_date": "2026-07-30T07:39:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS,App Store",
-    "id": 3622
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "How to change your Home address in Maps on iPhone",
-    "link": "https://appleinsider.com/articles/26/07/30/how-to-change-your-home-address-in-maps-on-iphone?utm_source=rss",
-    "content": "Changing your home's address on Apple Maps can be almost as stressful as moving home in real life, but there's one sure-fire way to get the job done without pulling your hair out.\n\n\nRemember to update your home address whenever you move house.\nThe Apple Maps app is a great way to get around, whether you're using it while driving via CarPlay or just walking. It also makes it easy to quickly get directions to the places that you visit often, like your home or where you work.\nBut if you've moved home and ever tried to change your address in your iPhone's Maps app, you'll know it can be tricky. The job can be complicated considerably if you also have your home address pinned, too.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-30T03:04:43.000Z",
-    "creator": "Oliver Haslam <oliver@monkeymanmedia.com>",
-    "tags": "iOS,App Store",
-    "id": 3617
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "PSA: App Store, iTunes Store and other Apple services are currently down for some users [U: Fixed]",
-    "link": "https://9to5mac.com/2026/07/29/psa-app-store-itunes-store-and-other-apple-services-are-currently-down-for-some-users/",
-    "content": "Update, 11:00 p.m ET: Apple’s System Status pages say all the issues have now been resolved. The original story follows below.\nFor the second time in a week, Apple is facing a widespread outage affecting services for end users and developers. Here are the details.",
-    "pub_date": "2026-07-30T02:29:50.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "App Store",
-    "id": 3609
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "US senators urge Apple to abandon plans for Chinese-made chips",
-    "link": "https://appleinsider.com/articles/26/07/30/us-senators-urge-apple-to-abandon-plans-for-chinese-made-chips?utm_source=rss",
-    "content": "Apple wants to use China-sourced chips for products sold in China during the AI-driven memory shortage, but a letter from US senators hopes to persuade Apple otherwise.\n\n\nUS senators don't want Apple seeking help from China\nThe hype cycle around what is basically a natural evolution of an advanced autocomplete engine has destabilized the global economy and supply chain. The ever-increasing demand for more components to build data centers has led to a global chip and component shortage.\nApple has looked to blacklisted Chinese companies to bolster its supply chain, but, according to a letter viewed by Bloomberg, US senators want to urge Apple away from this solution. They worry about various potential calamities like other companies following suit, potential national security issues, and yet another industrial exodus from the United States.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-30T02:18:51.000Z",
-    "creator": "Wesley Hilliard <wes@appleinsider.com>",
-    "tags": "General",
-    "id": 3614
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple pledges support for communities affected by southern Europe wildfires",
-    "link": "https://9to5mac.com/2026/07/29/apple-pledges-support-for-communities-affected-by-southern-europe-wildfires/",
-    "content": "Tim Cook took to X tonight to announce that Apple will donate to relief efforts supporting those affected by the wildfires affecting southern Europe. Here are the details.",
-    "pub_date": "2026-07-30T02:14:39.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 3610
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "20th Anniversary iPhone Coming Next Year With These 10 Features",
-    "link": "https://www.macrumors.com/2026/07/29/20th-anniversary-iphone-10-features/",
-    "content": "Apple's 20th anniversary iPhone is expected to arrive in the fall of 2027 with the most significant redesign the device has seen since the iPhone X.\r\n\r\n\r\nThe first iPhone was announced in January 2007 and went on sale that June, meaning the device's 20th anniversary technically falls on June 29, 2027. Apple rarely launches new high-end iPhones outside of its September timeframe, and the anniversary models are still expected to arrive in the fall of that year, just as the iPhone X did in 2017 despite marking the 10th anniversary of a device that launched in June.\r\n\r\nall-glass design, new display technology, and a series of upgrades Apple has been working toward for several generations. Much as the iPhone X set the template for the years of iPhones that followed, the anniversary model is likely to define the device's design direction for some time.\r\n\r\nApple could skip the name \"iPhone 19\" in the same way it skipped \"iPhone 9\" ahead of the iPhone X in 2017, with rumors so far variably referring to the device as the \"iPhone 20\" and the \"iPhone XX.\" Here is everything that has been rumored for the device so far:\r\n\r\n\r\nCurved all-glass design with edge-to-edge display: Apple is reportedly aiming for a new design with curved glass generously wrapping around the front and back, described by Bloomberg's Mark Gurman as a curved iPhone without cutouts in the display. Facilities in Apple's supply chain have reportedly finished renovations ahead of production, with manufacturing quality said to be around that of the first-generation iPhone Air. The panel is said to curve down around all four edges for a borderless effect, going beyond the curved displays used by other manufacturers. Rather than the aggressively curved \"waterfall\" edges seen on some Samsung panels, Apple is said to be seeking an equal-depth quad-curved design with very shallow \"micro-curves,\" which could make edge swipes feel more natural and reduce distortion of on-screen content. Bending the display circuitry around every edge reportedly requires an ultra-thin film encapsulation layer to protect the OLED panel from moisture and air, and one leak claims a bezel of 1.1mm, compared to approximately 1.44mm on the iPhone 17 Pro.\n\r\nMore advanced display: Apple is reported to be adopting a Samsung-made panel using Color Filter on Encapsulation, which removes the polarizing film and applies the color filter directly onto the encapsulation layer. The technique reduces the thickness of the display stack and lets more light through, improving brightness while reducing power draw, and the panel is said to be paired with next-generation 16nm display driver chips. Apple is also said to be employing a crater-shaped light diffusion layer designed to even out brightness so the display appears uniformly lit across all areas, including at the curved edges.\n\r\nUnder-display Face ID: Apple reportedly wants to move the Face ID system beneath the panel, using a \"spliced micro-transparent glass\" window that allows infrared sensors to pass through the display. The technology is expected to debut on iPhone 18 Pro models first, but DSCC's Ross Young has said it is unlikely to be fully ready even for 2027, and expects an iPhone 18 Pro-style smaller Dynamic Island to remain.\n\r\nTwo size options: Unlike the iPhone X, which launched in a single 5.8-inch size, Apple is planning two anniversary models roughly matching the iPhone 18 Pro and Pro Max at 6.3 and 6.9 inches, although the larger model could be marketed as a 7-inch device owing to its slimmer bezels and all-screen design.\n\r\nCustom Apple image sensor: Apple is reported to be developing its own stacked image sensor to replace the Sony sensors used across the iPhone lineup, having already built a working prototype. The sensor is said to use LOFIC technology, allowing each pixel to store varying amounts of light and potentially reaching up to 20 stops of dynamic range.\n\r\nSolid-state haptic buttons: Apple is rumored to be reviving \"Project Bongo\" to replace the mechanical Side button, volume buttons, Action button, and Camera Control with haptic equivalents integrated into the frame. The buttons have reportedly passed tests for use with gloves, wet hands, extreme temperatures, and with a case fitted. An ultra-low energy microprocessor is claimed to keep the solid-state buttons functional even when the handset is powered off or the battery has run out.\n\r\nA21 chip: Both anniversary models are expected to use a second-generation 2-nanometer \"A21\" chip, shared with the second-generation foldable iPhone.\n\r\nHigh bandwidth memory: Apple is reported to be considering mobile HBM, a form of DRAM that stacks memory chips vertically and connects them using through-silicon vias to increase signal transmission speeds. Connecting the memory to the iPhone's GPU is said to be a strong candidate for improving on-device AI performance, and Apple has reportedly discussed the plan with memory suppliers Samsung and SK Hynix, both of which expect to begin mass production after 2026.\n\r\nApple modem in the United States: Apple is aiming to have modems that outperform Qualcomm's on speed and AI functionality by 2027, following the C1 and C1X used in the iPhone 16e and ‌iPhone Air‌, and the C2 on the ‌iPhone 18 Pro‌ outside the United States only. With the 20th anniversary iPhone, an Apple-designed modem should come to the high-end devices for the first time in the United States, delivering an efficiency boost for better battery life.\n\r\nPure silicon battery: Apple is said to be pairing the new display with pure silicon battery technology for improved power efficiency, which offers higher energy density than conventional lithium-ion cells and could allow greater capacity in the same physical space. One leaker has claimed a 6,000mAh battery could come to the device, though it is unclear where that figure comes from.\n\r\n\r\n\r\nmentioned by one leaker, but it is unknown whether these claims are based on supply chain information.\r\n\r\nWith the device still more than a year away, the final 20th anniversary iPhone could still change considerably from the current picture provided by rumors. A two-stage rollout has been reported for the curved panel itself, with the 2027 implementation said to introduce some distortion and brightness loss at the edges before a more advanced version follows in 2028.\r\n\r\nThis article, \"20th Anniversary iPhone Coming Next Year With These 10 Features\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-30T01:00:11.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "iOS,Rumors,Silicon",
-    "id": 3607
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple faces bipartisan Senate pushback over plans to buy Chinese memory chips",
-    "link": "https://9to5mac.com/2026/07/29/apple-faces-bipartisan-senate-pushback-over-plans-to-buy-chinese-memory-chips/",
-    "content": "Bloomberg reports that US senators from both sides of the aisle are urging Apple CEO Tim Cook to commit by August 21 to not using memory chips from Chinese suppliers CXMT and YMTC. Here are the details.",
-    "pub_date": "2026-07-30T00:41:49.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 3611
   }
 ]
