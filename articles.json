@@ -1,6 +1,36 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "OpenAI rebuts Apple trade secrets allegations in new response with receipts",
+    "link": "https://9to5mac.com/2026/08/03/openai-rebuts-apple-trade-secrets-allegations-in-new-response-and-evidence/",
+    "content": "Apple filed a lawsuit against OpenAI last month, accusing the firm behind ChatGPT of stealing trade secrets related to hardware development. Nearly a month later, OpenAI has published a detailed response to many of Apple’s claims in the form of a blog post.",
+    "pub_date": "2026-08-04T06:05:15.000Z",
+    "creator": "Zac Hall",
+    "tags": "General",
+    "id": 3957
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Telegram briefly disappeared from the Apple App Store due to CSAM [u]",
+    "link": "https://appleinsider.com/articles/26/08/04/telegram-briefly-disappeared-from-the-apple-app-store-with-no-explanation?utm_source=rss",
+    "content": "Telegram was removed from the App Store briefly Monday after CSAM was posted by a user. The app was restored after the content was removed.\n\n\nTelegram was removed then returned to the App Store\nTelegram is known widely as a secure alternative to Messenger, WhatsApp, and iMessage. Its cross-platform availability and options for end-to-end encryption have made it attractive to privacy and security-conscious users.\nReports began showing up across social media of Telegram disappearing from the Apple App Store around 9:30 p.m. EST on Monday night. Users searching the App Store or opening a direct link to the app showed that it was no longer available.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-04T05:53:54.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "App Store",
+    "id": 3955
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Apple will eventually bring iPhone clipboard syncing to Windows PCs",
+    "link": "https://www.cultofmac.com/news/apple-eventually-bring-iphone-clipboard-syncing-windows-pcs",
+    "content": "Apple is working to bring seamless copy-and-paste between iPhones and Windows PCs, though the feature likely won't arrive until 2027 or later.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-04T04:33:15.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac,iOS",
+    "id": 3963
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Apple sued over alleged lack of age checks for casino games in Brazil",
     "link": "https://9to5mac.com/2026/08/03/apple-sued-over-alleged-lack-of-age-checks-for-casino-games-in-brazil/",
     "content": "Apple is facing a civil lawsuit in Brazil seeking R$300 million (roughly $59 million) in damages over allegations that children can download and access casino-style games on the App Store without any meaningful age verification. Here are the details.",
@@ -8,16 +38,6 @@
     "creator": "Marcus Mendes",
     "tags": "App Store",
     "id": 3950
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Telegram briefly disappeared from the Apple App Store with no explanation",
-    "link": "https://appleinsider.com/articles/26/08/04/telegram-briefly-disappeared-from-the-apple-app-store-with-no-explanation?utm_source=rss",
-    "content": "Users noticed that Telegram was no longer available on the App Store in several countries including the United States, but it returned shortly after its disappearance without explanation.\n\n\nTelegram was removed then returned to the App Store\nTelegram is known widely as a secure alternative to Messenger, WhatsApp, and iMessage. Its cross-platform availability and options for end-to-end encryption have made it attractive to privacy and security-conscious users.\nReports began showing up across social media of Telegram disappearing from the Apple App Store around 9:30 p.m. EST on Monday night. Users searching the App Store or opening a direct link to the app showed that it was no longer available.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-04T02:44:32.000Z",
-    "creator": "Wesley Hilliard <wes@appleinsider.com>",
-    "tags": "App Store",
-    "id": 3955
   },
   {
     "source_name": "9to5Mac",
@@ -2978,25 +2998,5 @@
     "creator": "Ed Hardy",
     "tags": "Mac",
     "id": 3571
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Host unlimited websites for life for just $150",
-    "link": "https://www.cultofmac.com/deals/hostdeal-web-hosting",
-    "content": "Money-saving deal on Hostdeal's Unlimited Plan lets you host unlimited websites with unlimited NVMe SSD storage and 54 free domains for life.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-07-29T13:15:34.000Z",
-    "creator": "Cult of Mac Deals",
-    "tags": "Mac",
-    "id": 3572
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iPhone Driver's Licenses May Soon Expand to Another US State",
-    "link": "https://www.macrumors.com/2026/07/29/iphone-drivers-license-another-state-soon/",
-    "content": "Driver's licenses and IDs may soon be available in Apple Wallet for iPhone and Apple Watch users living in Oklahoma. MacRumors discovered signs of an Oklahoma ID in Apple's backend.\r\n\r\n\r\nWith input from Apple, a House bill was passed in March 2026 that allows Service Oklahoma to issue mobile or digital versions of state identification cards, driver's licenses or permits – suggesting this is Apple taking preparatory steps for future Wallet integration. \r\n\r\nThe digital equivalents are not intended to replace physical licenses or state IDs, meaning Oklahomans will be required to keep the latter, while using the mobile version as a \"companion option.\"\r\n\r\nMacRumors already spotted signs of Utah and Virginia in Apple's backend.\r\n\r\n\r\nArkansas\n\r\n \t\nArizona\n\r\n \t\nCalifornia\n\r\n \t\nColorado\n\r\n \t\nGeorgia\n\r\n \t\nHawaii\n\r\n \t\nIllinois\n\n\r\nIowa\n\r\n \t\nMaryland\n\r\n \t\nMontana\n\r\n \t\nNew Mexico\n\r\n \t\nNorth Dakota\n\r\n \t\nOhio\n\r\n \t\nWest Virginia\n\r\n\n\r\n\nDigital IDs and licenses are accepted at select TSA checkpoints across the United States. They can also be used at some business venues and in select apps that require ID verification for services or purchases.\r\n\r\nTag: Apple Wallet\nThis article, \"iPhone Driver's Licenses May Soon Expand to Another US State\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-29T13:15:09.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "iOS",
-    "id": 3551
   }
 ]
