@@ -1,5 +1,55 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "If SideCar isn't enough, get real macOS on iPad with a new jailbreak tool",
+    "link": "https://appleinsider.com/articles/26/08/05/if-sidecar-isnt-enough-get-real-macos-on-ipad-with-a-new-jailbreak-tool?utm_source=rss",
+    "content": "If you've been dying to run macOS on iPad hardware natively, a jailbreak solution has emerged for M1 and M2 iPads running iPadOS 16, though it is extremely experimental.\n\n\nGet macOS on an iPad via jailbreak\nThere has been an endless debate surrounding the iPad since Apple debuted the first iPad Pro. It runs iPadOS, a branch of iOS, which is much more locked down compared to macOS.\nUsers that want to use macOS on an iPad can finally give it a try, but it'll be a limited experience. The GitHub repository for the Virtual Mac on iPad software will provide you all of the information you'll need.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-05T02:06:58.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "Mac,iOS,Silicon",
+    "id": 4054
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple CarPlay expands to select pontoon boats with on-water navigation",
+    "link": "https://9to5mac.com/2026/08/04/apple-carplay-expands-to-select-pontoon-boats-with-on-water-navigation/",
+    "content": "CarPlay will soon move beyond the road, with Crest and Balise set to bring Apple’s in-car interface to the helm of select pontoon boats. Here are the details.",
+    "pub_date": "2026-08-05T01:38:46.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 4051
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Ted Lasso’s season 4 premiere now available to stream on Apple TV",
+    "link": "https://9to5mac.com/2026/08/04/ted-lassos-season-4-premiere-now-available-to-stream-on-apple-tv/",
+    "content": "The long-awaited return of Ted Lasso is finally here, with the premiere episode of the show’s much-anticipated fourth season now available to Apple TV subscribers.",
+    "pub_date": "2026-08-05T01:00:48.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 4052
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "WebKit leaks in iOS & macOS expose user data in spite of proxy use",
+    "link": "https://appleinsider.com/articles/26/08/05/webkit-leaks-in-ios-macos-expose-ip-and-dns-in-spite-of-proxy-use?utm_source=rss",
+    "content": "Apple requires all browsers to use WebKit on iPhone, so a report suggests every browser is affected by three separate leaks that can hand off information around a proxy or iCloud Private Relay.\n\n\nWebKit browsers can leak data past proxies and iCloud Private Relay\nWhen users install proxy browsers or Tor, they expect absolute privacy while navigating the web. However, one developer has discovered that three separate data leaks can occur while using WebKit browsers on iOS or macOS.\nAccording to the Mysk blog, DNS prefetching, WebAuthn for Passkeys, and WebTransport can all reveal data about the user in spite of proxy use or iCloud Private Relay. Tor browsers, proxy apps, and Safari are affected, but VPNs are not since they're acting at a system level to encrypt all traffic.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-05T00:11:10.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "Mac,iOS,Rumors,App Store,Services",
+    "id": 4055
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "CarPlay is Coming to Pontoon Boats",
+    "link": "https://www.macrumors.com/2026/08/04/carplay-is-coming-to-pontoon-boats/",
+    "content": "MasterCraft Boat Holdings today said it is adding CarPlay to its upcoming Crest and Balise Pontoons. The company is working with Savvy Navvy to bring ‌CarPlay‌ and on-water navigation to boaters.\r\n\r\n\r\nBoaters who purchase select 2027 Crest or Balise pontoons will have access to ‌CarPlay‌, with many of the same features that are available in a car. The Savvy Navvy mobile app will integrate with ‌CarPlay‌ to show nautical charts, GPS tracking, smart routing, and live weather forecasts right alongside other ‌CarPlay‌ apps.\r\n\r\nApple Maps ‌CarPlay‌ integration.\r\n\"Boaters have been asking for a modern infotainment system for years,\" says Jelte Liebrand, Founder and CEO of Savvy Navvy. \"Plan your trip on the couch, step aboard, and it is already at the helm. No complicated ways to synchronise things; it just works. Savvy Navvy for CarPlay works on iOS and Android with any compatible display. I'm thrilled to see Crest and Balise put CarPlay in front of their boaters.\"\n\r\nStarting with the 2027 model year, Apple ‌CarPlay‌ with Savvy Navvy will come standard on all new Balise and Crest Conquest and Caribbean models. A limited Savvy Navvy Premium subscription is included.\r\n\r\nRelated Roundup: CarPlay\nRelated Forum: HomePod, HomeKit, CarPlay, Home & Auto Technology\nThis article, \"CarPlay is Coming to Pontoon Boats\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-04T23:49:52.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,App Store,Services",
+    "id": 4050
+  },
+  {
     "source_name": "9to5Mac",
     "title": "9to5Mac Daily: August 4, 2026 – The latest Apple vs OpenAI drama",
     "link": "https://9to5mac.com/2026/08/04/daily-august-4-2026/",
@@ -2948,55 +2998,5 @@
     "creator": "Mitchel Broussard",
     "tags": "General",
     "id": 3630
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "You Can Listen to Tim Cook's Final Earnings Call as Apple CEO Today",
-    "link": "https://www.macrumors.com/2026/07/30/tim-cook-final-earnings-call-as-apple-ceo/",
-    "content": "Tim Cook will participate in his final Apple earnings call as the company's CEO today. The call begins at 2 p.m. Pacific Time / 5 p.m. Eastern Time.\r\n\r\n\r\nCook and CFO Kevan Parekh will discuss Apple's earnings results for the second quarter of the 2026 calendar year on the live-streamed conference call. While the call is primarily intended for Apple shareholders and Wall Street analysts, anyone can listen live for free on Apple's Investor Relations website, with no registration required. \r\n\r\nThe call should last around one hour. Cook and Parekh will read their prepared remarks, and then they will take questions from analysts.\r\n\r\nIf you miss the call, a recording will be available for replay on the page later in the day.\r\n\r\ntaking over as CEO on September 1, so Cook will no longer be CEO when the next earnings call occurs.\nTags: AAPL, Earnings, Tim Cook\nThis article, \"You Can Listen to Tim Cook's Final Earnings Call as Apple CEO Today\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-30T13:45:43.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "General",
-    "id": 3631
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Donating to European Wildfire Relief Efforts",
-    "link": "https://www.macrumors.com/2026/07/30/apple-donating-to-european-wildfire-relief-efforts/",
-    "content": "In a post on Wednesday, Apple CEO Tim Cook said Apple will be donating to relief efforts on the ground in Europe following devastating wildfires in France, Spain, Greece, and other countries.\r\n\r\nThis article, \"Apple Donating to European Wildfire Relief Efforts\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-30T13:43:37.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "General",
-    "id": 3632
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iOS 27 Finally Unlinks Alarm Volume From Your iPhone Ringer",
-    "link": "https://www.macrumors.com/how-to/ios-27-unlinks-alarm-volume-iphone-ringer/",
-    "content": "For the better part of two decades, an iPhone's alarm volume has matched its ringer. In other words, if you slide the ringtone volume down to silence your iPhone overnight, you're also turning your alarm's volume down with it. That's no longer the case in iOS 27.\r\n\r\n\r\nSettings now includes an \"Alarms and Timers\" section with its own Match Ringtone Volume toggle. If you toggle it off, a dedicated slider appears that allows you to drop the ringer volume to nothing, and you'll still be woken at whatever alarm volume you choose.\r\n\r\nHow to Set a Separate Alarm Volume\n\r\n\r\nOpen Settings on your iPhone.\n\r\n  \nTap Sounds & Haptics.\n\r\n  \nUnder \"Alarms and Timers,\" toggle off Match Ringtone Volume.\n\r\n  \nDrag the slider that appears to set your alarm and timer volume.\n\r\n\r\n\r\nThat's all there is to it. Alarms and timers now have their own level, regardless of how quiet or loud your iPhone's ringer is set at.\r\n\r\nMatch Ringtone Volume back on, and the slider will disappear.\r\n\r\nA Second Toggle for Alerts and System Sounds\n\r\nYou may notice that directly below the \"Alarms and Timers\" controls sits a second Match Ringtone Volume switch in a separate section. This covers alerts and system sounds, like incoming texts, keyboard clicks, and suchlike. Toggle off this setting and you'll get a similar independent slider. It's a neat fix if, say, you've ever wanted a loud ringer without a loud keyboard.\r\n\r\nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"iOS 27 Finally Unlinks Alarm Volume From Your iPhone Ringer\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-07-30T13:40:30.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "iOS",
-    "id": 3633
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Microsoft will launch new ‘super app’ for Copilot soon",
-    "link": "https://9to5mac.com/2026/07/30/microsoft-will-launch-new-super-app-for-copilot-soon/",
-    "content": "It’s officially the year of the super app. OpenAI recently launched its own super app, which it just admitted is “kind of a mess.” And now Microsoft’s CEO has confirmed has a super app for Copilot launching soon.",
-    "pub_date": "2026-07-30T13:29:41.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "App Store",
-    "id": 3636
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Spotify for iOS adds new music feature that can improve your running game",
-    "link": "https://9to5mac.com/2026/07/30/spotify-ios-running-mode/",
-    "content": "Spotify is launching a brand-new music feature that aims to make you a better runner. The new Running Mode feature works by personalizing playlists to your running goals, music taste, and tempo.",
-    "pub_date": "2026-07-30T13:20:44.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS",
-    "id": 3637
   }
 ]
