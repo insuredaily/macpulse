@@ -1,5 +1,35 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Abode launches new Apple Home-compatible sensors for garages, gates, more",
+    "link": "https://9to5mac.com/2026/08/05/abode-launches-new-apple-home-compatible-sensors-for-garages-gates-more/",
+    "content": "DIY smart home security company Abode expanded its Apple Home-compatible lineup today with two new sensors designed to monitor garage doors, gates, sheds, and other entry points. Here are the details.",
+    "pub_date": "2026-08-06T00:26:32.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 4129
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Meta's New Mac Coding Agent Costs Up to 20x Less If You Let Meta Train on Your Data",
+    "link": "https://www.macrumors.com/2026/08/05/meta-muse-code-for-mac/",
+    "content": "Meta today launched Muse Code, a terminal coding agent available for macOS and Linux. Muse Code is in beta, and it is powered by Muse Spark 1.2, ‌Meta‌'s newest model.\r\n\r\n\r\n‌Meta‌ CEO Mark Zuckerberg said Muse Code can accomplish complete software engineering tasks across large repos. It can plan out changes, write code, and validate results using multiple persistent subagents.\r\n\r\nMuse Code is ‌Meta‌'s equivalent of OpenAI's Codex and Anthropic's Claude Code, and it is ‌Meta‌'s first major push into agentic coding.\r\n\r\nThere are several default skills available, such as /plan for turning a task into an approval-gated plan, /grill for stress testing a plan, and /goal for working toward the successful completion of an objective. Muse Code maintains an append-only local event log of every model call, tool run, approval, and edit, so it can resume where it stopped if it crashes.\r\n\r\nMuse Code can be used through the Mac's terminal after a one-command install, and there is no dedicated app available. The model is priced at $1.25 for 1 million input tokens and $4.25 for 1 million output tokens, but ‌Meta‌ is offering a discount for users who give the company permission to use their prompts and completions to train future AI models.\r\n\r\nWith the Contributor tier enabled for ‌Meta‌ model training, Muse Spark 1.2 is priced at $0.10 for 1 million input tokens and $0.20 for 1 million output tokens. The Standard tier costs more and does not let ‌Meta‌ use prompts to train its models. \r\n\r\nTag: Meta\nThis article, \"Meta's New Mac Coding Agent Costs Up to 20x Less If You Let Meta Train on Your Data\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-06T00:10:28.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,App Store",
+    "id": 4127
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Disney+ Could Get a Free Ad-Supported Tier",
+    "link": "https://www.macrumors.com/2026/08/05/disney-plus-free-tier/",
+    "content": "Disney could introduce an ad-supported Disney+ free tier in the future, according to comments Disney CEO Josh D'Amaro made during the company's latest earnings call (via The Wrap).\r\n\r\n\r\nD'Amaro said Disney is considering a free tier that could allow it to reach people unwilling to pay for a subscription, but no launch plans were shared.\r\nFirst, we see it as a way to expand our reach to a customer segment that's more price-sensitive. Expanding our reach is, as we've talked about before, one of our strategic priorities. Second, unlike a lot of our AVOD competitors, we're fairly well sold, meaning more inventory would actually help us accelerate our ad revenue growth. And then finally, as you mentioned in your question, a free offering could help us drive top-of-funnel Disney+ subscriber growth. So nothing specific to announce today, but definitely something that we're considering.\n\r\nDisney+ competitors like Apple TV and Netflix don't have a completely free tier, but services like Tubi and The Roku Channel offer free content, as does YouTube. Disney+ has approximately 130 million global subscribers and is one of the most-watched streaming services in the United States.\r\n\r\nsigned a deal with TikTok, which will see TikTok creators use characters and scenes from Disney movies and shows for short-form videos. The videos will be available on TikTok and on the Disney+ Verts section for vertical video.\nTag: Disney Plus\nThis article, \"Disney+ Could Get a Free Ad-Supported Tier\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-05T23:34:16.000Z",
+    "creator": "Juli Clover",
+    "tags": "Services",
+    "id": 4128
+  },
+  {
     "source_name": "AppleInsider",
     "title": "August Apple Watch deals deliver savings of up to $172 off Series 11, Ultra 3 styles",
     "link": "https://appleinsider.com/articles/26/08/05/august-apple-watch-deals-deliver-savings-of-up-to-172-off-series-11-ultra-3-styles?utm_source=rss",
@@ -24,7 +54,7 @@
     "title": "SpaceX Plans Starlink Mobile Service to Compete With Verizon, AT&T and T-Mobile",
     "link": "https://www.macrumors.com/2026/08/05/starlink-mobile-service/",
     "content": "SpaceX shared plans to create a cellular service during its first earnings call after its IPO, reports Reuters. SpaceX president Gwynne Shotwell said the company will \"build out terrestrial\" with the spectrum that it acquired from EchoStar.\r\n\r\n\r\nShe added that SpaceX intends to make Starlink a \"true mobile service\" that will win \"quite a few\" customers from Verizon, AT&T, and T-Mobile. Shotwell declined to discuss the costs involved in the endeavor and said SpaceX had \"great and new ideas\" on how to build a mobile service, such as a large number of lower-cost base stations paired with Starlink dishes instead of cell towers.\r\n\r\nSpaceX agreed to pay $19.6 billion to acquire 65 MHz of wireless spectrum licenses from EchoStar in 2025. The spectrum will allow SpaceX to expand its direct-to-cell Starlink satellite service to include ground-based infrastructure.\r\n\r\nReuters that without an MVNO (Mobile Virtual Network Operator) agreement with a major carrier, it would be extremely difficult for Starlink to compete with AT&T, Verizon, and T-Mobile. 65 MHz is tiny compared to the spectrum owned by the big U.S. mobile operators, and they're unlikely to lease capacity to a competitor.\r\n\r\nSpaceX plans to launch its next-generation Starlink Mobile satellites in 2027, and upgraded service that's \"100 times better\" than current direct-to-cell service is targeted for the end of that year. Shares of AT&T, T-Mobile, and Verizon fell 2 to 4 percent following the SpaceX earnings call.\r\n\r\nTag: Starlink\nThis article, \"SpaceX Plans Starlink Mobile Service to Compete With Verizon, AT&T and T-Mobile\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-05T22:27:29.000Z",
+    "pub_date": "2026-08-05T22:27:18.000Z",
     "creator": "Juli Clover",
     "tags": "Services",
     "id": 4093
@@ -2968,35 +2998,5 @@
     "creator": "Rajesh Pandey",
     "tags": "Mac,iOS",
     "id": 3717
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "JP Morgan lowers Apple price target on supply constraint worries, still bullish long-term",
-    "link": "https://appleinsider.com/articles/26/07/31/jp-morgan-lowers-apple-price-target-on-supply-constraint-worries-still-bullish-long-term?utm_source=rss",
-    "content": "While price increases didn't worry the investors at JP Morgan, ongoing supply chain constraints will have a short-term impact, and thus their new price target is $340.\n\n\nApple's record-breaking quarter wasn't enough to keep investors from worrying\nIt's been a bumpy few months for Apple thanks to RAM shortages, price increases, and supply constraints. Investors expect that these problems will continue through December even if Apple finds ways to counteract their effects.\nIn a note seen by AppleInsider, JP Morgan shares that it believes high demand for products like the iPhone 17 and MacBook Neo has helped maintain momentum in the product cycle. Siri AI's impending launch will also help drive demand going into Q4 2026.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-31T03:42:35.000Z",
-    "creator": "Wesley Hilliard <wes@appleinsider.com>",
-    "tags": "Mac,iOS",
-    "id": 3710
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple AI compute costs will be covered by iCloud+ subscriptions, for now",
-    "link": "https://appleinsider.com/articles/26/07/31/apple-ai-compute-costs-will-be-covered-by-icloud-subscriptions-for-now?utm_source=rss",
-    "content": "Monetizing AI is a tricky business and it seems Apple's only plans so far are tying daily usage limits to users' iCloud+ subscription tier, but whether or not that'll be enough isn't yet known.\n\n\nSiri AI could get costly for Apple\nApple may be prioritizing on-device AI, but the requests that need to go to Private Cloud Compute servers still cost money. Those costs will be offset by offering increased daily usage limits for higher iCloud+ tiers, but that may only be the start of Apple's AI monetization plan.\nApple CEO Tim Cook responded to an analyst question during the Q3 earnings call regarding AI compute costs with information that was shared previously. However, one tidbit stood out that hints at Apple's ambitions for drawing in more revenue from AI.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-07-31T01:57:34.000Z",
-    "creator": "Wesley Hilliard <wes@appleinsider.com>",
-    "tags": "Rumors,Services",
-    "id": 3712
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Yet another major Chinese car brand is preparing to support Car Keys in Apple Wallet",
-    "link": "https://9to5mac.com/2026/07/30/yet-another-major-chinese-car-brand-is-preparing-to-support-apple-car-keys/",
-    "content": "Following recent backend code changes pointing to Car Keys support for GWM’s Tank vehicles, Apple now appears to be preparing to expand the feature to another of the automaker’s brands. Here are the details.",
-    "pub_date": "2026-07-31T01:57:22.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 3708
   }
 ]
