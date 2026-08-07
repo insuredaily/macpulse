@@ -1,6 +1,36 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "9to5Mac Daily: August 6, 2026 – Potential iPhone 18 Pro shortages, more",
+    "link": "https://9to5mac.com/2026/08/06/daily-august-6-2026/",
+    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.",
+    "pub_date": "2026-08-07T00:21:01.000Z",
+    "creator": "Seth Kurkowski",
+    "tags": "iOS,App Store",
+    "id": 4232
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple Health is more powerful than you think; here are my top tips",
+    "link": "https://9to5mac.com/2026/08/06/apple-health-best-features/",
+    "content": "The Apple Health app on iPhone is a powerful way to track all facets of your health. Whether it’s recording data from your Apple Watch, importing records straight from your doctor, or integration with third-party apps, there’s something for everyone.\nHere’s how to get the most out of the Apple Health app.",
+    "pub_date": "2026-08-07T00:15:48.000Z",
+    "creator": "Chance Miller",
+    "tags": "iOS,App Store",
+    "id": 4233
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iPhone 18 Pro and Foldable iPhone Could Sell Out Fast Due to Memory Shortage",
+    "link": "https://www.macrumors.com/2026/08/06/iphone-18-pro-possible-shortages/",
+    "content": "The iPhone 18 Pro, ‌iPhone 18 Pro‌ Max, and foldable \"iPhone Ultra\" could be in short supply this year, leading to long wait times and an initial sellout during preorders.\r\n\r\n\r\nSemiconductor analyst Tim Culpan says Apple is having trouble getting enough DRAM to finish production of the new iPhone models, and chip supplier TSMC has $1 billion worth of unpackaged processors waiting on memory chips.\r\n\r\nApple's new A20 Pro chips are built on TSMC's 2nm process and use Wafer-Level Multi-Chip Module packaging to integrate the processor and DRAM at the wafer level. Unfortunately, that means TSMC needs to have the DRAM on hand for assembly, and it can't be added at a later step. Apple is not able to stockpile finished dies and then add DRAM when it becomes available.\r\n\r\nApple and its assemblers think they can meet initial demand, but retail inventory could sell quickly, leading to prolonged delivery estimates. The chip backlog will delay main logic board assembly and final device assembly, which could impact production at Foxconn and other assemblers.\r\n\r\nMac Studio, Mac mini, and MacBook Air. Companies that make memory are prioritizing chips for AI data centers because those chips are more profitable, leaving little capacity available for manufacturing chips for consumer devices.\r\n\r\nmanufacturing issues with the ‌iPhone Ultra‌ due to the complexity of the design, and supplies of the new foldable could be the most limited of the three iPhone models. Some reports suggest the foldable iPhone could be introduced in September and then launch later, in October or November, but others say it will be available at the same time as the ‌iPhone 18 Pro‌ and Pro Max.\r\n\r\nnew Apple Upgrade pricing option could lead to more people being willing to shell out for the device. Apple is also expected to raise prices for the ‌iPhone 18 Pro‌ and ‌iPhone 18 Pro‌ Max, and analysts believe the devices could be up to $300 more expensive because Apple is paying more for RAM.\r\n\r\niPhone Air, iPhone 17 Pro, and ‌iPhone 17 Pro‌ Max sold out during the preorder period, and shipping times extended into October. Along with potential production delays impacting supply, there will be no lower-cost iPhone 18 for people to choose this year, putting more pressure on ‌iPhone 18 Pro‌ supplies. Apple is not planning to launch the standard ‌iPhone 18‌ until early 2027.\r\n\r\nRelated Roundups: iPhone 18 Pro, iPhone Fold\nTag: Foldable iPhone\nThis article, \"iPhone 18 Pro and Foldable iPhone Could Sell Out Fast Due to Memory Shortage\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-07T00:10:27.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS,Rumors,Silicon",
+    "id": 4231
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "iPhone 18 Pro price: Here’s how much more it could cost",
     "link": "https://9to5mac.com/2026/08/06/iphone-18-pro-price-heres-how-much-more-it-could-cost/",
     "content": "The iPhone 18 Pro lineup is expected to be announced in a month, with new features including an upgraded camera system, the A20 Pro chip, and more. How much will the iPhone 18 Pro cost? Here’s everything we know so far.",
@@ -2968,35 +2998,5 @@
     "creator": "Malcolm Owen <malcolm@appleinsider.com>",
     "tags": "General",
     "id": 3843
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "MacBook Air reportedly facing major supply shortages due to AI-driven memory crisis",
-    "link": "https://9to5mac.com/2026/08/02/macbook-air-reportedly-facing-major-supply-shortages-due-to-ai-driven-memory-crisis/",
-    "content": "The AI datacenter buildout around the US has wreaked havoc across the entire consumer electronics industry. All of this newly found high volume purchasing of high end HBM2 DRAM has shifted entire supply chains, making it incredibly difficult to come across consumer grade memory and storage.\nSSDs and DDR5 RAM have shot up in price since the start of the year, and Apple finally had to adjust its pricing in late June – with everything becoming $100-400+ more across the board. Despite those price hikes, the company is still struggling to keep MacBook Air in stock.",
-    "pub_date": "2026-08-02T15:23:31.000Z",
-    "creator": "Michael Burkhardt",
-    "tags": "Mac",
-    "id": 3840
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "2026 Mac mini rumor roundup: Not the usual speed boost",
-    "link": "https://www.cultofmac.com/news/2026-mac-mini-rumors",
-    "content": "Get the inside scoop on 2026 Mac mini rumors. The little desktop is getting a processor upgrade, but it might not be the one you expect. \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-02T14:40:35.000Z",
-    "creator": "Ed Hardy",
-    "tags": "Mac,Rumors,Silicon",
-    "id": 3850
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Report: Apple’s smart glasses will become a major health companion, but not initially",
-    "link": "https://9to5mac.com/2026/08/02/apple-ai-smart-glasses-to-serve-as-health-companion/",
-    "content": "According to the latest Power On newsletter from Mark Gurman, Apple is working towards turning its upcoming non-AR smart glasses into another platform for health and fitness – though these features likely won’t debut with the first generation model in the coming year.",
-    "pub_date": "2026-08-02T14:30:42.000Z",
-    "creator": "Michael Burkhardt",
-    "tags": "General",
-    "id": 3841
   }
 ]
