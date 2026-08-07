@@ -1,6 +1,46 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Apple expands refurb store with rare M5 MacBook Pro configs, Apple TV 4K, more",
+    "link": "https://9to5mac.com/2026/08/07/apple-expands-refurb-store-with-rare-m5-macbook-pro-configs-apple-tv-4k-more/",
+    "content": "Apple has added a host of new products to its official Certified Refurbished Store this week. New M5 MacBook Pro models, the Studio Display XDR, high-end M5 MacBook Air configurations, and more are available.",
+    "pub_date": "2026-08-07T15:56:51.000Z",
+    "creator": "Chance Miller",
+    "tags": "Mac,Silicon",
+    "id": 4277
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "M6 MacBook Pro rumor roundup: Faster chip, familiar design",
+    "link": "https://www.cultofmac.com/news/m6-macbook-pro-rumors",
+    "content": "The upcoming M6 MacBook Pro promises enhanced performance in a time-tested design. Here's what to expect... including the price.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-07T15:55:49.000Z",
+    "creator": "Ed Hardy",
+    "tags": "Mac,Rumors",
+    "id": 4286
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Deals: Apple Watch Series 11 $172 off, Nike Watch bands, AirPods Pro 3, MacBook Neo discounts, more",
+    "link": "https://9to5mac.com/2026/08/07/deals-apple-watch-nike-bands-airpods-pro-macbook-neo/",
+    "content": "Today’s 9to5Toys Lunch Break is ready to usher in the end of the work week with ongoing and now even lower price on AirPods Pro 3 at 25% off, but we are also tracking the return of all AirPods Max 2 colors at $100 off. Those deals join Apple Watch Series 11 models up to $172 off, some rare discounts on official Apple Nike Watch bands, a FREE $25 Best Buy credit with MacBook Neo (or up to $120 off via the official Apple refurb store), and the ongoing $500 price drop on this M5 Pro MacBook Pro ($100 under the original MSRP). This week’s Anker charging gear deals from $9 are right here, and be sure to check out LG’s UltraFine 6K Thunderbolt 5 monitor while it’s $2,200 less than an Apple Studio Display XDR. Everything awaits below.",
+    "pub_date": "2026-08-07T15:32:58.000Z",
+    "creator": "Justin Kahn",
+    "tags": "Mac,iOS,Silicon",
+    "id": 4278
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "When to expect Apple's iPhone 18 Pro launch",
+    "link": "https://appleinsider.com/articles/26/08/07/when-to-expect-apples-iphone-18-pro-launch?utm_source=rss",
+    "content": "Apple obviously knows, and perhaps some of its retail staff have at least a clue, but for the rest of us, here's the best estimate of when the iPhone 18 Pro will be announced.\n\n\nMockup of a possible iPhone 18 Pro Max, which is rumored to come in a dark cherry red.\nNo question, it'll be in September. Apple has held its iPhone launches in October, but since 2011 the only time it has done that was during COVID.\nThe question is when in September we'll find out the all-important updates and, more than ever this time, the all-important prices. Not to drag this out, the smart money says Wednesday, September 9, 2026.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-07T15:09:19.000Z",
+    "creator": "William Gallagher <wg@williamgallagher.com>",
+    "tags": "iOS,Rumors",
+    "id": 4279
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "watchOS 27 could make Apple Watch’s important new health feature even better",
     "link": "https://9to5mac.com/2026/08/07/watchos-27-could-make-apple-watchs-important-new-health-feature-even-better/",
     "content": "Apple Watch added hypertension notifications last year, an important and potentially life-saving new feature. And per a recent report, it sounds like watchOS 27 might make them even better.",
@@ -223,7 +263,7 @@
     "source_name": "Cult of Mac",
     "title": "OpenAI’s first smart speaker could come with a bizarre doughnut design",
     "link": "https://www.cultofmac.com/news/openais-first-smart-speaker-bizarre-doughnut-design",
-    "content": "OpenAI's first smart speaker could feature an unusual doughnut-shaped design, moving parts and a premium $300–$400 price tag.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "content": "OpenAI's first smart speaker could feature an unusual doughnut-shaped design, moving parts and a premium $300 to $400 price tag.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
     "pub_date": "2026-08-07T08:09:54.000Z",
     "creator": "Rajesh Pandey",
     "tags": "Mac",
@@ -2958,45 +2998,5 @@
     "creator": "Ryan Christoffel",
     "tags": "General",
     "id": 3895
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple launches second legal challenge to UK iCloud backdoor order, per report",
-    "link": "https://9to5mac.com/2026/08/03/apple-launches-second-legal-challenge-to-uk-icloud-backdoor-order-per-report/",
-    "content": "Apple’s effort to fight back against a UK-mandated “backdoor” to encryption continues, according to a new Financial Times report.\nTim Bradshaw reports that Apple filed a new legal challenge in July against an attempt by the UK government to force access to encrypted user data.",
-    "pub_date": "2026-08-03T14:34:15.000Z",
-    "creator": "Zac Hall",
-    "tags": "Services",
-    "id": 3896
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "iPhone Fold is on schedule for September after manufacturing problems are solved",
-    "link": "https://appleinsider.com/articles/26/08/03/iphone-fold-is-on-schedule-for-september-after-manufacturing-problems-are-solved?utm_source=rss",
-    "content": "A new leak doubles down on the iPhone Fold being launched in September 2026, and says production difficulties were surmounted without the rumored extensive redesign.\n\n\nOnce again, the iPhone Fold is said to be on track for a September 2026 launch - image credit: AppleInsider\nDespite some reports saying that the folding phone industry was likely to follow Apple's innovative hinge system, others said that hinge was a problem that could mean the iPhone Fold being redesigned. Now regular leaker Fixed Focus Digital says that recent reports of delays to the iPhone Fold are not true.\nWriting on Chinese social media site Weibo, Fixed Focus Digital claims instead that there has never been any delay. \"The foldable project faced production challenges during the initial manufacturing phase [as] a small batch was produced for testing,\" says the leaker (in machine translation).\n\n Rumor Score: 🤯 Likely \n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-03T14:22:06.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "iOS,Rumors",
-    "id": 3906
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "AirPods With Cameras Could Arrive Sooner Than Expected",
-    "link": "https://www.macrumors.com/2026/08/03/airpods-with-cameras-could-arrive-sooner/",
-    "content": "Apple's first camera-equipped AirPods could launch as soon as next month, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nApple has reportedly spent years working on camera-equipped AirPods under the code name \"B798,\" as part of a broader AI wearables push that also encompasses smart glasses and a wearable AI pendant. That model had been on track for a 2026 release before slipping to 2027.\r\n\r\n\"Power On\" newsletter, Gurman said that a separate camera AirPods project, code named \"B790,\" has been progressing alongside B798. He noted this isn't unusual for Apple, saying the company \"famously creates competing versions of the same product internally.\" He added that the B790 hardware is closer to production. Pieces of it have turned up in iOS 27's code, and it is reportedly listed internally as a candidate to ship before the year is out.\r\n\r\nSam Henri Gold found traces of the same codename buried in the second iOS 27 developer beta last month. Gurman did not mention what separates the B790 hardware from the more advanced B798 model, and it's still an open question whether Apple will ultimately ship both.\r\n\r\nSiri a live view of a wearer's surroundings, tying into existing Visual Intelligence tools. Because a camera-equipped model is expected to cost more than the current $249 AirPods Pro 3, Gurman previously said Apple is weighing \"AirPods Ultra\" branding rather than calling them \"AirPods Pro 4.\"\r\n\r\nRelated Roundups: AirPods 4, AirPods Pro 3\nTags: Bloomberg, Mark Gurman\nBuyer's Guide: AirPods (Caution), AirPods Pro (Neutral)\nRelated Forum: AirPods\nThis article, \"AirPods With Cameras Could Arrive Sooner Than Expected\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-03T14:14:09.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "iOS,App Store",
-    "id": 3887
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "The next solar eclipse is on August 12 -- here's how to photograph it",
-    "link": "https://appleinsider.com/inside/iphone/tips/the-next-solar-eclipse-is-on-april-8----heres-how-to-photograph-it?utm_source=rss",
-    "content": "On August 12, a thin band of Spain, Portugal, Russia, Iceland, and Greenland will be in the path of totality for the 2026 Solar Eclipse, and you probably don't want to use your iPhone to capture it. Here's how you can snag some pictures of the event without ruining your equipment.\n\n\nImage Credit: NASA/Bill Ingalls\nAs the 2026 solar eclipse approaches, you may be interested in capturing this rare astronomical event through photography. The eclipse offers a unique opportunity to witness the moon briefly blocking the sun. If you're in the path of totality, it's even more stunning.\nIf you love astronomy, capturing a solar eclipse photo is the perfect way to remember such a rare event. All you'll need is a few tools at your disposal and a little bit of practice.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-03T14:01:40.000Z",
-    "creator": "Amber Neely <amber@appleinsider.com>",
-    "tags": "iOS",
-    "id": 3907
   }
 ]
