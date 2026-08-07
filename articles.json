@@ -1,6 +1,16 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Claude Code now lets sessions talk to each other on macOS",
+    "link": "https://9to5mac.com/2026/08/07/claude-code-now-lets-sessions-talk-to-each-other-on-macos/",
+    "content": "Users running the latest version of Claude Code on macOS and Linux can now have their sessions message each other to share findings, ask questions, and coordinate work. Here are the details.",
+    "pub_date": "2026-08-07T22:29:59.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac",
+    "id": 4324
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "9to5Mac Overtime 076: Native retro games on iPhone",
     "link": "https://9to5mac.com/2026/08/07/9to5mac-overtime-076-native-retro-games-on-iphone/",
     "content": "Fernando discusses his Pokémon 3D Mod on Mac, and Jeff shares his experience running a native port of Mario Kart 64 on iPhone. The guys also discuss why tech can feel less exciting than it used to, and share their thoughts on using the same device for many years.\n9to5Mac Overtime is a weekly video-first podcast exploring fun and interesting observations in the Apple ecosystem, featuring 9to5Mac’s Fernando Silva & Jeff Benjamin. Subscribe to Overtime via Apple Podcasts and our YouTube channel for more.",
@@ -2988,15 +2998,5 @@
     "creator": "Leander Kahney",
     "tags": "Mac",
     "id": 3935
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Report: Apple aiming to launch camera-equipped AirPods this fall",
-    "link": "https://www.macworld.com/article/3205100/report-apple-aiming-to-launch-camera-equipped-airpods-this-fall.html",
-    "content": "Macworld\n\n\nWe’ve been reporting on Apple’s plan to stick cameras on AirPods Pro since summer 2024, believe it or not. It was supposed to happen earlier, but setbacks in Apple Intelligence and Siri delayed them, just like Siri delayed Apple’s new HomePod mini and its push into the smart home market.\nNow, according to a brief update in Mark Gurman’s Power On newsletter at Bloomberg, they could finally be on the way this fall alongside Apple’s other smart home products.\nGurman says the original camera-equipped AirPods were developed under the codename B798. Apple frequently develops multiple competing versions of the same product, and in this case, one of the alternative designs was codenamed B790. This B790 version, Gurman reports, appears to be further along, with the code name already referenced in the OS 27 betas and a scheduled launch as early as this fall, barring any further delays.\nWhat are camera-equipped AirPods?\nThe AirPods-with-cameras have been rumored long enough that we sort of expected them to be the AirPods Pro 3. We got a heart rate sensor instead, along with some battery life and audio improvements.\nSupposedly, the AirPods with cameras are said to resemble AirPods Pro 3, and it’s not yet known if they will include a heart rate sensor or not. It’s also not known what the name will be: AirPods Pro 4, AirPods Ultra, or something else entirely.\nThe cameras are said to see both standard spectrum and infrared, but reportedly won’t be used for taking photos and videos—the quality and placement would be poor for that. Instead, the cameras are meant to be used for AI-powered features. That could be recognizing your hands for gesture controls, adjusting audio based on the environment, or recognizing if someone is talking to you or just talking nearby. It could also be used to give Siri a set of “eyes” where the AI assistant can give you answers that are appropriate for the context of your current surroundings and activity as part of Visual Intelligence.\nThere are lots of other possibilities for AirPods with cameras that would necessitate changes to other Apple software and services, too. Think of workout tracking that can count reps and sets when you lift weights, or nutrition tracking based on ingredient labels or analyzing what’s on your plate. Currently, there’s no information to suggest any specific use case for the camera-equipped AirPods, but there are lots of possibilities, now and in the future.",
-    "pub_date": "2026-08-03T18:15:35.000Z",
-    "creator": "Macworld",
-    "tags": "General",
-    "id": 3933
   }
 ]
