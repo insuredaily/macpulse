@@ -1,5 +1,25 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "iOS 27: The easiest beta to forget about",
+    "link": "https://9to5mac.com/2026/08/08/ios-27-the-easiest-beta-to-forget-about/",
+    "content": "We’ve had iOS 27 in our hands for about two months now. Of course, it’s a beta – and the public release won’t be hitting for another 4-6 weeks. That said, despite the fact that I’ve been running a beta on my phone for the past two months, I can’t say I’ve really thought much about it. It just… works.",
+    "pub_date": "2026-08-08T21:23:00.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS",
+    "id": 4361
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Indie App Spotlight: ‘Pocket Jam’ helps you learn and practice your favorite songs",
+    "link": "https://9to5mac.com/2026/08/08/indie-app-spotlight-pocket-jam-helps-you-learn-and-practice-your-favorite-songs/",
+    "content": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nIf you’re an aspiring musician, Pocket Jam might be something you find useful. It helps you turn your favorite songs into a practice tool, letting you slow down, change the pitch, loop, and dissect tracks as you learn them.",
+    "pub_date": "2026-08-08T19:30:00.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "App Store",
+    "id": 4362
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Amazon slashes $500 off Apple's M5 Max 14-inch MacBook Pro with 2TB SSD",
     "link": "https://appleinsider.com/articles/26/08/08/amazon-slashes-500-off-apples-m5-max-14-inch-macbook-pro-with-2tb-ssd?utm_source=rss",
@@ -2978,25 +2998,5 @@
     "creator": "Marcus Mendes",
     "tags": "General",
     "id": 3947
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Will Judge Your Mustache Authenticity at Its Ted Lasso Look-Alike Contest",
-    "link": "https://www.macrumors.com/2026/08/03/apple-ted-lasso-look-alike-contest/",
-    "content": "Ted Lasso season four is set to premiere Wednesday, and to celebrate the debut, Apple is hosting a Ted Lasso look-alike contest in New York.\r\n\r\n\r\n\"Think you have the stache to make fans believe? Join the fun this August 6 at Apple Fifth Avenue Plaza for a Ted Lasso Look-Alike contest,\" reads Apple's Facebook event page. Apple has a set of contest rules instructing participants to visit Apple Fifth Avenue to be judged on \"the degree to which they look and act like the character Ted Lasso.\"\r\n\r\nThere will be a three-round contest with eliminations in each round. Ten semifinalists will be selected after round one, five finalists will make it past round two, and three finalists will be selected in round three. The event starts at 4:30 p.m. Eastern Time and runs until 7:00 p.m.\r\n\r\n \t\nRound One, Ted Energy - Contestants have to introduce themselves in character and have a two-minute dance break. Judging will be based on optimism, posture, and presence, along with costume commitment and participation level.\n\r\n \t\nRound Two, Head Coach - Semifinalists will participate in a trivia game and will be judged on the level to which each participant embraces the Ted Lasso character. The round will be judged on trivia results, costume commitment, mustache authenticity (Apple says 'stick-ons OK; real grows extra credit'), and The Believe Factor (something unique and special).\n\r\n \t\nRound Three, Ted Talk - Each remaining contestant will present a 30- to 45-second pep talk to the crowd. It will be judged on how moved the crowd is, costume commitment, and Ted Energy.\n\r\n\r\non Apple's site for the event.\r\n\r\n\n\r\nSeason four of Ted Lasso will premiere on Wednesday, August 5, and it has 10 total episodes. One episode will be released every Wednesday through October 7. In the new season, Lasso returns to Richmond to coach a second-division women's soccer team. Ted Lasso favorites including Hannah Waddingham, Juno Temple, Brett Goldstein, Brendan Hunt, and Jeremy Swift will star in the series.\nThis article, \"Apple Will Judge Your Mustache Authenticity at Its Ted Lasso Look-Alike Contest\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-03T22:03:19.000Z",
-    "creator": "Juli Clover",
-    "tags": "App Store",
-    "id": 3945
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Report: Apple’s secrecy efforts partly undermined by lax work iCloud policy",
-    "link": "https://9to5mac.com/2026/08/03/report-apples-secrecy-efforts-partly-undermined-by-lax-work-icloud-policy/",
-    "content": "A new report from The Information details how Apple’s policy of encouraging employees to mix personal and work iCloud accounts has allowed some former staffers to retain access to confidential company files long after leaving. Here are the details.",
-    "pub_date": "2026-08-03T21:30:11.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Services",
-    "id": 3948
   }
 ]
