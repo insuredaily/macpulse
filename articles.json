@@ -1,5 +1,15 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "Amazon slashes $500 off Apple's M5 Max 14-inch MacBook Pro with 2TB SSD",
+    "link": "https://appleinsider.com/articles/26/08/08/amazon-slashes-500-off-apples-m5-max-14-inch-macbook-pro-with-2tb-ssd?utm_source=rss",
+    "content": "Amazon is again offering steep price cuts on Apple's current MacBook Pro line, with a $500 discount in effect this weekend on a high-end M5 Max model with a spacious 2TB SSD.\n\n\nSave $500 on Apple's M5 Max 14-inch MacBook Pro - Image credit: Apple\nThis weekend's $500 discount applies to the M5 Max MacBook Pro 14-inch with an 18-core CPU, 32-core GPU, and 36GB of RAM. The Space Black laptop also has 2TB of storage, providing extra space for files and apps over the entry-level 1TB M5 Pro.\nSave $500 on M5 Max 14\" MacBook Pro\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-08T18:49:43.000Z",
+    "creator": "Christine McKee <christine@appleinsider.com>",
+    "tags": "Mac,Silicon",
+    "id": 4360
+  },
+  {
     "source_name": "9to5Mac",
     "title": "Why you should buy iPhone 17 Pro now instead of waiting",
     "link": "https://9to5mac.com/2026/08/08/buy-iphone-17-pro-vs-iphone-18-pro/",
@@ -2988,15 +2998,5 @@
     "creator": "Marcus Mendes",
     "tags": "Services",
     "id": 3948
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Here’s why Apple Upgrade requires AT&T, T-Mobile, or Verizon for iPhone",
-    "link": "https://9to5mac.com/2026/08/03/why-apple-upgrade-requires-att-t-mobile-or-verizon-for-iphone/",
-    "content": "The new Apple Upgrade program has a key piece of fine print: “If you’re leasing an iPhone, you’ll need to connect to AT&T, T-Mobile, or Verizon when you enroll.”\nIn a new post today, John Gruber at Daring Fireball has a likely explanation for this requirement.",
-    "pub_date": "2026-08-03T21:11:34.000Z",
-    "creator": "Chance Miller",
-    "tags": "iOS",
-    "id": 3938
   }
 ]
