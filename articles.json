@@ -1,6 +1,26 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "WhatsApp makes parent-managed accounts easier to set up on iPhone",
+    "link": "https://9to5mac.com/2026/08/07/whatsapp-makes-parent-managed-accounts-easier-to-set-up-on-iphone/",
+    "content": "WhatsApp is bringing its dedicated parental controls section to the iPhone, making the feature easier for parents to find and set up. Here are the details.",
+    "pub_date": "2026-08-08T02:58:27.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 4326
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple adds nearly 45 hearing devices to its Made for iPhone compatibility list",
+    "link": "https://9to5mac.com/2026/08/07/apple-adds-nearly-45-hearing-devices-to-its-made-for-iphone-compatibility-list/",
+    "content": "Apple updated its list of Made for iPhone (MFi) hearing devices today, with 43 models across 22 brands. Here’s what’s new.",
+    "pub_date": "2026-08-08T02:18:32.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 4327
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "CarPlay connection issues? This might explain why",
     "link": "https://9to5mac.com/2026/08/07/carplay-connection-issues/",
     "content": "If your Apple CarPlay connection randomly drops out while driving, the cause might not be your iPhone, cable, or car.",
@@ -2978,25 +2998,5 @@
     "creator": "Bradley C",
     "tags": "General",
     "id": 3924
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "9to5Mac Daily: August 3, 2026 – Apple’s Q3 earnings",
-    "link": "https://9to5mac.com/2026/08/03/daily-august-3-2026/",
-    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.",
-    "pub_date": "2026-08-03T18:47:40.000Z",
-    "creator": "Seth Kurkowski",
-    "tags": "App Store",
-    "id": 3925
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Wikipedia for iOS just added a fun, new app widget for your Home Screen",
-    "link": "https://9to5mac.com/2026/08/03/wikipedia-for-ios-just-added-a-fun-new-app-widget-for-your-home-screen/",
-    "content": "If you’re anything like me, you can relate to spending way too much time going down the rabbit hole of random articles on Wikipedia. Now there’s officially an app, err, widget for that.",
-    "pub_date": "2026-08-03T18:38:47.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS,App Store",
-    "id": 3926
   }
 ]
