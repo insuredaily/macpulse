@@ -1,6 +1,16 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "CarPlay connection issues? This might explain why",
+    "link": "https://9to5mac.com/2026/08/07/carplay-connection-issues/",
+    "content": "If your Apple CarPlay connection randomly drops out while driving, the cause might not be your iPhone, cable, or car.",
+    "pub_date": "2026-08-08T00:51:06.000Z",
+    "creator": "Zac Hall",
+    "tags": "iOS",
+    "id": 4325
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Claude Code now lets sessions talk to each other on macOS",
     "link": "https://9to5mac.com/2026/08/07/claude-code-now-lets-sessions-talk-to-each-other-on-macos/",
     "content": "Users running the latest version of Claude Code on macOS and Linux can now have their sessions message each other to share findings, ask questions, and coordinate work. Here are the details.",
@@ -2988,15 +2998,5 @@
     "creator": "Zac Hall",
     "tags": "iOS,App Store",
     "id": 3926
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "How a data-scrubber stopped my elderly relative from being scammed [Review] ★★★★☆",
-    "link": "https://www.cultofmac.com/reviews/incogni-review",
-    "content": "Successful scammers craft their campaigns using personal information found online. I used Incogni to purge that data for an elderly relative.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-03T18:20:48.000Z",
-    "creator": "Leander Kahney",
-    "tags": "Mac",
-    "id": 3935
   }
 ]
