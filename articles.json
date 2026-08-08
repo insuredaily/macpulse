@@ -1,5 +1,45 @@
 [
   {
+    "source_name": "Cult of Mac",
+    "title": "I replaced 7 Apple apps on my Mac. Here’s what I use instead.",
+    "link": "https://www.cultofmac.com/news/i-replaced-these-7-apple-apps-on-my-mac-heres-what-i-use-instead",
+    "content": "From Mail to Notes, I replaced these built-in Apple apps and tools on my Mac with third-party options — and I haven't looked back.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-08T13:00:35.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac",
+    "id": 4346
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Top Stories: Apple's September Announcements, MacBook Air Shortages, and More",
+    "link": "https://www.macrumors.com/2026/08/08/top-stories-apple-september-announcements/",
+    "content": "Apple's annual September iPhone event is just about a month away, and things are going to be a little bit different this year with Apple moving to a split launch for the iPhone 18 lineup, so make sure you're up to date on everything we may see at the event.\r\n\r\n\r\nThis week also saw word that Apple is experiencing shortages of the MacBook Air due to the ongoing memory crunch, while the software side saw a significant issue with iCloud Private Relay disclosed and progress from Apple on a cross-platform clipboard, so read on below for all of the details!\r\n\r\nTop Stories\n\r\nEverything Apple Is Expected to Announce in September\n\r\nApple is going to announce at least five new devices next month at its annual iPhone-centric event, though it's possible we'll also get devices that were waiting on Siri AI, so check out our overview of what we might see. There's even a late-breaking wild card in the form of camera-equipped AirPods, which were previously thought to be a 2027 launch.\r\n\r\n\r\nApple is gearing up for the big iPhone event, which should take place in the first half of September with Apple currently holding a lottery for its U.S. retail employees to come to Apple Park and help staff the event.\r\n\r\niPhone 18 Pro Models Could Be Up to $300 More Expensive, Says Analyst\n\r\nFollowing recent price increases across the Mac and iPad lineups, most observers are expecting the iPhone lineup to follow suit as part of next month's launch of new models. It remains unknown just how much iPhone prices will increase compared to current models, but analyst Jeff Pu believes the iPhone 18 Pro and Pro Max could see increases of $250–$300 due to component shortages.\r\n\r\n\r\nApple is reportedly still scrambling to secure sufficient memory supplies for the upcoming iPhone models, and the company reportedly has around $1 billion worth of unpackaged processors sitting idle as they wait for their accompanying memory chips. The issues could lead to shortages of the new iPhone models at launch.\r\n\r\nMacBook Air Experiencing 'Major' Shortage Despite $200 Price Increase\n\r\nDespite receiving a price increase in June, the MacBook Air is currently experiencing a \"major\" shortage, according to Bloomberg's Mark Gurman.\r\n\r\n\r\n\"Retail store sources say Apple is struggling to keep the laptop in stock and that shipments of new units are more constrained than they can ever recall,\" he said.\r\n\r\nIn the U.S., the MacBook Air is facing a 2–6 week delivery estimate on Apple's online store, with configurations with higher amounts of RAM delayed the longest.\r\n\r\nBigger Displays Rumored for Next Year's iPhone Models\n\r\nApple is prototyping a second new iPhone display, this one measuring around 6.4 inches, that could be destined for the 20th anniversary iPhone, according to a Chinese leaker.\r\n\r\n\r\nIn a recent post on Weibo, the leaker known as \"Digital Chat Station\" said Apple is currently sampling two new display panels. One measures roughly 6.4 inches and has a chance of being used in the \"‌iPhone 20 Pro‌,\" while the other is the approximately 7-inch panel previously reported for the larger ‌\"iPhone 20 Pro Max‌.\" (Even though next year's models should be in the iPhone 19 family, many expect Apple to jump to iPhone 20 or iPhone XX in recognition of the device's anniversary.)\r\n\r\nApple is planning a significant revamp of its pro iPhone models in 2027, with more of an all-glass design that wraps the display around all four edges of the device, a smaller display cutout, and more.\r\n\r\nApple's iCloud Private Relay is Leaking Users' Real IP Addresses\n\r\nApple's paid Safari protection feature that promises to keep your IP address masked doesn't always work, according to security researchers Tommy Mysk and Talal Haj Bakry. It turns out iCloud Private Relay can expose your real IP to websites that use or pretend to use passkeys.\r\n\r\n\r\n‌iCloud‌ Private Relay is a service included with paid ‌iCloud‌+ plans. It is supposed to hide your IP and DNS information when you browse the web using Safari, but it is not a VPN that masks all traffic from a device. Passkeys use the WebAuthn standard, which stores a private key on your device, not the Safari browser. The request the system sends to the website isn't protected by Private Relay and can leak your IP address.\r\n\r\nApple Plans iPhone-to-Windows Copy and Paste in EU After Microsoft Request\n\r\nApple is working on a new feature that will support cross-device copy and paste between iOS devices and Windows PCs. Microsoft asked for the feature using Apple's EU interoperability request system for developers, which Apple implemented to comply with the Digital Markets Act. Apple began evaluating the request in March, and on June 26, proposed a project plan.\r\n\r\n\r\nApple says introducing cross-device copy and paste is a significant engineering effort, with work expected to be complete by fall 2027. It will be shipped first in a developer beta for testing ahead of a public release. If the feature is added toward the end of fall 2027, it could be early 2028 before the public gets access.\r\n\r\nIt is likely that cross-device copy and paste will be limited to iPhone and Windows users in the European Union, though it is possible Apple could implement it worldwide.\r\n\r\nMacRumors Newsletter\n\r\nEach week, we publish an email newsletter like this highlighting the top Apple stories, making it a great way to get a bite-sized recap of the week hitting all of the major topics we've covered and tying together related stories for a big-picture view.\r\n\r\ntop stories like the above recap delivered to your email inbox each week, subscribe to our newsletter!\nTag: Top Stories\nThis article, \"Top Stories: Apple's September Announcements, MacBook Air Shortages, and More\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-08T13:00:12.000Z",
+    "creator": "MacRumors Staff",
+    "tags": "Mac,iOS,Rumors,App Store,Services",
+    "id": 4337
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple weekend deals: AirPods Pro 3 25% off, MacBook Neo, Apple gift cards, iPhone Air, Apple TV, more",
+    "link": "https://9to5mac.com/2026/08/08/apple-weekend-deals-airpods-pro-3-discounts/",
+    "content": "This weekend’s 9to5Toys Lunch Break has arrived with one of the best deals yet on AirPods Pro 3 at 25% off, $100 off AirPods Pro Max, and some notable offers courtesy of the Apple Certified Refurbished Store. \nWe are also hosting the tail end of this weekend’s 500 price drop on M5 MacBook Pro. \nSome rare Apple gift card discounts you can use towards the upcoming iPhone 18 Pro launch also join Apple Watch Ultra 3 deals, and brand new, unlocked iPhone Air models at $150+ off the list prices. All that and a bunch more await below.",
+    "pub_date": "2026-08-08T12:19:38.000Z",
+    "creator": "Justin Kahn",
+    "tags": "Mac,iOS,Silicon",
+    "id": 4338
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "iPhone 17 faces an early price rise a month before iPhone 18 Pro launch",
+    "link": "https://appleinsider.com/articles/26/08/08/iphone-17-faces-an-early-price-rise-a-month-before-iphone-18-pro-launch?utm_source=rss",
+    "content": "Apple may raise the prices of the iPhone 17 roster on August 10, bringing the smartphones in line with other products affected by the memory pricing crisis.\n\n\nThe iPhone 17 will be around for a while longer, but it could soon get a price rise. \nAfter months of being insulated from the rapidly rising cost of memory plaguing the tech industry, Apple increased the prices of most products in late June. A month and a half later, the iPhone could do the same.\nAccording to a Friday post to Weibo, leaker Fixed Focus Digital says there are rumors of price rises for the iPhone 17. The change is also apparently happening very soon, with it potentially taking place on Monday.\n\n Rumor Score: 🤔 Possible \n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-08T11:54:12.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS,Rumors",
+    "id": 4339
+  },
+  {
     "source_name": "MacRumors",
     "title": "Claude Code Adds Cross-Session Messaging on macOS",
     "link": "https://www.macrumors.com/2026/08/08/claude-code-adds-cross-session-messaging/",
@@ -2958,45 +2998,5 @@
     "creator": "Juli Clover",
     "tags": "iOS,App Store",
     "id": 3937
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "WhatsApp beta for Mac tests flexible update schedules",
-    "link": "https://9to5mac.com/2026/08/03/whatsapp-beta-for-mac-tests-flexible-update-schedules/",
-    "content": "The latest beta build of WhatsApp’s Mac app lets users choose between daily and weekly update schedules, in addition to checking manually for new updates. Here are the details.",
-    "pub_date": "2026-08-03T19:54:27.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Mac,App Store",
-    "id": 3942
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple announces Ted Lasso look-alike contest happening in NYC",
-    "link": "https://9to5mac.com/2026/08/03/apple-announces-ted-lasso-look-alike-contest-happening-in-nyc/",
-    "content": "Ted Lasso returns for season 4 this week (watch here), and Apple has just announced a clever marketing event: a Ted look-alike contest happening at Apple Fifth Avenue in New York City.",
-    "pub_date": "2026-08-03T19:45:14.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "General",
-    "id": 3923
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple faces new antitrust case in Russia over state-backed apps",
-    "link": "https://appleinsider.com/articles/26/08/03/apple-faces-new-antitrust-case-in-russia-over-state-backed-apps?utm_source=rss",
-    "content": "Russia has escalated its long-running dispute with Apple by opening an antitrust case that could cost the iPhone maker nearly $50 million over its refusal to preload state-backed apps.\n\n\nRussia opens antitrust case against Apple over iPhone apps\nAfter years of threatening to do so, Russia has finally begun investigating Apple after it failed to preinstall state-backed apps onto devices in the country. The apps in question are Max, a state-backed messaging service, and RuStore, a domestic app store.\n\"The company did not comply with the FAS warning to preinstall the national messaging app and the national app store on its iOS devices (iPhone, iPad). The FAS opened a case against the company in accordance with the competition law and the already established law-enforcement practice in regard to Apple,\" a statement seen by Interfax said.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-03T19:41:10.000Z",
-    "creator": "Amber Neely <amber@appleinsider.com>",
-    "tags": "iOS,App Store",
-    "id": 3927
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Google Health now shares Fitbit workouts with Apple Health",
-    "link": "https://appleinsider.com/articles/26/08/03/google-health-now-shares-fitbit-workouts-with-apple-health?utm_source=rss",
-    "content": "Apple Health and Google Health can now sync data between them, which means your Fitbit data and other tracked metrics can finally show up in the Health app without needing third-party apps or workarounds.\n\n\nGoogle Health for iOS\nIn May, Google Health launched as a replacement for the Fitbit app, making the fitness brand's hardware operate under the search company's Health arm. Months later, the app has been updated to work a lot better on Apple hardware.\nThe initial versions of Google Health did work with Apple Health, however, it was a one-way street. The integration meant that Google Health could import data from Apple Health, including  recordings from an Apple Watch, but not write to it.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-03T19:21:32.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "iOS,App Store",
-    "id": 3928
   }
 ]
