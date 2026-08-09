@@ -1,5 +1,35 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "HomeKit Weekly: Why the Eve Weather sensor is a must-have for Apple Home automations in 2026",
+    "link": "https://9to5mac.com/2026/08/09/why-the-eve-weather-sensor-is-a-must-have-for-apple-home-automations-in-2026/",
+    "content": "Local weather is one of the most underrated variables to use in your Apple Home automation setup. Over the past few years, I have used sensors for everything from knowing when to drip faucets in freezing weather to adjusting the sprinkler schedule with the Eve Aqua on hot days. Eve Weather has been part of my setup for a while now, and with its Matter upgrade a few years ago, it is incredibly useful in my home.",
+    "pub_date": "2026-08-09T18:26:00.000Z",
+    "creator": "Bradley C",
+    "tags": "General",
+    "id": 4407
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Will price hikes force Apple to stop dragging its feet on certain product upgrades?",
+    "link": "https://9to5mac.com/2026/08/09/apple-price-hikes-better-value-and-more-features/",
+    "content": "Earlier this summer, Apple dramatically increased its prices as a result of the ongoing memory crisis around the globe. Things like iPad Air increased from $599 to $749, M5 MacBook Pro from $1699 to $1999, and Apple TV from $129 to $199. That’s just a few examples, but the point is, these price hikes are steep.\nIt leaves the question – will Apple work on major improvements to make its products more appealing at these new prices?",
+    "pub_date": "2026-08-09T18:26:00.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "Mac,iOS,Silicon",
+    "id": 4408
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Ceramic Apple Watch may return as soon as September",
+    "link": "https://appleinsider.com/articles/26/08/09/ceramic-apple-watch-may-return-as-soon-as-september?utm_source=rss",
+    "content": "While the design isn't changing one bit, one expensive and favorite material might return to Apple Watch after a seven-year absence.\n\n\nApple Watch Series 5, in ceramic\nIt's been nine years since the Apple Watch Series 2 debuted the material. After a back-and-forth for a few years of just white, or white and black ceramic options, Apple dropped the material entirely in 2020.\nThat may change soon. Apple is reportedly working on returning ceramic to Apple Watch as soon as 2026. In Sunday's \"Power On\" newsletter for Bloomberg, Mark Gurman states that Apple is potting the ceramic case option's return for the end of 2026 or in 2027.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-09T17:39:10.000Z",
+    "creator": "Mike Wuerthele <mike@appleinsider.com>",
+    "tags": "iOS",
+    "id": 4399
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Of course, Apple's already planning a third-gen iPhone Fold",
     "link": "https://appleinsider.com/articles/26/08/09/of-course-apples-already-planning-a-third-gen-iphone-fold?utm_source=rss",
@@ -8,16 +38,6 @@
     "creator": "Malcolm Owen <malcolm@appleinsider.com>",
     "tags": "iOS,Rumors",
     "id": 4406
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Ceramic Apple Watch may return as soon as September",
-    "link": "https://appleinsider.com/articles/26/08/09/ceramic-apple-watch-may-return-as-soon-as-september?utm_source=rss",
-    "content": "While the design isn't changing one bit, one expensive and favorite material might return to Apple Watch after a seven-year absence.\n\n\nApple Watch Series 5, in ceramic\nIt's been nine years since the Apple Watch Series 2 debuted the material. After a back-and-forth for a few years of just white, or white and black ceramic options, Apple dropped the material entirely in 2020.\nThat may change soon. Apple is reportedly working on returning ceramic to Apple Watch as soon as 2026.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-09T16:39:29.000Z",
-    "creator": "Mike Wuerthele <mike@appleinsider.com>",
-    "tags": "iOS",
-    "id": 4399
   },
   {
     "source_name": "Cult of Mac",
@@ -2978,25 +2998,5 @@
     "creator": "Hartley Charlton",
     "tags": "Services",
     "id": 3990
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Apple is finally making copy-paste work between iPhones and PCs",
-    "link": "https://www.macworld.com/article/3205820/apple-is-finally-making-copy-paste-work-between-iphones-and-pcs.html",
-    "content": "Macworld\n\n\nUniversal Clipboard is one of the most underrated features in the Apple ecosystem. Copy a bit of text or a URL on your iPhone, and you can paste it with a nearby Mac, eliminating the need to jump through hoops just to get text from one device to another.\nNow that functionality is coming to PCs too. As spotted by Macrumors, Microsoft has taken advantage of Apple’s “Interoperability Requests” system in the EU to lobby for “a basic level of cross-device productivity that users already expect when working across devices.” Microsoft explains that it’s a highly requested feature by its users and requires “explicit, repeated user action and cannot function as a continuous, system-level experience comparable to what is available between iOS and macOS.”\nThe feature was requested in March and approved on June 26. However, Apple explains that replicating Universal Clipboard across Windows “will ultimately not be feasible or appropriate to provide an interoperability solution, including if providing effective interoperability would compromise the integrity of the operating system.” Therefore, it plans to “introduce a new solution that will follow similar patterns to the Accessory Notifications and Accessory Live Activities frameworks that were introduced on iOS26.5.”\nIt will enable you to create an extension to share and import pasteboard items with paired accessories. The system will notify your extension when items are copied into the clipboard; then your extension can use the Accessory Transport Extension framework to share the contents with your accessory as necessary using available transports.\nTo adopt this solution, you will need to adopt AccessorySetupKit in order for the user to consent to the necessary permissions allowing the pasteboard to be shared with your accessory.\nThis solution will require the user to perform a one-time consent to sharing the pasteboard with each paired accessory that will receive this functionality.\nApple says the feature won’t be available until fall 2027, presumably as part of iOS 28. It’s not clear whether it has any plans to bring the feature to the rest of the world, but we’ll be keeping our fingers crossed.",
-    "pub_date": "2026-08-04T12:20:13.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS",
-    "id": 4008
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "AI slop security reports are clogging up Apple's bug bounty program",
-    "link": "https://appleinsider.com/articles/26/08/04/ai-slop-security-reports-are-clogging-up-apples-bug-bounty-program?utm_source=rss",
-    "content": "AI is flooding Apple's bug bounty system with flawed iOS and macOS security reports. It's so much of a problem that Apple has limited the number of bugs that can be reported to it.\n\n\nAI is helping hackers and researchers break Apple security. The flood is also making it harder to report issues. \nThe rise of artificial intelligence is also considered a security problem, with AI models able to determine issues in software that humans have a very low chance of uncovering. However, it also has the byproduct of creating more work for people in the field.\nIt's not just from an increase in valid concerns, but also reports that are completely made up and treated as genuine.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-04T12:07:38.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "Mac,iOS",
-    "id": 4002
   }
 ]
