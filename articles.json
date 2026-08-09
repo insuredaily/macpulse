@@ -1,6 +1,16 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "New leak may reveal the iPhone Ultra’s two launch colors",
+    "link": "https://9to5mac.com/2026/08/08/iphone-ultra-colors-leak-rumor/",
+    "content": "Apple is set to announce the first-ever foldable iPhone next month. A new rumor today suggests that the iPhone Ultra might be available in two colors: silver and dark blue.",
+    "pub_date": "2026-08-09T00:41:55.000Z",
+    "creator": "Chance Miller",
+    "tags": "iOS,Rumors",
+    "id": 4363
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "iOS 27: The easiest beta to forget about",
     "link": "https://9to5mac.com/2026/08/08/ios-27-the-easiest-beta-to-forget-about/",
     "content": "We’ve had iOS 27 in our hands for about two months now. Of course, it’s a beta – and the public release won’t be hitting for another 4-6 weeks. That said, despite the fact that I’ve been running a beta on my phone for the past two months, I can’t say I’ve really thought much about it. It just… works.",
@@ -2988,15 +2998,5 @@
     "creator": "Marcus Mendes",
     "tags": "General",
     "id": 3946
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Judge greenlights multi-billion-dollar class action over Apple Photos’ face recognition",
-    "link": "https://9to5mac.com/2026/08/03/judge-greenlights-multi-billion-dollar-class-action-over-apple-photos-face-recognition/",
-    "content": "Apple will face a class-action lawsuit alleging it violated Illinois’ Biometric Information Privacy Act (BIPA), in a case that could cost the company more than $30 billion. Here are the details.",
-    "pub_date": "2026-08-03T22:24:54.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 3947
   }
 ]
