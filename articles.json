@@ -1,5 +1,15 @@
 [
   {
+    "source_name": "Cult of Mac",
+    "title": "Brutal price hikes could hit  iPhone 17 next week",
+    "link": "https://www.cultofmac.com/news/brutal-price-hikes-could-hit-iphone-17-next-week",
+    "content": "Apple could raise iPhone 17 prices as soon as next week as soaring memory costs continue to squeeze the company.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-09T05:07:18.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac,iOS",
+    "id": 4370
+  },
+  {
     "source_name": "9to5Mac",
     "title": "New leak may reveal the iPhone Ultra’s two launch colors",
     "link": "https://9to5mac.com/2026/08/08/iphone-ultra-colors-leak-rumor/",
@@ -2988,15 +2998,5 @@
     "creator": "Juli Clover",
     "tags": "Mac,iOS,App Store",
     "id": 3949
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple caps security bug reports amid surge in AI-generated findings",
-    "link": "https://9to5mac.com/2026/08/03/apple-caps-security-bug-reports-amid-surge-in-ai-generated-findings/",
-    "content": "As it grapples with a surge in “AI slop” security reports, Apple has recently made changes to its bug bounty program. Here are the details.",
-    "pub_date": "2026-08-03T23:08:46.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 3946
   }
 ]
