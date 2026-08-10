@@ -1,5 +1,75 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "iPhone 18 Pro expected to be 40% more expensive to make than iPhone 17 Pro",
+    "link": "https://appleinsider.com/articles/26/08/10/iphone-18-pro-expected-to-be-40-more-expensive-to-make-than-iphone-17-pro?utm_source=rss",
+    "content": "Here come the price hikes: the continuing memory crisis will make the iPhone 18 Pro even more expensive to manufacture, with it expected to cost Apple almost 40% more to make than the iPhone 17 Pro.\n\n\nA mock-up of a dark cherry iPhone 18 Pro, one of the rumored colorways. \nLike almost all other tech producers, Apple is subject to the rising costs and limited supply of memory. With the iPhone 18 Pro release on the horizon and expected to cost consumers more than ever to acquire, it will also be very expensive for Apple to make in the first place.\nIn analysis from TrendForce into the bill of materials (BOM) of the iPhone 18 Pro, it is believed that the cost of producing one unit will be about 38% higher year-over-year, compared to the iPhone 17 Pro.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-10T11:42:55.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS",
+    "id": 4428
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "OLED iMac Panel Could Include Extra Layer to Fight Screen Burn-In",
+    "link": "https://www.macrumors.com/2026/08/10/oled-imac-panel-extra-layer-screen/",
+    "content": "LG Display is developing a five-layer OLED panel structure that could end up in a future iMac, with an extra layer added to prevent screen burn-in and increase brightness, reports The Elec.\r\n\r\n\r\nLG Display already builds four-stack OLED panels for high-resolution monitors, and arranges the light-emitting layers in a blue-green-blue-red pattern. The five-stack version reportedly under development adds a third blue layer, creating a blue-green-blue-red-blue arrangement.\r\n\r\nStacking on another emitting layer spreads the electrical load, which is important at high pixel densities, where each pixel gets smaller, as does the portion of it that actually emits light. Pushing more current through a smaller emitter to keep brightness up is also said to shorten panel life while making image retention more likely.\r\n\r\nsent requests for information to Samsung Display and LG Display about iMac OLED panel development. The specifications discussed were a 24-inch panel with 600 nits of brightness and 218 pixels per inch. The current 24-inch iMac's LCD manages 500 nits at the same density.\r\n\r\nThe Elec suggests it is a gauge for high-density RGB stripe OLED and whether the company can manufacture it in volume.\r\n\r\nThe only problem with using five stacks, however, is cost. More emitting layers mean more organic material and a reportedly fiddlier deposition process. At the same time, LG Display has to reach Apple's brightness and lifespan requirements without ruining its yields in the process.\r\n\r\n2029 at the earliest. Meanwhile, Apple is expected to refresh its current 24-inch LCD-based iMac with a new processor later this year.\nRelated Roundup: iMac\nTags: OLED, The Elec\nBuyer's Guide: iMac (Don't Buy)\nRelated Forum: iMac\nThis article, \"OLED iMac Panel Could Include Extra Layer to Fight Screen Burn-In\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-10T11:35:00.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "Mac,Silicon",
+    "id": 4425
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "The iPhone 18 Pro will cost Apple 38% more in parts – but there’s some good news",
+    "link": "https://9to5mac.com/2026/08/10/the-iphone-18-pro-will-cost-apple-38-more-in-parts-but-theres-some-good-news/",
+    "content": "A new TrendForce analysis estimates that Apple will pay 38% more for iPhone 18 Pro components than it did for its predecessor. Unsurprisingly, the biggest hike is in the cost of memory, with Apple said to be paying around three times more this year.\nHowever, the firm’s analysis supports my own view that this year’s increase in price will not be as high as some have suggested …",
+    "pub_date": "2026-08-10T11:16:51.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "iOS,Services",
+    "id": 4427
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Guide to Apple Intelligence using Qwen briefly appears for Apple users in China",
+    "link": "https://appleinsider.com/articles/26/08/10/guide-to-apple-intelligence-using-qwen-briefly-appears-for-apple-users-in-china?utm_source=rss",
+    "content": "Apple Support in China has published detailed instructions on how local Mac users can utilize Alibaba's Qwen AI with Siri, but the guide was quickly removed.\n\n\nMac users in mainland China still don't have Apple Intelligence, but they briefly got an Apple guide to it.\nBack in March 2026, Apple Intelligence was finally launched and available in China, except it wasn't. Apple had released it seemingly accidentally, and certainly without approval from the Chinese government, so it was rapidly pulled.\nNow Apple has done a similar thing with a support document. As first noted by Reuters, Apple Support in China published a guide for Mac users on connecting Qwen to get Writing Tools and Siri working with it. There was no equivalent guide for the iPhone or iPad.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-10T11:13:59.000Z",
+    "creator": "William Gallagher <wg@williamgallagher.com>",
+    "tags": "Mac,iOS",
+    "id": 4429
+  },
+  {
+    "source_name": "Macworld",
+    "title": "A sweeping Apple Watch ‘rethink’ could bring new designs and ‘premium models’",
+    "link": "https://www.macworld.com/article/3208976/a-sweeping-apple-watch-rethink-could-bring-new-designs-and-premium-models.html",
+    "content": "Macworld\n\n\nIn just a few weeks, Apple will unveil its latest family of smartwatches, including the Series 12 and Ultra 4. According to the rumors, the new watches will be relatively minor updates with a new faster chip and a few internal upgrades. But once again, the 2026 Apple Watches will largely be the same as the models they replace.\nBut according to Mark Gurman’s latest Power On newsletter, Apple’s design team “has been exploring a broader rethink of its smartwatches over the past year or so and is evaluating several different directions.” Among the new models currently being tested are:\nA “fan favorite” ceramic case option, which hasn’t been offered since 2016.\nA screenless Apple Watch band.\nNew screen sizes and shapes, including round screens.\nPremium models beyond the Ultra and Hermès options.\nMore affordable options besides the current SE model.\nNone of these models are expected this year, though Gurman leaves the door open to a possible appearance of a ceramic Series 12. He notes that Apple “hasn’t settled on a single direction yet” and some of these models are “unlikely to hit the market.” However, he reports that the “revamp could be as significant as the iPhone’s transformation from a slab design into a foldable device.”\nIn particular, he points out that Eddy Cue, who is in charge of the Health app overhaul, is “an avid fan of Whoop and Oura Rings,” and wants to adapt to “shifting consumer tastes and the growth of AI-powered health and wellness.”\nApple has been rumored to be creating several AI-centered wearable devices, including a pin and a pendant, and AirPods with cameras for Visual Intelligence. But this report makes it sound like that same strategy could apple to future wrist-worn wearables as well.\nYou can expect to see a new Apple Watch in mid-September, but based on this report, it might be worth skipping it and waiting to see what arrives next year.",
+    "pub_date": "2026-08-10T10:45:00.000Z",
+    "creator": "Macworld",
+    "tags": "iOS,App Store",
+    "id": 4434
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Is Apple’s affordability balancing act about to come crashing down?",
+    "link": "https://www.macworld.com/article/3201060/apples-affordability-balancing-act-is-about-to-come-crashing-down.html",
+    "content": "Macworld\n\n\nApple, despite its reputation, has never been a luxury company. Macs and iPhones may cost more on average than their competitor’s counterparts, but when you compare apples to Apple’s, a MacBook Pro or iPhone 17 Pro is worth spending a few dollars more than a comparable model from HP or Samsung.\nSince its very first computer, Apple’s mission has been clear: build the best device in its class at the best possible price. That’s not necessarily the cheapest product (and quite honestly, often isn’t), but the one with the best mix of features, performance, and build quality for the price. Buying a new iPhone or MacBook shouldn’t be a difficult decision—if you’re willing to pay Apple’s prices, you’re getting a device that looks nicer, performs better, and lasts longer. It’s a balancing act that relies on all aspects of Apple’s development process to be in sync.\nBut over the past couple of months, that has begun to shift. In late June, the company was forced to raise prices on all Macs and iPads due to the worsening RAM crisis, including the MacBook Neo, a laptop that epitomized Apple’s pursuit of value so perfectly, it even exceeded Apple’s own lofty expectations. What was seen as the sign of a new era for Apple’s affordability now costs 20 percent more than it did when it launched in March and suddenly isn’t an impulse buy.\nNow it looks like that balancing act will get a little more precarious when Apple launches its new iPhones next month. Not only is Apple expected to raise prices on iPhones, but the highly anticipated folding iPhone Ultra will likely start at more than $2,000. And suddenly, Apple’s carefully crafted balancing act could come crashing down.\nTipping the scales\nIn a way, this all started with the iPod. When it launched in 2001, it cost $399 for 5GB of storage, the same price industry-leading Creative charged for its Nomad Jukebox with four times the storage. Naturally, the iPod was seen as overpriced, outmatched, and downright laughable–until people got to use one and discovered that Apple got everything right. The form factor, transfer speeds, sound quality, and navigation were all superior to the Nomad Jukebox, and it didn’t take long for the iPod to become the most popular mp3 player.\nAnd then Apple did something somewhat uncharacteristic–it expanded the line with cheaper models. Within four years, there was the $249 mini, $149 nano, and $99 Shuffle, basically an iPod for every budget. It was a strategy that paid off, turning the iPod into a cultural sensation with some 500 million sold.\nWhen Apple followed up the iPod with the iPhone in 2007, there was a similar sticker shock. It started at $499 with 4GB of storage or $599 for 8GB of storage with a 2-year Cingular contract, about double what other so-called smartphones cost. But the iPhone was a repeat of the iPod: It quickly proved its worth, cheaper models followed, and the industry shifted. Apple repeated the formula with the iPhone X, pushing the starting price to $999 for the first time, then keeping the price steady and offering cheaper options alongside it.\nBut nine years later, Apple is at a crossroads. While the RAM crisis has spared the iPhone thus far, there are numerous signs that Apple is set to launch its most expensive iPhone Pro line ever, with prices set to rise $100-$200 across the board, and even more for higher-end storage options. To make matters worse, Apple is reportedly delaying the base iPhone 18 until the spring. That means there won’t be a new iPhone this holiday season that costs less than $1,200–and we don’t know yet if Apple will increase prices for the 17 and 17e.\nIt could be all too much for Apple’s balancing act. The iPhone 18 Pro is essentially an S-year model with a higher price tag, while the iPhone Ultra will be a first-gen product that merely looks like an overpriced Samsung Galaxy Z Fold8 clone.\nEven with higher trade-in values, the Apple Upgrade program, and whatever exclusive Siri AI features are tied to the new phones, Apple is in real danger of selling fewer new iPhones than ever before. Apple fans have grown accustomed to a certain level of stability with iPhone prices, and after Apple already raised prices on the MacBook Neo, nothing is off the table.\nJust a couple of months ago, 2026 was shaping up to be the year when Apple’s slow march up the mountain of affordability finally reached its zenith. Now it looks like it all might come crashing down.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nWelcome to our weekly Apple Breakfast column, which includes all the Apple news you missed last week in a handy bite-sized roundup. We call it Apple Breakfast because we think it goes great with a Monday morning cup of coffee or tea, but it’s cool if you want to give it a read during lunch or dinner hours too.\nTrending: Top stories\nA new MacBook Air might be really hard to find in a few weeks\n10 Accessibility features every iPhone user should turn on\nApple Store lottery gives employees a chance to work the iPhone event\nI trained Siri AI to answer my messages. It actually worked\nYour old Mac and iPhone are suddenly worth a lot more\nPodcast of the week\n\n\n\n\n\n\nYou can catch every episode of the Macworld Podcast on YouTube, Spotify, Soundcloud, the Podcasts app, or our own site.\nReviews corner\nHyperDrive Next Thunderbolt 5 Dock review: A gigantic SSD is hampered by limited expansion\nIniu P63 Cougar 25K (100W) Power Bank review: Smallest 25K power bank\nNimble SharePower review: A power bank that splits in two to share\nTerraMaster F4-425 Pro NAS review: Very fast with backup, surveillance, and media streaming features galore\nThe rumor mill\nAirPods with built-in cameras may be coming this fall\niPhone price hikes are almost a certainty\nIf you want an iPhone 18 Pro, you’ll probably need to act fast\nThe M6 MacBook Pro is expected to be a minor refresh—here’s everything we know\nVideo of the week\nDo you always hit the audio button when sending a text? This iOS 27 feature will save you. Enjoy all our short-form videos on TikTok or Instagram.\n\n \n @macworld.com \niOS 27 finally lets you hide the Audio button in Messages—here’s how #ios27beta #techtips #apple\n ♬ original sound – Macworld – Macworld \n  \n\n\n\n\nSoftware updates, bugs, and problems\niCloud Private Relay might leak your IP address, even when you use Safari\nApple fixes Screen Sharing vulnerability with macOS 26.6.1 update\nWatch as Apple’s new AI photo tools are pushed to the limit\nAnd with that, we’re done for this week’s Apple Breakfast. If you’d like to get regular roundups, sign up for our newsletters, including our new email from The Macalope–an irreverent, humorous take on the latest news and rumors from a half-man, half-mythical Mac beast. You can also follow us on Facebook, Threads, Bluesky, or X for discussion of breaking Apple news stories. See you next Monday, and stay Appley.",
+    "pub_date": "2026-08-10T10:30:00.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,iOS,Rumors,App Store,Services",
+    "id": 4435
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iPhone 18 Pro Costing Apple 38% More to Make, TrendForce Estimates",
+    "link": "https://www.macrumors.com/2026/08/10/iphone-18-pro-build-cost-rise/",
+    "content": "Apple's iPhone 18 Pro will cost nearly 40 percent more to build than its predecessor because of soaring memory prices, according to new data analyzed TrendForce.\r\n\r\n\r\nThe research firm's latest smartphone analysis puts the bill of materials for the 256GB iPhone 18 Pro roughly 38 percent above the equivalent iPhone 17 Pro, and says higher retail prices will be unavoidable as a result.\r\n\r\nMemory is said to have accounted for about 10 percent of the 256GB iPhone Pro's total component cost a year ago. TrendForce estimates that figure at roughly 34 percent in the third quarter of 2026, rising past 40 percent in the first half of 2027. Panel and application processor costs, once the two biggest line items, drop to single-digit percentages by that point, given memory has taken up so much of the overall cost.\r\n\r\nTrendForce expects Apple to take the same approach it used with recent MacBook launches by giving up part of its gross margin to keep the increase palatable with customers and protect shipment volumes. It also suggests Apple could raise prices on older iPhone models at the same time as the new lineup arrives, thereby spreading the cost recovery across the range.\r\n\r\n\r\nTrendForce notes that memory prices have climbed five- to sevenfold since the start of 2025, and expects Android vendors in the entry-level and mid-range segments to raise prices more steeply than Apple. That, or they could drop product lines outright.\r\n\r\nraised prices across the Mac, iPad, Apple TV, HomePod, and Vision Pro lines in June over concerns about the same memory crunch. The iPhone lineup escaped that round, but it looks increasingly unlikely that it will escape the next one.\r\n\r\nRelated Roundup: iPhone 18 Pro\nTag: TrendForce\nThis article, \"iPhone 18 Pro Costing Apple 38% More to Make, TrendForce Estimates\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-10T10:29:52.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "Mac,iOS,Vision,Silicon",
+    "id": 4426
+  },
+  {
     "source_name": "MacRumors",
     "title": "Apple Dropped Plan to Ship Leased iPhones Already Set Up for Users",
     "link": "https://www.macrumors.com/2026/08/10/apple-scrapped-plan-ship-iphones-set-up-for-you/",
@@ -2928,75 +2998,5 @@
     "creator": "Hartley Charlton",
     "tags": "iOS",
     "id": 3985
-  },
-  {
-    "source_name": "Macworld",
-    "title": "The M5 MacBook Air is selling out. Grab one now for $100 off before it’s gone",
-    "link": "https://www.macworld.com/article/3205951/the-m5-macbook-air-is-selling-out-grab-one-now-for-100-off-before-its-gone.html",
-    "content": "Macworld\n\n\nSave $100 on the M5 MacBook Air\nView Deal\nBuying a MacBook these days isn’t as straightforward as it was just a few weeks ago. For one, everything is more expensive; for another, some configurations are no longer available; and that model you wanted yesterday might not be available today.\nSo when you see a sale, you should jump on it. Like today: Amazon is selling the 13-inch MacBook Air for $1,199, a savings of $100. Just yesterday, we reported that Apple was scrambling to keep this model in stock due to memory constraints, so we recommend grabbing one if you’re in the market.\nWe’ll admit, this is the same MacBook that sold for $1,099 just a few weeks ago. But aside from the price increase, you’re getting a fantastic machine with a gorgeous 13.6-inch Liquid Retina display, an incredibly thin and light design, Apple’s excellent Magic Keyboard, all-day battery life, silent fan-less operation, and a good selection of expansion ports, including fast-charging with MagSafe, a headphone jack, and two Thunderbolt ports. And with an M5 chip and 16GB of RAM, it’s ready for the new Siri AI this fall and good for years of macOS updates.\nIn our 4.5-star review, we praised the Air’s “world-leading single-thread performance ” and “drastically improved storage performance.” And even at a little more than before, you’re going to love it too.",
-    "pub_date": "2026-08-04T14:38:55.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,Silicon",
-    "id": 4007
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Today in Apple history: Steve Jobs acknowledges MobileMe failure",
-    "link": "https://www.cultofmac.com/apple-history/steve-jobs-mobileme-email",
-    "content": "On August 4, 2008, Apple CEO Steve Jobs sent an email to staffers addressing the massive mistakes made with the disastrous MobileMe launch.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-04T14:30:28.000Z",
-    "creator": "Luke Dormehl",
-    "tags": "Mac",
-    "id": 4010
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iOS 27 gives FaceTime huge upgrade with this powerful new feature",
-    "link": "https://9to5mac.com/2026/08/04/ios-27-gives-facetime-huge-upgrade-with-this-powerful-new-feature/",
-    "content": "iOS 27 brings exciting new features to Messages, Apple Notes, Wallet, and more. But FaceTime is getting one of the biggest upgrades thanks to a powerful new Dual Capture feature for iPhone 17 and newer.",
-    "pub_date": "2026-08-04T14:30:17.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 3992
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Card Now Fast-Tracks Booking.com Perks With Just One Trip",
-    "link": "https://www.macrumors.com/2026/08/04/apple-card-booking-com-loyalty/",
-    "content": "Apple Card users now have a new benefit available to them at Booking.com, with users automatically being upgraded to Genius Level 2 after completing just one eligible stay or car rental rather than the usual standard of five bookings within a two-year period.\r\n\r\n\r\nGenius is Booking.com's free loyalty program, with Level 2 unlocking a number of benefits including discounts of 10–15% on select stays and car rentals as well as free breakfast and/or room upgrades at select stays.\r\n\r\nApple Pay, and users also receiving 2% in Booking.com Travel Credits.\nTags: Apple Card, Booking.com\nThis article, \"Apple Card Now Fast-Tracks Booking.com Perks With Just One Trip\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-04T14:13:40.000Z",
-    "creator": "Eric Slivka",
-    "tags": "Services",
-    "id": 3986
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "WhatsApp Adds '@ all' Mentions and Poll Upgrades to Group Chats",
-    "link": "https://www.macrumors.com/2026/08/04/whatsapp-adds-all-mentions-and-poll-upgrades/",
-    "content": "WhatsApp today announced a series of updates to group chats, including an \"@all\" mention feature, three new poll upgrades, and a faster way to spin off new groups from existing ones.\r\n\r\n\r\nThe most notable addition is @all, which lets a group member alert everyone in a chat at once instead of tagging people individually. WhatsApp says the feature is meant for important, time-sensitive messages, such as school or office closures, event deadlines, or last-minute changes to plans. In groups with more than 32 members, only admins can use @all. The mention will surface even in muted chats, though WhatsApp says users can mute @all specifically in their notification settings if they want to opt out.\r\n\r\nPolls are also gaining three improvements. Poll creators can now set an end time that automatically locks voting once it passes, hide voter names so participants can respond without others seeing their choices, and edit a poll's question for up to 15 minutes after posting it to fix typos or add clarity.\r\n\r\nWhatsApp is also simplifying group creation. A new \"Create a similar group\" option lets users start a new group chat populated with members from an existing one in a single tap, rather than adding participants one by one. WhatsApp suggests the feature for splitting off side conversations, such as planning a surprise party away from the group being surprised, or diving into a specific topic without cluttering the main chat.\r\n\r\nintroduced earlier this year, when WhatsApp added group message history, member tags, and event reminders. WhatsApp has more than 100 million users in the U.S. and over 3 billion globally.\nTag: WhatsApp\nThis article, \"WhatsApp Adds '@ all' Mentions and Poll Upgrades to Group Chats\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-04T14:00:22.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "General",
-    "id": 3987
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "WhatsApp launches three new features to upgrade group chats",
-    "link": "https://9to5mac.com/2026/08/04/whatsapp-launches-new-features-to-upgrade-group-chats/",
-    "content": "WhatsApp has three upgrades for group chats launching today, including improvements to polls, a way to create new chats from existing groups, and more.",
-    "pub_date": "2026-08-04T14:00:00.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "General",
-    "id": 3993
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple hits a record $10B in annual retail revenue in India",
-    "link": "https://appleinsider.com/articles/26/08/04/apple-hits-a-record-10b-in-annual-retail-revenue-in-india?utm_source=rss",
-    "content": "Apple has set new annual sales in India, with its second main iPhone manufacturing base generating a record $10 billion in sales despite currency and tax challenges.\n\n\nApple Borivali in Mumbai's new Sky City Mall — image credit: Apple\nIndia serves as Apple's second base of iPhone production alongside China, as part of the wider supply chain. While Apple has been building up its production capacity in India, it's also been increasing sales there, too.\nAccording to a Tuesday Bloomberg report, Apple has exceeded $10 billion in annual sales in India over the last fiscal year. It eclipses the $9 billion annual revenue that was reported in September 2025.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-04T13:40:43.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "iOS",
-    "id": 3999
   }
 ]
