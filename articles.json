@@ -1,13 +1,83 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Feature Request: Do this to end the guessing game with iPhone app settings",
+    "link": "https://9to5mac.com/2026/08/10/feature-request-do-this-to-end-the-guessing-game-with-iphone-app-settings/",
+    "content": "One of the most annoying elements of the iPhone user interface is the guessing game we have to play when changing settings for an app.\nSome of the time we open the app itself and go to its built-in settings menu. Other times we have to exit the app and open the completely separate Apple Settings app, which is a clunky experience to say the least (though a free shortcut helps) …",
+    "pub_date": "2026-08-10T13:01:06.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "iOS,App Store",
+    "id": 4438
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "The biggest threat to the iPhone Pro Max isn’t Samsung — it’s Apple’s folding iPhone",
+    "link": "https://www.cultofmac.com/news/folding-iphone-vs-iphone-18-pro-max",
+    "content": "When the iPhone Ultra launches alongside the iPhone 18 Pro Max this fall, Apple will face an awkward marketing dilemma.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-10T13:00:17.000Z",
+    "creator": "Anurag Chawake",
+    "tags": "Mac,iOS",
+    "id": 4446
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Jefferies cuts AAPL target to $263.66, downgrades to Underperform",
+    "link": "https://appleinsider.com/articles/26/08/10/jefferies-cuts-aapl-target-to-26366-downgrades-to-underperform?utm_source=rss",
+    "content": "Analyst firm Jefferies has downgraded Apple stock to underperform alongside a price cut, because the firm believes Apple has cancelled its all-glass design for the still-unannounced iPhone 20.\n\n\niPhone 20 is probably going to look more like a third-generation iPhone Air\nApple has a lot going on to be concerned about. RAM pricing will just get worse, SSD flash cells are a year away from relief, and so forth. One firm thinks that they have a bigger problem than all that.\nAnalyst Edison Lee of Jefferies is concerned that the iPhone 20 will not be an all-glass device.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-10T12:48:48.000Z",
+    "creator": "Mike Wuerthele <mike@appleinsider.com>",
+    "tags": "iOS,Rumors",
+    "id": 4440
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "iMacs with OLED screens now predicted for 2029",
+    "link": "https://appleinsider.com/articles/26/08/10/imacs-with-oled-screens-now-predicted-for-2029?utm_source=rss",
+    "content": "LG Display is reportedly developing 5-stack OLED panels rumored to be headed to the 24-inch iMac, which give ever better brightness and image quality.\n\n\nA 24-inch iMac already has a great display, but a 5-stack OLED one would be better and last longer.\nApple is clearly planning to bring OLED displays to all of its devices, potentially with the iPhone 20 Pro getting 2-stack or what the company calls Tandem OLED panels. Back in 2022, Apple was so keen on 2-stack for the iPad that it insisted an initially reluctant Samsung develop the design.\nSamsung's reluctance was because at the time, only Apple wanted the costly technology. Apple's insistence was because 2-stack OLED has a longer life and produces a better image quality than single OLED panels.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-10T12:41:01.000Z",
+    "creator": "William Gallagher <wg@williamgallagher.com>",
+    "tags": "Mac,iOS",
+    "id": 4441
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Briefly Posts China Guide for Connecting Siri to Qwen AI",
+    "link": "https://www.macrumors.com/2026/08/10/apple-posts-guide-for-connecting-siri-to-qwen-ai/",
+    "content": "Apple briefly published a support guide in China explaining how Mac users can connect Alibaba's Qwen AI to Siri and Writing Tools, before pulling it entirely less than a day later.\r\n\r\n\r\nReuters first spotted the Chinese-language guide on Apple's support site on August 8, which explained how eligible Mac users in mainland China could connect Qwen, Alibaba's family of generative AI models, to ‌Siri‌ and Writing Tools. According to the document, the extension required macOS 26.6 or later, needed users to sign into their own Qwen account, and specified that Alibaba was barred from using submitted materials to train or improve its models.\r\n\r\niPad.\r\n\r\nChatGPT extension available elsewhere, which similarly lets ‌Siri‌ hand off complex requests and gives Writing Tools a \"Compose\" option, all on an opt-in basis.\r\n\r\nReadHub reported that the guide had disappeared from Apple's site, and TechNode reports that Apple's customer service told Chinese media it had received no notification of a new feature launch. Separately, tech analyst Liu Dingding told the Global Times that the takedown could reflect pending technical adjustments still tied to the regulatory process, rather than a full reversal.\r\n\r\nback in March, when Apple Intelligence itself briefly went live for some Chinese users before being pulled offline without regulatory approval. China maintains strict rules around releasing AI features, and in practice requires companies like Apple to partner with local providers. Apple originally lined up Baidu as its primary China AI partner, but by February 2025, reports indicated Alibaba had taken over as the lead partner after Baidu's models fell short of Apple's requirements, with Baidu shifted to a supporting role.\r\n\r\ncleared Apple Intelligence for launch in the country in July, registering Apple's on-device AI service with the Cyberspace Administration of China. That approval covered the iPhone only, and Apple did not say whether or when the ‌iPad‌ and Mac would follow, making this week's brief Mac-specific guide the clearest signal yet on the Mac timeline specifically.\r\n\r\nTags: Alibaba, Apple Intelligence, China, Siri\nThis article, \"Apple Briefly Posts China Guide for Connecting Siri to Qwen AI\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-10T12:21:13.000Z",
+    "creator": "Hartley Charlton",
+    "tags": "Mac,iOS,Rumors",
+    "id": 4436
+  },
+  {
     "source_name": "AppleInsider",
     "title": "iPhone 18 Pro expected to be 40% more expensive to make than iPhone 17 Pro",
     "link": "https://appleinsider.com/articles/26/08/10/iphone-18-pro-expected-to-be-40-more-expensive-to-make-than-iphone-17-pro?utm_source=rss",
     "content": "Here come the price hikes: the continuing memory crisis will make the iPhone 18 Pro even more expensive to manufacture, with it expected to cost Apple almost 40% more to make than the iPhone 17 Pro.\n\n\nA mock-up of a dark cherry iPhone 18 Pro, one of the rumored colorways. \nLike almost all other tech producers, Apple is subject to the rising costs and limited supply of memory. With the iPhone 18 Pro release on the horizon and expected to cost consumers more than ever to acquire, it will also be very expensive for Apple to make in the first place.\nIn analysis from TrendForce into the bill of materials (BOM) of the iPhone 18 Pro, it is believed that the cost of producing one unit will be about 38% higher year-over-year, compared to the iPhone 17 Pro.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-10T11:42:55.000Z",
+    "pub_date": "2026-08-10T12:11:30.000Z",
     "creator": "Malcolm Owen <malcolm@appleinsider.com>",
     "tags": "iOS",
     "id": 4428
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "A round Apple Watch is possible, but an Apple Ring more likely",
+    "link": "https://9to5mac.com/2026/08/10/a-round-apple-watch-is-possible-but-an-apple-ring-more-likely/",
+    "content": "A Bloomberg report yesterday suggested that we could see a pretty dramatic shake-up in a future Apple Watch lineup.\nIn particular, it suggested that the company was exploring the possibility of one or more models with a round rather than square form factor …",
+    "pub_date": "2026-08-10T12:09:31.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "iOS",
+    "id": 4439
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Testing Chinese Memory Chips in iPhones and MacBooks",
+    "link": "https://www.macrumors.com/2026/08/10/apple-testing-chinese-memory-iphones-macs/",
+    "content": "Apple has been testing memory chips from China's ChangXin Memory Technologies (CXMT) across product lines including iPhones and MacBooks, according to a report today from The Wall Street Journal ($).\r\n\r\n\r\nLaptop makers HP and Acer have already started using memory chips from CXMT in devices sold outside the U.S. Meanwhile, Apple has held early talks with CXMT about supplying components for devices sold in China, and the company is hoping for a sign-off from the White House before going further. The Financial Times reported last month that Apple had begun qualifying CXMT's DRAM, but today's report is the first to place that testing inside specific product categories.\r\n\r\nWSJ that Apple can buy off-the-shelf CXMT components and haggle over price, but it can't commission chips designed to its own requirements.\r\n\r\nApple usually has memory specially configured to work optimally with its own silicon, so using standard parts could mean reworking sections of its hardware, or potentially settling for less-than-ideal performance.\r\n\r\nrule out using Chinese memory entirely. A response to the request is due August 21.\r\n\r\nThere are supply issues to contend with as well. CXMT has reportedly maxed out production for the year and has little room for new international customers, having already prioritized domestic buyers such as ByteDance, Tencent, and Xiaomi. Its prices reportedly sit level with (and sometimes above) those of Micron, SK Hynix, and Samsung. That's bad news for Apple. A fourth supplier only helps if it has chips to sell and sells them cheaper. Right now though, CXMT does neither.\r\n\r\nraised prices across its product lineup (excepting iPhone models) in June, blaming memory costs driven by the AI infrastructure demand. \nTags: China, The Wall Street Journal\nThis article, \"Apple Testing Chinese Memory Chips in iPhones and MacBooks\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-10T12:02:03.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "iOS",
+    "id": 4437
   },
   {
     "source_name": "MacRumors",
@@ -2928,75 +2998,5 @@
     "creator": "Macworld",
     "tags": "Mac,iOS,Rumors,App Store,Services",
     "id": 4023
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple Card partners with Booking.com to speed up loyalty rewards",
-    "link": "https://appleinsider.com/articles/26/08/04/apple-card-partners-with-bookingcom-to-speed-up-loyalty-rewards?utm_source=rss",
-    "content": "Apple Card users have a new way to get more value out of Booking.com without spending months climbing its loyalty ranks, though the perks are notably limited.\n\n\nApple Card unlocks Booking.com Genius Level 2 perks\nApple is offering cardholders immediate access to Booking.com's Genius Level 2 after one qualifying stay or rental car booking. The offer is available through eligible reservations made with Apple Card.\nGenius Level 2 gives users 10-15% discounts on select stays and rental cars, free breakfasts on select stays, and free room upgrades on select stays. Normally, users would need to make five bookings over 24 months to reach this level.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-04T16:00:05.000Z",
-    "creator": "Amber Neely <amber@appleinsider.com>",
-    "tags": "General",
-    "id": 4018
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Deals: M5 MacBook Air up to $300 off, AirPods Max 2 $100 off, Beats Solo Buds from $41, AirTag 2, more",
-    "link": "https://9to5mac.com/2026/08/04/deals-m5-macbook-air-airpods-max-2-beats-solo-buds/",
-    "content": "August is here and the notable discounts on  AirPods Pro 3 at $50 off, AirPods Max 2 at $100 off, and all-time low pricing on AirTag 2 remain. But today’s 9to5Toys Lunch Break is headlined by the M5 MacBook Air – we spotted a rare deal on the 24GB/512GB model at $200 off, but we are also now tracking configurations at up to $300 off over in the official Apple Certified Refurbished Store, including this 24GB 15-inch model (more details here). Those offers also join nearly $100 off various Apple Watch Ultra 3 configs, as well as the latest Beats 240W Braided USB-C Cable in black at just $18, and a chance to score the Beats Solo Buds in the Transparent Red colorway down at $40. Scope it out below.",
-    "pub_date": "2026-08-04T15:35:00.000Z",
-    "creator": "Justin Kahn",
-    "tags": "Mac,iOS,Silicon",
-    "id": 4016
-  },
-  {
-    "source_name": "Macworld",
-    "title": "ESET HOME Security Ultimate Review: Great VPN, strong Mac protection",
-    "link": "https://www.macworld.com/article/2370689/eset-home-security-premium-review.html",
-    "content": "Macworld\n\n\nAt a glance\nExpert's Rating\n\n\n\nPros\nExcellent bundled VPN\nExtensive security customization\nStrong malware protection\nMinimal background impact\nPowerful administrator controls\nCons\nDiscord compatibility issues\nWeak scan progress indicators\nLimited logging tools\nScheduler doesn’t work\nSome UI rough edges\nOur Verdict \nESET HOME Security Ultimate combines excellent malware protection with an outstanding built-in VPN and extensive customization for experienced Mac users. Bugs including a broken scheduler, limited logging and Discord compatibility issues dull an otherwise powerful security suite. It’s worth downloading the trial.\nPrice When Reviewed\nThis value will show the geolocated pricing text for product undefined\nBest Pricing Today\nRetailer\n\t\t\t\t\nPrice\n\t\t\t\t\nESET (first year, 1 device)\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n$34.99\t\t\t\t\t\t\nView Deal\t\t\t\t\t\t\nProduct\n\t\t\t\t\nPrice\n\t\t\t\t\n\n\nPrice When Reviewed\nEssential: $49.99 a year for one device; Premium: $79.99 a year for one device; Ultimate $179.99 a year for five devices\nRetailer\n\t\t\t\t\nPrice\n\t\t\t\t\nESET (first year, 1 device)\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n$34.99\t\t\t\t\t\t\nView Deal\t\t\t\t\t\t\nProduct\n\t\t\t\t\nPrice\n\t\t\t\t\n\n1 year, 1 Mac (Premium) $55.99 (usually $79.99)\n1 year, 5 Mac (Premium)$125.99 (usually $179.99)\n1 year, 1 Mac (Essential)$34.99 (usually $49.99)\n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\nWhat it is: ESET HOME Security Ultimate is a Mac security suite combining ESET’s Cyber Security antivirus app, anti-phishing, firewall, spam protection, and an advanced VPN with extensive customization for security-conscious users.\nWho is it best for? Power users and administrators who value deep configurability over simplicity, and want robust malware protection, an excellent VPN, and granular security controls.\nWho shouldn’t buy it? Casual Mac users seeking a simple, set-and-forget antivirus, or anyone who needs flawless reliability, polished interfaces, and bug-free compatibility with every application.\nAt a glance\nProtection: ★★★★☆\nPerformance: ★★★★☆\nFeatures: ★★★★☆\nEase of use: ★★★☆☆\nValue: ★★★★☆\nESET takes a focused approach to Mac security. Rather than attempting to bundle every imaginable system utility into one package, it concentrates on antivirus protection, phishing prevention, spam filtering, ransomware protection, identity protection, and a surprisingly feature-rich VPN.\nFor this review, I tested ESET Home Security Ultimate with the bundled ESET Cyber Security antivirus (at version 9.0.6700.0) on macOS Tahoe 26.6, evaluating malware detection, VPN performance, phishing protection, system performance and overall usability. While the software delivers excellent protection and impressive configurability, several software bugs prevent it from reaching its full potential. \nFind out how ESET compares to the best Mac Antivirus apps in our group test.\n\n\nWhat’s included with ESET HOME Security?\nThe ESET HOME Security subscription is available in Essential, Premium and Ultimate tiers.\nEssential includes the core Mac security features: antivirus and anti-malware protection, anti-phishing protection and Wi-Fi security.\nPremium builds on Essential with additional security features, although the review focuses primarily on the Ultimate tier rather than detailing every Premium-exclusive capability.\nUltimate adds ESET VPN with VPN for Router support, Identity Protection and Ransomware Remediation.\n\n\n\n\n\n\n\nHow good is the ESET Cyber Security malware protection?\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nAn ESET Cyber Security scan in progress\n.\nFoundry\n\n\n\n\nAntiviral and anti-malware features have long been ESET’s bread and butter, and there was plenty to be impressed with here, even if its presentation could have used some improvement. A full scan of a local SSD with more than 800GB of data was completed in roughly four hours. The scans ran well in the background, and the application quickly and quietly removed suspect files as they surfaced, disabling the vast majority of malware before it became executable.\nThroughout testing, ESET Cyber Security removed and/or quarantined more than 95% of the 130-plus malware samples tested. It quietly deleted suspect files in the background with little interruption to the user, helping to stop threats before they could cause damage. During testing it also allowed pseudo versions of popular applications such as Discord, Xcode and Transmission to be copied into the Applications folder, although macOS Gatekeeper and XProtect prevented them from launching.\nNot every threat was completely eliminated. ESET allowed parts of the Conduit, CrateDepression (decimal.rs), DevilRobber, FinSpy, Inqtana, JacksBot, KandyKorn, Rubilyn, ShaiHulud and XCodeSpy malware samples to remain or launch development files. However, its overall detection rate was strong, and its antivirus and anti-malware protection dovetailed well with macOS Gatekeeper and XProtect, proving as effective as anything I had tested.\n\n\n\n\n\n\n\nHow good is the VPN?\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nChoosing between protocols in ESET VPN\n.\nFoundry\n\n\n\n\nThe VPN client, which comes with the ESET HOME Security Ultimate tier, came out swinging and didn’t let up. The client came loaded with a healthy selection of VPN protocols that could be switched on the fly, including WireGuard, IKEv2, UDP, TCP, Stealth and WStunnel. During performance tests it streamed and downloaded well, offered easy geolocation switching, and delivered performance on par with many standalone VPN clients.\nAn impressive set of proxy and LAN settings geared towards routers offered auto-connect and Kill Switch features, while VPN for Router support extended protection beyond the Mac itself. The VPN implementation is one of the suite’s strongest features, providing a wide range of protocols, extensive configuration options, and performance comparable to dedicated VPN software.\n\n\n\n\n\n\n\nHow good is the phishing protection?\nESET Cyber Security’s anti-spam and anti-phishing features weren’t perfect, but they were still impressive and helped prevent the worst elements of an email’s spam folder from ruining the day. The filter caught most of the questionable links that were clicked, including casino links, purported Cash App payment scams, farm equipment discounts and other suspicious content.\nThe filter still allowed access to purported solar refund sites and ED medication pages claiming to be endorsed by Bill Gates. Even so, its performance proved more reliable than some competing products, and the feature conveyed the feeling that it would stop the worst of the junk and phishing attempts from coming back to haunt you.\n\n\n\n\n\n\n\nIs ESET easy to use on a Mac?\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nESET Cyber Security’s copious Settings menus, which can be used to fine-tune the application\n.\nFoundry\n\n\n\n\nESET Cyber Security was fairly easy to install. After downloading, the application requested Full Disk Access along with kernel and network extension permissions to complete its setup. Once installed, it focused on a simpler set of tools than many competing security suites, concentrating on antivirus and anti-malware protection, a VPN client, and phishing and spam protection rather than trying to include every possible system utility.\nThe software proved straightforward to use day to day, with scans running well in the background and suspect files being quietly removed as they surfaced. However, its extensive array of settings made it particularly well suited to experienced users. The settings allowed control over almost every aspect of the software, including whitelists, malware tolerances, network functions and actions taken when questionable files were found. This administrator-level functionality offered exceptional flexibility, although it could feel unwieldy for casual or home users.\nESET Cyber Security’s Help & Support section may not offer the hippest interface in the universe, but it worked well and generally got the job done. Quick links from the home screen to the company’s help page, knowledge base and technical support sections addressed a good variety of general questions.\nOne omission is worth noting. The software lacked a quick link to ESET’s YouTube channel, which is full of useful tutorials. This seems like a quick fix waiting to happen, and offering handy links as needed could only make this section of the software stronger.\n\n\n\n\n\n\n\nHow well did ESET perform in testing\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nSetting up overall protections for the system\n.\nFoundry\n\n\n\n\nESET Cyber Security performed smoothly and reliably and there was little noticeable impact on the Mac during testing. The software ran well in both the foreground and the background, and, with the exception of a Discord compatibility issue, played nicely with everything on the test Mac. The antivirus and anti-malware scans weren’t the fastest the I’ve seen, but they were still quick, thorough and unobtrusive, and none of the background functions appeared to take a noticeable toll on system performance.\nThe full scan of a local SSD containing more than 800GB of data took about four hours, during which time ESET Cyber Security removed and/or quarantined more than 95% of the 130-plus malware samples tested. It quietly removed suspect files in the background as they surfaced, disabling the vast majority of malware before it became executable while allowing normal day-to-day use of the Mac to continue uninterrupted.\nDuring performance tests the VPN streamed and downloaded well, offered easy geolocation switching, and supported a wide range of protocols including WireGuard, IKEv2, UDP, TCP, Stealth and WStunnel. The VPN’s performance and feature set is on par with many standalone VPN clients.\nHowever, several bugs prevented it from feeling completely polished. The Scheduler function failed during multiple tests, the VPN required a macOS certificate to be reauthorized before it would work correctly, scan logs lacked useful detail and convenient export tools, and the software prevented Discord from updating and launching successfully, sending the application into an infinite loop that required the Mac to be rebooted to stop.\nHow we tested\nTesting was performed on macOS Tahoe 26.6 using real-world malware detection, VPN evaluation, phishing protection, background performance analysis, and overall usability testing. More than 130 malware samples from the Objective-See archive were used to evaluate real-time detection and quarantine effectiveness.\n\n\n\n\n\n\n\nWhat holds ESET back\nWhile ESET Cyber Security performed well overall, there were some bugs to work out. The antivirus and anti-malware scan interface could have been more informative, lacking an elapsed timer, percentage complete readout and estimated time until completion. The scan logs were also limited, failing to clearly identify what malware had been detected or its potential effects, and there were no convenient import or export tools.\nA macOS certificate had to be reauthorized before the VPN would work correctly, and the Scheduler function failed during multiple tests. The most significant compatibility issue occurred with Discord, as ESET Cyber Security prevented the application from updating and launching successfully, sending the process into an infinite loop that required the Mac to be rebooted to stop.\nThese bugs detracted from an otherwise powerful and highly configurable security suite. Clearly there is still some work to do.\n\n\n\n\n\n\n\nHow much does it cost and which ESET HOME plan should you buy?\nThe branding is a little confusing because, historically, you could purchase ESET Cyber Security as a standalone Mac antivirus application. Today, it is delivered through the ESET HOME Security subscription range.\nYou buy an ESET HOME Security Essential, Premium or Ultimate subscription, then download and activate ESET Cyber Security on your Mac. Depending on your subscription tier, additional features such as the VPN, file encryption and identity protection are unlocked. \nThere is usually an offer that reduces the price for the first year. \nESET HOME Security Essential\nIncludes: Antivirus, Anti-phishing, Wi-Fi protection\nStarts at $49.99 for 1 device for 1 year\nESET HOME Security Essential is probably the sweet spot for most people, offering the antivirus and anti-phishing features along with a firewall, web and email scanning and more.\nESET HOME Security Premium\nAdds ESET LiveGuard cloud threat analysis and premium protection features.\nStarts at $79.99 for 1 device for 1 year\nESET HOME Premium isn’t great value for Mac users because some of its features are Windows only.\nESET HOME Security Ultimate\nAdds VPN, VPN for Router, Identity Protection and Ransomware Remediation, alongside the core antivirus and anti-phishing features\nStarts at $179.99 for 5 devices for 1 year\nHOME Security ultimate is a good option if you want a premium VPN with your antivirus and want to protect more than one device.\n\n\n\n\n\n\n\nShould you buy ESET HOME Security with ESET Cyber Security for Mac?\nESET HOME Security rings all the right bells, offering antivirus and anti-malware protection that dovetailed well with macOS Gatekeeper and XProtect, and, if you opt for the Premium or Ultimate tier, an impressive VPN client. Its extensive settings and level of customization made it particularly well suited to advanced users and administrators who wanted granular control over their security environment.\nWhile several bugs prevented it from feeling completely polished, there was still plenty to like. Take advantage of the free 30-day trial, which requires no payment information, to see whether ESET Cyber Security is the right fit for your Mac.",
-    "pub_date": "2026-08-04T15:34:30.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,App Store,Services",
-    "id": 4024
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iPhone 18 Pro will have three upgrades that have been rumored for years",
-    "link": "https://9to5mac.com/2026/08/04/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/",
-    "content": "iPhone 18 Pro is coming very soon, and expected to feature three upgrades that have been rumored for years. Here’s what’s coming.",
-    "pub_date": "2026-08-04T15:28:28.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 3991
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Apple caps bug bounty reports as AI ‘slop’ floods security team",
-    "link": "https://www.cultofmac.com/news/apple-caps-bug-bounty-reports-ai-slop",
-    "content": "Apple's bug bounty program rewards researchers to report security flaws, but a flood of AI-generated reports causes problems.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-04T15:19:58.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac",
-    "id": 4009
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple plans massive 6.4-inch, 7-inch screens for the iPhone 20",
-    "link": "https://appleinsider.com/articles/26/08/04/apple-plans-massive-64-inch-7-inch-screens-for-the-iphone-20?utm_source=rss",
-    "content": "The iPhone 20 will have larger displays than the current Pro and Pro Max models, with a leaker insisting 6.4-inch and 7-inch screens are being prototyped.\n\n\nThe screen of the iPhone Air, from which the iPhone 20 may borrow design elements\nThe Pro models of iPhone have long played host to the largest screens in Apple's iPhone empire. Though the crown will almost certainly be taken by the iPhone Fold on its release, it seems Apple isn't finished with making the Pro Max as Max as possible.\nAccording to a Tuesday Weibo post by serial leaker Digital Chat Station, Apple is prototyping two new screen sizes. The leaker says that one, measuring 6.4 inches, is probably going to be used on the anniversary iPhone 20 Pro.\n\n Rumor Score: 🤔 Possible \n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-04T14:48:20.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "iOS,Rumors",
-    "id": 3998
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Bigger Displays Rumored for Next Year's iPhone Models",
-    "link": "https://www.macrumors.com/2026/08/04/bigger-displays-rumored-for-next-year-iphones/",
-    "content": "Apple is prototyping a second new iPhone display, this one measuring around 6.4 inches, that could be destined for the 20th anniversary iPhone, according to a Chinese leaker.\r\n\r\n\r\nIn a recent post on Weibo, the leaker known as \"Digital Chat Station\" said Apple is currently sampling two new display panels. One measures roughly 6.4 inches and has a chance of being used in the \"‌iPhone 20 Pro‌,\" while the other is the approximately 7-inch panel previously reported for the larger ‌\"iPhone 20 Pro Max‌.\"\r\n\r\ncurved glass on all sides for a nearly borderless visual effect.\r\n\r\niPhone 17 Pro‌ and the upcoming ‌iPhone 18 Pro‌, which is not expected to change size this year. Apple last grew its premium iPhone displays with the iPhone 16 Pro lineup in 2024, when the ‌iPhone 16‌ Pro increased from 6.1 to 6.3 inches and the ‌iPhone 16‌ Pro Max grew from 6.7 to 6.9 inches.\r\n\r\nBloomberg report from last month that said Apple had ramped up work on two sizes of the 20th-anniversary iPhone. \r\n\r\nexpected to feature under-display Face ID technology, a custom Apple image sensor, haptic buttons, the A21 chip, higher bandwidth memory, and a pure silicon battery. \nTags: 20th-Anniversary iPhone, Digital Chat Station\nThis article, \"Bigger Displays Rumored for Next Year's iPhone Models\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-04T14:40:29.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "iOS",
-    "id": 3985
   }
 ]
