@@ -1,5 +1,105 @@
 [
   {
+    "source_name": "MacRumors",
+    "title": "Apple Extends 2026 Back to School Promotion Until September 24",
+    "link": "https://www.macrumors.com/2026/08/11/apple-extends-2026-back-to-school-promo/",
+    "content": "Apple today extended its 2026 Back to School Promotion until September 24, which means it will last almost a month longer than planned. The extension is applicable in the United States, Canada, Mexico, and multiple countries in Asia.\r\n\r\n\r\nThe Back to School promotion offers a free item or gift card when students or educators purchase an eligible Mac or iPad model, plus an educational discount.\r\n\r\nMacBook Pro or a $100 gift card when purchasing a MacBook Air, iPad Pro, or iPad Air.\r\n\r\nAirPods 4, or Apple Pencil Pro depending on the device bought.\r\n\r\nMacBook Neo, iPad mini, entry-level ‌iPad‌, desktop Macs, and iPhones are excluded from the promotion. UNiDAYS verification is required to make a purchase.\r\n\r\nTag: Back to School Promotion\nThis article, \"Apple Extends 2026 Back to School Promotion Until September 24\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-11T20:52:44.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS",
+    "id": 4622
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Grok Bot Brings Always-On AI Agents to macOS and iOS",
+    "link": "https://www.macrumors.com/2026/08/11/grok-bot-macos-ios/",
+    "content": "Elon Musk's SpaceXAI today announced the launch of Grok Bot, a \"team of always-on agents\" that can complete tasks using tools, websites, and apps. Grok Bot can work in the cloud, so jobs keep running when your laptop is closed. The feature is tied to Cursor, the AI coding company that SpaceX is acquiring for $60 billion.\r\n\r\n\r\nGrok subscribers can send a message to a bot from their phone or desktop app using natural language. SpaceXAI says that while other tools may require building workflows and routines, Grok Bot gets a task done with a chat. It is able to sign into websites (even those with no API), but SpaceXAI hasn't given details on how authentication works.\r\n\r\nMultiple bots can be used in parallel, with one managing others and specialists for different tasks. Bots can join a group chat where they can coordinate on their own, passing work, assigning ownership, and only drawing in the user for judgment calls.\r\n\r\nUsers can teach Grok Bot a workflow. It watches as a task is completed, saves the routine, and then can run it solo the next time by following the same steps. SpaceXAI says bots learn over time and can eventually start working \"before you need to ask.\"\r\n\r\nThere are several Grok Bot examples on the SpaceXAI website, like a sales bot updating the CRM with call transcript notes, an ops bot onboarding new hires and processing invoices in Gmail, and an engineering bot reproducing a bug in the product UI, filing a ticket, and handing the fix task off to a debugging bot.\r\n\r\nTags: Elon Musk, Grok\nThis article, \"Grok Bot Brings Always-On AI Agents to macOS and iOS\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-11T20:34:58.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS,App Store",
+    "id": 4623
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Everyone at Apple is calling the foldable 'iPhone Ultra'",
+    "link": "https://appleinsider.com/articles/26/08/11/everyone-at-apple-is-calling-the-foldable-iphone-ultra?utm_source=rss",
+    "content": "A new rumor suggests that \"everyone\" at Apple calls the upcoming foldable iPhone the \"iPhone Ultra,\" though that doesn't mean Apple will actually go with that name.\n\n\niPhone Fold could be called iPhone Ultra\nApple keeps things like marketing names under a tight lock and key. It is rare, if ever, that the public learns about what something might be called before it is released.\nHowever, you have to call the device something, and it seems a colloquial name has caught on internally at Apple. A social media post from Mark Gurman suggests that \"everyone calls it the Ultra internally.\"\n\n Rumor Score: 🤔 Possible \n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-11T20:28:50.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "iOS,Rumors",
+    "id": 4628
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iPhone 18 Pro: Three new camera upgrades are coming",
+    "link": "https://9to5mac.com/2026/08/11/iphone-18-pro-three-new-camera-upgrades-are-coming/",
+    "content": "iPhone 18 Pro is just a few weeks away, and rumors indicate it could bring an especially noteworthy batch of camera upgrades. Here are the three main camera features currently rumored.",
+    "pub_date": "2026-08-11T20:18:09.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 4625
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Court rejects Apple’s attempt to postpone App Store fee proceedings in Epic Games case",
+    "link": "https://9to5mac.com/2026/08/11/court-rejects-apples-attempt-to-postpone-app-store-fee-proceedings-in-epic-games-case/",
+    "content": "Epic Games CEO Tim Sweeney says Judge Yvonne Gonzalez Rogers has rejected Apple’s request to pause the App Store fee proceedings pending the Supreme Court’s review of the company’s contempt ruling. Here are the details.",
+    "pub_date": "2026-08-11T19:59:40.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "App Store",
+    "id": 4626
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Golf's US Open Championship could come to Apple TV in latest sports bid",
+    "link": "https://appleinsider.com/articles/26/08/11/golfs-us-open-championship-could-come-to-apple-tv-in-latest-sports-bid?utm_source=rss",
+    "content": "Apple is reportedly in talks with the owners of golf's Open Championship to take over when NBC's license runs out in 2028, but other bids are in play.\n\n\nApple TV could be getting a golf championship\nSports rights have become a battleground as streamers seek to take over from legacy media. Apple has had small successes in getting rights for MLS, MLB, and F1, but its ambitions go much further.\nAccording to a report from The Guardian, Apple TV is in early discussions with the R&A about streaming rights for golf's Open Championship. NBC has the rights through 2028, but there is no guarantee they'll stay with NBC with a renewal.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-11T19:57:54.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "General",
+    "id": 4629
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "‘Everyone’ at Apple uses iPhone Ultra name, says Mark Gurman",
+    "link": "https://9to5mac.com/2026/08/11/everyone-at-apple-uses-iphone-ultra-name-says-mark-gurman/",
+    "content": "Apple is rumored to use ‘iPhone Ultra’ branding for its upcoming foldable model, and Mark Gurman says that is indeed the name widely used within the company’s ranks.",
+    "pub_date": "2026-08-11T19:40:15.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 4627
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Pay Chief Jennifer Bailey Retiring in October",
+    "link": "https://www.macrumors.com/2026/08/11/apple-pay-chief-retiring/",
+    "content": "Apple Pay executive Jennifer Bailey is retiring and leaving Apple in October, reports Bloomberg. Bailey has been with Apple since 2003 and has long overseen ‌Apple Pay‌ and Apple Wallet.\r\n\r\n\r\nIn an employee memo announcing her departure, Apple's services chief Eddy Cue said Bailey will be available in an advisory role.\r\nAfter more than 25 years at Apple, Jennifer Bailey has decided to retire in October. During her tenure, Jennifer has made extraordinary contributions from leading the Apple Store Online through a period of significant growth and global expansion to overseeing the launch of Apple Pay.\r\n\r\nUnder Jennifer's leadership, Apple Pay has changed the way hundreds of millions of our users pay, with a simpler, more secure, and private experience. She also led the development and growth of Apple Wallet, oversaw the development and launch of Apple Card, and led our work in Services fraud prevention and partner operations, Gift Cards, and Trust and Safety. And those are just a few of her achievements.\r\n\r\nOn a personal note, Jennifer has been an incredible friend and leader, and I will miss working with her.\r\n\r\nPlease join me in thanking Jennifer for her incredible contributions to Apple. Before Jennifer's transition at the end of October, we will announce our succession plan, and Jennifer will continue to be available to support the transition in an advisory role.\r\n\r\n\r\nBloomberg says Bailey's retirement is \"seen as a major loss\" for the company. ‌Apple Pay‌ has expanded to more than 80 countries under Bailey's leadership, and Apple says it is accepted at more than 85 percent of retailers in the United States.\r\n\r\nKate Adams is leaving Apple in late 2026, while environmental chief Lisa Jackson left in early 2026. AI chief John Giannandrea and COO Jeff Williams retired in 2026 and 2025, respectively, and UI design lead Alan Dye departed for Meta in late 2025. Apple CFO Luca Maestri and marketing chief Phil Schiller have taken on smaller roles, and CEO Tim Cook is set to transition to a new role on September 1. Other executives like ‌Eddy Cue‌, Craig Federighi, Deirdre O'Brien, and Greg Joswiak have all been with Apple for decades and are getting closer to retirement age.\nRelated Roundup: Apple Pay\nTag: Jennifer Bailey\nRelated Forum: Apple Music, Apple Pay/Card, iCloud, Fitness+\nThis article, \"Apple Pay Chief Jennifer Bailey Retiring in October\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-11T19:34:35.000Z",
+    "creator": "Juli Clover",
+    "tags": "Services",
+    "id": 4597
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple fails to delay filing new App Store fees to court as Epic battle continues",
+    "link": "https://appleinsider.com/articles/26/08/11/apple-fails-to-delay-filing-new-app-store-fees-to-court-as-epic-battle-continues?utm_source=rss",
+    "content": "Apple is being forced to detail fees it wants to charge for outbound links in its continuing legal fight with Epic, and now it's only got 24 hours to file them.\n\n\nA Fortnite parody of Apple's famous 1984 commercial - Image Credit: Epic Games.\nThe ever-ongoing legal battle between Apple and Epic Games over what Apple should charge apps within the App Store has hit a snag for the iPhone maker. In the current phase, the two are fighting in the U.S. District Court for the Northern District of California over new fee proposal.\nAccording to X posts by Epic Games founder and CEO Tim Sweeney on Tuesday, Apple attempted to delay a filing of proposed fees to the court. To Sweeney's glee, that stay was denied.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-11T19:26:04.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS,App Store",
+    "id": 4614
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Can't Delay App Store Fee Fight While Waiting on Supreme Court",
+    "link": "https://www.macrumors.com/2026/08/11/app-store-epic-games-fee-fight-proceeds/",
+    "content": "Apple has again failed to earn a stay for fee calculations in its ongoing legal fight with Epic Games. Apple's case will be heard by the Supreme Court in the term that begins in October, and Apple asked the U.S. District Court for the Northern District of California to pause proceedings until then, but the court said no.\r\n\r\n\r\nApple now has 24 hours to give the court an outline of the fees it wants to charge developers for using alternative payment options and linking out to purchase options on the web. ‌Epic Games‌ will then be able to give a legal analysis of Apple's fee proposal, and the court will decide what's reasonable.\r\n\r\n\nApple's stay was denied! Now they have 24 hours to file their proposed menu of junk fees with The Court, and Epic will have 60 days to file our legal analysis in advance of a court hearing on the topic.\n— Tim Sweeney (@TimSweeneyEpic) August 11, 2026\n \n\r\nFee calculations are the result of a long, drawn-out dispute between ‌Epic Games‌ and Apple, which started when Epic sued Apple in 2020. Apple largely won the initial legal fight, but was ordered to change its anti-steering rules to let developers link to non-App Store purchase options. Apple complied, but charged a 12 to 27 percent fee that resulted in few developers choosing to use the option.\r\n\r\nin contempt of court for willfully violating her ruling, and stopped Apple from collecting any fees on links in the U.S. App Store.\r\n\r\nApple appealed, and the appeals court upheld the contempt ruling, but said Apple was entitled to reasonable fees for its intellectual property. The appeals court sent the case back to the district court to figure out what a reasonable fee might be. Apple has not been able to collect payment for link-outs since April 2025, and right now, there are no fees.\r\n\r\nThe appeals court ruling that continued to hold Apple in contempt led Apple to appeal to the Supreme Court, and the Supreme Court agreed to hear the case. Apple sought a pause on the fee calculations because the higher court's decision could undo the contempt ruling, but the appeals court, Supreme Court, and now the district court have denied Apple's pause requests.\r\n\r\nTags: App Store, Epic Games, Epic Games vs. Apple\nThis article, \"Apple Can't Delay App Store Fee Fight While Waiting on Supreme Court\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-11T19:14:10.000Z",
+    "creator": "Juli Clover",
+    "tags": "App Store",
+    "id": 4624
+  },
+  {
     "source_name": "Macworld",
     "title": "What’s up with this ‘Apple Reference Image’ rumor?",
     "link": "https://www.macworld.com/article/3210722/what-is-up-with-this-apple-reference-image-rumor.html",
@@ -13,7 +113,7 @@
     "source_name": "Cult of Mac",
     "title": "Apple faces fraud allegation over iCloud Private Relay failures",
     "link": "https://www.cultofmac.com/news/icloud-private-relay-fraud-lawsuit",
-    "content": "A proposed class action lawsuit accuses Apple of fraud over iCloud Private Relay, saying the privacy feature didn’t protect users' identity.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "content": "A proposed class action lawsuit accuses Apple of fraud over iCloud Private Relay, saying the privacy feature didn’t shield users' identities.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
     "pub_date": "2026-08-11T19:05:01.000Z",
     "creator": "Anurag Chawake",
     "tags": "Mac,Services",
@@ -40,16 +140,6 @@
     "id": 4596
   },
   {
-    "source_name": "AppleInsider",
-    "title": "Apple fails to delay filing new App Store fees to court as Epic battle continues",
-    "link": "https://appleinsider.com/articles/26/08/11/apple-fails-to-delay-filing-new-app-store-fees-to-court-as-epic-battle-continues?utm_source=rss",
-    "content": "Apple is being forced to detail fees it wants to charge for outbound links in its continuing legal fight with Epic, and now it's only got 24 hours to file them.\n\n\nA Fortnite parody of Apple's famous 1984 commercial - Image Credit: Epic Games.\nThe ever-ongoing legal battle between Apple and Epic Games over what Apple should charge apps within the App Store has hit a snag for the iPhone maker. In the current phase, the two are fighting in the U.S. District Court for the Northern District of California over new fee proposal.\nAccording to X posts by Epic Games founder and CEO Tim Sweeney on Tuesday, Apple attempted to delay a filing of proposed fees to the court. To Sweeney's glee, that stay was denied.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-11T18:51:20.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "iOS,App Store",
-    "id": 4614
-  },
-  {
     "source_name": "9to5Mac",
     "title": "AirPods Pro 3 and more just got new public beta firmware",
     "link": "https://9to5mac.com/2026/08/11/airpods-pro-3-and-more-just-got-new-public-beta-firmware/",
@@ -68,16 +158,6 @@
     "creator": "Seth Kurkowski",
     "tags": "iOS,App Store",
     "id": 4605
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Pay Chief Jennifer Bailey Retiring in October",
-    "link": "https://www.macrumors.com/2026/08/11/apple-pay-chief-retiring/",
-    "content": "Apple Pay executive Jennifer Bailey is retiring and leaving Apple in October, reports Bloomberg. Bailey has been with Apple since 2003 and has long overseen ‌Apple Pay‌ and Apple Wallet.\r\n\r\n\r\nIn an employee memo announcing her departure, Apple's services chief Eddy Cue said Bailey will be available in an advisory role.\r\nAfter more than 25 years at Apple, Jennifer Bailey has decided to retire in October. During her tenure, Jennifer has made extraordinary contributions from leading the Apple Store Online through a period of significant growth and global expansion to overseeing the launch of Apple Pay.\r\n\r\nUnder Jennifer's leadership, Apple Pay has changed the way hundreds of millions of our users pay, with a simpler, more secure, and private experience. She also led the development and growth of Apple Wallet, oversaw the development and launch of Apple Card, and led our work in Services fraud prevention and partner operations, Gift Cards, and Trust and Safety. And those are just a few of her achievements.\r\n\r\nOn a personal note, Jennifer has been an incredible friend and leader, and I will miss working with her.\r\n\r\nPlease join me in thanking Jennifer for her incredible contributions to Apple. Before Jennifer's transition at the end of October, we will announce our succession plan, and Jennifer will continue to be available to support the transition in an advisory role.\r\n\r\n\r\nBloomberg says Bailey's retirement is \"seen as a major loss\" for the company. ‌Apple Pay‌ has expanded to more than 80 countries under Bailey's leadership, and Apple says it is accepted at more than 85 percent of retailers in the United States.\r\n\r\nKate Adams is leaving Apple in late 2026, while environmental chief Lisa Jackson left in early 2026. AI chief John Giannandrea and COO Jeff Williams retired in 2026 and 2025, respectively, and UI design lead Alan Dye departed for Meta in late 2025. Apple CFO Luca Maestri and marketing chief Phil Schiller have taken on smaller roles, and CEO Tim Cook is set to transition to a new role on September 1. Other executives like ‌Eddy Cue‌, Craig Federighi, Deirdre O'Brien, and Greg Joswiak have all been with Apple for decades and are getting closer to retirement age.\nRelated Roundup: Apple Pay\nTag: Jennifer Bailey\nRelated Forum: Apple Music, Apple Pay/Card, iCloud, Fitness+\nThis article, \"Apple Pay Chief Jennifer Bailey Retiring in October\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-11T18:19:51.000Z",
-    "creator": "Juli Clover",
-    "tags": "Services",
-    "id": 4597
   },
   {
     "source_name": "AppleInsider",
@@ -2918,85 +2998,5 @@
     "creator": "Ryan Christoffel",
     "tags": "Mac",
     "id": 4207
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "GPT-5 turning one as OpenAI shares new Agent Plugins standard",
-    "link": "https://9to5mac.com/2026/08/06/gpt-5-turning-one-as-openai-shares-new-agent-plugins-standard/",
-    "content": "OpenAI’s GPT-5 turns one tomorrow, and the company is marking the week by looking beyond individual models. Today, OpenAI introduced Agent Plugins, an open standard meant to let reusable AI-agent extensions work across compatible products.",
-    "pub_date": "2026-08-06T16:30:28.000Z",
-    "creator": "Zac Hall",
-    "tags": "General",
-    "id": 4208
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Security Bite: Apple’s baffling bug bounty changes finally make sense",
-    "link": "https://9to5mac.com/2026/08/06/security-bite-apples-baffling-bug-bounty-changes-finally-make-sense/",
-    "content": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\nApple dropped a staggering number of vulnerability patches in macOS Tahoe 26.6 last month. Plus a heap of fixes in iOS 26.6 and iPadOS 26.6. What stood out most to me was the number of credits that went to Claude, Codex, and other AI-adjacent tools and labs. The most I’ve ever seen in a single release.\nThen came this week when Apple confirmed that it has capped the number of vulnerability reports a researcher can have open at once, with a 30-day cool-off period once that cap is reached.\nOn the surface, it looks like Apple got caught flat-footed here and started throwing up walls. It even admitted to “the growing volume of AI-generated security submissions across the industry” in its statement to the Financial Times.\nHowever, it’s now increasingly clear that, since last year, nearly all of Apple’s rather baffling decisions around its security bug bounty program have been in preparation for this exact problem.",
-    "pub_date": "2026-08-06T16:24:08.000Z",
-    "creator": "Arin Waichulis",
-    "tags": "Mac,iOS",
-    "id": 4209
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Last call to save up to $200 on M5 MacBook Air laptops",
-    "link": "https://appleinsider.com/articles/26/08/06/last-call-to-save-up-to-200-on-m5-macbook-air-laptops?utm_source=rss",
-    "content": "Time is running out to grab limited-time deals on Apple's latest MacBook Air laptops, with M5 models now up to $200 off. Many deals end this weekend.\n\n\nSave up to $200 on Apple's M5 MacBook Air today - Image credit: Apple\nBoth Amazon and B&H are running back-to-school deals on M5 MacBook Air notebooks, resulting in discounts of up to $200 off.\nWhether you're in the market for a premium 15-inch configuration with 24GB of RAM, a 1TB SSD, and a 70W USB-C power adapter that's marked down to $1,819 or you prefer the smaller 13-inch screen size that's $150 off when ordered with 24GB of RAM and 512GB of storage, there are a variety of deals for a wide range of budgets.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-06T16:19:50.000Z",
-    "creator": "Christine McKee <christine@appleinsider.com>",
-    "tags": "Mac,Silicon",
-    "id": 4218
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "MacPaw teams up with Liquid AI to bring on-device AI to its Mac assistant",
-    "link": "https://www.cultofmac.com/news/macpaw-liquid-ai-on-device-ai-eney",
-    "content": "Setapp operator MacPaw partners with Liquid AI to build an on-device AI stack for its Eney assistant for fast, private work.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-06T16:16:16.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac",
-    "id": 4230
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Lutron Caseta expands hands-free smart home controls through Sonos",
-    "link": "https://9to5mac.com/2026/08/06/lutron-caseta-expands-hands-free-smart-home-controls-through-sonos/",
-    "content": "Lutron is expanding its existing Caseta integration with Sonos, adding the ability to control smart-home devices using Sonos Voice Control.",
-    "pub_date": "2026-08-06T16:06:46.000Z",
-    "creator": "Zac Hall",
-    "tags": "General",
-    "id": 4210
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Adobe is hell-bent on becoming the creative engine behind AI",
-    "link": "https://appleinsider.com/articles/26/08/06/adobe-is-hell-bent-on-becoming-the-creative-engine-behind-ai?utm_source=rss",
-    "content": "Adobe's newest AI ChatGPT plugin shows that the company doesn't care where people create, but more on ensuring they create with Adobe.\n\n\nImage generated with Adobe and ChatGPT\nOn Thursday, Adobe and OpenAI rolled out a new feature. A new ChatGPT tool that would combine more than 70 of Adobe's creative tools into a single plugin, accessible by typing @Adobe.\nIf you've got an Adobe account, you can go to ChatGPT, install the Adobe plugin, and begin generating... Well, whatever you want, really.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-06T15:56:41.000Z",
-    "creator": "Amber Neely <amber@appleinsider.com>",
-    "tags": "General",
-    "id": 4219
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Your old Mac and iPhone are suddenly worth a lot more",
-    "link": "https://www.macworld.com/article/3208069/your-old-mac-and-iphone-are-suddenly-worth-a-lot-more.html",
-    "content": "Macworld\n\n\nWhen Apple hiked prices on dozens of devices in late June, we were left wondering what that meant for trade-ins. Since Apple was charging more for new devices, we naturally assumed Apple should give us more for our older devices, too.\nNow they are. As spotted by 9to5Mac, Apple has raised trade-in values for most devices, including Android phones. Presumably this is because Apple will get more from the used devices on the secondary market, whether through resale or reused parts, due to the surging price of RAM and other components.\nMost notably, iPhone trade-in values have mostly all increased, going all the way back to the iPhone 8, which will net you $5 more than before ($40 versus $35). The only iPhones that haven’t been affected are the 16e, 14 Plus, 2nd-gen SE, X, and 8 Plus. \nApple doesn’t offer trade-in estimates for its newest iPhones, including the iPhone 17 series, Apple Watch Series 11, MacBook Neo, and other current devices. Here are a few highlights for the models it does offer:\niPhone 16 Pro: Up to $630 ($70 more)\niPhone 14 Pro Max: Up to $405 ($30 more)\niPad: Up to $260 ($25 more)\niPad mini: Up to $300 ($35 more)\nMacBook Pro: Up to $855 ($160 more)\nMac Studio: Up to $1,305 ($270 more)\nOf course, the maximum value depends on the condition, configuration, and age of the device, and you can almost certainly get more by selling your device through eBay or some other third-party site. But if you’re buying through Apple, the process is easy and straightforward—and now you’re getting a little more, too, just in time for new iPhones, Apple Watches, and Macs this fall. \nYou can check the trade-in value for your device on the Apple Trade In site.",
-    "pub_date": "2026-08-06T15:39:23.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS",
-    "id": 4226
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "OpenAI fires back, says Apple is suing because it can't compete",
-    "link": "https://appleinsider.com/articles/26/08/06/openai-fires-back-says-apple-is-suing-because-it-cant-compete?utm_source=rss",
-    "content": "ChatGPT maker OpenAI wants Apple's lawsuit dismissed, calling it \"rotten to the core\" and a pretext for how the firm is failing in AI and at keeping its staff.\n\n\nChatGPT is in the App Store now\nWhile Apple went back to court to ask that its lawsuit against OpenAI over alleged trade secret theft be sped up, OpenAI initially turned to the court of public opinion. But it has now responded to Apple's latest filing with one of its own, presented to a US judge with the request that the case be dismissed.\nAccording Reuters, the filing first denies Apple's claims of trade secret theft by arguing that it is not making anything that would benefit from such theft. \"OpenAI has no use, need or desire for Apple's trade secrets,\" says the filing. \"OpenAI is building something entirely new and different from anything at Apple.\"\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-06T15:38:32.000Z",
-    "creator": "William Gallagher <news@appleinsider.com>",
-    "tags": "App Store",
-    "id": 4145
   }
 ]
