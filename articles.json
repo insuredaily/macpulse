@@ -1,5 +1,25 @@
 [
   {
+    "source_name": "MacRumors",
+    "title": "Satechi Launches 240W ChargeView Desktop Charger With Six USB-C Ports",
+    "link": "https://www.macrumors.com/2026/08/11/satechi-240w-chargeview/",
+    "content": "Satechi today launched the ChargeView 240W Desktop Charger, a successor to the 140W ChargeView released last year. The ChargeView 240W can power multiple devices at one time, splitting 240W across six USB-C ports.\r\n\r\n\r\nThe ChargeView 240W has an LCD display that shows the live wattage of all ports that are in use. The C1 and C2 ports offer up to 140W each, while ports C3 and C4 can deliver up to 100W each. The final two ports offer up to 30W. These are maximum power levels, and actual wattage will vary based on how many ports are used at one time. If all six ports are in use, power would be split 70W/70W/30W/30W/20W/20W.\r\n\r\nMacBook Pro and Studio Display. There is an included stand that allows the ChargeView to be used in horizontal or vertical orientation on a desktop.\r\n\r\nThe ChargeView uses GaN technology so it is compact, and it has no fan, so it operates silently. Satechi notes that the device will redistribute power when a new device is plugged in, so there can be a momentary interruption in charging.\r\n\r\nfrom the Satechi website or from Amazon for $149.99.\nTag: Satechi\nThis article, \"Satechi Launches 240W ChargeView Desktop Charger With Six USB-C Ports\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-11T22:30:09.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac",
+    "id": 4633
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Extends 2026 Back to School Promotion Until September 24",
+    "link": "https://www.macrumors.com/2026/08/11/apple-extends-2026-back-to-school-promo/",
+    "content": "Apple today extended its 2026 Back to School Promotion until September 24, which means it will last almost a month longer than planned. The extension is applicable in the United States, Canada, Mexico, and multiple countries in Asia.\r\n\r\n\r\nThe Back to School promotion offers a free item or gift card when students or educators purchase an eligible Mac or iPad model, plus an educational discount.\r\n\r\nMacBook Pro or a $100 gift card when purchasing a MacBook Air, iPad Pro, or iPad Air.\r\n\r\nAirPods 4, or Apple Pencil Pro depending on the device bought.\r\n\r\nMacBook Neo, iPad mini, entry-level ‌iPad‌, desktop Macs, and iPhones are excluded from the promotion. UNiDAYS verification is required to make a purchase.\r\n\r\nTag: Back to School Promotion\nThis article, \"Apple Extends 2026 Back to School Promotion Until September 24\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-11T22:15:20.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS",
+    "id": 4622
+  },
+  {
     "source_name": "9to5Mac",
     "title": "Apple extends 2026 Back to School deals on Macs and iPads until September 24",
     "link": "https://9to5mac.com/2026/08/11/apple-extends-2026-back-to-school-deals-on-macs-and-ipads-until-september-24/",
@@ -28,16 +48,6 @@
     "creator": "Marcus Mendes",
     "tags": "iOS",
     "id": 4631
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Extends 2026 Back to School Promotion Until September 24",
-    "link": "https://www.macrumors.com/2026/08/11/apple-extends-2026-back-to-school-promo/",
-    "content": "Apple today extended its 2026 Back to School Promotion until September 24, which means it will last almost a month longer than planned. The extension is applicable in the United States, Canada, Mexico, and multiple countries in Asia.\r\n\r\n\r\nThe Back to School promotion offers a free item or gift card when students or educators purchase an eligible Mac or iPad model, plus an educational discount.\r\n\r\nMacBook Pro or a $100 gift card when purchasing a MacBook Air, iPad Pro, or iPad Air.\r\n\r\nAirPods 4, or Apple Pencil Pro depending on the device bought.\r\n\r\nMacBook Neo, iPad mini, entry-level ‌iPad‌, desktop Macs, and iPhones are excluded from the promotion. UNiDAYS verification is required to make a purchase.\r\n\r\nTag: Back to School Promotion\nThis article, \"Apple Extends 2026 Back to School Promotion Until September 24\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-11T20:52:44.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,iOS",
-    "id": 4622
   },
   {
     "source_name": "MacRumors",
@@ -2988,15 +2998,5 @@
     "creator": "Marcus Mendes",
     "tags": "Mac,App Store",
     "id": 4204
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Releases macOS Tahoe 26.6.1 With Security Fixes",
-    "link": "https://www.macrumors.com/2026/08/06/apple-releases-macos-tahoe-26-6-1/",
-    "content": "Apple today released macOS Tahoe 26.6.1, an update to the ‌macOS Tahoe‌ operating system that came out last year. ‌macOS Tahoe‌ 26.6.1 comes a little over a week after Apple released macOS Tahoe 26.6.\r\n\r\n\r\nMac owners can download the software by opening the System Settings app and then navigating to the Software Updates section.\r\n\r\nsecurity support document, ‌macOS Tahoe‌ 26.6.1 fixes a vulnerability that could allow an attacker to authenticate to Screen Sharing without valid credentials. Apple fixed the issue with improved state management. \r\n\r\nRelated Roundup: macOS Tahoe\nRelated Forum: macOS Tahoe\nThis article, \"Apple Releases macOS Tahoe 26.6.1 With Security Fixes\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-06T17:34:39.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,App Store",
-    "id": 4192
   }
 ]
