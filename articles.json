@@ -1,5 +1,55 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Apple faces class action lawsuit for ‘fraud’ over iCloud Private Relay flaw",
+    "link": "https://9to5mac.com/2026/08/11/apple-faces-class-action-lawsuit-for-fraud-over-icloud-private-relay-flaw/",
+    "content": "Security researchers last week revealed a flaw in Apple’s iCloud Private Relay feature. While this is supposed to protect your IP address from the websites you visit, a vulnerability means that it often fails to do so.\nAny time there’s a problem with an Apple product or service, a class action lawsuit is sure to follow, and this is no exception …",
+    "pub_date": "2026-08-11T11:46:25.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "Services",
+    "id": 4550
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iPad Air OLED Panel Orders Could Be Split With BOE in 2027",
+    "link": "https://www.macrumors.com/2026/08/11/ipad-air-oled-panel-orders-could-be-split-with-boe/",
+    "content": "BOE wants a share of the OLED supply chain for Apple's next iPad Air, aiming to land a secondary sourcing role behind primary supplier Samsung Display, according to a report from South Korea's The Elec.\r\n\r\n\r\nSources cited by The Elec say the Chinese panel maker is building out its iPad Air ‌OLED‌ effort at its B12 fab in Chongqing, home to BOE's sixth-generation ‌OLED‌ production line, ahead of the launch of a redesigned ‌iPad Air‌ that isn't expected to launch until the first half of 2027. Samsung Display already holds the lead supply role for that panel and is on track to begin ramping production toward the end of this year or the start of next, as previously reported.\r\n\r\nBOE still has to clear Apple's qualification process. Samples reportedly still need to be submitted for evaluation, and a verdict on whether the company wins any commercial orders is not expected until closer to the end of the year. Even a favorable outcome may only translate into modest volume at first, with output confined to ‌iPad Air‌ units destined for the Chinese market or to refurbished devices, rather than the entire global launch.\r\n\r\nThe sources put BOE's qualification decision at some point in November or December, noting Apple typically finalizes production approval just one to two months ahead of mass production actually starting. Should BOE fall short of that bar, Samsung Display will end up carrying the entire initial production run by itself.\r\n\r\nlean on Samsung instead for the upcoming ‌OLED‌ iPad mini.\r\n\r\niPad Pro's tandem stack ‌OLED‌ panel on cost, while still moving the ‌iPad Air‌ away from an LCD.\r\n\r\nMacBook Pro from its 8.6 generation B16 fab in Chengdu, but persistent yield problems there make commercial shipments to Apple unlikely soon. Industry sources do not expect BOE to enter that supply chain until sometime after 2028.\nRelated Roundup: iPad Air \nTags: BOE, OLED, The Elec\nBuyer's Guide: iPad Air (Buy Now)\nRelated Forum: iPad\nThis article, \"iPad Air OLED Panel Orders Could Be Split With BOE in 2027\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-11T11:36:32.000Z",
+    "creator": "Hartley Charlton",
+    "tags": "Mac,iOS",
+    "id": 4548
+  },
+  {
+    "source_name": "Macworld",
+    "title": "iOS 27 beta confirms Apple’s full iPhone 18 roadmap with 6 new models",
+    "link": "https://www.macworld.com/article/3209936/ios-27-beta-confirms-apples-entire-iphone-18-roadmap-with-6-new-models.html",
+    "content": "Macworld\n\n\nOn Monday, Apple released iOS 27 beta 5 to developers on Monday after a weeklong delay, bringing another round of changes and refinements ahead of the update’s public release next month. But hidden inside the software are also some interesting clues about what Apple has planned for the iPhone over the coming months.\nMacworld has found references to six unreleased iPhone models in the latest iOS 27 beta, including the entire iPhone 18 family, iPhone 18e, iPhone Air 2, and iPhone Ultra. While none of these products have been officially announced by Apple, the references provide perhaps the clearest evidence yet of what the company has planned for the next generation of iPhone.\nSix new iPhones hidden in iOS 27\nThe references were found in system files related to the iPhone’s battery drivers and Battery Intelligence features. Alongside existing iPhone models, iOS 27 beta 5 explicitly lists six unreleased devices using Apple’s internal codenames:\nV62: iPhone Air 2\nV63: iPhone 18 Pro\nV64: iPhone 18 Pro Max\nV67: iPhone 18\nV68: iPhone Ultra\nV69: iPhone 18e\nAlthough this isn’t the first time a beta version of iOS has revealed details about upcoming hardware, this appears to be the first time the entire iPhone 18 lineup has been explicitly mentioned in the internal code of the iOS 27 beta. The codenames also align with previous leaks and reports from other sources about the next generation of the iPhone.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nThe folding iPhone Ultra is expected to debut at Apple’s fall iPhone event.\n\nFoundry\n\n\n\n\nThe references don’t reveal specifications or other details about the new devices. However, their presence inside battery-related system components makes sense, as Apple needs to prepare iOS for the various new configurations and power-management characteristics of new hardware before those products reach customers.\nFor instance, earlier beta versions of iOS 27 revealed support for foldable displays and even multiple batteries, both features not found in any current iPhone hardware.\nApple is changing the iPhone release schedule\nUnlike previous years, Apple isn’t expected to introduce its entire next-generation iPhone lineup at once.\nRumors suggest the company will focus on its premium models this fall, with the iPhone 18 Pro and iPhone 18 Pro Max arriving alongside Apple’s first foldable iPhone. Macworld previously reported that Apple will likely call this new foldable device the “iPhone Ultra,” and the latest iOS 27 beta once again uses that name internally.\nNeither the regular iPhone 18 nor the entry-level iPhone 18e is expected to be released until early 2027. A second-generation iPhone Air is also in the works, but is unlikely to be announced this fall. Still, today’s leak confirms that Apple has been actively working on these devices.\nApple is expected to announce its fall event in just a couple of weeks, so this could be one of the last betas before iOS 27 arrives in mid-September. Of course, Apple’s plans can always change, but seeing a product’s codename listed in beta software is usually a strong indication that it’s almost ready for release.",
+    "pub_date": "2026-08-11T11:11:05.000Z",
+    "creator": "Macworld",
+    "tags": "iOS,Rumors",
+    "id": 4554
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "China now even less likely to solve Apple’s memory crunch",
+    "link": "https://9to5mac.com/2026/08/11/china-now-even-less-likely-to-solve-apples-memory-crunch/",
+    "content": "One of Apple’s proposed solutions – or at least mitigations – for the memory shortage was to buy RAM from two Chinese companies, CXMT and YMTC.\nWhile it was not technically banned from doing so, this would have put it into conflict with the US government, and the idea is now looking even less likely thanks to two developments …",
+    "pub_date": "2026-08-11T11:01:05.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "General",
+    "id": 4551
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "iPhone 18 Pro Max battery leak points to a massive upgrade",
+    "link": "https://www.cultofmac.com/news/iphone-18-pro-max-battery-leak-points-to-a-massive-upgrade",
+    "content": "The iPhone 18 Pro Max could pack a nearly 12% larger battery than its predecessor, potentially delivering another big boost in battery life.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-11T11:00:35.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac,iOS,Rumors",
+    "id": 4556
+  },
+  {
     "source_name": "Macworld",
     "title": "iOS 27 may be free, but the AI bill won’t be",
     "link": "https://www.macworld.com/article/3209941/the-ai-bill-is-about-to-come-due.html",
@@ -8,6 +58,16 @@
     "creator": "Macworld",
     "tags": "iOS,Services",
     "id": 4547
+  },
+  {
+    "source_name": "Macworld",
+    "title": "How to sell or trade in your old iPhone",
+    "link": "https://www.macworld.com/article/230803/iphone-sell-trade-carrier-store-online.html",
+    "content": "Macworld\n\n\nIn case you haven’t heard, there’s a new iPhone coming at Apple’s September event and that means two things: You want a new iPhone and you need to sell your old one. If you buy your iPhone outright every year or so, you can usually recoup a good amount of the new cost by selling your old model every time you upgrade to a new one. With prices for components so high these days, the trade-in prices have actually risen!\nEven if you’re in the Apple’s Upgrade Program, you might have an older iPhone languishing in a drawer somewhere unused. Here’s what you need to know about selling or trading in your old iPhone for top dollar.\nHow to get an old iPhone ready for sale\nApple has a list of what to do before you sell, give away, or trade in your old iPhone which is worth a look, and we also cover How to wipe and reset an iPhone. We recommend that you should check those guides out, but here’s our own advice for making sure you get the most value for a used iPhone:\n1) Take good care of it\nThis probably goes without saying, but your iPhone’s condition plays a huge part in its value. So keep it in a case, use a screen protector, and generally try to keep it in great shape. If your phone shows some wear and tear, you’ll still be able to sell it, you’ll just get a little less money back. Also, holding onto the original box and including the charger (if it came with one) and cable also helps squeeze a little more value out of your sale.\n2) Save your data\nBefore you get rid of your old iPhone, make sure all the data is backed up and ready to transfer to your new one. A backup to iCloud or the Finder (or the Music app if you are on a PC) is the most convenient way to sync all the data to your new iPhone, and another option is to sync directly from the old to the new iPhone. But because an iPhone backup is pretty self-contained, you may also want to separately make sure your photos are synced to Google Photos, iCloud Photos, or another cloud storage solution.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nMichael Simon/IDG\n\n\n\n\n3) Unpair your Apple Watch\nIf you have an Apple Watch, you should make sure it’s backed up,  unpair it from your old iPhone, and sync it with your new one. You can do this in the Watch app on the phone.\nTap the My Watch tab.\nTap All Watches at the top of the screen.\nYou’ll see all your Apple Watches paired to this iPhone.\nTap the (i) button next to your watch.\nTap Unpair Apple Watch.\nIf you have more than one Apple Watch paired to this iPhone, repeat this process for all of them.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nIDG\n\n\n\n\n4) Sign out of your Apple account\nSign out of your iCloud and Music accounts, too. This is a crucial step: If you erase your phone without signing out first, it will still have Activation Lock enabled and the buyer won’t be able to set it up! \nYou should be prompted when you erase it (see below) but in case you’re not, here’s how to sign out: \nHead to the top of the Settings app. \nTap your Apple ID and then scroll to the bottom of the next screen and tap Sign Out. \nYou’ll probably be asked to confirm your Apple ID and password.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nIDG\n\n\n\n\n5) Reset your iPhone\nOnce you’re sure your iPhone is all backed up and ready to be fully erased, head to the Settings app and tap General > Transfer or Reset  iPhone (in earlier iOS versions the option says Reset). The nuclear option here is Erase All Content and Settings; if you’re selling or giving away your phone, this is what you want to do.\nYou may be prompted to turn off Find My iPhone and sign out of iCloud if you haven’t already—otherwise iOS’s Activation Lock will prevent the phone’s next owner from activating it. Confirm that you want to erase all the data, and your phone will be securely wiped and restored to factory settings. It’ll go through an update and you’ll be met with a “Hello” screen just like you were when you first set it up. Turn it off and say goodbye.\nWe cover this in more detail here: How to reset an iPhone. If you have any trouble you may find How to put an iPhone into recovery mode and return to factory settings useful. Note that you need to be connected to Wi-Fi or Cellular before you can wipe the iPhone.\nHow to sell your iPhone online\nThe next step is deciding where you are going to sell your iPhone. You should start your research at third-party buyback sites. You’ll get an idea of what your phone in its current condition is worth, and then can either take that offer or try to directly sell your phone to another person yourself on Craigslist or eBay. You might want to mention you’re selling your phone on social media like Twitter, Facebook, or Instagram first, to see if a friend or associate wants it—you’ll feel better dealing with someone you know.\nBuyback sites almost never give you as much money as a direct sale to another person would, but they’re much safer and easier. Sometimes the hassle of a direct sale to another person isn’t worth a little extra money, and you just want to quickly, easily, and safely get a reasonable price for your old phone. That’s where these sites come in. There are lots of buyback sites, but these are some of the biggest and most highly recommended: \nBackMarket \nBackMarket buys and sells used iPhones and other products. You can get up to $600 for an iPhone 16 Pro Max 512GB unlocked in Good (not even Flawless) condition, for example. A prepaid shipping label is provided so you can ship your iPhone off to them within 21 days of your quote. The quote is dependent on the iPhone matching the description you have given.\nIf you are in the U.K. BackMarket will also offer you money for your used iPhone. In this case, an iPhone 16 Pro Max 512GB unlocked in good condition but a few scratches could get you £340.\nCompare and Recycle \nThis trade-in service that assesses the different recyclers to offer you the best price on offer if you trade-in your iPhone. A search on Compare and Recycle suggested an iPhone 15 Pro Max could be worth $690 with TheWhizCells.\nThe same search on Compare and Recycle in the U.K. suggested an iPhone 15 Pro Max could be worth £676 with Sell your fone.\nMusic Magpie\nIn the U.K. Music Magpie will buy used equipment from you (they were acquired by AO.com in 2024). Here our Good-condition iPhone 16 Pro Max 512GB unlocked could make us £594. You can lock in that price for up to 28 days. If you want to sell you just print out your free label. Once they get the phone and inspect it to make sure it’s in the condition you stated, they pay you the following day. If the condition is not as described, they will make a new offer. If that offer isn’t acceptable, they will return the phone free of charge.\nMusic Magpie used to trade as Decluttr in the U.S. but that site closed when the U.K. arm was bought.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\tDennis Cortés/Unsplash\nGazelle\nGazelle buys and sells preowned smartphones, tablets, laptops, and other gadgets. They’ll give you an online quote for your item, and then send you a box to ship it to them for free. You can receive payment as a check, via PayPal, or in the form of an Amazon gift card.\nThe offer is good for 30 days, and Gazelle will make you a new offer if the item is in worse condition than you described. If you decide not to take the new offer, they’ll send your gadget back, but you pay for the return shipping. \nSwappa\nSwappa works a little differently than most other buyback sites. It’s actually a marketplace where you sell directly to other customers—Swappa just verifies the listings, handles the payments (using PayPal), and organizes the shipping to reduce fraud. Swappa collects its fees from the buyer’s end, but the price the buyer actually sees has that fee as well as shipping included. The seller pays for shipping, and you’re on your own to package the item securely, too. \nSwappa lists a price range for what has sold recently on its site. You’ll sometimes be able to get more from a sale on Swappa, but selling directly to other people, even with Swappa’s protections in place, always assumes a little more risk. iPhone 15 Pro Max models have gone for around $605 here. \nAlso read: Where to buy a second-hand or refurbished iPhone for more options where you might be able to sell it.\nIn the U.K. you can also sell your iPhone at places like CeX,  Envirofone, and We Buy Any Phone.\nTrade in your iPhone for store credit\nAnother convenient approach is to turn in your old iPhone to the Apple Store, Amazon, Best Buy, or Walmart, where they’ll give you a gift card. You might not get quite as much, but these stores also take phones in worse condition than your typical buyer would expect. The big-box stores, for example, will give you a small gift card for an iPhone with a broken screen, while an Apple store will generally just recycle it for you. Sometimes these stores have preorder or launch-day deals as well, so keep your eyes open for that.\nApple\nThe Apple store’s online quote service is simple, fast, and generally offers pretty good prices for your used Apple gear. The downside is that you can only get an Apple gift card or credit toward the purchase of a new Apple product.\nWe explain How Apple trade in works and saves you money separately.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nJason Cross/IDG\n\n\n\n\nAmazon\nAmazon Trade-In lets you sell certain products directly to Amazon in exchange for an Amazon gift card. It’s a very simple process, though it can take a couple of weeks before your item gets to Amazon and is inspected, so don’t expect a credit in your Amazon account immediately. The prices are often a little lower than other buyback sites, and you only get Amazon credit, but it’s very easy and safe.\nBest Buy\nBest Buy offers pretty good prices on trade-ins, and you can take your iPhone to a Best Buy location to drop it off, which might be more convenient than shipping it.\nWalmart\nWalmart contracts with CExchange to let you trade in smartphones, tablets, video games, and wearables for a Walmart gift card. You get a prepaid FedEx Ground shipping label, but you have to pack the item yourself. Then you get an eGift Card to spend at Walmart.\nIn the U.K. stores like Argos, Currys and John Lewis will allow you to trade in an old iPhone.\nSell your iPhone back to your carrier\nNot to be outdone, your carrier will accept trade-ins too. If you cringe at your phone bill each month, unloading old devices to your carrier might be tempting, since you can use the credit for new devices or to pay your bill. During the first couple months of an iPhone’s release, there may be special trade-in offers, so keep an eye out for that.\nAT&T\nFor AT&T’s trade-in program, you can bring your device to an AT&T Store to get instant credit, or get a quote online and receive a kit to mail your device in for free. Then you’ll get a promotional card in the mail you can use to credit your bill or buy new stuff.\nVerizon\n\nVerizon lets you trade in devices with a prepaid shipping box. Credits can be applied to your bill, or you can opt for a gift card to use for new devices. \nT-Mobile\n\nT-Mobile’s trade-in program is geared at people who want a new phone. Once you get a quoted price (for a phone in good condition), you’re taken to the store page to shop for a new device. You can also ship your phone or bring it to a T-Mobile store.\nIn the U.K. Carphone Warehouse will allow you to trade in an old iPhone, as will EE and Vodafone. However, U.K. based service Compare and Recycle warns that iPhone owners can lose out on £100s if they trade in with their phone network. \nSell your phone directly to someone else\nYou can usually get the most money for your iPhone by selling it directly to someone else. Prepare your iPhone for sale, clean it, and take some good well-lit photos, then post it on eBay, Craigslist, OfferUp, or Facebook Marketplace (or all of the above). While this can be the most profitable route, it also could be the biggest headache and assumes the most risk. Scammers are everywhere! Follow these tips to help you sell your iPhone to someone else directly:\nOnly sell locally, never ship your iPhone to the buyer.\nOnly accept cash. Do not take a check, money order, Western Union, or any other form of payment. PayPal is not safe for individual sellers—buyers can dispute the transaction and PayPal almost always sides with them.\nCheck out the buyer. Is this a one-off account with no other purchases or ratings? Do they have a social media presence? Are they trying to take the conversation off FaceBook or OfferUp to text messaging right away? These are all red flags!\nMeet somewhere public and safe. Many police stations have “Safe Trade Zones” or “Internet Exchange Locations” specifically set up for buyers and sellers to meet. Banks are also a good option. Go inside, don’t handle your business out in the parking lot.\nSee and inspect the buyer’s money before you hand over your phone. Check for counterfeit bills or the old “stack of paper in a bank envelope” trick.",
+    "pub_date": "2026-08-11T10:15:00.000Z",
+    "creator": "Macworld",
+    "tags": "iOS,App Store,Services",
+    "id": 4555
   },
   {
     "source_name": "9to5Mac",
@@ -2938,65 +2998,5 @@
     "creator": "Juli Clover",
     "tags": "iOS,Rumors,App Store,Services",
     "id": 4096
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Meta launches Muse Code AI coding agent for macOS and Linux",
-    "link": "https://9to5mac.com/2026/08/05/meta-launches-muse-code-ai-coding-agent-for-macos-and-linux/",
-    "content": "Meta is entering the AI coding-agent race with Muse Code, a new terminal-based tool now available in beta for macOS and Linux.",
-    "pub_date": "2026-08-05T19:25:19.000Z",
-    "creator": "Zac Hall",
-    "tags": "Mac",
-    "id": 4102
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Siri AI is coming to newer Apple devices only, here’s the full list",
-    "link": "https://9to5mac.com/2026/08/05/siri-ai-is-coming-to-newer-apple-devices-only-heres-the-full-list/",
-    "content": "Siri AI is a major upgrade and highlight of iOS 27, macOS Golden Gate, and more. But only newer Apple devices will support the overhauled Siri. Here’s the full list of Siri AI-compatible hardware across iPhone, iPad, Mac, Apple Watch, and Apple Vision Pro.",
-    "pub_date": "2026-08-05T19:22:16.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "Mac,iOS,Vision",
-    "id": 4103
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iPhone 18 Pro event date: When Apple announced its event over the last six years",
-    "link": "https://9to5mac.com/2026/08/05/iphone-18-pro-event-date-when-announcement/",
-    "content": "When should we expect the iPhone 18 Pro event, and when will Apple officially announce the date? Apple hasn’t sent invitations yet, but its announcement history gives us a remarkably consistent window.",
-    "pub_date": "2026-08-05T19:10:13.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS",
-    "id": 4104
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple's iPhone 18 Pro event won't be live, no matter how much you wish it to be",
-    "link": "https://appleinsider.com/articles/26/08/05/apples-september-event-wont-be-live-no-matter-how-much-you-wish-it-to-be?utm_source=rss",
-    "content": "Apple's employee lottery for the September iPhone launch doesn't mean it will be a return to a live-presented event. It'll probably be the same pre-recorded presentation with press in the room as usual.\n\n\nJohn Ternus will introduce Apple's event in September. It will probably be prerecorded. \nIt's barely a month away from Apple's regular fall event, which will see the launch of products like the iPhone 18 Pro, the iPhone Fold, and other long-rumored items. It is always a major event, with most of the tech world paying close attention.\nHowever, with the prospect of a new CEO at the helm, there are also expectations of other changes. That can also include the September event itself.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-05T19:08:37.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "iOS",
-    "id": 4113
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iCloud Private Relay might be leaking your real IP address, researchers say",
-    "link": "https://9to5mac.com/2026/08/05/icloud-private-relay-leaking-your-ip-address/",
-    "content": "Security researchers have discovered a problem with Apple’s iCloud Private Relay service. While the feature is meant to protect your real IP address, it might actually be leaking it to websites.",
-    "pub_date": "2026-08-05T18:42:36.000Z",
-    "creator": "Chance Miller",
-    "tags": "Services",
-    "id": 4105
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iPadOS 27 adds two new iPad features I’ve been loving",
-    "link": "https://9to5mac.com/2026/08/05/ipados-27-adds-two-new-ipad-features-ive-been-loving/",
-    "content": "iPadOS 27 launches next month, with new features in apps like Notes, Messages, Calendar, Mail, and more. Here are a couple of systemwide iPadOS 27 features I’ve been loving.",
-    "pub_date": "2026-08-05T18:21:00.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 4106
   }
 ]
