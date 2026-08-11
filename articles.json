@@ -1,5 +1,35 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Apple extends 2026 Back to School deals on Macs and iPads until September 24",
+    "link": "https://9to5mac.com/2026/08/11/apple-extends-2026-back-to-school-deals-on-macs-and-ipads-until-september-24/",
+    "content": "Eligible students, parents of students, and educators in the United States just got a few extra weeks to claim Apple’s 2026 Back to School deals on select Macs and iPads. Here are the details.",
+    "pub_date": "2026-08-11T21:35:29.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 4630
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple's Back to School offers have been extended, but you can do much better",
+    "link": "https://appleinsider.com/articles/26/07/16/apples-back-to-school-offers-have-started-but-you-can-do-much-better?utm_source=rss",
+    "content": "Apple has extended its unusually limited Back to School series of deals and they are not to be dismissed, but there are far greater discounts to be had from other resellers.\n\n\nApple's lates Back to School offer is now live - image credit: Apple\nEven when it isn't raising prices, it is a rule with Apple that it will never actually have sales on its products, except for certain regular promotions in China. So for this latest deal, it is again falling back on offering Apple gift cards alongside selected products.\nSo when a user buys one of these devices, they get a gift card that amounts to money off their next purchase. Consequently if someone knows they need two Apple devices, they can get money off the second one.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-11T21:21:10.000Z",
+    "creator": "William Gallagher <wg@williamgallagher.com>",
+    "tags": "General",
+    "id": 4632
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Report: Non-gaming apps drove mobile spending growth in Q2 as games fell 4.5%",
+    "link": "https://9to5mac.com/2026/08/11/report-non-gaming-apps-drove-mobile-spending-growth-in-q2-as-games-fell-4-5/",
+    "content": "A new report from Sensor Tower shows that non-gaming apps continued to drive global mobile spending growth in Q2 2026 across iOS and Android, while gaming revenue declined 4.5% year over year. Here are the details.",
+    "pub_date": "2026-08-11T20:59:32.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 4631
+  },
+  {
     "source_name": "MacRumors",
     "title": "Apple Extends 2026 Back to School Promotion Until September 24",
     "link": "https://www.macrumors.com/2026/08/11/apple-extends-2026-back-to-school-promo/",
@@ -721,7 +751,7 @@
   },
   {
     "source_name": "Cult of Mac",
-    "title": "iPhone 20 radical all-glass redesign still on track for 2027",
+    "title": "iPhone 20 radical all-glass redesign remains on track for 2027",
     "link": "https://www.cultofmac.com/news/iphone-20-radical-all-glass-redesign-on-track-2027",
     "content": "Despite claims to the contrary, Apple’s ambitious curved-glass iPhone 20 remains on track to launch in 2027.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
     "pub_date": "2026-08-11T04:49:58.000Z",
@@ -2968,35 +2998,5 @@
     "creator": "Juli Clover",
     "tags": "Mac,App Store",
     "id": 4192
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple earnings, universal clipboard interoperability, iPhone event chatter",
-    "link": "https://9to5mac.com/2026/08/06/happy-hour-602/",
-    "content": "Benjamin and Chance return for another episode recapping the week in Apple news, including the interesting details of Apple’s most recent earnings calls, the last of the Tim Cook era. Also, Apple complies with Microsoft’s Interoperability request for universal clipboard support on Windows, and John Ternus recruits an employee out of retirement to help lead his new company regime.\nAnd in Happy Hour Plus, Chance is battling with HomeKit reliability woes, and ponders whether Benjamin’s messaging habits. Subscribe at 9to5mac.com/join.\nSponsored by Bitwarden: Check out Bitwarden, featuring secure password management, passkey support, end-to-end encryption, and seamless autofill across all devices.\nSponsored by Notion: Learn more about how Notion can support your business, at notion.com/happyhour.\nSponsored by Square: Get up to $200 off Square hardware when you sign up at square.com/go/happyhour.\nSponsored by NordStellar: Get an exclusive offer: Unlock your 10% discount on NordStellar with the coupon code: nordhappyhour-10-NORDSTELLAR – just mention it to NordStellar!",
-    "pub_date": "2026-08-06T17:32:29.000Z",
-    "creator": "Chance Miller",
-    "tags": "iOS",
-    "id": 4205
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "OpenAI updating ChatGPT with a smarter GPT-5.6 Sol and unlimited free chats",
-    "link": "https://9to5mac.com/2026/08/06/openai-updating-chatgpt-with-a-smarter-gpt-5-6-sol-and-unlimited-free-chats/",
-    "content": "ChatGPT has become so much more than just chat over the last year. To that end, OpenAI is removing limits on text chat. ChatGPT will also improve with a smarter version of GPT-5.6 Sol. Details below.",
-    "pub_date": "2026-08-06T17:16:04.000Z",
-    "creator": "Zac Hall",
-    "tags": "General",
-    "id": 4206
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "MacBook Ultra is coming, here’s the latest on release timing",
-    "link": "https://9to5mac.com/2026/08/06/macbook-ultra-is-coming-heres-the-latest-on-release-timing/",
-    "content": "MacBook Ultra is the rumored name for Apple’s exciting MacBook Pro overhaul with OLED, a touchscreen, Dynamic Island, and more. Here’s the latest on when to expect MacBook Ultra’s release.",
-    "pub_date": "2026-08-06T16:54:59.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "Mac",
-    "id": 4207
   }
 ]
