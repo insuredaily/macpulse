@@ -1,5 +1,45 @@
 [
   {
+    "source_name": "Cult of Mac",
+    "title": "iOS 27 beta 5: All the new features and changes",
+    "link": "https://www.cultofmac.com/news/ios-27-beta-new-features-changes",
+    "content": "iOS 27 beta 5 arrives after a few weeks of wait, bringing some minor changes and improvements.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-11T04:03:40.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac,iOS",
+    "id": 4533
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Still Planning 'Glass-Centric' iPhone Redesign for 2027",
+    "link": "https://www.macrumors.com/2026/08/10/glass-centric-iphone-still-planned-2027/",
+    "content": "Aiming to refute a report from Jefferies analyst Edison Lee earlier today that claimed Apple's all-glass iPhone planned for the device's 20th anniversary next year has been canceled, Bloomberg's Mark Gurman says that the \"glass-centric\" redesign remains on track for 2027.\r\n\r\n\r\nGurman says that the 20th-anniversary iPhone will make heavy use of glass, with the front and rear wrapping around the edges to sandwich a thin metal band.\nThe company expects to launch iPhone Pro models next year that will make use of a new glassy look, according to the people, who asked not to be identified because the work is confidential. Glass is used on the front and back of the phones — known internally as V73 and V74 — and the material will curve into the sides of the devices, with a metal band in the middle.\nGurman does mention a \"more aspirational version\" that \"used even more glass,\" but says that design \"was scrapped early on\" in the development cycle.\r\n\r\nIt's possible that this more ambitious design is the one Lee was referring to in today's report, but Gurman implies that it was discarded some time ago, rather than being a more recent development as Lee had suggested.\r\n\r\nTags: 20th-Anniversary iPhone, Bloomberg, Mark Gurman\nThis article, \"Apple Still Planning 'Glass-Centric' iPhone Redesign for 2027\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-11T03:10:14.000Z",
+    "creator": "Eric Slivka",
+    "tags": "iOS,Rumors",
+    "id": 4526
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Your iPhone can capture the Perseids meteor shower if you use the right tools",
+    "link": "https://appleinsider.com/inside/iphone/tips/your-iphone-can-capture-the-perseids-meteor-shower-if-you-use-the-right-tools?utm_source=rss",
+    "content": "The iPhone is a surprisingly capable meteor-hunting camera, but it's definitely not a point-and-shoot sort of situation. Here's how to take excellent photos of the Perseids, satellites, and more.\n\n\nImage credit: Florian Seiffert / @ popipaan on X\nIt's August, which means those in the northern hemisphere are being treated to the annual Perseids meteor shower. If you've got an iPhone, you're pretty much ready to go take some stunning astrophotography shots yourself.\nOf course, it's not as simple as heading outside and pointing your iPhone at the sky, but you probably already knew that. Fortunately, we're here to help.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-11T02:51:13.000Z",
+    "creator": "Amber Neely <amber@appleinsider.com>",
+    "tags": "iOS",
+    "id": 4530
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple’s 20th-anniversary iPhone redesign reportedly remains on track",
+    "link": "https://9to5mac.com/2026/08/10/apples-20th-anniversary-iphone-redesign-reportedly-remains-on-track/",
+    "content": "Following reports that Apple had scrapped its long-rumored all-glass iPhone planned for the device’s 20th anniversary, Bloomberg says the redesign remains on track for next year’s Pro models. Here are the details.",
+    "pub_date": "2026-08-11T02:14:14.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 4528
+  },
+  {
     "source_name": "AppleInsider",
     "title": "New rumor counters that all-glass 20th-anniversary iPhone will still happen",
     "link": "https://appleinsider.com/articles/26/08/11/new-rumor-counters-that-all-glass-20th-anniversary-iphone-will-still-happen?utm_source=rss",
@@ -8,6 +48,16 @@
     "creator": "Wesley Hilliard <wes@appleinsider.com>",
     "tags": "iOS,Rumors",
     "id": 4524
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Jefferies downgrades Apple stock, cites all-glass iPhone cancellation rumor",
+    "link": "https://9to5mac.com/2026/08/10/jefferies-downgrades-apple-stock-cites-all-glass-iphone-cancellation-rumor/",
+    "content": "Jefferies today became the latest firm to cut Apple’s stock price target in recent days, citing supply chain checks that suggest Apple has scrapped plans for a rumored all-glass iPhone expected to mark the device’s 20th anniversary next year. Here are the details.",
+    "pub_date": "2026-08-11T01:27:42.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS,Rumors",
+    "id": 4529
   },
   {
     "source_name": "MacRumors",
@@ -2948,55 +2998,5 @@
     "creator": "Macworld",
     "tags": "Rumors,Services",
     "id": 4124
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Surgeons enthuse about what a great bargain Apple Vision Pro is",
-    "link": "https://appleinsider.com/articles/26/08/05/surgeons-enthuse-about-what-a-great-bargain-apple-vision-pro-is?utm_source=rss",
-    "content": "A new study covering wearing an Apple Vision Pro during certain surgeries has concluded that it is superior to existing medical equipment, and is very much worth the relatively small cost.\n\n\nThe Apple Vision Pro has proven to be a useful tool for cataract surgery.\nApple Vision Pro has been used for surgery since it first came out, and surgeons have already said that it is so light it saves them pain and injury. Now a study conducted at the UC San Diego Shiley Eye Institute, has directly compared using Apple Vision Pro to what it calls \"traditional monitor-based\" surgery.\nThe resulting paper, called \"Apple Vision Pro as a Wearable Display for Endoscopic Dacryocystorhinostomy: Surgical Experience, Efficiency, and Cost,\" claims to be among the first to evaluate the device for endoscopic lacrimal surgery. The researchers considered factors including efficiency, reliability, weight and cost, and concluded that Apple Vision Pro:\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-05T16:48:22.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "Vision",
-    "id": 4115
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "WebKit privacy leak leaves iPhone and Mac users exposed",
-    "link": "https://www.cultofmac.com/news/webkit-privacy-leak-ios-macos",
-    "content": "A newly discovered WebKit privacy leak bypasses proxy protection and iCloud Private Relay, exposing your real IP addresses and DNS data.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-05T16:37:40.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,iOS,Rumors,Services",
-    "id": 4126
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Unsafe iMessage for Android app Sunbird just will not die",
-    "link": "https://appleinsider.com/articles/26/08/05/unsafe-imessage-for-android-app-sunbird-just-will-not-die?utm_source=rss",
-    "content": "Even though Apple now supports RCS to let Android users join in iMessage conversations, the risky Sunbird app is back to persuade them to route everything through its servers anyway. Don't do it to yourself.\n\n\nThat would be Android phones it's talking about. You're on an iPhone, you're fine. Image credit: Sunbird\nPreviously on Sunbird... it was an Android app that let users partake in Apple iMessage conversations without a green bubble, and with myriad security problems. It came and it went, and then Apple added RCS support so that Android users could do exactly this without the privacy issues.\nSunbird tried coming back in 2024 having promised to have fixed its security problems, but it really didn't because it really can't. Your data still went through its servers and the company can say all it likes that it doesn't peek, but this remains a firm you've never heard of and are expected to trust.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-05T16:02:40.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "iOS,App Store",
-    "id": 4116
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Vision Pro Speeds Up Surgery by Almost 20%",
-    "link": "https://www.macrumors.com/2026/08/05/apple-vision-pro-speeds-up-surgery/",
-    "content": "Surgeons who wore an Apple Vision Pro as their primary display during a tear duct procedure finished operations 19% faster than surgeons using a traditional monitor, according to a peer-reviewed study by UC San Diego.\r\n\r\n\r\nThe study, published in the journal AJO International (via iPhone in Canada), looked at 32 endoscopic surgeries to clear blocked tear ducts. In half the cases, surgeons wore Vision Pro headsets that streamed the endoscopic video feed directly into their field of view instead of looking at a monitor across the room, letting them keep a natural forward-facing posture throughout.\r\n\r\nAverage operative time came in at 34.4 minutes with the Vision Pro, compared to 42.7 minutes with the traditional monitor. Every case in both groups succeeded with no complications, and all five surgeons involved said they preferred operating with the headset, reporting lower physical and mental workload.\r\n\r\nRelated Roundup: Apple Vision Pro\nBuyer's Guide: Vision Pro (Neutral)\nRelated Forum: Apple Vision Pro\nThis article, \"Apple Vision Pro Speeds Up Surgery by Almost 20%\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-05T15:47:58.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "iOS,Vision",
-    "id": 4098
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple's loaded M5 Max MacBook Pro with 40-core GPU is $500 off right now",
-    "link": "https://appleinsider.com/articles/26/08/05/apples-loaded-m5-max-macbook-pro-with-40-core-gpu-is-500-off-right-now?utm_source=rss",
-    "content": "Apple's powerhouse 16-inch MacBook Pro with an M5 Max chip and 40-core GPU is $500 off today, the largest discount currently available across the 16-inch lineup.\n\n\nSave $500 on Apple's loaded 16-inch MacBook Pro at Amazon - Image credit: Apple\nAmazon is slashing $500 off Apple's premium 16-inch MacBook Pro with a top-of-the-line M5 Max chip. Equipped with an 18-core CPU and 40-core GPU, the high-end model also has an upgrade to 48GB of RAM and a spacious 2TB SSD.\nSave $500 on M5 Max 16\" MacBook Pro\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-05T15:45:09.000Z",
-    "creator": "Christine McKee <christine@appleinsider.com>",
-    "tags": "Mac,Silicon",
-    "id": 4117
   }
 ]
