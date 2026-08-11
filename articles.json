@@ -1,6 +1,46 @@
 [
   {
     "source_name": "AppleInsider",
+    "title": "New rumor counters that all-glass 20th-anniversary iPhone will still happen",
+    "link": "https://appleinsider.com/articles/26/08/11/new-rumor-counters-that-all-glass-20th-anniversary-iphone-will-still-happen?utm_source=rss",
+    "content": "The all-glass iPhone Pro model expected in 2027 was rumored to have been canceled, but another report now suggests it is proceeding as planned.\n\n\nThe 20th anniversary iPhone will have more glass\nA financial analyst firm, Jefferies, suggested the 2027 iPhone would no longer get an all-glass model. Another analyst has stepped in to suggest otherwise.\nAccording to a report from Bloomberg Apple's all-glass iPhone Pro expected in 2027 was still moving forward. The Jefferies report suggested that there was a low yield, and the new report counters that.\n\n Rumor Score: 🤯 Likely \n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-11T02:02:00.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "iOS,Rumors",
+    "id": 4524
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iOS 27 Hints at 'Apple Reference Image' Photo Authentication",
+    "link": "https://www.macrumors.com/2026/08/10/ios-27-apple-reference-image/",
+    "content": "Apple is working on \"Apple Reference Image,\" a photo provenance system that will verify if an image was captured with an iPhone. References to the feature were found in a privacy disclosure included in iOS 27 beta 5, but it is not live yet.\r\n\r\n\r\nAccording to the text, there will be a \"Reference\" mode option in the Camera app that users can select. Using this mode will embed provenance data in the image's metadata.\r\n\r\nImages captured with an opt-in Reference mode can be authenticated to confirm they were taken with an iPhone. Authenticating is done by tapping the Reference badge on the image, which sends the raw image, sensor signatures, capture time frame, and the unique hardware identifiers of the sensor to Apple's Private Cloud Compute (PCC) servers. PCC uses the information to determine whether the camera captured the photo, gives it a unique ID, and then returns an authenticated version to the user's device.\r\n\r\nWhen authenticating a photo, Apple receives sensor data, a hash, and the assessment results, but not the raw photo. Apple can refuse to authenticate images from a sensor that might be compromised, and it can retroactively revoke a sensor's past authentications.\r\n\r\niPad, or Mac, and the Reference badge can also be clicked on a Mac. Images have to be captured in Apple's specific Reference mode to be authenticated, which suggests it's a feature aimed at pro photographers, journalists, and others who need to verify images. There may also be a video component, since Apple's disclosure mentions \"photos or videos\" and \"uncropped footage.\"\r\n\r\nImage Playground.\r\n\r\nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"iOS 27 Hints at 'Apple Reference Image' Photo Authentication\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-11T00:08:29.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS,App Store",
+    "id": 4521
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "9to5Mac Daily: August 10, 2026 – Apple Watch rumors, more",
+    "link": "https://9to5mac.com/2026/08/10/daily-august-10-2026/",
+    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.",
+    "pub_date": "2026-08-10T23:53:49.000Z",
+    "creator": "Seth Kurkowski",
+    "tags": "iOS,App Store",
+    "id": 4523
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Mcon mobile gaming controller review: Compact design with premium feel",
+    "link": "https://appleinsider.com/articles/26/01/07/mcon-mobile-gaming-controller-review-compact-design-with-premium-feel?utm_source=rss",
+    "content": "The Mcon controller balances portability and performance in a compact, MagSafe-compatible design for iPhone gamers.\n\n\nMcon mobile gaming controller review: A new take on mobile controllers\nGaming controllers usually come in two flavors. You'll find ones that are extremely comfortable and capable, as well as those that are small and portable.\nFinding a controller that is both portable and capable is a rarity, to say the least. The OhSnap Mcon is the first one I've tested that makes good choices on compromises and uses MagSafe for easy connection to iPhone.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-10T23:42:07.000Z",
+    "creator": "Andrew O'Hara <andrew@appleinsider.com>",
+    "tags": "iOS",
+    "id": 4525
+  },
+  {
+    "source_name": "AppleInsider",
     "title": "Discrimination lawsuit involving converted Jewish employee settled by Apple",
     "link": "https://appleinsider.com/articles/26/08/10/discrimination-lawsuit-involving-converted-jewish-employee-settled-by-apple?utm_source=rss",
     "content": "An Apple Genius was fired after failing to meet grooming standards, but the individual filed a lawsuit claiming religious discrimination. That lawsuit has now been settled by Apple for $150,000.\n\n\nApple Reston in Virginia. Image source: Apple\nApple is a large company with thousands of employees across retail, engineering, and corporate entities. It isn't immune from discrimination and the lawsuits that result.\nAccording to a Law360 document read by 9to5Mac, Apple has agreed to settle a religious discrimination lawsuit. The company will pay out $150,000 and provide religious discrimination training, though there was no admission of wrongdoing in the settlement.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
@@ -2958,45 +2998,5 @@
     "creator": "Christine McKee <christine@appleinsider.com>",
     "tags": "Mac,Silicon",
     "id": 4117
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iPhone Ultra sounds truly deserving of the ‘Ultra’ name",
-    "link": "https://9to5mac.com/2026/08/05/iphone-ultra-sounds-truly-deserving-of-the-ultra-name/",
-    "content": "Apple’s first foldable iPhone is coming very soon, and based on rumors about the product, it sounds very much deserving of the ‘iPhone Ultra’ name. Here’s why.",
-    "pub_date": "2026-08-05T15:41:31.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 4108
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Set sail with Apple CarPlay on Crest & Balise pontoon boats",
-    "link": "https://appleinsider.com/articles/26/08/05/set-sail-with-apple-carplay-on-crest-balise-pontoon-boats?utm_source=rss",
-    "content": "Boat owners are getting a new entertainment option as they bob on the water, as Crest Marine and Balise bring CarPlay to pontoons.\n\n\nSavvy Navvy on CarPlay, on a boat's infotainment system - Image Credit: Savvy Navvy\nApple CarPlay is intended as a way to interact with your iPhone safely through a vehicle's infotainment system. While that vehicle has been cars, vans, and trucks so far, it's about to go very off-road, and off-land too.\nAnnounced during the annual dealer meeting of Crest Marine on Tuesday, CarPlay will be an option for the infotainment system for customers of both Crest and Balise Pontoons. The MasterCraft Boat Holdings brands have partnered with marine navigation app Savvy Navvy to adapt CarPlay for usage on the water.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-05T15:32:49.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "iOS,App Store",
-    "id": 4118
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Deals: MacBook Neo up to $120 off, MacBook Pro $500 off, Apple Watch SE 3/Ultra 3 $130 off, AirPods, more",
-    "link": "https://9to5mac.com/2026/08/05/deals-macbook-neo-macbook-pro-apple-watch-ultra-3/",
-    "content": "The AirPods Pro 3 have now dropped even lower at $60 off alongside the all-time low pricing on AirTag 2, but for today’s 9to5Toys Lunch Break we are stating off with the official Apple Certified Refurbished Store where you’ll find the lowest prices on MacBook Neo at up to $120 off the list new lists. Those deals join this M5 Pro MacBook Pro at $500 off (that’s $100 under the pre price-hike MSRP) as well as this Apple Watch Series 11 model at $150 off, Apple Watch SE 3 at up to $80 off, Apple Watch Ultra 3 at up to $130 off, and the ongoing Best Buy August Back to School sale. Scope it all out down below.",
-    "pub_date": "2026-08-05T15:30:18.000Z",
-    "creator": "Justin Kahn",
-    "tags": "Mac,iOS,Silicon",
-    "id": 4109
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Newton's August 1993 launch set the stage for what would become the iPad and iPhone",
-    "link": "https://appleinsider.com/articles/18/08/02/newton-launched-august-2-1993-setting-the-stage-for-what-would-become-the-ipad-and-iphone?utm_source=rss",
-    "content": "Apple's Newton handheld computer was both the company's biggest failure and its greatest peek into the future. Now, 33 years after launch, AppleInsider reminisces about what Newton was, what it meant, and where it went wrong.\n\n\nApple's original Newton - image credit: Apple\nBack in 1993, Apple's press officers did the rounds of every technology magazine there was. When they reached one in London, they had the speech down pat. In particular, they knew how to fend off criticisms by asking questions first.\n\"What do you think it should have next?\" they asked, subtly telling us more versions were coming and buttering up our egos. \"Backlighting or color?\" Without exception, the ten or so journalists in that office all said \"backlighting\" in unison.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-05T15:29:58.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "iOS",
-    "id": 4119
   }
 ]
