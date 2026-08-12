@@ -1,5 +1,35 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Apple authenticating iPhone photos is just the start",
+    "link": "https://9to5mac.com/2026/08/12/apple-authenticating-iphone-photos-is-just-the-start/",
+    "content": "iOS 27 Beta 5 includes references to an upcoming new feature to allow Apple to authenticate iPhone photos.\nNot many iPhone users will need to use this for reasons we’ll get to in a moment, but the move is just the start …",
+    "pub_date": "2026-08-12T11:51:38.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "iOS",
+    "id": 4648
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Leaker: All-Glass 2027 iPhone Still on Track Despite Cancellation Rumors",
+    "link": "https://www.macrumors.com/2026/08/12/all-glass-20th-anniversary-iphone-on-track/",
+    "content": "There's been more pushback against the recent analyst report that claimed Apple's all-glass 20th-anniversary iPhone next year has been canceled. Bloomberg's Mark Gurman has already responded by saying the \"glass-centric\" redesign is still on track for 2027, and now a prominent Chinese leaker says the commemorative device indeed remains in active development.\r\n\r\n\r\nWeibo-based leaker Digital Chat Station identifies the device as having two sizes in equivalent Pro/Pro Max variants, citing the internal codenames V73/V74 previously referenced by Gurman. Based on supply chain information, the leaker says the two new displays have increased in physical size while retaining the same aspect ratio. Their rationale for this is that Apple's borderless four-curved-edge design uses a flat 2D display combined with a glass cover, and takes advantage of the glass's optical refraction and shape to create the visual effect of a display lacking borders.\r\n\r\nclaim that glass is used on the front and back of the phones, with the material curving into the sides, leaving only a small metal band in the middle.\r\n\r\ntesting a slightly larger 6.96-inch display for the device's Pro Max variant, suggesting the OLED panel itself is slightly bigger, but the extra area curves the display further into the device's edges while the chassis remains essentially the same size as the current iPhone 17 Pro Max.\r\n\r\ncanceled. Gurman soon refuted the claim based on his own information, though he did say that Apple had also considered a \"more aspirational version\" that \"used even more glass\" – but this was scrapped early on. It's quite possible that this more ambitious version was the device Lee was referring to in his report.\r\n\r\nTags: 20th-Anniversary iPhone, Digital Chat Station\nThis article, \"Leaker: All-Glass 2027 iPhone Still on Track Despite Cancellation Rumors\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-12T11:43:28.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "iOS,Rumors",
+    "id": 4647
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Parents urged to revisit screen time limits as kids head back to school",
+    "link": "https://9to5mac.com/2026/08/12/parents-urged-to-revisit-screen-time-limits-as-kids-head-back-to-school/",
+    "content": "Parents are being urged to revisit the screen time limits they impose on their kids when they head back to school. It says stressed parents may take a more relaxed attitude to screen time during the summer break, and this can prove seriously detrimental to their children once the new school term begins.\nAdditionally, experts say that the two hours a day limit previously recommended is now outdated, and parents should take a more sophisticated approach based on “the 5 Cs” …",
+    "pub_date": "2026-08-12T11:03:24.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "General",
+    "id": 4649
+  },
+  {
     "source_name": "Macworld",
     "title": "Apple’s iPhone event will be packed with intrigue",
     "link": "https://www.macworld.com/article/3209849/apples-iphone-event-is-coming-soon-these-are-the-devices-and-surprises-on-the-way.html",
@@ -2968,35 +2998,5 @@
     "creator": "Marcus Mendes",
     "tags": "Rumors",
     "id": 4197
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
-    "link": "https://9to5mac.com/2026/08/06/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
-    "content": "GymKit has been one of Apple Watch’s smartest fitness features since it launched in 2017. Tap your watch to compatible gym equipment, and Apple Watch shares your heart rate while the machine sends back metrics like distance, incline, pace, and calories.\nWith iOS 27, Apple is expanding that idea beyond Apple Watch. I tested the new GymKit on iPhone and AirPods Pro 3 experience with a GymKit-compatible treadmill. It basically gives you the Apple Watch GymKit workout tracking experience, just without the watch. This could be useful in a lot of scenarios.",
-    "pub_date": "2026-08-06T19:51:07.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS",
-    "id": 4198
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "X Money FAQ: Account suspensions, 6% APY, physical cards, and more",
-    "link": "https://9to5mac.com/2026/08/06/x-money-faq-account-suspensions-6-apy-physical-cards-and-more/",
-    "content": "Following X Money’s launch last month, one question has repeatedly surfaced: What happens to your money if X suspends or closes your social media account?",
-    "pub_date": "2026-08-06T19:37:23.000Z",
-    "creator": "Zac Hall",
-    "tags": "General",
-    "id": 4199
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Free ChatGPT Users Get Unlimited Text Chats and GPT-5.6 Luna",
-    "link": "https://www.macrumors.com/2026/08/06/chatgpt-free-unlimited-text-chats/",
-    "content": "OpenAI today said it is making GPT–5.6 Luna the default model for Free and Go ChatGPT users, giving them access to a newer, more capable model to replace GPT–5.5 Instant. The company is letting Free and Go users access unlimited text chats, with no text-based rate limits. Limits will still apply for file uploads, images, and other ChatGPT tools. There's also a new Think button coming that turns on higher reasoning.\r\n\r\n\r\nFor Plus and Pro users, GPT–5.6 Sol is more reliable with facts and gives more focused answers. OpenAI added a slider to let users select how much thought ChatGPT puts into a response, plus the company tweaked the detail the model offers for each question to prevent it from giving extra information when it's not needed.\r\n\r\nOpenAI says GPT–5.6 Sol will avoid unnecessary formatting and will offer a \"helpful correction when simply agreeing wouldn't be useful.\" It is also supposed to make fewer mistakes, especially when answers depend on dates, numbers, sources, rules, or assumptions. The Sol update is only for Chat, and the version for Work and Codex is unchanged.\r\n\r\nChatGPT's Instant and Thinking experiences have a more consistent tone and behavior so it doesn't feel like switching to a model with a different tone or style.\r\n\r\nPlus and Pro users have access to the updated GPT–5.6 Sol and the slider in ChatGPT starting today. GPT–5.6 Luna is becoming the default model for Free and Go users this week, with unlimited text chats and the Think button coming next week.\r\n\r\niPad, and Mac.\nTags: ChatGPT, OpenAI\nThis article, \"Free ChatGPT Users Get Unlimited Text Chats and GPT-5.6 Luna\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-06T19:27:11.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,iOS",
-    "id": 4191
   }
 ]
