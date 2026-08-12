@@ -1,5 +1,65 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Claude’s Chrome side panel is now a full Cowork session",
+    "link": "https://9to5mac.com/2026/08/12/claude-cowork-chrome/",
+    "content": "Claude is turning its Chrome side panel into a full Cowork session, allowing browser-based tasks and conversations to follow users across Claude’s other apps.",
+    "pub_date": "2026-08-12T20:46:00.000Z",
+    "creator": "Zac Hall",
+    "tags": "General",
+    "id": 4701
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "iPhone 17 Pro vs Google Pixel 11 Pro: Tech titan flagships compared",
+    "link": "https://appleinsider.com/inside/iphone-17/vs/iphone-17-pro-vs-google-pixel-11-pro-tech-titan-flagships-compared?utm_source=rss",
+    "content": "Google has just launched its new Pixel smartphone line, with the Pixel 11 Pro going toe-to-toe with Apple's iPhone 17 Pro. Here's how the spec sheets compare.\n\n\niPhone 17 Pro [left], Google Pixel 11 Pro [right]\nGoogle launched the Pixel 11 Pro as the compact half of its top-tier lineup, sitting below the larger Pixel 11 Pro XL. It lines up naturally against Apple's iPhone 17 Pro, the non-Max Pro model, and becomes the default option if you want a serious smartphone without the massive size.\nThat is, if you also don't want the Pixel 11 Pro Fold either.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-12T20:20:27.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS",
+    "id": 4705
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple billboard featuring toddler with iPhone causes controversy in Italy",
+    "link": "https://9to5mac.com/2026/08/12/apple-billboard-featuring-toddler-with-iphone-causes-controversy-in-italy/",
+    "content": "An Apple billboard showing a toddler holding an iPhone has drawn criticism in Italy, prompting the country’s children’s rights watchdog to refer the ad to three regulators for review. Here are the details.",
+    "pub_date": "2026-08-12T20:16:03.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 4702
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "watchOS 27 will add two new apps to your Apple Watch",
+    "link": "https://9to5mac.com/2026/08/12/watchos-27-will-add-two-new-apps-to-your-apple-watch/",
+    "content": "watchOS 27 is the next major software update for Apple Watch, and among its variety of new features, it will add two new apps to your Watch.",
+    "pub_date": "2026-08-12T20:15:16.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 4703
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Eddy Cue said the thing we wanted to hear on future Ted Lasso seasons",
+    "link": "https://9to5mac.com/2026/08/12/eddy-cue-said-the-thing-we-wanted-to-hear-on-future-ted-lasso-seasons/",
+    "content": "Ted Lasso has returned (watch here) for a highly anticipated fourth season, and Apple TV exec Eddy Cue has now hinted that the show has a long and bright future ahead beyond this season.",
+    "pub_date": "2026-08-12T19:27:21.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "General",
+    "id": 4704
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Twitch will train Amazon's AI on your streams unless you opt out",
+    "link": "https://appleinsider.com/articles/26/08/12/twitch-will-train-amazons-ai-on-your-streams-unless-you-opt-out?utm_source=rss",
+    "content": "Twitch now lets streamers block Amazon from using their broadcasts, clips, and other channel content to train generative AI. However, it's opt out, so here's how to do that.\n\nTwitch\nThe Amazon-owned streaming service announced the AI training opt-out on August 12. Users can find it under Security and Privacy in Twitch account settings, where it's labeled \"Training for Generative AI.\"\nTurning off the setting prevents Amazon from using a channel's streams, videos on demand, clips, highlights, chat, text, and images to train future models. Twitch says the opt-out covers Amazon models that generate or synthesize text, audio, images, or video.\n\n\nWe've added a setting that lets you opt out of having your channel content used to train generative AI content models across Amazon.\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-12T19:12:51.000Z",
+    "creator": "Andrew Orr <andreworr@appleinsider.com>",
+    "tags": "General",
+    "id": 4706
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Apple picks up Nate Gatten as new head of government affairs",
     "link": "https://appleinsider.com/articles/26/08/12/apple-picks-up-nate-gatten-as-new-head-of-government-affairs?utm_source=rss",
@@ -83,8 +143,8 @@
     "source_name": "MacRumors",
     "title": "Apple Hires Airline Exec as Vice President of Government Affairs",
     "link": "https://www.macrumors.com/2026/08/12/apple-vice-president-government-affairs/",
-    "content": "Apple hired former American Airlines executive vice president Nick Gatten as its new vice president of government affairs, reports Bloomberg.\r\n\r\n\r\nGatten will take on some of the duties of senior vice president of government affairs Katherine Adams, who is retiring at the end of 2026. Gatten will report to Apple senior vice president and general counsel Jennifer Newstead, with Adams to remain available in an advisory role until October 1.\r\n\r\nBloomberg says Gatten is a Republican that Apple felt would be able to align with the Trump administration. He previously worked at Fannie Mae where he managed a team that interfaced with Republican members of Congress, and he also oversaw government affairs at JPMorgan Chase & Co. and American Airlines.\r\n\r\nTim Cook in his new role. Cook plans to step down as Apple CEO on September 1, with hardware chief John Ternus to take over. Cook will remain on as executive chairman, engaging with policymakers and governments worldwide.\nThis article, \"Apple Hires Airline Exec as Vice President of Government Affairs\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-12T17:51:14.000Z",
+    "content": "Apple hired former American Airlines executive vice president Nick Gatten as its new vice president of government affairs, reports Bloomberg.\r\n\r\n\r\nGatten will take on some of the duties of senior vice president of government affairs Katherine Adams, who is retiring at the end of 2026. Gatten will report to Apple senior vice president and general counsel Jennifer Newstead, with Adams to remain available in an advisory role until October 1.\r\n\r\nBloomberg says Gatten is a Republican that Apple felt would be able to align with the Trump administration while also working with democrats. He previously worked at Fannie Mae where he managed a team that interfaced with Republican members of Congress, and he oversaw government affairs at JPMorgan Chase & Co. and American Airlines. He is also on the board of the Faith and Politics institution, an organization that \"cultivates mutual respect, moral reflection, increased understanding, and honest conversation among political leaders.\" From the article:\nAt the same time, Apple sees Gatten as someone who can work constructively with policymakers on both sides of the aisle, the people said. That will be especially important if the balance of power shifts in Washington. Democrats are vying to take control of at least one chamber of Congress in midterm elections in November, and Trump has less than 2 1/2 years left in his term.\nGatten will work closely with Tim Cook in his new role. Cook plans to step down as Apple CEO on September 1, with hardware chief John Ternus to take over. Cook will remain on as executive chairman, engaging with policymakers and governments worldwide.\nThis article, \"Apple Hires Airline Exec as Vice President of Government Affairs\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-12T17:51:08.000Z",
     "creator": "Juli Clover",
     "tags": "General",
     "id": 4688
@@ -2938,65 +2998,5 @@
     "creator": "Hartley Charlton",
     "tags": "iOS,Rumors",
     "id": 4287
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "9to5Mac Daily: August 7, 2026 – iPhone Fold hype, macOS updates",
-    "link": "https://9to5mac.com/2026/08/07/daily-august-7-2026/",
-    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.",
-    "pub_date": "2026-08-07T16:15:59.000Z",
-    "creator": "Seth Kurkowski",
-    "tags": "Mac,iOS,App Store",
-    "id": 4289
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Apple faces iPhone 18 Pro DRAM shortage weeks before launch",
-    "link": "https://www.cultofmac.com/news/iphone-18-pro-dram-shortage-launch",
-    "content": "An iPhone 18 Pro DRAM shortage reportedly leaves $1 billion worth of Apple chips stuck at TSMC, threatening tight supply at launch.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-07T16:15:11.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,iOS,Silicon",
-    "id": 4304
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "MacBook Pro users will soon have two compelling new upgrade options",
-    "link": "https://9to5mac.com/2026/08/07/macbook-pro-users-will-soon-have-two-compelling-new-upgrade-options/",
-    "content": "Apple is rumored to give MacBook Pro users two very different new models to choose from this fall: an M6 MacBook Pro and an all-new MacBook Ultra. Here’s what’s coming.",
-    "pub_date": "2026-08-07T16:13:21.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "Mac",
-    "id": 4290
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Flags Discovery Delays in Its Lawsuit Against Jon Prosser",
-    "link": "https://www.macrumors.com/2026/08/07/apple-flags-delays-in-its-prosser-lawsuit/",
-    "content": "Apple has told a federal court that it hasn't heard from Jon Prosser's legal team in a month, as discovery drags on in its trade secret lawsuit against the leaker.\r\n\r\n\r\nIn a joint status report filed on Wednesday in the Northern District of California, Apple's attorneys said they had made repeated attempts to reach Prosser's counsel about outstanding discovery issues without success. From the filing:\r\n\r\nApple and Mr. Prosser have worked to advance this case through limited discovery. Mr. Prosser provided documents and communications to Apple, and sat for a deposition on June 16, 2026. Unfortunately, Apple last heard from Mr. Prosser's counsel on July 6th, 2026, despite repeated attempts to communicate and follow up on outstanding discovery issues. There still appear to be deficiencies in Mr. Prosser's productions, and Apple has notified Mr. Prosser's counsel of those issues.\n\r\n\r\nShortly before the report was filed, Prosser's attorney told Apple's legal team that the delay likely stems from Prosser welcoming his second child and attending to the newborn's care. The attorney indicated he would find dates for Prosser to provide the remaining discovery materials.\r\n\r\nCo-defendant Michael Ramacciotti, who Apple says accessed the confidential device at the center of the case, has continued cooperating throughout the case. He agreed to supplement his interrogatory responses and sit for a second deposition.\r\n\r\nsued Prosser and Ramacciotti in July 2025, accusing them of misappropriating trade secrets tied to then-unreleased iOS 26 software, including the Liquid Glass redesign, by accessing a development iPhone belonging to Apple engineer Ethan Lipnik.\r\n\r\nenter a default against him in October 2025 that barred him from contesting Apple's allegations. Prosser's attorney successfully petitioned to have that default set aside in June 2026, and Prosser filed a formal answer in the case on July 2. In it, he admitted joining a FaceTime call in which Ramacciotti showed him unreleased iOS features running on the development device, but denied that what he saw constituted trade secrets and denied knowing the device belonged to Lipnik.\r\n\r\nTags: Jon Prosser, Apple Lawsuits\nThis article, \"Apple Flags Discovery Delays in Its Lawsuit Against Jon Prosser\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-07T16:07:57.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "iOS",
-    "id": 4288
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple seems to have abandoned Cinematic mode, and that’s a mistake",
-    "link": "https://9to5mac.com/2026/08/07/apple-seems-to-have-abandoned-cinematic-mode-and-thats-a-mistake/",
-    "content": "When Apple unveiled the iPhone 13 back in 2021, it made a huge deal over a headline new feature, Cinematic mode. This is the video equivalent of Portrait mode, allowing you to select a focus point and blur the background.\nPortrait mode has improved dramatically in successive generations, but the same cannot be said of Cinematic mode. The company appears to have completely lost interest in the feature, and although that’s understandable in one way, I would argue it’s a big mistake …",
-    "pub_date": "2026-08-07T16:00:00.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "iOS",
-    "id": 4291
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple expands refurb store with rare M5 MacBook Pro configs, Apple TV 4K, more",
-    "link": "https://9to5mac.com/2026/08/07/apple-expands-refurb-store-with-rare-m5-macbook-pro-configs-apple-tv-4k-more/",
-    "content": "Apple has added a host of new products to its official Certified Refurbished Store this week. New M5 MacBook Pro models, the Studio Display XDR, high-end M5 MacBook Air configurations, and more are available.",
-    "pub_date": "2026-08-07T15:56:51.000Z",
-    "creator": "Chance Miller",
-    "tags": "Mac,Silicon",
-    "id": 4277
   }
 ]
