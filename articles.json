@@ -1,5 +1,55 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Apple TV publishes the trailer for Stillwater’s fifth season",
+    "link": "https://9to5mac.com/2026/08/12/apple-tv-publishes-the-trailer-for-stillwaters-fifth-season/",
+    "content": "Today, Apple TV published the trailer for the fifth season of Stillwater, the platform’s Peabody and Emmy Award-winning mindfulness series. Watch it below.",
+    "pub_date": "2026-08-13T02:14:55.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 4721
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Siri AI could get a boost from news content with new publisher deal",
+    "link": "https://appleinsider.com/articles/26/08/13/siri-ai-could-get-a-boost-from-news-content-with-new-publisher-deal?utm_source=rss",
+    "content": "Hallucinations are a problem with any AI, especially when it involves summarizing content, so instead, Apple could let Siri AI provide news directly from an outlet via paid partnerships.\n\n\nSiri AI could get news content direct from publishers via a partnership\nThe iOS 27 beta is underway, and with it, users can test the new Siri AI. One of the first things users might notice with Siri AI is its tendency to share blocks of text pulled from sources rather than summarizing it.\nAccording to a report from The Wall Street Journal, Apple is reaching out to publishers to enter multi-year deals that would supply journalistic content for use with Siri AI. The details of the deals haven't been shared, but it seems Apple is seeking a pay-as-you-go model with a possible nine-figure budget for payments.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-13T01:15:03.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "iOS,Services",
+    "id": 4722
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Pegatron: iPhone 18 won't launch with iPhone 18 Pro",
+    "link": "https://appleinsider.com/articles/26/08/12/pegatron-says-the-base-iphone-18-wont-launch-alongside-the-iphone-18-pro-lineup?utm_source=rss",
+    "content": "An Apple supplier has lent additional credibility to ongoing rumors suggesting Apple will release the iPhone 18 base model separately in early 2027.\n\n\nImage credit: Pegatron\nIt seems increasingly likely that Apple will not release the core iPhone 18 at its expected September 2026 iPhone launch. Instead, the company may launch it in early 2027.\nThis isn't the first time we've heard this story. The rumor first surfaced nearly a year ago in August 2025.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-13T00:19:18.000Z",
+    "creator": "Amber Neely <amber@appleinsider.com>",
+    "tags": "iOS,Rumors",
+    "id": 4680
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple in Talks to Pay Publishers for News Content to Power Siri AI",
+    "link": "https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/",
+    "content": "Apple has approached publishers to establish content deals that would give Siri AI access to current news and information, reports The Wall Street Journal.\r\n\r\n\r\nApple is proposing multiyear agreements where publishers would receive payment when their content is used, which is different from standard AI deals. Typical deals between AI companies and news organizations have set fees for broad content access. Apple has discussed a nine-figure budget for the payments.\r\n\r\nThe Wall Street Journal says Apple previously inked deals that included AI training rights. Apple has also worked with publishers for its Apple News+ service since 2019, though some publishers were unhappy with the content deals and ended their partnerships.\r\n\r\niOS 27, iPadOS 27, and macOS 27. ‌Siri‌ AI is a major departure from the prior version of ‌Siri‌, and Apple has an incentive to ensure accurate news headlines. An iOS 18 notification summary feature turned out to be an embarrassment after Apple Intelligence generated false headlines that misled users. Apple ended up removing news summaries for more than a year while it made improvements.\nTag: Siri\nThis article, \"Apple in Talks to Pay Publishers for News Content to Power Siri AI\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-13T00:03:40.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS,Services",
+    "id": 4720
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Upgrade to Windows 11 Pro for just $10",
+    "link": "https://www.cultofmac.com/deals/microsoft-windows-11-pro-discount",
+    "content": "Why pay list price for Microsoft software? This Windows 11 sale allows you to upgrade your PC to Windows 11 Pro for just $9.97.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-12T23:50:14.000Z",
+    "creator": "Cult of Mac Deals",
+    "tags": "Mac,Services",
+    "id": 4726
+  },
+  {
     "source_name": "Cult of Mac",
     "title": "Pixel Watch 5 adds a feature Apple Watch desperately needs",
     "link": "https://www.cultofmac.com/news/pixel-watch-5-insulin-resistance-trends",
@@ -71,7 +121,7 @@
   },
   {
     "source_name": "AppleInsider",
-    "title": "Apple fails to delay filing new App Store fees to court as Epic battle continues",
+    "title": "Final countdown for Apple to produce App Store commission plan begins",
     "link": "https://appleinsider.com/articles/26/08/11/apple-fails-to-delay-filing-new-app-store-fees-to-court-as-epic-battle-continues?utm_source=rss",
     "content": "Apple is being forced to detail fees it wants to charge for outbound links in its continuing legal fight with Epic, and now it's only got 24 hours to file them.\n\n\nA Fortnite parody of Apple's famous 1984 commercial - Image Credit: Epic Games.\nThe ever-ongoing legal battle between Apple and Epic Games over what Apple should charge apps within the App Store has hit a snag for the iPhone maker. In the current phase, the two are fighting in the U.S. District Court for the Northern District of California over new fee proposal.\nAccording to X posts by Epic Games founder and CEO Tim Sweeney on Tuesday, Apple attempted to delay a filing of proposed fees to the court. To Sweeney's glee, that stay was denied.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
     "pub_date": "2026-08-12T21:57:16.000Z",
@@ -388,16 +438,6 @@
     "creator": "Zac Hall",
     "tags": "General",
     "id": 4675
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Pegatron says the base iPhone 18 won't launch alongside the iPhone 18 Pro lineup",
-    "link": "https://appleinsider.com/articles/26/08/12/pegatron-says-the-base-iphone-18-wont-launch-alongside-the-iphone-18-pro-lineup?utm_source=rss",
-    "content": "An Apple supplier has lent additional credibility to ongoing rumors suggesting Apple will release the iPhone 18 base model separately in early 2027.\n\n\nImage credit: Pegatron\nIt seems increasingly likely that Apple will not release the core iPhone 18 at its expected September 2026 iPhone launch. Instead, the company may launch it in early 2027.\nThis isn't the first time we've heard this story. The rumor first surfaced nearly a year ago in August 2025.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-12T15:48:10.000Z",
-    "creator": "Amber Neely <amber@appleinsider.com>",
-    "tags": "iOS,Rumors",
-    "id": 4680
   },
   {
     "source_name": "9to5Mac",
@@ -2958,45 +2998,5 @@
     "creator": "Ryan Christoffel",
     "tags": "iOS",
     "id": 4321
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "You may soon be able to create and export custom WhatsApp stickers straight from ChatGPT",
-    "link": "https://9to5mac.com/2026/08/07/you-may-soon-be-able-to-create-and-export-custom-whatsapp-stickers-straight-from-chatgpt/",
-    "content": "OpenAI is working on a feature that allows users to export custom stickers created on ChatGPT straight into WhatsApp. Here are the details.",
-    "pub_date": "2026-08-07T20:10:30.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 4322
-  },
-  {
-    "source_name": "Macworld",
-    "title": "If you want an iPhone 18 Pro, you’ll probably need to act fast to buy one",
-    "link": "https://www.macworld.com/article/3208754/apple-is-allegedly-scrambling-to-get-enough-ram-for-the-iphone-18-pro.html",
-    "content": "Macworld\n\n\nFormer Bloomberg correspondant and supply-chain expert Tim Culpan has bad news. A brief post on his Substack blog say that Apple isn’t immune to the RAM crunch that is affecting everyone right now. The company is scrambling to get DRAM modules from suppliers to the assembly plants for the iPhone 18 Pro and iPhone Ultra. \nWith less than two months before the phones ship out to consumers, production should be in full swing right now. But a shortage of DRAM chips means they’re not able to manufacture as many as they would like. It sounds like the iPhone 18 Pro may be in short supply when it first goes on sale. The iPhone Ultra, with a much higher price tag, is expected to have lower demand. It also may have a slightly later shipping date, giving a little more time for production to catch up.\nHe says processor wafers are “on the shelves awaiting packaging,” so if Apple can get the RAM it needs, it should be able to quickly get new iPhones on shelves.\nThe iPhone 18 Pro and iPhone Ultra should be announced at a special event in the second week of September, and ship to consumers in late September or early October.",
-    "pub_date": "2026-08-07T19:41:57.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,Silicon",
-    "id": 4313
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "These automakers still don’t support CarPlay, here’s why",
-    "link": "https://9to5mac.com/2026/08/07/these-automakers-still-dont-support-carplay-heres-why/",
-    "content": "CarPlay is a must-have for the majority of car buyers, but three major automakers don’t support the platform. Here’s the latest on why Tesla, Rivian, and GM continue to resist CarPlay — and whether there’s any chance they change their approach.",
-    "pub_date": "2026-08-07T19:14:14.000Z",
-    "creator": "Chance Miller",
-    "tags": "General",
-    "id": 4323
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Rumored to Launch Three New 'Ultra' Products by Early Next Year",
-    "link": "https://www.macrumors.com/2026/08/07/three-new-apple-ultra-products-rumored/",
-    "content": "According to various reports from sources such as Bloomberg's Mark Gurman and Macworld's Filipe Espósito, Apple is planning to release up to three new products with \"Ultra\" branding between late 2026 and early 2027.\r\n\r\n\r\nThe long-rumored foldable iPhone is expected to be called the \"iPhone Ultra.\" Rumored features include a 7.7-inch inner display, a 5.3-inch outer display, two rear cameras, one front camera, a Touch ID power button instead of Face ID, and more. The device's large inner screen will be ideal for watching videos and multitasking.\r\n\r\nApple is expected to release the \"iPhone Ultra\" this September, alongside the iPhone 18 Pro and iPhone 18 Pro Max. In the U.S., it has been estimated that the device will have a starting price of anywhere from $1,999 to $2,499.\r\n\r\nset to be released as early as this year — it would be fitting for them to be unveiled alongside the \"iPhone Ultra\" this September.\r\n\r\n\r\n\"AirPods Ultra\" are essentially rumored to be AirPods Pro with tiny infrared cameras that serve as eyes for Siri. The cameras will help to enhance the Visual Intelligence feature on the iPhone 15 Pro and newer, and a small LED light on the earbuds will indicate when the cameras are active, according to Gurman's reporting.\r\n\r\nOn iOS 27, Visual Intelligence is accessible through the Camera app via a new \"Siri\" mode. \"AirPods Ultra\" would provide a more hands-free experience.\r\n\r\n\"The idea is to let users ask questions about an item they might be looking at,\" he said. If someone is looking at ingredients on their kitchen countertop, for example, they could ask Siri for dinner ideas.\r\n\r\nseemingly hinted at AirPods with cameras, so a launch could be fast approaching.\r\n\r\n\r\nFinally, Apple is reportedly planning a \"MacBook Ultra\" with an OLED display that doubles as a touch screen. Other rumored features include M5 Pro and M5 Max chips, a Dynamic Island, a thinner design compared to the latest MacBook Pro models, and potentially even an Apple-designed C2 modem for built-in 5G/LTE cellular connectivity.\r\n\r\nApple plans to release this new MacBook by early 2027, according to Gurman.\r\n\r\nTags: AirPods Ultra, iPhone Ultra, MacBook Ultra\nThis article, \"Apple Rumored to Launch Three New 'Ultra' Products by Early Next Year\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-07T19:06:12.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "Mac,iOS,Silicon,App Store",
-    "id": 4317
   }
 ]
