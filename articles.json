@@ -1,5 +1,45 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "New wave of Apple threat notifications reach 110 countries to warn about targeted attacks",
+    "link": "https://appleinsider.com/articles/26/08/14/new-wave-of-apple-threat-notifications-reach-110-countries-to-warn-about-targeted-attacks?utm_source=rss",
+    "content": "Apple threat notifications are meant to help notify users when they may have been targeted by mercenary spyware attacks, and another notification has been sent to users across 110 countries.\n\n\nApple threat notifications go out to users in 110 countries\nA new support document details what a threat notification is and what steps a user might take upon receiving one. Apple says it has sent out warnings to users across 150 countries to date.\nAccording to a report from TechCrunch, Apple sent out threat notifications to users in 110 countries on Thursday. The number of users or types of entities targeting them was not shared.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-14T01:55:52.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "General",
+    "id": 4816
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple seeks settlement talks with Epic Games in new court filing",
+    "link": "https://9to5mac.com/2026/08/13/apple-seeks-settlement-talks-with-epic-games-in-new-court-filing/",
+    "content": "In addition to submitting its proposed commission structure for purchases made outside the App Store’s IAP system in the US, Apple filed a motion indicating it is willing to explore a settlement with Epic Games. Here are the details.",
+    "pub_date": "2026-08-14T01:39:07.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "App Store",
+    "id": 4813
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple sends fresh wave of mercenary spyware warnings worldwide",
+    "link": "https://9to5mac.com/2026/08/13/apple-sends-fresh-wave-of-mercenary-spyware-warnings-worldwide/",
+    "content": "Apple has notified users in 110 countries who it suspects may have been targeted by spyware attacks. Here are the details.",
+    "pub_date": "2026-08-14T00:54:31.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 4814
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iPhone 17 Pro One Year Later: What Held Up and What Didn't",
+    "link": "https://www.macrumors.com/2026/08/13/iphone-17-pro-one-year-later/",
+    "content": "We're getting close to the launch of new iPhone 18 Pro models that will replace the iPhone 17 Pro models, so MacRumors videographer Dan Barbera decided to take a look back at the iPhone he's been using for close to 12 months.\r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\nCeramic Shield 2 was the best iPhone upgrade this year. Apple said it's more resistant to scratches, and that turned out to be true. Dan goes caseless, and his ‌iPhone 17 Pro‌ has only faint scratches, while the 16 Pro was scratched after three weeks. The iPhone has also survived facedown drops with no damage, but there are a few chips in the aluminum along the edges. There have been reports of the orange color fading over time, but Dan didn't see that with his device.\r\n\r\nBattery life was also a standout on the ‌iPhone 17 Pro‌. It's able to keep up with a full day of heavy use, which is normally only possible with the larger battery in the Pro Max iPhones. Dan swapped to the smaller ‌iPhone 17 Pro‌ over the 17 Pro Max because the battery lasted longer than the 16 Pro battery.\r\n\r\niOS 27 beta. Running beta software can affect battery life and device performance.\r\n\r\nRelated Roundup: iPhone 17 Pro\nBuyer's Guide: iPhone 17 Pro (Don't Buy)\nRelated Forum: iPhone\nThis article, \"iPhone 17 Pro One Year Later: What Held Up and What Didn't\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-13T23:58:50.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS",
+    "id": 4812
+  },
+  {
     "source_name": "MacRumors",
     "title": "What's Coming in September: New iPhones, Apple Watches and More",
     "link": "https://www.macrumors.com/2026/08/13/apple-september-announcement-rumors/",
@@ -61,7 +101,7 @@
   },
   {
     "source_name": "9to5Mac",
-    "title": "Apple proposes commissions of up to 15% for off-App Store purchases in the US",
+    "title": "Apple proposes commissions of up to 15% for off-App Store purchases in the US [U]",
     "link": "https://9to5mac.com/2026/08/13/apple-proposes-commissions-of-up-to-15-for-off-app-store-purchases-in-the-us/",
     "content": "Apple has submitted its proposal for the fees it should be allowed to charge for purchases made outside of the App Store system in the Epic Games case. Here are the details.",
     "pub_date": "2026-08-13T22:05:00.000Z",
@@ -138,6 +178,16 @@
     "creator": "Zac Hall",
     "tags": "Mac,App Store",
     "id": 4800
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "New HomePod mini 2: Release date, features, price, and rumors",
+    "link": "https://9to5mac.com/2026/08/13/homepod-mini-2-release-date-features-price-rumors/",
+    "content": "HomePod mini arrived in 2020, and nearly six years later, Apple is reportedly preparing a long-awaited second generation. Here is everything we know so far.",
+    "pub_date": "2026-08-13T20:00:00.000Z",
+    "creator": "Zac Hall",
+    "tags": "General",
+    "id": 4815
   },
   {
     "source_name": "9to5Mac",
@@ -2948,55 +2998,5 @@
     "creator": "Mike Wuerthele <mike@appleinsider.com>",
     "tags": "iOS,Rumors",
     "id": 4440
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "iMacs with OLED screens now predicted for 2029",
-    "link": "https://appleinsider.com/articles/26/08/10/imacs-with-oled-screens-now-predicted-for-2029?utm_source=rss",
-    "content": "LG Display is reportedly developing 5-stack OLED panels rumored to be headed to the 24-inch iMac, which give ever better brightness and image quality.\n\n\nA 24-inch iMac already has a great display, but a 5-stack OLED one would be better and last longer.\nApple is clearly planning to bring OLED displays to all of its devices, potentially with the iPhone 20 Pro getting 2-stack or what the company calls Tandem OLED panels. Back in 2022, Apple was so keen on 2-stack for the iPad that it insisted an initially reluctant Samsung develop the design.\nSamsung's reluctance was because at the time, only Apple wanted the costly technology. Apple's insistence was because 2-stack OLED has a longer life and produces a better image quality than single OLED panels.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-10T12:41:01.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "Mac,iOS",
-    "id": 4441
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Briefly Posts China Guide for Connecting Siri to Qwen AI",
-    "link": "https://www.macrumors.com/2026/08/10/apple-posts-guide-for-connecting-siri-to-qwen-ai/",
-    "content": "Apple briefly published a support guide in China explaining how Mac users can connect Alibaba's Qwen AI to Siri and Writing Tools, before pulling it entirely less than a day later.\r\n\r\n\r\nReuters first spotted the Chinese-language guide on Apple's support site on August 8, which explained how eligible Mac users in mainland China could connect Qwen, Alibaba's family of generative AI models, to ‌Siri‌ and Writing Tools. According to the document, the extension required macOS 26.6 or later, needed users to sign into their own Qwen account, and specified that Alibaba was barred from using submitted materials to train or improve its models.\r\n\r\niPad.\r\n\r\nChatGPT extension available elsewhere, which similarly lets ‌Siri‌ hand off complex requests and gives Writing Tools a \"Compose\" option, all on an opt-in basis.\r\n\r\nReadHub reported that the guide had disappeared from Apple's site, and TechNode reports that Apple's customer service told Chinese media it had received no notification of a new feature launch. Separately, tech analyst Liu Dingding told the Global Times that the takedown could reflect pending technical adjustments still tied to the regulatory process, rather than a full reversal.\r\n\r\nback in March, when Apple Intelligence itself briefly went live for some Chinese users before being pulled offline without regulatory approval. China maintains strict rules around releasing AI features, and in practice requires companies like Apple to partner with local providers. Apple originally lined up Baidu as its primary China AI partner, but by February 2025, reports indicated Alibaba had taken over as the lead partner after Baidu's models fell short of Apple's requirements, with Baidu shifted to a supporting role.\r\n\r\ncleared Apple Intelligence for launch in the country in July, registering Apple's on-device AI service with the Cyberspace Administration of China. That approval covered the iPhone only, and Apple did not say whether or when the ‌iPad‌ and Mac would follow, making this week's brief Mac-specific guide the clearest signal yet on the Mac timeline specifically.\r\n\r\nTags: Alibaba, Apple Intelligence, China, Siri\nThis article, \"Apple Briefly Posts China Guide for Connecting Siri to Qwen AI\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-10T12:21:13.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "Mac,iOS,Rumors",
-    "id": 4436
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "iPhone 18 Pro expected to be 40% more expensive to make than iPhone 17 Pro",
-    "link": "https://appleinsider.com/articles/26/08/10/iphone-18-pro-expected-to-be-40-more-expensive-to-make-than-iphone-17-pro?utm_source=rss",
-    "content": "Here come the price hikes: the continuing memory crisis will make the iPhone 18 Pro even more expensive to manufacture, with it expected to cost Apple almost 40% more to make than the iPhone 17 Pro.\n\n\nA mock-up of a dark cherry iPhone 18 Pro, one of the rumored colorways. \nLike almost all other tech producers, Apple is subject to the rising costs and limited supply of memory. With the iPhone 18 Pro release on the horizon and expected to cost consumers more than ever to acquire, it will also be very expensive for Apple to make in the first place.\nIn analysis from TrendForce into the bill of materials (BOM) of the iPhone 18 Pro, it is believed that the cost of producing one unit will be about 38% higher year-over-year, compared to the iPhone 17 Pro.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-10T12:11:30.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "iOS",
-    "id": 4428
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "A round Apple Watch is possible, but an Apple Ring more likely",
-    "link": "https://9to5mac.com/2026/08/10/a-round-apple-watch-is-possible-but-an-apple-ring-more-likely/",
-    "content": "A Bloomberg report yesterday suggested that we could see a pretty dramatic shake-up in a future Apple Watch lineup.\nIn particular, it suggested that the company was exploring the possibility of one or more models with a round rather than square form factor …",
-    "pub_date": "2026-08-10T12:09:31.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "iOS",
-    "id": 4439
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Testing Chinese Memory Chips in iPhones and MacBooks",
-    "link": "https://www.macrumors.com/2026/08/10/apple-testing-chinese-memory-iphones-macs/",
-    "content": "Apple has been testing memory chips from China's ChangXin Memory Technologies (CXMT) across product lines including iPhones and MacBooks, according to a report today from The Wall Street Journal ($).\r\n\r\n\r\nLaptop makers HP and Acer have already started using memory chips from CXMT in devices sold outside the U.S. Meanwhile, Apple has held early talks with CXMT about supplying components for devices sold in China, and the company is hoping for a sign-off from the White House before going further. The Financial Times reported last month that Apple had begun qualifying CXMT's DRAM, but today's report is the first to place that testing inside specific product categories.\r\n\r\nWSJ that Apple can buy off-the-shelf CXMT components and haggle over price, but it can't commission chips designed to its own requirements.\r\n\r\nApple usually has memory specially configured to work optimally with its own silicon, so using standard parts could mean reworking sections of its hardware, or potentially settling for less-than-ideal performance.\r\n\r\nrule out using Chinese memory entirely. A response to the request is due August 21.\r\n\r\nThere are supply issues to contend with as well. CXMT has reportedly maxed out production for the year and has little room for new international customers, having already prioritized domestic buyers such as ByteDance, Tencent, and Xiaomi. Its prices reportedly sit level with (and sometimes above) those of Micron, SK Hynix, and Samsung. That's bad news for Apple. A fourth supplier only helps if it has chips to sell and sells them cheaper. Right now though, CXMT does neither.\r\n\r\nraised prices across its product lineup (excepting iPhone models) in June, blaming memory costs driven by the AI infrastructure demand. \nTags: China, The Wall Street Journal\nThis article, \"Apple Testing Chinese Memory Chips in iPhones and MacBooks\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-10T12:02:03.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "iOS",
-    "id": 4437
   }
 ]
