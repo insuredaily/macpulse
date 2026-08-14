@@ -1,6 +1,16 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Apple adds new MacBook Air configs, iPhone 16 Plus models, more to refurb store",
+    "link": "https://9to5mac.com/2026/08/14/apple-adds-new-macbook-air-iphone-16-plus-refurb-store/",
+    "content": "Apple has expanded its Certified Refurbished Store this week with a handful of new MacBook Air and MacBook Pro configurations. It also includes unique iPhone 16 Plus models, Apple Watch, and more.",
+    "pub_date": "2026-08-14T20:57:07.000Z",
+    "creator": "Chance Miller",
+    "tags": "Mac,iOS",
+    "id": 4903
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "ChatGPT subscribers can now open and edit Google Drive files from inside the chat",
     "link": "https://9to5mac.com/2026/08/14/chatgpt-subscribers-can-now-open-and-edit-google-drive-files-from-inside-the-chat/",
     "content": "ChatGPT is rolling out a deeper integration with Google Drive, allowing users to add Google Drive files to their ChatGPT Library and edit documents without leaving the chat. Here are the details.",
@@ -2988,15 +2998,5 @@
     "creator": "Macworld",
     "tags": "iOS,App Store",
     "id": 4505
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Latest iOS 27 Beta Expands Siri AI Voice Customization",
-    "link": "https://www.macrumors.com/2026/08/10/ios-27-siri-ai-voice-customization/",
-    "content": "With the fifth beta of iOS 27, Apple has expanded the voice customization options for Siri AI.\r\n\r\n\r\nPace and Expressivity can now be adjusted for more of the available voice options instead of just the two American voices.\r\n\r\nThere are seven American voice options and four British voices to choose from, all of which can be customized with different Pace and Expressivity settings. Pace changes talking speed, while expressivity changes emphasis.\r\n\r\niPhone 17 Pro, ‌iPhone 17 Pro‌ Max, or iPhone Air to use voice customization on an iPhone.\r\n\r\niPad Pro and newer, also with at least 12GB RAM.\nRelated Roundups: iOS 27, iPadOS 27\nTag: Siri\nThis article, \"Latest iOS 27 Beta Expands Siri AI Voice Customization\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-10T18:57:57.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS",
-    "id": 4466
   }
 ]
