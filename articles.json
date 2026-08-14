@@ -1,6 +1,16 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "WhatsApp working on customizable emoji reaction sets on iOS",
+    "link": "https://9to5mac.com/2026/08/14/whatsapp-working-on-customizable-emoji-reaction-sets-on-ios/",
+    "content": "New references in the latest WhatsApp beta for iOS suggest users may soon be able to replace the app’s standard set of emoji reactions with their own selection. Here are the details.",
+    "pub_date": "2026-08-14T21:49:23.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS,App Store",
+    "id": 4905
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Apple adds new MacBook Air configs, iPhone 16 Plus models, more to refurb store",
     "link": "https://9to5mac.com/2026/08/14/apple-adds-new-macbook-air-iphone-16-plus-refurb-store/",
     "content": "Apple has expanded its Certified Refurbished Store this week with a handful of new MacBook Air and MacBook Pro configurations. It also includes unique iPhone 16 Plus models, Apple Watch, and more.",
@@ -2988,15 +2998,5 @@
     "creator": "Malcolm Owen <malcolm@appleinsider.com>",
     "tags": "Rumors,Silicon",
     "id": 4494
-  },
-  {
-    "source_name": "Macworld",
-    "title": "iOS 27 beta 5 is out now with further refinements and fixes",
-    "link": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
-    "content": "Macworld\n\n\n\n\n\nOn the first day of the WWDC developer conference, Apple released the first developer beta of its new operating system. This year, that means that the first release of iOS 27 outside Cupertino came on June 8, 2026.\nThe pattern goes like this: Apple releases developer-only betas for the first month or so, and then starts releasing the same build for both developers and public beta testers. Based on historical precedent, we expect the third or fourth beta to be the first one to go out to public beta testers rather than just developers. \nIf you want to try out the new OS 27 updates and provide feedback, check out our article on how to become a beta tester. It’s easy.\nUpdated August 11, 2026: The fifth beta of iOS 27 is now available to developers and public beta testers.\nWhat’s new in iOS 27\nThe big iOS 27 release this year is focused on three main areas:\nTrust and Safety – New parental controls to keep kids safe and control screen time.\nPerformance and refinement – Speeding everything up, improving efficiency, tweaking interfaces, and addressing dozens of small user requests.\nApple Intelligence and Siri – Entirely new Apple Intelligence models improve AI throughout the system, and a brand-new Siri is vastly more capable than ever before.\nFor a more complete breakdown of all the new features and changes, check out our iOS 27 guide.\nBeta 5 brings the following changes, in addition to bug fixes and performance improvements:\nUpdated icons for several apps including Safari, Siri, Remote, and Freeform.\nSiri’s enhanced voice now supports British English.\nAn adjustment in Search Settings for how many app suggests and such should be on Home Screen search suggestions.\niOS 27: How to install the developer beta\nYou’ll need to be registered as an Apple Developer, but a free developer account will do. You can get one via Xcode or the Apple Developer app in iOS. Here’s how to do it via the Apple Developer app:\nDownload the Apple Developer App from the App Store.\nOpen the app.\nTap on Account.\nSign in using your usual Apple ID.\nOnce you have a free developer account, just follow the same instructions as with the public beta:\nOpen Settings.\nTap General, then Software Update.\nMake sure the Beta Updates selection is set to iOS 27 Developer Beta.\nFollow the on-screen instructions.\niOS 27: How to install the public beta\nThe first iOS 27 public beta is not available yet but is expected to arrive in July. When it lands, you can follow these steps to test it out even if you’re not a developer:\nClick Sign Up on the Apple Beta page and register with your Apple ID.\nLog in to the Beta Software Program.\nClick Enroll your iOS device.\nOpen the Settings app, tap General, then Software Update.\nIn the Beta Updates section, select the iOS 27 Public Beta.\nIt may take a few moments after registering for the beta option to appear in Software Update. \nIf you want to uninstall the iOS 27 beta read: How to remove an iOS beta from your iPhone.",
-    "pub_date": "2026-08-10T18:58:37.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,App Store",
-    "id": 4505
   }
 ]
