@@ -1,5 +1,15 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "My DIY iPhone camera mod looks absurd but is great to use",
+    "link": "https://9to5mac.com/2026/08/14/my-diy-iphone-camera-mod-looks-absurd-but-is-great-to-use/",
+    "content": "I fully acknowledge that my DIY iPhone camera mod looks exceedingly silly – but it’s actually made my iPhone photography more practical and more enjoyable.\nIt was initially something I came up with to solve a problem for one particular video shoot, but I’ve actually found myself using it a surprising number of times …",
+    "pub_date": "2026-08-14T12:12:30.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "iOS",
+    "id": 4837
+  },
+  {
     "source_name": "AppleInsider",
     "title": "iPhone Ultra, OpenAI's Alexa Dot, & AI costs on the AppleInsider Podcast",
     "link": "https://appleinsider.com/articles/26/08/14/iphone-ultra-openais-alexa-dot-ai-costs-on-the-appleinsider-podcast?utm_source=rss",
@@ -41,6 +51,16 @@
   },
   {
     "source_name": "Macworld",
+    "title": "How to save a video frame as a high-res image in iOS 27",
+    "link": "https://www.macworld.com/article/3211750/how-to-save-a-video-frame-as-a-high-res-image-in-ios-27.html",
+    "content": "Macworld\n\n\n\n\n\niOS 27 includes lots of useful improvements and tweaks to the Camera and Photos experience, and several of them revolve around making it easier to organize and find your big library of images.\nOne of the ways Apple is taking care of a common issue is in producing still images from videos. Prior to iOS 27, you’d have to use a special application or just freeze your video at the right spot and take a screenshot. But screenshots of videos are fraught with problems. The resolution is lower; you’ll see on-screen interface elements; black bars are shown; the format is PNG instead of HEIF; and the metadata classifies the image as a screenshot instead of a photo.\nWith iOS 27, Apple lets you save any frame from a video in your Photos collection as a new image in just a few taps. Here’s how.\nIn the Photos app, open one of your videos.\nUse the seek bar to advance to the part of the video you wish to save as an image, and pause.\nTap the tree-dot (…) menu in the upper right.\nSelect Save Video Frame as Photo.\n\nFoundry\n\n\n\n\nThis also works in the edit menu, when you’re trimming the ends of your video, cropping it, or adjusting colors. Just choose the three-dot menu, as before.\nNote that this new image will be in a normal photo format (HEIF or JPG, depending on your settings) rather than PNG like a screenshot. It will be the full resolution of your video. And it will inherit metadata from the original video, including date and location.\nThis means your new photo won’t appear at the bottom of your photo library with your most recent images. You’ll have to scroll back to the date of your video to find the image you created.",
+    "pub_date": "2026-08-14T11:00:00.000Z",
+    "creator": "Macworld",
+    "tags": "iOS,App Store",
+    "id": 4843
+  },
+  {
+    "source_name": "Macworld",
     "title": "The Apple Watch is forever square",
     "link": "https://www.macworld.com/article/3211569/a-round-apple-watch-is-a-terrible-idea.html",
     "content": "Macworld\n\n\n\n\n\nSince it first launched around a decade ago, the Apple Watch’s exterior design has largely stayed the same. Sure, we got larger displays, thinner bezels, and a slimmer body, but the overall look today still resembles that of the Apple Watch Series 0. Many online users, in fact, have voiced their frustration over the smartwatch’s slow evolution, with some even suggesting that Apple should spice things up and switch to a circular design.\nBe careful what you wish for. According to a recent report, Apple has internally explored several new designs, including a round model like the Pixel or Galaxy watches. While thinking differently to fuel innovation is always welcome, a round Apple Watch will almost certainly remain an unreleased prototype buried in a secret Cupertino basement. It just doesn’t work.\nIt’s not actually a watch\nLet me start with a potentially controversial statement: the Apple Watch is not actually a watch; it’s a miniature computer strapped to our wrists. While, yes, it was inspired by analog watches and can tell the time, its purpose and the technology it packs transcend that traditional formula.\nMechanical timepieces typically come in circular designs to match the standard clock layout, but that’s not applicable to Apple Watches (or digital watches in general). You don’t hear people complaining about vintage Casio digital watches for having squarish designs. Just because a wearable sits on our wrists doesn’t mean it has to look the same as a traditional wristwatch. It’s okay to break free from archaic concepts when they become irrelevant.\nAll your other computing devices are rectangular. Why should the Apple Watch be any dfifferent?\nMahmoud Itani / Foundry\n\n\n\n\nBack to the mini computer. Today, we’re surrounded by all sorts of computing machines. We’ve got laptops, tablets, smartphones, smart TVs, smart fridge displays, car infotainment systems, and so on. The vast majority of these displays are rectangular because we’ve come to the conclusion that it’s the most intuitive form factor for computer screens. The Apple Watch is no different.\nI’ve used round Android smartwatches, and they’re a nightmare to operate. The way text moves along the circle’s curved edges when scrolling makes reading messages deeply challenging, and the entire user experience is wonky. You wouldn’t want to use a round iPhone, let alone a round version of a much smaller accessory with limited screen real estate like a smartwatch.\nCorners are more important than you’d think\nBeyond the unintuitive UI/UX, adopting a round Apple Watch would come with hardware compromises. \nSwitching from a square to a circle while maintaining the same width/diameter would decrease the overall area by around 20%. The battery would have to shrink, along with the space that houses the smartwatch’s advanced sensors and health monitors. While they may seem insignificant, the Apple Watch’s corners actually play an integral role in its internal architecture.\nRound smartwatches (such as the Google Pixel Watch 4) are tricky to use and require numerous hardware compromises.\nChris Martin / Foundry\n\n\n\n\nThink about the Complications\nChopping off the corners would also affect one of the Apple Watch’s essential software features: Complications. \nMost circular Apple Watch faces let you utilize the unused display corners by adding custom Complications. This handy perk allows you to quickly glance at the weather conditions, your heart rate, today’s date, Activity rings, battery level, and more. You can also use the feature to effortlessly launch apps or run shortcuts. \nwatchOS has been carefully crafted to take full advantage of the rectangular design, and no part of the screen currently goes to waste.\nDefacing an icon\nIt goes without saying that moving from a rectangle to a circle would require redesigning the extensive watch face library. Some faces will have to be completely dropped, while others will work less effectively. More importantly, all first- and third-party apps will need to be fully overhauled to support the new design. \nIt would essentially require rebuilding the entire watchOS platform from the ground up, and that’s not something Apple is willing to do. The company strategically avoids shocking its users with transformative changes to fundamental elements in such a manner, especially when the change serves no constructive purpose.\nOn the contrary, Apple is bringing watchOS closer to iOS by adopting familiar user interfaces. Pre-installed Apple Watch apps now resemble their iPhone counterparts as far as is practical, featuring similar designs and more advanced functionality, further contributing to the smartwatch’s independence. In fact, all Apple platforms are en route to becoming tweaked iterations of each other, with OS 27 streamlining the design language through Liquid Glass. Apple won’t throw that all away.\nYou can kiss those beautiful faces goodbye.\nMahmoud Itani / Foundry\n\n\n\n\nIt’s an Apple Watch\nApart from the functional software and hardware downgrades, adopting a round design would weaken the Apple Watch brand. \nIts present look has become an iconic representation of its identity, just like Pro iPhones’ rear camera arrangement. Anyone who spots the rectangular screen and protruding Digital Crown recognizes it’s an Apple Watch. A circular model would simply vanish into a sea of generic, uninspired round smartwatches; Apple would never let that happen.",
@@ -51,9 +71,9 @@
   },
   {
     "source_name": "MacRumors",
-    "title": "Apple Trained Own AI model for China Market With Help From Alibaba",
+    "title": "Apple Trained Own AI Model for China Market With Help From Alibaba",
     "link": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
-    "content": "Reuters reports that Apple has trained its own large language model for the China market, rather than relying on a third-party model to power its Apple Intelligence features in the country.\r\n\r\n\r\nThe LLM has been developed with the help of Alibaba, according to the report's sources. The development marks a break from Apple's previous strategy of relying on domestic models to bring generative AI to its devices sold in China.\r\n\r\nRollout of its AI features in China is expected in the coming months. The rollout is described by the report as a \"dual-track strategy\" for AI deployment in China, allowing Apple to navigate regulatory hurdles that have limited access for other U.S. tech companies.\r\n\r\nThe move makes Apple the first foreign company approved by the Chinese government to offer a proprietary AI model in the country.\r\n\r\nbriefly published a support guide in China explaining how Mac users can connect Alibaba's Qwen AI to Siri and Writing Tools, before pulling it entirely less than a day later.\nTags: Apple Intelligence, China\nThis article, \"Apple Trained Own AI model for China Market With Help From Alibaba\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "content": "Reuters reports that Apple has trained its own large language model for the China market, rather than relying on a third-party model to power its Apple Intelligence features in the country.\r\n\r\n\r\nThe LLM has been developed with the help of Alibaba, according to the report's sources. The development marks a break from Apple's previous strategy of relying on domestic models to bring generative AI to its devices sold in China.\r\n\r\nRollout of its AI features in China is expected in the coming months. The rollout is described by the report as a \"dual-track strategy\" for AI deployment in China, allowing Apple to navigate regulatory hurdles that have limited access for other U.S. tech companies.\r\n\r\nThe move makes Apple the first foreign company approved by the Chinese government to offer a proprietary AI model in the country.\r\n\r\nbriefly published a support guide in China explaining how Mac users can connect Alibaba's Qwen AI to Siri and Writing Tools, before pulling it entirely less than a day later.\nTags: Apple Intelligence, China\nThis article, \"Apple Trained Own AI Model for China Market With Help From Alibaba\" first appeared on MacRumors.com\nDiscuss this article in our forums",
     "pub_date": "2026-08-14T09:46:29.000Z",
     "creator": "Tim Hardwick",
     "tags": "Mac",
@@ -253,10 +273,10 @@
     "source_name": "MacRumors",
     "title": "Apple Says iPhone X is Now Obsolete",
     "link": "https://www.macrumors.com/2026/08/13/apple-says-iphone-x-is-now-obsolete/",
-    "content": "Apple today added the iPhone X and the 2018 model of the 15-inch MacBook Pro to its obsolete products list, according to an updated support document.\r\n\r\n\r\nReleased in November 2017, the iPhone X was the first iPhone with an OLED display and Face ID. The lack of a Touch ID home button resulted in the device having a more edge-to-edge screen with a notch for the front camera and Face ID sensors. The device featured a premium design with a glass back and a stainless steel frame.\r\n\r\nWhen an iPhone becomes obsolete, it is no longer eligible for repairs or other hardware service at Apple Stores or Apple Authorized Service Providers.\r\n\r\nin September 2018, but the device remained available at select resellers for longer.\r\n\r\nTag: Vintage and Obsolete Apple Products\nRelated Forum: iPhone\nThis article, \"Apple Says iPhone X is Now Obsolete\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-13T20:17:01.000Z",
+    "content": "Apple today added the iPhone X to its public-facing obsolete products list, according to an updated support document on its website.\r\n\r\n\r\nWhen an iPhone becomes obsolete, it is no longer eligible for repairs or other hardware service at Apple Stores or Apple Authorized Service Providers.\r\n\r\nin September 2018, but the device remained available at select resellers for longer.\r\n\r\nReleased in November 2017, the iPhone X was the first iPhone with an OLED display and Face ID. The lack of a Touch ID home button resulted in the device having a more edge-to-edge screen with a notch for the front camera and Face ID sensors. The device featured a premium design with a glass back and a stainless steel frame.\r\n\r\niOS 16 was the final major software version compatible with the iPhone X. Apple continues to release iOS 16 security updates for the device.\r\n\r\nTag: Vintage and Obsolete Apple Products\nRelated Forum: iPhone\nThis article, \"Apple Says iPhone X is Now Obsolete\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-13T20:16:53.000Z",
     "creator": "Joe Rossignol",
-    "tags": "Mac,iOS",
+    "tags": "iOS",
     "id": 4797
   },
   {
@@ -2978,25 +2998,5 @@
     "creator": "Tim Hardwick",
     "tags": "iOS",
     "id": 4448
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Today in Apple history: Dev defends I Am Rich, his totally useless $1,000 app",
-    "link": "https://www.cultofmac.com/apple-history/i-am-rich-app",
-    "content": "On August 10, 2008, developer Armin Heinrich called his ridiculous $1,000 iPhone app I Am Rich a work of art. Eight people bought the app.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-10T14:32:15.000Z",
-    "creator": "Luke Dormehl",
-    "tags": "Mac,iOS,App Store",
-    "id": 4463
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "B&H is blowing out M4 15-inch MacBook Air inventory at $1,279",
-    "link": "https://appleinsider.com/articles/26/08/10/bh-is-blowing-out-m4-15-inch-macbook-air-inventory-at-1279?utm_source=rss",
-    "content": "The closeout M4 15-inch MacBook Air is a top-seller at the discounted $1,279 price.\n\n\nThis blowout 15-inch MacBook Air deal is limited to stock on hand - Image credit: Apple\nB&H is looking to clear out remaining M4 MacBook Air inventory this week, with the 15-inch model dropping to $1,279. This spec includes a 10-core GPU, 16GB of memory, and 256GB of storage, with only the Midnight finish left in stock.\nBuy 15\" M4 Air for $1,279\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-10T14:32:03.000Z",
-    "creator": "Christine McKee <christine@appleinsider.com>",
-    "tags": "Mac,Silicon",
-    "id": 4456
   }
 ]
