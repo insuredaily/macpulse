@@ -1,5 +1,85 @@
 [
   {
+    "source_name": "Cult of Mac",
+    "title": "ChatGPT just learned to watch everything you do on your Mac",
+    "link": "https://www.cultofmac.com/news/chatgpt-computer-history-mac-feature",
+    "content": "ChatGPT Computer History tracks your Mac activity to build a searchable timeline, no screenshots involved.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-14T18:43:23.000Z",
+    "creator": "Anurag Chawake",
+    "tags": "Mac",
+    "id": 4887
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "How classic console games are coming to the Mac without emulation",
+    "link": "https://appleinsider.com/articles/26/08/14/how-classic-console-games-are-coming-to-the-mac-without-emulation?utm_source=rss",
+    "content": "Players can now play classic console games natively on Mac thanks to a growing scene of fan-made decompilations and recompilations. Here's how to get started.\n\n\nImage credit: Nintendo\nIf you've been around the block a time or two, you're probably familiar with emulation. It's the process in which a piece of software emulates an environment that another piece of software can run on.\nBut there are problems with emulation. The first is that it relies on an emulator, which can come with its own host of problems.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-14T18:41:39.000Z",
+    "creator": "Amber Neely <amber@appleinsider.com>",
+    "tags": "Mac",
+    "id": 4880
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple TV has 15+ new movies and it’s just the start of a big fall lineup",
+    "link": "https://9to5mac.com/2026/08/14/apple-tv-has-15-new-movies-and-its-just-the-start-of-a-big-fall-ahead/",
+    "content": "Apple TV just added a bunch of classic movies for subscribers, and the move comes just ahead of an especially film-heavy fall lineup for the streamer.",
+    "pub_date": "2026-08-14T18:28:31.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "General",
+    "id": 4876
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "HomeKit Weekly: This iPad app turns your HomeKit setup into a wall-mountable command center",
+    "link": "https://9to5mac.com/2026/08/14/dashboard-for-your-home/",
+    "content": "The ideal command center for your smart home is simple: take an old iPad, mount it somewhere central, and give it one job. Dashboard for your home is the really great Apple Home app that solves this problem. Cameras, thermostats, lights, local weather, and your calendar all on a single screen.",
+    "pub_date": "2026-08-14T18:11:00.000Z",
+    "creator": "Bradley C",
+    "tags": "iOS,App Store",
+    "id": 4877
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Get the time without even looking at your Apple Watch",
+    "link": "https://www.cultofmac.com/how-to/apple-watch-taptic-time",
+    "content": "You can read the time without even looking at your Apple Watch using a little-known feature called Taptic Time.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-14T18:08:42.000Z",
+    "creator": "D. Griffin Jones",
+    "tags": "Mac,iOS",
+    "id": 4888
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "PSA: Claude Code now enables auto mode as default, Anthropic says",
+    "link": "https://9to5mac.com/2026/08/14/psa-claude-code-enabling-auto-mode-as-default-next-week-anthropic-says/",
+    "content": "Claude Code auto mode has become the default permission setting for users starting today.\nSessions for Pro, Max, and Team users now use it unless a user or administrator has pinned another setting.",
+    "pub_date": "2026-08-14T18:00:00.000Z",
+    "creator": "Zac Hall",
+    "tags": "General",
+    "id": 4878
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Apple just declared the one-time ‘future of the smartphone’ obsolete",
+    "link": "https://www.macworld.com/article/3213392/apple-just-declared-the-one-time-future-of-the-smartphone-obsolete.html",
+    "content": "Macworld\n\n\n\n\n\nTen years ago, Apple announced the iPhone X with the message “The future is here.” Now, this important landmark in the history of the iPhone is officially obsolete.\nWhat does “obsolete” mean to Apple? When Apple no longer offers a product for sale for 5 years, it becomes “vintage” and gets limited software or hardware repair support. Once Apple has no longer distributed the product for sale for at least 7 years, it is considered “obsolete,” and you can no longer get parts or service.\nThat’s what happened to the iPhone X, which was no longer offered for sale by Apple in 2018, about a year after its original release.\nUpon its unveiling, Philip Schiller, then-senior vice president of Worldwide Marketing, had this to say: \n“iPhone X is the future of the smartphone. It is packed with incredible new technologies, like the innovative TrueDepth camera system, beautiful Super Retina display and super fast A11 Bionic chip with neural engine. iPhone X enables fluid new user experiences — from unlocking your iPhone with Face ID, to playing immersive AR games, to sharing Animoji in Messages — it is the beginning of the next ten years for iPhone.”\nWhile Apple hasn’t officially supported the iPhone X with software updates since iOS 16 in 2022, the overall vision can still be felt on today’s iPhones.",
+    "pub_date": "2026-08-14T17:42:33.000Z",
+    "creator": "Macworld",
+    "tags": "iOS",
+    "id": 4886
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Review: TerraMow V1000 is the easiest iPhone-controlled robot lawn mower I’ve tested",
+    "link": "https://9to5mac.com/2026/08/14/review-terramow-v1000-is-the-easiest-iphone-controlled-robot-lawn-mower-ive-tested/",
+    "content": "Earlier this year, I replaced my battery-powered push mower with an iPhone-controlled robot lawn mower. That machine creates a virtual map by letting you manually steer it around the perimeter of your yard. Once everything is configured, it takes over mowing duties on a schedule.\nMore recently, I’ve been testing another system called the TerraMow V1000. It takes a substantially different approach to navigation, and after several weeks of testing, I think it may be the more user-friendly option for a lot people.",
+    "pub_date": "2026-08-14T17:15:57.000Z",
+    "creator": "Zac Hall",
+    "tags": "iOS",
+    "id": 4879
+  },
+  {
     "source_name": "9to5Mac",
     "title": "9to5Mac Overtime 077: Smart glasses are the future",
     "link": "https://9to5mac.com/2026/08/14/9to5mac-overtime-077-smart-glasses-are-the-future-even-realities-g2-ceo-will-wang/",
@@ -2918,85 +2998,5 @@
     "creator": "Anurag Chawake",
     "tags": "Mac,iOS",
     "id": 4510
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Releases macOS Golden Gate Beta 5",
-    "link": "https://www.macrumors.com/2026/08/10/apple-releases-macos-27-beta-5/",
-    "content": "Apple today provided developers with the fifth beta of macOS Golden Gate, with the update coming two weeks after Apple seeded the fourth beta.\r\n\r\n\r\nDevelopers can download ‌macOS Golden Gate‌ by going to System Settings > General > Software Update. Beta Updates will need to be enabled, and a free developer account is required.\r\n\r\n‌macOS Golden Gate‌ includes multiple design improvements. Liquid Glass opacity has been improved to increase readability, there's a slider for controlling the level of transparency, and changes to shadowing make it easier to tell when a window is active. Apps now have uniform toolbars, edge-to-edge sidebars, and less rounded corners, plus there are fewer icons in menu bars.\r\n\r\nSiri has been transformed into ‌Siri‌ AI, a chatbot-style assistant that combines general world knowledge, your personal data, and onscreen awareness to answer questions about anything and find information for you. ‌Siri‌ lives in Spotlight, and you can ask questions with the new Search or Ask interface.\r\n\r\nVisual Intelligence is now on the Mac so ‌Siri‌ can answer questions about what's on your screen, and a Write with ‌Siri‌ feature lets ‌Siri‌ generate text or give feedback on your writing.\r\n\r\nPhotos app, AI tab organization in Safari, an option to use AI to automatically update weak passwords in the Passwords app, and a revamped Image Playground app that can generate photorealistic images.\r\n\r\nfound in our macOS Golden Gate roundup.\nRelated Roundup: macOS Golden Gate\nThis article, \"Apple Releases macOS Golden Gate Beta 5\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-10T17:27:42.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,App Store",
-    "id": 4468
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple releases beta 5 for iPadOS 27, watchOS 27, and more",
-    "link": "https://9to5mac.com/2026/08/10/apple-releases-beta-5-for-ipados-27-watchos-27-and-more/",
-    "content": "Following an unusually long three-week wait, new beta updates are rolling out now for developers, including iPadOS 27 beta 5 and more. Here are the details.",
-    "pub_date": "2026-08-10T17:27:26.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 4486
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Releases macOS Tahoe 26.6.2 Beta With Security Fixes",
-    "link": "https://www.macrumors.com/2026/08/10/apple-releases-macos-tahoe-26-6-2/",
-    "content": "Apple today released a new beta of macOS Tahoe 26.6.2, which is available to developers and public beta testers. The ‌macOS Tahoe‌ 26.6.2 beta comes just a few days after Apple released macOS Tahoe 26.6.1, a security update.\r\n\r\n\r\nDevelopers and public beta testers can download the software by opening the System Settings app and then navigating to the Software Updates section.\r\n\r\nAccording to Apple's release notes, ‌macOS Tahoe‌ 26.6.2 includes security fixes for the Mac. \r\n\r\nThe prior update, macOS 26.6.1, fixed a vulnerability that could allow an attacker to authenticate to Screen Sharing without valid credentials.\r\n\r\nUpdate: This article previously said macOS 26.6.2 had been released, but it turns out the update is a beta.  \nRelated Roundup: macOS Tahoe\nRelated Forum: macOS Tahoe\nThis article, \"Apple Releases macOS Tahoe 26.6.2 Beta With Security Fixes\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-10T17:27:06.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,App Store",
-    "id": 4469
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Friday Night Baseball gets an immersive upgrade on Apple Vision Pro",
-    "link": "https://www.cultofmac.com/news/friday-night-baseball-gets-an-immersive-upgrade-on-apple-vision-pro",
-    "content": "Apple is bringing Friday Night Baseball to Apple Vision Pro with an immersive 8K 3D experience in four games this season. \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-10T17:24:21.000Z",
-    "creator": "Ed Hardy",
-    "tags": "Mac,Vision",
-    "id": 4511
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "macOS 27 Golden Gate beta 5 now available to developers",
-    "link": "https://9to5mac.com/2026/08/10/macos-27-golden-gate-beta-5-now-available-to-developers/",
-    "content": "Continuing Apple’s beta rollouts ahead of the official launch of macOS 27 Golden Gate later this year, Apple has now released the fifth beta of the OS to developers. Here’s what to expect.",
-    "pub_date": "2026-08-10T17:23:49.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Mac",
-    "id": 4487
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Releases iOS 26.6.1 and iPadOS 26.6.1 Betas With Security Fixes",
-    "link": "https://www.macrumors.com/2026/08/10/apple-releases-ios-26-6-1/",
-    "content": "Apple today released new betas of iOS 26.6.1 and iPadOS 26.6.1, which are available to developers and public beta testers. The iOS and iPadOS 26.6.1 betas come two weeks after the launch of iOS 26.6, an update that added Spotlight optimizations ahead of iOS 27.\r\n\r\n\r\niOS 26.6.1 and iPadOS 26.6.1 can be downloaded on eligible iPhones and iPads over-the-air by going to Settings > General > Software Update.\r\n\r\niPad. The updates are available in a beta capacity only right now. \r\n\r\niOS 26 because ‌iOS 27‌ is launching in just about a month. ‌iOS 27‌ is available to developers and public beta testers ahead of its public debut.\r\n\r\nUpdate: This article previously said iOS 26.6.1 and iPadOS 26.6.1 had been released, but it turns out the updates are betas. \nRelated Roundups: iOS 26, iPadOS 26\nRelated Forum: iOS 26\nThis article, \"Apple Releases iOS 26.6.1 and iPadOS 26.6.1 Betas With Security Fixes\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-10T17:23:38.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS",
-    "id": 4470
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Seeds Fifth iOS 27 and iPadOS 27 Betas to Developers",
-    "link": "https://www.macrumors.com/2026/08/10/apple-seeds-ios-27-beta-5/",
-    "content": "Apple today seeded the fifth betas of iOS 27 and iPadOS 27 to developers for testing purposes, with the update coming two weeks after Apple released the fourth betas.\r\n\r\n\r\nRegistered developers can download the betas from the Settings app on the iPhone or iPad by going to the General section and selecting Software Update.\r\n\r\nSiri, ‌Siri‌ AI. ‌Siri‌ AI is a chatbot similar to ChatGPT, incorporating general world knowledge, personal data from apps like Messages and Mail, and onscreen awareness to answer questions and find information for you.\r\n\r\nApple Intelligence features in apps like Photos, Safari, Shortcuts, Wallet, and Passwords, plus Apple added a standalone ‌Siri‌ app that houses ‌Siri‌ conversations. Write with ‌Siri‌ is available systemwide for generating text or offering feedback on your writing, and Visual Intelligence has been relocated to the Camera app with a new ‌Siri‌ mode.\r\n\r\nApple improved the look of Liquid Glass and added a slider for customizing transparency. There are multiple performance improvements to speed up iOS, so everything feels faster, even on older iPhones. Apps launch quicker, AirDrop transfers are faster, the keyboard pops up more quickly, and devices are better at transitioning between Wi-Fi and Cellular to keep you connected.\r\n\r\nwe have a dedicated iOS 27 roundup.\nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"Apple Seeds Fifth iOS 27 and iPadOS 27 Betas to Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-10T17:21:00.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,App Store",
-    "id": 4471
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iOS 27 beta 5 now available as Apple tests major Siri AI upgrade",
-    "link": "https://9to5mac.com/2026/08/10/ios-27-beta-5/",
-    "content": "Apple has released the fifth iOS 27 beta for developer testing. iOS 27 beta 5 continues Apple’s summer beta cycle ahead of a public release next month. We’ll update our devices and share what we discover.",
-    "pub_date": "2026-08-10T17:19:23.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS,App Store",
-    "id": 4488
   }
 ]
