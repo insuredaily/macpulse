@@ -1,5 +1,25 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "Seven years later, the Apple Card is a huge but controversial success",
+    "link": "https://appleinsider.com/articles/20/08/20/one-year-later-the-apple-card-is-a-huge-but-controversial-success?utm_source=rss",
+    "content": "On August 20, 2019, Apple officially launched Apple Card with any US citizen able to apply. Since then it's been a hit, but it's faced controversy over everything from low reward rates to alleged sex discrimination — and Apple's partner wanting to pull out.\n\n\nApple Card\nIn every sense bar one, Apple Card is typical of the products Apple has been most famous for making. First it was rumored for years, then it launched to fanfare and criticism, plus it was even thought of first by Steve Jobs. The difference is that apart from its titanium card, it's not hardware, and apart from its app, it's not really software either.\nApple Card belongs to the moment when Apple most clearly pivoted from being a hardware company that also did software, to one it's arguably a services firm. Apple was heading that way for a long time, and it's not as if its hardware and software are going away.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-15T11:20:57.000Z",
+    "creator": "William Gallagher <wg@williamgallagher.com>",
+    "tags": "App Store",
+    "id": 4916
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "How classic console games are coming to the Mac without emulation",
+    "link": "https://appleinsider.com/articles/26/08/14/how-classic-console-games-are-coming-to-the-mac-without-emulation?utm_source=rss",
+    "content": "Players can now play classic console games natively on Mac thanks to a growing scene of fan-made decompilations and recompilations. Here's how to get started.\n\n\nImage credit: Nintendo\nIf you've been around the block a time or two, you're probably familiar with emulation. It's the process in which a piece of software emulates an environment that another piece of software can run on.\nBut there are problems with emulation. The first is that it relies on an emulator, which can come with its own host of problems.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-15T11:20:05.000Z",
+    "creator": "Amber Neely <amber@appleinsider.com>",
+    "tags": "Mac",
+    "id": 4880
+  },
+  {
     "source_name": "Macworld",
     "title": "Get lifetime access to 20+ AI models for $55",
     "link": "https://www.macworld.com/article/3212545/get-lifetime-access-to-20-ai-models-for-55.html",
@@ -138,16 +158,6 @@
     "creator": "Anurag Chawake",
     "tags": "Mac",
     "id": 4887
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "How classic console games are coming to the Mac without emulation",
-    "link": "https://appleinsider.com/articles/26/08/14/how-classic-console-games-are-coming-to-the-mac-without-emulation?utm_source=rss",
-    "content": "Players can now play classic console games natively on Mac thanks to a growing scene of fan-made decompilations and recompilations. Here's how to get started.\n\n\nImage credit: Nintendo\nIf you've been around the block a time or two, you're probably familiar with emulation. It's the process in which a piece of software emulates an environment that another piece of software can run on.\nBut there are problems with emulation. The first is that it relies on an emulator, which can come with its own host of problems.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-14T18:41:39.000Z",
-    "creator": "Amber Neely <amber@appleinsider.com>",
-    "tags": "Mac",
-    "id": 4880
   },
   {
     "source_name": "9to5Mac",
@@ -2988,15 +2998,5 @@
     "creator": "Juli Clover",
     "tags": "iOS,App Store",
     "id": 4465
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Apple releases rare ‘point’ betas for iOS 26.6 and macOS 26.6",
-    "link": "https://www.macworld.com/article/3209827/apple-releases-rare-point-betas-for-ios-26-6-and-macos-26-6.html",
-    "content": "Macworld\n\n\n\n\n\nTypically, Apple issues operating system updates to beta testers only for major point releases, such as iOS 26.5 or macOS 26.6. The minor-level point releases with two decimal points (e.g., macOS 26.6.1) generally bring little more than bug fixes and security updates that are pushed to users without any beta testing from developers or the public.\nIt’s unusual, then, that Apple just pushed out iOS and iPadOS 26.6.1 along with macOS 26.6.2 to beta testers. The number discrepancy is because macOS just got a 26.6.1 release to fix a security vulnerability that only affects macOS. The release notes state these new 26.6.1/26.6.2 betas only include security fixes, but they don’t say what they are. Apple does not update its Security Release page for beta releases.\nIt’s unclear whether these were published to the beta site by mistake or if Apple has some reason to test this small update in the wild. At any rate, it should release to the public within a week or two. Without knowing the content of the release, we can’t say how important it is yet. \nIf you’re in the beta test group, you can update to this latest version by opening Settings > General > Software Update.",
-    "pub_date": "2026-08-10T19:16:54.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS",
-    "id": 4504
   }
 ]
