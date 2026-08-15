@@ -1,6 +1,16 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Commerce Secretary says US opposes Apple buying Chinese memory chips",
+    "link": "https://9to5mac.com/2026/08/14/commerce-secretary-says-us-opposes-apple-buying-chinese-memory-chips/",
+    "content": "The Wall Street Journal reports that US Commerce Secretary Howard Lutnick has urged Apple not to turn to Chinese memory chips as the company looks for alternatives to alleviate the ongoing global supply shortage. Here are the details.",
+    "pub_date": "2026-08-15T02:15:02.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 4907
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "WhatsApp working on customizable emoji reaction sets on iOS",
     "link": "https://9to5mac.com/2026/08/14/whatsapp-working-on-customizable-emoji-reaction-sets-on-ios/",
     "content": "New references in the latest WhatsApp beta for iOS suggest users may soon be able to replace the app’s standard set of emoji reactions with their own selection. Here are the details.",
@@ -2988,15 +2998,5 @@
     "creator": "Ryan Christoffel",
     "tags": "General",
     "id": 4481
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Kuo pours water on rumor of $1B Apple chip stockpile at TSMC",
-    "link": "https://appleinsider.com/articles/26/08/10/kuo-pours-water-on-rumor-of-1b-apple-chip-stockpile-at-tsmc?utm_source=rss",
-    "content": "Market rumors claim TSMC is holding onto a billion-dollar stockpile of Apple chips due to not having enough memory to complete packaging. However, a prominent analyst doubts it to be the case.\n\n\nTSMC is the chip foundry responsible for the upcoming A20\nThe persisting memory supply crisis has caused problems with the supply chain, in both sourcing chips for products and in paying high prices for them too. While there is certainly a crisis at hand, not every major supply chain-related claim will be completely true.\nOn August 10, TF Securities analyst Ming-Chi Kuo wrote about market rumors that TSMC had a stockpile of 2-nanometer chips made for Apple. Valued at $1 billion, the pile was supposedly made of processor wafers for semi-finished products.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-10T18:59:01.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "Rumors,Silicon",
-    "id": 4494
   }
 ]
