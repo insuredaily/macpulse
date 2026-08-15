@@ -1,6 +1,16 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Indie App Spotlight: ‘Notepad.exe’ is an ultra-fast, lightweight code editor for your Mac",
+    "link": "https://9to5mac.com/2026/08/15/indie-app-spotlight-notepad-exe-is-an-ultra-fast-lightweight-code-editor-for-your-mac/",
+    "content": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nWriting a little bit of code shouldn’t be a hassle. Typically you have to set up a project and go through layers of menus before you can even start to write. Notepad.exe flips that script, and believes you should start with a blank file first, and figure out the project later – making it much easier to get your idea on paper.",
+    "pub_date": "2026-08-15T19:30:00.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "Mac,App Store",
+    "id": 4944
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Apple has a huge product roadmap for the smart home: Here’s what’s coming",
     "link": "https://9to5mac.com/2026/08/15/apple-home-product-roadmap-tv-homepod-smart-display/",
     "content": "Apple’s home products (primarily HomePod mini and Apple TV) have been the talk of the town for the past couple of years. The reasoning is quite simple: the current iterations are 4-6 years old. \nSiri has been the holdup for new hardware releases, supposedly – but now that Siri AI is finally here, we should be seeing Apple finally start releasing some new Home products very soon. Here’s what’s in the pipeline.",
@@ -2988,15 +2998,5 @@
     "creator": "Juli Clover",
     "tags": "Mac,iOS,App Store",
     "id": 4521
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "9to5Mac Daily: August 10, 2026 – Apple Watch rumors, more",
-    "link": "https://9to5mac.com/2026/08/10/daily-august-10-2026/",
-    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.",
-    "pub_date": "2026-08-10T23:53:49.000Z",
-    "creator": "Seth Kurkowski",
-    "tags": "iOS,App Store",
-    "id": 4523
   }
 ]
