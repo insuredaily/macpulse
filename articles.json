@@ -1,5 +1,15 @@
 [
   {
+    "source_name": "Cult of Mac",
+    "title": "I love my Logitech mouse, but I finally deleted its bloated Mac app",
+    "link": "https://www.cultofmac.com/reviews/logi-options-plus-vs-bettermouse",
+    "content": "BetterMouse unlocks more control over my Logitech mouse without the bloat and resource demands of Logi Options+.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-16T12:45:03.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac,App Store",
+    "id": 4959
+  },
+  {
     "source_name": "Macworld",
     "title": "iOS users, get a lifetime plant-care & identifier app for the price of a small succulent—just $20",
     "link": "https://www.macworld.com/article/3212558/ios-users-get-a-lifetime-plant-care-identifier-app-for-the-price-of-a-small-succulent-just-20.html",
@@ -2988,15 +2998,5 @@
     "creator": "Amber Neely <amber@appleinsider.com>",
     "tags": "iOS",
     "id": 4530
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple’s 20th-anniversary iPhone redesign reportedly remains on track",
-    "link": "https://9to5mac.com/2026/08/10/apples-20th-anniversary-iphone-redesign-reportedly-remains-on-track/",
-    "content": "Following reports that Apple had scrapped its long-rumored all-glass iPhone planned for the device’s 20th anniversary, Bloomberg says the redesign remains on track for next year’s Pro models. Here are the details.",
-    "pub_date": "2026-08-11T02:14:14.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "iOS",
-    "id": 4528
   }
 ]
