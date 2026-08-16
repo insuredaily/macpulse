@@ -1,5 +1,15 @@
 [
   {
+    "source_name": "Cult of Mac",
+    "title": "Today in Apple history: PowerBook 165 becomes Apple’s most affordable laptop",
+    "link": "https://www.cultofmac.com/apple-history/powerbook-165",
+    "content": "On August 16, 1993, Apple shipped the PowerBook 165. It lacked a color screen, but came with a relatively small price tag of $1,970.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-16T17:12:11.000Z",
+    "creator": "Luke Dormehl",
+    "tags": "Mac",
+    "id": 4976
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Deals: AirPods 4 with ANC plunge to $134, AirTag returns to $24.99",
     "link": "https://appleinsider.com/articles/26/08/16/deals-airpods-4-with-anc-plunge-to-134-airtag-returns-to-2499?utm_source=rss",
@@ -2988,15 +2998,5 @@
     "creator": "Macworld",
     "tags": "App Store",
     "id": 4542
-  },
-  {
-    "source_name": "Macworld",
-    "title": "How to put an iPhone into recovery mode and return to factory settings",
-    "link": "https://www.macworld.com/article/672701/how-to-put-an-iphone-into-recovery-mode.html",
-    "content": "Macworld\n\n\n\n\n\nRecovery mode can be used to return your iPhone to factory settings. During the process your iPhone will be wiped and the newest version of iOS will be installed on it. \nYou might want to do this because you are experiencing problems with your iPhone and want to wipe it and start again, you might need to wipe an iPhone that you don’t have the password for, or you could use Recovery Mode to remove an iOS beta. Note that this is not quite the same as wiping your iPhone so that you can prepare it for sale, in that case, you need to follow a different process that will remove all your data and unlink the iPhone from your Apple ID.\nOnce you have restored your iPhone using Recovery mode your iPhone will be running the newest full version of iOS (i.e. not a beta). You will then be able to restore your iPhone settings and apps from an iCloud backup from before the time the troubles started, or before the time you installed the beta. \nNote that if you are turning to this option because you have been unable to erase an iPhone using the Erase all content and settings option in Settings > General on an iPhone check that your iPhone is connected to a WiFi network before giving up on that method. \nYou will need to be connected to a network, either Wi-Fi or via a Sim. \nHow to put your iPhone into Recovery mode\nYou will need the Finder on the Mac or iTunes on a PC to enter Recovery mode. \nFollow these steps to put your iPhone into recovery mode:\nPlug your iPhone into your computer using a cable that supports data.\nOpen the Finder (if you are on a PC it’s iTunes you need). \nLocate the iPhone in the column on the left-hand side of the Finder or in iTunes and click on it. \nYou may see a message that indicates you need to download an update to access the iPhone. Sometimes the said software is unavailable from the software update server, so don’t worry about this. But if you can, install the update.\nShut down your iPhone by pressing volume up, volume down, and then press and hold the side button. Unlike a usual restart keep pressing and holding the side button while the phone shuts down and starts up again—this means you must keep holding the side button even when it gives you the option to turn the phone off and even when the Apple logo appears. Wait till the Recovery Mode screen is in place before releasing the side button. The image of a Mac and a connector on your iPhone that indicates it is in recovery mode.\nOn your Mac you should now see a message indicating that there is a problem with the iPhone that requires it to be updated or restored. You need to click on Restore.\nYou will see a warning: “Are you sure you want to restore the iPhone…” Click on Restore and Update. \nClick Agree on the next screen that details the license agreement. \nJust note that there’s only about 15 minutes before your iPhone will exit recovery mode, at which point you will have to enter recovery mode again. \nYour iPhone should restart with the Welcome screen if this process has worked. \nNow you can either set up your iPhone as new, or restore it from an iCloud backup from before you started to experience problems. \nSometimes the Mac will require a software update to connect to your iPhone. It’s pretty painless to download and install as you are walked through the process.\nSimon Jary\n\n\n\nKeeping holding the side button until you see this screen on your iPhone.\nSimon Jary\n\n\n\n\nSimon Jary\n\n\n\n\nFoundry\n\n\n\n\nAnother option is DFU mode, which is more drastic and used for tinkering with firmware and the like.",
-    "pub_date": "2026-08-11T05:50:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS,Services",
-    "id": 4568
   }
 ]
