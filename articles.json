@@ -1,5 +1,35 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "Deals: AirPods 4 with ANC plunge to $134, AirTag returns to $24.99",
+    "link": "https://appleinsider.com/articles/26/08/16/deals-airpods-4-with-anc-plunge-to-134-airtag-returns-to-2499?utm_source=rss",
+    "content": "A 25% discount has hit AirPods 4 with ANC, delivering better-than-Prime Day pricing. Apple's AirTag 2 is also marked down to $24.99, a 30-day low price.\n\n\nAmazon has launched steeper price cuts on AirTag and AirPods - Image credit: Apple\nKicking off the Apple sale at Amazon is a steeper price drop on AirPods 4 with Active Noise Cancellation (ANC). Get the higher-end version from the 4th generation line for just $134.99, a discount of 25% off MSRP.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-16T15:56:18.000Z",
+    "creator": "Christine McKee <christine@appleinsider.com>",
+    "tags": "General",
+    "id": 4962
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "This Mac bundle packs 27 lifetime apps into one $29.99 deal",
+    "link": "https://www.cultofmac.com/deals/27-app-lifetime-mac-bundle",
+    "content": "Get forever licenses to every type of tool a Mac user needs, from design and productivity to utilities, with the 27-App Lifetime Mac Bundle.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-16T15:55:54.000Z",
+    "creator": "Cult of Mac Deals",
+    "tags": "Mac,App Store",
+    "id": 4969
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Mozilla gradually rolls out an ad-blocker built into Firefox for iOS",
+    "link": "https://appleinsider.com/articles/26/08/16/mozilla-gradually-rolls-out-an-ad-blocker-built-into-firefox-for-ios?utm_source=rss",
+    "content": "Mozilla is rolling out an ad blocker built into Firefox for iOS. It's a move that can help users protect their privacy more, except in some lucrative situations.\n\n\nFirefox for iOS gains ad-blocking feature\nOnline advertising can be burdensome for web users, and for many years, some elect to use plug-ins like Adblock to cut down on the ads they see. Now, Mozilla is giving users a way to do it on  iOS.\nIntroduced on Saturday via a support page, Firefox for iOS now includes an optional ad blocker. As Mozilla describes, it is a tool to reduce the amount of advertising shown as you browse the Internet.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-16T15:40:30.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS",
+    "id": 4963
+  },
+  {
     "source_name": "MacRumors",
     "title": "AirPods 4 ANC Hit $134.99 Low Price on Amazon, Plus Pro 3 for $189.99",
     "link": "https://www.macrumors.com/2026/08/16/airpods-4-anc-hit-134/",
@@ -2968,35 +2998,5 @@
     "creator": "Macworld",
     "tags": "Mac,iOS,Services",
     "id": 4568
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "iPhone 20 radical all-glass redesign remains on track for 2027",
-    "link": "https://www.cultofmac.com/news/iphone-20-radical-all-glass-redesign-on-track-2027",
-    "content": "Despite claims to the contrary, Apple’s ambitious curved-glass iPhone 20 remains on track to launch in 2027.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-11T04:49:58.000Z",
-    "creator": "Rajesh Pandey",
-    "tags": "Mac,iOS",
-    "id": 4537
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "iOS 27 beta 5: All the new features and changes",
-    "link": "https://www.cultofmac.com/news/ios-27-beta-new-features-changes",
-    "content": "iOS 27 beta 5 arrives after a few weeks of wait, bringing some minor changes and improvements.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-11T04:03:40.000Z",
-    "creator": "Rajesh Pandey",
-    "tags": "Mac,iOS",
-    "id": 4533
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Still Planning 'Glass-Centric' iPhone Redesign for 2027",
-    "link": "https://www.macrumors.com/2026/08/10/glass-centric-iphone-still-planned-2027/",
-    "content": "Aiming to refute a report from Jefferies analyst Edison Lee earlier today that claimed Apple's all-glass iPhone planned for the device's 20th anniversary next year has been canceled, Bloomberg's Mark Gurman says that the \"glass-centric\" redesign remains on track for 2027.\r\n\r\n\r\nGurman says that the 20th-anniversary iPhone will make heavy use of glass, with the front and rear wrapping around the edges to sandwich a thin metal band.\nThe company expects to launch iPhone Pro models next year that will make use of a new glassy look, according to the people, who asked not to be identified because the work is confidential. Glass is used on the front and back of the phones — known internally as V73 and V74 — and the material will curve into the sides of the devices, with a metal band in the middle.\nGurman does mention a \"more aspirational version\" that \"used even more glass,\" but says that design \"was scrapped early on\" in the development cycle.\r\n\r\nIt's possible that this more ambitious design is the one Lee was referring to in today's report, but Gurman implies that it was discarded some time ago, rather than being a more recent development as Lee had suggested.\r\n\r\nTags: 20th-Anniversary iPhone, Bloomberg, Mark Gurman\nThis article, \"Apple Still Planning 'Glass-Centric' iPhone Redesign for 2027\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-11T03:10:14.000Z",
-    "creator": "Eric Slivka",
-    "tags": "iOS,Rumors",
-    "id": 4526
   }
 ]
