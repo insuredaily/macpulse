@@ -1,6 +1,226 @@
 [
   {
     "source_name": "AppleInsider",
+    "title": "Latest macOS Golden Gate beta adds unique dynamic wallpapers",
+    "link": "https://appleinsider.com/articles/26/08/17/latest-macos-golden-gate-beta-adds-unique-dynamic-wallpapers?utm_source=rss",
+    "content": "Apple's macOS Golden Gate has reached its sixth developer beta, which includes new dynamic wallpapers and updated traffic light window control icons.\n\n\nmacOS 27 beta 6 adds two new dynamic wallpapers.\nOn Monday, a week after the fifth developer beta arrived, Apple made macOS 27 beta 6 available for download. Though the update is a relatively light release, it delivers key visual enhancements.\nWith the latest developer beta, Apple added two dynamic wallpapers, both featuring the Golden Gate Bridge. They're effectively video files: one offering a daytime view of the bridge, and the other showing it in the evening.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-17T19:26:28.000Z",
+    "creator": "Marko Zivkovic <marko@appleinsider.com>",
+    "tags": "Mac,App Store",
+    "id": 5073
+  },
+  {
+    "source_name": "Macworld",
+    "title": "macOS Tahoe 26.6.1 fixed a pretty major screen-sharing flaw",
+    "link": "https://www.macworld.com/article/3214311/macos-tahoe-26-6-1-fixed-a-pretty-major-screen-sharing-flaw.html",
+    "content": "Macworld\n\n\n\n\n\nA recent report by the security firm Calif provides details for a security patch that was included in the macOS Tahoe 26.6.1 update released last week. Apple also released macOS 15.7.9 and 14.8.9 updates that provide the same security fix.\nWhile Apple’s release notes state that through the vulnerability, “an attacker on the network may be able to authenticate to Screen Sharing without valid credentials,” Apple doesn’t usually provide details on any found security hole, leaving the explanation to the researchers and others. In this case, the inner workings of the vulnerability were discussed at the Black Hat conference last week.\nScreen sharing is a built-in macOS feature that’s quite useful for administering multiple Macs on a network. From one Mac, a user with the proper credentials can log on to another Mac. Screen sharing displays the remote Mac’s desktop as a window on the user’s display.\nHowever, screen sharing had an authentication issue that involved improper state management during authentication. This allowed unauthorized users to try to log on. In its own report, the National Cyber Security in the Netherlands reported that “port 5900 was accessible from the internet.” Port 5900 refers to the TCP port in macOS for screen sharing.\nIf you are a frequent user of macOS’s screen sharing, it’s important to install the update to patch this vulnerability. Since the update contains only the security fix, it won’t take too long to install, but you will need to restart the Mac.\nMacworld has several guides to help, including a guide on whether or not you need antivirus software, a list of Mac viruses, malware, and trojans, and a comparison of Mac security software.",
+    "pub_date": "2026-08-17T19:26:27.000Z",
+    "creator": "Macworld",
+    "tags": "Mac",
+    "id": 5079
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iOS 26.6.1 and macOS Tahoe 26.6.2 Fix Nearly 30 Security Vulnerabilities",
+    "link": "https://www.macrumors.com/2026/08/17/ios-26-6-1-security-fixes/",
+    "content": "The iOS 26.6.1, iPadOS 26.6.1, and macOS Tahoe 26.6.2 updates Apple released today fix almost 30 security vulnerabilities, according to Apple's security support document. This is Apple's third security release in three weeks as AI surfaces bugs faster than the company's typical release schedule can absorb.\r\n\r\n\r\nApple says the software includes security fixes that were previously added to the iOS 27, iPadOS 27, and macOS Golden Gate betas.\r\n\r\nThere are fixes for an audio vulnerability that could allow an app to leak sensitive user information, an image vulnerability that could allow for arbitrary code execution, a trio of kernel vulnerabilities, and several WebKit bugs that could cause memory corruption or Safari crashes. Of the 29 CVEs outlined in the document, 21 are WebKit-related, and nine are credited to OpenAI Codex Security.\r\n\r\nOn iOS, Apple also fixed a telephony bug that could allow an attacker in a privileged network position to bypass IPSec authentication and intercept network traffic.\r\n\r\nNone of the vulnerabilities are known to have been actively exploited, but Apple always recommends updating to new versions of iOS, iPadOS, and macOS as soon as possible. Now that the vulnerabilities have been made public, attackers could target devices still running earlier versions of the software.\r\n\r\niOS 26 and iPadOS 26. Apple did not ship macOS Sequoia or macOS Sonoma updates for Macs unable to run ‌macOS Tahoe‌.\r\n\r\nRelated Roundups: iOS 26, iPadOS 26, macOS Tahoe\nRelated Forums: iOS 26, macOS Tahoe\nThis article, \"iOS 26.6.1 and macOS Tahoe 26.6.2 Fix Nearly 30 Security Vulnerabilities\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-17T19:25:39.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS,Rumors,App Store",
+    "id": 5060
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "App Store review is broken in a time where it is needed the most",
+    "link": "https://appleinsider.com/articles/26/08/13/app-store-review-is-broken-in-a-time-where-it-is-needed-the-most?utm_source=rss",
+    "content": "Apple doesn't even seem to be trying with App Store Review. Users should not be the ones who find problem apps, but over and over, that is what is happening.\n\n\nThe App Store could soon feature Ai-generated summaries of application reviews.\nNo question, Apple has the resources to protect us from bad apps, and, no question, it keeps telling regulators that it has. As regulators around the world press for third-party firms to run iPhone App Stores, Apple consistently protests that only it can do a good job of keeping bad apps at bay.\nIt is absolutely true that if, or when, the door is open to rival App Stores, there will be a flood of apps that set out to defraud users. But if you're going to hold up the App Store Review process as the last thin line of defense, you have to make it work and Apple is repeatedly failing.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-17T19:23:38.000Z",
+    "creator": "William Gallagher and Mike Wuerthele <news@appleinsider.com>",
+    "tags": "iOS,App Store",
+    "id": 4786
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Leaker details A20 Pro chip’s new speed gains",
+    "link": "https://9to5mac.com/2026/08/17/leaker-details-a20-pro-chips-new-speed-gains/",
+    "content": "iPhone 18 Pro and iPhone Ultra will be unveiled next month with a new A20 Pro chip, and this weekend a reputable leaker shared performance gains to expect per supply chain sources.",
+    "pub_date": "2026-08-17T19:13:55.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 5066
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Siri AI Settlement: Apple Won't Begin Paying Customers Until Next Year",
+    "link": "https://www.macrumors.com/2026/08/17/siri-ai-settlement-final-approval-in-2027/",
+    "content": "In May, Apple agreed to pay $250 million to settle a U.S. class action lawsuit over Siri AI's delayed launch, and eligible iPhone users could receive up to a $95 payout. Apple's settlement received preliminary approval last month, but final approval is not expected until next year, according to a new court document.\r\n\r\nTags: Apple Lawsuits, Siri, Siri AI\nThis article, \"Siri AI Settlement: Apple Won't Begin Paying Customers Until Next Year\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-17T19:04:50.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "iOS,Services",
+    "id": 5061
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Here’s what’s new with iOS and macOS 27 beta 6",
+    "link": "https://9to5mac.com/2026/08/17/heres-whats-new-with-ios-27-beta-6/",
+    "content": "Apple released iOS 27 beta 6 today, giving developer beta testers the next preview update since iOS 27 debuted at WWDC. Developer beta testers can download the new beta now.\niOS 27 is a major iPhone update centered around Siri AI, Apple Intelligence, Liquid Glass refinements, and a long list of quality-of-life changes. Here’s what we’ve found so far in iOS 27 beta 6.",
+    "pub_date": "2026-08-17T19:00:00.000Z",
+    "creator": "Zac Hall",
+    "tags": "Mac,iOS,App Store",
+    "id": 5067
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Best Buy 60th Anniversary Sale Brings Massive Deals on Apple Products and More",
+    "link": "https://www.macrumors.com/2026/08/17/best-buy-anniversary-sale-2/",
+    "content": "Best Buy is hosting its big 60th Anniversary sale this week, with notable markdowns on Apple devices, TVs, headphones, monitors, and much more. This event is set to last for the rest of this week, and you don't need to be a My Best Buy Plus or Total member to see most of the deals.\r\n\r\nNote: MacRumors is an affiliate partner with Best Buy. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\nApple devices, you can find solid deals on AirPods Pro 3, iPhone Air, Beats accessories, and MacBook Pro. You can get the AirPods Pro 3 for $189.99 ($60 off), as well the AirPods Max 2 for $429.00 ($120 off).\r\n\r\n\nSITEWIDE SALE\nBest Buy 60th Anniversary Sale\n\n\r\n\r\nfree $25 Starbucks gift card with any MacBook Neo purchase this week. You can also get up to $160 off iPhone Air unlocked models in this event.\r\n\r\nApple\n\r\n\nAirPods 4 - $99.99 ($30 off)\n\r\nAirPods Pro 3 - $189.99 ($60 off)\n\r\nAirPods Max 2 - $429.00 ($120 off)\n\r\niPad Air - Get $100 off M4 models\n\r\nMacBook Neo - Get a free $25 Starbucks gift card\n\r\n16-inch MacBook Pro (M5 Max, 36GB, 2TB) - $3,999.00 ($400 off)\n\r\n16-inch MacBook Pro (M5 Max, 48GB, 2TB) - $4,499.00 ($500 off)\n\r\nTVs\n\r\n\n55-inch Toshiba C350 4K Smart Fire TV - $249.99 ($150 off)\n\r\n55-inch Insignia 4K UHD QLED Smart TV - $249.99 ($450 off)\n\r\n65-inch LG UA7050 4K Smart TV - $329.99 ($160 off)\n\r\n98-inch Hisense QLED 4K Smart Google TV - $999.99 ($1,400 off)\n\r\n65-inch Samsung The Frame TV (2025) - $999.99 ($600 off)\n\r\n65-inch LG OLED 4K Smart TV - $1,499.99 ($1,200 off)\n\r\nAudio\n\r\n\nBeats Pill - $99.99 ($50 off)\n\r\nBeats Solo 4 Headphones - $129.99 ($70 off)\n\r\nBeats Studio Pro Headphones - $169.99 ($180 off)\n\r\nBose QuietComfort Ultra Headphones - $329.99 ($45 off)\n\r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"Best Buy 60th Anniversary Sale Brings Massive Deals on Apple Products and More\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-17T18:58:09.000Z",
+    "creator": "Mitchel Broussard",
+    "tags": "Mac,iOS,Silicon",
+    "id": 5062
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "MagSafe Monday: The Urban Fit is my favorite budget alternative to Apple’s wallet",
+    "link": "https://9to5mac.com/2026/08/17/magsafe-monday-the-urban-fit-i-my-favorite-budget-alternative-to-apples-wallet/",
+    "content": "Apple’s MagSafe wallet is likely the default option for most people looking to carry a driver’s license, a credit card, and a little cash on the back of their iPhone. Apple’s Find My integration is nice, but that convenience comes at a price, literally, since it costs about double what most third-party MagSafe wallets cost. \nSome people also hate the material choice as well. The Urban Fit remains one of my favorite alternatives to Apple’s own wallet. At roughly half the cost, it holds up to three cards and still works great as a MagSafe wallet.",
+    "pub_date": "2026-08-17T18:58:00.000Z",
+    "creator": "Bradley C",
+    "tags": "iOS",
+    "id": 5068
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "iPhone 18 Pro's A20 will be faster, power efficient, cost a lot",
+    "link": "https://appleinsider.com/articles/26/08/17/iphone-18-pros-a20-will-be-faster-power-efficient-cost-a-lot?utm_source=rss",
+    "content": "The A20 and A20 Pro chips in the iPhone 18 Pro will benefit hugely from TSMC's 2-nanometer process, but Apple will pay dearly for the performance and power consumption improvements.\n\n\nThe A20 is on the way for the iPhone 18 generation, starting with the A20 Pro\nApple is widely expected to use TSMC's 2-nanometer process to produce its next generation of chips. This includes the inbound A20 and A20 Pro arriving in the iPhone 18 Pro and Pro Max, as well as the iPhone Ultra.\nThere is also always an expectation of performance improvements with Apple's chips, and especially so for a die shrink. If a leaker is accurate with their claim, it could be substantial.\n\n Rumor Score: 🤯 Likely \n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-17T18:55:49.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS,Rumors,Silicon,Services",
+    "id": 5074
+  },
+  {
+    "source_name": "Macworld",
+    "title": "macOS 26 Tahoe Guide: All the new features in macOS Tahoe, including the latest update",
+    "link": "https://www.macworld.com/article/2644146/macos-26-features-latest-update-release-date-beta.html",
+    "content": "Macworld\n\n\n\n\n\nLike its counterparts on the other Apple devices, on September 15, 2025 macOS got a brand new look along with a new name: macOS 26. Because Apple is aligning the names of all the operating systems this year, the new version of macOS is called macOS 26 rather than macOS 16. It also takes the name Tahoe, inspired by the lake, beaches, and the ski resorts of that area of California. \nAlong with a big redesign, macOS 26 brings new Continuity features to bring your iPad, iPhone, and Mac even closer together, a brand new Phone app, and more. Spotlight also gets its biggest ever update with the ability to action things like sending emails directly from Spotlight. \nmacOS Tahoe might have launched, but Apple is continuing development with new features being added every couple of months – the latest update being macOS 26.6.2. You can get a first look at the new upcoming features via Apple’s developer and public betas, which are available to download if you join the beta program (we explain how to do so below).\nYou will find all the things you need to know about macOS Tahoe and all its new features below, including which Macs are compatible with macOS 26 and the new features you can expect, including what’s been added since the September launch, and what’s coming in the next update. Stay tuned to this superguide for everything you need to know about macOS 26 Tahoe. \nmacOS 26 Tahoe: Summary\nThe new version of macOS, called macOS 26 Tahoe, was released on September 15 2025. \nThe latest version–macOS 26.6.2–arrived on August 17, 2026.\nmacOS 26 Tahoe is still being developed and you can access new features before they are launched via the Developer and Public Betas.\nTahoe runs on Macs released since 2019. macOS 26 Tahoe runs on all M-series Macs, but it runs on a small number of Intel-powered models. Apple has confirmed that macOS Tahoe will be the last macOS version to support Intel-powered Macs; from macOS 27 Intel Macs will not be supported.\nWith its new Liquid Glass interface, macOS 26 has its biggest design change since 2013.\nNew features in macOS Tahoe include more options for personalization, improvements to Spotlight and Shortcuts app, and the introduction of a Phone app on the Mac and all the associated features.\nWhat is the latest version of macOS 26 Tahoe?\nLatest version of macOS is macOS Tahoe 26.6.2, which arrived on August 17, 2026.\nApple released the first version of macOS 26 Tahoe on September 15, 2025. The release coincided with the iOS 26 update. Since then the following updates to Tahoe have been issued by Apple:\nmacOS 26 – September 15, 2025\nmacOS 26.0.1 – September 29, 2025\nmacOS 26.1 – November 3, 2025\nmacOS 26.2 – December 12, 2025\nmacOS 26.3 – February 11, 2026\nmacOS 25.3.1 – March 4, 2026\nmacOS 26.4 – March 24, 2026\nmacOS 26.4.1  – April 9, 2026\nmacOS 26.5 – May 11, 2026\nmacOS 26.5.1 – June 1, 2026\nmacOS 26.5.2 – June 29, 2026\nmacOS 26.6 – July 27, 2026\nmacOS 26.6.1 – August 6, 2026\nmacOS 26.6.2 – August 17, 2026\nWondering whether to install macOS Tahoe? Read: macOS Tahoe vs macOS Sequoia: What’s different, what’s new, and should you update?\nWhat’s coming in the next version of macOS?\nmacOS 26.6.x or macOS 26.7 – release date tbc\nWith macOS 27 Golden Gate coming in the fall, Apple will not perform any major updates to macOS 26 Tahoe. If APple does release macOS 26 updates from here on out, they will be security patches, bug enhancements, and performance improvements. \nOn June 8, Apple will hold its WWDC event at which the company will reveal news about what’s coming in macOS 27 later in 2026. The macOS 26.6 update is unlikely to arrive before the WWDC Keynote. \nWith Apple already working on the next update to macOS, we are less likely to see new features for macOS 26. Future updates to macOS 26 are more likely to relate to bug fixes and security updates, unless Apple needs to release new features for compatibility with upcoming new products.\nApple runs a developer beta as well as a public beta so that upcoming new features can be tested. Both betas are free, though the developer beta requires a free registration as a developer. Apple issues updates to the betas fairly regularly. The public beta updates tend to come a day or two after the updated developer beta. If you are interested in trying out the beta, you can join Apple’s beta program. For help installing the macOS beta, see our guide to installing the macOS beta.\nNew features that have arrived in macOS 26 Tahoe since launch\nDevelopment continues even after the official macOS update is released, as Apple seeks to introduce new features that missed the initial introduction date. \nBelow you can see all the new macOS features that have arrived with each iteration of macOS 26 since it’s initial launch in September 2025. \nNew features in macOS 26.6.2\nThis update provides security fixes for the Mac.\nNew features in macOS 26.6.1\nThis update contains only a security update. According to the release notes, An attacker on the network may be able to authenticate to Screen Sharing without valid credentials.” \nNew features in macOS 26.6\nIt appears that macOS 26.6 starts the indexing process for Siri AI in macOS 27. This is done so that the index won’t take as long once macOS 27 is released this fall. This update also has over 140 security patches, several bug fixes, and performance enhancements.\n\nApple\n\n\n\n\nNew features in macOS 26.5.2\nThis update has no new features and contains security fixes. Apple has released a support document that has the details on the security fixes.\nNew features in macOS 26.5.1\nThe macOS 26.5.1 update only contains a bug fix for M5 Macs. According to the release notes, “This update addresses an issue for enterprise users where Macs with an M5 chip could unexpectedly shut down when using certain content filtering network extensions.” No new features are included in the update.\nNew features in macOS 26.5\nWith macOS 26.5, Apple added a new option for desktop Mac owners who think it’s too difficult to reach their Mac’s power button.\nA new option labeled “Start up when power is connected” now appears in the Energy section of System Settings for the Mac mini, iMac, and Mac Studio. An Apple support document explains that “Your Mac will now automatically turn on whenever you connect it to power, such as when plugging it into a power outlet or restoring power using an external power switch.” This should be helpful for those who find the on switch awkward to reach on the Mac mini. \nApple also included several features that are also in iOS 26.5 and iPadOS 26.5: \nMaps now has Suggested Places and ads\nPower control setting in Energy for Mac mini, Mac Studio, and iMac enables you to power off or restart your Mac using assistive accessories like switches\nRCS end-to-en encryption\nBug fixes and security enhancement\nNew features in macOS 26.4.1\nmacOS 26.4 is specific to the M5 MacBook Air and the M5 Pro and M5 Max MacBook Pros released in March 2026. \nIt fixes an issue that can occur when using content filter extensions and connecting to a Wi-Fi network on those machines.\nNew features in macOS 26.4\nBattery management feature: A manual battery charge limit for MacBooks. This is a feature previously exclusive to iPhones that allows users to cap their battery charge at 80 percent, 100 percent, or any five-percent increment in between to reduce long-term wear and tear. \nTerminal warning: A new Terminal paste warning alerts users who paste in suspicious commands that scammers encourage pasting text into Terminal. \nApple Music “Playlist Playground”: A new feature that uses Apple Intelligence to generate or edit playlists based on text prompts or a selection of songs.\nWriting Tools and Summaries: Continued integration of system-wide AI tools for proofreading and summarizing text.\nApple Podcasts update: A new video podcast experience that utilizes HTTP Live Streaming (HLS) to allow users to switch seamlessly between watching and listening to shows.\nApple Music update: The interface for albums and playlists has been updated so that the background color dynamically matches the album artwork. \nFreeform: The whiteboarding app has received a “Creator Studio” update, which includes new features and a refreshed app icon.\nAdvanced Fingerprinting Protection: macOS 26.4 includes critical security patches and expands on privacy features like Advanced Fingerprinting Protection.\nStolen Device Protection: This a feature, first seen on iPhone, is expected to be enabled by default starting with this release.\nEight new emoji: Ballet Dancer, Distorted Face, Fight Cloud, Hairy Creature (Bigfoot), Landslide, Orca, Treasure Chest, and Trombone\nRosetta 2 warnings: Support for the transition layer for Intel-based apps will end with macOS 27.\nNew features in macOS 26.3.1\nExternal Display Support: macOS 26.3.1 adds support for the 2026 models of the Studio Display and Studio Display XDR.\n If you’re planning on investing in a Studio Display, you’ll need to install this update, according to the release notes. It also includes security patches and bug fixes.\n\nApple\n\n\n\n\nNew features in macOS 26.3\nThis update continues the refinement of the major features introduced with the initial launch of macOS 26 Tahoe. In iOS 26.3 there were a number of EU-mandated changes. It is also optimized for the M5 Pro and M5 Max chips, which are due to launch. Read our iOS 26 guide for more information.\nNew features in macOS 26.2\nmacOS Tahoe 26.2, released in late 2025, introduced several specialized updates focusing on video conferencing enhancements, AI development tools, and hardware-specific performance boosts. While it was not considered a massive overhaul, it brought a few “genius” utility features that improved the daily user experience, particularly for those working in remote or low-light environments. \nEdge Light: The most prominent consumer-facing feature in macOS 26.2 is Edge Light, a virtual ring light designed to improve webcam image quality. It places a bright white border around the display to mimic a selfie ring light, significantly improving visibility in dark rooms. It uses the Neural Engine to detect the user’s face for appropriate light adjustment and can even detect the cursor to hide the light when it might interfere with navigation. Users can adjust the intensity of the light and choose between warmer or cooler color temperatures. It requires an M-series Mac, but on M4 Macs and later, the feature can be set to enable automatically when low light is detected .\nAI and Developer Enhancements: For developers and power users, macOS 26.2 introduced significant updates to machine learning frameworks and hardware clustering. Developers using the open-source MLX framework can now leverage the Neural Accelerator in the M5 chip. The update enhanced the ability to create AI clusters using the Mac Studio’s Thunderbolt 5 connectivity.\nSecurity Updates: Critical patches for vulnerabilities, aligning with security fixes found in iPadOS 26.2.\nInterface Polish: Continued refinement of the “Liquid Glass” UI, which introduced more translucency and visionOS-style effects across the system.\nPerformance: General “under-the-hood” changes to improve system stability and responsiveness .\nNew features in macOS 26.1\nThe macOS 26.1 update includes fixes for problems with games controllers and some other issues. There are a lot more changes coming to iPhones with iOS 26.1.\nNew features in macOS 26.1 include:\nLiquid Glass: Ability to tone down Liquid Glass effect. Choose between clear and tinted look for increased opacity.\nAutoMix support for Apple Music over AirPlay.\nFaceTime audio improvements over low-bandwidth.\nRegional Communication Safety and Web content filters for adult websites.\nIcons: Changes to the Macintosh HD icon.\nNew TV app icon with Apple TV+ rebranded to Apple TV.\nA new Results from Clipboard setting for Spotlight, where the user can turn on/off Spotlight’s ability to search and display clipboard items. Users can also set an expiration time for the clipboard and clear the Clipboard history. (Settings > Spotlight > Results from Clipboard.)\n\nmacOS Tahoe 26.1 has a new Spotlight setting for Clipboard management.\n\nFoundry\n\n\n\n\nmacOS 26 Tahoe problems & fixes\n\nYouTube / Apple\n\n\n\n\nSome M3 Ultra Mac Studio users have reported that they are unable to install macOS Tahoe. It seems the problematic Mac Studios already had Sequoia 15.7 installed, and during the attempted installation, Tahoe would look for a driver, and when it failed to find it, it resulted in a failed installation.\nThe macOS 26.0.1 update addresses the initial bugs, including the Mac Studio installation bug.\nmacOS 26 Tahoe supported devices: Which Macs get macOS Tahoe\nRequires M-series chip or Intel-based Mac computers with a T2 Security Chip\nApple Intelligence features require M1 or later\nNo Intel support from macOS 27 onwards\nWhen Apple updates the operating system for its devices, it sometimes means that certain models are no longer supported. The good news is that Macs that ran macOS Sonoma will be able to run the new macOS. Apple states that the base requirement includes Macs with M-series chips and Intel-based Mac computers with a T2 security chip.\nHere are Macs with Apple Silicon that will be able to run macOS Tahoe:\nMacBook Air (M1/2020 and later)\nMacBook Pro (M1/2020 and later)\niMac (M1/2021 and later)\nMac mini (M1/2020 and later)\nMac Studio (M1/2022 and later)\nMac Pro (M2/2023 and later)\nThere are four Intel-powered Macs able to run macOS Tahoe. These models won’t support Apple Intelligence features:\nMacBook Pro (16‑inch, Intel/2019)\nMacBook Pro (13‑inch, Intel/2020, Four Thunderbolt 3 ports)\niMac (Intel/mid 2020)\nMac Pro (Intel/2019)\nApple confirmed that this is the last version of macOS that will run on Intel Macs. \nWhat were the biggest changes in macOS 26 Tahoe\nmacOS 26 Tahoe represents one of the most significant overhauls to Apple’s desktop operating system in over a decade. The update is characterized by a dramatic visual redesign, the introduction of core mobile apps to the Mac, and a complete rethinking of system-wide tools like Spotlight. \nWe’ll run through each new feature in detail below, including the Liquid Glass redesign, Spotlight overhaul, new apps, new iPhone features that are coming to the Mac and more… \nmacOS 26 Tahoe design: Liquid Glass and other interface changes \n\nApple\n\n\n\n\nAt WWDC in June, Apple showed off some enticing new features for macOS that will be coming later in 2025. A number of new features and interface enhancements were promised, but one of the biggest changes is coming to all of Apple’s products: a new design based on a graphical user interface that Apple is calling Liquid Glass.\nApple showed off the brand new look for macOS in the WWDC keynote. As with Apple’s other operating systems, macOS Tahoe uses Apple’s new Liquid Glass effect to create reflective, glossy elements around the interface. The Liquid Glass elements will change color to reflect the content beneath as you scroll and will dynamically react. Buttons appear more curved and less flat. \nYou’ll see the effect in the Dock, sidebars, toolbars, and elsewhere. The menu bar is fully transparent, and you can adjust the transparency of icons in the Dock, for example. If you don’t like the new transparent look or if it affects how well you can see items, there is a way to reduce it, and in some instances, turn it in off altogether. Read: How to reduce transparency in macOS Tahoe.\nThis is the first time in years that Apple has made significant changes to the visual style of macOS, and it certainly makes the OS appear more modern.\n\n \n @macworld.com \nTop 3 features in macOS Tahoe from WWDC #wwdc #macostahoe #fyp\n ♬ original sound – Macworld – Macworld \n  \n\n\n\n\nmacOS Tahoe interface changes \n\nApple\n\n\n\n\nApple says the design overhaul will elevate the key elements of macOS and enhance the macOS experience. The cleaner design is intended to help the user to focus on their content rather than other distractions, while elements like the translucent menu bar will make the screen feel larger. \nUsers will be able to choose to add third-party apps to the menu bar and even drag widgets and buttons from the Control Centre into the menu bar, thanks to a customizable layout, similar to iOS 18. Users will also be able to add controls for their favorite apps to the Control Centre. We have a guide to how to use Control Centre in macOS Tahoe where you can read about how to add controls, remove the ones you don’t want, and arrange them in a way that makes sense for you. \nApple is taking advantage of the Liquid Glass introduction to bring some new icon designs to the Mac as well to help give macOS a fresh look. Some of the icons look drastically different, for others the changes are more subtle. The ‘hard drive’ icon will now be replaced with one that looks more like an SSD, for example. \nThe new icons tend to take the form of ‘squircles’. The changes may make some third party icons less recognisable. Take a look at: 21 of the new macOS Tahoe icons with new designs for the Finder, Automator, Calendar and Contacts icons among others. You can change the icons if you want, read: How to change the icon of a macOS storage device.\nThe new Finder icon.\nApple\n\n\n\n\nmacOS will also gain a feature that arrived on the iPhone and iPad with iOS 18: tinted and dark app icons. \nUsers will be able to personalize their Mac in other ways, too, such as changing the color of folders and adding emoji or symbols to help them identify folders. Users can also pick personalised wallpapers and choose theme colors. If you want to change your folder color read: How to change folder color and add icons in Tahoe. \nNew dynamic screensavers will be included. One, based on the default macOS Tahoe wallpaper, depicts the landscapes of South Lake Tahoe in a stylized artistic manner, is available in both light and dark versions. See how it looks in Tahoe’s gorgeous new screen saver. \nThere are up to 15 other new screensavers with images of Tahoe at various time of the day, Himalayas, Goa, The Ganges and more.\nmacOS Tahoe Spotlight overhaul\n\nApple\n\n\n\n\nSpotlight has always been much more than a search tool built into macOS, helping users find anything on their Macs, make calculations and conversions, and more. In macOS Tahoe, Spotlight will be able to do even more.  \nSpotlight’s design and functionality have been completely rethought for macOS 26, with changes that will help Mac users get things done faster.\nRather than being a single bar, on the right-hand side of the new Spotlight search box, you will find icons for things like apps, files, Shortcuts, Actions, and clipboard. Select one of these buttons, and Spotlight’s box expands to house relevant items in an easy-to-browse view. When you search for something, you’ll see relevant filters under your search terms – click one to quickly apply it.\nNot only will Spotlight be the easiest way to find anything on your Mac, but in macOS 26, Spotlight will be contextually aware so it can make suggestions based on what you are doing. Search results will be listed based on their relevance to you, and it will be possible to use new filtering options for more specific search results. \nSpotlight will also have the ability to perform actions that normally require you to be inside an app. For example, you will be able to create a calendar event, begin an audio recording, or play a podcast from within Spotlight. It will even let you fill out parameters for actions, such as typing out an email message and filling in the recipient and subject. You can essentially compose an email from inside Spotlight, without opening your email app.\nThis will be simplified further with Quick Keys, with which you will be able to type a short string of letters to launch an action, such as typing “sm” to start sending a message to a friend. An App Intents API will make it possible for third-party developers to add Spotlight shortcuts for their applications.\nOne of the most exciting new arrivals in Spotlight is Clipboard History, something we have wanted for years. Instead of being limited to pasting the last copied item, you will be able to view previous text and photos you’ve copied and re-insert them as needed. Why did it take Apple so long to offer this?\n\n\nApple\n\n\n\n\nTied to the new Spotlight is the new Apps app, which replaces Launchpad, which has been a feature of Macs for more than a decade and provides users with a Home page like view of all their apps. Instead Spotlight will be the means of finding apps. This will take some adjustment, especially if you were a Launchpad user. Learn more about Apps replacing Launchpad, and if you want to get Launchpad back we have a tutorial to show you how. \nmacOS 26 Tahoe: New and updated apps \nThere are also lots of updates coming to Apple apps that are included with iPads, iPhones, and Macs. Many of the changes are shared across all the new apps, but there are a number of Mac-specific updates coming. \nPhone app\nA Phone app on the Mac is the latest Continuity feature to come to macOS. Continuity is Apple’s name for the features that work seamlessly between Macs, iPad and iPhones, these include Handoff (which enables you to start a task on one device and switch to another to finish it), Universal Clipboard (which allows you to copy something on one device and paste it on another), and Universal Control (where you can use one mouse and keyboard to interface with more than one Mac), among other features. \nWith the new Phone app, users will be able to receive their calls and voicemail on the Mac. The Phone app is getting some new features of its own, including Call Screening, which is designed to help you avoid spam calls, and Hold Assist, which means you will never have to listen to hold music again.\nWith Call Screening, before a call is put through, an unknown caller will have to share their name and reason for calling, and you will then be provided with that information. With Hold Assist, when you join a queue to wait for a call operator and the hold music starts, you can choose to be called back. \n\nYouTube / Apple\n\n\n\n\nLive Activities \nAnother feature that demonstrates the interoperability between the iPhone and Mac is Live Activities. \nIn iOS 18, you can see a live update on your Lock Screen relating to things like a takeaway order. Live Activities show the process of a food delivery driver, for example. Now, that functionality is coming to the Mac.\nIt will be powered by the iPhone Mirroring function, and will take the form of an iPhone-style widget that you will see on the screen of your Mac. \nGames app\nThe Games app is another one that is available across all three main operating system updates: iOS, iPadOS, and macOS. As with the iOS Games app, the Games app on the Mac will bring together all the games you have on your Mac (bought from the App Store, Apple Arcade and elsewhere), as well as your friends list, achievements, and leaderboards. Tabs will make it easy to find the games you and your friends are playing.\nA new Game Overlay will make it easy to adjust settings for a particular game. You’ll also be able to chat with friends and ask them to play. \n\n \n @macworld.com \nNew Mac gaming features just dropped! #wwdc25 #gaming #apple #fyp\n ♬ original sound – Macworld – Macworld \n  \n\n\n\n\nThere is also a new Low Power Mode coming, which gamers will be able to turn on to maximise battery life when playing games. \nAnd in related news, Metal 4 is coming, which will enable next-gen features for Mac game developers, such as MetalFX Frame Interpolation and MetalFX De-noising. \n\n\nApple\n\n\n\n\nShortcuts \n\nApple\n\n\n\n\nThe Shortcuts app is getting an overhaul in macOS Tahoe. \nShortcuts is a tool for automating tasks and repetitive actions. For those with more specific needs, there is also Automator on the Mac, but Shortcuts is simple to use and available on iPhone and iPad as well. \nIn Tahoe, Shortcuts will be able to run workflows based on factors like time of day, or in response to an email from a specific person arriving. This functionality was previously limited to the iPhone and iPad versions.\nThere are new intelligent actions available that can be used to create Smart Shortcuts. Apple Intelligence and ChatGPT can be used to enhance these Shortcuts. Apple says that “Users will see dedicated actions for features like summarizing text with Writing Tools or creating images with Image Playground.”\nLive Translation \nOne of the most useful new features announced at WWDC is Live Translation. With Live Translation, you can text a friend who speaks a different language and have the translations appear in real time, or get instant translations during a phone call or FaceTime conference. Everyone gets their own translator. \nYou’ll be able to take advantage of Live Translation in the Phone app, Messages, and FaceTime on your Mac.\n\nApple\n\n\n\n\nJournal\nThe Journal app, which arrived on iOS in 2023, is coming to the Mac (and iPad).\nTerminal\nTerminal is getting a colorful redesign and the Liquid Glass treatment, with support for 24-bit color and the ability to use Powerline fonts. \nReminders\nReminders is getting some help from Apple Intelligence. Reminders will scan a website, note, email or other content, then decide the most relevant action items for you based on its findings. You’ll be able to use Apple Intelligence to automatically categorize your reminders into sections, making them easier to find\nThere are also changes coming to Safari, Messages, Photos, FaceTime, and Notes.",
+    "pub_date": "2026-08-17T18:54:10.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,iOS,Vision,Silicon,App Store,Services",
+    "id": 5080
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iPhone 18 Pro and iPhone Ultra: New Details Leak as Apple Event Nears",
+    "link": "https://www.macrumors.com/2026/08/17/iphone-18-pro-and-iphone-ultra-rumors/",
+    "content": "\"iPhone Ultra\" supply will be very limited when the foldable device is first released later this year, according to Fixed Focus Digital, a known leaker on the Chinese social media platform Weibo.\r\n\r\nalso claimed that the iPhone 18 Pro's A20 Pro chip will be up to 18% faster and up to 30% more power efficient compared to the iPhone 17 Pro's A19 Pro chip. The A20 Pro chip will be the first iPhone chip manufactured with TSMC's 2nm process, rather than the current 3nm process.\r\n\r\nRelated Roundups: iPhone 18 Pro, iPhone Fold\nTags: Apple Event, Fixed Focus Digital, iPhone Ultra\nThis article, \"iPhone 18 Pro and iPhone Ultra: New Details Leak as Apple Event Nears\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-17T18:46:58.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "iOS,Rumors,Silicon",
+    "id": 5063
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Apple squashes iPhone security bugs with latest iOS update",
+    "link": "https://www.cultofmac.com/news/ios-26-6-1-security-update-iphone-ipados",
+    "content": "Apple released iOS 26.6.1 and macOS Tahoe 26.6.2, small but important updates focused on security. iPadOS 26.6.1 is out, too.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-17T18:43:33.000Z",
+    "creator": "Ed Hardy",
+    "tags": "Mac,iOS",
+    "id": 5083
+  },
+  {
+    "source_name": "Macworld",
+    "title": "iOS 26.6.1 and macOS 26.6.2 fix a bunch of security flaws",
+    "link": "https://www.macworld.com/article/3209827/apple-releases-rare-point-betas-for-ios-26-6-and-macos-26-6.html",
+    "content": "Macworld\n\n\n\n\n\nApple’s updates to the OS 26 operating systems this year have been a nonstop flood of security fixes. You can either blame AI for finding them or thank AI for helping fix them, but either way, the sheer number of security updates released this year has been a huge escalation over prior years.\nToday, Apple released iOS and iPadOS 26.6.1 along with macOS 26.6.2. The number discrepancy is because macOS got a 26.6.1 release to fix a security vulnerability that only affects macOS. These updates only fix security flaws, and Apple’s Security Release page lists about 20, including on particularly impactful WebKit update that addresses eight CVE entries on its own.\nFor those with older iPhones or iPads that cannot run the iOS/iPadOS 26, Apple has released iOS and iPadOS 18.7.10 which fixes most of the same security flaws and many, many more: There are almost 100 security fixes in the 18.7.10 update.\nIf you’re in the beta test group, you can update to this latest version by opening Settings > General > Software Update.",
+    "pub_date": "2026-08-17T18:38:24.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,iOS",
+    "id": 5081
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Releases iOS 26.6.1, macOS 26.6.2, and More",
+    "link": "https://www.macrumors.com/2026/08/17/apple-releases-ios-26-6-1-and-more/",
+    "content": "Apple today released iOS 26.6.1, iPadOS 26.6.1, visionOS 26.6.1, and macOS 26.6.2, with all of the updates containing security fixes.\r\n\r\n\r\nApple also released iOS 18.7.10 and iPadOS 18.7.10 with security fixes.\r\n\r\nApple support document, which provides more specific details. Likewise, macOS 26.6.2 delivers security fixes that were first made available in the macOS Golden Gate 27 beta.\r\n\r\nApple says visionOS 26.6.1 security fix details are coming soon.\r\n\r\nRelated Roundups: iOS 26, iPadOS 26, macOS Golden Gate\nRelated Forum: iOS 26\nThis article, \"Apple Releases iOS 26.6.1, macOS 26.6.2, and More\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-17T18:36:27.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "Mac,iOS,Vision",
+    "id": 5064
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iOS 26.6.1 has fixes for 20+ security issues on iPhone, details here",
+    "link": "https://9to5mac.com/2026/08/17/ios-26-6-1-has-fixes-for-20-security-issues-on-iphone-details-here/",
+    "content": "Apple released iOS 26.6.1 today, a new software update for iPhone that includes fixes for 20+ security issues. Here are the details.",
+    "pub_date": "2026-08-17T18:29:43.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 5069
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Seeds Sixth iOS 27 and iPadOS 27 Betas to Developers",
+    "link": "https://www.macrumors.com/2026/08/17/apple-seeds-sixth-ios-27-developer-beta/",
+    "content": "Apple today seeded the sixth betas of iOS 27 and iPadOS 27 to developers for testing purposes, with the update coming one week after Apple released the fifth betas.\r\n\r\n\r\nRegistered developers can download the betas from the Settings app on the iPhone or iPad by going to the General section and selecting Software Update.\r\n\r\nSiri, ‌Siri‌ AI. ‌Siri‌ AI is a chatbot similar to ChatGPT, incorporating general world knowledge, personal data from apps like Messages and Mail, and onscreen awareness to answer questions and find information for you.\r\n\r\nApple Intelligence features in apps like Photos, Safari, Shortcuts, Wallet, and Passwords, plus Apple added a standalone ‌Siri‌ app that houses ‌Siri‌ conversations. Write with ‌Siri‌ is available systemwide for generating text or offering feedback on your writing, and Visual Intelligence has been relocated to the Camera app with a new ‌Siri‌ mode.\r\n\r\nApple improved the look of Liquid Glass and added a slider for customizing transparency. There are multiple performance improvements to speed up iOS, so everything feels faster, even on older iPhones. Apps launch quicker, AirDrop transfers are faster, the keyboard pops up more quickly, and devices are better at transitioning between Wi-Fi and Cellular to keep you connected.\r\n\r\nwe have a dedicated iOS 27 roundup.\nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"Apple Seeds Sixth iOS 27 and iPadOS 27 Betas to Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-17T18:20:23.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,App Store",
+    "id": 5043
+  },
+  {
+    "source_name": "Macworld",
+    "title": "iOS 27 beta 6 is out now as the big release date creeps closer",
+    "link": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
+    "content": "Macworld\n\n\n\n\n\nOn the first day of the WWDC developer conference, Apple released the first developer beta of its new operating system. This year, that means that the first release of iOS 27 outside Cupertino came on June 8, 2026.\nThe pattern goes like this: Apple releases developer-only betas for the first month or so, and then starts releasing the same build for both developers and public beta testers. With only a month or less before the general release, most of the beta updates now are minor in scope, focused on polish, optimization, and fixing the last bugs.\nIf you want to try out the new OS 27 updates and provide feedback, check out our article on how to become a beta tester. It’s easy.\nUpdated August 17, 2026: The sixth beta of iOS 27 is now available to developers, and should be released to the public testers within the next day or so.\nWhat’s new in iOS 27\nThe big iOS 27 release this year is focused on three main areas:\nTrust and Safety – New parental controls to keep kids safe and control screen time.\nPerformance and refinement – Speeding everything up, improving efficiency, tweaking interfaces, and addressing dozens of small user requests.\nApple Intelligence and Siri – Entirely new Apple Intelligence models improve AI throughout the system, and a brand-new Siri is vastly more capable than ever before.\nFor a more complete breakdown of all the new features and changes, check out our iOS 27 guide.\nBeta 5 brought the following changes, in addition to bug fixes and performance improvements. We’ll update this with changes for beta 6 once they are discovered:\nUpdated icons for several apps including Safari, Siri, Remote, and Freeform.\nSiri’s enhanced voice now supports British English.\nAn adjustment in Search Settings for how many app suggests and such should be on Home Screen search suggestions.\niOS 27: How to install the developer beta\nYou’ll need to be registered as an Apple Developer, but a free developer account will do. You can get one via Xcode or the Apple Developer app in iOS. Here’s how to do it via the Apple Developer app:\nDownload the Apple Developer App from the App Store.\nOpen the app.\nTap on Account.\nSign in using your usual Apple ID.\nOnce you have a free developer account, just follow the same instructions as with the public beta:\nOpen Settings.\nTap General, then Software Update.\nMake sure the Beta Updates selection is set to iOS 27 Developer Beta.\nFollow the on-screen instructions.\niOS 27: How to install the public beta\nThe first iOS 27 public beta is not available yet but is expected to arrive in July. When it lands, you can follow these steps to test it out even if you’re not a developer:\nClick Sign Up on the Apple Beta page and register with your Apple ID.\nLog in to the Beta Software Program.\nClick Enroll your iOS device.\nOpen the Settings app, tap General, then Software Update.\nIn the Beta Updates section, select the iOS 27 Public Beta.\nIt may take a few moments after registering for the beta option to appear in Software Update. \nIf you want to uninstall the iOS 27 beta read: How to remove an iOS beta from your iPhone.",
+    "pub_date": "2026-08-17T18:10:53.000Z",
+    "creator": "Macworld",
+    "tags": "iOS,App Store",
+    "id": 5082
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple has shipped iOS 26.6.1, and you should install it soon",
+    "link": "https://appleinsider.com/articles/26/08/17/apple-has-shipped-ios-2661-and-you-should-install-it-soon?utm_source=rss",
+    "content": "Apple has released an update for iOS 26.6.1 for all users, with the usual inclusion of security fixes, making it a must-install for your iPhone.\n\n\niOS 26 is the current generation for iOS. \nWhile Apple is constantly beta-testing its 27-generation operating systems, it's still shipping updates to its earlier releases. That includes the current-gen versions.\nOn Monday, as part of its swathe of releases, Apple issued its update for iOS 26.6.1. The update, which it rolled out as a release candidate on August 10, can be downloaded to an iPhone running iOS 26.6 or earlier.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-17T18:09:28.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS",
+    "id": 5075
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "macOS 27 Golden Gate beta 6 features redesigned traffic light window controls",
+    "link": "https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-features-redesigned-traffic-light-window-controls/",
+    "content": "macOS 27 Golden Gate beta 6 introduces redesigned traffic light window controls. The new look resembles older Mac OS X systems with more detail in each button.",
+    "pub_date": "2026-08-17T18:05:28.000Z",
+    "creator": "Zac Hall",
+    "tags": "Mac",
+    "id": 5070
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple rolls out Release Candidates for macOS Tahoe 26.7 and macOS Sequoia 15.8",
+    "link": "https://9to5mac.com/2026/08/17/apple-rolls-out-release-candidates-for-macos-tahoe-26-7-and-macos-sequoia-15-8/",
+    "content": "Alongside macOS 27 developer beta 6, Apple also released the first RCs for macOS Tahoe 26.7 and macOS Sequoia 15.8. Here are the details.",
+    "pub_date": "2026-08-17T17:52:28.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac,App Store",
+    "id": 5071
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple releases iOS 26.6.1 for iPhone, here’s what’s new",
+    "link": "https://9to5mac.com/2026/08/17/apple-releases-ios-26-6-1-for-iphone-heres-whats-new/",
+    "content": "Apple has just released iOS 26.6.1, a new software update for iPhone. Here’s what’s new.",
+    "pub_date": "2026-08-17T17:36:42.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 5072
+  },
+  {
+    "source_name": "AppleInsider",
     "title": "Apple's sixth 27-gen developer betas arrive as the fall release draws closer",
     "link": "https://appleinsider.com/articles/26/08/17/apples-sixth-27-gen-developer-betas-arrive-as-the-fall-release-draws-closer?utm_source=rss",
     "content": "Weeks away from a probable launch, Apple has outed its sixth developer betas for iOS 27, iPadOS 27, tvOS 27, watchOS 27, visionOS 27,  and macOS 27.\n\n\nAn earlier iOS 27 beta screen\nThe Apple Developer Beta program has now reached the sixth round for iOS 27, iPadOS 27, macOS 27 Golden Gate, tvOS 27, watchOS 27, and visionOS 27.\nThe sixth appears after the fifth, which Apple brought out on August 10.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
@@ -18,16 +238,6 @@
     "creator": "Ryan Christoffel",
     "tags": "iOS,App Store",
     "id": 5049
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Seeds Sixth iOS 27 and iPadOS 27 Betas to Developers",
-    "link": "https://www.macrumors.com/2026/08/17/apple-seeds-sixth-ios-27-developer-beta/",
-    "content": "Apple today seeded the sixth betas of iOS 27 and iPadOS 27 to developers for testing purposes, with the update coming one week after Apple released the fifth betas.\r\n\r\n\r\nRegistered developers can download the betas from the Settings app on the iPhone or iPad by going to the General section and selecting Software Update.\r\n\r\nSiri, ‌Siri‌ AI. ‌Siri‌ AI is a chatbot similar to ChatGPT, incorporating general world knowledge, personal data from apps like Messages and Mail, and onscreen awareness to answer questions and find information for you.\r\n\r\nApple Intelligence features in apps like Photos, Safari, Shortcuts, Wallet, and Passwords, plus Apple added a standalone ‌Siri‌ app that houses ‌Siri‌ conversations. Write with ‌Siri‌ is available systemwide for generating text or offering feedback on your writing, and Visual Intelligence has been relocated to the Camera app with a new ‌Siri‌ mode.\r\n\r\nApple improved the look of Liquid Glass and added a slider for customizing transparency. There are multiple performance improvements to speed up iOS, so everything feels faster, even on older iPhones. Apps launch quicker, AirDrop transfers are faster, the keyboard pops up more quickly, and devices are better at transitioning between Wi-Fi and Cellular to keep you connected.\r\n\r\nwe have a dedicated iOS 27 roundup.\nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"Apple Seeds Sixth iOS 27 and iPadOS 27 Betas to Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-17T17:19:28.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,App Store",
-    "id": 5043
   },
   {
     "source_name": "9to5Mac",
@@ -131,7 +341,7 @@
   },
   {
     "source_name": "Cult of Mac",
-    "title": "Save 46% on 15 months of LifeLock’s credit, dark web and breach monitoring",
+    "title": "Save 46% on LifeLock’s credit, dark web and breach monitoring",
     "link": "https://www.cultofmac.com/deals/lifelock-core-discount",
     "content": "LifeLock Core monitors your credit score and the dark web, and offers recovery support and up to $1.05 million in identity theft coverage.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
     "pub_date": "2026-08-17T16:50:09.000Z",
@@ -1670,16 +1880,6 @@
     "id": 4779
   },
   {
-    "source_name": "AppleInsider",
-    "title": "App Store review is broken in a time where it is needed the most",
-    "link": "https://appleinsider.com/articles/26/08/13/app-store-review-is-broken-in-a-time-where-it-is-needed-the-most?utm_source=rss",
-    "content": "Apple doesn't even seem to be trying with App Store Review. Users should not be the ones who find problem apps, but over and over, that is what is happening.\n\n\nThe App Store could soon feature Ai-generated summaries of application reviews.\nNo question, Apple has the resources to protect us from bad apps, and, no question, it keeps telling regulators that it has. As regulators around the world press for third-party firms to run iPhone App Stores, Apple consistently protests that only it can do a good job of keeping bad apps at bay.\nIt is absolutely true that if, or when, the door is open to rival App Stores, there will be a flood of apps that set out to defraud users. But if you're going to hold up the App Store Review process as the last thin line of defense, you have to make it work and Apple is repeatedly failing.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-13T15:21:51.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "iOS,App Store",
-    "id": 4786
-  },
-  {
     "source_name": "9to5Mac",
     "title": "Three new iPhones launch next month, here’s what’s coming",
     "link": "https://9to5mac.com/2026/08/13/three-new-iphones-launch-next-month-heres-whats-coming/",
@@ -2798,205 +2998,5 @@
     "creator": "Juli Clover",
     "tags": "App Store",
     "id": 4635
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Satechi Launches 240W ChargeView Desktop Charger With Six USB-C Ports",
-    "link": "https://www.macrumors.com/2026/08/11/satechi-240w-chargeview/",
-    "content": "Satechi today launched the ChargeView 240W Desktop Charger, a successor to the 140W ChargeView released last year. The ChargeView 240W can power multiple devices at one time, splitting 240W across six USB-C ports.\r\n\r\n\r\nThe ChargeView 240W has an LCD display that shows the live wattage of all ports that are in use. The C1 and C2 ports offer up to 140W each, while ports C3 and C4 can deliver up to 100W each. The final two ports offer up to 30W. These are maximum power levels, and actual wattage will vary based on how many ports are used at one time. If all six ports are in use, power would be split 70W/70W/30W/30W/20W/20W.\r\n\r\nMacBook Pro and Studio Display. There is an included stand that allows the ChargeView to be used in horizontal or vertical orientation on a desktop.\r\n\r\nThe ChargeView uses GaN technology so it is compact, and it has no fan, so it operates silently. Satechi notes that the device will redistribute power when a new device is plugged in, so there can be a momentary interruption in charging.\r\n\r\nfrom the Satechi website or from Amazon for $149.99.\nTag: Satechi\nThis article, \"Satechi Launches 240W ChargeView Desktop Charger With Six USB-C Ports\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-11T22:30:09.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac",
-    "id": 4633
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Extends 2026 Back to School Promotion Until September 24",
-    "link": "https://www.macrumors.com/2026/08/11/apple-extends-2026-back-to-school-promo/",
-    "content": "Apple today extended its 2026 Back to School Promotion until September 24, which means it will last almost a month longer than planned. The extension is applicable in the United States, Canada, Mexico, and multiple countries in Asia.\r\n\r\n\r\nThe Back to School promotion offers a free item or gift card when students or educators purchase an eligible Mac or iPad model, plus an educational discount.\r\n\r\nMacBook Pro or a $100 gift card when purchasing a MacBook Air, iPad Pro, or iPad Air.\r\n\r\nAirPods 4, or Apple Pencil Pro depending on the device bought.\r\n\r\nMacBook Neo, iPad mini, entry-level ‌iPad‌, desktop Macs, and iPhones are excluded from the promotion. UNiDAYS verification is required to make a purchase.\r\n\r\nTag: Back to School Promotion\nThis article, \"Apple Extends 2026 Back to School Promotion Until September 24\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-11T22:15:20.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,iOS",
-    "id": 4622
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple extends 2026 Back to School deals on Macs and iPads until September 24",
-    "link": "https://9to5mac.com/2026/08/11/apple-extends-2026-back-to-school-deals-on-macs-and-ipads-until-september-24/",
-    "content": "Eligible students, parents of students, and educators in the United States just got a few extra weeks to claim Apple’s 2026 Back to School deals on select Macs and iPads. Here are the details.",
-    "pub_date": "2026-08-11T21:35:29.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 4630
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple's Back to School offers have been extended, but you can do much better",
-    "link": "https://appleinsider.com/articles/26/07/16/apples-back-to-school-offers-have-started-but-you-can-do-much-better?utm_source=rss",
-    "content": "Apple has extended its unusually limited Back to School series of deals and they are not to be dismissed, but there are far greater discounts to be had from other resellers.\n\n\nApple's lates Back to School offer is now live - image credit: Apple\nEven when it isn't raising prices, it is a rule with Apple that it will never actually have sales on its products, except for certain regular promotions in China. So for this latest deal, it is again falling back on offering Apple gift cards alongside selected products.\nSo when a user buys one of these devices, they get a gift card that amounts to money off their next purchase. Consequently if someone knows they need two Apple devices, they can get money off the second one.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-11T21:21:10.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "General",
-    "id": 4632
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Report: Non-gaming apps drove mobile spending growth in Q2 as games fell 4.5%",
-    "link": "https://9to5mac.com/2026/08/11/report-non-gaming-apps-drove-mobile-spending-growth-in-q2-as-games-fell-4-5/",
-    "content": "A new report from Sensor Tower shows that non-gaming apps continued to drive global mobile spending growth in Q2 2026 across iOS and Android, while gaming revenue declined 4.5% year over year. Here are the details.",
-    "pub_date": "2026-08-11T20:59:32.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "iOS",
-    "id": 4631
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Grok Bot Brings Always-On AI Agents to macOS and iOS",
-    "link": "https://www.macrumors.com/2026/08/11/grok-bot-macos-ios/",
-    "content": "Elon Musk's SpaceXAI today announced the launch of Grok Bot, a \"team of always-on agents\" that can complete tasks using tools, websites, and apps. Grok Bot can work in the cloud, so jobs keep running when your laptop is closed. The feature is tied to Cursor, the AI coding company that SpaceX is acquiring for $60 billion.\r\n\r\n\r\nGrok subscribers can send a message to a bot from their phone or desktop app using natural language. SpaceXAI says that while other tools may require building workflows and routines, Grok Bot gets a task done with a chat. It is able to sign into websites (even those with no API), but SpaceXAI hasn't given details on how authentication works.\r\n\r\nMultiple bots can be used in parallel, with one managing others and specialists for different tasks. Bots can join a group chat where they can coordinate on their own, passing work, assigning ownership, and only drawing in the user for judgment calls.\r\n\r\nUsers can teach Grok Bot a workflow. It watches as a task is completed, saves the routine, and then can run it solo the next time by following the same steps. SpaceXAI says bots learn over time and can eventually start working \"before you need to ask.\"\r\n\r\nThere are several Grok Bot examples on the SpaceXAI website, like a sales bot updating the CRM with call transcript notes, an ops bot onboarding new hires and processing invoices in Gmail, and an engineering bot reproducing a bug in the product UI, filing a ticket, and handing the fix task off to a debugging bot.\r\n\r\nTags: Elon Musk, Grok\nThis article, \"Grok Bot Brings Always-On AI Agents to macOS and iOS\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-11T20:34:58.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,iOS,App Store",
-    "id": 4623
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Everyone at Apple is calling the foldable 'iPhone Ultra'",
-    "link": "https://appleinsider.com/articles/26/08/11/everyone-at-apple-is-calling-the-foldable-iphone-ultra?utm_source=rss",
-    "content": "A new rumor suggests that \"everyone\" at Apple calls the upcoming foldable iPhone the \"iPhone Ultra,\" though that doesn't mean Apple will actually go with that name.\n\n\niPhone Fold could be called iPhone Ultra\nApple keeps things like marketing names under a tight lock and key. It is rare, if ever, that the public learns about what something might be called before it is released.\nHowever, you have to call the device something, and it seems a colloquial name has caught on internally at Apple. A social media post from Mark Gurman suggests that \"everyone calls it the Ultra internally.\"\n\n Rumor Score: 🤔 Possible \n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-11T20:28:50.000Z",
-    "creator": "Wesley Hilliard <wes@appleinsider.com>",
-    "tags": "iOS,Rumors",
-    "id": 4628
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iPhone 18 Pro: Three new camera upgrades are coming",
-    "link": "https://9to5mac.com/2026/08/11/iphone-18-pro-three-new-camera-upgrades-are-coming/",
-    "content": "iPhone 18 Pro is just a few weeks away, and rumors indicate it could bring an especially noteworthy batch of camera upgrades. Here are the three main camera features currently rumored.",
-    "pub_date": "2026-08-11T20:18:09.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 4625
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Court rejects Apple’s attempt to postpone App Store fee proceedings in Epic Games case [U]",
-    "link": "https://9to5mac.com/2026/08/11/court-rejects-apples-attempt-to-postpone-app-store-fee-proceedings-in-epic-games-case/",
-    "content": "Epic Games CEO Tim Sweeney says Judge Yvonne Gonzalez Rogers has rejected Apple’s request to pause the App Store fee proceedings pending the Supreme Court’s review of the company’s contempt ruling. Here are the details.",
-    "pub_date": "2026-08-11T19:59:40.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "App Store",
-    "id": 4626
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "‘Everyone’ at Apple uses iPhone Ultra name, says Mark Gurman",
-    "link": "https://9to5mac.com/2026/08/11/everyone-at-apple-uses-iphone-ultra-name-says-mark-gurman/",
-    "content": "Apple is rumored to use ‘iPhone Ultra’ branding for its upcoming foldable model, and Mark Gurman says that is indeed the name widely used within the company’s ranks.",
-    "pub_date": "2026-08-11T19:40:15.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 4627
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Pay Chief Jennifer Bailey Retiring in October",
-    "link": "https://www.macrumors.com/2026/08/11/apple-pay-chief-retiring/",
-    "content": "Apple Pay executive Jennifer Bailey is retiring and leaving Apple in October, reports Bloomberg. Bailey has been with Apple since 2003 and has long overseen ‌Apple Pay‌ and Apple Wallet.\r\n\r\n\r\nIn an employee memo announcing her departure, Apple's services chief Eddy Cue said Bailey will be available in an advisory role.\r\nAfter more than 25 years at Apple, Jennifer Bailey has decided to retire in October. During her tenure, Jennifer has made extraordinary contributions from leading the Apple Store Online through a period of significant growth and global expansion to overseeing the launch of Apple Pay.\r\n\r\nUnder Jennifer's leadership, Apple Pay has changed the way hundreds of millions of our users pay, with a simpler, more secure, and private experience. She also led the development and growth of Apple Wallet, oversaw the development and launch of Apple Card, and led our work in Services fraud prevention and partner operations, Gift Cards, and Trust and Safety. And those are just a few of her achievements.\r\n\r\nOn a personal note, Jennifer has been an incredible friend and leader, and I will miss working with her.\r\n\r\nPlease join me in thanking Jennifer for her incredible contributions to Apple. Before Jennifer's transition at the end of October, we will announce our succession plan, and Jennifer will continue to be available to support the transition in an advisory role.\r\n\r\n\r\nBloomberg says Bailey's retirement is \"seen as a major loss\" for the company. ‌Apple Pay‌ has expanded to more than 80 countries under Bailey's leadership, and Apple says it is accepted at more than 85 percent of retailers in the United States.\r\n\r\nKate Adams is leaving Apple in late 2026, while environmental chief Lisa Jackson left in early 2026. AI chief John Giannandrea and COO Jeff Williams retired in 2026 and 2025, respectively, and UI design lead Alan Dye departed for Meta in late 2025. Apple CFO Luca Maestri and marketing chief Phil Schiller have taken on smaller roles, and CEO Tim Cook is set to transition to a new role on September 1. Other executives like ‌Eddy Cue‌, Craig Federighi, Deirdre O'Brien, and Greg Joswiak have all been with Apple for decades and are getting closer to retirement age.\nRelated Roundup: Apple Pay\nTag: Jennifer Bailey\nRelated Forum: Apple Music, Apple Pay/Card, iCloud, Fitness+\nThis article, \"Apple Pay Chief Jennifer Bailey Retiring in October\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-11T19:34:35.000Z",
-    "creator": "Juli Clover",
-    "tags": "Services",
-    "id": 4597
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Can't Delay App Store Fee Fight While Waiting on Supreme Court",
-    "link": "https://www.macrumors.com/2026/08/11/app-store-epic-games-fee-fight-proceeds/",
-    "content": "Apple has again failed to earn a stay for fee calculations in its ongoing legal fight with Epic Games. Apple's case will be heard by the Supreme Court in the term that begins in October, and Apple asked the U.S. District Court for the Northern District of California to pause proceedings until then, but the court said no [PDF].\r\n\r\n\r\nApple now has 24 hours to give the court an outline of the fees it wants to charge developers for using alternative payment options and linking out to purchase options on the web. ‌Epic Games‌ will then be able to give a legal analysis of Apple's fee proposal, and the court will decide what's reasonable.\r\n\r\n\nApple's stay was denied! Now they have 24 hours to file their proposed menu of junk fees with The Court, and Epic will have 60 days to file our legal analysis in advance of a court hearing on the topic.\n— Tim Sweeney (@TimSweeneyEpic) August 11, 2026\n \n\r\nFee calculations are the result of a long, drawn-out dispute between ‌Epic Games‌ and Apple, which started when Epic sued Apple in 2020. Apple largely won the initial legal fight, but was ordered to change its anti-steering rules to let developers link to non-App Store purchase options. Apple complied, but charged a 12 to 27 percent fee that resulted in few developers choosing to use the option.\r\n\r\nin contempt of court for willfully violating her ruling, and stopped Apple from collecting any fees on links in the U.S. App Store.\r\n\r\nApple appealed, and the appeals court upheld the contempt ruling, but said Apple was entitled to reasonable fees for its intellectual property. The appeals court sent the case back to the district court to figure out what a reasonable fee might be. Apple has not been able to collect payment for link-outs since April 2025, and right now, there are no fees.\r\n\r\nThe appeals court ruling that continued to hold Apple in contempt led Apple to appeal to the Supreme Court, and the Supreme Court agreed to hear the case. Apple sought a pause on the fee calculations because the higher court's decision could undo the contempt ruling, but the appeals court, Supreme Court, and now the district court have denied Apple's pause requests.\r\n\r\nTags: App Store, Epic Games, Epic Games vs. Apple\nThis article, \"Apple Can't Delay App Store Fee Fight While Waiting on Supreme Court\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-11T19:14:01.000Z",
-    "creator": "Juli Clover",
-    "tags": "App Store",
-    "id": 4624
-  },
-  {
-    "source_name": "Macworld",
-    "title": "What’s up with this ‘Apple Reference Image’ rumor?",
-    "link": "https://www.macworld.com/article/3210722/what-is-up-with-this-apple-reference-image-rumor.html",
-    "content": "Macworld\n\n\n\n\n\nSome clever code divers have found something interesting buried in a privacy disclosure as part of iOS 27 beta 5: a new feature called Apple Reference Image.\nThere are plenty of companies adding metadata to AI generated images, and Apple is one of them. In iOS 27, images created with Image Playground will embed the SynthID metadata watermark created by Google.\nBut Apple Reference Image seems to be a tool to help authenticate images another way: rather than just by positively identifying fake images, it authenticates that an image or video is real and has been captured by an iPhone.\nThe feature is not active yet, but when it is, you’ll find it in Settings > Camera > Reference Image. Here’s how it appears to work:\nIn addition to enabling the feature in Settings, you’ll have to take your photos using a new Reference mode in the Camera app (which does not exist yet). Once you do so, a bunch of extra metadata will be saved along with your image. Then, when you want to authenticate it, you can tap a “Reference” badge to send the raw image and all sorts of metadata up to Apple, which uses the Private Cloud Compute servers to determine that the image did in fact come from an iPhone image sensor and has not been edited. It then assigns the image a unique photo ID and sends back that authenticated version.\nThis may sound like a great way to push back against the flood of AI generated and manipulated images online, but it probably won’t really make a dent there. Most of that stuff spreads on social media where images are recompressed and often stripped of some metadata before they are shown to other users. Plus, this is entirely opt-in, requires a special mode, and it’s unclear which regular image edits can be done (if any) without removing the authentication.\nRather, this seems like a way to create a legally robust providence claim for occupations that need to prove a photo is legitimate. Think: journalists, insurance agents, criminologists, and so on.\nA more robust system is the C2PA (Coalition for Content Provenance and Authenticity), which has already been adopted by standalone camera companies like Nikon, Sony, and Leica along with software companies like Adobe. Google adopted that standard in the Pixel 10 this year. The C2PA standard creates a “nutrition label” of sorts that shows a history of the way an image was captured (or generated) and broad types of edits made along the way. So you can see if an image is fake, or just “edited” to crop it and apply color balance, for example.\nApple’s system relies on Apple hardware specifically and Private Cloud Compute, and of course requires enabling settings and using special modes. So it seems to be less about fighting the trend of online AI slop and more about providing specific professionals with a way to prove that an image taken with an iPhone is legitimate.\nOf course, regular users have a lot of other great Photos and Camera features to look forward to in iOS 27, including: faster iCloud uploads, saving images from videos, a new Captured by Me collection, star ratings on photos and videos, and more. iOS 27 is expected to arrive next month, but this new feature might not be included—or it could be exclusive to the iPhone 18 Pro.",
-    "pub_date": "2026-08-11T19:06:26.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,Rumors,App Store,Services",
-    "id": 4620
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Apple faces fraud allegation over iCloud Private Relay failures",
-    "link": "https://www.cultofmac.com/news/icloud-private-relay-fraud-lawsuit",
-    "content": "A proposed class action lawsuit accuses Apple of fraud over iCloud Private Relay, saying the privacy feature didn’t shield users' identities.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-11T19:05:01.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,Services",
-    "id": 4621
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple in talks to acquire streaming rights for golf’s Open Championship: report",
-    "link": "https://9to5mac.com/2026/08/11/apple-streaming-rights-golf-open/",
-    "content": "Apple is among companies in talks to acquire US rights to golf’s Open Championship, according to a new report from the Guardian. Netflix and Amazon are also expected to be interested in the rights.",
-    "pub_date": "2026-08-11T19:01:16.000Z",
-    "creator": "Chance Miller",
-    "tags": "General",
-    "id": 4603
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Releases New iOS 27 AirPods Firmware for Public Beta Testers",
-    "link": "https://www.macrumors.com/2026/08/11/apple-releases-airpods-firmware-public-beta/",
-    "content": "Apple today released new AirPods beta firmware available for public testers. The firmware has a build number of 9A5336b, and it is available for the AirPods Pro 2, AirPods Pro 3, AirPods 4, and AirPods Max 2. It is the same as the AirPods beta released for developers last week.\r\n\r\n\r\nIn iOS 27, iPadOS 27, and macOS Golden Gate, Apple is adding a new AirPods interface, a slider for Adaptive mode, and support for custom EQ, so the firmware lets public beta testers use those features. AirPods are also compatible with the new Siri AI.\r\n\r\niPad, or Mac running iOS 26, iPadOS 26, or macOS 26 or later, there is a beta firmware option that can be accessed in the AirPods settings interface. Toggling on beta updates allows users to install the beta firmware.\r\n\r\nRelated Roundups: AirPods 4, iOS 27, iPadOS 27\nBuyer's Guide: AirPods (Caution)\nRelated Forum: AirPods\nThis article, \"Apple Releases New iOS 27 AirPods Firmware for Public Beta Testers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-11T18:55:58.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,iOS",
-    "id": 4596
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "AirPods Pro 3 and more just got new public beta firmware",
-    "link": "https://9to5mac.com/2026/08/11/airpods-pro-3-and-more-just-got-new-public-beta-firmware/",
-    "content": "Apple released iOS 27 public beta 3 today, and now new beta firmware has also arrived for AirPods Pro 3, AirPods Pro 2, and more.",
-    "pub_date": "2026-08-11T18:46:28.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 4604
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "9to5Mac Daily: August 11, 2026 – iOS 27 beta 5, glass iPhone rumors",
-    "link": "https://9to5mac.com/2026/08/11/daily-august-11-2026-ios-27/",
-    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.",
-    "pub_date": "2026-08-11T18:35:30.000Z",
-    "creator": "Seth Kurkowski",
-    "tags": "iOS,App Store",
-    "id": 4605
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple Pay & Apple Card VP Jennifer Bailey is retiring",
-    "link": "https://appleinsider.com/articles/26/08/11/apple-pay-apple-card-vp-jennifer-bailey-is-retiring?utm_source=rss",
-    "content": "The executive who spearheaded Apple Pay, Jennifer Bailey, is retiring after 12 years as Vice President of Internet Services and Apple Pay.\n\n\nJennifer Bailey is retiring after 23 years in Apple's employ\nUnder Bailey's leadership, Apple launched Apple Wallet, Apple Pay, and Apple Card. She also supervises Tap to Pay on iPhone, Apple Gift Cards, and Apple Cash internationally.\nShe joined the company in 2003 as Vice President of Worldwide Online Stores in 2003, and was promoted in 2014.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-11T18:14:38.000Z",
-    "creator": "Mike Wuerthele <mike@appleinsider.com>",
-    "tags": "iOS,Services",
-    "id": 4615
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple Pay and Wallet leader retiring after two decades at Apple",
-    "link": "https://9to5mac.com/2026/08/11/apple-pay-and-wallet-leader-retiring-after-two-decades-at-apple/",
-    "content": "Apple’s head of Apple Pay and Wallet is retiring in October, according to a new report from Bloomberg. Jennifer Bailey joined Apple in the early 2000s and has served as vice president of Apple Pay since 2014.",
-    "pub_date": "2026-08-11T18:14:08.000Z",
-    "creator": "Chance Miller",
-    "tags": "Services",
-    "id": 4606
   }
 ]
