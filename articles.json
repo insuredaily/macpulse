@@ -1,5 +1,75 @@
 [
   {
+    "source_name": "MacRumors",
+    "title": "iOS 27 Finally Fixes Replying to Android Texts",
+    "link": "https://www.macrumors.com/2026/08/17/ios-27-finally-fixes-replying-to-android-texts/",
+    "content": "When iOS 27 arrives next month, you'll be able to reply to a specific green chat bubble (aka an Android message) in a Messages conversation on your iPhone. \r\n\r\n\r\nAll you need to do is press and hold the message, tap Reply, then type your response. It will be received by the recipient as a real threaded reply (i.e. an inline reply), tying it directly to the message in question. It's the same with reactions – react to a shared photo and your contact will see the intended emoji instead of a message saying that you \"liked an image.\"\r\n\r\nsupporting iPhones, that will finally change.\r\n\r\nRelated Roundups: iOS 27, iPadOS 27\nTag: Android\nThis article, \"iOS 27 Finally Fixes Replying to Android Texts\" first appeared on MacRumors.com",
+    "pub_date": "2026-08-17T14:28:19.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "iOS",
+    "id": 5012
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "AirPods Max 2 just dropped to $429, save $120",
+    "link": "https://appleinsider.com/articles/26/08/17/airpods-max-2-just-dropped-to-429-save-120?utm_source=rss",
+    "content": "Amazon's $120 AirPods Max 2 discount is the steepest seen since Prime Day 2026.\n\n\nSave $120 on AirPods Max 2, lowest price of the season - Image credit: Apple\nYou can pick up AirPods Max 2 at a $120 discount at Amazon in your choice of Starlight or Purple.\nBuy AirPods Max 2 for $429\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-17T14:19:37.000Z",
+    "creator": "Christine McKee <christine@appleinsider.com>",
+    "tags": "General",
+    "id": 5018
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Today in Apple history: Steve Jobs’ stolen iPad turns up in clown town",
+    "link": "https://www.cultofmac.com/apple-history/steve-jobs-stolen-ipad",
+    "content": "On August 17, 2012, San Francisco Bay Area entertainer Kenny the Clown found himself the unwitting new owner of Steve Jobs' stolen iPad.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-17T14:18:57.000Z",
+    "creator": "Luke Dormehl",
+    "tags": "Mac,iOS",
+    "id": 5022
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple Wallet driver’s license is coming to new US state soon",
+    "link": "https://9to5mac.com/2026/08/17/apple-wallet-drivers-license-is-coming-to-new-us-state-soon/",
+    "content": "Apple Wallet’s support for digital driver’s licenses keeps expanding, with North Carolina the latest state to announce that it’s launching soon. Here are the details.",
+    "pub_date": "2026-08-17T14:16:01.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "General",
+    "id": 5014
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "This iPad keyboard case is the perfect addition to our Back to School tech roundup",
+    "link": "https://9to5mac.com/2026/08/17/this-ipad-keyboard-case-is-the-perfect-addition-to-our-back-to-school-tech-roundup/",
+    "content": "If you have kids returning to school or college, the back to school sales are great timing to equip them with tech that can help them carry out their study assignments. \nApple last month launched its own back to school promotion, offering a $150 gift card with qualifying Mac and iPad purchases, and you can also pick up some great deals on Amazon, too.\nWe’ve rounded up a number of perfect tech options for kids returning to school below.",
+    "pub_date": "2026-08-17T14:07:35.000Z",
+    "creator": "Sponsored Post",
+    "tags": "Mac,iOS",
+    "id": 5015
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple will comply with ‘fairer’ App Tracking Transparency rules in the EU",
+    "link": "https://9to5mac.com/2026/08/17/apple-will-comply-with-fairer-app-tracking-transparency-rules-in-the-eu/",
+    "content": "App Tracking Transparency (ATT) is an Apple privacy initiative intended to allow iPhone owners greater control over how developers collect and use their data. However, the company was accused of treating its own apps more favourably than third-party ones.\nThe company has now agreed to apply new rules to how ATT works throughout the EU, following an investigation by the German antitrust regulator …",
+    "pub_date": "2026-08-17T13:58:11.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "iOS,App Store",
+    "id": 5016
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "New iPhone Ultra leaks cover release timing, availability, and name",
+    "link": "https://9to5mac.com/2026/08/17/new-iphone-ultra-leaks-cover-release-timing-availability-and-name/",
+    "content": "Apple’s foldable iPhone Ultra will be unveiled in just a few weeks, and new leaks cover what to expect from release timing, availability, and the product’s name.",
+    "pub_date": "2026-08-17T13:47:23.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 5017
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Natural language robot cues, Apple Intelligence limits, & Mophie 4-in-1 review on Smart Home Insider",
     "link": "https://appleinsider.com/articles/26/08/17/natural-language-robot-cues-apple-intelligence-limits-mophie-4-in-1-review-on-smart-home-insider?utm_source=rss",
@@ -2928,75 +2998,5 @@
     "creator": "Ryan Christoffel",
     "tags": "General",
     "id": 4573
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Accused of 'Fraud' in iCloud Private Relay Class Action Lawsuit",
-    "link": "https://www.macrumors.com/2026/08/11/icloud-private-relay-class-action-lawsuit/",
-    "content": "Apple is facing a proposed class action lawsuit accusing it of fraud and false advertising over a security flaw in iCloud Private Relay, according to 9to5Mac.\r\n\r\n\r\n\r\nThe suit was filed by the Clarkson Law Firm, which accuses Apple of deceiving ‌iCloud‌+ subscribers with its marketing of Private Relay, the feature meant to shield a user's IP address and DNS records while browsing in Safari. The firm alleges Apple knew, or should have known, that its privacy claims about the feature were false and misleading at the time it sold the subscriptions.\r\n\r\nSiri features, a case that ended in a $250 million settlement. That deal was reached in December 2025, though the payout terms were not made public until May.\r\n\r\nClarkson partner Tim Giordano said Apple had built its reputation on privacy promises, and argued that ‌iCloud‌+ subscribers paid a premium for protection that failed to hold up, calling it \"an outrageous violation and betrayal of consumer trust and law.\"\r\n\r\nsecurity researchers detailed earlier this month. The most serious ties to passkey sign-ins: a site can trigger a passkey check that gets handled by the device's operating system rather than Safari, bypassing Private Relay's proxy servers entirely, sometimes without showing any passkey prompt at all, even on a site that only claims to support them.\r\n\r\niOS 26, can also expose a user's real IP address or DNS servers under certain conditions. Since WebKit powers every browser on iOS, the exposure is not limited to Safari.\nTags: iCloud, Apple Lawsuits\nRelated Forum: Apple Music, Apple Pay/Card, iCloud, Fitness+\nThis article, \"Apple Accused of 'Fraud' in iCloud Private Relay Class Action Lawsuit\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-11T14:30:15.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "iOS,Services",
-    "id": 4569
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Beat the recent price hike with $50 off the A16 iPad",
-    "link": "https://www.macworld.com/article/3210518/beat-the-recent-price-hike-with-50-off-the-a16-ipad.html",
-    "content": "Macworld\n\n\n\n\n\n\t\t\nApple iPad A16\nView Deal\nIf you didn’t get a chance to get an iPad before the price hike a couple of months back, now’s a good time to get one, as the 11-inch tablet with an A16 chip is on sale for $400, down from $449. That’s a $49 discount and the lowest we’ve seen since Apple hike prices, so if you want one you should take grab it\nYou already know what you’re getting with this iPad. The 11-inch Liquid Retina display makes all of your photos and videos look sharp and vibrant, while the 128GB of storage space is plenty of space for apps, games, and anything else. The cameras on this tablet are solid, too, with the 12MP Center Stage front camera keeping you centered on video calls and the 12MP Wide back camera shooting clean 4K video and handling document scanning with ease. The iPad A16 also comes with all-day battery life, so you get a tablet that keeps pace with your whole day.\nThis tablet is powered by the A16 chip, which delivers a speed boost for the things most people actually use a tablet for, whether that’s streaming, gaming, or editing photos. It will also make a quick job of switching between apps. However, it’s not compatible with Apple Intelligence, so if you want the new Siri AI, you’ll need to wait for the new model coming next year. \nWe liked this tablet better when it used to be on sale for $300, but those days are gone. And even at $400, the 11-inch iPad A16 is a reliable, do-it-all pick for the whole family.",
-    "pub_date": "2026-08-11T14:27:18.000Z",
-    "creator": "Macworld",
-    "tags": "iOS",
-    "id": 4581
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple Arcade adding ‘two beloved puzzlers’ to ad-free platform in September",
-    "link": "https://9to5mac.com/2026/08/11/apple-arcade-adding-two-beloved-puzzlers-to-ad-free-platform-in-september/",
-    "content": "After a major Madden NFL 27 release in August, Apple Arcade is adding “two beloved puzzlers” to the ad-free platform in September.",
-    "pub_date": "2026-08-11T14:14:33.000Z",
-    "creator": "Zac Hall",
-    "tags": "Services",
-    "id": 4574
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "LG Launches Back to School Sale With Major Discounts on OLED TVs and Monitors",
-    "link": "https://www.macrumors.com/2026/08/11/lg-back-to-school-sale/",
-    "content": "LG is hosting a big Back to School sale on its website this week, with deals on monitors, TVs, home appliances, and more. LG's discounts have been automatically applied and do not require any discount codes or special memberships.\r\n\r\nNote: MacRumors is an affiliate partner with LG. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n$1,799.99 ($900 off) and the 65-inch LG OLED evo AI G6 4K Smart TV for $3,299.99 ($100 off).\r\n\r\n\nSITEWIDE SALE\nLG Back to School Sale\n\n\r\n\r\nThis sale has been running for a few days now, and we're seeing stock running low on a few of LG's TVs. You can opt in to be notified if a TV is out of stock, and LG will send you an email when they've returned and are available to purchase.\r\n\r\nTVs\n\r\n50-inch\r\n\r\n55-inch LG UHD 4K Smart TV - $299.99 ($80 off)\n\r\n50-inch LG QNED mini LED 4K Smart TV - $329.99 ($20 off)\n\r\n55-inch LG QNED evo AI 4K Smart TV - $749.99 ($149 off)\n\r\n55-inch LG Gallery TV with Frame 4K Smart TV - $899.99 ($400 off)\n\r\n60-inch\r\n65-inch LG QNED mini LED 4K Smart TV - $459.99 ($20 off)\n\r\n65-inch LG OLED AI B6 4K Smart TV - $1,699.99 ($300 off)\n\r\n65-inch LG OLED evo AI C6 4K Smart TV - $1,799.99 ($900 off)\n\r\n65-inch LG OLED evo AI G6 4K Smart TV - $3,299.99 ($100 off)\n\r\n70-inch\r\n75-inch LG 4K Nano AI Smart TV - $599.99 ($100 off)\n\r\n75-inch LG Mini LED 4K Smart TV - $679.99 ($120 off)\n\r\n77-inch LG evo AI 4K Smart TV - $2,199.99 ($1,500 off)\n\r\n77-inch LG OLED evo AI C5 4K Smart TV - $2,199.99 ($1,500 off)\n\r\n77-inch LG OLED evo M Series 4K Smart TV - $2,299.99 ($2,700 off)\n\r\n77-inch LG OLED evo AI C6H 4K Smart TV - $2,999.99 ($700 off)\n\r\n75-inch LG Micro RGB evo AI 4K Smart TV - $3,799.99 ($1,200 off)\n\r\n77-inch LG OLED evo AI G6 4K Smart TV - $4,299.99 ($200 off)\n\r\n77-inch LG OLED evo AI W6 4K Smart TV - $4,799.99 ($700 off)\n\r\n80-inch+\r\n86-inch LG QNED 4K Smart TV - $1,299.99 ($399 off)\n\r\n100-inch LG QNED evo AI mini LED 4K Smart TV - $3,499.99 ($999 off)\n\r\nMonitors\n\r\n\n34-inch UltraGear Curved Monitor - $249.99 ($150 off)\n\r\n34-inch UltraWide Curved Monitor - $299.99 ($200 off)\n\r\n34-inch UltraGear OLED Curved Gaming Monitor - $699.99 ($600 off)\n\r\n27-inch UltraGear OLED Gaming Monitor - $599.99 ($400 off)\n\r\n32-inch UltraFine 6K Monitor - $1,299.99 ($700 off)\n\r\nAppliances\n\r\n\n24-inch FlushFit Top Control Dishwasher - $799.00 ($350 off)\n\r\n26 cu. ft. Wide Bottom Freezer Refrigerator - $1,799.00 ($400 off)\n\r\n27 cu. ft. Side-by-Side InstaView Refrigerator - $1,899.00 ($700 off)\n\r\nSingle Unit Front Load WashTower - $1,899.00 ($700 off)\n\r\n27 cu. ft. Smart InstaView French Door Refrigerator - $1,949.00 ($950 off)\n\r\nWasher/Dryer LG WashCombo All-in-One - $2,199.00 ($1,100 off)\n\r\n30 cu. ft. Smart French Door Refrigerator - $2,599.00 ($1,400 off)\n\r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"LG Launches Back to School Sale With Major Discounts on OLED TVs and Monitors\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-11T13:59:11.000Z",
-    "creator": "Mitchel Broussard",
-    "tags": "General",
-    "id": 4570
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Zoom flaw let an attacker take over your device, including iPhone and Mac",
-    "link": "https://9to5mac.com/2026/08/11/zoom-flaw-let-an-attacker-take-over-your-device-including-iphone-and-mac/",
-    "content": "A Zoom vulnerability discovered with the help of an AI tool gave an attacker the ability to remotely execute code on whatever device a meeting participant was using, including both iPhone and Mac …",
-    "pub_date": "2026-08-11T13:51:16.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "Mac,iOS",
-    "id": 4575
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iPhone 18 Pro Will Reportedly Start With 256GB of Storage",
-    "link": "https://www.macrumors.com/2026/08/11/iphone-18-pro-base-256gb-storage-report/",
-    "content": "While the iPhone 17 Pro has double the base storage compared to the iPhone 16 Pro, there will apparently be no further increase this year.\r\n\r\n\r\nIn a report this week estimating that the iPhone 18 Pro's bill of materials will be nearly 40% higher than the iPhone 17 Pro, Taiwanese research firm TrendForce said the iPhone 18 Pro will start with 256GB of storage, matching the iPhone 17 Pro's minimum capacity. The report did not explicitly mention the iPhone 18 Pro Max, but the Pro and Pro Max models have started with the same amount of storage for the past two generations.\r\n\r\niPhone 16 Pro: 128GB\n\r\niPhone 17 Pro: 256GB\n\r\niPhone 18 Pro (rumored): 256GB\nEven though it does not expect an increase in base storage, TrendForce said that retail price increases for the iPhone 18 Pro models are \"unavoidable\" due to increased costs for components. RAM costs have increased significantly due to the ongoing memory chip shortage, and prices for storage and A20 Pro chips are also expected to be higher.\r\n\r\n$200 to $300 higher compared to iPhone 17 Pro starting prices. If so, the iPhone 18 Pro and iPhone 18 Pro Max could start at up to $1,399 and $1,499, respectively.\r\n\r\nraised prices on all Macs and iPads, as well as the Apple TV, HomePod, HomePod mini, and Vision Pro. The increases ranged from $30 for the HomePod mini to up to $1,300 for a high-end Mac Studio configuration.\r\n\r\nApple said it raised prices because of the ongoing memory chip shortage, resulting from companies building out data centers with powerful AI servers. The supply-demand imbalance has led to skyrocketing prices for RAM and SSD storage chips used in a wide range of Apple products, and Apple has now passed those costs on to customers.\r\n\r\nwere \"unavoidable\" due to \"a hundred-year flood\" on memory pricing.\r\n\r\nRelated Roundup: iPhone 18 Pro\nTag: TrendForce\nThis article, \"iPhone 18 Pro Will Reportedly Start With 256GB of Storage\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-11T13:50:27.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "Mac,iOS,Vision",
-    "id": 4571
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iOS 27 beta 5 adds option to upgrade iCloud+ subscription for more AI",
-    "link": "https://9to5mac.com/2026/08/11/ios-27-beta-5-adds-option-to-upgrade-icloud-subscription-for-more-ai/",
-    "content": "iOS 27 beta 5 arrived this week, and it includes confirmation of something Apple has hinted before: paying for higher iCloud+ tiers unlocks more access to Apple Intelligence features.",
-    "pub_date": "2026-08-11T13:50:26.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS,Services",
-    "id": 4576
   }
 ]
