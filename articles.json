@@ -1,5 +1,25 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Spotify’s new Playlist Notes let users add context to songs, podcasts, and audiobook picks",
+    "link": "https://9to5mac.com/2026/08/17/spotifys-new-playlist-notes-let-users-add-context-to-songs-podcasts-and-audiobook-picks/",
+    "content": "Spotify today announced an expansion of its recently released User Notes feature. While User Notes are limited to songs, the new Playlist Notes also let users add context to podcast episodes and audiobooks in their playlists. Here are the details.",
+    "pub_date": "2026-08-17T21:00:47.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 5089
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Adds More New Wallpapers in macOS Golden Gate",
+    "link": "https://www.macrumors.com/2026/08/17/macos-golden-gate-wallpapers-beta-6/",
+    "content": "Apple today added two new Golden Gate-themed wallpaper options in the sixth beta of macOS 27.\r\n\r\n\r\nThere are new Golden Gate Day and Golden Gate Evening wallpaper options that join the Golden Gate Sunset and Golden Gate Night wallpapers that Apple introduced in earlier betas.\r\n\r\nmacOS 27 also includes abstract Golden Gate wallpaper options for those who don't prefer scenery.\r\n\r\n\r\nGolden Gate Day and Golden Gate Evening animate when you unlock your Mac, and can be set as a screen saver. When used as screen saver, both wallpapers feature cars slowly driving across the bridge.\r\n\r\nmacOS Golden Gate beta six, adding a Liquid Glass aesthetic. \r\n\r\n\r\n‌macOS Golden Gate‌ is available for developers and public beta testers, with a public launch coming in September.\nRelated Roundup: macOS Golden Gate\nThis article, \"Apple Adds More New Wallpapers in macOS Golden Gate\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-17T20:37:19.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac",
+    "id": 5088
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Amazon joins the list of companies destroying rare books to feed to the AI machine",
     "link": "https://appleinsider.com/articles/26/08/17/amazon-joins-the-list-of-companies-destroying-rare-books-to-feed-to-the-ai-machine?utm_source=rss",
@@ -2978,25 +2998,5 @@
     "creator": "Macworld",
     "tags": "App Store,Services",
     "id": 4642
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Women in Blue’s second season premieres on Apple TV",
-    "link": "https://9to5mac.com/2026/08/11/women-in-blues-second-season-premieres-on-apple-tv/",
-    "content": "Apple TV subscribers can now stream the first episode of the new season of Women in Blue (Las Azules). Here’s what to expect from the season.",
-    "pub_date": "2026-08-12T01:00:59.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 4636
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Microsoft Edge tests Apple Account sign-in support",
-    "link": "https://9to5mac.com/2026/08/11/microsoft-edge-tests-apple-account-sign-in-support/",
-    "content": "Microsoft’s latest Edge Canary build has added new flags for signing in to the browser with an Apple Account, while Microsoft’s release notes indicate the feature is also rolling out to Edge Beta users. Here are the details.",
-    "pub_date": "2026-08-12T00:11:30.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 4637
   }
 ]
