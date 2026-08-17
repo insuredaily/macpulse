@@ -1,5 +1,145 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "Apple's sixth 27-gen developer betas arrive as the fall release draws closer",
+    "link": "https://appleinsider.com/articles/26/08/17/apples-sixth-27-gen-developer-betas-arrive-as-the-fall-release-draws-closer?utm_source=rss",
+    "content": "Weeks away from a probable launch, Apple has outed its sixth developer betas for iOS 27, iPadOS 27, tvOS 27, watchOS 27, visionOS 27,  and macOS 27.\n\n\nAn earlier iOS 27 beta screen\nThe Apple Developer Beta program has now reached the sixth round for iOS 27, iPadOS 27, macOS 27 Golden Gate, tvOS 27, watchOS 27, and visionOS 27.\nThe sixth appears after the fifth, which Apple brought out on August 10.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-17T17:30:50.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "Mac,iOS,Vision,App Store",
+    "id": 5053
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple releases beta 6 for iPadOS 27, tvOS 27, and more",
+    "link": "https://9to5mac.com/2026/08/17/apple-releases-beta-6-for-ipados-27-tvos-27-and-more/",
+    "content": "Beta 6 is rolling out now for iPadOS 27, tvOS 27, watchOS 27, HomePod 27, and more, as Apple’s latest wave of developer betas brings the new software closer to launch.",
+    "pub_date": "2026-08-17T17:22:59.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS,App Store",
+    "id": 5049
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Seeds Sixth iOS 27 and iPadOS 27 Betas to Developers",
+    "link": "https://www.macrumors.com/2026/08/17/apple-seeds-sixth-ios-27-developer-beta/",
+    "content": "Apple today seeded the sixth betas of iOS 27 and iPadOS 27 to developers for testing purposes, with the update coming one week after Apple released the fifth betas.\r\n\r\n\r\nRegistered developers can download the betas from the Settings app on the iPhone or iPad by going to the General section and selecting Software Update.\r\n\r\nSiri, ‌Siri‌ AI. ‌Siri‌ AI is a chatbot similar to ChatGPT, incorporating general world knowledge, personal data from apps like Messages and Mail, and onscreen awareness to answer questions and find information for you.\r\n\r\nApple Intelligence features in apps like Photos, Safari, Shortcuts, Wallet, and Passwords, plus Apple added a standalone ‌Siri‌ app that houses ‌Siri‌ conversations. Write with ‌Siri‌ is available systemwide for generating text or offering feedback on your writing, and Visual Intelligence has been relocated to the Camera app with a new ‌Siri‌ mode.\r\n\r\nApple improved the look of Liquid Glass and added a slider for customizing transparency. There are multiple performance improvements to speed up iOS, so everything feels faster, even on older iPhones. Apps launch quicker, AirDrop transfers are faster, the keyboard pops up more quickly, and devices are better at transitioning between Wi-Fi and Cellular to keep you connected.\r\n\r\nwe have a dedicated iOS 27 roundup.\nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"Apple Seeds Sixth iOS 27 and iPadOS 27 Betas to Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-17T17:19:28.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,App Store",
+    "id": 5043
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "macOS 27 Golden Gate developer beta 6 now available to developers",
+    "link": "https://9to5mac.com/2026/08/17/macos-27-golden-gate-developer-beta-6-now-available-to-developers/",
+    "content": "After a rare three-week hiatus between macOS developer betas 4 and 5, Apple has now rolled out beta 6 just a week after last Monday’s build. Here’s what to expect.",
+    "pub_date": "2026-08-17T17:19:01.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac,App Store",
+    "id": 5050
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iOS 27 beta 6 now available as Apple tests major Siri AI upgrade",
+    "link": "https://9to5mac.com/2026/08/17/ios-27-beta-6/",
+    "content": "Apple has released the sixth iOS 27 beta for developer testing. iOS 27 beta 6 continues Apple’s summer beta cycle ahead of a public release in September. We’ll update our devices and share what we discover.",
+    "pub_date": "2026-08-17T17:18:41.000Z",
+    "creator": "Zac Hall",
+    "tags": "iOS,App Store",
+    "id": 5051
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Releases macOS Golden Gate Beta 6",
+    "link": "https://www.macrumors.com/2026/08/17/apple-releases-macos-golden-gate-beta-6/",
+    "content": "Apple today provided developers with the sixth beta of macOS Golden Gate, with the update coming a week after Apple seeded the fifth beta.\r\n\r\n\r\nDevelopers can download ‌macOS Golden Gate‌ by going to System Settings > General > Software Update. Beta Updates will need to be enabled, and a free developer account is required.\r\n\r\n‌macOS Golden Gate‌ includes multiple design improvements. Liquid Glass opacity has been improved to increase readability, there's a slider for controlling the level of transparency, and changes to shadowing make it easier to tell when a window is active. Apps now have uniform toolbars, edge-to-edge sidebars, and less rounded corners, plus there are fewer icons in menu bars.\r\n\r\nSiri has been transformed into ‌Siri‌ AI, a chatbot-style assistant that combines general world knowledge, your personal data, and onscreen awareness to answer questions about anything and find information for you. ‌Siri‌ lives in Spotlight, and you can ask questions with the new Search or Ask interface.\r\n\r\nVisual Intelligence is now on the Mac so ‌Siri‌ can answer questions about what's on your screen, and a Write with ‌Siri‌ feature lets ‌Siri‌ generate text or give feedback on your writing.\r\n\r\nPhotos app, AI tab organization in Safari, an option to use AI to automatically update weak passwords in the Passwords app, and a revamped Image Playground app that can generate photorealistic images.\r\n\r\nfound in our macOS Golden Gate roundup.\nRelated Roundup: macOS Golden Gate\nThis article, \"Apple Releases macOS Golden Gate Beta 6\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-17T17:18:36.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,App Store",
+    "id": 5044
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Seeds watchOS 27 Beta 6 to Developers",
+    "link": "https://www.macrumors.com/2026/08/17/apple-seeds-watchos-27-beta-6-to-developers/",
+    "content": "Apple today seeded the sixth beta of watchOS 27 to developers, with the update coming a week after the launch of the fifth beta.\r\n\r\n\r\nThe beta can be downloaded through the Watch app on the iPhone with a free developer account. The Apple Watch will need to be on the charger, connected to Wi-Fi, and have a battery level of 50 percent or above for new software to be installed. The beta is available for all Apple Watch models compatible with ‌watchOS 27‌ except for the Apple Watch Ultra 3.\r\n\r\nSiri AI, the smarter, more capable version of ‌Siri‌. ‌Siri‌ can hold back-and-forth conversations, plus it has access to general world knowledge and your personal data to answer questions and find information. ‌Siri‌ AI on Apple Watch requires an iPhone that supports Apple Intelligence, including the iPhone 15 Pro and later.\r\n\r\nThere's a new Dynamic app grid that highlights ‌Siri‌ suggested apps, and more intuitive Smart Stack Suggestions. You can find your parked car, see pinned messages, get noise alerts, and view identity and transit cards.\r\n\r\nFind My app with support for Precision Finding, and there are performance optimizations that improve battery life.\r\n\r\nis available in our watchOS 27 roundup.\r\nRelated Roundups: watchOS 26, watchOS 27\nRelated Forum: Apple Watch\nThis article, \"Apple Seeds watchOS 27 Beta 6 to Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-17T17:17:40.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,App Store",
+    "id": 5045
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Seeds tvOS 27 Beta 6 to Developers",
+    "link": "https://www.macrumors.com/2026/08/17/apple-seeds-tvos-27-beta-6-to-developers/",
+    "content": "Apple today seeded the sixth beta of tvOS 27 to developers for testing purposes, with the update coming a week after Apple released the fifth beta.\r\n\r\n\r\nThe beta can be downloaded and installed through the Settings app on the Apple TV. A free developer account is required.\r\n\r\ntvOS 27 has few new features compared to the other 27 software updates, but it does add a redesigned Podcasts app, options for larger text, and a more responsive Control Center.\r\n\r\nAppleCare coverage details in the Settings app.\r\n\r\nfound in our Apple TV roundup.\nRelated Roundup: Apple TV\nBuyer's Guide: Apple TV (Don't Buy)\nRelated Forum: Apple TV and Home Theater\nThis article, \"Apple Seeds tvOS 27 Beta 6 to Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-17T17:16:22.000Z",
+    "creator": "Juli Clover",
+    "tags": "App Store",
+    "id": 5046
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Seeds Sixth visionOS 27 Beta to Developers",
+    "link": "https://www.macrumors.com/2026/08/17/apple-seeds-sixth-visionos-27-developer-beta/",
+    "content": "Apple today provided developers with the sixth beta of an upcoming visionOS 27 update for testing purposes. The beta comes a week after Apple released the fifth beta. \r\n\r\n\r\nvisionOS 27 can be installed by opening the Settings app, going to Software Updates, and opting into Beta Updates.\r\n\r\nSiri AI, the smarter and more capable version of ‌Siri‌ that's similar in capability to chatbots like ChatGPT and Claude. On the Vision Pro, ‌Siri‌ can answer questions about anything the wearer is looking at, and there's a new ‌Siri‌ orb that can be placed anywhere in wearer's virtual space.\r\n\r\nPanorama photos can be turned into spatial environments, and there's a new Icelandic Thórsmörk environment that features dramatic mountains, valleys, and glaciers, along with the northern lights. Web Environment support allows developers to create 360-degree environments in Safari for a more native Vision Pro browsing experience.\r\n\r\nApp windows are now curved to provide a more immersive workspace, and Control Center has been reorganized to make system controls easier to find. Apple added a smaller widget size, and notifications automatically expand when the wearer looks at them.\r\n\r\nlisted in our Vision Pro roundup.\nRelated Roundup: Apple Vision Pro\nBuyer's Guide: Vision Pro (Neutral)\nRelated Forum: Apple Vision Pro\nThis article, \"Apple Seeds Sixth visionOS 27 Beta to Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-17T17:15:37.000Z",
+    "creator": "Juli Clover",
+    "tags": "Vision,App Store",
+    "id": 5047
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Let’s take a moment to be thankful for Tim Cook’s imperfect morality",
+    "link": "https://www.macworld.com/article/3210239/tim-cook-did-his-best-for-better-or-worse.html",
+    "content": "Macworld\n\n\n\n\n\nThe days are counting down, and a 15-year era is drawing to a close. On September 1, Tim Cook will step back from his current role as Apple CEO, settling for a somewhat quieter job as executive chairman, and it will be time to evaluate his place in corporate history. There’s every reason to think historians will be relatively kind.\nI say relatively, because the bar for decency in Cook’s field is low. If we look at his peers and rivals, we find a mixed bag, to put it politely: few sane commentators would have Elon Musk or Mark Zuckerberg or Sam Altman on their list of 10 Nicest Dudes Who Should Definitely Have Access To Political Power. Much as tech in the 60s and 70s attracted hippies and idealists, tech in the 2010s and 2020s seems to have become the province of, well, the sort of people who think it’s a gotcha to point out that humans consume food.\nTo a degree, such a mindset—the disposition, we might say, to build and stock an underground shelter rather than work to prevent the catastrophe it’s designed for—is an inevitable result of being extremely rich and running an extremely large business in an extremely competitive market. Tim Cook is a billionaire, and it would be absurd to expect billionaires to be soft-hearted or prone to wild attacks of no-strings generosity. You don’t become a billionaire unless you’re at least above average in the ruthlessness department.\nBut is Cook a good and decent man? If that sounds like an odd question to ask, please note that I’m not the one asking. In a micro-interview last week, Cook fielded two questions from CBS News’ Jo Ling Kent, and while he technically didn’t answer either of them, he did put forward an interesting metric by which his legacy could be evaluated.\n\n\n\n\n\n\nKent: As you look back on your time as CEO, in a word, what have you stood for?\nCook: In my view, your legacy is described by others, not by yourself. I hope that people say I was a good and decent man. And if they say that at the end of the day, I [will] feel like I have achieved something.\nThat’s not one word, Tim. But I get where you’re coming from.\nWill we say he was a good and decent man? I’m not sure. Cook’s inner decency is almost as elusive as his interview responses. He has the vibe of decency. He comes across as a nice guy, the sort of boss who remembers people’s names and contributes handsomely to going-away gifts. But that’s enormously subjective. Those who’ve actually worked with him (I will note here for clarity that he and I have never even been in the same room) will be able to judge better than the rest of us. But what can we learn from his actions?\nThe truth is that Cook’s actions have not always been those of an unfailingly good and decent man. On his watch, for example, Apple’s treatment of retail and support employees has come in for severe criticism. At one meeting, Cook himself declined to answer questions submitted by the AppleToo activist group, whose leaders understandably said they did not feel heard.\nThe company has reportedly blocked pay surveys, likely breaking the law; it has discouraged unionization and, coincidentally or not, closed the first U.S. Apple Store to achieve this. Conditions in Apple’s Asian supply chain, of course, are a serious issue.\nOn the other hand, all the things above were true when Cook took the top job, and while he hasn’t solved them, he has tried. Apple published a list of suppliers for the first time in 2012, months after he became CEO; in 2020, he put a major supplier on probation for breaking the company’s code of conduct. Apple’s environmental record, while still far from perfect, vastly improved under the tenure of Lisa P. Jackson, whom Cook hired in 2013 until she retired earlier this year. We even got to enjoy/endure the CEO bantering with Mother Nature at the iPhone 15 launch event.\nTo be clear, many of the reforms we’ve seen in the Cook era have been forced on him by regulators or bad PR, but there remains a sense that while Steve Jobs, for one, would have refused to give in, Cook is more conciliatory. It also appears that Cook has far more of an urge to do the right thing than his famous predecessor. In 2014, the Mac Observer reported that he responded angrily to a shareholder question about whether focusing on sustainability was good for the company’s bottom line. “When we work on making our devices accessible by the blind, I don’t consider the bloody ROI,” he said. “If you want me to do things only for ROI reasons, you should get out of this stock.” It takes a lot of courage for a CEO to go after the shareholders.\nCook, or Cook’s Apple, has also taken stances on immigration, abortion, and transgender rights, which will have alienated a proportion of its potential customers and allies and seem motivated by principle rather than pragmatism. Some of these stances, perhaps, have been undermined by recent political complications, but my sense is that he’s doing what he always has: the best he can under the circumstances.\nWhat I mean is that for Tim Cook, morality is one factor within a complex algorithm affecting each decision he makes. It would be an exaggeration, clearly, to claim he always does the right thing in a moral or ethical sense, regardless of its effects on his career. Apple comes first, and some of the time that means actions and policies which are difficult to defend. But if he can do the right thing, he will. And by the standard of his cohort, or of his predecessors in the hot seat at Cupertino, the fact that morality enters into the calculation at all is almost miraculous.\n\nFoundry\n\n\n\n\nWelcome to our weekly Apple Breakfast column, which includes all the Apple news you missed last week in a handy bite-sized roundup. We call it Apple Breakfast because we think it goes great with a Monday morning cup of coffee or tea, but it’s cool if you want to give it a read during lunch or dinner hours too.\nTrending: Top stories\nApple’s iPhone event will be packed with intrigue.\nApple TV has lost the plot, reckons Mahmoud Itani.\niOS 27 may be free, admits the Macalope, but the AI bill won’t be.\nApple’s revolving door continues to spin, with more big-name exec changes.\nPodcast of the week\nIn the latest episode of the Macworld Podcast, Michael Simon, Jason Cross, and guest producer Adam Patrick Murray break down the folding phone landscape and how Apple’s upcoming iPhone Ultra will change it.\n\n\n\n\n\n\nYou can catch every episode of the Macworld Podcast on YouTube, Spotify, Soundcloud, the Podcasts app, or our own site.\nThe rumor mill\niOS 27 beta confirms Apple’s full iPhone 18 roadmap with 6 new models.\niPhone Ultra leak confirms our report of a dark blue model. And that name is looking pretty good, too.\nA sweeping Apple Watch ‘rethink’ could bring new designs and ‘premium models.’\nReports of the 20th anniversary iPhone’s death seem to be greatly exaggerated.\nSoftware updates, bugs, and problems\nApple releases rare ‘point’ betas for iOS 26.6 and macOS 26.6.\nAnd with that, we’re done for this week’s Apple Breakfast. If you’d like to get regular roundups, sign up for our newsletters, including our new email from The Macalope–an irreverent, humorous take on the latest news and rumors from a half-man, half-mythical Mac beast. You can also follow us on Facebook, Threads, Bluesky, or X for discussion of breaking Apple news stories. See you next Monday, and stay Appley.",
+    "pub_date": "2026-08-17T17:08:39.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,iOS,Rumors,App Store,Services",
+    "id": 4997
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Block out the noise with 25% off Apple’s excellent AirPods 4 with ANC",
+    "link": "https://www.macworld.com/article/3214186/block-out-the-noise-with-25-off-apples-excellent-airpods-4-with-anc.html",
+    "content": "Macworld\n\n\n\n\n\n\t\t\nApple AirPods 4 with ANC\nView Deal\nWhile AirPods Pro are still the best earbuds you can buy, if you want noise cancellation without the tight fit of silicone eartips, AirPods 4 with ANC are a great choice. Normally a good buy at $179, Amazon is selling AirPods 4 with ANC for just $135 today, the lowest price we’ve seen in months.\nPowered by Apple’s H2 chip, these earbuds will deliver great sound and vocals. When you turn on the ANC feature, it will quiet down the world around you, which is ideal when you’re on a noisy commute or trying to work out of a busy coffee shop. Just like the Pro model, Adaptive Audio blends ANC and Transparency modes to match your surroundings, while the Conversation Awareness feature lowers the volume when you start talking to someone. Of course, asking Siri for help is also possible and just as useful as ever.\nThese are the best non-Pro AirPods we’ve reviewed, giving them a solid 4.5-star rating. These are super comfortable to wear, as Apple rebuilt them with a better contour and a shorter stem so they sit more securely and feel great even after hours of wear. You can use the quick-press controls to skip tracks or answer calls, which is super convenient.\nOne thing to be aware of before buying is that battery life will take a hit if you run ANC. Instead of the 5 hours you’ll get with it off, the buds will only work for 4 hours when you’re blocking out the world. You will get up to 20 hours with the case, in this instance, down from 30 when using them without ANC. \nAt $135, the AirPods 4 with Active Noise Cancellation are a fantastic pick for anyone who wants great sound, real comfort, and effective noise cancellation without stepping up to the Pro price.",
+    "pub_date": "2026-08-17T17:06:42.000Z",
+    "creator": "Macworld",
+    "tags": "General",
+    "id": 5057
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "AirBuddy 3 now available with new Action HUD, widgets, Now Playing, deeper automation, more",
+    "link": "https://9to5mac.com/2026/08/17/airbuddy-3-now-available-with-new-action-hud-widgets-now-playing-deeper-automation-more/",
+    "content": "Packing more than 150 new features and improvements, AirBuddy 3 is now available for Mac, further expanding the app’s utility beyond managing AirPods and other nearby Apple devices. Here’s what’s new.",
+    "pub_date": "2026-08-17T17:00:06.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac,App Store",
+    "id": 5052
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Got an overheating Intel MacBook Pro? This nifty utility might help",
+    "link": "https://www.macworld.com/article/3214250/got-an-overheating-intel-macbook-pro-this-nifty-utility-might-help.html",
+    "content": "Macworld\n\n\n\n\n\nApple Silicon on the Mac has been excellent, but there’s one major drawback: Windows can’t run natively. That’s why many users still use Intel Macs.\nOn Reddit, a user who goes by stlk0 runs Windows on an Intel MacBook Pro and didn’t like how the laptop got hot “even when almost nothing was running,” and that the battery life was worse. So he investigated and discovered that if the Radeon Pro 5300M graphics card in their 2019 16-inch MacBook Pro was adjusted to run the display at 48Hz instead of 60Hz, the laptop didn’t get as hot or draw as much power.\nAfter the adjustment, “GPU power dropped from 14W to 3W, and the temperature gradually fell from 66°C to around 51°C,” wrote stlk0. “The laptop became cooler and quieter, and battery drain was noticeably lower.”\nTo help others with the same problem, Stlk0 created a free and open-source Windows utility called MacBookEco. The app lets you switch between 49Hz and 60Hz for the display. It also includes other CPU power presets. MacBookEco is available on GitHub.\nstlk0\nIntel Macs are pretty old by now. The last Intel-series MacBook Pro was released in 2020. As time goes by, the amount of charge the MacBook battery can hold diminishes. Since Boot Camp is dead on M-series Macs, users who need to run Windows natively will do what they can to get the most out of their Intel Macs. Running hot harms the battery, so this utility could be a lifesaver for some users.",
+    "pub_date": "2026-08-17T16:58:00.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,Silicon,App Store",
+    "id": 5058
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Save 46% on 15 months of LifeLock’s credit, dark web and breach monitoring",
+    "link": "https://www.cultofmac.com/deals/lifelock-core-discount",
+    "content": "LifeLock Core monitors your credit score and the dark web, and offers recovery support and up to $1.05 million in identity theft coverage.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-17T16:50:09.000Z",
+    "creator": "Cult of Mac Deals",
+    "tags": "Mac",
+    "id": 5059
+  },
+  {
     "source_name": "MacRumors",
     "title": "Apple Sports App Updated With More Soccer Leagues",
     "link": "https://www.macrumors.com/2026/08/17/apple-sports-app-more-soccer-leagues/",
@@ -43,8 +183,8 @@
     "source_name": "MacRumors",
     "title": "Apple Agrees to Make 'App Tracking Transparency' Changes in Germany",
     "link": "https://www.macrumors.com/2026/08/17/apple-app-tracking-transparency-changes-germany/",
-    "content": "Apple has agreed to make changes to its App Tracking Transparency feature in Germany, according to the country's competition regulator.\r\n\r\n\r\nSince the release of iOS 14.5 in April 2021, Apple has required apps to ask for permission before tracking a user's activity across other apps and websites for personalized advertising. If a user selects the \"Ask App Not to Track\" option, the app is unable to access the device's advertising identifier. Apple says the feature is designed to enhance user privacy, but some advertisers have complained that it has significantly impacted their revenue.\r\n\r\nIn Germany, Apple has agreed to remove \"possibly discouraging symbols and wording\" from the App Tracking Transparency prompt, the regulator said. Apps will also be \"given more scope to explain to users what significance personalized advertising has for their offering and their business model,\" and the \"freedom to combine the consent request required by Apple with the consent requests required under data protection law.\"\r\n\r\nApple has four months starting on the date it is formally served with the decision to implement the changes in Germany, and it will test them with app developers first, the regulator said. The changes will apply for seven years.\r\n\r\nOver the past few years, Apple has faced similar regulatory pressures over the App Tracking Transparency feature in other EU countries, such as France, Italy, and Poland, and from the overarching European Commission.\r\n\r\nTag: App Tracking Transparency\nThis article, \"Apple Agrees to Make 'App Tracking Transparency' Changes in Germany\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-17T15:46:13.000Z",
+    "content": "Apple has agreed to make changes to its App Tracking Transparency feature in Germany, according to the country's competition regulator.\r\n\r\n\r\nSince the release of iOS 14.5 in April 2021, Apple has required apps to ask for permission before tracking a user's activity across other apps and websites for personalized advertising. If a user selects the \"Ask App Not to Track\" option, the app is unable to access the device's advertising identifier. Apple says the feature is designed to enhance user privacy, but some advertisers have complained that it has significantly impacted their revenue.\r\n\r\nIn Germany, Apple has agreed to remove \"possibly discouraging symbols and wording\" from the App Tracking Transparency prompt, the regulator said. Apps will also be \"given more scope to explain to users what significance personalized advertising has for their offering and their business model,\" and the \"freedom to combine the consent request required by Apple with the consent requests required under data protection law.\"\r\n\r\nApple has four months starting on the date it is formally served with the decision to implement the changes in Germany, and it will test them with app developers first, the regulator said. The changes will apply for seven years.\r\n\r\nOver the past few years, Apple has faced similar regulatory pressures over the App Tracking Transparency feature in other EU countries, such as France, Italy, and Poland, and from the overarching European Commission.\r\n\r\nApple has maintained that App Tracking Transparency protects user privacy and is compliant with competition law in Germany. Nevertheless, it agreed to make the changes, and the regulator said the proceedings have thus concluded.\r\n\r\nAt Apple, we believe privacy is a fundamental human right, and we introduced App Tracking Transparency to give users a simple way to control whether apps have permission to track their activity across other companies' apps and websites. While we believe the current ATT prompt provides a clear, easy-to-understand and effective way to keep users in control of their data—an opinion shared by the German data protection authorities—we have agreed to make changes to the text and formatting of the prompt at the FCO's request. These commitments ensure we can continue to provide this important privacy tool in Europe and keep users, not ad tech companies and data brokers, in control of their data.\nTag: App Tracking Transparency\nThis article, \"Apple Agrees to Make 'App Tracking Transparency' Changes in Germany\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-17T15:46:05.000Z",
     "creator": "Joe Rossignol",
     "tags": "iOS,App Store",
     "id": 5034
@@ -103,7 +243,7 @@
     "source_name": "MacRumors",
     "title": "Apple Wallet Driver's License Feature to Launch in Four More U.S. States",
     "link": "https://www.macrumors.com/2026/08/17/apple-wallet-ids-expanding-to-four-more-states/",
-    "content": "In select U.S. states, residents can add their driver's license or state ID to the Apple Wallet app on the iPhone and Apple Watch, and then use it to display proof of identity or age at select airports and businesses, and in select apps. According to a new report and evidence within Apple's code, the feature is set to expand to four more states.\r\n\r\n\r\nA few days ago, North Carolina's DMV announced that it plans to launch a mobile ID program later this year. As reported by WRAL, North Carolina residents will be able to set up a digital ID through a new NC Wallet app starting in December, with Apple Wallet, Google Wallet, and Samsung Wallet support to follow in \"early 2027.\"\r\n\r\nGiven that Apple Wallet IDs are not accepted by law enforcement and at many businesses, carrying a physical ID is still highly recommended.\r\n\r\n\"Your mobile ID is a valid form of identification in North Carolina,\" the DMV said, in a FAQ on its website. \"However, as retailers, restaurants and other businesses transition to mobile IDs, some may not be set up to accept them right away. For now, carrying your physical card gives you a backup when needed.\" \r\n\r\nMacRumors, Apple Wallet IDs are also coming to Oklahoma, Utah, and Virginia, but there is no timeframe for availability.\r\n\r\n\r\n  \nNorth Carolina\n\r\n  \nOklahoma\n\r\n  \nUtah\n\r\n  \nVirginia\n\r\nThe following 14 states already offer Apple Wallet IDs:\nArizona (since March 2022)\n\r\nMaryland (since May 2022)\n\r\nColorado (since November 2022)\n\r\nGeorgia (since May 2023)\n\r\nOhio (since July 2024)\n\r\nHawaii (since August 2024)\n\r\nCalifornia (since September 2024)\n\r\nIowa (since October 2024)\n\r\nNew Mexico (since December 2024)\nMontana (since August 2025)\n\r\nNorth Dakota (since September 2025)\n\r\nWest Virginia (since October 2025)\n\r\nIllinois (since November 2025)\n\r\nArkansas (since May 2026)\nThe feature is also available in Puerto Rico.\r\n\r\nApple Wallet IDs are accepted at TSA checkpoints in more than 250 airports in the U.S. for domestic travel, and North Carolina's DMV said this will include Charlotte Douglas International Airport and Raleigh-Durham International Airport.\r\n\r\nTravelers should refer to TSA signage to confirm availability of the feature.\r\n\r\nTag: Apple Wallet\nThis article, \"Apple Wallet Driver's License Feature to Launch in Four More U.S. States\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "content": "In select U.S. states, residents can add their driver's license or state ID to the Apple Wallet app on the iPhone and Apple Watch, and then use it to display proof of identity or age at select airports and businesses, and in select apps. According to a new report and evidence within Apple's code, the feature is set to expand to four more states.\r\n\r\n\r\nA few days ago, North Carolina's DMV announced that it plans to launch a mobile ID program later this year. As reported by WRAL, North Carolina residents will be able to set up a digital ID through a new NC Wallet app starting in December, with Apple Wallet, Google Wallet, and Samsung Wallet support to follow in \"early 2027.\"\r\n\r\nTo set up the feature, open the Wallet app on the iPhone and tap on the plus sign in the top-right corner. Next, tap on Driver's License and ID Cards, select your state from the list, and follow the on-screen steps to complete the process. Then, you can present your digital ID at participating TSA checkpoints and businesses, without handing over your device.\r\n\r\nYou can present an Apple Wallet ID where accepted by simply tapping your iPhone or Apple Watch on an identity reader. Then, you will be able to view the specific information being requested by the TSA or business. Only after authorizing with Face ID or Touch ID is the requested identity information released from your device.\r\n\r\nAs mentioned, you do not need to unlock, show, or hand over your device to present an Apple Wallet ID in person, ensuring user privacy.\r\n\r\nApple Wallet IDs are generally not accepted by law enforcement, so carrying a physical ID is still legally required for traffic stops. In addition, the number of businesses that accept Apple Wallet IDs is still quite small. At least for now, Apple Wallet IDs are designed to be a convenient alternative where they are accepted.\r\n\r\n\"Your mobile ID is a valid form of identification in North Carolina,\" the DMV said, in a FAQ on its website. \"However, as retailers, restaurants and other businesses transition to mobile IDs, some may not be set up to accept them right away. For now, carrying your physical card gives you a backup when needed.\"\r\n\r\nMacRumors, Apple Wallet IDs are also coming to Oklahoma, Utah, and Virginia, but there is no timeframe for availability.\r\n\r\n\r\n  \nNorth Carolina\n\r\n  \nOklahoma\n\r\n  \nUtah\n\r\n  \nVirginia\n\r\nThe following 14 states already offer Apple Wallet IDs:\nArizona (since March 2022)\n\r\nMaryland (since May 2022)\n\r\nColorado (since November 2022)\n\r\nGeorgia (since May 2023)\n\r\nOhio (since July 2024)\n\r\nHawaii (since August 2024)\n\r\nCalifornia (since September 2024)\n\r\nIowa (since October 2024)\n\r\nNew Mexico (since December 2024)\nMontana (since August 2025)\n\r\nNorth Dakota (since September 2025)\n\r\nWest Virginia (since October 2025)\n\r\nIllinois (since November 2025)\n\r\nArkansas (since May 2026)\nThe feature is also available in Puerto Rico.\r\n\r\nApple Wallet IDs are accepted at TSA checkpoints in more than 250 airports in the U.S. for domestic travel, and North Carolina's DMV said this will include Charlotte Douglas International Airport and Raleigh-Durham International Airport.\r\n\r\nTag: Apple Wallet\nThis article, \"Apple Wallet Driver's License Feature to Launch in Four More U.S. States\" first appeared on MacRumors.com\nDiscuss this article in our forums",
     "pub_date": "2026-08-17T14:53:03.000Z",
     "creator": "Joe Rossignol",
     "tags": "iOS,App Store",
@@ -328,16 +468,6 @@
     "creator": "Macworld",
     "tags": "iOS,Rumors,Silicon",
     "id": 4996
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Tim Cook did his best, for better or worse",
-    "link": "https://www.macworld.com/article/3210239/tim-cook-did-his-best-for-better-or-worse.html",
-    "content": "Macworld\n\n\n\n\n\nThe days are counting down, and a 15-year era is drawing to a close. On September 1, Tim Cook will step back from his current role as Apple CEO, settling for a somewhat quieter job as executive chairman, and it will be time to evaluate his place in corporate history. There’s every reason to think historians will be relatively kind.\nI say relatively, because the bar for decency in Cook’s field is low. If we look at his peers and rivals, we find a mixed bag, to put it politely: few sane commentators would have Elon Musk or Mark Zuckerberg or Sam Altman on their list of 10 Nicest Dudes Who Should Definitely Have Access To Political Power. Much as tech in the 60s and 70s attracted hippies and idealists, tech in the 2010s and 2020s seems to have become the province of, well, the sort of people who think it’s a gotcha to point out that humans consume food.\nTo a degree, such a mindset—the disposition, we might say, to build and stock an underground shelter rather than work to prevent the catastrophe it’s designed for—is an inevitable result of being extremely rich and running an extremely large business in an extremely competitive market. Tim Cook is a billionaire, and it would be absurd to expect billionaires to be soft-hearted or prone to wild attacks of no-strings generosity. You don’t become a billionaire unless you’re at least above average in the ruthlessness department.\nBut is Cook a good and decent man? If that sounds like an odd question to ask, please note that I’m not the one asking. In a micro-interview last week, Cook fielded two questions from CBS News’ Jo Ling Kent, and while he technically didn’t answer either of them, he did put forward an interesting metric by which his legacy could be evaluated.\n\n\n\n\n\n\nKent: As you look back on your time as CEO, in a word, what have you stood for?\nCook: In my view, your legacy is described by others, not by yourself. I hope that people say I was a good and decent man. And if they say that at the end of the day, I [will] feel like I have achieved something.\nThat’s not one word, Tim. But I get where you’re coming from.\nWill we say he was a good and decent man? I’m not sure. Cook’s inner decency is almost as elusive as his interview responses. He has the vibe of decency. He comes across as a nice guy, the sort of boss who remembers people’s names and contributes handsomely to going-away gifts. But that’s enormously subjective. Those who’ve actually worked with him (I will note here for clarity that he and I have never even been in the same room) will be able to judge better than the rest of us. But what can we learn from his actions?\nThe truth is that Cook’s actions have not always been those of an unfailingly good and decent man. On his watch, for example, Apple’s treatment of retail and support employees has come in for severe criticism. At one meeting, Cook himself declined to answer questions submitted by the AppleToo activist group, whose leaders understandably said they did not feel heard.\nThe company has reportedly blocked pay surveys, likely breaking the law; it has discouraged unionization and, coincidentally or not, closed the first U.S. Apple Store to achieve this. Conditions in Apple’s Asian supply chain, of course, are a serious issue.\nOn the other hand, all the things above were true when Cook took the top job, and while he hasn’t solved them, he has tried. Apple published a list of suppliers for the first time in 2012, months after he became CEO; in 2020, he put a major supplier on probation for breaking the company’s code of conduct. Apple’s environmental record, while still far from perfect, vastly improved under the tenure of Lisa P. Jackson, whom Cook hired in 2013 until she retired earlier this year. We even got to enjoy/endure the CEO bantering with Mother Nature at the iPhone 15 launch event.\nTo be clear, many of the reforms we’ve seen in the Cook era have been forced on him by regulators or bad PR, but there remains a sense that while Steve Jobs, for one, would have refused to give in, Cook is more conciliatory. It also appears that Cook has far more of an urge to do the right thing than his famous predecessor. In 2014, the Mac Observer reported that he responded angrily to a shareholder question about whether focusing on sustainability was good for the company’s bottom line. “When we work on making our devices accessible by the blind, I don’t consider the bloody ROI,” he said. “If you want me to do things only for ROI reasons, you should get out of this stock.” It takes a lot of courage for a CEO to go after the shareholders.\nCook, or Cook’s Apple, has also taken stances on immigration, abortion, and transgender rights, which will have alienated a proportion of its potential customers and allies and seem motivated by principle rather than pragmatism. Some of these stances, perhaps, have been undermined by recent political complications, but my sense is that he’s doing what he always has: the best he can under the circumstances.\nWhat I mean is that for Tim Cook, morality is one factor within a complex algorithm affecting each decision he makes. It would be an exaggeration, clearly, to claim he always does the right thing in a moral or ethical sense, regardless of its effects on his career. Apple comes first, and some of the time that means actions and policies which are difficult to defend. But if he can do the right thing, he will. And by the standard of his cohort, or of his predecessors in the hot seat at Cupertino, the fact that morality enters into the calculation at all is almost miraculous.\n\nFoundry\n\n\n\n\nWelcome to our weekly Apple Breakfast column, which includes all the Apple news you missed last week in a handy bite-sized roundup. We call it Apple Breakfast because we think it goes great with a Monday morning cup of coffee or tea, but it’s cool if you want to give it a read during lunch or dinner hours too.\nTrending: Top stories\nApple’s iPhone event will be packed with intrigue.\nApple TV has lost the plot, reckons Mahmoud Itani.\niOS 27 may be free, admits the Macalope, but the AI bill won’t be.\nApple’s revolving door continues to spin, with more big-name exec changes.\nPodcast of the week\nIn the latest episode of the Macworld Podcast, Michael Simon, Jason Cross, and guest producer Adam Patrick Murray break down the folding phone landscape and how Apple’s upcoming iPhone Ultra will change it.\n\n\n\n\n\n\nYou can catch every episode of the Macworld Podcast on YouTube, Spotify, Soundcloud, the Podcasts app, or our own site.\nThe rumor mill\niOS 27 beta confirms Apple’s full iPhone 18 roadmap with 6 new models.\niPhone Ultra leak confirms our report of a dark blue model. And that name is looking pretty good, too.\nA sweeping Apple Watch ‘rethink’ could bring new designs and ‘premium models.’\nReports of the 20th anniversary iPhone’s death seem to be greatly exaggerated.\nSoftware updates, bugs, and problems\nApple releases rare ‘point’ betas for iOS 26.6 and macOS 26.6.\nAnd with that, we’re done for this week’s Apple Breakfast. If you’d like to get regular roundups, sign up for our newsletters, including our new email from The Macalope–an irreverent, humorous take on the latest news and rumors from a half-man, half-mythical Mac beast. You can also follow us on Facebook, Threads, Bluesky, or X for discussion of breaking Apple news stories. See you next Monday, and stay Appley.",
-    "pub_date": "2026-08-17T10:30:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS,Rumors,App Store,Services",
-    "id": 4997
   },
   {
     "source_name": "MacRumors",
@@ -2868,135 +2998,5 @@
     "creator": "Chance Miller",
     "tags": "Services",
     "id": 4606
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Amazon Offers AirPods Max 2 for $100 Off in All Five Colors",
-    "link": "https://www.macrumors.com/2026/08/11/100-off-airpods-max-2/",
-    "content": "Apple's AirPods Max 2 have hit $449.00 on Amazon this week, down from $549.00. This sale is available in all five colors and it's the best price we've seen on the headphones since June.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\nFree delivery has the AirPods Max 2 arriving around August 16, but Prime members should see same-day delivery options in many locations. We haven't seen the AirPods Max 2 hit their all-time low price since June, so if you've been waiting for a solid deal, today's your chance to save on the headphones.\r\n\r\n\n$100 OFF\nAirPods Max 2 for $449.00\n\n\r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"Amazon Offers AirPods Max 2 for $100 Off in All Five Colors\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-11T18:12:09.000Z",
-    "creator": "Mitchel Broussard",
-    "tags": "General",
-    "id": 4598
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iOS 27 beta 5 lets you make Liquid Glass more transparent than ever",
-    "link": "https://9to5mac.com/2026/08/11/ios-27-beta-5-lets-you-make-liquid-glass-more-transparent-than-ever/",
-    "content": "iOS 27 beta 5 released yesterday, and alongside redesigned app icons and new Siri AI voice options, the update also lets you make Liquid Glass more transparent than ever.",
-    "pub_date": "2026-08-11T18:07:12.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS,App Store",
-    "id": 4607
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Steve Wozniak gave Apple its soul before Steve Jobs made it a hit",
-    "link": "https://appleinsider.com/articles/26/07/24/steve-wozniak-gave-apple-its-soul-before-steve-jobs-made-it-a-hit?utm_source=rss",
-    "content": "It's been over four decades since Steve Wozniak left Apple, and on August 11 2026, Woz's 76th birthday, we talk about how he gave Apple its soul.\n\n\nSteve Wozniak in 2026 - Image Credit: CBS Sunday Morning\nYou're an AppleInsider reader so you know Apple and inescapably, you know the story. Steve Wozniak was the brilliant engineer, Steve Jobs was the brilliant businessman, and Ronald Wayne was, er, something else.\nThese are the three who founded Apple in 1976, but the story of both Woz and Jobs goes back further, and really also goes deeper. Woz truly was a remarkable engineer but if he had been able to have his way, he'd have been happy giving away everything he made.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-11T17:46:33.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "General",
-    "id": 4616
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "watchOS 27 will upgrade popular Apple Watch face with new options, per leak",
-    "link": "https://9to5mac.com/2026/08/11/watchos-27-will-upgrade-popular-apple-watch-face-with-new-options-per-leak/",
-    "content": "A new leak reveals that one of Apple Watch’s most popular watch faces—Modular—is set to gain a variety of new color customization options in watchOS 27. Here are the details.",
-    "pub_date": "2026-08-11T17:39:10.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS,Rumors",
-    "id": 4608
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Third macOS Golden Gate Public Beta Now Available",
-    "link": "https://www.macrumors.com/2026/08/11/macos-27-public-beta-3/",
-    "content": "Apple today released the third public beta of macOS Golden Gate, allowing non-developers to test the software ahead of its fall release. You can sign up to test the update on Apple's beta website, and then download it by going to System Settings > General > Software Update and toggling on the macOS 27 beta.\r\n\r\n\r\n‌macOS Golden Gate‌ includes the same Siri AI features as iOS 27 and iPadOS 27, but you get to ‌Siri‌ through Spotlight with a Command + Space keyboard shortcut. ‌Siri‌ can search the web to answer questions, look through your personal data like photos, emails, and messages to help you find what you're searching for, and complete actions in and between apps. There is a dedicated ‌Siri‌ app, and you can hold ongoing conversations with ‌Siri‌.\r\n\r\nVisual Intelligence to the Mac, so ‌Siri‌ can look at what's on your screen and answer questions about it.\r\n\r\nThe Liquid Glass design introduced last year has been updated, and Apple added a slider for controlling overall system transparency. Liquid Glass opacity has been changed so it better diffuses complex content, and other design changes bring more depth and separation to the UI so it's easier to tell which window is active.\r\n\r\nApps now feature uniform toolbars with headings and controls that are easier to read, and windows no longer have such dramatically rounded corners. Sidebars are no longer floating and extend edge-to-edge, plus window positioning is more consistent across external displays.\r\n\r\nPhotos app. In Shortcuts, you can create automations with natural language requests, and search has been improved in Mail and Messages. Apple made multiple performance improvements across ‌macOS Golden Gate‌ for a faster, smoother experience even on older Macs.\r\n\r\nmacOS Golden Gate roundup.\nRelated Roundup: macOS Golden Gate\nThis article, \"Third macOS Golden Gate Public Beta Now Available\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-11T17:26:26.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,iOS,App Store",
-    "id": 4599
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple rolls out macOS 27 Golden Gate public beta 3, here’s how to install it",
-    "link": "https://9to5mac.com/2026/08/11/apple-rolls-out-macos-27-golden-gate-public-beta-3-heres-how-to-install-it/",
-    "content": "Users enrolled in Apple’s public beta program can now install macOS 27 Golden Gate public beta 3. Here’s what’s new in the system.",
-    "pub_date": "2026-08-11T17:25:20.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Mac",
-    "id": 4609
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Third iOS 27 and iPadOS 27 Public Betas Now Available",
-    "link": "https://www.macrumors.com/2026/08/11/apple-releases-ios-27-public-beta-3/",
-    "content": "Apple today released the third public betas of iOS 27 and iPadOS 27, allowing anyone with a compatible device to download and test the new software. The third betas come two weeks after Apple seeded the second betas.\r\n\r\n\r\nYou can get started by signing up on Apple's beta website and then opting in to the public beta by going to Settings > General > Software Update and choosing the ‌iOS 27‌ or ‌iPadOS 27‌ Public Beta option.\r\n\r\nSiri AI, a more capable version of ‌Siri‌ that can search the web, access your personal information, see what's on your screen, and take actions in and across apps. ‌Siri‌ in ‌iOS 27‌ is more similar to Claude or ChatGPT than the prior version of ‌Siri‌, with a dedicated ‌Siri‌ app for back-and-forth conversations. You can use ‌Siri‌ AI if you have a device that supports Apple Intelligence.\r\n\r\nVisual Intelligence moved to the Camera app and supports new features like getting the nutritional information for a meal or splitting a bill, and ‌Siri‌ is able to generate text for you or help you refine your writing with Write with ‌Siri‌.\r\n\r\nPhotos app, Safari can organize your tabs automatically, and you can create Shortcuts and Safari extensions using natural language commands. AirPods have custom EQ, the Home app supports 4K video cameras, and there are new child safety controls for parents.\r\n\r\nApple made dozens of improvements to device performance, and everything feels faster, even on older iPhones. Apps launch quicker, AirDrop transfers are faster, the keyboard loads quicker, and more.\r\n\r\ndedicated iOS 27 roundup, with info on ‌iPadOS 27‌ available in our separate iPadOS 27 roundup.\nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"Third iOS 27 and iPadOS 27 Public Betas Now Available\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-11T17:22:29.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,App Store",
-    "id": 4600
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Public beta 3 for iPadOS 27 and more available now, here’s what’s new",
-    "link": "https://9to5mac.com/2026/08/11/public-beta-3-for-ipados-27-and-more-available-now-heres-whats-new/",
-    "content": "One day after shipping beta 5 for developers, Apple has just released public beta 3 for iPadOS 27 and several other OS 27 updates.",
-    "pub_date": "2026-08-11T17:22:19.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 4610
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iOS 27 public beta 3 is here with Siri AI, iPhone speed upgrades, and more",
-    "link": "https://9to5mac.com/2026/08/11/ios-27-public-beta-3/",
-    "content": "The third iOS 27 public beta is now available for iPhone. It gives users an early chance to try Apple’s biggest software update of the year.\nSiri AI is the headline feature. The release also includes a redesigned Screen Time experience, Liquid Glass refinements, performance upgrades, and dozens of quality-of-life changes.\nHere’s how to install the beta, what’s new, and which features you should try first.",
-    "pub_date": "2026-08-11T17:22:17.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS",
-    "id": 4611
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "tvOS 27 and watchOS 27 Third Public Betas Now Available",
-    "link": "https://www.macrumors.com/2026/08/11/apple-releases-watchos-27-b3/",
-    "content": "Apple today released the third public betas of tvOS 27 and watchOS 27, giving Apple TV and Apple Watch users a chance to try the new software ahead of its fall launch. There's also a new HomePod Software 27 beta for the ‌HomePod‌ and HomePod mini.\r\n\r\n\r\nYou can sign up for Apple's public beta testing program on the beta website, and then download the updates through the Settings app on each device.\r\n\r\nSiri AI, and you can use ‌Siri‌ from your wrist as long as you have an iPhone that supports it. ‌Siri‌ AI can access your personal information, answer all kinds of questions, and complete tasks for you. There is a dedicated ‌Siri‌ app that's front and center on the watch in the new dynamic app grid that comes up when pressing the Digital Crown.\r\n\r\nThere's a new gesture for selecting a widget in the Smart Stack, plus Apple added Smart Stack suggestions for finding a parked car, accessing a transit card, and getting a birthday reminder.\r\n\r\nFind My app that also supports Precision Finding.\r\n\r\nApple Music, and easier profile switching. With performance improvements, apps launch faster, animations are speedier, and devices connect more quickly when AirPlaying content.\r\n\r\nwatchOS 27 roundup and Apple TV roundup.\nRelated Roundups: Apple TV, watchOS 26, watchOS 27\nBuyer's Guide: Apple TV (Don't Buy)\nRelated Forums: Apple TV and Home Theater, Apple Watch\nThis article, \"tvOS 27 and watchOS 27 Third Public Betas Now Available\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-11T17:20:00.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,App Store,Services",
-    "id": 4601
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "iOS 27 celebrates your friends' birthdays with fireworks",
-    "link": "https://appleinsider.com/articles/26/08/11/ios-27-celebrates-your-friends-birthdays-with-fireworks?utm_source=rss",
-    "content": "New in iOS 27 is a birthday reminder that means if you are on a call with someone, your iPhone will tell you if it's their special day with fireworks! The gift is still on you, though.\n\n\nWhether you remember to call them, or they passive-aggressively call you, iOS 27 will make sure you know it's their birthday.\nThere may not be a smaller addition to iOS 27, but the Phone app's birthday reminder is a really nice touch. In the current betas, if you call someone, the Phone app checks the contact card you've got for them.\nIt does exactly the same if they call you, and it always has, as that's how it displays their name and probably a contact photo. But now it does one more thing.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-11T17:16:38.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "iOS,App Store",
-    "id": 4617
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Sonos is planning Ace Ultra headphones with a big AI push, report says",
-    "link": "https://9to5mac.com/2026/08/11/sonos-is-planning-ace-ultra-headphones-with-a-big-ai-push-report-says/",
-    "content": "Two years ago, Sonos made the leap from wireless speakers to over-ear headphones. Now it sounds like Sonos is preparing a more premium, AI-infused encore.",
-    "pub_date": "2026-08-11T17:12:20.000Z",
-    "creator": "Zac Hall",
-    "tags": "General",
-    "id": 4612
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Grok Bot is an all-new iPhone and Mac app from SpaceXAI and Cursor",
-    "link": "https://9to5mac.com/2026/08/11/grok-bot-is-an-all-new-iphone-and-mac-app-from-spacexai-and-cursor/",
-    "content": "SpaceXAI and Cursor are in the process of becoming a single company, but first, the two firms are releasing an all-new iPhone and Mac app called Grok Bot.",
-    "pub_date": "2026-08-11T17:10:00.000Z",
-    "creator": "Zac Hall",
-    "tags": "Mac,iOS,App Store",
-    "id": 4613
   }
 ]
