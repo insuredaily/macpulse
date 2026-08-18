@@ -1,5 +1,65 @@
 [
   {
+    "source_name": "MacRumors",
+    "title": "Apple's Camera-Equipped AirPods Confirmed: See Them in Action",
+    "link": "https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/",
+    "content": "Apple is working on camera-equipped AirPods that appear to be nearly ready to launch, based on a video MacRumors found in the macOS Tahoe 26.7 release candidate.\r\n\r\n\r\nIn a short demo, a man holds a book up so the camera in the AirPods can see the title. \"With Visual Intelligence, your world becomes savable. See something you like? Just ask me to save it for later,\" says the voiceover text.\r\n\r\n\nHere is your first look at AirPods with Cameras in action using Visual Intelligence.\nThis video file came from macOS 26.7 RC pic.twitter.com/yo7RI4MCeu\n— Aaron (@aaronp613) August 18, 2026\n \n\r\nThe camera on the AirPods will feed information to ‌Visual Intelligence‌, and Siri will be able to answer questions about the wearer's surroundings and log information. There is a direct reference to setting up ‌Visual Intelligence‌ on the AirPods.\r\n\r\nIf hair is covering the AirPods up, you'll receive an alert. \"To get the most accurate information about things in your environment, make sure AirPods are not covered,\" it says.\r\n\r\npreviously mentioned by Bloomberg's Mark Gurman. Gurman suggested the AirPods could launch as soon as September, so we could see them at the iPhone-centric event where Apple will unveil the iPhone 18 Pro, ‌iPhone 18 Pro‌ Max, and foldable iPhone Ultra.\r\n\r\na long list of other unreleased Apple products.\nRelated Roundups: AirPods 4, AirPods Pro 3\nBuyer's Guide: AirPods (Caution), AirPods Pro (Neutral)\nRelated Forum: AirPods\nThis article, \"Apple's Camera-Equipped AirPods Confirmed: See Them in Action\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-18T01:21:26.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS",
+    "id": 5098
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple: DOJ’s latest challenge in antitrust case ‘fails at every level’",
+    "link": "https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/",
+    "content": "Apple is pushing back against the Department of Justice’s bid to overturn a court decision allowing the company to seek documents from more than a dozen federal agencies. Here are the details.",
+    "pub_date": "2026-08-18T00:56:51.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 5100
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "macOS Tahoe 26.7 beta references several unreleased products like Home Hub",
+    "link": "https://appleinsider.com/articles/26/08/18/macos-tahoe-267-beta-references-several-unreleased-products-like-home-hub?utm_source=rss",
+    "content": "Apple inadvertently left a lot of feature flags visible in its macOS Tahoe 26.7 release candidate, which include references to products like AirPods with cameras, the OLED iPad mini, and more.\n\n\nReferences to future iPhone Air, HomePods, and more found in macOS code\nDeveloper betas are one of the easiest ways for Apple to accidentally share future product information. It has occurred before, like during iOS 26 testing, and has happened again on Monday.\nAccording to information discovered by MacRumors in the macOS Tahoe 26.7 release candidate, Apple has many new products in development. Some are known from previous leaks, while others have designators that can't be tied to any other product.\n\n Rumor Score: 🤯 Likely \n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-18T00:42:42.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "Mac,iOS,Rumors,App Store",
+    "id": 5101
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Dell UltraSharp 32 4K QD-OLED review: Excellent color-calibration, not perfect for Mac users",
+    "link": "https://appleinsider.com/articles/26/08/17/dell-ultrasharp-32-4k-qd-oled-review-excellent-color-calibration-not-perfect-for-mac-users?utm_source=rss",
+    "content": "The Dell UltraSharp 32 4K QD-OLED model U3226Q is a color-accurate OLED monitor with a full port hub. It makes a strong case as a Studio Display XDR alternative for Mac users, assuming you're fine with not having a Retina-class display.\n\n\nDell UltraSharp 32 4K QD-OLED review: This monitor has great colors and deep blacks\nA great monitor can anchor a whole desk setup. For Mac users who can afford it, the obvious choice has long been Apple's displays.\nThose displays are beautiful, but price and port quantity have always been limiting factors for most. Third-party OLED panels are an alternative, but generally with design compromises.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-17T23:55:03.000Z",
+    "creator": "Mike Wuerthele <mike@appleinsider.com>",
+    "tags": "Mac",
+    "id": 5102
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "macOS Tahoe 26.7 is Full of References to Unreleased Apple Products",
+    "link": "https://www.macrumors.com/2026/08/17/macos-26-7-unreleased-apple-devices/",
+    "content": "The macOS Tahoe 26.7 release candidate that Apple seeded today has references to several unreleased products, from home devices to iPhones, iPads, AirPods, and Macs.\r\n\r\n\r\nSome of these codenames have shown up in prior software updates but have new feature flags, while others haven't been seen in the code before.\r\nHome Accessories\n\r\n\r\nHome Hub (J490 and J491) - There are references to Siri setup for a \"J490\" home accessory, which has previously been identified as Apple's upcoming home hub. There's a second reference to J490 and J491. J490 is believed to be the version of the home hub with a base, while J491 is the version that's meant to be mounted on a wall.\n\r\n \t\nHomePod mini (B525) - Code mentions \"Argentium\" has been installed on a product codenamed B525, which likely corresponds to the HomePod mini. The current HomePod mini has a B520 codename.\n\r\n \t\nHome Accessory (J229) - There is a reference to \"J229Architecture,\" a codename for an unreleased Apple product. J229 previously popped up in iOS 26 last December and was found by Macworld. The site said it was a device with multiple sensors and the ability to detect alarm sounds and capture images. It's possible J229 is the rumored security camera Apple is working on, or some kind of accessory to go with its home hub products.\n\r\n \t\nPebble - There's a reference to \"Pebble,\" which Bloomberg previously said was Apple's codename for the homeOS operating system that runs on the home hub.\n\r\n \t\nHomeAccessory17,2 and HomeAccessory17,3 - These are new mentions of home devices, but it's not clear what they are.\n\r\n \t\nMystery Colors - There are references to colors for a home accessory, which might be linked to the ‌HomePod mini‌ 2, the home hub, or something else. The colors are Rose Pink, Silver, Space Gray, and Starlight.\n\r\n \t\nAudio Accessory Visual Reasoning - There is an audio_accessory_visual_reasoning string, which could be for the home hub.\n\r\n\r\nHeadphones\n\r\n\r\nAirPods with Cameras (B790) - B790 is the codename for AirPods with a camera, according to Bloomberg. Confusingly, these are not the camera-equipped AirPods rumored for 2027 because those have a B798 codename, but are a \"separate camera AirPods project\" that could come out as soon as September. Code specifically mentions an image stream for the device: \"B790 start image stream failed for left bud.\"\n\r\n \t\nBeats (B518 and B522) - B518 and B522 could reference upcoming Beats headphones.\n\r\n \t\nAirPods Pro 4 - There is a reference to AirPodsPro1,4, which could be fourth-generation AirPods Pro. The current AirPods Pro 3 are AirPodsPro1,3. There's also a reference to AirPod3,5.\n\r\n\r\niPhone\n\r\n\r\niPhone Air 2 (V62) - V62 was previously seen in iOS 27 code, and Macworld says it's the iPhone Air 2. The ‌iPhone Air‌ 2 isn't expected until spring 2027.\n\r\n \t\niPhone 18 Pro (V63) - V63 was previously seen in ‌iOS 27‌ code, and Macworld says it's the iPhone 18 Pro. The ‌iPhone 18 Pro‌ is expected in September.\n\r\n \t\niPhone 18 Pro Max (V64) - V64 was previously seen in ‌iOS 27‌ code, and Macworld says it's the ‌iPhone 18 Pro‌ Max. The ‌iPhone 18 Pro‌ Max is expected in September.\n\r\n \t\niPhone 18 (V67) - V67 was previously seen in ‌iOS 27‌ code, and Macworld says it's the iPhone 18. The ‌iPhone 18‌ isn't expected until spring 2027.\n\r\n \t\niPhone Ultra (V68) - V68 was previously seen in ‌iOS 27‌ code, and Macworld says it's the foldable iPhone Ultra. The ‌iPhone Ultra‌ is expected in September.\n\r\n\r\nMac\n\r\n\r\nMacBook Pro (J804) - J804 is the entry-level 14-inch MacBook Pro that's going to be updated with an M6 chip before the end of the year. The current M5 ‌MacBook Pro‌ is J704.\n\r\n \t\niMac (J833 and J834) - J833 and J834 are the codenames for new iMac models Apple is working on, according to Bloomberg.\n\r\n \t\nMacBook Pro - K114c, K114s, K116c, and K116s reference upcoming ‌MacBook Pro‌ models. It's possible these are the higher-end OLED ‌MacBook Pro‌ models Apple is working on.\n\r\n\r\niPad\n\r\n\r\niPad mini (J510 and J511) - J510 and J511 are the codenames for the next-generation iPad mini rumored to be getting an ‌OLED‌ display and A19 Pro chip.\n\r\n\r\nHeadset\n\r\n\r\nHeadset (N109) - N109 is in the code. Bloomberg previously said N109 was a second-generation Vision Pro, while The Information said it was a cheaper version of the Vision Pro. A more affordable version of the Vision Pro was reportedly canceled last year.\n\r\n\r\n\r\nApple TV Remote\n\r\nThere's a mention of ATVRemote1,5, which appears to be a new Apple TV remote. Rumors previously suggested the next ‌Apple TV‌ could come with an updated remote control.\r\n\r\nApple Intelligence in China\n\r\nThere are references to Writing Tools coming to China. Code mention temporary restrictions due to triggering safety alerts, and content that won't be able to be edited with Apple Intelligence. \r\n\r\n\r\nContent safety update required. iPhone will be able to use Writing Tools once the automatic update completes.\n\r\nUnable to edit this text. %1$@ may be able to help with this type of content. This text will need to be sent to %2$@.\n\r\nWriting Tools are temporarily restricted due to triggering safety alerts multiple times.\n\r\n \r\n\r\nUnknown Model Numbers\n\r\nThere are multiple model numbers listed that do not correspond to any existing Apple product and they don't have a clear link to an upcoming product.\r\n\r\nA3436, A3437, A3438, A3439, A3440, A3441\n\r\nA3456, A3457\n\r\nA3465\n\r\nA3529, A3530, A3531, A3532, A3533\n\r\nA3543\n\r\nA3577\n\r\nDevice1,8234\n\r\nDevice1,8236\n\r\nDevice1,8238\n\r\nDevice1,8240\n\r\nDevice1,8241\n\r\nDevice1,8242\n\r\nDevice1,8246\n\r\nDevice1,8247\n\r\nDevice1,8248\n\r\n\r\nRelated Roundup: macOS Tahoe\nRelated Forum: macOS Tahoe\nThis article, \"macOS Tahoe 26.7 is Full of References to Unreleased Apple Products\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-17T23:50:34.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS,Vision,Silicon",
+    "id": 5099
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple's sixth developer betas arrive for iOS 27, macOS 27, and more",
+    "link": "https://appleinsider.com/articles/26/08/17/apples-sixth-27-gen-developer-betas-arrive-as-the-fall-release-draws-closer?utm_source=rss",
+    "content": "Weeks away from a probable launch, Apple has outed its sixth developer betas for iOS 27, iPadOS 27, tvOS 27, watchOS 27, visionOS 27,  and macOS 27.\n\n\nAn earlier iOS 27 beta screen\nThe Apple Developer Beta program has now reached the sixth round for iOS 27, iPadOS 27, macOS 27 Golden Gate, tvOS 27, watchOS 27, and visionOS 27.\nThe sixth appears after the fifth, which Apple brought out on August 10.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-17T23:50:24.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "Mac,iOS,Vision,App Store",
+    "id": 5053
+  },
+  {
     "source_name": "Macworld",
     "title": "macOS Beta: Golden Gate Public Beta 4 now available",
     "link": "https://www.macworld.com/article/671123/should-i-install-macos-beta-latest-version.html",
@@ -318,16 +378,6 @@
     "creator": "Ryan Christoffel",
     "tags": "iOS",
     "id": 5072
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple's sixth 27-gen developer betas arrive as the fall release draws closer",
-    "link": "https://appleinsider.com/articles/26/08/17/apples-sixth-27-gen-developer-betas-arrive-as-the-fall-release-draws-closer?utm_source=rss",
-    "content": "Weeks away from a probable launch, Apple has outed its sixth developer betas for iOS 27, iPadOS 27, tvOS 27, watchOS 27, visionOS 27,  and macOS 27.\n\n\nAn earlier iOS 27 beta screen\nThe Apple Developer Beta program has now reached the sixth round for iOS 27, iPadOS 27, macOS 27 Golden Gate, tvOS 27, watchOS 27, and visionOS 27.\nThe sixth appears after the fifth, which Apple brought out on August 10.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-17T17:30:50.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "Mac,iOS,Vision,App Store",
-    "id": 5053
   },
   {
     "source_name": "9to5Mac",
@@ -2948,55 +2998,5 @@
     "creator": "Hartley Charlton",
     "tags": "iOS,Rumors",
     "id": 4653
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Microsoft Edge Browser to Get Apple Account Sign-In Support",
-    "link": "https://www.macrumors.com/2026/08/12/microsoft-edge-browser-apple-account-sign-in/",
-    "content": "Microsoft is testing support for signing into its Edge browser using your Apple Account, avoiding the need to create a Microsoft account. Two new flags related to the support were spotted by MacMagazine in the latest Edge Canary build, with the feature also rolling out to Edge Beta users.\r\n\r\nrelease notes for Edge Beta 152, Microsoft already lists Apple Account sign-in support for Windows and macOS, but describes it as a \"controlled rollout,\" so there may be some delay before all beta users see it.\nTag: Microsoft Edge\nThis article, \"Microsoft Edge Browser to Get Apple Account Sign-In Support\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-12T12:27:43.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "Mac",
-    "id": 4654
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iPhone 20 Pro’s all-glass design spotted in supply chain, says leaker",
-    "link": "https://9to5mac.com/2026/08/12/iphone-20-pros-all-glass-design-spotted-in-supply-chain-says-leaker/",
-    "content": "This week has seen conflicting reports on whether or not Apple has given up on its plan to launch a radical new iPhone design next year, which I’ll refer to as the iPhone 20 Pro for now.\nAn Apple analyst claimed that the company had found the task too challenging, while Bloomberg quickly said this isn’t true and that the design is on track to launch in 2027. Today sees new support for the latter view …",
-    "pub_date": "2026-08-12T12:19:34.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "iOS,Rumors",
-    "id": 4659
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "BOE really wants to make OLED panels for the iPad Air",
-    "link": "https://appleinsider.com/articles/26/08/12/boe-really-wants-to-make-oled-panels-for-the-ipad-air?utm_source=rss",
-    "content": "Chinese display manufacturer BOE really wants to be part of the iPad Air supply chain, and aims to take some of Apple's custom for the OLED panel away from Samsung Display.\n\n\nApple's iPad Air with M4, without OLED\nThe iPad Air is anticipated to gain an OLED panel as part of its spring 2027 refresh. While Samsung Display is widely expected to continue being the main OLED supplier for Apple, one company wants in on the action.\nAccording to TheElec on Tuesday, BOE is pushing to become a secondary display supplier for the OLED iPad Air, alongside Samsung Display. It is reportedly developing OLED panels for the next iPad Air, in the hope it can convince Apple.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-12T12:12:20.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "iOS,Silicon",
-    "id": 4665
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple authenticating iPhone photos is just the start",
-    "link": "https://9to5mac.com/2026/08/12/apple-authenticating-iphone-photos-is-just-the-start/",
-    "content": "iOS 27 Beta 5 includes references to an upcoming new feature to allow Apple to authenticate iPhone photos.\nNot many iPhone users will need to use this for reasons we’ll get to in a moment, but the move is just the start …",
-    "pub_date": "2026-08-12T11:51:38.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "iOS",
-    "id": 4648
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Leaker: All-Glass 2027 iPhone Still on Track Despite Cancellation Rumors",
-    "link": "https://www.macrumors.com/2026/08/12/all-glass-20th-anniversary-iphone-on-track/",
-    "content": "There's been more pushback against the recent analyst report that claimed Apple's all-glass 20th-anniversary iPhone next year has been canceled. Bloomberg's Mark Gurman has already responded by saying the \"glass-centric\" redesign is still on track for 2027, and now a prominent Chinese leaker says the commemorative device indeed remains in active development.\r\n\r\n\r\nWeibo-based leaker Digital Chat Station identifies the device as having two sizes in equivalent Pro/Pro Max variants, citing the internal codenames V73/V74 previously referenced by Gurman. Based on supply chain information, the leaker says the two new displays have increased in physical size while retaining the same aspect ratio. Their rationale for this is that Apple's borderless four-curved-edge design uses a flat 2D display combined with a glass cover, and takes advantage of the glass's optical refraction and shape to create the visual effect of a display lacking borders.\r\n\r\nclaim that glass is used on the front and back of the phones, with the material curving into the sides, leaving only a small metal band in the middle.\r\n\r\ntesting a slightly larger 6.96-inch display for the device's Pro Max variant, suggesting the OLED panel itself is slightly bigger, but the extra area curves the display further into the device's edges while the chassis remains essentially the same size as the current iPhone 17 Pro Max.\r\n\r\ncanceled. Gurman soon refuted the claim based on his own information, though he did say that Apple had also considered a \"more aspirational version\" that \"used even more glass\" – but this was scrapped early on. It's quite possible that this more ambitious version was the device Lee was referring to in his report.\r\n\r\nTags: 20th-Anniversary iPhone, Digital Chat Station\nThis article, \"Leaker: All-Glass 2027 iPhone Still on Track Despite Cancellation Rumors\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-12T11:43:28.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "iOS,Rumors",
-    "id": 4647
   }
 ]
