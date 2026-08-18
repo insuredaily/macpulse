@@ -1,10 +1,40 @@
 [
   {
     "source_name": "MacRumors",
+    "title": "Unreleased AirPods 5 Models Referenced in macOS 26.7",
+    "link": "https://www.macrumors.com/2026/08/18/unreleased-airpods-5-models-referenced-macos-26-7/",
+    "content": "In a notable addition to the unreleased Apple products referenced in yesterday's macOS Tahoe 26.7 software update, AirPods 5 models have also been spotted. Internally codenamed B868M and B868E, the models almost certainly refer to AirPods 5 and AirPods 5 with Active Noise Cancellation. Current AirPods 4 models, launched in September 2024, have the codenames B768M and B768E.\r\n\r\nRelated Roundup: AirPods 4\nBuyer's Guide: AirPods (Caution)\nRelated Forum: AirPods\nThis article, \"Unreleased AirPods 5 Models Referenced in macOS 26.7\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-18T10:07:58.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "Mac",
+    "id": 5121
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple @ Work Podcast: Agentic networking actions",
+    "link": "https://9to5mac.com/2026/08/18/proactive-networking-actions/",
+    "content": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\nIn this episode of Apple @ Work, Shirish Nimgaonkar from eBlissAI joins the show to talk about AI’s future in enterprise around endpoint management, agentic solutions, and more. Shirish supports the next generation as an Entrepreneur-in-Residence at Harvard Business School, and serves on the Board of TiE Boston and the Governing Council at AIF.",
+    "pub_date": "2026-08-18T10:02:00.000Z",
+    "creator": "Bradley C",
+    "tags": "General",
+    "id": 5122
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Oops: Apple accidentally leaks 10+ unreleased devices",
+    "link": "https://www.cultofmac.com/news/apple-accidentally-leaks-10-unreleased-devices",
+    "content": "Apple accidentally revealed several unreleased devices in macOS 26.7 RC, offering an unexpected glimpse at upcoming iPhones, Macs, AirPods and smart home products.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-18T09:54:09.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac",
+    "id": 5126
+  },
+  {
+    "source_name": "MacRumors",
     "title": "iPhone 18 Pro Max Rumored to Get Exclusive Camera Upgrade",
     "link": "https://www.macrumors.com/2026/08/18/iphone-18-pro-max-camera-upgrade-exclusive/",
-    "content": "Apple's upcoming iPhone 18 Pro models may be differentiated by a new camera feature that could be exclusive to the larger Pro Max model, if a Chinese leaker is to be believed.\r\n\r\n\r\nSince 2024, we've been hearing rumors about Apple's plans to introduce a variable aperture camera on the iPhone 18 Pro models – a first for any iPhone – but it was understood until now that the feature would come to both devices.\r\n\r\nIce Universe claims that's not the case. The iPhone 18 Pro Max will \"exclusively feature a variable aperture,\" they said in a new post on Weibo, a Chinese social media platform. \r\n\r\n\"Looks like even Apple can't escape the reality that if you want the absolute best camera experience, you'll have to put up with a phone that weighs like a brick,\" the leaker added.\r\n\r\nWe already know a variable aperture lens is coming to the iPhone 18 Pro Max, thanks to the June leak of internal files from Apple supplier Tata Electronics. The files revealed that the iPhone 18 Pro Max will feature a new Sony IMX905 sensor with variable aperture support.\r\n\r\n\r\nThe smaller iPhone 18 Pro model was not mentioned in the leaked file, but it wasn't clear if that meant it wouldn't get a variable aperture lens, or it the leaked files simply didn't include that information. \r\n\r\nApple has never implemented a variable aperture on an iPhone. From the iPhone 14 Pro through the iPhone 17 Pro, the main camera uses a fixed ƒ/1.78 aperture, meaning the lens remains fully open at all times when capturing images.\r\n\r\nWith a variable lens, the iPhone 18 Pro Max could allow users to manually shift the aperture, similar to on a DSLR camera. It could mean more control over depth of field, enabling sharper focus on subjects or smoother background blur. That all depends on how Apple implements the feature, of course. It may be more automated than that.\r\n\r\nRelated Roundup: iPhone 18 Pro\nTag: Ice Universe\nThis article, \"iPhone 18 Pro Max Rumored to Get Exclusive Camera Upgrade\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-18T09:39:09.000Z",
+    "content": "Apple's upcoming iPhone 18 Pro models may be differentiated by a new camera feature that could be exclusive to the larger Pro Max model, if a Chinese leaker is to be believed.\r\n\r\n\r\nSince 2024, we've been hearing rumors about Apple's plans to introduce a variable aperture camera on the iPhone 18 Pro models – a first for any iPhone – but it was understood until now that the feature would come to both devices.\r\n\r\nIce Universe claims that's not the case. The iPhone 18 Pro Max will \"exclusively feature a variable aperture,\" they said in a new post on Weibo, a Chinese social media platform. \r\n\r\n\"Looks like even Apple can't escape the reality that if you want the absolute best camera experience, you'll have to put up with a phone that weighs like a brick,\" the leaker added.\r\n\r\nWe already know a variable aperture lens is coming to the iPhone 18 Pro Max, thanks to the June leak of internal files from Apple supplier Tata Electronics. The files revealed that the iPhone 18 Pro Max will feature a new Sony IMX905 sensor with variable aperture support.\r\n\r\nThe smaller iPhone 18 Pro model was not mentioned in the leaked file, but it wasn't clear if that meant it wouldn't get a variable aperture lens, or it the leaked files simply didn't include that information. \r\n\r\nApple has never implemented a variable aperture on an iPhone. From the iPhone 14 Pro through the iPhone 17 Pro, the main camera uses a fixed ƒ/1.78 aperture, meaning the lens remains fully open at all times when capturing images.\r\n\r\nWith a variable lens, the iPhone 18 Pro Max could allow users to manually shift the aperture, similar to on a DSLR camera. It could mean more control over depth of field, enabling sharper focus on subjects or smoother background blur. That all depends on how Apple implements the feature, of course. It may be more automated than that.\r\n\r\nBeyond size and battery life, the last time Apple differentiated its iPhone Pro models was with the iPhone 15 Pro, which lacked the tetraprism telephoto lens that was included to the iPhone 15 Pro Max.\r\n\r\nRelated Roundup: iPhone 18 Pro\nTag: Ice Universe\nThis article, \"iPhone 18 Pro Max Rumored to Get Exclusive Camera Upgrade\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-18T09:39:01.000Z",
     "creator": "Tim Hardwick",
     "tags": "iOS,Rumors",
     "id": 5120
@@ -2968,35 +2998,5 @@
     "creator": "Ryan Christoffel",
     "tags": "General",
     "id": 4656
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Best Back to School Accessory Deals on Anker, Sony, Samsung and More This Week",
-    "link": "https://www.macrumors.com/2026/08/12/back-to-school-accessory/",
-    "content": "There's a big accessory sale happening on Amazon this week, with the year's best prices on Anker chargers, Samsung monitors, Sonos audio products, and much more.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n$299.00, down from $399.00, and Sony's WH-1000XM5 Noise Canceling Headphones for $248.00, down from $399.00. Another notable audio discount is on the Soundcore Sleep A30 Earbuds, which are designed to be worn in bed, available for $168.99, down from $229.99.\r\n\r\n\n$61 OFF\nSoundcore Sleep A30 Earbuds for $168.99\n\n\r\n\n$100 OFF\nSonos Ace Headphones for $299.00\n\n\r\n\n$151 OFF\nSony WH-1000XM5 Noise Canceling Headphones for $248.00\n\n\r\n\r\n$1,199.99, down from $1,599.99, an all-time low price. You'll also find solid sales on The Frame TVs and Odyssey monitors right now, including a great deal on The Frame TV 55-inch model for $897.99, a solid second-best price.\r\n\r\n\n$200 OFF\nSamsung 55-inch The Frame TV for $897.99\n\n\r\n\n$400 OFF\nSamsung 32-inch Smart Monitor M9 for $1,199.99\n\n\r\n\r\nWe're also tracking big discounts from brands like LG, Hisense, iVANKY, Jackery, and more in the lists below. Accessories on sale include USB-C wall chargers, MagSafe-compatible wireless chargers, portable batteries, headphones, docks, and monitors.\r\n\r\n\n$50 OFF\nAnker Prime 3-in-1 Wireless Charging Station for $99.74\n\n\r\n\r\nAudio\n\r\n\nSoundcore Sleep A30 Earbuds - $168.99, down from $229.99\n\r\nSony WH-1000XM5 Noise Canceling Headphones - $248.00, down from $399.00\n\r\nSonos Ace Headphones - $299.00, down from $399.00\n\r\n\r\nMonitors and TVs\n\r\n\nSamsung 27-inch Odyssey G5 Monitor - $169.99, down from $249.99\n\r\nLG 27-inch UltraGear Monitor - $275.27, down from $499.99\n\r\nHisense 65-inch E6 Cinema Series 4K TV - $399.99, down from $478.00\n\r\nSamsung 27-inch Odyssey OLED G5 - $349.54, down from $499.99\n\r\nSamsung 55-inch The Frame 4K TV - $897.99, down from $1,097.99\n\r\nSamsung 49-inch Odyssey OLED G9 Monitor - $999.99, down from $1,299.99\n\r\nSamsung 32-inch M9 Smart Monitor - $1,199.99, down from $1,599.99\n\r\n\r\nWall Chargers\n\r\n\nAnker Nano USB-C Wall Charger - $25.99, down from $39.99\n\r\nUGREEN 100W GaN 4-Port Charger - $42.99, down from $54.99\n\r\nAnker 140W 4-Port GaN USB-C Charger - $64.99, down from $89.99\n\r\nAnker 3-Port Prime Charger - $115.99, down from $149.99\n\r\n\r\nWireless Chargers\n\r\n\nAnker 3-in-1 MagGo Qi2 Charging Stand - $71.99, down from $89.99\n\r\nAnker 3-in-1 MagGo UFO Charger - $71.99, down from $89.99\n\r\nAnker 3-in-1 MagSafe-Compatible Foldable Charging Station - $85.99, down from $109.99\n\r\nAnker 3-in-1 MagSafe-Compatible Charging Cube - $89.99, down from $129.99\n\r\nAnker 3-in-1 Prime Wireless Charging Station - $99.74, down from $149.99\n\r\nAnker Prime MagSafe-Compatible 3-in-1 Charging Station - $139.99, down from $229.99\n\r\n\r\nPortable Chargers\n\r\n\nAnker SOLIX C300 Power Station with Lantern - $199.99, down from $249.00\n\r\nAnker Prime Power Bank 26,250 mAh - $199.99, down from $229.99\n\r\nAnker SOLIX C1000 Gen 2 Portable Power Station - $529.99, down from $599.00\n\r\nJackery Explorer 1000 v2 Portable Power Station - $489.00, down from $799.00\n\r\nAnker SOLIX C2000 Gen 2 Portable Power Station - $999.99, down from $1,499.00\n\r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"Best Back to School Accessory Deals on Anker, Sony, Samsung and More This Week\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-12T14:01:15.000Z",
-    "creator": "Mitchel Broussard",
-    "tags": "General",
-    "id": 4650
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple Watch sleep score became more useful for me with these settings",
-    "link": "https://9to5mac.com/2026/08/12/apple-watch-sleep-score-became-more-useful-for-me-with-these-settings/",
-    "content": "Apple Watch includes a built-in sleep tracking feature. Just wear your Apple Watch to bed, and it works automatically. No need to install apps or enter a special mode.\nwatchOS 26 takes sleep tracking further with Apple’s sleep score feature. Sleep score is a great way to visualize the quality of your sleep from night to night. There’s one setting in particular that has made sleep score especially useful for me.",
-    "pub_date": "2026-08-12T14:00:00.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS",
-    "id": 4679
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Skipping iPhone 18 Launch This Year",
-    "link": "https://www.macrumors.com/2026/08/12/apple-skipping-iphone-18-launch-this-year/",
-    "content": "Apple supplier Pegatron today indirectly confirmed that the standard iPhone 18 model will not be released until next year, according to a new report.\r\n\r\n\r\nPegatron held an earnings call for the second quarter of 2026 today. On the call, Taiwan's Economic Daily News said Pegatron indicated that one of its customers will be changing its usual smartphone shipment schedule. As widely expected, the report said Apple plans to release the iPhone 18 Pro, iPhone 18 Pro Max, and a foldable \"iPhone Ultra\" this September, followed by the standard iPhone 18 model in the first quarter of 2027.\r\n\r\nThe standard iPhone 11 through to the iPhone 17 all launched alongside Pro and Pro Max models in September over the years, so the launch of the base model iPhone 18 being postponed until around March 2027 would be a notable change.\r\n\r\nApple supply chain analyst Ming-Chi Kuo, former The Information reporter Wayne Ma, and others over the past year. Apple supplier Largan Precision also hinted at the change in a similarly indirect way earlier this year.\r\n\r\nalso expected to be released around March 2027.\r\n\r\nsix new iPhone models are slated to launch by the end of March:\niPhone 18 Pro: September 2026\n\r\niPhone 18 Pro Max: September 2026\n\r\niPhone Ultra: September 2026\n\r\niPhone 18: March 2027\n\r\niPhone 18e: March 2027\n\r\niPhone Air 2: March 2027\n\nRelated Roundups: iPhone 18, iPhone 18 Pro\nTag: Economic Daily News\nRelated Forum: iPhone\nThis article, \"Apple Skipping iPhone 18 Launch This Year\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-12T13:59:37.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "iOS,Rumors",
-    "id": 4651
   }
 ]
