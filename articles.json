@@ -1,5 +1,15 @@
 [
   {
+    "source_name": "MacRumors",
+    "title": "Apple's iPhone 18 Release Schedule: What's Coming and When",
+    "link": "https://www.macrumors.com/guide/iphone-18-release-schedule/",
+    "content": "Since 2019, Apple has released a more affordable standard iPhone and a higher-end \"Pro\" variant, giving customers multiple flagship iPhones to choose from. Apple is deviating from its standard release timeline this year and splitting the iPhone 18 launch.\r\n\r\n\r\nWe aren't going to get all of the ‌iPhone 18‌ models in fall 2026, because Apple is holding the standard ‌iPhone 18‌ until spring 2027. If you want an iPhone in the traditional September timeframe, it's going to cost you this year.\r\n\r\nFall 2026 iPhones\n\r\nApple's three most expensive iPhones will be introduced at its iPhone event in September.\r\n\r\n \niPhone 18 Pro - The iPhone 18 Pro will look like the iPhone 17 Pro, but it is expected to have a smaller Dynamic Island and a variable aperture Wide camera for more precise lighting adjustments. It will use Apple's next-generation A20 chip built on a 2nm process.\n\r\n \niPhone 18 Pro Max - The ‌iPhone 18 Pro‌ Max will be nearly identical to the ‌iPhone 17 Pro‌ Max, but it might be a little bit thicker because of a larger battery. There is a possibility the new camera will be limited to the Pro Max, but that's not confirmed. Both models will come in a new dark cherry color.\n\r\n \nFoldable iPhone - Apple's first foldable iPhone could be called the iPhone Ultra. When closed, it'll be around 5.5 inches, and when open, it'll be around 7.8 inches. It will be similar in size and aspect ratio to an iPad mini in landscape mode, with new app multitasking features. It will have Touch ID instead of Face ID and will be limited to a two-camera system.\n\r\n\r\nMultiple analysts agree the ‌iPhone 18 Pro‌ models are going to be more expensive than their ‌iPhone 17 Pro‌ counterparts. Memory supply shortages have driven up the cost of consumer DRAM, and Apple has to pay much more for memory.\r\n\r\noffset by discounts Apple has negotiated on other components like the display, but an increase seems unavoidable after the June price hike on Macs and iPads.\r\n\r\nAnalysts have estimated a $100 to $300 price increase for both models. Current pricing starts at $1,099 for the ‌iPhone 17 Pro‌ and $1,199 for the ‌iPhone 17 Pro‌ Max.\r\n\r\nSince there's no current foldable iPhone, there's no set price. Rumors suggest it'll cost between $2,000 and $2,500, and it could absorb some of the higher ‌iPhone 18 Pro‌ component costs.\r\n\r\nSpring 2027 iPhones\n\r\n\r\niPhone 18 - The ‌iPhone 18‌ will have a 2nm A20 chip, more RAM, a smaller ‌Dynamic Island‌, and a new C2 modem chip. Apple could downgrade the display to save money, and the device might share more components with the iPhone 18e.\n\r\n \niPhone 18e - The iPhone 18e will follow the iPhone 17e. It's expected to get an upgraded chip and 9GB of RAM.\n\r\n \niPhone Air 2 - Apple is planning a second-generation iPhone Air that could launch alongside the ‌iPhone 18‌ and iPhone 18e. Rumors suggest it could get a second camera to make it a better value (likely an Ultra Wide) and a bigger battery.\n\r\n\r\nWhat's Next?\n\r\nAfter launching the ‌iPhone 18‌, iPhone 18e, and ‌iPhone Air‌ 2 in spring 2027, it's not clear if Apple will stick with the spring/fall split launch strategy or revert to its standard timing.\r\n\r\nRelated Roundups: iPhone 18, iPhone 18 Pro, iPhone Fold\nRelated Forum: iPhone\nThis article, \"Apple's iPhone 18 Release Schedule: What's Coming and When\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-18T22:58:50.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,App Store,Services",
+    "id": 5213
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Apple services outage hit iCloud, Game Center, Find My, and more",
     "link": "https://appleinsider.com/articles/26/08/18/apple-services-outage-hits-icloud-game-center-find-my-and-more?utm_source=rss",
@@ -53,7 +63,7 @@
     "source_name": "9to5Mac",
     "title": "Find My, iCloud, and several other Apple services are currently down for some users [U]",
     "link": "https://9to5mac.com/2026/08/18/find-my-icloud-and-several-other-apple-services-are-currently-down-for-some-users/",
-    "content": "Update, 6:30 p.m. ET: All user-facing issues are now marked as resolved. We’ll continue to monitor the remaining Developer-facing issues. The original story follows below.\nApple’s System Status page confirms that consumers and developers are currently experiencing issues accessing some of its services. Here are the details.",
+    "content": "Update, 7:04 p.m. ET: All user-facing issues, and all developer-facing issues, except Xcode Cloud are now marked as resolved. We’ll continue to monitor the remaining issue. The original story follows below.\nApple’s System Status page confirms that consumers and developers are currently experiencing issues accessing some of its services. Here are the details.",
     "pub_date": "2026-08-18T20:48:38.000Z",
     "creator": "Marcus Mendes",
     "tags": "App Store,Services",
@@ -2988,15 +2998,5 @@
     "creator": "Hartley Charlton",
     "tags": "App Store",
     "id": 4749
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Fake GitHub download turns Safari & Chrome into a Keychain data stealer",
-    "link": "https://appleinsider.com/articles/26/08/13/fake-github-download-turns-safari-chrome-into-a-keychain-data-stealer?utm_source=rss",
-    "content": "Jamf Threat Labs has found Mac malware that steals sensitive data and secretly launches a controllable copy of the victim's Chrome or Safari installs, giving attackers a way into accounts that are already unlocked.\n\nAmnesiaStealer\nJamf's August 13 report describes a three-stage AmnesiaStealer infection observed in the wild. The attack begins on a counterfeit GitHub page that tells visitors to paste a command into Terminal.\nAmnesiaStealer then displays a fraudulent installer prompt and uses the captured Mac login password to reach Keychain, browser data, Apple Notes, Telegram sessions, and personal files.\nThe attack doesn't rely on an unknown macOS vulnerability. The victim must run the supplied command and enter a valid password, but the final payload goes beyond the one-time collection associated with a conventional infostealer.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-13T13:02:08.000Z",
-    "creator": "Andrew Orr <andreworr@appleinsider.com>",
-    "tags": "Mac",
-    "id": 4752
   }
 ]
