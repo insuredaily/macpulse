@@ -1,6 +1,156 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Apple pledges donation in support of Indonesia earthquake relief",
+    "link": "https://9to5mac.com/2026/08/18/apple-pledges-donation-in-support-of-indonesia-earthquake-relief/",
+    "content": "Apple CEO Tim Cook announced today that Apple will donate to support the relief efforts on the ground following Indonesia’s devastating earthquake. Here are the details.",
+    "pub_date": "2026-08-18T17:31:33.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 5172
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "AirTag 2 deal: Get Apple’s new tracker at its best price",
+    "link": "https://www.cultofmac.com/deals/airtag-deal",
+    "content": "You can hoard Apple trackers for yourself or make the whole family a bit more organized for less money, thanks to this sweet AirTag deal.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-18T17:15:38.000Z",
+    "creator": "Ed Hardy",
+    "tags": "Mac",
+    "id": 5185
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "New EU App Store terms lower both costs and bar to entry for external payments",
+    "link": "https://appleinsider.com/articles/26/08/18/new-eu-app-store-terms-lower-both-costs-and-bar-to-entry-for-external-payments?utm_source=rss",
+    "content": "On Tuesday, after much back-and-forth with the European Union, Apple has rolled out new and simpler terms and fee structures for developers that distribute in the area.\n\n\nAn EU flag with the App Store logo\nThe terms are greatly simplified. Core technology fees are mostly exterminated, replaced by percentages. For App Store apps using Apple In-App Purchase, the new commission will be 26 percent. For the vast majority of developers, including auto-renewing subscriptions after their first year, that fee is now 15 percent.\nFor App Store apps using alternative payment processing, the commission is be 20 percent.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-18T17:14:20.000Z",
+    "creator": "Mike Wuerthele <mike@appleinsider.com>",
+    "tags": "App Store",
+    "id": 5178
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Anthropic says Claude Cowork is now available on mobile for all paid plans",
+    "link": "https://9to5mac.com/2026/08/18/anthropic-says-claude-cowork-is-now-available-on-mobile-for-all-paid-plans/",
+    "content": "Last month, Anthropic announced plans to expand Claude Cowork from the Mac to iPhone and iPad. The rollout started with Anthropic’s most expensive paid plan.",
+    "pub_date": "2026-08-18T17:09:16.000Z",
+    "creator": "Zac Hall",
+    "tags": "Mac,iOS",
+    "id": 5173
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple releases public beta 4 for iOS 27, macOS 27, iPadOS 27, tvOS 27 [U: watchOS 27]",
+    "link": "https://9to5mac.com/2026/08/18/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27/",
+    "content": "Update, August 18, 1:06 p.m. ET: Apple has now published watchOS 27 Public Beta 4 (Build: 24R5353a). The original story follows below\nAfter releasing developer betas 6 earlier today, Apple is now rolling out iOS 27 public beta 4, alongside corresponding updates for some of its other platforms. Here are the details.",
+    "pub_date": "2026-08-18T17:07:54.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac,iOS,App Store",
+    "id": 5174
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Overhauls EU App Store Fees to Settle Digital Markets Act Dispute",
+    "link": "https://www.macrumors.com/2026/08/18/eu-app-store-fee-change/",
+    "content": "Apple today announced changes to its App Store policies and fees in the European Union to comply with the Digital Markets Act. Apple says the changes were made after \"close collaboration\" with the European Commission, and the updates simplify the fee structure and \"resolve Apple's disagreements with the Commission over business terms and alternative distribution.\"\r\n\r\n\r\nThe initial acquisition fee and store services fee are being removed for apps distributed outside of the ‌App Store‌, and Apple will now charge a 5% Core Technology Commission on digital purchases that replaces the prior per-install Core Technology Fee.\r\n\r\nCommission rates are changing for ‌App Store‌ apps, alternative payments, and apps distributed through alternative app marketplaces or the web.\r\n\r\n \t\nApp Store Apps With In-App Purchase - Apple will charge a 26% fee for apps distributed through the ‌App Store‌ that use in-app purchase. The fee will be 15% for Small Business Program, Mini Apps Partner Program, and Video Partner Program participants. It will also be 15% for auto-renewing subscriptions after their first year.\n\r\n \t\nApp Store Apps Using Alternative Payments - Apps in the ‌App Store‌ that use in-app alternative payment processing will pay 20%. Developers in Apple's programs will pay 10%.\n\r\n \t\nApps That Link Out of the App for Purchases - Apps that link to a website purchase option will pay 15%. Developers in Apple's programs will pay 10%.\n\r\n \t\nAlternative App Marketplace Apps - Apple will charge a 5% Core Technology Commission.\n\r\n \t\nApps Distributed via the Web - Apple will charge a 5% Core Technology Commission.\n\r\n\r\nDevelopers can offer in-app purchase options alongside alternative payment options in the EU, which is something Apple did not allow before. Apple says there will be presentation requirements so users have a consistent, transparent experience.\r\n\r\nDevelopers distributing apps in the EU must select their payment options and maintain those options for 12 months before making changes to \"provide consistency and clarity for users.\" Apple will still use a Notarization process for apps downloadable through the web and through alternative app marketplaces.\r\n\r\nApps in the Kids category or being used by children under 13 will not include links to websites to complete transactions. All apps that use alternative payment processing or link to a website for transactions have to include a parental gate if the user is under 18.\r\n\r\nApple is relaxing the rules for operating an alternative app marketplace. Apple used to require developers to have a one million euro standby letter of credit from an A-rated financial institution, but the new rules are as follows:\r\n\r\n \t\nMeet a moderate financial-stability bar as scored by Dun & Bradstreet.\n\r\n \t\nAre publicly traded or owned by a publicly traded company.\n\r\n \t\nHave received venture funding from an established investment firm.\n\r\n \t\nHave completed a financial audit by a licensed accountant.\n\r\n \t\nAre a government entity, educational institution, or nonprofit.\n\r\n\r\nTags: App Store, European Commission, European Union\nThis article, \"Apple Overhauls EU App Store Fees to Settle Digital Markets Act Dispute\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-18T17:02:48.000Z",
+    "creator": "Juli Clover",
+    "tags": "App Store,Services",
+    "id": 5171
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "macOS 27 Golden Gate makes one design decision that I would change for MacBooks",
+    "link": "https://9to5mac.com/2026/08/18/macos-27-golden-gate-makes-one-design-decision-that-i-would-change-for-macbooks/",
+    "content": "If there’s one change I could make to iOS 27 and iPadOS 27, it would be disabling the new swipe-down gesture to invoke Siri AI. There are enough ways to summon Siri that don’t break my muscle memory around opening Notification Center on my iPhone and iPad.\nMeanwhile, on the Mac, it’s almost all good news with macOS 27 Golden Gate. Even in late August, new betas are still adding delightful changes. Still, there’s one change I’d like to see before macOS 27 is released next month.",
+    "pub_date": "2026-08-18T16:56:43.000Z",
+    "creator": "Zac Hall",
+    "tags": "Mac,iOS",
+    "id": 5175
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "iPhone 18 Pro Max might get big camera upgrades that regular Pro lacks",
+    "link": "https://www.cultofmac.com/news/iphone-18-pro-max-variable-aperture-exclusive",
+    "content": "A new leak claims the iPhone 18 Pro Max variable aperture won’t come to the smaller iPhone 18 Pro, widening the gap between this year’s Pro models.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-18T16:45:37.000Z",
+    "creator": "Anurag Chawake",
+    "tags": "Mac,iOS,Rumors",
+    "id": 5186
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Upcoming Apple products revealed in the macOS 26.7 release candidate",
+    "link": "https://www.macworld.com/article/3214949/upcoming-apple-products-revealed-in-macos-26-7-release-candidate.html",
+    "content": "Macworld\n\n\n\n\n\nWe’re anticipating a slew of new products from Apple over the next several months. While Apple rarely preannounces products, there are ways to figure out the company’s plans. For example, MacRumors reports that the macOS 26.7 release candidate includes references to several new products.\nWell, several is putting it lightly. There are nearly 40 references, many of which are unidentifiable mode numbers. But a lot of the other model numbers have been previously reported, so we can get an idea of what’s to come. Here’s a list of the new products mentioned in the macOS 26.7 release candidate:\n\niPhone\niPhone Ultra: This is identified with a model number of V68, which we previously reported as Apple’s foldable iPhone. Learn more about the new phone that expected this fall.\niPhone 18 Pro and 18 Pro Max: Model numbers V63 and V64, respectively, as we previously reported. Learn more about the new phone that expected this fall.\niPhone 18: Model number V67, as we previously reported. Learn more about the new phone that expected in spring 2027.\niPhone Air 2: Model number V62 as we previously reported. Learn more about the new phone that expected in spring 2027.\n\n\n\n\n\nMac\nMacBook Pro: Model number J804 refers to the base M6 14-inch MacBook Pro. Learn more about the new laptop expected later this year.\niMac: Model numbers J833 and J834. Learn more about the all-in-one expected later this year.\nMacBook Pro: Model numbers K114c, K114s, K116c, and K116s are likely referring to the new touchscreen OLED laptops. Learn more about the new Macs expected later this year.\n\n\n\n\n\n\niPad\niPad mini: Model numbers J510 and J511 refer to Apple’s upcoming tablet upgrade. Learn more about the new iPad mini.\n\n\n\n\n\nEarphones\nAirPods with cameras: Model number B790. The macOS 27 beta includes a video demonstration of these earphones.\nAirPods Pro 4: macOS 26.7 has a reference to AirPodsPro1,4, possibly the fourth-generation AirPods Pro. The current AirPods Pro 3 are referred to as AirPodsPro1,3. MacRumors also notes a reference to AirPod3,5.\nBeats: Model numbers B518 and B522, which appear to be upcoming products from Beats.\n\n\n\n\n\nHome\nHome Hub: Model numbers J490/HomeAccessory17,1  and J491/HomeAccessory17,2 refer to Apple’s new smart home hub, with the latter model being a wall-mountable version. Learn more about Apple’s HomePod update.\nPebble: This has previously been reported as the code name for the operating system used on the new home hub.\nHomePod mini: The current HomePod mini has a model number of B520, so the new B525 that has been discoverd in likely the new HomePod mini. Learn more about Apple small smart speaker.\nHome Accessory: macOS 26.7 refers to J229Architecture. We previously reported that J229 is possibly a new security camera. Learn more about the upcoming new home accessory.\nTabletop robot: Model number J595/HomeAccessory17,3 refers to the Luxo Jr.-like robot thaat has been previously reported.\nColors for devices:  There are references to Rose Pink, Silver, Space Gray, and Starlight, which are probably for the HomePod mini 2 or the new home hub,\nAudio Accessory Visual Reasoning: a string for audio_accessory_visual_reasoning string, which is probably for the home hub, or possibly for AirPods with cameras.\n\n\n\n\n\nVision Pro\nHeadset: Model number N109 has previously been reported as the next Vision Pro. It’s possible this could be an affordable headset.\n\n\n\n\n\nApple TV Remote\nA reference to ATVRemote1,5 suggests that Apple is working on a new remote for the set-top box.\n\n\n\n\n\nUnknown model umbers\nMacRumors reports that macOS 26.76 includes these model numbers that have not been previously reported:\nA3436, A3437, A3438, A3439, A3440, A3441\nA3456, A3457\nA3465\nA3529, A3530, A3531, A3532, A3533\nA3543\nA3577\nDevice1,8234\nDevice1,8236\nDevice1,8238\nDevice1,8240\nDevice1,8241\nDevice1,8242\nDevice1,8246\nDevice1,8247\nDevice1,8248\n\n\n\n\nmacOS 26.7 also includes references to Writing Tools for China.",
+    "pub_date": "2026-08-18T16:42:13.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,iOS,Vision",
+    "id": 5184
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple overhauls App Store fees in the EU with new unified terms",
+    "link": "https://9to5mac.com/2026/08/18/apple-overhauls-app-store-fees-in-the-eu-with-new-unified-terms/",
+    "content": "After announcing changes to App Tracking Transparency in Europe, Apple has now unveiled a simplified App Store commission structure for developers in the region. Here are the details.",
+    "pub_date": "2026-08-18T16:35:55.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "App Store",
+    "id": 5176
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Card Offering 5% Cash Back on Select Purchases for Limited Time",
+    "link": "https://www.macrumors.com/2026/08/18/apple-card-5-percent-daily-cash-promo/",
+    "content": "Now through September 15, you can get 5% Daily Cash when you use the Apple Card via Apple Pay on up to $750 in combined eligible purchases at Booking​.com, Hertz, ChargePoint, Exxon, and Mobil. The maximum total Daily Cash you can earn through this offer is $37.50, according to Apple, with complete details outlined on this page.\r\n\r\n\r\nOrdinarily, the Apple Card offers 3% Daily Cash at these partners, but this limited-time promotion provides an additional 2% Daily Cash on eligible purchases up to the $750 limit. Apple has given the offer an \"August road trip\" theme, as the eligible purchases include hotel rooms, rental cars, gas, and electric vehicle charging.\r\n\r\nTag: Apple Card\nThis article, \"Apple Card Offering 5% Cash Back on Select Purchases for Limited Time\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-18T16:28:27.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "Services",
+    "id": 5152
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple's product identifier leak is a hard mystery to solve",
+    "link": "https://appleinsider.com/articles/26/08/18/apples-product-identifier-leak-is-a-hard-mystery-to-solve?utm_source=rss",
+    "content": "Apple itself leaked many mystery products that are coming out relatively soon. The leaked product identifiers proximity to others give some clues, but not many.\n\n\nAn example of an Apple product identifier\nThe release candidate for macOS Tahoe 26.7 was a trove of information for unreleased products. References to product identifiers littered the build, including for some known-about items.\nFor example, there was sightings of J490 and J491, believed to be versions of the Home Hub. B525 is expected to be the next-generation HomePod mini, while J229 was a potential security camera.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-18T16:04:32.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "Mac,Rumors",
+    "id": 5179
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "iPhone 18 Pro could get a major performance boost from A20 chip",
+    "link": "https://www.cultofmac.com/news/apple-a20-pro-chip-performance-speed-boost-efficiency-leak",
+    "content": "A new leak may have revealed the hefty performance and power efficiency gains iPhone users can expect from Apple’s A20 Pro chip.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-18T15:57:38.000Z",
+    "creator": "Anurag Chawake",
+    "tags": "Mac,iOS,Rumors",
+    "id": 5187
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Security Bite: Apple’s camera AirPods are going to make Meta glasses look reckless",
+    "link": "https://9to5mac.com/2026/08/18/security-bite-apples-camera-airpods-are-going-to-make-meta-glasses-look-reckless/",
+    "content": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\nOn Monday, a seemingly accidental leak found in Apple’s latest macOS 27 Release Candidate showcased the rumored upcoming camera-enabled AirPods using Visual Intelligence. The leaked video, uncovered by Aaron Perris, shows a man looking at a book and asking Siri via AirPods to analyze it using Visual Intelligence and save it for later.\nWith recent controversy around Meta AI glasses and Flock cameras, Apple’s timing around this particular product couldn’t be more dubious.",
+    "pub_date": "2026-08-18T15:55:06.000Z",
+    "creator": "Arin Waichulis",
+    "tags": "Mac,Rumors",
+    "id": 5177
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple Card users can stack summer savings with 5% Daily Cash travel promotions",
+    "link": "https://appleinsider.com/articles/26/08/18/apple-card-users-can-stack-summer-savings-with-5-daily-cash-travel-promotions?utm_source=rss",
+    "content": "Apple Card is making summer road trips more rewarding with 5% Daily Cash on car rentals, hotel stays, gas and EV charging through September 15.\n\n\nApple Card adds 5% Daily Cash on travel, gas, and more\nSummer often means travel, and travel often means travel-related expenses. That's why Apple Card has come up with a panoply of new promotions to help you save the second you hit the road.\nApple Card cardholders can score 5% cash back with eligible car rentals through Hertz when they reserve while using Apple Card. You can earn up to $750 in total.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-18T15:51:58.000Z",
+    "creator": "Amber Neely <amber@appleinsider.com>",
+    "tags": "General",
+    "id": 5180
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Slow Horses season 6 reveals two major returning stars in trailer",
     "link": "https://9to5mac.com/2026/08/18/slow-horses-season-6-reveals-two-major-returning-stars-in-trailer/",
     "content": "Slow Horses returns for season 6 next month, and the new trailer reveals that two major characters are returning to the show—one of which was believed dead.",
@@ -38,16 +188,6 @@
     "creator": "Luke Dormehl",
     "tags": "Mac,iOS",
     "id": 5170
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Card Offering 5% Cash Back on Select Purchases for Limited Time",
-    "link": "https://www.macrumors.com/2026/08/18/apple-card-5-percent-daily-cash-promo/",
-    "content": "Now through September 15, you can get 5% Daily Cash when you use the Apple Card via Apple Pay on up to $750 in combined eligible purchases at Booking​.com, Hertz, ChargePoint, Exxon, and Mobil. The maximum total Daily Cash you can earn through this offer is $37.50, according to Apple, with complete details outlined on this page.\r\n\r\n\r\nOrdinarily, the Apple Card offers 3% Daily Cash at these partners, but this limited-time promotion provides an additional 2% Daily Cash on eligible purchases up to the $750 limit. Apple has given the offer an \"August road trip\" theme, as the eligible purchases include hotel rooms, rental cars, gas, and electric vehicle charging.\r\n\r\nTag: Apple Card\nThis article, \"Apple Card Offering 5% Cash Back on Select Purchases for Limited Time\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-18T15:16:01.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "Services",
-    "id": 5152
   },
   {
     "source_name": "9to5Mac",
@@ -751,7 +891,7 @@
   },
   {
     "source_name": "Cult of Mac",
-    "title": "Apple squashes iPhone security bugs with latest iOS update",
+    "title": "Apple squashes iPhone and Mac security bugs with latest OS updates",
     "link": "https://www.cultofmac.com/news/ios-26-6-1-security-update-iphone-ipados",
     "content": "Apple released iOS 26.6.1 and macOS Tahoe 26.6.2, small but important updates focused on security. iPadOS 26.6.1 is out, too.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
     "pub_date": "2026-08-17T18:43:33.000Z",
@@ -2858,145 +2998,5 @@
     "creator": "Wesley Hilliard <wes@appleinsider.com>",
     "tags": "iOS,Services",
     "id": 4722
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Pegatron: iPhone 18 won't launch with iPhone 18 Pro",
-    "link": "https://appleinsider.com/articles/26/08/12/pegatron-says-the-base-iphone-18-wont-launch-alongside-the-iphone-18-pro-lineup?utm_source=rss",
-    "content": "An Apple supplier has lent additional credibility to ongoing rumors suggesting Apple will release the iPhone 18 base model separately in early 2027.\n\n\nImage credit: Pegatron\nIt seems increasingly likely that Apple will not release the core iPhone 18 at its expected September 2026 iPhone launch. Instead, the company may launch it in early 2027.\nThis isn't the first time we've heard this story. The rumor first surfaced nearly a year ago in August 2025.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-13T00:19:18.000Z",
-    "creator": "Amber Neely <amber@appleinsider.com>",
-    "tags": "iOS,Rumors",
-    "id": 4680
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple in Talks to Pay Publishers for News Content to Power Siri AI",
-    "link": "https://www.macrumors.com/2026/08/12/apple-siri-ai-publisher-talks/",
-    "content": "Apple has approached publishers to establish content deals that would give Siri AI access to current news and information, reports The Wall Street Journal.\r\n\r\n\r\nApple is proposing multiyear agreements where publishers would receive payment when their content is used, which is different from standard AI deals. Typical deals between AI companies and news organizations have set fees for broad content access. Apple has discussed a nine-figure budget for the payments.\r\n\r\nThe Wall Street Journal says Apple previously inked deals that included AI training rights. Apple has also worked with publishers for its Apple News+ service since 2019, though some publishers were unhappy with the content deals and ended their partnerships.\r\n\r\niOS 27, iPadOS 27, and macOS 27. ‌Siri‌ AI is a major departure from the prior version of ‌Siri‌, and Apple has an incentive to ensure accurate news headlines. An iOS 18 notification summary feature turned out to be an embarrassment after Apple Intelligence generated false headlines that misled users. Apple ended up removing news summaries for more than a year while it made improvements.\nTag: Siri\nThis article, \"Apple in Talks to Pay Publishers for News Content to Power Siri AI\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-13T00:03:40.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,iOS,Services",
-    "id": 4720
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Upgrade to Windows 11 Pro for just $10",
-    "link": "https://www.cultofmac.com/deals/microsoft-windows-11-pro-discount",
-    "content": "Why pay list price for Microsoft software? This Windows 11 sale allows you to upgrade your PC to Windows 11 Pro for just $9.97.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-12T23:50:14.000Z",
-    "creator": "Cult of Mac Deals",
-    "tags": "Mac,Services",
-    "id": 4726
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Pixel Watch 5 adds a feature Apple Watch desperately needs",
-    "link": "https://www.cultofmac.com/news/pixel-watch-5-insulin-resistance-trends",
-    "content": "People often accuse Google of stealing from Apple, but here's something Apple should pinch from its rival ASAP.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-12T23:35:47.000Z",
-    "creator": "Lewis Wallace",
-    "tags": "Mac,iOS",
-    "id": 4719
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Supreme Court Lets Apple Delay App Store Fee Fight for 24 Hours",
-    "link": "https://www.macrumors.com/2026/08/12/app-store-fee-fight-24-hour-delay/",
-    "content": "U.S. Supreme Court Justice Elena Kagan today granted Apple a one-day stay in its legal fight with Epic Games, giving Apple more time to outline the fees it wants to charge developers for linking out to purchase options on the web.\r\n\r\n\r\nJust yesterday, the U.S. District Court for the Northern District of California denied Apple's request for a stay in the proceedings, giving Apple 24 hours to deliver its fee proposal. Apple then submitted an emergency filing to the Supreme Court, arguing that fee calculations should be paused until the justices hear the case and make a decision on the contempt ruling. If the contempt ruling is thrown out, fee proceedings won't be necessary.\r\n\r\nBloomberg says the short stay is meant to give the high court more time to consider Apple's request. Without the pause, Apple would have needed to submit its proposed fees to the court by 5:00 p.m. Eastern Time on Wednesday. Apple now has until 5:00 p.m. on Thursday, unless the Supreme Court gives the company a longer reprieve. Kagan already denied a similar stay request earlier this year.\r\n\r\nan ongoing dispute with Epic Games that started in 2020. Apple won the initial legal fight and wasn't declared a monopolist, but the company was ordered to change its anti-steering rules to let developers link to non-App Store purchase options. Apple did so, but charged fees that were almost identical to standard App Store fees.\r\n\r\nfound in contempt of court for willfully violating the original ruling, and barred from collecting fees on links in the U.S. ‌App Store‌.\r\n\r\nAn appeals court ruling upheld the contempt decision, but said Apple was due reasonable fees for its intellectual property. The case was sent back to district court to determine what a reasonable fee might be. Apple then appealed to the Supreme Court, and the justices agreed to hear it.\r\n\r\nApple wants the Supreme Court to throw out the contempt ruling, negating the order barring it from collecting fees and the subsequent appeals court order mandating reasonable fee calculations. Apple has argued that regulators worldwide are watching to see what a U.S. court considers a reasonable rate, so fee proceedings set a reference point even if the contempt ruling is thrown out.\r\n\r\nTags: App Store, Epic Games, Epic Games vs. Apple, Apple Lawsuits\nThis article, \"Supreme Court Lets Apple Delay App Store Fee Fight for 24 Hours\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-12T23:21:10.000Z",
-    "creator": "Juli Clover",
-    "tags": "App Store",
-    "id": 4713
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "9to5Mac Daily: August 12, 2026 – Apple exec changes, more",
-    "link": "https://9to5mac.com/2026/08/12/daily-august-12-2026/",
-    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.",
-    "pub_date": "2026-08-12T23:19:20.000Z",
-    "creator": "Seth Kurkowski",
-    "tags": "App Store",
-    "id": 4714
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Report: Apple seeks publisher deals to give Siri AI better access to current events",
-    "link": "https://9to5mac.com/2026/08/12/report-apple-seeks-publisher-deals-to-give-siri-ai-better-access-to-current-events/",
-    "content": "The Wall Street Journal reports that Apple has been pursuing content deals worth up to nine figures to improve Siri AI’s access to current news and information. Here are the details.",
-    "pub_date": "2026-08-12T23:14:20.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 4715
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "WhatsApp starts rolling out username support when creating new contacts",
-    "link": "https://9to5mac.com/2026/08/12/whatsapp-starts-rolling-out-username-support-when-creating-new-contacts/",
-    "content": "As WhatsApp approaches the official rollout of usernames, the app now lets users save a contact’s username alongside their name and phone number. Here are the details.",
-    "pub_date": "2026-08-12T22:50:12.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "App Store",
-    "id": 4716
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Google's $100 Pixel Price Hike and Trade-In Push Hint at Apple's iPhone 18 Pro Plans",
-    "link": "https://www.macrumors.com/2026/08/12/google-pixel-price-hike/",
-    "content": "Google raised the price of its latest smartphones compared to last year, and the increase may hint at what Apple will do with the iPhone 18 Pro models.\r\n\r\n\r\nAll of Google's Pixel starting prices are $100 higher than they were last year.\r\n\r\n \t\nPixel 11 - $899, up from $799\n\r\n \t\nPixel 11 Pro - $1,099, up from $999\n\r\n \t\nPixel 11 Pro XL - $1,299, up from $1,199\n\r\n \t\nPixel 11 Pro Fold - $1,899, up from $1,799\n\r\n\r\nThe 41mm Pixel Watch 5 is now $399, up from $349, and the 45mm model is now $429, up from $399.\r\n\r\nwith the iPhone 17 Pro. The Pixel 11 and Pixel 11 Pro now start with 256GB instead of 128GB, so pricing is technically the same as last year's 256GB model. The Pixel 11 Pro XL and Pixel 11 Pro Fold started with 256GB last year and still do, so those devices have straight price increases.\r\n\r\nGoogle also cut RAM in some models to mitigate costs. The base Pixel 11 Pro and Pixel 11 Pro XL have 12GB RAM instead of 16GB RAM. Last year, all Pixel 10 Pro devices had 16GB RAM, but this year, Pixel users need to pay at least $1,219 for 11 Pro and $1,419 for the 11 Pro XL to get 16GB RAM.\r\n\r\nA customer buying the Pixel 11 Pro will now pay $100 more for a 128GB storage increase and 4GB less RAM than the 10 Pro last year.\r\n\r\nGoogle is heavily emphasizing trade-in offers, which has the effect of distracting customers from the price increase. Google's product page lists trade-in discounts before actual pricing, stating the Pixel 11 Pro is priced \"From $499\" with trade-in, while the Pixel 11 Pro XL is \"From $699.\" Purchase pages for the new devices don't even reveal full pricing for a chosen model until a customer declines a trade-in. Google also shows carrier discounts and monthly payment options.\r\n\r\nannounced the Apple Upgrade program in partnership with Klarna, offering fee-free 12-month through 36-month payment plans for purchases.\r\n\r\nEngadget that despite the decrease in RAM, this year's models will perform faster than the comparable 2025 models.\r\nPixel's full stack approach allows us to optimize the way on-device models load and execute, keeping our hardware lean, fast, and highly responsive. In fact, through software and silicon optimization, you can expect faster and smoother performance from this year's Pro models when compared to last year's comparable 256GB SSD SKUs.\n\r\nAnalysts think the ‌iPhone 18 Pro‌ models could be up to $300 more expensive than the iPhone 17 Pro models, but Apple also negotiated lower prices for other components, which could help absorb some of the increased price it has to pay for RAM.\r\n\r\nTim Cook likened to a \"100-year flood.\" He said there have been \"exponential increases in memory prices,\" leading the company to raise the cost of its iPads and Macs. Memory chips for consumer devices are in short supply because chip manufacturers are prioritizing chips for AI data centers. The lack of supply has caused RAM prices to skyrocket.\r\n\r\niPhone prices have not increased yet, even though other manufacturers like Samsung have raised prices. Multiple rumors suggest iPhones will be more expensive starting in September. Apple could use the same tactic as Google and increase base storage while hiking prices, but so far it doesn't look like the company will lower the amount of RAM in the Pro models.\r\n\r\nApple Intelligence and Siri AI features it is rolling out this fall.\nRelated Roundup: iPhone 18 Pro\nTags: Apple Trade-In, Google\nThis article, \"Google's $100 Pixel Price Hike and Trade-In Push Hint at Apple's iPhone 18 Pro Plans\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-12T22:48:51.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,Services",
-    "id": 4707
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Everything Google announced: Pixel 11, Pixel Tag, Pixel Watch 11, more",
-    "link": "https://appleinsider.com/articles/26/08/12/everything-google-announced-pixel-11-pixel-tag-pixel-watch-11-more?utm_source=rss",
-    "content": "Google's Pixel 11 lineup is finally here, along with the Pixel Watch 5 and a rival to Apple's AirTag. Here's what debuted at the 'Made by Google' event.\n\n\nGoogle's Pixel 11 is finally here. Image Credit: Google.\nWhile we're all eagerly awaiting the iPhone 18 and iPhone 18 Pro, Google has already revealed everything the Pixel 11 range has to offer. Unveiled at the annual \"Made by Google\" event on Wednesday, Google's Pixel 11, Pixel 11 Pro, and Pixel 11 Pro Fold introduce new Gemini capabilities, color options, and more.\nAlso announced was the Pixel Tag, a small tracking device that helps users keep track of their keys, wallets, and other possessions. Basically, Google's version of an AirTag. Google upgraded its smartwatch offerings as well, with the Pixel Watch 5 introducing additional health-focused capabilities.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-12T22:20:52.000Z",
-    "creator": "Marko Zivkovic <marko@appleinsider.com>",
-    "tags": "iOS",
-    "id": 4711
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Final countdown for Apple to produce App Store commission plan begins",
-    "link": "https://appleinsider.com/articles/26/08/11/apple-fails-to-delay-filing-new-app-store-fees-to-court-as-epic-battle-continues?utm_source=rss",
-    "content": "Apple is being forced to detail fees it wants to charge for outbound links in its continuing legal fight with Epic, and now it's only got 24 hours to file them.\n\n\nA Fortnite parody of Apple's famous 1984 commercial - Image Credit: Epic Games.\nThe ever-ongoing legal battle between Apple and Epic Games over what Apple should charge apps within the App Store has hit a snag for the iPhone maker. In the current phase, the two are fighting in the U.S. District Court for the Northern District of California over new fee proposal.\nAccording to X posts by Epic Games founder and CEO Tim Sweeney on Tuesday, Apple attempted to delay a filing of proposed fees to the court. To Sweeney's glee, that stay was denied.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-12T21:57:16.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "iOS,App Store",
-    "id": 4614
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple wins temporary Supreme Court pause in Epic Games proceedings",
-    "link": "https://9to5mac.com/2026/08/12/apple-wins-temporary-supreme-court-pause-in-epic-games-proceedings/",
-    "content": "The Supreme Court has granted Apple a 24-hour extension to a California court deadline requiring the company to propose what commission, if any, it should be allowed to charge on purchases made outside the App Store. Here are the details.",
-    "pub_date": "2026-08-12T21:45:16.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "App Store",
-    "id": 4709
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "iPhone 17 vs Google Pixel 11: The standard models, compared",
-    "link": "https://appleinsider.com/inside/iphone-17/vs/iphone-17-vs-google-pixel-11-the-standard-models-compared?utm_source=rss",
-    "content": "Google's new Pixel 11 is the search giant's standard model of its new smartphone range. Here's how its latest introduction compares to its Apple counterpart, the iPhone 17.\n\n\niPhone 17 [left] vs Google Pixel 11 [right]\nThe vast majority of attention for Google and Apple's smartphone launches is around the premium models. However, not everyone is in the market for the high-end version, and would rather save a few bucks on something without every bell and whistle in existence.\nFor Google's Pixel 11 range, that means the Pixel 11. A more modest version of its AI-centric smartphone that steps back from the bleeding edge of its Pro counterpart.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-12T21:11:28.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "iOS",
-    "id": 4712
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Report: US smartphone sales fell 5% in Q2 2026 as prices keep climbing",
-    "link": "https://9to5mac.com/2026/08/12/report-us-smartphone-sales-fell-5-in-q2-2026-as-prices-keep-climbing/",
-    "content": "A new Counterpoint Research report says pricing pressure from rising memory costs squeezed the low-end US smartphone segment in Q2 2026, with smaller manufacturers hit particularly hard as larger brands were better able to absorb component cost increases. Here are the details.",
-    "pub_date": "2026-08-12T21:01:51.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 4710
   }
 ]
