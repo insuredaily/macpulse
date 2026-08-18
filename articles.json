@@ -1,5 +1,45 @@
 [
   {
+    "source_name": "Macworld",
+    "title": "Why does Wall Street hate Apple now?",
+    "link": "https://www.macworld.com/article/3214850/why-does-wall-street-hate-apple-now.html",
+    "content": "Macworld\n\n\n\n\n\nThis might surprise anyone who’s listened to Tim Cook preach the good word, but by the standards of technology companies Apple is perceived as being mildly anti-AI. And in some ways that’s a good thing.\nIn early summer the company’s shares enjoyed a $600 billion rally thanks to what Bloomberg described as “rising unease about the prospects for heavy spending on AI paying off.” All of a sudden investors liked the fact that Apple decided not to spend a fortune on datacenters.\nIt’s all about balance. Thanks to a nuanced strategy, Apple was part of the AI conversation without plunging into AI investment as recklessly as rivals such as Microsoft and Google. It has also been relatively unscathed by the technology’s legal entanglements and public backlash.\nHowever, the stock market is nothing if not capricious, and this month the script has flipped. Once again, investors are feeling bullish about AI spending, with the result that Apple stock is down and Microsoft/Google/Amazon stocks are up.\n“Since closing at a record high on July 28, Apple shares have fallen 10%,” Bloomberg reports this week. Apple, the site notes, is one of the 25 worst-performing stocks in the S&P 500 Index over the past three weeks. Essentially, what’s happened is that Apple has become the antithesis of the market as a whole. In July, the Nasdaq fell, and Apple rallied; in August, the Nasdaq rallied, and Apple fell. This gives an idea of how much of an outlier the Cupertino AI strategy really is.\nIt’s notable that the drop has followed Apple’s Q3 earnings results, which were the highest ever for a June quarter. However, Wall Street is all about what’s happening tomorrow, not what happened yesterday.\n“[Apple’s] correlation to the chip index is the lowest in data going back to 1994 and recently flipped to negative,” Bloomberg adds, “meaning it’s moving in the opposite direction of semiconductor stocks.”\nInvestor perception of AI is clearly precarious, and it’s possible that September will see the script flip back again. But that month contains other complications: namely, the expected launch of a raft of important Apple products. And this is where the AI boom (or bubble, depending on your point of view) may hurt Apple beyond the share price. The fact that everyone else has been feverishly building datacenters means memory prices have gone through the roof, and that may necessitate higher-than-expected prices for the iPhone 18 Pro and iPhone Ultra.\nIn fact, the dearest (but very private) wish of incoming Apple CEO John Ternus may be for AI to experience a crash–an event which would harm Apple in some ways, but its rivals much more.\nOr, to use the more business-centric language of Prime Capital portfolio manager Clayton Allison, “If we see the AI trade unwind again, as we’ve already seen this year, Apple’s lack of correlation will work in its favor by muting downside.”",
+    "pub_date": "2026-08-18T13:40:51.000Z",
+    "creator": "Macworld",
+    "tags": "iOS",
+    "id": 5150
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "A demo video of AirPods with cameras has leaked via a macOS Tahoe RC",
+    "link": "https://appleinsider.com/articles/26/08/18/a-demo-video-of-airpods-with-cameras-has-leaked-via-a-macos-tahoe-rc?utm_source=rss",
+    "content": "Apple has accidentally left a lot of data within the macOS Tahoe 26.7 release candidate, including a demo video showcasing AirPods with cameras. It is our best look yet.\n\n\nAirPods with cameras will closely resemble AirPods Pro\nThe new AirPods with cameras have been rumored since January 2025. Not much is known about the product, but a lot of debate has been had over whether or not Apple's earbuds would actually gain \"cameras.\"\nIn a video found within the macOS Tahoe 26.7 release candidate, AirPods with Visual Intelligence are clearly shown and referenced. The video also has a Siri voice saying a short tutorial.\n\n Rumor Score: 🤯 Likely \n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-18T13:34:36.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "Mac,Rumors",
+    "id": 5105
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "The Ultimate AI Learning Bundle goes from ChatGPT basics to AI certification prep",
+    "link": "https://www.cultofmac.com/deals/ultimate-ai-learning-bundle",
+    "content": "Get five courses in ChatGPT, AI fundamentals, AI agents and Microsoft Azure AI certification prep in the Ultimate AI Learning Bundle.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-18T13:30:36.000Z",
+    "creator": "Cult of Mac Deals",
+    "tags": "Mac",
+    "id": 5151
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "New Apple TV 4K to have upgraded Siri Remote, per leak",
+    "link": "https://9to5mac.com/2026/08/18/new-apple-tv-4k-to-have-upgraded-siri-remote-per-leak/",
+    "content": "A new Apple TV 4K is launching soon, expected to launch at the iPhone event in just a few weeks. And an Apple code leak uncovered by MacRumors indicates a new Siri Remote is coming.",
+    "pub_date": "2026-08-18T13:29:40.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS,Rumors",
+    "id": 5146
+  },
+  {
     "source_name": "MacRumors",
     "title": "AirTag 2 Drops to Low Price of $89 for 4-Pack",
     "link": "https://www.macrumors.com/2026/08/18/airtag-2-89-for-4-pack/",
@@ -268,16 +308,6 @@
     "creator": "Macworld",
     "tags": "Mac,iOS,Rumors,App Store",
     "id": 5108
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "A demo video of AirPods with cameras has leaked via a macOS Tahoe RC",
-    "link": "https://appleinsider.com/articles/26/08/18/a-demo-video-of-airpods-with-cameras-has-leaked-via-a-macos-tahoe-rc?utm_source=rss",
-    "content": "Apple has accidentally left a lot of data within the macOS Tahoe 26.7 release candidate, including a demo video showcasing AirPods with cameras. It is our best look yet.\n\n\nAirPods with cameras will closely resemble AirPods Pro\nThe new AirPods with cameras have been rumored since January 2025. Not much is known about the product, but a lot of debate has been had over whether or not Apple's earbuds would actually gain \"cameras.\"\nIn a video found within the macOS Tahoe 26.7 release candidate, AirPods with Visual Intelligence are clearly shown and referenced. The video was shared by the code sleuth @aaronp613, which has a Siri voice saying a short tutorial.\n\n Rumor Score: 🤯 Likely \n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-18T02:25:04.000Z",
-    "creator": "Wesley Hilliard <wes@appleinsider.com>",
-    "tags": "Mac,Rumors",
-    "id": 5105
   },
   {
     "source_name": "9to5Mac",
@@ -2968,35 +2998,5 @@
     "creator": "Juli Clover",
     "tags": "General",
     "id": 4688
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iPhone 18 Pro set to become Apple’s new default model",
-    "link": "https://9to5mac.com/2026/08/12/iphone-18-pro-set-to-become-apples-new-default-model/",
-    "content": "iPhone 18 Pro is being unveiled in mere weeks, and due to a lineup overhaul this year, it’s set to become Apple’s new default model like never before.",
-    "pub_date": "2026-08-12T17:50:20.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 4692
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iPhone Ultra’s cameras might get very unorthodox placement, per leak",
-    "link": "https://9to5mac.com/2026/08/12/iphone-ultras-cameras-might-get-very-unorthodox-placement-per-leak/",
-    "content": "iPhone Ultra will be unveiled next month, and a new leak indicates the device’s front cameras could be positioned in unusual spots.",
-    "pub_date": "2026-08-12T17:27:04.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS,Rumors",
-    "id": 4693
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iPhone 18 Pro: Apple Secures Lower Display Prices Amid RAM Shortage",
-    "link": "https://www.macrumors.com/2026/08/12/iphone-18-pro-lower-oled-display-cost-report/",
-    "content": "Apple has secured lower prices for OLED displays for the upcoming iPhone 18 Pro models, according to industry sources cited by South Korea's DealSite.\r\n\r\n\r\nFor example, the report said Apple will pay LG and Samsung around $68 per OLED display destined for the iPhone 18 Pro Max, down significantly from the $110 to $120 that it paid those suppliers for each iPhone 17 Pro Max display.\r\n\r\nmemory chip shortage, resulting from companies building out powerful AI data centers. The supply-demand imbalance has led to skyrocketing prices for RAM chips used in devices like the iPhone, leading to increased production costs for Apple.\r\n\r\nThe Elec first reported on these negotiations last month.\r\n\r\ncould rise by $200 to $300. If so, the iPhone 18 Pro and iPhone 18 Pro Max could start at up to $1,399 and $1,499, respectively.\r\n\r\nraised prices on Macs, iPads, and select other products in June, but the iPhone was spared. If Apple can secure lower prices for displays and some other components, then perhaps the price increases expected for the iPhone 18 Pro models will be closer to the $200 mark or less rather than $300, but only time will tell.\r\n\r\nRelated Roundup: iPhone 18 Pro\nTags: DealSite, LG, Samsung\nThis article, \"iPhone 18 Pro: Apple Secures Lower Display Prices Amid RAM Shortage\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-12T17:21:25.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "iOS,Services",
-    "id": 4672
   }
 ]
