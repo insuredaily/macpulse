@@ -1,6 +1,46 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Apple Wallet driver’s licenses coming to these states next",
+    "link": "https://9to5mac.com/2026/08/18/apple-wallet-drivers-licenses-states-coming-soon/",
+    "content": "At WWDC 2021, Apple announced support for storing your driver’s license in Apple Wallet on iPhone. At the time, Apple touted this as the last step before you can be “fully free of your physical wallet.”\nHere are the states where support for the Apple Wallet driver’s license feature is coming next …",
+    "pub_date": "2026-08-18T20:57:45.000Z",
+    "creator": "Chance Miller",
+    "tags": "iOS",
+    "id": 5204
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iCloud, Photos, Find My and More Experiencing Issues",
+    "link": "https://www.macrumors.com/2026/08/18/icloud-photos-find-my-service-issues/",
+    "content": "Several iCloud services are experiencing issues, according to Apple's system status page.\r\n\r\n\r\nFind My, Game Center, Photos, ‌iCloud‌ Calendar, ‌iCloud‌ Mail, ‌iCloud‌ Contacts, ‌iCloud‌ Web Apps, and iWork for ‌iCloud‌ are all experiencing service interruptions.\r\n\r\nTags: Find My, Photos\nThis article, \"iCloud, Photos, Find My and More Experiencing Issues\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-18T20:56:35.000Z",
+    "creator": "Juli Clover",
+    "tags": "Services",
+    "id": 5203
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Find My, iCloud, and several other Apple services are currently down for some users",
+    "link": "https://9to5mac.com/2026/08/18/find-my-icloud-and-several-other-apple-services-are-currently-down-for-some-users/",
+    "content": "Apple’s System Status page confirms that consumers and developers are currently experiencing issues accessing some of its services. Here are the details.",
+    "pub_date": "2026-08-18T20:48:38.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Services",
+    "id": 5205
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Comcast just turned millions of Xfinity routers into motion sensors",
+    "link": "https://9to5mac.com/2026/08/18/comcast-just-turned-millions-of-xfinity-routers-into-motion-sensors/",
+    "content": "Comcast launched Xfinity Shield today, a new home protection platform that includes a feature to turn routers into motion sensors. Here are the details.",
+    "pub_date": "2026-08-18T20:33:55.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "General",
+    "id": 5206
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Firefox Smart Window adds AI web search, automatic tab groups, and more",
     "link": "https://9to5mac.com/2026/08/18/firefox-smart-window-adds-ai-web-search-automatic-tab-groups-and-more/",
     "content": "Mozilla today announced new features to Firefox’s AI-powered Smart Window, which remains in beta. Here are the details.",
@@ -13,8 +53,8 @@
     "source_name": "MacRumors",
     "title": "Apple's Home Hub Will Have a Widget Gallery With iPhone Widget Support",
     "link": "https://www.macrumors.com/2026/08/18/apple-home-hub-widget-gallery/",
-    "content": "Apple is working on a home hub that incorporates Siri AI, and it's set to launch as soon as this year. The home hub will use a Widget Gallery that lets users select the content they want to appear on the device's home screen.\r\n\r\n\r\nMentions of the Widget Gallery were found in macOS Tahoe 26.7, an update that leaked a long list of unreleased Apple products. The strings were found in a file named PosterKit-J490, and J490 is the codename for the home hub. PosterKit is Apple's framework for Lock Screen customization, and the hub's home screen could have many of the same options for icons, widgets, and clock faces.\r\n\r\niPad, and Mac for adding widgets to the Home Screen and Lock Screen of those devices, and the home hub will have a similar mechanism.\r\n\r\nBased on the code, widgets installed on a linked iPhone will be suggested on the home hub, much like how iPhone widgets are available on a Mac without an app being installed. It looks like third-party app widgets may be supported in addition to Apple's own apps. iPhone app widgets displayed on the home hub will have information mirrored from the iPhone.\r\n\r\nAll users in the home will be able to see the widgets installed on the home hub, but content in widgets will only be visible when the primary linked device is in the home for privacy protection.\r\n\r\nA Smart Stack will automatically rotate through widgets to show relevant information throughout the day, and users will also be able to flip through the different Smart Stack options. Apple already has Smart Stack on its other devices, including the Apple Watch.\r\n\r\nApp Store, but it will support Apple apps like Safari, Apple News, Apple Music, Notes, Calendar, Photos, and Home. Tapping on an installed widget from the home screen could launch a full app with more information.\r\n\r\ncan be found in our guide.\nTag: Apple Command Center\nThis article, \"Apple's Home Hub Will Have a Widget Gallery With iPhone Widget Support\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-18T19:56:49.000Z",
+    "content": "Apple is working on a home hub that incorporates Siri AI, and it's set to launch as soon as this year. The home hub will use a Widget Gallery that lets users select the content they want to appear on the device's home screen.\r\n\r\n\r\nMentions of the Widget Gallery were found in macOS Tahoe 26.7, an update that leaked a long list of unreleased Apple products. The strings were found in a file named PosterKit-J490, and J490 is the codename for the home hub. PosterKit is Apple's framework for Lock Screen customization, and the hub's home screen could have many of the same options for icons, widgets, and clock faces.\r\n\r\niPad, and Mac for adding widgets to the Home Screen and Lock Screen of those devices, and the home hub will have a similar mechanism.\r\n\r\nBased on the code, widgets installed on a linked iPhone will be suggested on the home hub, much like how iPhone widgets are available on a Mac without an app being installed. It looks like third-party app widgets may be supported in addition to Apple's own apps. iPhone app widgets displayed on the home hub will have information mirrored from the iPhone.\r\n\r\nAll users in the home will be able to see the widgets installed on the home hub, but content in widgets will only be visible when the primary linked device is in the home for privacy protection.\r\n\r\nA Smart Stack will automatically rotate through widgets to show relevant information throughout the day, and users will also be able to flip through the different Smart Stack options. Apple already has Smart Stack on its other devices, including the Apple Watch. \r\n\r\nApp Store, but it will support Apple apps like Safari, Apple News, Apple Music, Notes, Calendar, Photos, and Home. Tapping on an installed widget from the home screen could launch a full app with more information. Code references a Face Gallery too, suggesting users will be able to select different clock options for the device's home screen, and it indicates that the hub will be able to be added to HomeKit scenes and automations alongside other smart home accessories.\r\n\r\ncan be found in our guide.\nTag: Apple Command Center\nThis article, \"Apple's Home Hub Will Have a Widget Gallery With iPhone Widget Support\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-18T19:56:40.000Z",
     "creator": "Juli Clover",
     "tags": "Mac,iOS,App Store,Services",
     "id": 5200
@@ -2958,45 +2998,5 @@
     "creator": "Hartley Charlton",
     "tags": "General",
     "id": 4751
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Eddy Cue hints at more 'Ted Lasso' seasons to come",
-    "link": "https://appleinsider.com/articles/26/08/13/eddy-cue-hints-at-more-ted-lasso-seasons-to-come?utm_source=rss",
-    "content": "While it's officially only back for one run, \"Ted Lasso\" creators have plans for more and Apple's Eddy Cue strongly suggests there will be a fifth season on Apple TV.\n\n\nApple's Eddy Cue says he hopes there will be more Ted Lasso - images credit: Apple.\nApple TV's first true hit, the comedy \"Ted Lasso,\" was intended to finish forever after its third season. But it's been revived for a fourth, which is getting mixed but generally good reviews and Apple is hinting that the show will continue.\n\"Ted Lasso\" star and co-creator Jason Sudeikis has publicly said that he wants two more seasons. He's even gone so far as to say that he is getting the writers back together in the hopes of a second run.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-13T11:45:01.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "General",
-    "id": 4742
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "‘Obvious’ App Store ratings fraud going undetected by Apple, says StopTheMadness developer",
-    "link": "https://9to5mac.com/2026/08/13/obvious-app-store-ratings-fraud-going-undetected-by-apple-says-stopthemadness-developer/",
-    "content": "Jeff Johnson, developer of the popular StopTheMadness Safari extension, has said that “obvious” App Store ratings fraud is going undetected by Apple despite the company’s claims to review listings.\nHe said that although he doesn’t go proactively looking for App Store fraud, he does encounter it rather frequently, citing the latest example …",
-    "pub_date": "2026-08-13T11:17:45.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "App Store",
-    "id": 4741
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Watch classic movies for free with an Apple TV subscription",
-    "link": "https://appleinsider.com/articles/26/08/13/watch-classic-movies-for-free-with-an-apple-tv-subscription?utm_source=rss",
-    "content": "It doesn't do this often, but Apple TV has once again added a series of famous films to its library for subscribers to watch at no added cost.\n\n\nApple TV has added classic movies to its library for free, although probably for a limited time - image credit: Apple.\nApple made various series completely free to watch during COVID, and it has occasionally added one-off films like \"Silver Linings Playbook.\" Those were all for a limited time, as was 2024's mammoth addition of 51 movies, and now Apple TV is back expanding its catalog in the same way.\nAs before, Apple is not actually saying whether the selection is only available for a limited time. It also isn't promoting it outside of Apple TV itself, but subscribers can find a new section called \"Great Movies Available Now on Apple TV.\"\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-13T11:16:49.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "Services",
-    "id": 4743
-  },
-  {
-    "source_name": "Macworld",
-    "title": "How to tune your AirPods with a custom EQ in iOS 27",
-    "link": "https://www.macworld.com/article/3207287/how-to-tune-your-airpods-with-a-custom-eq-in-ios-27.html",
-    "content": "Macworld\n\n\n\n\n\nIt’s a table-stakes feature for almost all headphones, but for some reason Apple has resisted adding it to AirPods. Until now. With iOS 27, Apple is adding a simple equalizer to its AirPods controls, after years of user complaints.\nHere’s how to use it.\nHow to find and use the custom EQ for AirPods\nWith your AirPods connected to your iPhone, enabling and adjusting the custom EQ is simple once you know where to look.\nOpen the Settings app.\nTap your AirPods name at the top of the screen.\nSelect Audio and Routing.\nTap Equalizer and then select Custom.\n\nFoundry\n\n\n\n\nThe EQ is a very simple three-band adjustment that only lets you increase or decrease the lows, mids, and highs. But if you find your new AirPods are too bass-heavy or that your hearing needs a little help with bright high frequencies, it gets the job done.\nThis is a new iOS 27 feature and requires you to run both iOS 27 and have a related firmware update to your AirPods. If you’re using the beta, you’ll need to enable Beta Updates for your AirPods.\nTo do this, open Settings, tap your AirPods name, then scroll to the bottom and select AirPods Beta Updates. Make sure Beta Updates is enabled, then put your AirPods back in the case and plug them in to charge. It can sometimes take hours or more for new firmware to be delivered to your AirPods, and there’s not much you can do to make it go faster. You’ll need firmware newer than 8B41. The first beta firmware to support this feature was 9A292e.\n\n \n @macworld.com \nApple finally added EQ to AirPods Pro. #tech #howto #ios27 #airpods\n ♬ original sound – Macworld – Macworld",
-    "pub_date": "2026-08-13T11:15:00.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,App Store",
-    "id": 4747
   }
 ]
