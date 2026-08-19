@@ -1,5 +1,45 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "Apple's home automation hardware might work more like Apple Watch than a HomePod",
+    "link": "https://appleinsider.com/articles/26/08/19/apples-home-automation-hardware-will-work-more-like-an-apple-watch-than-a-homepod?utm_source=rss",
+    "content": "New code references found in macOS Tahoe describe how the rumored HomeHub will work. If you've got an Apple Watch, you'll feel right at home.\n\n\nDetails of Apple's HomeHub have been revealed\nApple has been rumored for years to be making what has variously been known as a HomeHub, a HomePad, or just a HomePod with a screen. Now in the midst of many future products seemingly revealed in a macOS release, there is evidence of how the device will function.\nThe code specifically says that the device will have a home screen that features what are called \"Faces\" and a \"Face Gallery\". It sounds similar to the Apple Watch, and users will be able to select widgets to go on these faces like Complications.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-19T12:46:47.000Z",
+    "creator": "William Gallagher <wg@williamgallagher.com>",
+    "tags": "Mac,iOS",
+    "id": 5233
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Hidden AirTag appears to confirm suspicions about illicit AI book scanning",
+    "link": "https://9to5mac.com/2026/08/19/hidden-airtag-appears-to-confirm-suspicions-about-illicit-ai-book-scanning/",
+    "content": "Suspicious bulk orders of used books have led many booksellers to believe they are being purchased on behalf of AI companies so that they can be scanned and used as training material without author consent or payment.\nAn AirTag hidden inside a rare book sold as part of a bulk order appears to confirm the theory after it ended up at an Amazon AI training facility …",
+    "pub_date": "2026-08-19T12:20:38.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "General",
+    "id": 5231
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iPad Mini 8: Release Date, Pricing, and What to Expect",
+    "link": "https://www.macrumors.com/2026/08/19/ipad-mini-8-release-date-pricing-what-to-expect/",
+    "content": "According to the latest rumors, Apple is close to launching its next-generation iPad mini. So what should we expect from the successor to the iPad mini 7 that Apple released over 21 months ago. Read on to find out.\r\n\r\n\r\nProcessor and Performance\n\r\nApple is working on a next-generation version of the iPad mini (codename J510/J511) that features the A19 Pro chip, according to information found in code that Apple mistakenly shared in August. \r\n\r\nApple's A19 Pro chip since debuted in the iPhone Air and iPhone 17 Pro models. The iPhone 17 Pro models include the higher-end version of Apple's A19 Pro chip with a 6-core CPU and a 6-core GPU, while the iPhone Air uses a mid-tier A19 Pro chip with one fewer GPU core than the A19 Pro chip used in the iPhone 17 Pro and Pro Max.\r\n\r\nIf the code leak is accurate for the iPad mini 8, Apple is likely to use the mid-tier A19 Pro chip found in the iPhone Air. This is based on the fact that the A17 Pro chip used in the iPad mini 7 has a 6-core CPU with two high-performance cores and four efficiency cores, along with a 5-core GPU, compared to the 6-core GPU found on the A17 Pro used in the iPhone 15 Pro. \r\n\r\nApple built the A19 Pro chip on an upgraded third-generation 3-nanometer N3P process for modest speed and efficiency improvements. The chip includes a 16-core Neural Engine, next-generation dynamic caching, and unified image compression.\r\n\r\nThe GPU in the A19 Pro has an upgraded architecture with a larger cache, more memory, and Neural Accelerators that are built into each core. Apple says that this change provides 3× the peak GPU compute over the prior-generation chip. There's also an upgraded 16-core Neural Engine for AI tasks.\r\n\r\nMacRumors tipster who analyzed a macOS kernel debug kit containing internal Apple codenames. However, the iPad mini has not always received Apple's newest A-series chip at the time it was updated, so the A19 Pro cannot be ruled out at this time. iPhone 18 Pro models are also expected to use the A20 Pro chip, which will reportedly be fabricated with TSMC's advanced 2nm process.\r\n\r\nDisplay\n\r\n\r\nBloomberg's Mark Gurman, the small form-factor tablet is likely to be the next Apple device to adopt OLED. According to a Chinese leaker with sources in Apple's supply chain, Apple has evaluated a Samsung-made OLED display for its next iPad mini model. \r\n\r\nIt remains unclear whether the iPad mini 8 will feature a higher refresh rate than the 60Hz LCD display used in the existing iPad mini 7, but since the new base iPhone 17 now uses a 120Hz ProMotion panel, it would be reasonable to expect the same on the first OLED iPad mini. A separate report has suggested the ‌‌‌iPad mini 8‌‌‌'s screen could increase in size from 8.3 inches to 8.7 inches with the adoption of OLED.\r\n\r\nOLED panels can individually control each pixel, resulting in more precise color reproduction and deeper blacks compared to other common display technologies. They also provide superior contrast, faster response times, better viewing angles, and greater design flexibility. All of Apple's flagship iPhones use OLED panels, and in May 2024 the company brought the display technology to the iPad Pro for the first time.\r\n\r\nUnlike Apple's ‌iPad Pro‌ models, which feature two-stack low-temperature polycrystalline oxide (LTPO) OLED panels‌, the ‌iPad mini‌ may have a single-stack low-temperature polycrystalline silicon (LTPS) panel, which would make it dimmer.\r\n\r\nChassis Design\n\r\n\r\nBloomberg's Mark Gurman. The updated casing would bring protection levels closer to those of the iPhone, making the tablet safer for use in damp environments.\r\n\r\nTo achieve this, Apple is said to have designed a new vibration-based speaker system that eliminates the need for traditional speaker holes. By using sound-emitting surfaces instead of open grilles, the company can reduce potential entry points for water and dust, resulting in a more sealed, durable enclosure.\r\n\r\nOn the iPhone, Apple relies on adhesives and gaskets to shield speakers and other openings from moisture. The iPad mini's approach appears to go further, doing away with the holes altogether. Current iPad mini models lack any official IP rating, but the upcoming version could mark the first in the lineup to feature a certified level of water protection. \r\n\r\n2014 patent outlines a \"mechanically actuated panel acoustic system\" that vibrates flat surfaces to generate sound, effectively turning parts of a device's chassis into a speaker diaphragm. This could potentially allow Apple to produce audio without visible speaker holes. The patent suggest Apple has been building towards a sealed, vibration-based acoustic system for several years. \r\n\r\nRelease Date\n\r\n\r\nET News and ZDNET Korea have both suggested that the iPad mini will be updated with an OLED display in 2026. Bloomberg has also said the update could come as soon as this year.\r\n\r\nstarted developing sample OLED panels for a future ‌iPad mini‌, with plans to initiate mass production at its facility in Cheonan in the second half of 2025. The same report claimed that Apple will bring an OLED panel to the iPad Air alongside the ‌iPad mini‌ in 2026, though Apple only refreshed the iPad Air in March, and more recent reporting suggests an OLED iPad Air will arrive in early 2027.\r\n\r\nETNews claimed that mass production of the iPad mini 8 is already underway at a Samsung factory.\r\n\r\nBloomberg's Mark Gurman, who said Apple is planning to release a new iPad mini model with an OLED display by October this year.\r\n\r\nPricing\n\r\n\r\nraised the price in late June, up from $499 (+$100). \r\n\r\nThe main reason for the price rise is rising memory and storage costs, brought about by the continuing AI data center buildout. Growing demand for memory and storage chips from AI companies has led to chip shortages and higher costs for everyone else, including Apple.\r\n\r\nThe Wall Street Journal that the price increases across its product lineup were \"unavoidable.\" Cook said the company was doing its best to \"mitigate the huge increases that are being passed to us,\" and that it was trying to shield customers from them, but the situation had become \"unsustainable.\"\r\n\r\nBloomberg's Gurman suggesting Apple could charge up to $100 more for the device. \r\n\r\nargued that Apple should consider a lower-end version of the mini, or at least a change to its starting price ($499 at the time – but now $599), given that it's up against rival products that cost a lot less. \r\n\r\nRelated Roundup: iPad mini\nBuyer's Guide: iPad Mini (Don't Buy)\nRelated Forum: iPad\nThis article, \"iPad Mini 8: Release Date, Pricing, and What to Expect\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-19T12:17:28.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "Mac,iOS,Rumors,Silicon",
+    "id": 5229
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "HomePad code suggests it’ll act like a giant Apple Watch",
+    "link": "https://9to5mac.com/2026/08/19/homepad-code-suggests-itll-act-like-a-giant-apple-watch/",
+    "content": "The latest macOS 26.7 beta appears to have revealed quite a lot about a number of upcoming Apple home products. It includes references to a new HomePod mini, a security camera, a next-generation Siri remote for a new Apple TV 4K – and the long-anticipated HomePad product.\nA deeper dive into the code also appears to provide significant clues about what we can expect from the HomePad …",
+    "pub_date": "2026-08-19T11:44:34.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "Mac,iOS",
+    "id": 5232
+  },
+  {
     "source_name": "9to5Mac",
     "title": "Otterbox and Astropad think iPhone 17 Pro cases will fit iPhone 18 Pro",
     "link": "https://9to5mac.com/2026/08/19/otterbox-and-astropad-think-iphone-17-pro-cases-will-fit-iphone-18-pro/",
@@ -2958,45 +2998,5 @@
     "creator": "Ben Lovejoy",
     "tags": "iOS",
     "id": 4762
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Two affordable iPhone 17 Pro accessories worth trying",
-    "link": "https://9to5mac.com/2026/08/13/two-affordable-iphone-17-pro-accessories-worth-trying/",
-    "content": "While my preferred way to use an iPhone is with no case or screen protector, I’m actually enjoying both on iPhone 17 Pro and can recommend them. They’re inexpensive enough to try without committing for a year or more.",
-    "pub_date": "2026-08-13T15:00:00.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS",
-    "id": 4781
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Today in Apple history: Power Mac G4 gets a mirrored redesign",
-    "link": "https://www.cultofmac.com/apple-history/power-mac-g4-mirrored-drive-doors",
-    "content": "On August 13, 2002, Apple introduced the final redesign of its Power Mac G4, the Mirrored Drive Doors model. A flap over fan noise ensued.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-13T14:57:13.000Z",
-    "creator": "Luke Dormehl",
-    "tags": "Mac",
-    "id": 4770
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "New Apple TV 4K: Everything we know about Apple’s 2026 upgrade",
-    "link": "https://9to5mac.com/2026/08/13/new-apple-tv-4k-2026-release-date-features-price/",
-    "content": "Apple TV 4K is finally expected to get its first hardware refresh in nearly four years. If the latest reports are right, Apple’s next streaming box could arrive this fall with a much faster chip, possibly the new Siri, upgraded wireless connectivity, and more.\nHere is everything we currently know about the next Apple TV 4K.",
-    "pub_date": "2026-08-13T14:30:00.000Z",
-    "creator": "Zac Hall",
-    "tags": "General",
-    "id": 4782
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Apple TV gets big batch of classic movies you can stream at no extra cost",
-    "link": "https://www.cultofmac.com/news/apple-tv-classic-movies-august-2026",
-    "content": "Apple TV just beefed up its regular catalog of original content with a collection of classic movies for subscribers to enjoy.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-13T14:27:05.000Z",
-    "creator": "Ed Hardy",
-    "tags": "Mac",
-    "id": 4771
   }
 ]
