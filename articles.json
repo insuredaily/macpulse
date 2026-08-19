@@ -1,6 +1,16 @@
 [
   {
     "source_name": "AppleInsider",
+    "title": "What's new with the Camera app in iOS 27: Siri mode, enhanced controls, & more",
+    "link": "https://appleinsider.com/articles/26/08/19/whats-new-with-the-camera-app-in-ios-27-siri-mode-enhanced-controls-more?utm_source=rss",
+    "content": "In iOS 27, Apple is bringing a welcomed set of changes to the stock Camera app. Here's how it has evolved, what you can now do, and what we didn't see.\n\n\nApple's updated Camera app with iOS 27\nThere are hundreds of changes throughout iOS 27, and the Camera app has its fair share. It's both easier to use and more powerful than before, so let's walk through it.\nJumping into the app, it still looks very familiar. The general layout, color scheme, and functionality have all remained.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-19T03:05:20.000Z",
+    "creator": "Andrew O'Hara <andrew@appleinsider.com>",
+    "tags": "iOS,App Store",
+    "id": 5217
+  },
+  {
+    "source_name": "AppleInsider",
     "title": "Lexar Armor 700 8TB review: Impressive capacity, good speeds, with a catch",
     "link": "https://appleinsider.com/articles/26/08/18/lexar-armor-700-8tb-review-impressive-capacity-good-speeds-with-a-catch?utm_source=rss",
     "content": "Lexar's new 8TB SSD is a dream for creatives, but Apple's port choices are holding it back. Let's find out if the large capacity Armor 700 is still worth buying.\n\n\nLexar Armor 700 8TB review: The Lexar drive is good, but Apple won't support USB 3.2 Gen 2x2\nAs both a photographer and videographer, I'm always churning through storage. I have near a hundred terabytes sitting on my desk in one fashion or another.\nRecently, I've been working more mobile than I had been, requiring somewhat of a reevaluation of my workflow. I needed something I could bring around to use with my iPhone, iPad, and MacBook Pro with enough capacity to reduce my transfers between drives.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
@@ -2988,15 +2998,5 @@
     "creator": "Ryan Christoffel",
     "tags": "iOS",
     "id": 4765
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Apple’s revolving door continues to spin, with more big-name exec changes",
-    "link": "https://www.macworld.com/article/3212388/apples-revolving-door-continues-to-spin-with-more-big-name-exec-changes.html",
-    "content": "Macworld\n\n\n\n\n\nApple is a large and wealthy company which employs roughly 166,000 people, so a fair amount of staff turnover is to be expected. What’s striking about the past couple of years, however, has been the number of employees leaving high-profile roles at Apple Park.\nLast December, Bloomberg reporter Mark Gurman discussed what he called Apple’s “biggest personnel shake-up in decades,” listing 18 big-name departures that had either happened that year or were expected to happen soon. By February, the situation had become so noticeable that CEO Tim Cook was moved to comment, sagely observing that “when people get to a certain age, some are going to retire. This is kind of a natural thing,” and insisting that the departures had been carefully orchestrated.\nWhether planned or not, the high-profile personnel changes keep coming, with two more emerging this week.\nFirst, Apple internally announced the retirement of Jennifer Bailey, who has been at the company for more than two decades, most recently as head of Pay and Wallet services. In an article revealing the move, Gurman claimed Bailey’s exit “is seen as a major loss within Apple, according to people with knowledge of the move” and that staff fears it will “presage a broader exodus of senior leaders in their 60s.” Bailey will retire in October, although services boss Eddy Cue (current age: 61) insists she will continue in an advisory role and that a succession plan will be announced nearer the time. The current lack of a succession plan (or disinclination to reveal one) hints that this departure was less orchestrated, but there may be other factors we don’t know about.\nSecond, and more positively, it was announced (again by Mark Gurman at Bloomberg) that Apple is hiring a new head of government affairs. Nate Gatten, formerly an exec at American Airlines, will take on this “delicate role,” for which his Republican ties are likely to be seen as an advantage.\nA big-name signing is a win, of course, but there are complications. For one thing, this is connected to another retirement: legal chief Katherine Adams is leaving at the same time as Jennifer Bailey, and she currently serves in a similar but lower-profile role of senior VP of government affairs. For another, the need for a full-time head of government affairs reflects the murky political waters Apple currently has to navigate. \nSome pundits (including this one) have speculated that this year’s biggest personnel change–Tim Cook stepping down as CEO–will see the current boss spend more time liaising with the White House, but even Cupertino’s most famous workaholic may not be able to handle the workload on his own.\nFinally, Gurman reported last week that incoming CEO John Ternus will be rehiring Laura Legros, who served as a vice president of hardware engineering until she retired in 2022. Legros will assume a vice president role, “working cross-functionally with different parts of the company,” according to the report.\nLegros was one of Ternus’ “most trusted deputies,” Gurman reports. In 2018, she appeared during an Apple event in New York to introduce an updated MacBook Air and was also front and center for the iPad Air design, two important products in Apple’s recent history.",
-    "pub_date": "2026-08-13T13:17:59.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS,Services",
-    "id": 4756
   }
 ]
