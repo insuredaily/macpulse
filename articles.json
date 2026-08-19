@@ -1,5 +1,15 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "Lexar Armor 700 8TB review: Impressive capacity, good speeds, with a catch",
+    "link": "https://appleinsider.com/articles/26/08/18/lexar-armor-700-8tb-review-impressive-capacity-good-speeds-with-a-catch?utm_source=rss",
+    "content": "Lexar's new 8TB SSD is a dream for creatives, but Apple's port choices are holding it back. Let's find out if the large capacity Armor 700 is still worth buying.\n\n\nLexar Armor 700 8TB review: The Lexar drive is good, but Apple won't support USB 3.2 Gen 2x2\nAs both a photographer and videographer, I'm always churning through storage. I have near a hundred terabytes sitting on my desk in one fashion or another.\nRecently, I've been working more mobile than I had been, requiring somewhat of a reevaluation of my workflow. I needed something I could bring around to use with my iPhone, iPad, and MacBook Pro with enough capacity to reduce my transfers between drives.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-18T23:44:31.000Z",
+    "creator": "Andrew O'Hara <andrew@appleinsider.com>",
+    "tags": "Mac,iOS",
+    "id": 5215
+  },
+  {
     "source_name": "MacRumors",
     "title": "Apple's iPhone 18 Release Schedule: What's Coming and When",
     "link": "https://www.macrumors.com/guide/iphone-18-release-schedule/",
@@ -61,12 +71,12 @@
   },
   {
     "source_name": "9to5Mac",
-    "title": "Find My, iCloud, and several other Apple services are currently down for some users [U]",
+    "title": "Find My, iCloud, and several other Apple services are currently down for some users [U: Fixed]",
     "link": "https://9to5mac.com/2026/08/18/find-my-icloud-and-several-other-apple-services-are-currently-down-for-some-users/",
-    "content": "Update, 7:04 p.m. ET: All user-facing issues, and all developer-facing issues, except Xcode Cloud are now marked as resolved. We’ll continue to monitor the remaining issue. The original story follows below.\nApple’s System Status page confirms that consumers and developers are currently experiencing issues accessing some of its services. Here are the details.",
+    "content": "Update, 7:49 p.m. ET: All issues are now marked as resolved. The original story follows below.\nApple’s System Status page confirms that consumers and developers are currently experiencing issues accessing some of its services. Here are the details.",
     "pub_date": "2026-08-18T20:48:38.000Z",
     "creator": "Marcus Mendes",
-    "tags": "App Store,Services",
+    "tags": "Services",
     "id": 5205
   },
   {
@@ -2988,15 +2998,5 @@
     "creator": "Macworld",
     "tags": "Mac,iOS,Services",
     "id": 4756
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple TV Gains Classic Movies Collection",
-    "link": "https://www.macrumors.com/2026/08/13/apple-tv-gains-classic-movies/",
-    "content": "Apple has again added a collection of classic movies to Apple TV that subscribers can now stream at no extra cost.\r\n\r\n\r\nThe films are located in a new \"Great Movies Available Now on ‌Apple TV‌\" carousel inside the ‌Apple TV‌ app. So far, free titles are showing up for subscribers in the United States, Canada, and the United Kingdom, with the exact selection differing by country. In the U.S., 19 movies are available:\r\n\r\n\r\n21 Jump Street\n\r\nArrival\n\r\nThe Aviator\n\r\nA Beautiful Mind\n\r\nThe Bourne Identity\n\r\nCharlie's Angels\n\r\nE.T.\n\r\nForgetting Sarah Marshall\n\r\nGone Girl\n\r\nI, Robot\n\r\nLooper\n\r\nThe Martian\n\r\nMission Impossible: Ghost Protocol\n\r\nThe Proposal\n\r\nThe Rookie\n\r\nThe Sixth Sense\n\r\nTitanic\n\r\nZodiac\n\r\nZoolander\n\r\n \r\n\r\nOther countries such as the United Kingdom appear to have much smaller collections of movies, with only six titles available. \r\n\r\nThese licensed titles sit alongside Apple's own catalog, which now includes more than 300 original productions. \r\n\r\nMarch 2024, then followed up with roughly 30 more titles the next month, and neither run lasted more than a few weeks.\nRelated Roundup: Apple TV\nTag: Apple TV Service\nBuyer's Guide: Apple TV (Don't Buy)\nRelated Forum: Apple TV and Home Theater\nThis article, \"Apple TV Gains Classic Movies Collection\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-13T13:15:53.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "App Store",
-    "id": 4749
   }
 ]
