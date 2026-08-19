@@ -1,6 +1,26 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "9to5Mac Daily: August 19, 2026 – Apple TV 4K rumors, Apple Maps ads",
+    "link": "https://9to5mac.com/2026/08/19/daily-august-19-2026/",
+    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.",
+    "pub_date": "2026-08-19T23:06:38.000Z",
+    "creator": "Seth Kurkowski",
+    "tags": "App Store",
+    "id": 5287
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Meta AI Launches Mac App With Screen Sharing and Dictation",
+    "link": "https://www.macrumors.com/2026/08/19/meta-ai-mac-app/",
+    "content": "Meta today launched a new ‌Meta‌ AI app for the Mac, which is available in a beta capacity.\r\n\r\n\r\nThe app is primarily meant for businesses and content creators, and it integrates with Facebook and Instagram. It incorporates analytics tools so it can answer questions about performance, and connects with Google Workspace for document access. Google Workspace access requires a professional Facebook or Instagram account.\r\n\r\n‌Meta‌ says there's an option to share a window during a session using screen capture to get advice based on what's being worked on. It also includes built-in dictation that works across all apps on the Mac.\r\n\r\n‌Meta‌ is adding new ‌Meta‌ AI features for business users across its platforms, so the assistant can complete recurring tasks and reminders and generate decks, docs, and spreadsheets.\r\n\r\nCreators and businesses may want to use caution when opting in to ‌Meta‌ AI, because ‌Meta‌'s privacy policy makes it clear that \"interactions with features that are part of AI at ‌Meta‌\" are used to train its models.\r\n\r\nTag: Meta\nThis article, \"Meta AI Launches Mac App With Screen Sharing and Dictation\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-19T22:35:26.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,App Store",
+    "id": 5285
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Report: Smart wearables market set to generate more than $1 trillion through 2032",
     "link": "https://9to5mac.com/2026/08/19/report-smart-wearables-market-set-to-generate-more-than-1-trillion-through-2032/",
     "content": "A new Counterpoint Research report predicts that consumer wearables will generate more than $1 trillion in cumulative revenue through 2032, with smartwatches and wireless earbuds leading the pack. Here is the breakdown.",
@@ -2978,25 +2998,5 @@
     "creator": "Macworld",
     "tags": "Mac,Services",
     "id": 4825
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "iPhone X is officially obsolete after changing Apple forever",
-    "link": "https://www.cultofmac.com/news/iphone-x-officially-obsolete-changing-apple-forever",
-    "content": "Apple marked the iconic iPhone X as obsolete, ending official hardware support for the device that reshaped the iPhone lineup.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-14T07:53:35.000Z",
-    "creator": "Rajesh Pandey",
-    "tags": "Mac,iOS",
-    "id": 4826
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple CEO Tim Cook: 'I hope that people say I was a good and decent man'",
-    "link": "https://appleinsider.com/articles/26/08/14/apple-ceo-tim-cook-i-hope-that-people-say-i-was-a-good-and-decent-man?utm_source=rss",
-    "content": "Tim Cook will step down as Apple CEO on September 1, and he has shared that others will define his legacy, but he'd like to be viewed as a \"good and decent man.\"\n\n\nApple CEO Tim Cook will step down on September 1\nJohn Ternus will be Apple's CEO starting on September 1 and Tim Cook will become the Executive Chairman. Cook's legacy will be defined and litigated for decades to come, but he won't be entering the conversation himself.\nAccording to an interview on CNBC, Cook doesn't want to try to define his own legacy. He says that others will define his legacy for him, but that he hopes that he will be seen as a \"good and decent man.\"\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-14T03:09:26.000Z",
-    "creator": "Wesley Hilliard <wes@appleinsider.com>",
-    "tags": "General",
-    "id": 4818
   }
 ]
