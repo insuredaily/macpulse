@@ -1,13 +1,53 @@
 [
   {
+    "source_name": "MacRumors",
+    "title": "ChatGPT Can Now Read and Send iMessages on Mac",
+    "link": "https://www.macrumors.com/2026/08/20/chatgpt-imessages-mac/",
+    "content": "OpenAI today said there's a new Apple Messages plugin for ChatGPT, allowing ChatGPT on Mac to search messages, draft messages, analyze conversations, and send replies to people.\r\n\r\n\r\nThe Apple Messages plugin can be installed from the ChatGPT Plugins interface, and it is listed under Public. OpenAI suggests users try these prompts:\r\n\r\n \t\nCheck my calendar and reply to [name] with a few times I'm free for dinner next week\n\r\n \t\nSuggest follow ups from yesterday in messages\n\r\n \t\nFind birthdays in @messages and add them to my calendar\n\r\n \t\nFind potential spam messages I can delete\n\r\n\r\nRCS messages. Sending a message requires user approval by default, and OpenAI warns against granting persistent approval. For the Messages integration to work, ChatGPT needs Full Disk Access in System Settings, as well as access to contact names and automation tools.\r\n\r\nApple sued OpenAI over theft of trade secrets. \r\n\r\nTags: ChatGPT, OpenAI\nThis article, \"ChatGPT Can Now Read and Send iMessages on Mac\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-20T23:12:55.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac",
+    "id": 5381
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple reportedly lays off 60 Vision employees amid shifting priorities",
+    "link": "https://9to5mac.com/2026/08/20/apple-reportedly-lays-off-60-vision-employees-amid-shifting-priorities/",
+    "content": "AppleInsider reports that Apple “has just laid off an entire team dedicated to VR development,” with at least 60 employees reportedly affected. Here are the details.",
+    "pub_date": "2026-08-20T22:47:51.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 5382
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple Music's AI disclosure labels will soon be mandatory, rather than optional",
+    "link": "https://appleinsider.com/articles/26/08/20/apple-musics-ai-disclosure-labels-will-soon-be-mandatory-rather-than-optional?utm_source=rss",
+    "content": "AI-generated content in the Apple Music app may get easier than ever to spot, as record labels and distributors will be required to label it as such later in 2026.\n\n\nApple Music's AI disclosure tags will soon become mandatory.\nBack in March 2026, Apple introduced Transparency Tags for Apple Music. These are entirely optional disclosure labels, which were used to indicate that specific content was \"materially generated\" with the help of artificial intelligence.\nAt the time, Apple said it believed distributors should \"take an active role in reporting when the content they deliver is created using AI,\" and that its AI-focused tags were \"the first concrete step\" in the process. So far, however, Apple hasn't forced labels or distributors to label AI-generated content, but that might soon change.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-20T21:52:41.000Z",
+    "creator": "Marko Zivkovic <marko@appleinsider.com>",
+    "tags": "App Store,Services",
+    "id": 5385
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Layoffs in Apple's Vision Products Group prove slow progress in spatial computing",
     "link": "https://appleinsider.com/articles/26/08/20/layoffs-in-apples-vision-products-group-prove-slow-progress-in-spatial-computing?utm_source=rss",
-    "content": "A source has exclusively revealed to us that Apple has just laid off a significant number of people dedicated to VR development, which aligns with incoming CEO John Ternus reportedly putting the category \"on ice.\"\n\n\nApple Vision Pro development will slow as Apple focuses on smart glasses\nApple Vision Pro was a necessary product launched to let Apple develop visionOS in public. The category is expected to eventually result in a set of full AR glasses we've dubbed Apple Glass.\nAccording to a reliable source speaking to AppleInsider, Apple has laid off an unknown but significant number of employees tied to Apple's VR team, the Apple Vision Group, and similar positions. We've heard this tale before, and while this doesn't mean the end of Apple Vision Group, it is a sign of a cooling off for that category.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-20T21:05:57.000Z",
+    "content": "A source has exclusively revealed to us that Apple has just laid off an entire team dedicated to VR development, which aligns with incoming CEO John Ternus reportedly putting the category \"on ice.\"\n\n\nApple Vision Pro development will slow as Apple focuses on smart glasses\nApple Vision Pro was a necessary product launched to let Apple develop visionOS in public. The category is expected to eventually result in a set of full AR glasses we've dubbed Apple Glass.\nAccording to a reliable source speaking to AppleInsider, Apple has laid off at least 60 employees tied to Apple's VR team, the Apple Vision Group, and similar positions. We've heard this tale before, and while this doesn't mean the end of Apple Vision Group, it is a sign of a cooling off for that category.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-20T21:50:16.000Z",
     "creator": "Wesley Hilliard <wes@appleinsider.com>",
     "tags": "Vision",
     "id": 5375
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple bucks downward trend as reports show global smartphone shipment and sales declines",
+    "link": "https://9to5mac.com/2026/08/20/apple-bucks-downward-trend-as-reports-show-global-smartphone-shipment-and-sales-declines/",
+    "content": "Four Counterpoint Research reports published this week reveal drops in smartphone sales and shipments in India, Latin America, Europe, and China. Here are the reports.",
+    "pub_date": "2026-08-20T21:45:29.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 5383
   },
   {
     "source_name": "9to5Mac",
@@ -2958,45 +2998,5 @@
     "creator": "Mitchel Broussard",
     "tags": "General",
     "id": 4960
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "I love my Logitech mouse, but I finally deleted its bloated Mac app",
-    "link": "https://www.cultofmac.com/reviews/logi-options-plus-vs-bettermouse",
-    "content": "BetterMouse unlocks more control over my Logitech mouse without the bloat and resource demands of Logi Options+.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-16T12:45:03.000Z",
-    "creator": "Rajesh Pandey",
-    "tags": "Mac,App Store",
-    "id": 4959
-  },
-  {
-    "source_name": "Macworld",
-    "title": "iOS users, get a lifetime plant-care & identifier app for the price of a small succulent—just $20",
-    "link": "https://www.macworld.com/article/3212558/ios-users-get-a-lifetime-plant-care-identifier-app-for-the-price-of-a-small-succulent-just-20.html",
-    "content": "Macworld\n\n\n\n\n\nTL;DR: Plantum Premium is just $19.99 for life (reg. $59.99) and helps iPhone and iPad users identify plants, diagnose problems, and manage care routines.\nPlants are not great communicators. They wilt, develop mysterious spots, or turn yellow, then leave their owners to figure out what went wrong. Plantum turns an iPhone or iPad into a practical plant-care assistant for a one-time price of $19.99, down from $59.99.\nTake a photo, and the app can identify a plant from a database covering tens of thousands of species. It works with houseplants, garden favorites, trees, shrubs, succulents, vegetables, and wild plants.\nPlantum can also assess visible signs of disease and suggest possible treatments. Its care recommendations account for watering, soil, light, temperature, and other conditions that affect plant health.\nBuilt-in tools make those recommendations easier to follow. The Light Meter evaluates growing conditions, while the Pot Meter, Water Calculator, and Weather Tracker support everyday care decisions. Users can schedule reminders for watering, misting, feeding, and rotating plants instead of relying on memory.\nThe app also includes a plant journal and an expanding encyclopedia of articles, videos, tests, and practical care tips. Questions that require individual attention can be sent to Plantum’s in-house botanists for an additional fee.\nDon’t miss out on a lifetime of Plantum access for just $19.99 (reg. $59.99) on iOS.\n\nPlantum – AI Plant Identifier Premium Plan: Lifetime Subscription (For iOS Only)See Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-08-16T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,App Store,Services",
-    "id": 4951
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Pay $40 once to put a PDF editor and scanner in your pocket",
-    "link": "https://www.macworld.com/article/3212791/pay-40-once-to-put-a-pdf-editor-and-scanner-in-your-pocket.html",
-    "content": "Macworld\n\n\n\n\n\nTL;DR: This lifetime iScanner App lets you scan, edit, sign, protect, and export documents from an iOS or Android device for a one-time $39.99 (reg. $199.90).\nPhotographing a receipt usually produces a crooked image with your desk in the background. iScanner takes a more useful approach, turning an iPhone, iPad, or Android device into a portable scanner and document manager.\nLifetime access is $39.99 instead of $199.90 for a limited time.\nThe app scans contracts, tax forms, tickets, receipts, handwritten notes, assignments, IDs, passports, books, and multipage documents. Automatic border detection crops the page, while correction tools straighten curves and skewed scans.\nBuilt-in text recognition works in more than 20 languages. Finished documents can be exported as PDF, JPG, DOC, XLS, PPT, or TXT files.\nEditing tools correct color and remove visual noise. Users can add text, signatures, annotations, page numbers, footers, and watermarks. Sensitive information can be covered or blurred before a file is shared.\nThe file manager supports folders and drag-and-drop organization. Documents can be merged, split by page, or protected inside PIN-locked files and folders.\nAdditional modes solve equations, measure areas, count similar objects, and read QR codes. The app is also ad-free.\nThis lifetime offer is available only to new iScanner users on iPhone, iPad, and Android.\nGet lifetime access to the iScanner App for just $39.99 (reg. $199.90).\n\niScanner App: Lifetime SubscriptionSee Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-08-16T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,App Store,Services",
-    "id": 4952
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Indie App Spotlight: ‘Notepad.exe’ is an ultra-fast, lightweight code editor for your Mac",
-    "link": "https://9to5mac.com/2026/08/15/indie-app-spotlight-notepad-exe-is-an-ultra-fast-lightweight-code-editor-for-your-mac/",
-    "content": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nWriting a little bit of code shouldn’t be a hassle. Typically you have to set up a project and go through layers of menus before you can even start to write. Notepad.exe flips that script, and believes you should start with a blank file first, and figure out the project later – making it much easier to get your idea on paper.",
-    "pub_date": "2026-08-15T19:30:00.000Z",
-    "creator": "Michael Burkhardt",
-    "tags": "Mac,App Store",
-    "id": 4944
   }
 ]
