@@ -1,6 +1,86 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Astropad Workbench 1.3 adds faster streaming, privacy curtain, and more",
+    "link": "https://9to5mac.com/2026/08/19/astropad-workbench-1-3-adds-faster-streaming-privacy-curtain-and-more/",
+    "content": "Astropad has released Workbench 1.3, its largest update to the remote desktop app since the launch earlier this year. The release adds several tools for accessing unattended Macs, along with changes to performance and reliability.",
+    "pub_date": "2026-08-20T01:19:48.000Z",
+    "creator": "Zac Hall",
+    "tags": "App Store",
+    "id": 5291
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "PSA: ChatGPT outage is blocking users from logging in or creating new accounts [U: Fixed]",
+    "link": "https://9to5mac.com/2026/08/19/psa-chatgpt-outage-is-blocking-users-from-logging-in-or-creating-new-accounts/",
+    "content": "Update, 8:54 p.m. ET: OpenAI says the issue is now fully resolved. The original story follows below.\nOpenAI has confirmed that users are encountering errors when trying to log in to their accounts or create new ones. Here are the details.",
+    "pub_date": "2026-08-20T00:28:11.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 5292
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "EU Welcomes Apple's App Store Changes, Epic Slams 'Junk Fees'",
+    "link": "https://www.macrumors.com/2026/08/19/ec-epic-apple-app-store-changes/",
+    "content": "Apple yesterday updated its App Store fees in the EU to comply with the Digital Markets Act and to put an end to its ongoing conflict with the European Commission. Apple cut the Core Technology Fee and simplified its pricing structure, so apps distributed through alternative marketplaces or through the web will pay less than before.\r\n\r\n\r\nWhen announcing the changes, Apple said it worked in \"close collaboration\" with the EC, and that the updates would \"resolve Apple's disagreements with the Commission over business terms and alternative distribution.\"\r\n\r\nApp Store policies, giving a statement to the Irish Independent:\r\nThe Commission welcomes Apple's changes to their business terms, which follow a close dialogue between the Commission and Apple after the Commission issued a non-compliance decision related to Apple's steering terms as well as preliminary findings related to alternative app distribution, both in April 2025.\r\n\r\n\r\nThe EC says it will continue to monitor how Apple implements the new terms, which will go into effect on October 1.\r\n\r\nEpic Games was not happy with the new fee structure, denouncing the \"new junk fees.\" ‌Epic Games‌ said Apple's new terms do not comply with the Digital Markets Act and claimed if the EC accepts the terms, the DMA \"will become meaningless.\"\r\nApple announced new junk fees in the EU that do nothing to open up the mobile app ecosystem to competition, as required by Digital Market Act.\r\n\r\nApple will now charge:\r\n• 20% fee on alternative in-app payment options\r\n• 15% fee on links to make purchases outside apps\r\n• 5% Core Technology Commission on payments made in apps downloaded from alternative stores or the web\r\n\r\n\r\nUnder the new terms, ‌Epic Games‌ will need to pay a five percent Core Technology Commission on digital purchases made through its ‌Epic Games‌ Store on the iPhone and iPad in the EU. For an app distributed through the ‌App Store‌ with a link to purchase options, Epic would need to pay 15 percent.\r\n\r\nTags: App Store, Epic Games, Epic Games vs. Apple, European Commission, European Union\nThis article, \"EU Welcomes Apple's App Store Changes, Epic Slams 'Junk Fees'\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-20T00:16:25.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,App Store,Services",
+    "id": 5288
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Leaks reveal basically everything about Beats 360 headphones",
+    "link": "https://www.cultofmac.com/news/beats-360-headphones-leak",
+    "content": "Shopping site listings accidentally reveal key details about Apple's unannounced headphones. Here's what's in the Beats 360 leak.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-20T00:09:20.000Z",
+    "creator": "Lewis Wallace",
+    "tags": "Mac,Rumors",
+    "id": 5297
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Schlage Sense Pro review: UWB Home Key proves itself again on this sleek smart lock",
+    "link": "https://appleinsider.com/articles/26/08/20/schlage-sense-pro-review-uwb-home-key-proves-itself-again-on-this-sleek-smart-lock?utm_source=rss",
+    "content": "The Schlage Sense Pro is the latest smart lock to support Apple Home Key via Ultra Wideband, and while it's an impressive solution, it's largely an Apple-only lock at launch.\n\n\nSchlage Sense Pro review: Exterior view of the UWB-powered deadbolt\nUltra Wideband can automatically unlock your door as you approach, with greater reliability and performance than Bluetooth smart locks. So far, only one or two UWB smart locks have reached the market.\nThe Schlage Sense Pro, first shown off at CES 2026, is the latest. By all accounts, it could be the best yet.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-20T00:07:22.000Z",
+    "creator": "Andrew O'Hara <andrew@appleinsider.com>",
+    "tags": "General",
+    "id": 5294
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "AirPods with cameras not coming till 2027, won't take photos",
+    "link": "https://appleinsider.com/articles/26/08/19/airpods-with-cameras-not-coming-till-2027-wont-take-photos?utm_source=rss",
+    "content": "In spite of a recent demo video leaking, the AirPods with cameras are rumored to not be ready for release until 2027. Also, concerns over them becoming \"pervertpods\" can be set aside.\n\n\nAirPods with cameras won't be able to take photos\nAfter Apple accidentally leaked its own video of AirPods with cameras, speculation has been running wild. A new rumor suggests that the timeline for release hasn't shifted.\nAccording to a report from Bloomberg, Apple is expected to debut a set of AirPods Pro 4 with cameras. These earbuds won't be able to take photos and won't be announced until sometime in 2027 when product issues are resolved.\n\n Rumor Score: 🤯 Likely \n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-19T23:52:24.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "Rumors",
+    "id": 5295
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Camera-equipped AirPods reportedly won’t launch in 2026, despite demo video leak",
+    "link": "https://9to5mac.com/2026/08/19/camera-equipped-airpods-reportedly-wont-launch-in-2026-despite-demo-video-leak/",
+    "content": "Bloomberg reports that despite Apple’s accidental inclusion of a demo video showcasing Visual Intelligence on AirPods, the product “remains on track for 2027.” Here are the details.",
+    "pub_date": "2026-08-19T23:42:49.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Rumors",
+    "id": 5293
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple's Camera AirPods Not Launching Until 2027 Despite Leaked Video",
+    "link": "https://www.macrumors.com/2026/08/19/airpods-with-cameras-2027-launch/",
+    "content": "Apple's camera-equipped AirPods will not launch until 2027 despite the demo video MacRumors found earlier this week, reports Bloomberg's Mark Gurman.\r\n\r\n\r\nOn Monday, MacRumors shared a demo video featuring the camera-equipped AirPods in action. The video was hidden in the macOS Tahoe 26.7 release candidate, suggesting Apple was preparing for a launch. That's apparently not the case, and people familiar with the product told Gurman the AirPods with cameras aren't going to launch anytime soon.\r\n\r\nThe AirPods are not on Apple's 2026 release schedule because the company is still working to resolve supply chain and software challenges.\r\n\r\nan \"advanced\" testing stage with mass production to begin soon, and then in June, he said the AirPods had been delayed until late 2027.\r\n\r\nas soon as September. In that report, he clarified that there were two variants of the camera-equipped AirPods in the works, one with a B790 codename and one with a B798 codename. \"Apple famously creates competing versions of the same product internally,\" he wrote.\r\n\r\nversion of the AirPods Pro 3 with cameras, while the B798 model is a new generation of AirPods Pro with cameras. The B790 AirPods were shown off in the video, which featured a man holding a book up to the AirPods so Siri could read the title and save it for later.\r\n\r\nThe B790 model was apparently \"on the 2026 road map until recently,\" but Apple no longer plans to release it.\r\n\r\nVisual Intelligence features as demonstrated in the video. The AirPods cameras will not be able to capture photos and videos.\r\n\r\nRelated Roundups: AirPods 4, AirPods Pro 3\nBuyer's Guide: AirPods (Caution), AirPods Pro (Neutral)\nRelated Forum: AirPods\nThis article, \"Apple's Camera AirPods Not Launching Until 2027 Despite Leaked Video\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-19T23:42:46.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac",
+    "id": 5289
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "9to5Mac Daily: August 19, 2026 – Apple TV 4K rumors, Apple Maps ads",
     "link": "https://9to5mac.com/2026/08/19/daily-august-19-2026/",
     "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.",
@@ -2918,85 +2998,5 @@
     "creator": "Ben Lovejoy",
     "tags": "iOS",
     "id": 4837
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "iPhone Ultra, OpenAI's Alexa Dot, & AI costs on the AppleInsider Podcast",
-    "link": "https://appleinsider.com/articles/26/08/14/iphone-ultra-openais-alexa-dot-ai-costs-on-the-appleinsider-podcast?utm_source=rss",
-    "content": "The iPhone 18 Pro will be a powerhouse for photography while the iPhone Ultra will focus on the novelty of folding, your hosts discuss this and the AI competition in the latest AppleInsider Podcast.\n\n\nNew iPhones are just weeks away.\nApple's September event will focus on premium iPhone models, but not everything is known about these products just yet. Apple's pitch for iPhone 18 Pro will likely be around its advanced camera system while the foldable will have the obvious going for it.\nWhat is still up for debate, however, is the naming scheme for the foldable iPhone. AppleInsider took to calling it iPhone Fold as a placeholder that mimics Samsung's naming, but others chose \"iPhone Ultra.\"\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-14T11:47:36.000Z",
-    "creator": "Wesley Hilliard <wes@appleinsider.com>",
-    "tags": "iOS",
-    "id": 4827
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple has trained its own AI for China rather than using Gemini",
-    "link": "https://appleinsider.com/articles/26/08/14/apple-has-trained-its-own-ai-for-china-rather-than-using-gemini?utm_source=rss",
-    "content": "When Apple Intelligence launches in China, it will use a large language model made by Apple, instead of being based on either Google Gemini or the Chinese Qwen.\n\n\nApple Intelligence is coming to China\nThe Chinese version of Apple Intelligence will utilize Qwen, but according to Reuters, the main LLM will be one trained by Apple. The training was done in partnership with Alibaba, but this is still a departure from Apple predominantly adopting another firm's models.\nIn the US and most territories, Apple Intelligence uses Google Gemini technology, although its Foundation Models are still entirely Apple's. Apple has also offered ChatGPT extensions for Siri, but neither that nor Gemini or Anthropic's Claude are available in China.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-14T11:21:05.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "General",
-    "id": 4828
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "How to use Continuity to make your Apple devices work better together",
-    "link": "https://appleinsider.com/inside/icloud/tips/how-to-use-continuity-to-make-your-apple-devices-work-better-together?utm_source=rss",
-    "content": "Apple's OS 27 releases push Continuity beyond handoffs by carrying Siri conversations and live Mac content across supported devices. Here's where to find the new features and how to use them across your Apple devices.\n\nContinuity is the gluon that keeps the Apple quarks together\nSiri AI can synchronize conversation history across supported personal devices. Spatial Preview lets Mac apps send live documents and 3D content to Apple Vision Pro.\nBoth features preserve more of what the user was doing as the screen, controls and hardware change. Continuity is no longer limited to handing off a webpage, call or clipboard item.\nApple now uses Continuity to decide which trusted device can provide an activity, display, camera, connection, credential or piece of personal context. An Apple Account establishes ownership, while proximity and authentication determine which products can take part.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-14T11:18:26.000Z",
-    "creator": "Andrew Orr <andreworr@appleinsider.com>",
-    "tags": "Mac,Vision",
-    "id": 4829
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Macworld Podcast: Folding phones and the iPhone Ultra",
-    "link": "https://www.macworld.com/article/3200242/macworld-podcast-folding-phones-and-the-iphone-ultra.html",
-    "content": "Macworld\n\n\n\n\n\nWe are weeks away from the unveiling of what is likely to be called the iPhone Ultra, Apple’s first major change tot he iPhone form factor in ages and first folding phone ever. We’ve got our video product Adam Patrick Murray (who fans of The Full Nerd will recognize) filling in for Roman on vacation, and he’s the perfect match because he’s been a fan of, and using, folding Android phones for years now.\nWhile on the topic of advanced new iPhones, we bring up the 20th Anniversary iPhone expected to release next fall, when the iPhone turns 20. A financial analyst reported that the project had been cancelled, and a day later Bloomberg’s Mark Gurman (the most reliable source for unannounced Apple products) published an article to specifically refute that, saying it’s still on track.\nWe answer a few reader emails, too.\n\nWatch episode 995 on YouTube\n\n\n\n\n\nListen to episode 995 on Apple Podcasts\n\n\n\n\n\nTune in to episode 995 on Spotify\n\n\n\n\n\nGet info \nClick on the links below for more info on what was discussed on the show. \niPhone Ultra: Apple’s first folding iPhone design, display, and release rumors\nThe 20th anniversary all-glass iPhone might not happen after all\nReports of the 20th anniversary iPhone’s death seem to be greatly exaggerated\n\n\n\n\nComment Corner\n\n\nI’ve noticed on the show that you’ve mentioned a couple of times that you can’t develop apps on an iPad. That’s not quite right! The Swift Playgrounds app lets you create apps and share them on the App Store.\nCarlos Sola\nIt’s interesting that the 7” home hub is supposed to recognize and adapt to faces when Apple still refuses to allow multiple account on iPads. Do you think this will be specific to the “HomeHubOS” or do you think Apple will roll out multiple accounts to iPadOS as well?\nRegarding Apple Home, the answer to 90% of the home automation problems discussed is Home Assistant.\nDoug\n\n\n\n\n\nSubscribe to the Macworld Podcast\nYou can subscribe to the Macworld Podcast—or leave us a review!—right here in the Podcasts app. The Macworld Podcast is also available on Spotify and on the Macworld Podcast YouTube channel.  Or you can point your favorite podcast-savvy RSS reader at: https://feeds.megaphone.fm/macworld\nTo find previous episodes, visit Macworld’s podcast page or our home on MegaPhone.\n\nApple",
-    "pub_date": "2026-08-14T11:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,Rumors,App Store",
-    "id": 4835
-  },
-  {
-    "source_name": "Macworld",
-    "title": "How to save a video frame as a high-res image in iOS 27",
-    "link": "https://www.macworld.com/article/3211750/how-to-save-a-video-frame-as-a-high-res-image-in-ios-27.html",
-    "content": "Macworld\n\n\n\n\n\niOS 27 includes lots of useful improvements and tweaks to the Camera and Photos experience, and several of them revolve around making it easier to organize and find your big library of images.\nOne of the ways Apple is taking care of a common issue is in producing still images from videos. Prior to iOS 27, you’d have to use a special application or just freeze your video at the right spot and take a screenshot. But screenshots of videos are fraught with problems. The resolution is lower; you’ll see on-screen interface elements; black bars are shown; the format is PNG instead of HEIF; and the metadata classifies the image as a screenshot instead of a photo.\nWith iOS 27, Apple lets you save any frame from a video in your Photos collection as a new image in just a few taps. Here’s how.\nIn the Photos app, open one of your videos.\nUse the seek bar to advance to the part of the video you wish to save as an image, and pause.\nTap the tree-dot (…) menu in the upper right.\nSelect Save Video Frame as Photo.\n\nFoundry\n\n\n\n\nThis also works in the edit menu, when you’re trimming the ends of your video, cropping it, or adjusting colors. Just choose the three-dot menu, as before.\nNote that this new image will be in a normal photo format (HEIF or JPG, depending on your settings) rather than PNG like a screenshot. It will be the full resolution of your video. And it will inherit metadata from the original video, including date and location.\nThis means your new photo won’t appear at the bottom of your photo library with your most recent images. You’ll have to scroll back to the date of your video to find the image you created.",
-    "pub_date": "2026-08-14T11:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,App Store",
-    "id": 4843
-  },
-  {
-    "source_name": "Macworld",
-    "title": "The Apple Watch is forever square",
-    "link": "https://www.macworld.com/article/3211569/a-round-apple-watch-is-a-terrible-idea.html",
-    "content": "Macworld\n\n\n\n\n\nSince it first launched around a decade ago, the Apple Watch’s exterior design has largely stayed the same. Sure, we got larger displays, thinner bezels, and a slimmer body, but the overall look today still resembles that of the Apple Watch Series 0. Many online users, in fact, have voiced their frustration over the smartwatch’s slow evolution, with some even suggesting that Apple should spice things up and switch to a circular design.\nBe careful what you wish for. According to a recent report, Apple has internally explored several new designs, including a round model like the Pixel or Galaxy watches. While thinking differently to fuel innovation is always welcome, a round Apple Watch will almost certainly remain an unreleased prototype buried in a secret Cupertino basement. It just doesn’t work.\nIt’s not actually a watch\nLet me start with a potentially controversial statement: the Apple Watch is not actually a watch; it’s a miniature computer strapped to our wrists. While, yes, it was inspired by analog watches and can tell the time, its purpose and the technology it packs transcend that traditional formula.\nMechanical timepieces typically come in circular designs to match the standard clock layout, but that’s not applicable to Apple Watches (or digital watches in general). You don’t hear people complaining about vintage Casio digital watches for having squarish designs. Just because a wearable sits on our wrists doesn’t mean it has to look the same as a traditional wristwatch. It’s okay to break free from archaic concepts when they become irrelevant.\nAll your other computing devices are rectangular. Why should the Apple Watch be any dfifferent?\nMahmoud Itani / Foundry\n\n\n\n\nBack to the mini computer. Today, we’re surrounded by all sorts of computing machines. We’ve got laptops, tablets, smartphones, smart TVs, smart fridge displays, car infotainment systems, and so on. The vast majority of these displays are rectangular because we’ve come to the conclusion that it’s the most intuitive form factor for computer screens. The Apple Watch is no different.\nI’ve used round Android smartwatches, and they’re a nightmare to operate. The way text moves along the circle’s curved edges when scrolling makes reading messages deeply challenging, and the entire user experience is wonky. You wouldn’t want to use a round iPhone, let alone a round version of a much smaller accessory with limited screen real estate like a smartwatch.\nCorners are more important than you’d think\nBeyond the unintuitive UI/UX, adopting a round Apple Watch would come with hardware compromises. \nSwitching from a square to a circle while maintaining the same width/diameter would decrease the overall area by around 20%. The battery would have to shrink, along with the space that houses the smartwatch’s advanced sensors and health monitors. While they may seem insignificant, the Apple Watch’s corners actually play an integral role in its internal architecture.\nRound smartwatches (such as the Google Pixel Watch 4) are tricky to use and require numerous hardware compromises.\nChris Martin / Foundry\n\n\n\n\nThink about the Complications\nChopping off the corners would also affect one of the Apple Watch’s essential software features: Complications. \nMost circular Apple Watch faces let you utilize the unused display corners by adding custom Complications. This handy perk allows you to quickly glance at the weather conditions, your heart rate, today’s date, Activity rings, battery level, and more. You can also use the feature to effortlessly launch apps or run shortcuts. \nwatchOS has been carefully crafted to take full advantage of the rectangular design, and no part of the screen currently goes to waste.\nDefacing an icon\nIt goes without saying that moving from a rectangle to a circle would require redesigning the extensive watch face library. Some faces will have to be completely dropped, while others will work less effectively. More importantly, all first- and third-party apps will need to be fully overhauled to support the new design. \nIt would essentially require rebuilding the entire watchOS platform from the ground up, and that’s not something Apple is willing to do. The company strategically avoids shocking its users with transformative changes to fundamental elements in such a manner, especially when the change serves no constructive purpose.\nOn the contrary, Apple is bringing watchOS closer to iOS by adopting familiar user interfaces. Pre-installed Apple Watch apps now resemble their iPhone counterparts as far as is practical, featuring similar designs and more advanced functionality, further contributing to the smartwatch’s independence. In fact, all Apple platforms are en route to becoming tweaked iterations of each other, with OS 27 streamlining the design language through Liquid Glass. Apple won’t throw that all away.\nYou can kiss those beautiful faces goodbye.\nMahmoud Itani / Foundry\n\n\n\n\nIt’s an Apple Watch\nApart from the functional software and hardware downgrades, adopting a round design would weaken the Apple Watch brand. \nIts present look has become an iconic representation of its identity, just like Pro iPhones’ rear camera arrangement. Anyone who spots the rectangular screen and protruding Digital Crown recognizes it’s an Apple Watch. A circular model would simply vanish into a sea of generic, uninspired round smartwatches; Apple would never let that happen.",
-    "pub_date": "2026-08-14T10:30:00.000Z",
-    "creator": "Macworld",
-    "tags": "iOS",
-    "id": 4836
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Trained Own AI Model for China Market With Help From Alibaba",
-    "link": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
-    "content": "Reuters reports that Apple has trained its own large language model for the China market, rather than relying on a third-party model to power its Apple Intelligence features in the country.\r\n\r\n\r\nThe LLM has been developed with the help of Alibaba, according to the report's sources. The development marks a break from Apple's previous strategy of relying on domestic models to bring generative AI to its devices sold in China.\r\n\r\nRollout of its AI features in China is expected in the coming months. The rollout is described by the report as a \"dual-track strategy\" for AI deployment in China, allowing Apple to navigate regulatory hurdles that have limited access for other U.S. tech companies.\r\n\r\nThe move makes Apple the first foreign company approved by the Chinese government to offer a proprietary AI model in the country.\r\n\r\nbriefly published a support guide in China explaining how Mac users can connect Alibaba's Qwen AI to Siri and Writing Tools, before pulling it entirely less than a day later.\nTags: Apple Intelligence, China\nThis article, \"Apple Trained Own AI Model for China Market With Help From Alibaba\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-14T09:46:29.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "Mac",
-    "id": 4819
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Grab this Touch Bar MacBook Pro for $267 while refurbs last",
-    "link": "https://www.macworld.com/article/3211706/grab-this-touch-bar-macbook-pro-for-267-while-refurbs-last.html",
-    "content": "Macworld\n\n\n\n\n\nTL;DR: A refurbished 13-inch MacBook Pro with Touch Bar is on sale for $267.99 (reg. $1,499), packing an Intel Core i5, 8GB of RAM, and a 512GB SSD.\nNot every Mac purchase needs to be a brand-new M-series machine, and this deal is proof. This Grade A refurbished 2017 MacBook Pro brings the Touch Bar era back for a fraction of its original price, and it still holds up for everyday use.\nThe 3.1GHz dual-core Core i5 chip (Turbo Boost to 3.5GHz) paired with 8GB of RAM handles browser tabs, docs, and light multitasking without complaint, while the 512GB SSD leaves plenty of room for apps, photos, and projects.\nThe 13.3-inch Retina display still looks sharp at 2560×1600, and four Thunderbolt 3 ports mean you’re not hunting for a dongle every time you want to charge or plug in an external drive. Touch ID handles logins and Apple Pay, and the whole thing weighs just over three pounds, so it travels well.\nAt $267.99 versus the original $1,499 price tag, it’s a low-risk way to get a legit Mac laptop for a backup machine, a kid heading to school, or a second computer for the home office.\nGet this MacBook Pro with Touch Bar for $267.99 (reg. $1,499) while supplies last.\n\nApple Macbook Pro (2017) 13″ i5 3.1GHz Touchbar 8GB RAM 512GB SSD Space Grey (Refurbished)See Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-08-14T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,Services",
-    "id": 4825
   }
 ]
