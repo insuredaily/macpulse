@@ -1,6 +1,26 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Epic accuses Apple of sidestepping App Store antitrust deal in Brazil",
+    "link": "https://9to5mac.com/2026/08/21/epic-accuses-apple-of-sidestepping-app-store-antitrust-deal-in-brazil/",
+    "content": "Apple has until Monday to respond to a complaint Epic Games filed with Brazil’s antitrust watchdog, where it accuses the company of adopting restrictive interpretations of its obligations under a recent App Store antitrust deal in the country. Here are the details.",
+    "pub_date": "2026-08-21T21:20:58.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "App Store",
+    "id": 5491
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple Watch Series 12 and Ultra 4 to get one big upgrade at perfect time",
+    "link": "https://9to5mac.com/2026/08/21/apple-watch-series-12-and-ultra-4-to-get-one-big-upgrade-at-perfect-time/",
+    "content": "Apple Watch Series 12 and Ultra 4 are launching next month, and rumors indicate they’ll pack a big upgrade—a new, more powerful chip—that will arrive at just the right time.",
+    "pub_date": "2026-08-21T20:53:21.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 5492
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "When is Apple Pay coming to your Walmart? Here’s the full schedule",
     "link": "https://9to5mac.com/2026/08/21/when-is-apple-pay-coming-to-your-walmart-heres-the-full-schedule/",
     "content": "Earlier today, Walmart officially announced it will finally start rolling out Apple Pay after holding out for more than a decade.\nWhen will Apple Pay come to your Walmart location? I got my hands on the full launch plan with all that information…",
@@ -2978,25 +2998,5 @@
     "creator": "Macworld",
     "tags": "Mac,iOS,Vision,Silicon,App Store,Services",
     "id": 5080
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iPhone 18 Pro and iPhone Ultra: New Details Leak as Apple Event Nears",
-    "link": "https://www.macrumors.com/2026/08/17/iphone-18-pro-and-iphone-ultra-rumors/",
-    "content": "\"iPhone Ultra\" supply will be very limited when the foldable device is first released later this year, according to Fixed Focus Digital, a known leaker on the Chinese social media platform Weibo.\r\n\r\nalso claimed that the iPhone 18 Pro's A20 Pro chip will be up to 18% faster and up to 30% more power efficient compared to the iPhone 17 Pro's A19 Pro chip. The A20 Pro chip will be the first iPhone chip manufactured with TSMC's 2nm process, rather than the current 3nm process.\r\n\r\nRelated Roundups: iPhone 18 Pro, iPhone Fold\nTags: Apple Event, Fixed Focus Digital, iPhone Ultra\nThis article, \"iPhone 18 Pro and iPhone Ultra: New Details Leak as Apple Event Nears\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-17T18:46:58.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "iOS,Rumors,Silicon",
-    "id": 5063
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Apple squashes iPhone and Mac security bugs with latest OS updates",
-    "link": "https://www.cultofmac.com/news/ios-26-6-1-security-update-iphone-ipados",
-    "content": "Apple released iOS 26.6.1 and macOS Tahoe 26.6.2, small but important updates focused on security. iPadOS 26.6.1 is out, too.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-17T18:43:33.000Z",
-    "creator": "Ed Hardy",
-    "tags": "Mac,iOS",
-    "id": 5083
   }
 ]
