@@ -1,5 +1,15 @@
 [
   {
+    "source_name": "MacRumors",
+    "title": "Camera AirPods Code Reveals Image Capture Resolution, Status Light, Person Detection, and More",
+    "link": "https://www.macrumors.com/2026/08/21/camera-airpods-code-reveals-hardware-details/",
+    "content": "Apple is working on camera-equipped AirPods, as indicated by various reports and a demo video of them in action discovered earlier this week. The video was found by MacRumors in the macOS Tahoe 26.7 release candidate, but it turns out there are even more details in the code.\r\n\r\n\r\nMacRumors forum member mactracker has discovered a hidden macOS framework called \"AccessorySensorManager\" that manages sensor data from the AirPods when they are connected to a Mac. That's turned up the following information:\r\n\r\n\r\nAirPods designed to capture paired color images: Code indicates the left and right earbuds have individual camera sensors that return synchronised RGB still images of up to 1 megapixel with matching frame IDs, giving Visual Intelligence the same scene from two angles. This doesn't rule out other sensors like infrared cameras, but they aren't mentioned in the code.\n\r\n\r\nAirPods support periodic image capture but not video: The cameras take internal still frames for Visual Intelligence to process, rather than \"taking pictures\" or recording video. In \"active\" mode, the framework can request a synced pair of images, or it can receive a capture rate, where pairs of stills are continually sent at the specified rate.\n\r\n\r\nActive and passive capture modes use different resolutions: In \"active\" mode, likely triggered by the user via Siri, the AirPods capture a 640x640 image and return a processed 1024x1024 image. \"That's about 0.4 megapixels of sampled image data, and a little over 1 megapixel for the output frame,\" mactracker explains. In \"passive\" mode, they capture a 320x320 image that can return a 320×320 or 512×512 output. \"These are capture-specific resolutions, and the physical sensor's native resolution may be larger,\" adds mactracker.\n\r\n\r\nPassive mode appears intended for background environmental awareness: The framework mentions contextual conditions like nearby speech, changes in the surrounding audio, posture changes, head rotation, and movement outside a defined area. It's not clear from the code whether every condition triggers a camera capture.\n\r\n\r\nAirPods account for continual head movement: The framework includes lens distortion correction, dual-camera calibration, and camera-to-motion sensor calibration. It can also reject images affected by excessive movement or an occluded view.\n\r\n\r\nSome processing happens directly on AirPods: The code mentions \"peripheral inference,\" or on-device detection of whether a person is in view.\n\r\n\r\nEach AirPod likely has a capture indicator light: The framework contains code that allows it to remotely control a hardware indicator and its brightness, suggesting the AirPods have a light to let other people know when they are capturing still images.\n\r\n\r\nBloomberg's Mark Gurman has said that Apple no longer plans to release this model, and instead is working on a new generation of AirPods with cameras, codenamed B798. This makes it likely that the discovered framework is related to the canceled model. It also underlines that the findings show how Apple's camera-equipped AirPods could work, rather than a guarantee of the final product's features.\r\n\r\nRelated Roundup: AirPods 4\nBuyer's Guide: AirPods (Caution)\nRelated Forum: AirPods\nThis article, \"Camera AirPods Code Reveals Image Capture Resolution, Status Light, Person Detection, and More\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-21T09:32:05.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "Mac",
+    "id": 5403
+  },
+  {
     "source_name": "Macworld",
     "title": "Apple smart glasses: Everything you need to know",
     "link": "https://www.macworld.com/article/3117710/apple-smart-glasses-release-date-specs-features-price.html",
@@ -2988,15 +2998,5 @@
     "creator": "Hartley Charlton",
     "tags": "iOS,App Store,Services",
     "id": 4982
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Replace monthly bills with 10TB of Internxt lifetime cloud storage for just $269.97",
-    "link": "https://www.macworld.com/article/3212799/replace-monthly-bills-with-10tb-of-internxt-lifetime-cloud-storage-for-just-269-97.html",
-    "content": "Macworld\n\n\n\n\n\nTL;DR: Pay just $269.97 once for lifetime access to 10TB of encrypted Internxt Drive storage (reg. $2,900).\nDeleting old photos, videos, and work files requires decision-making energy. Buying 10TB of cloud storage does not. Internxt is offering new users lifetime access to its 10TB Drive plan for $269.97 (reg. $2,900) through Aug. 25.\nFiles are end-to-end encrypted before leaving the device, so Internxt cannot read or access their contents. Post-quantum zero-knowledge encryption provides additional protection designed for future computing threats.\nInternxt works across Windows, macOS, Linux, Android, iOS, and web browsers. Files can be uploaded, synced, accessed, and shared from unlimited devices. During transfers, encrypted data is divided into smaller pieces to keep intercepted information unreadable.\nThe service is open-source, with its code published on GitHub. It is also GDPR compliant and independently audited by Securitum.\nThe scope of this plan is specific. It includes 10TB of encrypted Internxt Drive storage and standard sharing. It does not include Mail, Meet, CLI, WebDAV, Cleaner, backups, password-protected sharing, advanced sharing, AI, file versioning, or antivirus.\nFor those who need substantial private storage — not a broader software bundle — this one-time plan is a smart alternative to recurring cloud fees.\nGet lifetime access to 10TB of Internxt Cloud Storage for $269.97 (reg. $2,900) through Aug. 25.\n\nInternxt Cloud Storage Lifetime Subscription: 10TB PlanSee Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-08-17T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS,Services",
-    "id": 4988
   }
 ]
