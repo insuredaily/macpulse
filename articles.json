@@ -1,6 +1,56 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Apple lays off 200+ people across Vision Pro and Siri teams",
+    "link": "https://9to5mac.com/2026/08/21/apple-lays-off-200-people-across-vision-pro-and-siri-teams/",
+    "content": "Apple is cutting jobs across multiple teams, according to a new Bloomberg report. All told, the company has cut more than 200 jobs across teams working on Vision Pro, Siri, and software engineering.",
+    "pub_date": "2026-08-21T19:17:51.000Z",
+    "creator": "Chance Miller",
+    "tags": "Vision",
+    "id": 5477
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Guts Vision Pro Gaming and Immersive Video Teams, Trims Siri Staff",
+    "link": "https://www.macrumors.com/2026/08/21/apple-guts-vision-pro-teams/",
+    "content": "In addition to cutting dozens of Vision Pro employees who worked on features like immersive video and gaming, Apple is laying off people who worked on Siri and AI, reports Bloomberg.\r\n\r\n\r\nApple is \"largely shutting down\" the Vision Pro team focused on gaming, and it is paring down the team that makes immersive video content. Approximately 100 employees who were part of the Vision Products Group have been laid off, with Apple also cutting 100 people from its ‌Siri‌ and software groups.\r\n\r\nBloomberg says the immersive videos Apple produces can cost millions of dollars to film, and it has not been cost-effective because so few people actively use the device. Apple plans to make a smaller number of videos in-house and rely on third-party 3D content.\r\n\r\nOn the ‌Siri‌ team, Apple is creating new positions for the shift to ‌Siri‌ AI and prioritizing work on AI features.\r\n\r\nBloomberg that it is overhauling some of its teams to \"evolve\" its business and deliver a better experience for customers. Affected employees will be able to apply for other positions at Apple.\r\nWhile we will create new roles as part of this change, it will also impact a limited number of existing roles. We are grateful to these team members for their contributions, and we are committed to supporting them throughout their transition, including opportunities to apply for other roles at Apple.\n\r\nDespite the cuts to the Vision Products Group, employees were told that the Vision Pro and visionOS operating system are not being eliminated. Apple continues to work on AI smart glasses expected in 2027, but that device will not support 3D gaming or video.\nRelated Roundup: Apple Vision Pro\nTag: Siri\nBuyer's Guide: Vision Pro (Neutral)\nRelated Forum: Apple Vision Pro\nThis article, \"Apple Guts Vision Pro Gaming and Immersive Video Teams, Trims Siri Staff\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-21T19:16:26.000Z",
+    "creator": "Juli Clover",
+    "tags": "Vision",
+    "id": 5476
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple's latest layoffs extend past just Vision Pro development teams",
+    "link": "https://appleinsider.com/articles/26/08/21/apples-latest-layoffs-extend-past-just-vision-pro-development-teams?utm_source=rss",
+    "content": "A day after we broke the news of about 60 layoffs across the Apple Vision project, there are reportedly more in the Siri team too.\n\n\nSiri AI gets to live in this orb on Wes' desk\nCiting people familiar with the matter, the same as we did, Mark Gurman from Bloomberg has exposed more layoffs inside Apple. This time, beyond the Apple Vision team, Apple is also laying off staff on its Siri team.\nAll told, including Apple Vision Immersive Video, Apple Vision gaming, and Siri, there are about 200 layoffs in total.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-21T19:14:47.000Z",
+    "creator": "Mike Wuerthele <mike@appleinsider.com>",
+    "tags": "Vision",
+    "id": 5480
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "HomeKit Weekly: Homey secures Matter 1.5 certification to expand bridging and energy support",
+    "link": "https://9to5mac.com/2026/08/21/homekit-weekly-homey-secures-matter-1-5-certification-to-expand-bridging-and-energy-support/",
+    "content": "Athom has announced that it has officially achieved Homey Pro mini, and the Homey Self Hosted Server. This update brings important upgrades for both native device integration and cross-platform device bridging.",
+    "pub_date": "2026-08-21T18:52:00.000Z",
+    "creator": "Bradley C",
+    "tags": "General",
+    "id": 5478
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iPadOS 27 adds three features to make iPad more like the Mac",
+    "link": "https://9to5mac.com/2026/08/21/ipados-27-adds-three-features-to-make-ipad-more-like-the-mac/",
+    "content": "iPadOS and macOS used to be very different software platforms. But especially since iPadOS 26, the two have become a lot more alike. And that’s even more true this year, with iPadOS 27 adding three features that make the iPad more Mac-like than ever.",
+    "pub_date": "2026-08-21T18:50:16.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "Mac,iOS",
+    "id": 5479
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Grok Bot is an all-new iPhone and Mac app from SpaceXAI and Cursor [U]",
     "link": "https://9to5mac.com/2026/08/21/grok-bot-is-an-all-new-iphone-and-mac-app-from-spacexai-and-cursor/",
     "content": "SpaceXAI and Cursor are in the process of becoming a single company, but first, the two firms are releasing an all-new iPhone and Mac app called Grok Bot.",
@@ -2948,55 +2998,5 @@
     "creator": "Malcolm Owen <malcolm@appleinsider.com>",
     "tags": "iOS",
     "id": 5075
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "macOS 27 Golden Gate beta 6 features redesigned traffic light window controls",
-    "link": "https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-features-redesigned-traffic-light-window-controls/",
-    "content": "macOS 27 Golden Gate beta 6 introduces redesigned traffic light window controls. The new look resembles older Mac OS X systems with more detail in each button.",
-    "pub_date": "2026-08-17T18:05:28.000Z",
-    "creator": "Zac Hall",
-    "tags": "Mac",
-    "id": 5070
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple rolls out Release Candidates for macOS Tahoe 26.7 and macOS Sequoia 15.8 [U]",
-    "link": "https://9to5mac.com/2026/08/17/apple-rolls-out-release-candidates-for-macos-tahoe-26-7-and-macos-sequoia-15-8/",
-    "content": "Update, 6:18 p.m. ET: Apple has now also released public RCs for macOS Tahoe 26.7 and macOS Sequoia 15.8, with the same build numbers as the developer RCs listed below.\nAlongside macOS 27 developer beta 6, Apple also released the first RCs for macOS Tahoe 26.7 and macOS Sequoia 15.8. Here are the details.",
-    "pub_date": "2026-08-17T17:52:28.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Mac,App Store",
-    "id": 5071
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple releases iOS 26.6.1 for iPhone, here’s what’s new",
-    "link": "https://9to5mac.com/2026/08/17/apple-releases-ios-26-6-1-for-iphone-heres-whats-new/",
-    "content": "Apple has just released iOS 26.6.1, a new software update for iPhone. Here’s what’s new.",
-    "pub_date": "2026-08-17T17:36:42.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 5072
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple releases beta 6 for iPadOS 27, tvOS 27, and more",
-    "link": "https://9to5mac.com/2026/08/17/apple-releases-beta-6-for-ipados-27-tvos-27-and-more/",
-    "content": "Beta 6 is rolling out now for iPadOS 27, tvOS 27, watchOS 27, HomePod 27, and more, as Apple’s latest wave of developer betas brings the new software closer to launch.",
-    "pub_date": "2026-08-17T17:22:59.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS,App Store",
-    "id": 5049
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "macOS 27 Golden Gate developer beta 6 now available to developers",
-    "link": "https://9to5mac.com/2026/08/17/macos-27-golden-gate-developer-beta-6-now-available-to-developers/",
-    "content": "After a rare three-week hiatus between macOS developer betas 4 and 5, Apple has now rolled out beta 6 just a week after last Monday’s build. Here’s what to expect.",
-    "pub_date": "2026-08-17T17:19:01.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Mac,App Store",
-    "id": 5050
   }
 ]
