@@ -1,5 +1,15 @@
 [
   {
+    "source_name": "Cult of Mac",
+    "title": "ChatGPT can now handle your iMessages, SMS and RCS texts",
+    "link": "https://www.cultofmac.com/news/chatgpt-can-now-handle-your-imessages-sms-and-rcs-texts",
+    "content": "ChatGPT’s new Messages plugin can find details buried in old conversations and send replies through your Mac.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-21T05:23:46.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac",
+    "id": 5395
+  },
+  {
     "source_name": "9to5Mac",
     "title": "‘The Dynasty: UConn Huskies’ now available to stream on Apple TV",
     "link": "https://9to5mac.com/2026/08/20/the-dynasty-uconn-huskies-now-available-to-stream-on-apple-tv/",
@@ -2988,15 +2998,5 @@
     "creator": "Michael Burkhardt",
     "tags": "iOS",
     "id": 4978
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Today in Apple history: PowerBook 165 becomes Apple’s most affordable laptop",
-    "link": "https://www.cultofmac.com/apple-history/powerbook-165",
-    "content": "On August 16, 1993, Apple shipped the PowerBook 165. It lacked a color screen, but came with a relatively small price tag of $1,970.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-16T17:12:11.000Z",
-    "creator": "Luke Dormehl",
-    "tags": "Mac",
-    "id": 4976
   }
 ]
