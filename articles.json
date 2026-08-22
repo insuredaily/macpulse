@@ -1,5 +1,15 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "ChatGPT’s iPhone app gets a handy shortcut to attach recent photos more quickly",
+    "link": "https://9to5mac.com/2026/08/21/chatgpts-iphone-app-gets-a-handy-shortcut-to-attach-recent-photos-more-quickly/",
+    "content": "Users who rely on ChatGPT for quick visual searches can now add photos to a conversation more quickly with a new gesture. Here’s how.",
+    "pub_date": "2026-08-21T23:50:13.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS,App Store",
+    "id": 5499
+  },
+  {
     "source_name": "MacRumors",
     "title": "10 Ways to Improve Your iPhone's Battery Life",
     "link": "https://www.macrumors.com/guide/iphone-battery-life-10-tips/",
@@ -2988,15 +2998,5 @@
     "creator": "Joe Rossignol",
     "tags": "iOS,Services",
     "id": 5061
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Here’s what’s new with iOS and macOS 27 beta 6",
-    "link": "https://9to5mac.com/2026/08/17/heres-whats-new-with-ios-27-beta-6/",
-    "content": "Apple released iOS 27 beta 6 today, giving developer beta testers the next preview update since iOS 27 debuted at WWDC. Developer beta testers can download the new beta now.\niOS 27 is a major iPhone update centered around Siri AI, Apple Intelligence, Liquid Glass refinements, and a long list of quality-of-life changes. Here’s what we’ve found so far in iOS 27 beta 6.",
-    "pub_date": "2026-08-17T19:00:00.000Z",
-    "creator": "Zac Hall",
-    "tags": "Mac,iOS,App Store",
-    "id": 5067
   }
 ]
