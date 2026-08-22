@@ -1,5 +1,15 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Weekend Apple deals: $500 off MacBook Pro, AirPods Pro 3, AirPods Max 2 $120 off, AirTag 2, more",
+    "link": "https://9to5mac.com/2026/08/22/weekend-apple-deals-macbook-pro-airpods-pro-3/",
+    "content": "Alongside the final AirPods Max 2 at $120 off and the return of all-time low pricing on AirTag 2. \nThose discounts join a big-time $500 price drop on M5 Pro MacBook Pro, the lowest prices around on MacBook Neo and M5 MacBook Air courtesy of the official Apple Certified Refurbished Store, Apple Watch Series 11 at $100 off, and ongoing deals on both iPhone 17 Pro and iPhone Air. Scope it out below.",
+    "pub_date": "2026-08-22T12:17:11.000Z",
+    "creator": "Justin Kahn",
+    "tags": "Mac,iOS,Silicon",
+    "id": 5506
+  },
+  {
     "source_name": "Macworld",
     "title": "Immerse yourself in your music with these Beats Solo 4 headphones for just $90",
     "link": "https://www.macworld.com/article/3217223/immerse-yourself-in-your-music-with-these-beats-solo-4-headphones-for-just-90.html",
@@ -2988,15 +2998,5 @@
     "creator": "Marko Zivkovic <marko@appleinsider.com>",
     "tags": "Mac,App Store",
     "id": 5073
-  },
-  {
-    "source_name": "Macworld",
-    "title": "macOS Tahoe 26.6.1 fixed a pretty major screen-sharing flaw",
-    "link": "https://www.macworld.com/article/3214311/macos-tahoe-26-6-1-fixed-a-pretty-major-screen-sharing-flaw.html",
-    "content": "Macworld\n\n\n\n\n\nA recent report by the security firm Calif provides details for a security patch that was included in the macOS Tahoe 26.6.1 update released last week. Apple also released macOS 15.7.9 and 14.8.9 updates that provide the same security fix.\nWhile Apple’s release notes state that through the vulnerability, “an attacker on the network may be able to authenticate to Screen Sharing without valid credentials,” Apple doesn’t usually provide details on any found security hole, leaving the explanation to the researchers and others. In this case, the inner workings of the vulnerability were discussed at the Black Hat conference last week.\nScreen sharing is a built-in macOS feature that’s quite useful for administering multiple Macs on a network. From one Mac, a user with the proper credentials can log on to another Mac. Screen sharing displays the remote Mac’s desktop as a window on the user’s display.\nHowever, screen sharing had an authentication issue that involved improper state management during authentication. This allowed unauthorized users to try to log on. In its own report, the National Cyber Security in the Netherlands reported that “port 5900 was accessible from the internet.” Port 5900 refers to the TCP port in macOS for screen sharing.\nIf you are a frequent user of macOS’s screen sharing, it’s important to install the update to patch this vulnerability. Since the update contains only the security fix, it won’t take too long to install, but you will need to restart the Mac.\nMacworld has several guides to help, including a guide on whether or not you need antivirus software, a list of Mac viruses, malware, and trojans, and a comparison of Mac security software.",
-    "pub_date": "2026-08-17T19:26:27.000Z",
-    "creator": "Macworld",
-    "tags": "Mac",
-    "id": 5079
   }
 ]
