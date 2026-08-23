@@ -1,5 +1,15 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "Crime blotter: Bail revoked in Hingham Apple Store crash case",
+    "link": "https://appleinsider.com/articles/26/08/23/crime-blotter-bail-revoked-in-hingham-apple-store-crash-case?utm_source=rss",
+    "content": "iPhones stolen in San Francisco ended up in Los Angeles; an iPhone and MacBook were seized from a disgraced ex-Congressman, and police arrested a man for AirTag stalking, all in this week's Apple Crime Blotter.\n\n\nThe Apple Store in Hingham, Mass. \nThe latest in an occasional AppleInsider feature, looking at the world of Apple-related crime.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-23T11:14:46.000Z",
+    "creator": "Stephen Silver <stephen@appleinsider.com>",
+    "tags": "Mac,iOS",
+    "id": 5533
+  },
+  {
     "source_name": "Macworld",
     "title": "Protect yourself online for 5 years with this $35 AdGuard VPN subscription",
     "link": "https://www.macworld.com/article/3217226/protect-yourself-online-for-5-years-with-this-35-adguard-vpn-subscription.html",
@@ -2988,15 +2998,5 @@
     "creator": "Juli Clover",
     "tags": "Mac,iOS",
     "id": 5098
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple: DOJ’s latest challenge in antitrust case ‘fails at every level’",
-    "link": "https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/",
-    "content": "Apple is pushing back against the Department of Justice’s bid to overturn a court decision allowing the company to seek documents from more than a dozen federal agencies. Here are the details.",
-    "pub_date": "2026-08-18T00:56:51.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 5100
   }
 ]
