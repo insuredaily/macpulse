@@ -1,6 +1,46 @@
 [
   {
     "source_name": "AppleInsider",
+    "title": "Some people outside of Apple have already used the folding iPhone",
+    "link": "https://appleinsider.com/articles/26/08/23/some-people-outside-of-apple-have-already-used-the-folding-iphone?utm_source=rss",
+    "content": "The iPhone Ultra may actually live up to the hype, as people who have tried pre-release versions of the model indicate it will be worthy of its hyper-premium price.\n\n\nA render of what the iPhone Ultra could look like - Image Credit: AppleInsider\nApple is widely expected to be launching its first foldable smartphone in September, under what is believed to be called the iPhone Ultra. However, while it will ship with a more premium price than a typical Pro-grade iPhone, it seems that it may actually be worth it.\nIn Sunday's \"Power On\" newsletter for Bloomberg, Mark Gurman says he has spoken to multiple people who have tried out the inbound foldable. Based on what they say, it seems like it will offer a lot to potential buyers.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-23T14:24:56.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS,Rumors",
+    "id": 5536
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "It's anyone's guess how high iPhone prices might go, but $100 might be enough",
+    "link": "https://appleinsider.com/articles/26/08/23/its-anyones-guess-how-high-iphone-prices-might-go-but-100-might-be-enough?utm_source=rss",
+    "content": "Apple has already raised prices on Macs and iPads to absorb the costs of increased RAM costs, but an iPhone price hike is still expected. The competition may have provided a hint as to how much.\n\n\nPrices haven't moved for the iPhone 17 lineup, but almost certainly will for iPhone 18\nPrices went up across many product lines, including ones like Apple TV, Apple Vision Pro, and Mac to compensate for the AI-induced RAM  shortage. Only the iPhone remained untouched by price hikes, but new premium devices launching in September will almost definitely see higher prices.\nAccording to the \"Power On\" newsletter from Bloomberg, Apple's competition could provide a hint about where iPhone prices might go. It's all guesswork with no indication of knowledge of Apple's actual plans, but the idea works simply because of the volumes Apple sells iPhones at.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-23T14:22:51.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "Mac,iOS,Vision",
+    "id": 5537
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "AirTag 2 4-Pack Hits New Low Price of $85 on Amazon",
+    "link": "https://www.macrumors.com/2026/08/23/airtag-2-85-amazon/",
+    "content": "Apple's AirTag 2 is on sale for $85.00 this weekend on Amazon, down from $99.00. This deal is on the 4-Pack of the AirTag 2, and it's a new record low price for the accessory, beating the previous low by about $4.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n$24.00, down from $29.00. This is another record low price on the AirTag 2, and both have estimated delivery dates of August 28.\r\n\r\n\n$5 OFF\nAirTag 2 (1-Pack) for $24.00\n\n\r\n\n$14 OFF\nAirTag 2 (4-Pack) for $85.00\n\n\r\n\r\nThe new AirTag is equipped with a second-generation Ultra Wideband chip, enabling the Precision Finding feature to work up to 50% farther away from an item compared to the previous-generation model. \r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"AirTag 2 4-Pack Hits New Low Price of $85 on Amazon\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-23T13:52:53.000Z",
+    "creator": "Mitchel Broussard",
+    "tags": "General",
+    "id": 5535
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Why you should never put a wet iPhone in a bowl of rice",
+    "link": "https://www.cultofmac.com/how-to/wet-iphone-fix-bowl-of-rice",
+    "content": "Drop your iPhone in water? Don't panic! But also don't grab a bowl of dry rice. Here's what to do about your wet iPhone instead. \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-23T13:45:11.000Z",
+    "creator": "Ed Hardy",
+    "tags": "Mac,iOS",
+    "id": 5540
+  },
+  {
+    "source_name": "AppleInsider",
     "title": "Crime blotter: Bail revoked in Hingham Apple Store crash case",
     "link": "https://appleinsider.com/articles/26/08/23/crime-blotter-bail-revoked-in-hingham-apple-store-crash-case?utm_source=rss",
     "content": "iPhones stolen in San Francisco ended up in Los Angeles; an iPhone and MacBook were seized from a disgraced ex-Congressman, and police arrested a man for AirTag stalking, all in this week's Apple Crime Blotter.\n\n\nThe Apple Store in Hingham, Mass. \nThe latest in an occasional AppleInsider feature, looking at the world of Apple-related crime.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
@@ -2958,45 +2998,5 @@
     "creator": "Macworld",
     "tags": "Mac,Services",
     "id": 5119
-  },
-  {
-    "source_name": "Macworld",
-    "title": "How to shut down, restart or force restart an iPhone or iPad",
-    "link": "https://www.macworld.com/article/672683/how-to-restart-an-iphone-or-ipad.html",
-    "content": "Macworld\n\n\n\n\n\nIn this tutorial we show how to shut down, restart and reboot an iPhone or iPad. That old IT standby: turn it off and on again, can be an effective solution if your Apple device has frozen or slowed down, or is otherwise malfunctioning.\nThe way you restart or reboot depends a bit on the model you’ve got, although most recent devices use the same method. We will explain the steps you need to take to turn off and restart an iPhone or iPad below, as well as what to do if your iPhone or iPad is frozen and won’t let you restart in the standard way. \nHow to shut down an iPhone or iPad – At a glance\n\n\nHow to shut down an iPhone or iPad via Control CentreThe easiest way to turn off an iPhone or iPad (in iOS 18 or later) is to swipe down from the right corner to open Control Centre and tap on the Close icon in the top right. You will then see the slider to shut down the iPhone. Swipe this to shut down the iPhone. \nHow to shut down an iPhone or iPad that has Face ID You can also shut down the iPhone or iPad by pressing and holding a volume button at the same time as you press and hold the Power button (on the side or top). To avoid taking a screenshot press and hold the Volume button first and then add the Side button.\nHow to shut down an iPhone of iPad in SettingsAnother way to shut down your iPhone or iPad is via Settings. Go to Settings > General then find Shut Down and tap it. The slider to shut down the iPhone or iPad will appear. \nHow to force-restart an iPhone or iPadIf your iPhone is unresponsive you may need to do a restart. This requires you to press Up Volume then Down Volume and then press the Power button on the side or top. If you keep pressing the Power button eventually the iPhone or iPad will shut down. Press the Power button again to restart.  \nHow to shut down an older iPhone or iPadOn an older iPad or any iPhone with a Home button, you could press and hold the Power button on the side or top until the slide to power off message appeared. \nHow to force-restart an older iPhone or iPadIn the case of older iPhones and iPads you needed to press and hold the Home button and the Power button (on side or top) for about 10 seconds in order to force-restart the device. \n\n \n\n\n\n\n\n\nWhat’s the difference between restarting, force-restarting and rebooting?\nWondering whether you need to restart or reboot your iPhone? It’s essentially the same thing, just a different word for “turning it off and on again”. The stock response for any IT department looking to solve computer-related ills.\nA force-restart, sometimes called a hard reboot, is used when your iPhone has frozen or become completely unresponsive, and the normal shutdown method doesn’t work, perhaps because the screen is unresponsive. The key difference is that a force-restart bypasses the operating system’s normal shutdown sequence. \nImportantly, a force-restart does not erase your data – it’s simply a more forceful way to reboot a stuck device. However, it should only be used when a standard restart isn’t possible, as it’s a more abrupt process. \nTo summarize: restart/reboot is the normal, safe way to turn your iPhone off and on; force-restart is the emergency method for when the screen is frozen or the phone won’t respond to normal commands. We’ll describe both methods in this tutorial. \n\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\nHow to shut down and restart an iPhone or iPad the easy way \n\nIt’s so easy to shut down your iPhone using Control Centre.\n\nFoundry\n\n\n\n\nOne of the best but perhaps least known features introduced with iOS 18 was the ability to power off or shut down your iPhone from within Control Centre. All you need to do is: \nSwipe down on your iPhone screen from the top right to open Control Centre. \nPress on the small power icon in the right corner of the screen. \nThe power off slider will appear. Swipe that to shut down your iPhone. \nOnce your iPhone has shut down, press and hold the side button, you will then see the white Apple logo. Sometimes it takes a while to restart.\nYou will have to enter your passcode at startup, even if you usually use Face or Touch ID.\n\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\nHow to shut down and restart your iPhone using buttons\nPress volume up and then volume down before pressing the power button on the other side of the iPhone. \nFoundry\n\n\n\n\nFor years shutting down an iPhone or iPad just required users to press and hold a button on iPads and iPhones. This method has changed over the years for a number of reasons. It first changed with the arrival of Siri, because pressing and holding that button would trigger Siri, and it changed again when Apple stopped selling devices with a Home button on the front. Even now, the process for shutting down an iPhone or iPad can trigger a screenshot if you don’t press the buttons in exactly the right way.\nHere’s what to do:\nPress and hold Volume Up or Volume Down.\nPress and hold the Side button. \nThe power off slider will appear. Swipe that to shut down your iPhone or iPad. \nOnce your iPhone or iPad has shut down press and hold the side button, you will then see the white Apple logo. Sometimes it takes a while to restart.\nEnter your passcode at startup.\n\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\nHow to force-restart an iPhone or iPad\nPress the Volume buttons in quick succession followed by the Side button, to force restart. \nFoundry\n\n\n\n\nIf you are unable to use Control Centre because your screen is unresponsive, there is an option that doesn’t require you to touch the screen, it does involve pressing a number of buttons in succession though.\nThis is a force-restart (sometimes known as a hard reset), and should hopefully fix any issues you were having. \nPress Volume Up.\nPress Volume Down. \nPress and hold the Side button. \nThe power off slider will appear. You can swipe that to shut down your iPhone or iPad, but if your screen is unresponsive just continue to hold the Side button and your iPhone or iPad will shut down.\nOnce your device has shut down, press and hold the side button – you will then see the white Apple logo. Sometimes it takes a while to restart.\nYou will have to enter your passcode at startup, even if you usually use Face or Touch ID.\n\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\nWhat to do if restarting your iPhone or iPad doesn’t fix the problem\nIf, following the restart, things are still not as they should be, then you might need to reset your device to factory settings and use a backup to recover your iPhone or iPad.\nA factory reset means your whole device will be wiped and the settings will return to the default settings that it left the factory with.\nIf even that doesn’t solve the problem, a trip to the Apple Store may be in order. Sadly, this often results in a fixed device but with all the data wiped clean, which makes it vitally important that you backed up your iPhone or iPad beforehand, either with iCloud or via the Finder. With that safety net in place you can restore your device when it starts to have problems. Read about how to back up your iPhone or iPad.",
-    "pub_date": "2026-08-18T05:32:28.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,Services",
-    "id": 5266
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "AirPods with cameras are real, and Apple just showed how they’ll work",
-    "link": "https://www.cultofmac.com/news/airpods-cameras-real-apple-showed-how-work",
-    "content": "A leaked Apple demo found in macOS 26.7 release candidate code, shows how camera-equipped AirPods could make the world around you \"savable.\"\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-18T04:17:38.000Z",
-    "creator": "Rajesh Pandey",
-    "tags": "Mac",
-    "id": 5112
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Wild leak straight from Apple shows camera-equipped AirPods in action",
-    "link": "https://www.macworld.com/article/3214440/wild-leak-straight-from-apple-shows-camera-equipped-airpods-in-action.html",
-    "content": "Macworld\n\n\n\n\n\nApple’s iPhone event is in just a few weeks, and one of the surprises we’ve been hoping to see is a new pair of AirPods Pro with built-in cameras. And now Apple might have confirmed that this product is ready to launch.\nHidden in the macOS 26.7 release candidate, which landed Monday night and includes “important security fixes,” are two references to the rumored AirPods project. The first is a mention of the code name B790, which doesn’t amount to much more than a confirmation that the earbuds are indeed in development. But the other leak is far more interesting.\nAs spotted by MacRumors contributor Aaron Perris, a video hidden in the macOS 27 release candidate code contains a full video of the AirPods cameras in action. The video, which shows a user wearing a pair of AirPods and holding a book, includes a voiceover with the following explanation: “With Visual Intelligence, your world becomes savable. See something you like? Just ask me to save it for later.”\n\n\nHere is your first look at AirPods with Cameras in action using Visual Intelligence.\nThis video file came from macOS 26.7 RC pic.twitter.com/yo7RI4MCeu\n— Aaron (@aaronp613) August 18, 2026\n\n\n\n\n\nYou can see the right earbud in the user’s ear, but it’s indistinguishable from the current AirPods Pro 3 and AirPods 4. Presumably, the cameras face outward and will snap a photo of what’s in a user’s line of sight and send it to a paired iPhone.\nVisual Intelligence is getting a major upgrade in iOS 27, including a new “Siri” mode in the Camera app, nutritional information when looking at a package or photo, bill splitting, and Siri AI app integration. \nPerris also reports that the new AirPods will alert users about anything blocking the field of view, with a message, “To get the most accurate information about things in your environment, make sure AirPods are not covered.”\nIt’s unclear whether these new AirPods will replace either of the current models or occupy an “Ultra” space above the AirPods Pro. Apple is expected to hold its iPhone event in early September, so we might find out very soon.",
-    "pub_date": "2026-08-18T02:46:50.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS,Rumors,App Store",
-    "id": 5108
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "AirPods with cameras get their clearest leak yet",
-    "link": "https://9to5mac.com/2026/08/17/airpods-with-camera-get-their-clearest-leak-yet/",
-    "content": "Included in today’s macOS Tahoe 26.7 Release Candidate is a short video that appears to show Visual Intelligence in action on Apple’s rumored camera-equipped AirPods. Watch it below.",
-    "pub_date": "2026-08-18T01:48:31.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Mac,Rumors",
-    "id": 5103
   }
 ]
