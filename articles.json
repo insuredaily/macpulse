@@ -1,5 +1,25 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "ChatGPT now lets users create custom iMessage and WhatsApp stickers",
+    "link": "https://9to5mac.com/2026/08/24/chatgpt-now-lets-users-create-custom-imessage-and-whatsapp-stickers/",
+    "content": "Users can turn any photo into an iMessage or WhatsApp sticker, or use images as inspiration to create custom packs. Here are the details.",
+    "pub_date": "2026-08-24T22:15:15.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 5649
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Ambient sensing and cameras to power Apple Home Hub personalization",
+    "link": "https://appleinsider.com/articles/26/08/24/ambient-sensing-and-cameras-to-power-apple-home-hub-personalization?utm_source=rss",
+    "content": "According to strings accidentally left in a macOS Tahoe update, Apple's Home Hub will offer user profiles, with identity verification provided by ambient sensing and built-in cameras.\n\n\nApple's Home Hub will seemingly support user accounts.\nWith the macOS 26.7 release candidate build, Apple inadvertently revealed details about several of its upcoming products, including a camera-equipped model of AirPods. Also present was code related to the company's upcoming Home Hub, an AI-focused device with an operating system that's said to resemble tvOS.\nRumors have suggested the product will ship in two variants, one with a speaker-type base, and another wall-mounted version. This two-model approach was corroborated by macOS Tahoe code, and now even more details about the Home Hub have surfaced.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-24T21:55:32.000Z",
+    "creator": "Marko Zivkovic <marko@appleinsider.com>",
+    "tags": "Mac",
+    "id": 5650
+  },
+  {
     "source_name": "AppleInsider",
     "title": "OneRepublic headlines Tim Cook's going away party as he prepares to step down as CEO",
     "link": "https://appleinsider.com/articles/26/08/24/onerepublic-headlines-tim-cooks-going-away-party-as-he-prepares-to-step-down-as-ceo?utm_source=rss",
@@ -2978,25 +2998,5 @@
     "creator": "Ben Lovejoy",
     "tags": "Mac,iOS",
     "id": 5232
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Otterbox and Astropad think iPhone 17 Pro cases will fit iPhone 18 Pro",
-    "link": "https://9to5mac.com/2026/08/19/otterbox-and-astropad-think-iphone-17-pro-cases-will-fit-iphone-18-pro/",
-    "content": "One of the hidden expenses in upgrading to a new iPhone can often be the need to replace your case when the dimensions differ.\nThat so far seemed a likely bet for anyone upgrading from one of last year’s Pro models to the iPhone 18 Pro, but two accessory makers think not – with one of them going all-in on the bet …",
-    "pub_date": "2026-08-19T11:21:19.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "iOS",
-    "id": 5227
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "PSA: Do not buy iPhone 18 Pro cases before Apple's launch",
-    "link": "https://appleinsider.com/articles/26/08/19/psa-do-not-buy-iphone-18-pro-cases-before-apples-launch?utm_source=rss",
-    "content": "Every year, someone brings out cases for the new iPhones early and every year, you risk utterly wasting your money. It's safer to wait.\n\n\nDetail from the Otterbox case being sold in Best Buy for the iPhone 18 Pro - image credit: Mark Gurman.\nIt's not long now until the launch of the iPhone 18 Pro, with the smart money saying it will be on September 9, 2026. Even if that's wrong, though, one thing is unquestionably right: you must not buy a case early.\nAs spotted by Mark Gurman, Otterbox has made cases for the iPhone 18 Pro, and Best Buy is stocking them.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-19T11:06:09.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "iOS",
-    "id": 5228
   }
 ]
