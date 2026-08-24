@@ -1,5 +1,75 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Apple releases beta 7 for iPadOS 27, tvOS 27, and more",
+    "link": "https://9to5mac.com/2026/08/24/apple-releases-beta-7-for-ipados-27-tvos-27-and-more/",
+    "content": "Apple is rolling out beta 7 today for iPadOS 27, tvOS 27, and more forthcoming software updates. Here’s what to expect.",
+    "pub_date": "2026-08-24T17:35:16.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 5610
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Releases macOS Golden Gate Beta 7",
+    "link": "https://www.macrumors.com/2026/08/24/apple-releases-macos-golden-gate-beta-7/",
+    "content": "Apple today provided developers with the seventh beta of macOS Golden Gate, with the update coming a week after Apple seeded the sixth beta.\r\n\r\n\r\nDevelopers can download ‌macOS Golden Gate‌ by going to System Settings > General > Software Update. Beta Updates will need to be enabled, and a free developer account is required.\r\n\r\n‌macOS Golden Gate‌ includes multiple design improvements. Liquid Glass opacity has been improved to increase readability, there's a slider for controlling the level of transparency, and changes to shadowing make it easier to tell when a window is active. Apps now have uniform toolbars, edge-to-edge sidebars, and less rounded corners, plus there are fewer icons in menu bars.\r\n\r\nSiri has been transformed into ‌Siri‌ AI, a chatbot-style assistant that combines general world knowledge, your personal data, and onscreen awareness to answer questions about anything and find information for you. ‌Siri‌ lives in Spotlight, and you can ask questions with the new Search or Ask interface.\r\n\r\nVisual Intelligence is now on the Mac so ‌Siri‌ can answer questions about what's on your screen, and a Write with ‌Siri‌ feature lets ‌Siri‌ generate text or give feedback on your writing.\r\n\r\nPhotos app, AI tab organization in Safari, an option to use AI to automatically update weak passwords in the Passwords app, and a revamped Image Playground app that can generate photorealistic images.\r\n\r\nfound in our macOS Golden Gate roundup.\nRelated Roundup: macOS Golden Gate\nThis article, \"Apple Releases macOS Golden Gate Beta 7\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-24T17:35:05.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,App Store",
+    "id": 5608
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Seeds Seventh iOS 27 and iPadOS 27 Betas to Developers",
+    "link": "https://www.macrumors.com/2026/08/24/apple-seeds-ios-27-beta-7/",
+    "content": "Apple today seeded the seventh betas of iOS 27 and iPadOS 27 to developers for testing purposes, with the update coming one week after Apple released the sixth betas.\r\n\r\n\r\nRegistered developers can download the betas from the Settings app on the iPhone or iPad by going to the General section and selecting Software Update.\r\n\r\nSiri, ‌Siri‌ AI. ‌Siri‌ AI is a chatbot similar to ChatGPT, incorporating general world knowledge, personal data from apps like Messages and Mail, and onscreen awareness to answer questions and find information for you.\r\n\r\nApple Intelligence features in apps like Photos, Safari, Shortcuts, Wallet, and Passwords, plus Apple added a standalone ‌Siri‌ app that houses ‌Siri‌ conversations. Write with ‌Siri‌ is available systemwide for generating text or offering feedback on your writing, and Visual Intelligence has been relocated to the Camera app with a new ‌Siri‌ mode.\r\n\r\nApple improved the look of Liquid Glass and added a slider for customizing transparency. There are multiple performance improvements to speed up iOS, so everything feels faster, even on older iPhones. Apps launch quicker, AirDrop transfers are faster, the keyboard pops up more quickly, and devices are better at transitioning between Wi-Fi and Cellular to keep you connected.\r\n\r\nwe have a dedicated iOS 27 roundup.\nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"Apple Seeds Seventh iOS 27 and iPadOS 27 Betas to Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-24T17:34:02.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,App Store",
+    "id": 5609
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Second Release Candidates for macOS Tahoe 26.7 and macOS Sequoia 15.8 now available",
+    "link": "https://9to5mac.com/2026/08/24/second-release-candidates-for-macos-tahoe-26-7-and-macos-sequoia-15-8-now-available/",
+    "content": "Apple is rolling out second release candidates for macOS Tahoe 26.7 and macOS Sequoia 15.8, one week after the first RC for macOS 26.7 revealed several details about upcoming products.",
+    "pub_date": "2026-08-24T17:33:20.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac",
+    "id": 5611
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "macOS 27 Golden Gate developer beta 7 now available, here’s how to install it",
+    "link": "https://9to5mac.com/2026/08/24/macos-27-golden-gate-developer-beta-7-now-available-heres-how-to-install-it/",
+    "content": "Developers can now install macOS 27 Golden Gate beta 7, just a week after the rollout of beta 6. Here are the details.",
+    "pub_date": "2026-08-24T17:32:22.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac,App Store",
+    "id": 5612
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iOS 27 beta 7 now available as Apple tests major Siri AI upgrade",
+    "link": "https://9to5mac.com/2026/08/24/ios-27-beta-7/",
+    "content": "Apple has released the seventh iOS 27 beta for developer testing. iOS 27 beta 7 continues Apple’s summer beta cycle ahead of a public release in September. We’ll update our devices and share what we discover.",
+    "pub_date": "2026-08-24T17:28:00.000Z",
+    "creator": "Zac Hall",
+    "tags": "iOS,App Store",
+    "id": 5613
+  },
+  {
+    "source_name": "Macworld",
+    "title": "iPhone price rises ‘inevitable,’ but may not be as bad as you expect",
+    "link": "https://www.macworld.com/article/3219114/iphone-price-rises-inevitable-but-may-not-be-as-bad-as-you-expect.html",
+    "content": "Macworld\n\n\n\n\n\nThe ongoing memory crunch hit Apple customers much later than most tech fans, but when the price hikes arrived, they hit hard. Apple increased prices across its iPad and Mac ranges by anywhere from $100 to an eye-watering $1,300 in the case of the M3 Ultra Mac Studio. There was only one consolation: iPhone prices didn’t increase at all.\nThat latter state of affairs is not going to last for long, we’re sad to report. At the start of this month we covered a report by Mark Gurman in which the Bloomberg leaker insisted there is “absolutely no doubt” that iPhone price hikes are coming. And in the latest edition of his Power On newsletter, Gurman reiterates that prediction and adds further context.\nContext matters, and in this case it offers some cause for hope. Yes, iPhones will shortly get more expensive. As Gurman puts it, “An increase [to iPhone prices] remains inevitable. The only question is how far Apple will go.” But clues from inside and outside the company suggest it may not go as far as pessimistic customers and pundits may have feared.\nFor one thing, Apple’s behavior will, to some extent, be influenced by two of its biggest smartphone rivals, Google and Samsung. Both of these put up the prices of their latest phones by around $100. For Apple to announce a similar hike when it launches the iPhone 18 Pro and 18 Pro Max–putting their starting prices at approximately $1,199 and $1,299, respectively–would therefore seem perfectly reasonable. The unpopular actions of Google and Samsung provide cover for Apple to do the same, in a reversal of the headphone jack debacle.\nSo far, so convenient for Apple. But those price rises cut both way, because they also provide an anchor point for customer expectations. Putting up phones by $100 now seems reasonable. But to put them up by $200, say, is no longer an arbitrary number; it’s double what Google and Samsung did. Whatever Apple announces will be compared favorably or unfavorably to the actions of its rivals.\nGurman doesn’t claim to know Apple’s plans, but he senses that it’s veering towards relatively conservative price hikes. In its latest quarterly financial disclosures, he points out, the company warned of pressure on gross margins. That may be a clue that it doesn’t intend to pass on all of the cost increases to customers, instead choosing to absorb some of the pain itself.\nThe new iPhones will be announced next month. For all the latest news and rumors, bookmark our regularly updated iPhone 18 Pro and iPhone Ultra superguides.",
+    "pub_date": "2026-08-24T16:47:22.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,iOS,Rumors,Silicon",
+    "id": 5616
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Apple smart home display rumors & Sonos Gambit soundbar leak on Smart Home Insider",
     "link": "https://appleinsider.com/articles/26/08/24/apple-smart-home-display-rumors-sonos-gambit-soundbar-leak-on-smart-home-insider?utm_source=rss",
@@ -2928,75 +2998,5 @@
     "creator": "Ryan Christoffel",
     "tags": "Rumors",
     "id": 5193
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "There is a good reason to praise AirPods with cameras, and not fear them",
-    "link": "https://appleinsider.com/articles/26/08/18/there-is-a-good-reason-to-praise-airpods-with-cameras-and-not-fear-them?utm_source=rss",
-    "content": "There's already social media outrage that AirPods Pro are going to get a camera very soon. Like with mockery about the Snuggie, the Clapper, and so forth, most of the drama badly misses the point.\n\n\nAirPods Pro 2\nMeta's AI specs are creepy. They have nearly invisible cameras, whose main protection for the non-wearer is a light that is easily defeated by a piece of electrical tape.\nThis is just the way that they want it. The \"protections\" that Meta has implemented are pointless by design.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-18T17:55:37.000Z",
-    "creator": "Mike Wuerthele <mike@appleinsider.com>",
-    "tags": "General",
-    "id": 5196
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Save $100 on Apple’s blazing-fast M4 iPad Air before this discount vanishes",
-    "link": "https://www.macworld.com/article/3215112/save-100-on-apples-blazing-fast-m4-ipad-air-before-this-discount-vanishes.html",
-    "content": "Macworld\n\n\n\n\n\n\t\t\nApple iPad Air M4\nView Deal\nApple’s latest iPad Air with the M4 chip is down to $649 at Amazon, a solid $100 off its $749 price tag. That’s not just a good discount—it’s the best we’ve seen since Apple hiked prices in June.\nIt’s so easy to recommend iPads because these are such great tablets. The M4 chip under the hood handles just about anything you throw at it, from streaming and gaming to photo editing and heavy multitasking, all without a hint of slowdown. \nThe 11-inch Liquid Retina display is a real treat, too, whether you’re binging a show, editing photos, or just reading outside on a sunny afternoon. You’ll get more than enough storage with its 128GB drive. If you’re into shooting vids and taking pics with your camera, the iPad comes with a 12MP Center Stage front camera to keep you perfectly framed. And with all-day battery life, you’ll never have to worry about charging.\nIf you want to turn this tablet into a tool you use for work and hobbies, you might need to spend extra on an Apple Pencil and the Magic Keyboard. Thankfully, since the tablet is $100 off, that gives you some room to redistribute the money.\nAt $649, a full $100 off, the M4 iPad Air is an easy recommendation for anyone who wants serious performance, a gorgeous screen, and years of smooth use in a portable package.",
-    "pub_date": "2026-08-18T17:33:47.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,Silicon",
-    "id": 5199
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple pledges donation in support of Indonesia earthquake relief",
-    "link": "https://9to5mac.com/2026/08/18/apple-pledges-donation-in-support-of-indonesia-earthquake-relief/",
-    "content": "Apple CEO Tim Cook announced today that Apple will donate to support the relief efforts on the ground following Indonesia’s devastating earthquake. Here are the details.",
-    "pub_date": "2026-08-18T17:31:33.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 5172
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "AirTag 2 deal: Get Apple’s new tracker at its best price yet",
-    "link": "https://www.cultofmac.com/deals/airtag-deal",
-    "content": "You can hoard Apple trackers for yourself or make the whole family a bit more organized for less money, thanks to this sweet AirTag deal.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-18T17:15:38.000Z",
-    "creator": "Ed Hardy",
-    "tags": "Mac",
-    "id": 5185
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Anthropic says Claude Cowork is now available on mobile for all paid plans",
-    "link": "https://9to5mac.com/2026/08/18/anthropic-says-claude-cowork-is-now-available-on-mobile-for-all-paid-plans/",
-    "content": "Last month, Anthropic announced plans to expand Claude Cowork from the Mac to iPhone and iPad. The rollout started with Anthropic’s most expensive paid plan.",
-    "pub_date": "2026-08-18T17:09:16.000Z",
-    "creator": "Zac Hall",
-    "tags": "Mac,iOS",
-    "id": 5173
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple releases public beta 4 for iOS 27, macOS 27, iPadOS 27, tvOS 27 [U: watchOS 27]",
-    "link": "https://9to5mac.com/2026/08/18/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27/",
-    "content": "Update, August 18, 1:06 p.m. ET: Apple has now published watchOS 27 Public Beta 4 (Build: 24R5353a). The original story follows below\nAfter releasing developer betas 6 earlier today, Apple is now rolling out iOS 27 public beta 4, alongside corresponding updates for some of its other platforms. Here are the details.",
-    "pub_date": "2026-08-18T17:07:54.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Mac,iOS,App Store",
-    "id": 5174
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Overhauls EU App Store Fees to Settle Digital Markets Act Dispute",
-    "link": "https://www.macrumors.com/2026/08/18/eu-app-store-fee-change/",
-    "content": "Apple today announced changes to its App Store policies and fees in the European Union to comply with the Digital Markets Act. Apple says the changes were made after \"close collaboration\" with the European Commission, and the updates simplify the fee structure and \"resolve Apple's disagreements with the Commission over business terms and alternative distribution.\"\r\n\r\n\r\nThe initial acquisition fee and store services fee are being removed for apps distributed outside of the ‌App Store‌, and Apple will now charge a 5% Core Technology Commission on digital purchases that replaces the prior per-install Core Technology Fee.\r\n\r\nCommission rates are changing for ‌App Store‌ apps, alternative payments, and apps distributed through alternative app marketplaces or the web.\r\n\r\n \t\nApp Store Apps With In-App Purchase - Apple will charge a 26% fee for apps distributed through the ‌App Store‌ that use in-app purchase. The fee will be 15% for Small Business Program, Mini Apps Partner Program, and Video Partner Program participants. It will also be 15% for auto-renewing subscriptions after their first year.\n\r\n \t\nApp Store Apps Using Alternative Payments - Apps in the ‌App Store‌ that use in-app alternative payment processing will pay 20%. Developers in Apple's programs will pay 10%.\n\r\n \t\nApps That Link Out of the App for Purchases - Apps that link to a website purchase option will pay 15%. Developers in Apple's programs will pay 10%.\n\r\n \t\nAlternative App Marketplace Apps - Apple will charge a 5% Core Technology Commission.\n\r\n \t\nApps Distributed via the Web - Apple will charge a 5% Core Technology Commission.\n\r\n\r\nDevelopers can offer in-app purchase options alongside alternative payment options in the EU, which is something Apple did not allow before. Apple says there will be presentation requirements so users have a consistent, transparent experience.\r\n\r\nDevelopers distributing apps in the EU must select their payment options and maintain those options for 12 months before making changes to \"provide consistency and clarity for users.\" Apple will still use a Notarization process for apps downloadable through the web and through alternative app marketplaces.\r\n\r\nApps in the Kids category or being used by children under 13 will not include links to websites to complete transactions. All apps that use alternative payment processing or link to a website for transactions have to include a parental gate if the user is under 18.\r\n\r\nApple is relaxing the rules for operating an alternative app marketplace or distributing apps via the web in the European Union. Apple used to require developers to have a one million euro standby letter of credit from an A-rated financial institution, but the new rules are as follows:\r\n\r\n \t\nMeet a moderate financial-stability bar as scored by Dun & Bradstreet.\n\r\n \t\nAre publicly traded or owned by a publicly traded company.\n\r\n \t\nHave received venture funding from an established investment firm.\n\r\n \t\nHave completed a financial audit by a licensed accountant.\n\r\n \t\nAre a government entity, educational institution, or nonprofit.\n\r\n\r\nTags: App Store, European Commission, European Union\nThis article, \"Apple Overhauls EU App Store Fees to Settle Digital Markets Act Dispute\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-18T17:02:48.000Z",
-    "creator": "Juli Clover",
-    "tags": "App Store,Services",
-    "id": 5171
   }
 ]
