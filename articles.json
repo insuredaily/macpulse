@@ -1,5 +1,65 @@
 [
   {
+    "source_name": "MacRumors",
+    "title": "Apple Store App Rolling Out 'Early Preview' of New Shopping Assistant",
+    "link": "https://www.macrumors.com/2026/08/24/apple-store-app-virtual-shopping-assistant/",
+    "content": "In the Apple Store app on the iPhone, select users have received access to an \"early preview\" of a new AI-powered virtual shopping assistant.\r\n\r\n\r\nOnce it is available, you can open the chatbot by tapping on the speech bubble with two sparkles in the bottom-right corner of the app. Then, you can ask questions about Apple products, your existing Apple Store orders, trade-in values, payment options, and more, or simply tap on one of the common topics on the page to begin.\r\n\r\nMacRumors was first to report that the Apple Store app would be getting an AI shopping assistant, based on a new privacy policy added to Apple's website. The policy states that Apple uses your personal information to personalize the chat experience, provide relevant responses, and if you opt in, to improve the assistant.\r\n\r\nTag: Apple Store\nThis article, \"Apple Store App Rolling Out 'Early Preview' of New Shopping Assistant\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-24T12:56:14.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "iOS,App Store",
+    "id": 5570
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iPhone 20's Curved Glass Design to Be Made Like iPhone Air",
+    "link": "https://www.macrumors.com/2026/08/24/iphone-20-curved-glass-to-be-like-iphone-air/",
+    "content": "Apple's 20th-anniversary iPhone will be made using the same glass manufacturing process developed for the iPhone Air, according to the leaker known as \"Fixed Focus Digital.\"\r\n\r\n\r\nIn a new post on Weibo, the leaker said that ‌iPhone Air‌ manufacturing equipment has been modified to produce more rounded glass components for next year's 20th anniversary iPhone, which has helped to reduce Apple's manufacturing costs. The leaker added that overall heat dissipation and thinness have both improved substantially as a result of the changes. \r\n\r\nearlier report that a supply chain facility had finished renovations ahead of \"iPhone 20\" production, with manufacturing quality expected to land somewhere around that of the first-generation ‌iPhone Air‌. The ‌iPhone Air‌ is Apple's thinnest iPhone to date at 5.6mm and uses a polished titanium frame with a glass back. \r\n\r\nrumored for well over a year. Bloomberg's Mark Gurman reported that Apple is aiming for a \"mostly glass, curved iPhone without any cutouts in the display\" to mark the iPhone's 20th anniversary, with curved glass wrapping around all sides of the device.\r\n\r\niPhone 18, iPhone 18e, and ‌iPhone Air‌ 2 in the spring.\nRelated Roundup: iPhone Air\nTags: 20th-Anniversary iPhone, Fixed Focus Digital\nBuyer's Guide: iPhone Air (Neutral)\nThis article, \"iPhone 20's Curved Glass Design to Be Made Like iPhone Air\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-24T12:42:09.000Z",
+    "creator": "Hartley Charlton",
+    "tags": "iOS",
+    "id": 5571
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Amazon slashes AirTag 4-pack to $79.99, lowest price ever",
+    "link": "https://appleinsider.com/articles/26/08/24/amazon-slashes-airtag-4-pack-to-7999-lowest-price-ever?utm_source=rss",
+    "content": "Amazon has slashed 19% off the 4-pack of second-generation AirTags, bringing the price down to a record-low $79.99.\n\n\nGrab the lowest price ever on 4 second-gen AirTags today.\nIf you're planning on traveling for the Labor Day weekend or want the added peace of mind of Precision Finding during everyday activities, Amazon's AirTag deals are worth checking out.\nPick up the single AirTag for $24 or the 4-pack for $79.99, the latter being a record-low price for the second-generation model that was released in late January 2026.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-24T12:21:05.000Z",
+    "creator": "Christine McKee <christine@appleinsider.com>",
+    "tags": "General",
+    "id": 5574
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iOS 27 fixes three of the most annoying Messages bugs",
+    "link": "https://9to5mac.com/2026/08/24/ios-27-fixes-three-of-the-most-annoying-messages-bugs/",
+    "content": "iOS 27 focuses heavily on bug fixes and performance improvements across apps like Safari, Mail, Calendar, and more.\nIn the Messages app, iOS 27 fixes what I think are three of the most frustrating bugs … and the update will be released to everyone in just a few weeks.",
+    "pub_date": "2026-08-24T12:11:38.000Z",
+    "creator": "Chance Miller",
+    "tags": "iOS,App Store",
+    "id": 5573
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Handy disk image tool is getting removed from macOS",
+    "link": "https://appleinsider.com/articles/26/08/24/handy-disk-image-tool-is-to-be-removed-from-macos?utm_source=rss",
+    "content": "In future releases of macOS, Mac users will no longer be able to format or eject disk images using the very long-standing Terminal command, hdiutil. It won't affect many users directly, but it could well break disk repair utility apps.\n\n\nThe new deprecation notice in Terminal for the command hdiutil.\nYou may never have even heard of it, but since the earliest days of Mac OS X, the Terminal has included the command now called hdiutil. It's a tool for handling disk images, and AppleInsider forum users have often recommended it for solving problems such as the Mac refusing to eject such disk images because they're purportedly in use.\nAs first spotted by developer Jeff Johnson, however, Apple is officially deprecating hdultil in macOS Golden Gate. What this means is that you, and app utilities, can continue using it for now, but should switch to the similar diskutil image command as ultimately hdiutil will be removed.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-24T12:10:57.000Z",
+    "creator": "William Gallagher <wg@williamgallagher.com>",
+    "tags": "Mac,App Store",
+    "id": 5575
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Tim Cook Replaced Steve Jobs 15 Years Ago Today, Steps Down Sept 1",
+    "link": "https://www.macrumors.com/2026/08/24/tim-cook-replaced-steve-jobs-15-years-ago-today/",
+    "content": "15 years ago today, Tim Cook was appointed Apple CEO following Steve Jobs' resignation on August 24, 2011. On September 1, Cook will step down and incoming CEO John Ternus will take over, ahead of Apple announcing new iPhone 18 Pro models and its first foldable iPhone. \r\n\r\nTags: Steve Jobs, Tim Cook\nThis article, \"Tim Cook Replaced Steve Jobs 15 Years Ago Today, Steps Down Sept 1\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-24T11:38:17.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "iOS",
+    "id": 5572
+  },
+  {
     "source_name": "AppleInsider",
     "title": "How Apple leaked product plans and even a video in a beta",
     "link": "https://appleinsider.com/articles/26/08/23/how-apple-leaked-product-plans-and-even-a-video-in-a-beta?utm_source=rss",
@@ -241,10 +301,10 @@
   },
   {
     "source_name": "MacRumors",
-    "title": "AirTag 2 4-Pack Hits New Low Price of $85 on Amazon",
+    "title": "AirTag 2 4-Pack Hits New Low Price of $79.99 on Amazon",
     "link": "https://www.macrumors.com/2026/08/23/airtag-2-85-amazon/",
-    "content": "Apple's AirTag 2 is on sale for $85.00 this weekend on Amazon, down from $99.00. This deal is on the 4-Pack of the AirTag 2, and it's a new record low price for the accessory, beating the previous low by about $4.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n$24.00, down from $29.00. This is another record low price on the AirTag 2, and both have estimated delivery dates of August 28.\r\n\r\n\n$5 OFF\nAirTag 2 (1-Pack) for $24.00\n\n\r\n\n$14 OFF\nAirTag 2 (4-Pack) for $85.00\n\n\r\n\r\nThe new AirTag is equipped with a second-generation Ultra Wideband chip, enabling the Precision Finding feature to work up to 50% farther away from an item compared to the previous-generation model. \r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"AirTag 2 4-Pack Hits New Low Price of $85 on Amazon\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-23T13:52:53.000Z",
+    "content": "Apple's AirTag 2 is on sale for $79.99 this weekend on Amazon, down from $99.00. This deal is on the 4-Pack of the AirTag 2, and it's a new record low price for the accessory, beating the previous low by about $4.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n$24.00, down from $29.00. This is another record low price on the AirTag 2, and both have estimated delivery dates of August 28.\r\n\r\n\n$5 OFF\nAirTag 2 (1-Pack) for $24.00\n\n\r\n\n$19 OFF\nAirTag 2 (4-Pack) for $79.99\n\n\r\n\r\nThe new AirTag is equipped with a second-generation Ultra Wideband chip, enabling the Precision Finding feature to work up to 50% farther away from an item compared to the previous-generation model. \r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"AirTag 2 4-Pack Hits New Low Price of $79.99 on Amazon\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-23T13:52:44.000Z",
     "creator": "Mitchel Broussard",
     "tags": "General",
     "id": 5535
@@ -2938,65 +2998,5 @@
     "creator": "Wesley Hilliard <wes@appleinsider.com>",
     "tags": "Mac,Rumors",
     "id": 5105
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "The Ultimate AI Learning Bundle goes from ChatGPT basics to AI certification prep",
-    "link": "https://www.cultofmac.com/deals/ultimate-ai-learning-bundle",
-    "content": "Get five courses in ChatGPT, AI fundamentals, AI agents and Microsoft Azure AI certification prep in the Ultimate AI Learning Bundle.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-18T13:30:36.000Z",
-    "creator": "Cult of Mac Deals",
-    "tags": "Mac",
-    "id": 5151
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "New Apple TV 4K to have upgraded Siri Remote, per leak",
-    "link": "https://9to5mac.com/2026/08/18/new-apple-tv-4k-to-have-upgraded-siri-remote-per-leak/",
-    "content": "A new Apple TV 4K is launching soon, expected to launch at the iPhone event in just a few weeks. And an Apple code leak uncovered by MacRumors indicates a new Siri Remote is coming.",
-    "pub_date": "2026-08-18T13:29:40.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS,Rumors",
-    "id": 5146
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "AirTag 2 Drops to Low Price of $89 for 4-Pack",
-    "link": "https://www.macrumors.com/2026/08/18/airtag-2-89-for-4-pack/",
-    "content": "Apple's AirTag 2 is on sale for $89.00 this week on Amazon, down from $99.00. This deal is on the 4-Pack of the AirTag 2, and it's a match of the record low price first seen during Prime Day.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n$24.00, down from $29.00. This is another record low price on the AirTag 2, and both have estimated delivery dates of August 23.\r\n\r\n\n$5 OFF\nAirTag 2 (1-Pack) for $24.00\n\n\r\n\n$10 OFF\nAirTag 2 (4-Pack) for $89.00\n\n\r\n\r\nThe new AirTag is equipped with a second-generation Ultra Wideband chip, enabling the Precision Finding feature to work up to 50% farther away from an item compared to the previous-generation model. \r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"AirTag 2 Drops to Low Price of $89 for 4-Pack\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-18T12:47:31.000Z",
-    "creator": "Mitchel Broussard",
-    "tags": "General",
-    "id": 5140
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Dell UltraSharp 32 4K QD-OLED review: Excellent color-calibration, not perfect for Mac users",
-    "link": "https://appleinsider.com/articles/26/08/17/dell-ultrasharp-32-4k-qd-oled-review-excellent-color-calibration-not-perfect-for-mac-users?utm_source=rss",
-    "content": "The Dell UltraSharp 32 4K QD-OLED model U3226Q is a color-accurate OLED monitor with a full port hub. It makes a strong case as a Studio Display XDR alternative for Mac users, assuming you're fine with not having a Retina-class display.\n\n\nDell UltraSharp 32 4K QD-OLED review: This monitor has great colors and deep blacks\nA great monitor can anchor a whole desk setup. For Mac users who can afford it, the obvious choice has long been Apple's displays.\nThose displays are beautiful, but price and port quantity have always been limiting factors for most. Third-party OLED panels are an alternative, but generally with design compromises.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-18T12:46:02.000Z",
-    "creator": "Mike Wuerthele <mike@appleinsider.com>",
-    "tags": "Mac",
-    "id": 5102
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "The eight changes Apple is making to App Tracking Transparency in Europe",
-    "link": "https://9to5mac.com/2026/08/18/the-eight-changes-apple-is-making-to-app-tracking-transparency-in-europe/",
-    "content": "It was reported yesterday that Apple has agreed to comply with “fairer” App Tracking Transparency rules in the EU, following an investigation by the German antitrust regulator.\nApple said it was complying voluntarily, and we understand it will be making a total of eight changes in order to do so …",
-    "pub_date": "2026-08-18T12:38:49.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "App Store",
-    "id": 5142
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Rothschild's AAPL price target soars to $400 on iPhone Ultra expectations",
-    "link": "https://appleinsider.com/articles/26/08/18/rothschilds-aapl-price-target-soars-to-400-on-iphone-ultra-expectations?utm_source=rss",
-    "content": "Financial advice group Rothschild & Co Redburn has raised its Apple price target by a huge $140, specifically because it believes that an iPhone Ultra is a \"match made in heaven\" for the company.\n\n\nAnalysts believe Apple will do well in the Q3 results. \nRothschild & Co Redburn doesn't seem to concentrate much on Apple, and its usual price targets tend to lag behind firms that do, such as Morgan Stanley. But while Morgan Stanley recently dropped its price target by $4 to $360, Rothschild has dramatically increased its from $260 to $400.\nUnsurprisingly, it's also raised its status from Neutral to Buy. This may not be the end of the rising price target, either, as the company's Timm Schulze-Melander has told CNBC.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-18T12:30:32.000Z",
-    "creator": "William Gallagher and Mike Wuerthele <news@appleinsider.com>",
-    "tags": "iOS",
-    "id": 5144
   }
 ]
