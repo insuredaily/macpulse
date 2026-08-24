@@ -1,5 +1,25 @@
 [
   {
+    "source_name": "MacRumors",
+    "title": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas",
+    "link": "https://www.macrumors.com/2026/08/24/apple-releases-ios-27-public-beta-5/",
+    "content": "Apple today released the fifth public betas of iOS 27, iPadOS 27, tvOS 27, and macOS Golden Gate, allowing anyone with a compatible device to download and test the new software. The fifth betas come a week after Apple seeded the fourth betas and a few hours after the seventh developer betas.\r\n\r\n\r\nYou can get started by signing up on Apple's beta website and then opting in to the public beta by opening up the Settings app on your device, selecting General, and choosing Software Update.\r\n\r\nRelated Roundups: Apple TV, iOS 27, iPadOS 27, macOS Golden Gate\nBuyer's Guide: Apple TV (Don't Buy)\nRelated Forum: Apple TV and Home Theater\nThis article, \"Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-24T22:51:00.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS,App Store",
+    "id": 5651
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "New public betas now available for iOS 27, iPadOS 27, macOS 27 Golden Gate, more",
+    "link": "https://9to5mac.com/2026/08/24/new-public-betas-now-available-for-ios-27-ipados-27-macos-27-golden-gate-more/",
+    "content": "Following the release of the seventh developer betas for iOS 27, iPadOS 27, macOS 27 Golden Gate, and Apple’s other upcoming software updates, the company is now rolling out the corresponding public betas. Here are the details.",
+    "pub_date": "2026-08-24T22:45:50.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac,iOS,App Store",
+    "id": 5652
+  },
+  {
     "source_name": "9to5Mac",
     "title": "ChatGPT now lets users create custom iMessage and WhatsApp stickers",
     "link": "https://9to5mac.com/2026/08/24/chatgpt-now-lets-users-create-custom-imessage-and-whatsapp-stickers/",
@@ -2978,25 +2998,5 @@
     "creator": "Ben Lovejoy",
     "tags": "General",
     "id": 5231
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iPad Mini 8: Release Date, Pricing, and What to Expect",
-    "link": "https://www.macrumors.com/2026/08/19/ipad-mini-8-release-date-pricing-what-to-expect/",
-    "content": "According to the latest rumors, Apple is close to launching its next-generation iPad mini. So what should we expect from the successor to the iPad mini 7 that Apple released over 21 months ago. Read on to find out.\r\n\r\n\r\nProcessor and Performance\n\r\nApple is working on a next-generation version of the iPad mini (codename J510/J511) that features the A19 Pro chip, according to information found in code that Apple mistakenly shared in August. \r\n\r\nApple's A19 Pro chip since debuted in the iPhone Air and iPhone 17 Pro models. The iPhone 17 Pro models include the higher-end version of Apple's A19 Pro chip with a 6-core CPU and a 6-core GPU, while the iPhone Air uses a mid-tier A19 Pro chip with one fewer GPU core than the A19 Pro chip used in the iPhone 17 Pro and Pro Max.\r\n\r\nIf the code leak is accurate for the iPad mini 8, Apple is likely to use the mid-tier A19 Pro chip found in the iPhone Air. This is based on the fact that the A17 Pro chip used in the iPad mini 7 has a 6-core CPU with two high-performance cores and four efficiency cores, along with a 5-core GPU, compared to the 6-core GPU found on the A17 Pro used in the iPhone 15 Pro. \r\n\r\nApple built the A19 Pro chip on an upgraded third-generation 3-nanometer N3P process for modest speed and efficiency improvements. The chip includes a 16-core Neural Engine, next-generation dynamic caching, and unified image compression.\r\n\r\nThe GPU in the A19 Pro has an upgraded architecture with a larger cache, more memory, and Neural Accelerators that are built into each core. Apple says that this change provides 3× the peak GPU compute over the prior-generation chip. There's also an upgraded 16-core Neural Engine for AI tasks.\r\n\r\nMacRumors tipster who analyzed a macOS kernel debug kit containing internal Apple codenames. However, the iPad mini has not always received Apple's newest A-series chip at the time it was updated, so the A19 Pro cannot be ruled out at this time. iPhone 18 Pro models are also expected to use the A20 Pro chip, which will reportedly be fabricated with TSMC's advanced 2nm process.\r\n\r\nDisplay\n\r\n\r\nBloomberg's Mark Gurman, the small form-factor tablet is likely to be the next Apple device to adopt OLED. According to a Chinese leaker with sources in Apple's supply chain, Apple has evaluated a Samsung-made OLED display for its next iPad mini model. \r\n\r\nIt remains unclear whether the iPad mini 8 will feature a higher refresh rate than the 60Hz LCD display used in the existing iPad mini 7, but since the new base iPhone 17 now uses a 120Hz ProMotion panel, it would be reasonable to expect the same on the first OLED iPad mini. A separate report has suggested the ‌‌‌iPad mini 8‌‌‌'s screen could increase in size from 8.3 inches to 8.7 inches with the adoption of OLED.\r\n\r\nOLED panels can individually control each pixel, resulting in more precise color reproduction and deeper blacks compared to other common display technologies. They also provide superior contrast, faster response times, better viewing angles, and greater design flexibility. All of Apple's flagship iPhones use OLED panels, and in May 2024 the company brought the display technology to the iPad Pro for the first time.\r\n\r\nUnlike Apple's ‌iPad Pro‌ models, which feature two-stack low-temperature polycrystalline oxide (LTPO) OLED panels‌, the ‌iPad mini‌ may have a single-stack low-temperature polycrystalline silicon (LTPS) panel, which would make it dimmer.\r\n\r\nChassis Design\n\r\n\r\nBloomberg's Mark Gurman. The updated casing would bring protection levels closer to those of the iPhone, making the tablet safer for use in damp environments.\r\n\r\nTo achieve this, Apple is said to have designed a new vibration-based speaker system that eliminates the need for traditional speaker holes. By using sound-emitting surfaces instead of open grilles, the company can reduce potential entry points for water and dust, resulting in a more sealed, durable enclosure.\r\n\r\nOn the iPhone, Apple relies on adhesives and gaskets to shield speakers and other openings from moisture. The iPad mini's approach appears to go further, doing away with the holes altogether. Current iPad mini models lack any official IP rating, but the upcoming version could mark the first in the lineup to feature a certified level of water protection. \r\n\r\n2014 patent outlines a \"mechanically actuated panel acoustic system\" that vibrates flat surfaces to generate sound, effectively turning parts of a device's chassis into a speaker diaphragm. This could potentially allow Apple to produce audio without visible speaker holes. The patent suggest Apple has been building towards a sealed, vibration-based acoustic system for several years. \r\n\r\nRelease Date\n\r\n\r\nET News and ZDNET Korea have both suggested that the iPad mini will be updated with an OLED display in 2026. Bloomberg has also said the update could come as soon as this year.\r\n\r\nstarted developing sample OLED panels for a future ‌iPad mini‌, with plans to initiate mass production at its facility in Cheonan in the second half of 2025. The same report claimed that Apple will bring an OLED panel to the iPad Air alongside the ‌iPad mini‌ in 2026, though Apple only refreshed the iPad Air in March, and more recent reporting suggests an OLED iPad Air will arrive in early 2027.\r\n\r\nETNews claimed that mass production of the iPad mini 8 is already underway at a Samsung factory.\r\n\r\nBloomberg's Mark Gurman, who said Apple is planning to release a new iPad mini model with an OLED display by October this year.\r\n\r\nPricing\n\r\n\r\nraised the price in late June, up from $499 (+$100). \r\n\r\nThe main reason for the price rise is rising memory and storage costs, brought about by the continuing AI data center buildout. Growing demand for memory and storage chips from AI companies has led to chip shortages and higher costs for everyone else, including Apple.\r\n\r\nThe Wall Street Journal that the price increases across its product lineup were \"unavoidable.\" Cook said the company was doing its best to \"mitigate the huge increases that are being passed to us,\" and that it was trying to shield customers from them, but the situation had become \"unsustainable.\"\r\n\r\nBloomberg's Gurman suggesting Apple could charge up to $100 more for the device. \r\n\r\nargued that Apple should consider a lower-end version of the mini, or at least a change to its starting price ($499 at the time – but now $599), given that it's up against rival products that cost a lot less. \r\n\r\nRelated Roundup: iPad mini\nBuyer's Guide: iPad Mini (Don't Buy)\nRelated Forum: iPad\nThis article, \"iPad Mini 8: Release Date, Pricing, and What to Expect\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-19T12:17:28.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "Mac,iOS,Rumors,Silicon",
-    "id": 5229
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "HomePad code suggests it’ll act like a giant Apple Watch",
-    "link": "https://9to5mac.com/2026/08/19/homepad-code-suggests-itll-act-like-a-giant-apple-watch/",
-    "content": "The latest macOS 26.7 beta appears to have revealed quite a lot about a number of upcoming Apple home products. It includes references to a new HomePod mini, a security camera, a next-generation Siri remote for a new Apple TV 4K – and the long-anticipated HomePad product.\nA deeper dive into the code also appears to provide significant clues about what we can expect from the HomePad …",
-    "pub_date": "2026-08-19T11:44:34.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "Mac,iOS",
-    "id": 5232
   }
 ]
