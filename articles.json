@@ -1,6 +1,16 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "These are the best MacBook deals right now: August 2026 Buyer’s Guide",
+    "link": "https://9to5mac.com/2026/08/23/best-apple-macbook-deals-right-now-august/",
+    "content": "In recent years, Macs had been getting more and more affordable. Cheaper starting points, more memory and storage per dollar, and the introduction of MacBook Neo. For the first time, Apple had started to become one of the best values on the market.\nUnfortunately, Apple just drastically increased its prices because of the ongoing memory shortage. Macs aren’t as appealing as they were a few weeks ago, that said, there’s still some decent deals out there – and if you’re in need of a new computer, I’d still say todays Macs are a good value against the rest of the computing market.",
+    "pub_date": "2026-08-24T02:54:40.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "Mac",
+    "id": 5556
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Hands-on: Mophie’s new battery banks offer pocketable power, built-in cables at low price",
     "link": "https://9to5mac.com/2026/08/23/mophie-new-pocketable-battery-banks-for-iphone/",
     "content": "Recently, Mophie debuted four new power banks for the iPhone. They slide nicely into your pocket, come in two finishes, offer built-in cables, and pack 5000mAh or 10000mAh of capacity. They’re by no means the smallest battery banks on the market, though they hit a price point that makes them worthwhile.",
@@ -2988,15 +2998,5 @@
     "creator": "Ben Lovejoy",
     "tags": "iOS",
     "id": 5129
-  },
-  {
-    "source_name": "Macworld",
-    "title": "A20 Pro speed and efficiency improvements leaked? Not so fast…",
-    "link": "https://www.macworld.com/article/3214376/a20-pro-speed-and-efficiency-improvements-leaked-not-so-fast.html",
-    "content": "Macworld\n\n\n\n\n\nYou may have seen several news stories out there referencing this Fixed Focus Digital rumor on Weibo, claiming that it shows the speed and power efficiency improvements of Apple’s A20 chip coming to the iPhone 18 Pro and iPhone Ultra next month.\nIt’s important to note what is going on here, because this is not a leak about A20 improvements; it’s about the new manufacturing process from TSMC that the A20 is suspected of using. And even then, it’s not saying what most reports think it’s saying.\nYes, Apple is expected to be the first large-scale customer to use TSMC’s new 2nm process that uses a new “gate all-around” or GAA manufacturing technique. We said as much in our A20 preview earlier this year.\nThe Fixed Focus Digital account on Weibo says the new TSMC process delivers a performance improvement of about 18% and power reduction of about 30%. \nAll that is true (and previously reported) but that does not mean that Apple’s A20 will be 18% faster or use 30% less power!\nFirst, understand that those specs are about a manufacturing process technology and do not apply to every chip made with it. The performance and power efficiency of any processor are the result of many design characteristics, not just the fabrication process. \nSecond, those are individual figures that require context. When TSMC reports that a new process delivers a performance improvement of 18 percent, what they mean is “a chip made with this new process can run up to 18 percent faster than the identical chip made with our previous process.” And when it says there’s a 30 percent reduction in power use, they’re actually saying, “the same chip running at the same speed will use 30 percent less power.”\nIt is not both 18 percent faster and 30 percent more efficient at the same time, and those figures would only hold up with like-for-like chip designs, anyway.\nWill the A20 Pro be faster? Definitely! Will it be 18 percent faster? Maybe! But that performance boost will come because of all the design changes Apple is making. Will it be more power efficient? Again, yes, when running at comparable speeds—but when running flat-out, the A20 Pro might use just as much power as the A19 Pro, or even more.\nApple’s A20 Pro is going to have several important design changes, likely with an increased transistor count compared to the A19 Pro. It will feature architectural changes to the cores (CPU, GPU, and Neural Engine) as well as other performance-altering characteristics, such as changes to cache size. But at the end of the day, we just don’t know how much faster the A20 is going to be because we don’t know what Apple’s doing with the design. \nMy guess would be CPU performance around 15 percent higher and GPU performance as much as 20-30% higher, because that has been the story for every new A-series chip for years now. Power efficiency will come down to a wide variety of changes to the new phones: RAM type and amount, cooling, display efficiency, wireless radio efficiency, and more.",
-    "pub_date": "2026-08-18T11:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,Rumors,Silicon",
-    "id": 5134
   }
 ]
