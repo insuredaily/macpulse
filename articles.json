@@ -1,6 +1,56 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "iOS 27 adds three new iPhone features I’ve been really loving",
+    "link": "https://9to5mac.com/2026/08/24/ios-27-adds-three-new-iphone-features-ive-been-really-loving/",
+    "content": "iOS 27 is packed with new features across Messages, Notes, Apple Wallet, CarPlay, and more. Here are three of my favorite new iOS 27 features so far.",
+    "pub_date": "2026-08-24T19:23:04.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 5628
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Here’s everything new Apple TV has coming in September",
+    "link": "https://9to5mac.com/2026/08/24/heres-everything-new-apple-tv-has-coming-in-september-2026/",
+    "content": "Apple TV kicks off fall with several high-profile premieres in September, including a Ryan Reynolds film, the return of Slow Horses, a Matthew McConaughey comedy series, and more. Here’s what’s new on Apple TV this September.",
+    "pub_date": "2026-08-24T19:12:48.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "General",
+    "id": 5629
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple gearing up to start filming 'Ted Lasso' season 5 in January",
+    "link": "https://appleinsider.com/articles/26/08/24/apple-gearing-up-to-start-filming-ted-lasso-season-5-in-january?utm_source=rss",
+    "content": "Apple is wasting little time following the recent record-breaking \"Ted Lasso\" season premiere, with production on a fifth season to begin in early 2027.\n\nImage credit: Apple TV\n\"Ted Lasso\" recently had its fourth season premiere, which drew nearly 300 million U.S. viewing minutes across its first two days. It has officially become the biggest launch for Apple TV to date.\nNow, it seems like Apple's ready to get the ball rolling on season five. According to Sigmund Judge, production is provisionally set to kick off in January.\nJudge suggests that season 5 of \"Ted Lasso\" could return to the small screen as soon as 2027. Of course, that assumes that production hits no snags.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-24T19:06:22.000Z",
+    "creator": "Amber Neely <amber@appleinsider.com>",
+    "tags": "General",
+    "id": 5623
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "This is the first look at the inside of Apple's AI servers",
+    "link": "https://appleinsider.com/articles/26/08/24/this-is-the-first-look-at-the-inside-of-apples-ai-servers?utm_source=rss",
+    "content": "Photographs showing the inside of an Apple Silicon AI server have surfaced online, giving a glimpse of how Apple designed its Private Cloud Compute hardware.\n\n\nInside an Apple server - Image Credit: @hsuchingpo/X\nApple's efforts to catch up in the field of AI have already led to the creation of Private Cloud Compute, namely Apple's own brand of secure AI cloud computing.\nWhile it has started to ship its own servers from its facility in Houston, Texas, there hasn't been much coverage about the server hardware itself. While we still don't know about the hardware, we now have a closer look of how it's all laid out internally.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-24T19:00:37.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "Silicon",
+    "id": 5631
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iPhone Ultra is coming, but it might not have these key features",
+    "link": "https://9to5mac.com/2026/08/24/iphone-ultra-wont-have-these-five-features/",
+    "content": "Apple’s first foldable iPhone will reportedly be announced in just over two weeks. Despite potentially being branded as the “iPhone Ultra” and priced at over $2,000, it will have several big limitations.",
+    "pub_date": "2026-08-24T18:58:49.000Z",
+    "creator": "Chance Miller",
+    "tags": "iOS",
+    "id": 5630
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "9to5Mac Daily: August 24, 2026 – Walmart Apple Pay rollout, Apple layoffs",
     "link": "https://9to5mac.com/2026/08/24/daily-august-24-2026/",
     "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.",
@@ -38,16 +88,6 @@
     "creator": "Macworld",
     "tags": "General",
     "id": 5627
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple gearing up to start filming 'Ted Lasso' season 5 in January",
-    "link": "https://appleinsider.com/articles/26/08/24/apple-gearing-up-to-start-filming-ted-lasso-season-5-in-january?utm_source=rss",
-    "content": "Apple is wasting little time following the recent record-breaking \"Ted Lasso\" season premiere, with production on a fifth season to begin in early 2027.\n\nImage credit: Apple TV\n\"Ted Lasso\" recently had its fourth season premiere, which drew nearly 300 million U.S. viewing minutes across its first two days. It has officially become the biggest launch for Apple TV to date.\nNow, it seems like Apple's ready to get the ball rolling on season five. According to Apple TV leaker Sigmund Judge, production is provisionally set to kick off in January.\nJudge suggests that season 5 of \"Ted Lasso\" could return to the small screen as soon as 2027. Of course, that assumes that production hits no snags.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-24T17:51:01.000Z",
-    "creator": "Amber Neely <amber@appleinsider.com>",
-    "tags": "General",
-    "id": 5623
   },
   {
     "source_name": "AppleInsider",
@@ -2958,45 +2998,5 @@
     "creator": "Marcus Mendes",
     "tags": "Services",
     "id": 5205
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Comcast just turned millions of Xfinity routers into motion sensors",
-    "link": "https://9to5mac.com/2026/08/18/comcast-just-turned-millions-of-xfinity-routers-into-motion-sensors/",
-    "content": "Comcast launched Xfinity Shield today, a new home protection platform that includes a feature to turn routers into motion sensors. Here are the details.",
-    "pub_date": "2026-08-18T20:33:55.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "General",
-    "id": 5206
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Firefox Smart Window adds AI web search, automatic tab groups, and more",
-    "link": "https://9to5mac.com/2026/08/18/firefox-smart-window-adds-ai-web-search-automatic-tab-groups-and-more/",
-    "content": "Mozilla today announced new features to Firefox’s AI-powered Smart Window, which remains in beta. Here are the details.",
-    "pub_date": "2026-08-18T20:23:57.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 5201
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple's Home Hub Will Have a Widget Gallery With iPhone Widget Support",
-    "link": "https://www.macrumors.com/2026/08/18/apple-home-hub-widget-gallery/",
-    "content": "Apple is working on a home hub that incorporates Siri AI, and it's set to launch as soon as this year. The home hub will use a Widget Gallery that lets users select the content they want to appear on the device's home screen.\r\n\r\n\r\nMentions of the Widget Gallery were found in macOS Tahoe 26.7, an update that leaked a long list of unreleased Apple products. The strings were found in a file named PosterKit-J490, and J490 is the codename for the home hub. PosterKit is Apple's framework for Lock Screen customization, and the hub's home screen could have many of the same options for icons, widgets, and clock faces.\r\n\r\niPad, and Mac for adding widgets to the Home Screen and Lock Screen of those devices, and the home hub will have a similar mechanism.\r\n\r\nBased on the code, widgets installed on a linked iPhone will be suggested on the home hub, much like how iPhone widgets are available on a Mac without an app being installed. It looks like third-party app widgets may be supported in addition to Apple's own apps. iPhone app widgets displayed on the home hub will have information mirrored from the iPhone.\r\n\r\nAll users in the home will be able to see the widgets installed on the home hub, but content in widgets will only be visible when the primary linked device is in the home for privacy protection.\r\n\r\nA Smart Stack will automatically rotate through widgets to show relevant information throughout the day, and users will also be able to flip through the different Smart Stack options. Apple already has Smart Stack on its other devices, including the Apple Watch. \r\n\r\nApp Store, but it will support Apple apps like Safari, Apple News, Apple Music, Notes, Calendar, Photos, and Home. Tapping on an installed widget from the home screen could launch a full app with more information. Code references a Face Gallery too, suggesting users will be able to select different clock options for the device's home screen, and it indicates that the hub will be able to be added to HomeKit scenes and automations alongside other smart home accessories.\r\n\r\ncan be found in our guide.\nTag: Apple Command Center\nThis article, \"Apple's Home Hub Will Have a Widget Gallery With iPhone Widget Support\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-18T19:56:40.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,iOS,App Store,Services",
-    "id": 5200
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Here’s everything new for Apple Calendar in iOS 27",
-    "link": "https://9to5mac.com/2026/08/18/heres-everything-new-for-apple-calendar-in-ios-27/",
-    "content": "iOS 27 is packed with new features for Apple Wallet, Messages, Notes, and other system apps—including Calendar. Here’s everything new for Apple’s Calendar app in iOS 27.",
-    "pub_date": "2026-08-18T19:37:21.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS,App Store",
-    "id": 5202
   }
 ]
