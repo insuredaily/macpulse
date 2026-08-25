@@ -1,5 +1,55 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Tom Selleck confirmed as guest star in upcoming Apple TV comedy series",
+    "link": "https://9to5mac.com/2026/08/24/tom-selleck-confirmed-as-guest-star-in-upcoming-apple-tv-comedy-series/",
+    "content": "Deadline reports that Tom Selleck (Friends, Blue Bloods) has been confirmed as a guest star on an upcoming Apple TV comedy starring Elizabeth Banks (The Hunger Games, Love & Mercy). Here are the details.",
+    "pub_date": "2026-08-25T01:05:52.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 5654
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Nuki Smart Lock & Keypad 2 NFC review: A low-profile lock with Apple Home Key support",
+    "link": "https://appleinsider.com/articles/26/08/25/nuki-smart-lock-keypad-2-nfc-review-a-low-profile-lock-with-apple-home-key-support?utm_source=rss",
+    "content": "If you're looking for a simple way to access your home, the Nuki Smart Lock and Keypad 2 NFC combo is perfect for renters while supporting in-demand features like Apple Home Key.\n\n\nNuki Smart Lock & Keypad 2 NFC review\nI never want to own another smart lock without Apple Home Key support. Retrofit smart door locks have a problem though, as they don't have an external-facing component for NFC usage.\nThat's where the Nuki Smart Lock and Keypad 2 NFC comes in. The lock attaches to the indoor-side of your deadbolt while the Keypad 2 NFC attaches to the wall outside.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-25T00:05:10.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "General",
+    "id": 5655
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Smart TV analytics provide dire numbers for Apple TV F1 viewership, but not whole story",
+    "link": "https://appleinsider.com/articles/26/08/25/smart-tv-analytics-provide-dire-numbers-for-apple-tv-f1-viewership-but-not-whole-story?utm_source=rss",
+    "content": "Hopes were high for Apple TV and F1 streaming in early 2026, but a recent set of data suggests that things fell off sharply in May and viewership has been down double digits since.\n\n\nApple TV and F1 partnership may have declining viewership numbers\nStatistical analysis of viewership numbers is a tricky game on its own, especially when dealing with viewership numbers on Apple platforms. Samba is an analytics company that thrives on data obtained, often without the user's knowledge, thanks to being embedded in smart TV software.\nApple, however, is a company that offers the Apple TV set-top box and the Apple TV app, sans Samba. Given that, a report from USA Today on data obtained from Samba is an interesting peek into Apple's deal with F1.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-25T00:04:40.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "App Store",
+    "id": 5656
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "AirTags 4-pack drops to lowest price yet",
+    "link": "https://www.cultofmac.com/deals/airtag-deal",
+    "content": "You can hoard Apple trackers for yourself or make the whole family a bit more organized for less money, thanks to this sweet AirTag deal.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-24T23:49:38.000Z",
+    "creator": "Ed Hardy",
+    "tags": "Mac",
+    "id": 5659
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Siri AI Will Have a Waitlist When iOS 27 Launches",
+    "link": "https://www.macrumors.com/2026/08/24/siri-ai-ios-27-waitlist/",
+    "content": "iOS 27, iPadOS 27, and macOS Golden Gate include Siri AI, Apple's much more capable version of ‌Siri‌. When the new updates launch, it appears Apple will use a waitlist and limit initial access.\r\n\r\n\r\nOn the MacRumors forums, Mactracker found that the seventh betas of ‌iOS 27‌, ‌iPadOS 27‌, and ‌macOS Golden Gate‌ include waitlist infrastructure.\r\n\r\nApple will use dynamic wait time messages once a user joins the ‌Siri‌ AI waitlist. It looks like Apple will give a clear estimate of the wait, and the company will be able to adjust the wait time readouts server-side based on demand and capacity. Apple will send a notification when ‌Siri‌ AI can be used.\r\n\r\nhad a waitlist during the beta testing period. It took up to a week for some people to get access, but there's no indication yet of how long people might have to wait after the public launch in September.\nRelated Roundups: iOS 27, iPadOS 27\nTag: Siri\nThis article, \"Siri AI Will Have a Waitlist When iOS 27 Launches\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-24T23:37:02.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS",
+    "id": 5653
+  },
+  {
     "source_name": "MacRumors",
     "title": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas",
     "link": "https://www.macrumors.com/2026/08/24/apple-releases-ios-27-public-beta-5/",
@@ -2948,55 +2998,5 @@
     "creator": "Mitchel Broussard",
     "tags": "Mac,Silicon",
     "id": 5234
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Epic Games vs Apple -- The continuing six-year App Store saga",
-    "link": "https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_source=rss",
-    "content": "The Epic Games \"Fortnite\" versus Apple's AppStore antitrust trial has completed its last week. Here's what you need to know about the saga, with closing arguments left to go. Between Epic CEO Tim Sweeney's ongoing complaints, the trial, Apple's lies, and the Supreme Court, the Epic vs. Apple App Store lawsuit continues to roll on years later. Here's all you need to know about the long-running courtroom drama, updated on August 19, 2026.\n\n\n\nWithin the space of a few weeks in 2020, a disagreement between the ambitions of Epic Games and the intention to maintain the App Store status quo by Apple courted considerable controversy. The affair commenced with little warning to consumers but quickly led to international interest as the battle sought to change one of the fundamental elements of the App Store: how much Apple earns.\nApple's dominance has previously led to an antitrust probe by the U.S. Justice Department into the App Store's fees and policies. Still, the disagreement between Apple and Epic was being made more public and directly affected younger customers.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-19T13:49:11.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "App Store",
-    "id": 4931
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Get lifetime access to this AI writing powerhouse for just $79",
-    "link": "https://www.cultofmac.com/deals/umanwrite-ai-writing-platform",
-    "content": "UmanWrite generates unlimited words, learns your writing style, humanizes AI drafts, and includes grammar and AI-detection tools.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-19T13:20:19.000Z",
-    "creator": "Cult of Mac Deals",
-    "tags": "Mac",
-    "id": 5238
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Apple’s smart display widget gallery detailed in leaked macOS code",
-    "link": "https://www.cultofmac.com/news/apple-smart-display-home-hub-widget-gallery-leak",
-    "content": "Apple is reportedly developing its first smart display, and details of the upcoming product's widget gallery leak out in macOS code.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-19T13:08:02.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,Rumors",
-    "id": 5239
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple's home automation hardware might work more like Apple Watch than a HomePod",
-    "link": "https://appleinsider.com/articles/26/08/19/apples-home-automation-hardware-will-work-more-like-an-apple-watch-than-a-homepod?utm_source=rss",
-    "content": "New code references found in macOS Tahoe describe how the rumored HomeHub will work. If you've got an Apple Watch, you'll feel right at home.\n\n\nDetails of Apple's HomeHub have been revealed\nApple has been rumored for years to be making what has variously been known as a HomeHub, a HomePad, or just a HomePod with a screen. Now in the midst of many future products seemingly revealed in a macOS release, there is evidence of how the device will function.\nThe code specifically says that the device will have a home screen that features what are called \"Faces\" and a \"Face Gallery\". It sounds similar to the Apple Watch, and users will be able to select widgets to go on these faces like Complications.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-19T12:46:47.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "Mac,iOS",
-    "id": 5233
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Hidden AirTag appears to confirm suspicions about illicit AI book scanning",
-    "link": "https://9to5mac.com/2026/08/19/hidden-airtag-appears-to-confirm-suspicions-about-illicit-ai-book-scanning/",
-    "content": "Suspicious bulk orders of used books have led many booksellers to believe they are being purchased on behalf of AI companies so that they can be scanned and used as training material without author consent or payment.\nAn AirTag hidden inside a rare book sold as part of a bulk order appears to confirm the theory after it ended up at an Amazon AI training facility …",
-    "pub_date": "2026-08-19T12:20:38.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "General",
-    "id": 5231
   }
 ]
