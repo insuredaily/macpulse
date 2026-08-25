@@ -1,5 +1,25 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "M6 Mac mini vs M4 Mac mini: Compact powerhouses compared",
+    "link": "https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m4-mac-mini-compact-powerhouses-compared?utm_source=rss",
+    "content": "Apple has refreshed the Mac mini adding the M6, in an unusually timed update. Here's how the new model specs compare against the M4 version it replaces.\n\n\nM6 Mac mini vs M4 Mac mini\nIn a rare move, Apple has updated the Mac mini just before its main iPhone event, rather than during its usual fall Mac window. The big change is the shift from the M4 generation it has been on for almost two years.\nThat shift isn't to the M5, but to M6.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-25T22:20:57.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "Mac,iOS,Silicon",
+    "id": 5736
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Here are all the Apple devices with full Wi-Fi 7 support",
+    "link": "https://9to5mac.com/2026/08/25/here-are-all-the-apple-devices-with-full-wi-fi-7-support/",
+    "content": "Today, Apple updated the Mac mini and Mac Studio, bringing Wi-Fi 7 support to both product lines for the first time. Here’s the full list of Apple devices that support all Wi-Fi 7 features.",
+    "pub_date": "2026-08-25T21:45:10.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac",
+    "id": 5775
+  },
+  {
     "source_name": "MacRumors",
     "title": "Apple Maps Ads Are Here, and There's No Way to Turn Them Off",
     "link": "https://www.macrumors.com/2026/08/25/apple-maps-ads-live/",
@@ -38,16 +58,6 @@
     "creator": "Wesley Hilliard <wes@appleinsider.com>",
     "tags": "Mac,Silicon",
     "id": 5771
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "M6 Mac mini vs M4 Mac mini: Compact powerhouses compared",
-    "link": "https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m4-mac-mini-compact-powerhouses-compared?utm_source=rss",
-    "content": "Apple has refreshed the Mac mini adding the M6, in an unusually timed update. Here's how the new model specs compare against the M4 version it replaces.\n\n\nM6 Mac mini vs M4 Mac mini\nIn a rare move, Apple has updated the Mac mini just before its main iPhone event, rather than during its usual fall Mac window. The big change is the shift from the M4 generation it has been on for almost two years.\nThat shift isn't to the M5, but to M6.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-25T20:14:45.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "Mac,iOS,Silicon",
-    "id": 5736
   },
   {
     "source_name": "9to5Mac",
@@ -103,8 +113,8 @@
     "source_name": "MacRumors",
     "title": "New Mac Mini and Mac Studio: 13 Things You Might Have Missed",
     "link": "https://www.macrumors.com/2026/08/25/mac-studio-mac-mini-tidbits/",
-    "content": "Apple today announced new M6 and M5 Pro Mac mini models and M5 Max and M5 Ultra Mac Studio models. We've covered all of the announcements in-depth, but wanted to highlight some interesting tidbits about the new machines.\r\n\r\n\r\n\r\nPrice Increases - The Mac mini now starts at $899, $300 over the original starting price of the M4 Mac mini when it launched in October 2024. Mac Studio pricing starts at $2,499, $500 more than the original price of the M4 Max model when it came out in March 2025.\n\r\n \t\nConnectivity - Apple upgraded the new Macs with Wi-Fi 7 and Bluetooth 6, so they are on par with the connectivity standards in the latest iPhone models. Wi-Fi 7 offers faster data speeds in the 6GHz band, lower latency, and an option to connect across 2.4GHz, 5GHz, and 6GHz networks at once for reliability improvements.\n\r\n \t\nGenlock - The ‌Mac mini‌ and ‌Mac Studio‌ support genlock over USB-C, so there's no need for a separate sync box. Genlock is used in multi-camera shoots and virtual production to lock timing to a shared reference signal. The Mac's display and the camera filming it are synchronized, preventing flickering and tearing from a mismatch between the display refresh rate and camera shutter. Apple previously added genlock support to the iPhone 17 Pro models, so now an ‌iPhone 17 Pro‌ and one of the new Macs can work in tandem for pros who need the feature.\n\r\n \t\nEthernet - The ‌Mac mini‌ now starts with 2.5Gb Ethernet instead of 1Gb. There's an option to upgrade to 10Gb, which is what the ‌Mac Studio‌ starts with (same as the prior-generation model).\n\r\n \t\nNeural Engine - The M6 chip has an upgraded Neural Engine with two 16-core engines instead of just one. Apple says the new Neural Engine offers 2x more peak compute so AI workflows run faster.\n\r\n \t\nGPU - The M6 ‌Mac mini‌'s 12-core GPU has Neural Accelerators in each core, offering up to 4x faster AI performance and 2x faster graphics than the ‌M4 Mac mini‌. The ‌Mac Studio‌'s M5 Ultra is also the first Ultra chip with Neural Accelerators. Peak AI compute performance is 4.3x the M3 Ultra's performance.\n\r\n \t\nSSD - ‌Mac Studio‌ storage is twice as fast with new SSD architecture built on PCIe Gen 6.\n\r\n \t\nSSD Pricing - As Daring Fireball points out, upgrading a ‌Mac mini‌ with a 2TB SSD costs $1,000, which is more than the $899 base price of the machine. Upgrading to the 4TB SSD for the M5 Pro costs $1,800, which is $100 over the price of the base machine.\n\r\n \t\nThunderbolt - The M6 ‌Mac mini‌ continues to have Thunderbolt 4, not Thunderbolt 5. The M5 Pro model does have Thunderbolt 5.\n\r\n \t\nCurrent Max Pricing - An M5 Pro ‌Mac mini‌ with 18-core CPU, 64GB RAM, an 8TB SSD, and 10GbE is $6,799. The M5 Ultra ‌Mac Studio‌ with 36-core CPU, 256GB RAM, and 16TB SSD is $18,299.\n\r\n \t\n512GB RAM - The M5 Ultra ‌Mac Studio‌ supports up to 512GB RAM, with the option coming in late October. Upgrading to 256GB RAM costs $4,000, and the 512GB option will be even more expensive. 96GB and 256GB RAM are the only options right now.\n\r\n \t\nAnnouncement Timing - This is the first time Apple has announced new Macs in August since the 27-inch iMac debuted in August 2020.\n\r\n \t\nmacOS Golden Gate - When the new machines launch on September 22, they will likely have macOS Golden Gate installed. The software update is probably going to come out the week of September 14.\n\r\n\r\nRelated Roundups: Mac Studio, Mac mini\nBuyer's Guide: Mac Studio (Buy Now), Mac Mini (Buy Now)\nRelated Forums: Mac Studio, Mac mini\nThis article, \"New Mac Mini and Mac Studio: 13 Things You Might Have Missed\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-25T18:41:44.000Z",
+    "content": "Apple today announced new M6 and M5 Pro Mac mini models and M5 Max and M5 Ultra Mac Studio models. We've covered all of the announcements in-depth, but wanted to highlight some interesting tidbits about the new machines.\r\n\r\n\r\n\r\nPrice Increases - The Mac mini now starts at $899, $300 over the original starting price of the M4 Mac mini when it launched in October 2024. Mac Studio pricing starts at $2,499, $500 more than the original price of the M4 Max model when it came out in March 2025.\n\r\n \t\nConnectivity - Apple upgraded the new Macs with Wi-Fi 7 and Bluetooth 6, so they are on par with the connectivity standards in the latest iPhone models. Wi-Fi 7 offers faster data speeds in the 6GHz band, lower latency, and an option to connect across 2.4GHz, 5GHz, and 6GHz networks at once for reliability improvements.\n\r\n \t\nGenlock - The ‌Mac mini‌ and ‌Mac Studio‌ support genlock over USB-C, so there's no need for a separate sync box. Genlock is used in multi-camera shoots and virtual production to lock timing to a shared reference signal. The Mac's display and the camera filming it are synchronized, preventing flickering and tearing from a mismatch between the display refresh rate and camera shutter. Apple previously added genlock support to the iPhone 17 Pro models, so now an ‌iPhone 17 Pro‌ and one of the new Macs can work in tandem for pros who need the feature.\n\r\n \t\nEthernet - The ‌Mac mini‌ now starts with 2.5Gb Ethernet instead of 1Gb. There's an option to upgrade to 10Gb, which is what the ‌Mac Studio‌ starts with (same as the prior-generation model).\n\r\n \t\nNeural Engine - The M6 chip has an upgraded Neural Engine with two 16-core engines instead of just one. Apple says the new Neural Engine offers 2x more peak compute so AI workflows run faster.\n\r\n \t\nGPU - The M6 ‌Mac mini‌'s 12-core GPU has Neural Accelerators in each core, offering up to 4x faster AI performance and 2x faster graphics than the ‌M4 Mac mini‌. The ‌Mac Studio‌'s M5 Ultra is also the first Ultra chip with Neural Accelerators. Peak AI compute performance is 4.3x the M3 Ultra's performance.\n\r\n \t\nSSD - ‌Mac Studio‌ storage is twice as fast with new SSD architecture built on PCIe Gen 6.\n\r\n \t\nSSD Pricing - As Daring Fireball points out, upgrading a ‌Mac mini‌ with a 2TB SSD costs $1,000, which is more than the $899 base price of the machine. Upgrading to the 4TB SSD for the M5 Pro costs $1,800, which is $100 over the price of the base machine.\n\r\n \t\nThunderbolt - The M6 ‌Mac mini‌ continues to have Thunderbolt 4, not Thunderbolt 5. The M5 Pro model does have Thunderbolt 5.\n\r\n \t\nCurrent Max Pricing - An M5 Pro ‌Mac mini‌ with 18-core CPU, 64GB RAM, an 8TB SSD, and 10GbE is $6,799. The M5 Ultra ‌Mac Studio‌ with 36-core CPU, 256GB RAM, and 16TB SSD is $18,299.\n\r\n \t\n512GB RAM - You can only buy the M5 Ultra with 96GB or 256GB of RAM right now, but a 512GB option is coming in late October. Since upgrading from 96GB RAM to 256GB RAM costs $4,000, the 512GB option will likely cost at least $6,000. \n\r\n \t\nAnnouncement Timing - This is the first time Apple has announced new Macs in August since the 27-inch iMac debuted in August 2020.\n\r\n \t\nmacOS Golden Gate - When the new machines launch on September 22, they will likely have macOS Golden Gate installed. The software update is probably going to come out the week of September 14.\n\r\n\r\nRelated Roundups: Mac Studio, Mac mini\nBuyer's Guide: Mac Studio (Buy Now), Mac Mini (Buy Now)\nRelated Forums: Mac Studio, Mac mini\nThis article, \"New Mac Mini and Mac Studio: 13 Things You Might Have Missed\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-25T18:41:35.000Z",
     "creator": "Juli Clover",
     "tags": "Mac,iOS,Silicon",
     "id": 5759
@@ -2988,15 +2998,5 @@
     "creator": "Joe Rossignol",
     "tags": "iOS,App Store",
     "id": 5349
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "MacBook Ultra is coming: Six new features launching this fall",
-    "link": "https://9to5mac.com/2026/08/20/macbook-ultra-is-coming-six-new-features-launching-this-fall/",
-    "content": "Apple has a new MacBook Ultra rumored to launch this fall as part of its expanding ‘Ultra’ lineup. Here are six new features expected with the MacBook Ultra.",
-    "pub_date": "2026-08-20T16:18:00.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "Mac",
-    "id": 5351
   }
 ]
