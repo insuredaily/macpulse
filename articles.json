@@ -1,5 +1,35 @@
 [
   {
+    "source_name": "MacRumors",
+    "title": "Apple Maps Ads Are Here, and There's No Way to Turn Them Off",
+    "link": "https://www.macrumors.com/2026/08/25/apple-maps-ads-live/",
+    "content": "Ads in Apple Maps are live in the United States and Canada, which means iPhone and iPad users will see them when searching for locations and when viewing Suggested Places.\r\n\r\n\r\nApple announced plans to bring ads to the Maps app in March, and said the feature would roll out starting in late summer. Apple confirmed to 9to5Mac that ads began showing up for users over the last few days, with ad placement to ramp up in the coming weeks.\r\n\r\nAds are shown in Suggested Places when initiating a search and after searching if a company has bought an ad for a keyword you're looking for. Ads are shown at the top of search results, with one ad per set of search results.\r\n\r\nThere is no option to turn off ads in the Maps app, but ads are clearly labeled with a blue \"Ad\" tag. Apple says ads you interact with in the Maps app are not associated with your Apple Account, and data is not shared with third parties.\r\n\r\nshowing up in iOS 26 updates. Apple started allowing businesses to purchase ad slots in August, offering a 15 percent credit toward future ad spend as an incentive.\r\n\r\nApple's Advertising Services policy. Ads that promote or reference medical services may be allowed, and are evaluated on a case-by-case basis. Maps ads also have to adhere to Apple's other advertising rules.\nTags: Apple Ads, Apple Maps\nThis article, \"Apple Maps Ads Are Here, and There's No Way to Turn Them Off\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-25T21:13:58.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,App Store",
+    "id": 5772
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "OpenAI announces the Admin plugin for ChatGPT Work and Codex",
+    "link": "https://9to5mac.com/2026/08/25/openai-announces-the-admin-plugin-for-chatgpt-work-and-codex/",
+    "content": "OpenAI’s new ChatGPT Admin plugin lets workspace admins manage users and permissions, analyze usage, and build reports directly from a conversation. Here are the details.",
+    "pub_date": "2026-08-25T20:56:02.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 5773
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iOS 27 release date: Here’s when the new iPhone update will launch",
+    "link": "https://9to5mac.com/2026/08/25/ios-27-release-date-when-next-major-iphone-update-is-coming/",
+    "content": "The next major iPhone software version is iOS 27, and it’s launching very soon. Here’s when to expect the public release for iOS 27.",
+    "pub_date": "2026-08-25T20:45:15.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 5774
+  },
+  {
     "source_name": "AppleInsider",
     "title": "JetBrains local model won't cost any tokens, but needs a $2,700 Mac mini to run it",
     "link": "https://appleinsider.com/articles/26/08/25/jetbrains-local-model-wont-cost-any-tokens-but-needs-a-2700-mac-mini-to-run-it?utm_source=rss",
@@ -2968,35 +2998,5 @@
     "creator": "Ryan Christoffel",
     "tags": "Mac",
     "id": 5351
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Watch Alerted Runner to Serious Heart Problem",
-    "link": "https://www.macrumors.com/2026/08/20/apple-watch-alerted-runner-to-heart-problem/",
-    "content": "In a new ad shared on its YouTube channel today, Apple highlighted how the Apple Watch alerted an athlete named Connor to signs of atrial fibrillation. Apple said doctors later uncovered that Connor had a congenital heart condition, which resulted in him having open-heart surgery, so the Apple Watch potentially saved his life.\r\n\r\n\n\r\nAfter noticing he had a very fast heart rate while training for a triathlon, Connor used the ECG app on his Apple Watch, which detected signs of atrial fibrillation.\r\n\r\nRelated Roundup: Apple Watch 11\nTag: Apple Ads\nBuyer's Guide: Apple Watch (Don't Buy)\nThis article, \"Apple Watch Alerted Runner to Serious Heart Problem\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-20T15:58:09.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "iOS,App Store",
-    "id": 5350
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple TV has beloved comedy returning soon, with Pluribus star added",
-    "link": "https://9to5mac.com/2026/08/20/apple-tv-has-beloved-comedy-returning-soon-with-pluribus-star-added/",
-    "content": "Owen Wilson’s comedy Stick has a lot in common with Ted Lasso, and Apple just announced it’s returning soon for season 2—with Pluribus star Rhea Seehorn joining the cast.",
-    "pub_date": "2026-08-20T15:46:55.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "General",
-    "id": 5352
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Today in Apple history: Apple Card launches as most consumer-friendly credit card ever",
-    "link": "https://www.cultofmac.com/apple-history/apple-card-launch",
-    "content": "On August 20, 2019, the Apple Card launch brought new perks to U.S. consumers, who quickly fell in love with the titanium credit card.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-20T15:23:49.000Z",
-    "creator": "Ed Hardy",
-    "tags": "Mac",
-    "id": 5348
   }
 ]
