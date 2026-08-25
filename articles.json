@@ -1,5 +1,85 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "Apple Maps ads are finally showing up on iPhone",
+    "link": "https://appleinsider.com/articles/26/08/25/apple-maps-ads-are-finally-showing-up-on-iphone?utm_source=rss",
+    "content": "Apple Maps ads have finally arrived after months of buildup, with the first sponsored listings rolling out on iPhones across the US and Canada.\n\n\nAn example of an Apple Maps ad\nIn March, Apple confirmed it would bring ads to Apple Maps. The ads were part of the greater Apple Business rollout.\nIt wasn't known exactly when Apple would begin rolling out the ads, but the company had set a tentative release date for Summer 2026. And, true to its word, we're now seeing ads popping up in Apple Maps.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-25T19:25:54.000Z",
+    "creator": "Amber Neely <amber@appleinsider.com>",
+    "tags": "iOS",
+    "id": 5764
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "M5 Ultra Mac Studio vs M3 Ultra Mac Studio: Apple's AI desktop, compared",
+    "link": "https://appleinsider.com/inside/mac-studio/vs/m5-ultra-mac-studio-vs-m3-ultra-mac-studio-apples-ai-desktop-compared?utm_source=rss",
+    "content": "Apple's top-tier Mac, the Mac Studio, has been given a big AI bump with the M5 Ultra. Here's how it compares against the M3 Ultra model it replaces.\n\n\nThe Mac Studio now has M5 Ultra, an upgrade from the M3 Ultra. \nThe new Mac Studio arrived on Tuesday, with the all-new M5 Ultra now the top-of-the-range chip for tough productivity workloads. Apple is positioning it squarely as a desktop for doing a lot of AI-related processing, including running models locally.\nThe design stays faithful to the outgoing model, so the story lives inside the chip. This time, the headline is artificial intelligence rather than raw core counts.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-25T19:19:49.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "Mac,Silicon",
+    "id": 5765
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "This new Android & iPhone tracker hides in your bike or golf clubs with 3-year battery life [Gallery]",
+    "link": "https://9to5google.com/2026/08/25/pebblebee-loc8-android-iphone-bike-tracker/",
+    "content": "Pebblebee has launched “LÔC8,” a unique new Android Find Hub / Apple Find My tracker that’s designed to hide within your bike handles, golf clubs, and other places to help you keep tabs on your gear.",
+    "pub_date": "2026-08-25T18:48:18.000Z",
+    "creator": "9to5Google",
+    "tags": "iOS",
+    "id": 5762
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "New Mac Mini and Mac Studio: 13 Things You Might Have Missed",
+    "link": "https://www.macrumors.com/2026/08/25/mac-studio-mac-mini-tidbits/",
+    "content": "Apple today announced new M6 and M5 Pro Mac mini models and M5 Max and M5 Ultra Mac Studio models. We've covered all of the announcements in-depth, but wanted to highlight some interesting tidbits about the new machines.\r\n\r\n\r\n\r\nPrice Increases - The Mac mini now starts at $899, $300 over the original starting price of the M4 Mac mini when it launched in October 2024. Mac Studio pricing starts at $2,499, $500 more than the original price of the M4 Max model when it came out in March 2025.\n\r\n \t\nConnectivity - Apple upgraded the new Macs with Wi-Fi 7 and Bluetooth 6, so they are on par with the connectivity standards in the latest iPhone models. Wi-Fi 7 offers faster data speeds in the 6GHz band, lower latency, and an option to connect across 2.4GHz, 5GHz, and 6GHz networks at once for reliability improvements.\n\r\n \t\nGenlock - The ‌Mac mini‌ and ‌Mac Studio‌ support genlock over USB-C, so there's no need for a separate sync box. Genlock is used in multi-camera shoots and virtual production to lock timing to a shared reference signal. The Mac's display and the camera filming it are synchronized, preventing flickering and tearing from a mismatch between the display refresh rate and camera shutter. Apple previously added genlock support to the iPhone 17 Pro models, so now an ‌iPhone 17 Pro‌ and one of the new Macs can work in tandem for pros who need the feature.\n\r\n \t\nEthernet - The ‌Mac mini‌ now starts with 2.5Gb Ethernet instead of 1Gb. There's an option to upgrade to 10Gb, which is what the ‌Mac Studio‌ starts with (same as the prior-generation model).\n\r\n \t\nNeural Engine - The M6 chip has an upgraded Neural Engine with two 16-core engines instead of just one. Apple says the new Neural Engine offers 2x more peak compute so AI workflows run faster.\n\r\n \t\nGPU - The M6 ‌Mac mini‌'s 12-core GPU has Neural Accelerators in each core, offering up to 4x faster AI performance and 2x faster graphics than the ‌M4 Mac mini‌. The ‌Mac Studio‌'s M5 Ultra is also the first Ultra chip with Neural Accelerators. Peak AI compute performance is 4.3x the M3 Ultra's performance.\n\r\n \t\nSSD - ‌Mac Studio‌ storage is twice as fast with new SSD architecture built on PCIe Gen 6.\n\r\n \t\nSSD Pricing - As Daring Fireball points out, upgrading a ‌Mac mini‌ with a 2TB SSD costs $1,000, which is more than the $899 base price of the machine. Upgrading to the 4TB SSD for the M5 Pro costs $1,800, which is $100 over the price of the base machine.\n\r\n \t\nThunderbolt - The M6 ‌Mac mini‌ continues to have Thunderbolt 4, not Thunderbolt 5. The M5 Pro model does have Thunderbolt 5.\n\r\n \t\nCurrent Max Pricing - An M5 Pro ‌Mac mini‌ with 18-core CPU, 64GB RAM, an 8TB SSD, and 10GbE is $6,799. The M5 Ultra ‌Mac Studio‌ with 36-core CPU, 256GB RAM, and 16TB SSD is $18,299.\n\r\n \t\n512GB RAM - The M5 Ultra ‌Mac Studio‌ supports up to 512GB RAM, with the option coming in late October. Upgrading to 256GB RAM costs $4,000, and the 512GB option will be even more expensive. 96GB and 256GB RAM are the only options right now.\n\r\n \t\nAnnouncement Timing - This is the first time Apple has announced new Macs in August since the 27-inch iMac debuted in August 2020.\n\r\n \t\nmacOS Golden Gate - When the new machines launch on September 22, they will likely have macOS Golden Gate installed. The software update is probably going to come out the week of September 14.\n\r\n\r\nRelated Roundups: Mac Studio, Mac mini\nBuyer's Guide: Mac Studio (Buy Now), Mac Mini (Buy Now)\nRelated Forums: Mac Studio, Mac mini\nThis article, \"New Mac Mini and Mac Studio: 13 Things You Might Have Missed\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-25T18:41:44.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS,Silicon",
+    "id": 5759
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple Maps launches ads on iPhone, here’s what’s new",
+    "link": "https://9to5mac.com/2026/08/25/apple-maps-launches-ads-on-iphone-heres-whats-new/",
+    "content": "Apple has officially launched ads in Apple Maps, with the rollout ramping up in the coming weeks. Here are the details.",
+    "pub_date": "2026-08-25T18:33:10.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 5763
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Running macOS on iPhone 14 Pro Max is possible, with a catch",
+    "link": "https://www.cultofmac.com/news/macos-iphone-14-pro-max-virtual-mac-jailbreak",
+    "content": "A jailbreak project brings macOS to the iPhone 14 Pro Max, running it as a virtual machine rather than replacing iOS outright.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-25T18:29:34.000Z",
+    "creator": "Anurag Chawake",
+    "tags": "Mac,iOS",
+    "id": 5768
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple to Release 13 More New Products Later This Year",
+    "link": "https://www.macrumors.com/2026/08/25/apple-13-more-products-later-this-year/",
+    "content": "Looking past the new Mac mini and Mac Studio models unveiled today, Apple still has plenty of other new products on its roadmap for this year.\r\n\r\n\r\nIt is nearly September, and that means the iPhone 18 Pro, iPhone 18 Pro Max, and the first-ever foldable iPhone are just around the corner. Other products expected later this year include the Apple Watch Series 12 with a ceramic case option, AirPods 5, an all-new Apple home hub, new Apple TV and HomePod mini models, and more.\r\n\r\nApple is expected to release at least 13 more products by the end of 2026, according to rumors. We have provided a summary below.\r\n\r\niPhones\n\r\n\niPhone 18 Pro: A20 Pro chip, a smaller Dynamic Island, a simplified Camera Control button, a Dark Cherry color option, and more.\n\r\niPhone 18 Pro Max: The same features rumored for the iPhone 18 Pro, but the Pro Max model may be slightly thicker due to a larger battery and a variable aperture camera, which might be exclusive to the Pro Max model this year.\n\r\niPhone Ultra: A foldable iPhone Ultra with a 7.7-inch inner display and 5.3-inch outer display, two rear cameras, one front camera, a Touch ID power button instead of Face ID, and more. iOS 27 is expected to be tailored for the foldable iPhone, allowing for side-by-side apps and other iPad-like multitasking functionality.\n\nApple Watches\n\nApple Watch Series 12: A faster S11 chip or newer, longer battery life, fitness tracking improvements, and a ceramic case option.\n\r\nApple Watch Ultra 4: A faster S11 chip or newer, fitness tracking improvements, and additional satellite features for the Apple Watch Ultra 3 and newer, such as Apple Maps via satellite and the ability to send and receive photos with Messages via satellite. Touch ID was initially rumored, but seemingly ruled out.\n\niPads\n\niPad mini: A19 Pro or A20 Pro chip, an OLED display, a vibration-based speaker system, and a water-resistant design.\n\r\n\nMacs\n\r\n\niMac: M6 chip and new color options.\n\r\nMacBook Pro: A new 14-inch MacBook Pro base model with an M6 chip.\n\nHome\n\r\n\nApple TV: At least five new features, including an A17 Pro chip or newer, an increased 8GB of RAM for Apple Intelligence, Siri AI support, an Apple-designed N1 chip with Wi-Fi 7 support, and an updated Siri Remote.\n\r\nHomePod mini: Newer chip with Siri AI support, improved sound quality, Apple's N1 chip with Wi-Fi 7 support, a second-generation Ultra Wideband chip, and potentially new color options like red.\n\r\nHome Hub: An all-new smart home hub featuring Siri AI, a 6-inch to 7-inch square display, an A18 chip for Apple Intelligence, FaceTime, and more. There will a tabletop version with a speaker base and a wall-mounted version.\n\nHeadphones\n\nAirPods 5: Two new AirPods 5 models with and without active noise cancellation.\n\r\nBeats 360: New over-ear Beats 360 headphones with an AirPods Max-like design, interchangeable ear cushions and headbands, up to 1.75× more noise cancellation than the Beats Studio Pro, IPX4-rated water resistance, and more.\n\r\n\r\nWild Card\n\r\n\nMacBook Ultra: A major MacBook Pro redesign in late 2026 or early 2027, with M5 Pro and M5 Max chips, an OLED display, a touch screen, a Dynamic Island, and a thinner design. On this laptop, which will reportedly be named MacBook Ultra, macOS 27 is expected to offer a touch-friendly interface.\n\nThis article, \"Apple to Release 13 More New Products Later This Year\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-25T18:03:38.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "Mac,iOS,Silicon",
+    "id": 5760
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple's 40W Dynamic Power Adapter Expands to More Countries",
+    "link": "https://www.macrumors.com/2026/08/25/apple-40w-dynamic-power-adapter-europe/",
+    "content": "Alongside the launch of new Mac Studio and Mac mini models, Apple today expanded its 40W Dynamic Power Adapter with 60W Max to Vietnam and countries in Europe that use the type C two-pin Europlug.\r\n\r\n\r\nThe updated variant of the power adapter has a retractable two-prong design. The prongs pop back into the power adapter's enclosure, making it easier to tuck into a bag or a pocket. Apple previously debuted a standard U.S. variant in September 2025 alongside the iPhone 17 models, and a type G plug version in November 2025.\r\n\r\nCountries where the type C 40W Dynamic Power Adapter with 60W Max is available include Austria, Belgium, Czechia, Denmark, Finland, France, Germany, Hungary, Italy, Luxembourg, the Netherlands, Norway, Poland, Portugal, Spain, Sweden, Switzerland, Turkey, and Vietnam. In most eurozone countries, it's priced at €45.\r\n\r\niPhone Air, and the iPad Pro models.\nThis article, \"Apple's 40W Dynamic Power Adapter Expands to More Countries\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-25T17:45:29.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS",
+    "id": 5761
+  },
+  {
     "source_name": "9to5Mac",
     "title": "Apple just revealed two ways iPhone 18 Pro could get big upgrades",
     "link": "https://9to5mac.com/2026/08/25/apple-just-revealed-two-ways-iphone-18-pro-could-get-big-upgrades/",
@@ -23,7 +103,7 @@
     "source_name": "Cult of Mac",
     "title": "Apple’s speedy M6 chip may be dethroned sooner than you expect",
     "link": "https://www.cultofmac.com/news/m6-performance-replaced-m7",
-    "content": "Apple just introduced the high-performance M6 processor in the Mac mini, and it's coming to a range of other devices. But for now long? \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "content": "Apple just introduced the high-performance M6 processor in the Mac mini, and it's coming to a range of other devices. But for how long? \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
     "pub_date": "2026-08-25T17:25:00.000Z",
     "creator": "Ed Hardy",
     "tags": "Mac,Silicon",
@@ -63,7 +143,7 @@
     "source_name": "9to5Mac",
     "title": "New Mac mini and more now available from Amazon for launch day pre-order",
     "link": "https://9to5mac.com/2026/08/25/new-mac-mini-now-available-amazon-launch-day-preorder/",
-    "content": "Apple surprised us with some big Mac news today, including a new lineup of Mac Studio and Mac mini models.\nIf you’re in the market for some of today’s new Apple gear, you can choose to pre-order from Amazon or Apple.\nBuy Mac mini from Amazon\nBuy Mac mini from Apple\nBuy Mac Studio from Apple",
+    "content": "Apple surprised us with some big Mac news today, including a new lineup of Mac Studio and Mac mini models.\nIf you’re in the market for some of today’s new Apple gear, you now have the choice to pre-order from Amazon as well.\nBuy Mac mini from Amazon\nBuy Mac mini from Best Buy\nBuy Mac Studio from B&H Photo",
     "pub_date": "2026-08-25T17:09:04.000Z",
     "creator": "Chance Miller",
     "tags": "Mac",
@@ -93,7 +173,7 @@
     "source_name": "Macworld",
     "title": "Apple Magic Keyboards get cosmetic updates, avoid price hikes",
     "link": "https://www.macworld.com/article/3220260/apple-magic-keyboards-get-cosmetic-updates-avoid-price-hikes.html",
-    "content": "Macworld\n\n\n\n\n\nIf you’re planning on investing in a new M6 Mac mini or M5 Ultra Mac Studio, you might be buying a new Apple Magic Keyboard along with it. Apple has updated its keyboards, too: Certain keys have had their labels changed to symbols instead of names.\nApple introduced these changes with the MacBook Neo and M5 MacBook Air, so the company is basically catching up on normalizing the keys. The Tab, Caps Lock, Shift, Delete, and Return keys no longer have their respective word labels. Instead, they have arrow icons:\nTab is now ⇥\nCaps Lock is now ⇪\nShift is now ⇧\nDelete is now ⌫\nReturn looks similar to ↵ (see photo above)\nThe switch to the graphical labeling is an effort to standardize its keyboards. Apple’s non-English keyboards used symbols, and implementing them in the English keyboard streamlines the production process. However, Apple did not update the keys on the $129 wireless Magic Keyboard with Numeric Keypad that has a Lightning connection for charging.\nSpeaking of the production process, it appears that the Magic Keyboards have not been affected by the worldwide RAM shortage (/sarcasm), so their prices have not changed:\nUSB-C Magic Keyboard: $99/£99\nUSB-C Magic Keyboard with Touch ID: $149/£149\nUSB-C Magic Keyboard with Touch ID and Numeric Keypad: $179/£179 (white); $199/£199 (black)\nIf you prefer not to go with an Apple keyboard, you have plenty to choose from. Check out our guide to the best keyboards. Maybe you should even consider a mechanical keyboard instead of an Apple one.\n\n\t\t\t\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\t\t\t\t\t\n$142.43 at  Amazon$142.43 at  Walmart$149 at  Apple\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\n\n\t\t\t\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\t\t\t\t\t\n$129 at  Apple United States$129.99 at  B&H$129.99 at  Best Buy US",
+    "content": "Macworld\n\n\n\n\n\nIf you’re planning on investing in a new M6 Mac mini or M5 Ultra Mac Studio, you might be buying a new Apple Magic Keyboard along with it. Apple has updated its keyboards, too: Certain keys have had their labels changed to symbols instead of names.\nApple introduced these changes with the MacBook Neo and M5 MacBook Air, so the company is basically catching up on normalizing the keys. The Tab, Caps Lock, Shift, Delete, and Return keys no longer have their respective word labels. Instead, they have arrow icons:\nTab is now ⇥\nCaps Lock is now ⇪\nShift is now ⇧\nDelete is now ⌫\nReturn looks similar to ↵ (see photo above)\nThe switch to the graphical labeling is an effort to standardize its keyboards. Apple’s non-English keyboards have used symbols, and implementing them in the English keyboard streamlines the production process. However, Apple did not update the keys on the $129 wireless Magic Keyboard with Numeric Keypad that has a Lightning connection for charging.\nSpeaking of the production process, it appears that the Magic Keyboards have not been affected by the worldwide RAM shortage (/sarcasm), so their prices have not changed:\nUSB-C Magic Keyboard: $99/£99\nUSB-C Magic Keyboard with Touch ID: $149/£149\nUSB-C Magic Keyboard with Touch ID and Numeric Keypad: $179/£179 (white); $199/£199 (black)\nIf you prefer not to go with an Apple keyboard, you have plenty to choose from. Check out our guide to the best keyboards. Maybe you should even consider a mechanical keyboard instead of an Apple one.\n\n\t\t\t\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\t\t\t\t\t\n$142.43 at  Amazon$142.43 at  Walmart$149 at  Apple\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\n\n\t\t\t\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\t\t\t\t\t\n$129 at  Apple United States$129.99 at  B&H$129.99 at  Best Buy US",
     "pub_date": "2026-08-25T16:20:40.000Z",
     "creator": "Macworld",
     "tags": "Mac,Silicon",
@@ -173,7 +253,7 @@
     "source_name": "9to5Mac",
     "title": "Deals: M6 Mac mini $500+ off with M4 trades, AirTag 2 $20 each, 48GB M5 Pro MacBook Pro $400 off, more",
     "link": "https://9to5mac.com/2026/08/25/deals-m6-mac-mini-airtag-2-48gb-macbook-pro/",
-    "content": "Price drops are still live on AirPods Pro 3 and AirPods Max 2 at $120 off, just make sure you scope out AirTag 2 at the lowest price ever while you still can (from $20 each). Apple has now unleashed the updated M6 Mac mini, pre-orders are now live, and you can land one at $21 Prime shipped right now and you can get a closer look below.",
+    "content": "Update: All M6 Mac mini configurations are now back in-stock at Amazon for pre-order. \nPrice drops are still live on AirPods Pro 3 and AirPods Max 2 at $120 off, just make sure you scope out AirTag 2 at the lowest price ever while you still can (from $20 each). Apple has now unleashed the updated M6 Mac mini, pre-orders are now live, and you can land one at over $500 off with a mid-range M4 Mac mini trade-in at Apple (more $21 Prime shipped right now and you can get a closer look below.",
     "pub_date": "2026-08-25T15:24:39.000Z",
     "creator": "Justin Kahn",
     "tags": "Mac,Silicon",
@@ -213,7 +293,7 @@
     "source_name": "AppleInsider",
     "title": "Mac Studio gets update to M5 Max and M5 Ultra",
     "link": "https://appleinsider.com/articles/26/08/25/mac-studio-gets-update-to-m5-max-and-m5-ultra?utm_source=rss",
-    "content": "Alongside a new M6 Mac mini, Apple has launched new versions of the Mac Studio, using the M5 Max and M5 Ultra processors.\n\n\nMac Studio\nAs consistently expected, Apple has updated the Mac Studio with these two processors. It claims up to 4.3 times faster AI performance, 2 times faster storage, and up to 1.3 times faster CPU speed. The new models come 16 months after the last update at the start of April 2025.\n\"With the powerful M5 Max and the incredible capabilities of M5 Ultra, Mac Studio ushers in a new era of desktop computing, delivering huge performance gains for pro workloads and AI inference with frontier-class models,\" said Johny Srouji, Apple's chief hardware officer in a statement. \"By integrating Neural Accelerators directly into the GPU and offering massive amounts of high-bandwidth unified memory, the new Mac Studio is our most powerful Mac ever.\"\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "content": "Alongside a new M6 Mac mini, Apple has launched new versions of the Mac Studio, using the M5 Max and M5 Ultra processors.\n\n\nMac Studio\nAs consistently expected, Apple has updated the Mac Studio with these two processors. It claims up to 4.3 times faster AI performance, 2 times faster storage, and up to 1.3 times faster CPU speed. The new models come 16 months after the last update at the start of April 2025.\n\n\n\n Continue Reading on AppleInsider | Discuss on our Forums",
     "pub_date": "2026-08-25T14:59:14.000Z",
     "creator": "William Gallagher <wg@williamgallagher.com>",
     "tags": "Mac,Silicon",
@@ -463,7 +543,7 @@
     "source_name": "9to5Mac",
     "title": "Apple announces updated Mac mini, here’s everything new",
     "link": "https://9to5mac.com/2026/08/25/apple-announces-new-mac-mini-heres-everything-new/",
-    "content": "Apple today announced the first Mac mini update in nearly two years. The new Mac mini keeps the same compact design, but delivers a major performance boost with the new M6 and M5 Pro configurations. \nThe new Mac mini lineup is available to pre-order today from Apple as well as from Amazon. Head below for all the details.",
+    "content": "Apple today announced the first Mac mini update in nearly two years. The new Mac mini keeps the same compact design, but delivers a major performance boost with the new M6 and M5 Pro configurations. \nThe new Mac mini lineup is available to pre-order today, with the first orders arriving September 22.",
     "pub_date": "2026-08-25T13:00:00.000Z",
     "creator": "Chance Miller",
     "tags": "Mac,Silicon",
@@ -2918,85 +2998,5 @@
     "creator": "Ryan Christoffel",
     "tags": "Rumors",
     "id": 5344
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iPhone 18 Pro: Pre-Orders and Release Date",
-    "link": "https://www.macrumors.com/2026/08/20/iphone-18-pro-preorders-release-date-when/",
-    "content": "Apple has yet to reveal when the iPhone 18 Pro and iPhone Ultra will be announced and released, but the dates usually follow a familiar pattern.\r\n\r\n\r\nAs usual, the iPhone event is expected to take place in the first half of September.\r\n\r\nLabor Day falls on September 7 this year. The last time the holiday was on that day was in 2020, but the iPhone event that year was delayed until October due to the COVID-19 pandemic. The last time Labor Day was on September 7 in a normal year was in 2015, and the iPhone event was held on Wednesday, September 9 that year.\r\n\r\nAccordingly, the most likely date for the iPhone 18 Pro and iPhone Ultra event this year is Wednesday, September 9 until proven otherwise.\r\n\r\nBack when the iPhone 6s and iPhone 6s Plus event fell on Wednesday, September 9 in 2015, pre-orders began on Saturday, September 12, rather than Friday, September 11. Friday is a much more common day for iPhone pre-orders to begin, but Apple may have been respectfully avoiding September 11 in 2015 due to the 9/11 anniversary.\r\n\r\nSo, it is possible that iPhone 18 Pro and iPhone Ultra pre-orders will begin on Saturday, September 12 this year, unless Apple changes things up. In that case, the release date for the devices would likely be Friday, September 18.\r\n\r\nAnother possibility is that Apple waits until Tuesday, September 15 to hold the event, in which case pre-orders would likely begin on Friday, September 18. Then, the devices would likely be released on Friday, September 25.\r\n\r\nRelated Roundup: iPhone 18 Pro\nThis article, \"iPhone 18 Pro: Pre-Orders and Release Date\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-20T15:00:42.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "iOS",
-    "id": 5342
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Secure 10TB of cloud storage for life with one-time payment",
-    "link": "https://www.cultofmac.com/deals/10tb-internxt-cloud-storage-lifetime-plan",
-    "content": "Get a massive amount of storage for life from Internxt with this discount 10TB cloud storage plan. Make a single payment of less than $270.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-20T15:00:16.000Z",
-    "creator": "Cult of Mac Deals",
-    "tags": "Mac",
-    "id": 5357
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "B&H slashes M5 MacBook Pro further, now just $1,669",
-    "link": "https://appleinsider.com/articles/26/08/20/bh-slashes-m5-macbook-pro-further-now-just-1669?utm_source=rss",
-    "content": "A steeper $350 discount on Apple's M5 MacBook Pro with a 96W USB-C power adapter is in effect now, bringing the price down to just $1,669.\n\n\nSave $350 on Apple's M5 MacBook Pro laptop - Image credit: Apple\nA steeper discount has landed at B&H on Apple's M5 14-inch MacBook Pro with a 96W USB-C power adapter.\nNow marked down to $1,669, this deal reflects a $350 discount off MSRP for the laptop in Space Black, with free 2-day delivery thrown in when shipped within the contiguous U.S.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-20T14:50:38.000Z",
-    "creator": "Christine McKee <christine@appleinsider.com>",
-    "tags": "Mac,Silicon",
-    "id": 5345
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Best GPS dog collar gets better with Precision+ tracking ★★★★★",
-    "link": "https://www.cultofmac.com/reviews/halo-collar-5-precision-tracking-best-gps-dog-collar",
-    "content": "The Halo Collar 5 GPS dog collar added Precision+ for even more accurate tracking. We go hands-on for this review.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-20T14:13:48.000Z",
-    "creator": "Ed Hardy",
-    "tags": "Mac",
-    "id": 5340
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iPhone 18 won’t launch next month, here’s when it’s coming instead",
-    "link": "https://9to5mac.com/2026/08/20/iphone-18-wont-launch-next-month-heres-when-its-coming-instead/",
-    "content": "Apple’s big September event is just weeks away, but there’s one key product that all reporting indicates will be missing: the base iPhone 18. Here’s when to expect its launch.",
-    "pub_date": "2026-08-20T14:02:14.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 5336
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
-    "link": "https://9to5mac.com/2026/08/20/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
-    "content": "Since iOS 5 in 2011, the iPhone and iPad have included Notification Center, a central place to find alerts from various apps in chronological order.\nStarting with iOS 27, Apple is making a major change to how users open Notification Center on iPhone and iPad.\niOS 27 is currently in beta, and the behavior has changed slightly between the first two releases. However, sixth developer betas so far show this change will ship this fall — even if I’d change it.",
-    "pub_date": "2026-08-20T14:00:00.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS,App Store",
-    "id": 5353
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Watch Series 11 Discounted by $100 at Best Buy and Amazon",
-    "link": "https://www.macrumors.com/2026/08/20/apple-watch-series-11-discount-2/",
-    "content": "Best Buy this week has low prices on the Apple Watch Series 11, with $100 discounts across numerous models of the smartwatch. This sale includes a handful of 42mm and 46mm GPS aluminum models, as well as similar discounts on cellular devices.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n$299.00, down from $399.00, and the 46mm GPS model for $329.00, down from $429.00. On Amazon, you'll find matching prices in both the 42mm GPS and 46mm GPS sizes, but stock is dwindling at both retailers so act fast if you're interested.\r\n\r\n\n$100 OFF\nApple Watch Series 11 (42mm GPS) for $299.00\n\n\r\n\n$100 OFF\nApple Watch Series 11 (46mm GPS) for $329.00\n\n\r\n\r\nDeals Roundup to get caught up with all of the latest deals and discounts that we've been tracking over the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"Apple Watch Series 11 Discounted by $100 at Best Buy and Amazon\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-20T13:52:45.000Z",
-    "creator": "Mitchel Broussard",
-    "tags": "iOS",
-    "id": 5333
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "5 Apple Products to Get OLED Displays",
-    "link": "https://www.macrumors.com/2026/08/20/five-apple-products-to-get-oled-displays/",
-    "content": "Apple plans to upgrade several iPads and Macs with OLED displays over the next three years, according to a new DigiTimes report.\r\n\r\n\r\nThe following five devices will receive OLED displays between 2026 and 2029, according to the Taiwanese publication's industry sources:\niPad mini: 2026\n\r\n  \nMacBook Pro: Late 2026 or early 2027\n\r\n  \niPad Air: 2027\n\r\n  \niMac: 2028 or 2029\n\r\n  \nMacBook Air: 2028 or 2029\nOLED displays have better overall image quality compared to LCD displays, thanks to richer colors and higher contrast ratio with true blacks.\r\n\r\nAll current iPhone, Apple Watch, and iPad Pro models already have OLED displays.\r\n\r\nWhile the iPad Pro features so-called \"Tandem OLED\" technology that uses two OLED panels for increased brightness, and ProMotion support for up to a 120Hz refresh rate, the report said the iPad Air will have a single-stack OLED display and an LTPS backplane, meaning it will have lower brightness and a 60Hz refresh rate. These limitations would make sense given that the iPad Air is priced hundreds of dollars less than the iPad Pro.\r\n\r\nIt is unclear if Apple ever plans to release a Studio Display XDR with an OLED display. The monitor currently has mini-LED backlighting.\r\n\r\nTags: DigiTimes, OLED\nThis article, \"5 Apple Products to Get OLED Displays\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-20T13:50:27.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "Mac,iOS",
-    "id": 5334
   }
 ]
