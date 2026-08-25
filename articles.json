@@ -1,5 +1,35 @@
 [
   {
+    "source_name": "Macworld",
+    "title": "Apple Magic Keyboards get cosmetic updates, avoid price hikes",
+    "link": "https://www.macworld.com/article/3220260/apple-magic-keyboards-get-cosmetic-updates-avoid-price-hikes.html",
+    "content": "Macworld\n\n\n\n\n\nIf you’re planning on investing in a new M6 Mac mini or M5 Ultra Mac Studio, you might be buying a new Apple Magic Keyboard along with it. Apple has updated its keyboards, too: Certain keys have had their labels changed to symbols instead of names.\nApple introduced these changes with the MacBook Neo and M5 MacBook Air, so the company is basically catching up on normalizing the keys. The Tab, Caps Lock, Shift, Delete, and Return keys no longer have their respective word labels. Instead, they have arrow icons:\nTab is now ⇥\nCaps Lock is now ⇪\nShift is now ⇧\nDelete is now ⌫\nReturn looks similar to ↵ (see photo above)\nThe switch to the graphical labeling is an effort to standardize its keyboards. Apple’s non-English keyboards used symbols, and implementing them in the English keyboard streamlines the production process. However, Apple did not update the keys on the $129 wireless Magic Keyboard with Numeric Keypad that has a Lightning connection for charging.\nSpeaking of the production process, it appears that the Magic Keyboards have not been affected by the worldwide RAM shortage (/sarcasm), so their prices have not changed:\nUSB-C Magic Keyboard: $99/£99\nUSB-C Magic Keyboard with Touch ID: $149/£149\nUSB-C Magic Keyboard with Touch ID and Numeric Keypad: $179/£179 (white); $199/£199 (black)\nIf you prefer not to go with an Apple keyboard, you have plenty to choose from. Check out our guide to the best keyboards. Maybe you should even consider a mechanical keyboard instead of an Apple one.\n\n\t\t\t\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\n\n\t\t\t\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\t\t\t\t\t\n$129 at  Apple United States$129.99 at  B&H$129.99 at  Best Buy US",
+    "pub_date": "2026-08-25T16:20:40.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,Silicon",
+    "id": 5749
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "New Macs and More: Here's Everything Apple Announced Today",
+    "link": "https://www.macrumors.com/2026/08/25/everything-apple-announced-today/",
+    "content": "Apple today unveiled a new Mac mini with M6 and M5 Pro chip options, a new Mac Studio with M5 Max and M5 Ultra chip options, a new version of the Polishing Cloth with a lower price, and updated Magic Keyboards for Macs.\r\n\r\nSubscribe to MacRumors on YouTube\n\r\nHere are all of the new products that Apple announced today:\r\nApple Announces New Mac Mini With M6 and M5 Pro Chips and More\n\r\nApple Unveils New Mac Studio With M5 Max and M5 Ultra Chips\n\r\nApple Releases New Polishing Cloth\n\r\nApple Quietly Refreshes Magic Keyboards\nBoth the M6 and M5 Ultra chips are new as of today: \r\n\r\nApple Reveals M6 as First-Ever 2nm Chip\n\r\nApple Debuts M5 Ultra as Most Powerful Chip Ever\nThe new Mac mini and Mac Studio models can be pre-ordered starting today, with deliveries to customers and in-store availability set to begin on Tuesday, September 22. The new Polishing Cloth and Magic Keyboards are available immediately.\nRelated Roundups: Mac Studio, Mac mini\nTags: Magic Keyboard, Polishing Cloth\nBuyer's Guide: Mac Studio (Buy Now), Mac Mini (Buy Now)\nRelated Forums: Mac Studio, Mac mini\nThis article, \"New Macs and More: Here's Everything Apple Announced Today\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-25T16:10:21.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "Mac,Silicon",
+    "id": 5742
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Why the new Mac Studio can support up to eight screens",
+    "link": "https://appleinsider.com/articles/26/08/25/why-the-new-mac-studio-can-support-up-to-eight-screens?utm_source=rss",
+    "content": "You have to really need it in order to justify the cost of an M5 Ultra Mac Studio, but there are reasons why you could use up all eight display options, and they may not be obvious.\n\n\nMac Studio comes with many ports, yet it's still easy to fill them all.\nSometimes you wonder if Apple adds something just because it can. So the new M5 Max version of the Mac Studio, for instance, is being promoted as being able to run up to five displays, while the M5 Ultra Mac Studio can handle eight.\nThere's more to it than that, there are specific limits on the types of displays, but it's true that there are five or eight available. And it's true that few Mac users need more than one or at the absolute most two.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-25T16:01:37.000Z",
+    "creator": "William Gallagher <wg@williamgallagher.com>",
+    "tags": "Mac,Silicon",
+    "id": 5746
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Apple's infamous Polishing Cloth drops to $9",
     "link": "https://appleinsider.com/articles/26/08/25/apples-infamous-polishing-cloth-drops-to-9?utm_source=rss",
@@ -133,7 +163,7 @@
     "source_name": "Cult of Mac",
     "title": "Mac mini gets huge performance boost with M6 and M5 Pro chips",
     "link": "https://www.cultofmac.com/news/m6-m5-pro-mac-mini-release-date-price",
-    "content": "The Mac mini just got upgraded with either the all-new M6 chip or the more powerful M5 Pro, bringing substantially faster performance.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "content": "The Mac mini gets an upgrad with either the all-new M6 chip or the more powerful M5 Pro, bringing substantially faster performance.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
     "pub_date": "2026-08-25T14:50:19.000Z",
     "creator": "Ed Hardy",
     "tags": "Mac,Silicon",
@@ -233,7 +263,7 @@
     "source_name": "Macworld",
     "title": "Apple launches new M6 Mac mini with another price hike",
     "link": "https://www.macworld.com/article/3220063/apple-launches-new-m6-mac-mini-with-another-price-hike.html",
-    "content": "Macworld\n\n\n\n\n\nAs predicted on this site earlier today, Apple has announced the launch of a new Mac mini model with M5 and M6 chip options. It doesn’t feature any design changes or external upgrades, but it does offer a two-generation bump in processors compared to the previous model.\nSlightly confusingly, the version of the Mac mini with a chip from the M5 generation is the more powerful of the two, because it’s the M5 Pro. This spec starts at $1,699 for a 15-core CPU and 16-core GPU, but customers have the option to bump that to 18 and 20 cores, respectively, for an additional $200. There are also configuration options to increase RAM from the starting 24GB or storage from the baseline 512GB, and to upgrade to 10 Gigabit Ethernet. The RAM options remain the same, but the 64GB highest-end option now costs $1,000.\nMore appealing for the Mac mini’s traditional budget market will be the M6 model, which starts at a far more manageable $899. That, however, is still a $100 increase over the M4 model from 2024 that it replaces. Worse, the M4 model started at just $599 until June, when Apple responded to the ongoing memory crunch by imposing brutal price hikes. In other words, the cheapest entry point to Apple’s desktop Mac ecosystem has jumped by $300, or 50 percent, in the space of two months.\nThe $899 version isn’t exactly a state-of-the-art build, either. The entry-level configuration comes with 16GB of RAM and just 256GB of storage. We should note that it is possible to get this spec for $799, but only if you’re an education buyer. Of note, the Mac mini is not available for the Apple Upgrade program either.\nThe price hike is likely to weaken the Mac mini’s appeal among budget buyers, but (aside from the necessity to accommodate increasing component costs) Apple may not care. In his report predicting that a new mini was on the way, Bloomberg’s Mark Gurman noted that the machine had become increasingly popular for running AI applications locally, and that Apple was struggling to meet demand. The company may not mind if fewer customers are prepared to pay the asking price, since there are plenty of AI fans ready to take their place.\nThose AI fans will likely be tempted by a new model with a new chip. Apple boasts that the M6 delivers “gains across every dimension of performance” and “the ideal balance of performance, power efficiency, and on-device AI to effortlessly fly through daily tasks, coding, and creative projects.”\nAnother surprise is how early Apple has announced the new Mac mini. Pre-orders are open now, but it won’t go on sale until 22 September, almost a month from now.",
+    "content": "Macworld\n\n\n\n\n\nAs predicted on this site earlier today, Apple has announced the launch of a new Mac mini model with M5 and M6 chip options. It doesn’t feature any design changes or external upgrades, but it does offer a two-generation bump in processors compared to the previous model.\nSlightly confusingly, the version of the Mac mini with a chip from the M5 generation is the more powerful of the two, because it’s the M5 Pro. This spec starts at $1,699 for a 15-core CPU and 16-core GPU, but customers have the option to bump that to 18 and 20 cores, respectively, for an additional $200. There are also configuration options to increase RAM from the starting 24GB or storage from the baseline 512GB, and to upgrade to 10 Gigabit Ethernet. The RAM options remain the same, but the 64GB highest-end option now costs $1,000.\nMore appealing for the Mac mini’s traditional budget market will be the M6 model, which starts at a far more manageable $899. That, however, is still a $100 increase over the M4 model from 2024 that it replaces. Worse, the M4 model started at just $599 until June, when Apple responded to the ongoing memory crunch by imposing brutal price hikes. In other words, the cheapest entry point to Apple’s desktop Mac ecosystem has jumped by $300, or 50 percent, in the space of two months.\nThe $899 version isn’t exactly a state-of-the-art build, either. The entry-level configuration comes with 16GB of RAM and just 256GB of storage. We should note that it is possible to get this spec for $799, but only if you’re an education buyer. Of note, the Mac mini is not available for the Apple Upgrade program either.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nThe price hike is likely to weaken the Mac mini’s appeal among budget buyers, but (aside from the necessity to accommodate increasing component costs) Apple may not care. In his report predicting that a new mini was on the way, Bloomberg’s Mark Gurman noted that the machine had become increasingly popular for running AI applications locally, and that Apple was struggling to meet demand. The company may not mind if fewer customers are prepared to pay the asking price, since there are plenty of AI fans ready to take their place.\nThose AI fans will likely be tempted by a new model with a new chip. Apple boasts that the M6 delivers “gains across every dimension of performance” and “the ideal balance of performance, power efficiency, and on-device AI to effortlessly fly through daily tasks, coding, and creative projects.”\nIn numerical terms, the company claims the M6 version of the Mac will deliver up to 4x faster AI performance, 2x faster storage and graphics, and 40% faster CPU performance than the M4 mini. The M5 Pro model, meanwhile, is rated by its maker as up to 8.5x faster at LLM prompt processing than its M2 Pro predecessor, and up to 4x faster than the M4 Pro model. Naturally we will put those claims to the test in our labs.\nAnother surprise is how early Apple has announced the new Mac mini. Pre-orders are open now, but it won’t go on sale until 22 September, almost a month from now.",
     "pub_date": "2026-08-25T14:06:01.000Z",
     "creator": "Macworld",
     "tags": "Mac,Silicon,Services",
@@ -2968,35 +2998,5 @@
     "creator": "Ben Lovejoy",
     "tags": "App Store",
     "id": 5326
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Fake Cases Hint at New Clear and TechWoven Colors for iPhone 18 Pro",
-    "link": "https://www.macrumors.com/2026/08/20/new-clear-and-techwoven-cases-for-iphone-18-pro/",
-    "content": "The leaker known as \"DuanRui\" today shared video and images of cases designed for the iPhone 18 Pro Max, potentially offering an early look at some of the new color options for Apple's official accessories.\r\n\r\n\r\nThe cases themselves are fake, featuring the same model number used for existing iPhone 17 Pro accessories, but they could still be based on the genuine cases Apple is expected to release alongside the ‌iPhone 18 Pro‌ and ‌iPhone 18 Pro‌ Max next month.\r\n\r\ncirculate in China well before Apple's official unveiling. Case makers frequently work from leaked dimensions and CAD files to get their molds ready in time for launch day, and while some manufacturers take creative liberties and expand their lineups beyond what Apple ends up shipping, such as continuing to offer leather cases, the fakes can still offer an early indication of some of the genuine accessories to come.\r\n\r\nMagSafe magnets, a design first introduced last year on the iPhone 17 Pro's clear case due to the relocated Apple logo on the device. It was criticized by some for its appearance, particularly with Cosmic Orange and Deep Blue. The light blue tint is notable given that the ‌iPhone 18 Pro‌ is rumored to come in a Light Blue finish, which this case would complement.\r\n\r\n\npic.twitter.com/8DygztVAaM\n— DuanRui段锐 (@duanrui1205) August 20, 2026\n \n\r\n\r\niPhone 17 Pro TechWoven cases come in just five colors: blue, purple, black, sienna, and green.\r\n\r\n\npic.twitter.com/oce8Drze6N\n— DuanRui段锐 (@duanrui1205) August 20, 2026\n \n\r\n\r\n\"Dark Cherry\" finish widely rumored for the ‌iPhone 18 Pro‌ models.\r\n\r\niPhone Ultra,\" in September.\nRelated Roundup: iPhone 18 Pro\nTag: DuanRui\nThis article, \"Fake Cases Hint at New Clear and TechWoven Colors for iPhone 18 Pro\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-20T11:59:35.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "iOS",
-    "id": 5323
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Samsung and Apple are now neck and neck in Europe's declining smartphone market",
-    "link": "https://appleinsider.com/articles/26/08/20/samsung-and-apple-are-now-neck-and-neck-in-europes-declining-smartphone-market?utm_source=rss",
-    "content": "European sales of smartphones have reached a new three-year low, but Apple's iPhone has increased its share to now tie with Samsung.\n\n\nApple's current iPhones.\nGlobally, the most recent figures show that Apple has earned 49% of all smartphone revenue in the second quarter, despite the iPhone only accounting for 23% of shipments. New figures for solely the European region show an overall decline, but in that shrinking market, Apple is increasing its share.\nAccording to Counterpoint Research, Q2 2026 saw shipments fall 10% year over year. At 35 million smartphones, this is Europe's weakest second quarter in three years.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-20T11:46:45.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "iOS",
-    "id": 5328
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "OpenAI's distortion & speculation warrant denying suit dismissal, says Apple",
-    "link": "https://appleinsider.com/articles/26/08/20/distortion-speculation-warrant-denying-openai-request-for-lawsuit-dismissal-says-apple?utm_source=rss",
-    "content": "Apple sued OpenAI for alleged trade secret theft, and after OpenAI's weak attempt to have the case dismissed, Apple has doubled down on its claims in a new filing.\n\n\nApple and OpenAI are at odds in a lawsuit alleging trade secret theft\nThe Apple lawsuit against OpenAI started with several odd public statements from the company denying the accusations. OpenAI filed for dismissal on August 5, simply arguing that it didn't need Apple's trade secrets and that Apple is the one that can't compete.\nIn the latest filing viewed by AppleInsider on Wednesday, Apple said that OpenAI's attempt to dismiss relied upon distortion, speculation, and improper extrinsic evidence. The company reiterates its allegations in detail, alleging evidence on their end of misappropriation of trade secrets and OpenAI encouraging as much.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-20T11:40:05.000Z",
-    "creator": "Wesley Hilliard <wes@appleinsider.com>",
-    "tags": "General",
-    "id": 5302
   }
 ]
