@@ -1,5 +1,15 @@
 [
   {
+    "source_name": "Macworld",
+    "title": "This lifetime Microsoft Office license is down to $54.99, and Mac users can run it too",
+    "link": "https://www.macworld.com/article/3218016/this-lifetime-microsoft-office-license-is-down-to-54-99-and-mac-users-can-run-it-too.html",
+    "content": "Macworld\n\n\n\n\n\nTL;DR: Microsoft Office 2024 Professional Plus is on sale for $54.99 (reg. $249.99), a one-time payment for a lifetime license on one Windows PC.\nSubscriptions add up fast, and if you are tired of Microsoft 365 quietly charging your card every month, this deal is worth a look. Microsoft Office 2024 Professional Plus gives you a full, perpetual license to Word, Excel, PowerPoint, Outlook, OneNote, and Access for a single Windows PC, no recurring fees involved.\nYou can get Microsoft Office 2024 Professional Plus for $54.99 (reg. $249.99) today. It is built for stability rather than constant feature updates, which makes it a solid pick if you would rather not relearn your toolbar every few months.\nHere is the catch for Mac owners: this license is Windows only. That is not necessarily a dealbreaker though. If you run Parallels Desktop or VMware Fusion, you can install Windows in a virtual machine and use Office right alongside your Mac apps, no rebooting needed. Prefer native performance instead? Apple’s Boot Camp lets you partition your Mac and run Windows directly, so Office behaves exactly as it would on a PC.\nRedemption codes arrive by email right after purchase, so setup is quick. Grab lifetime access to Microsoft Office 2024 Professional Plus for $54.99 (reg. $249.99) while the discount lasts.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nMicrosoft Office 2024 Professional Plus for Windows: Lifetime LicenseSee Deal\nStackSocial prices subject to change.",
+    "pub_date": "2026-08-25T08:00:00.000Z",
+    "creator": "Macworld",
+    "tags": "Mac",
+    "id": 5675
+  },
+  {
     "source_name": "Cult of Mac",
     "title": "Next Mac mini refresh could land within days",
     "link": "https://www.cultofmac.com/news/next-mac-mini-refresh-could-land-within-days",
@@ -2988,15 +2998,5 @@
     "creator": "Ryan Christoffel",
     "tags": "General",
     "id": 5249
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Incoming! Amazon expands drone delivery so you can get new AirPods faster",
-    "link": "https://appleinsider.com/articles/26/08/19/incoming-amazon-expands-drone-delivery-so-you-can-get-new-airpods-faster?utm_source=rss",
-    "content": "Amazon is expanding the reach of its Prime Air drone delivery service to almost 500 cities and towns in 2026, air-dropping iPhone deliveries to millions of people in as quick as 30 minutes.\n\n\nAn Amazon MK30 delivery drone - Image Credit: Amazon\nAmazon Prime Air is the retailer's attempt to make drone deliveries a reality. It's a program that's over a decade old, and has so far been servicing a few metropolitan areas in the United States.\nOn Wednesday, Amazon said it plans to expand the reach of Prime Air, by launching in new areas. The intention is to have Prime Air available in nearly 500 cities and towns by the end of the year.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-19T15:15:51.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "iOS",
-    "id": 5251
   }
 ]
