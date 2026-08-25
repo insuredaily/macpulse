@@ -1,5 +1,95 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "New Parallels Desktop 27 delivers faster OpenGL for Windows apps on Mac",
+    "link": "https://appleinsider.com/articles/26/08/25/new-parallels-desktop-27-delivers-faster-opengl-for-windows-apps-on-mac?utm_source=rss",
+    "content": "Parallels Desktop 27 for Mac claims to provide up to 160% faster OpenGL graphics for Windows apps such as Blender 4.3, as well as AI acceleration on M4 Macs and newer.\n\n\nParallels Desktop 27 runs Windows on the Mac - image credit: Parallels.\nOne year later, Parallels has followed its release of Parallels Desktop 26 with new new Mac and Enterprise versions, plus an online list of compatible Windows apps.\n\"As customers continue to push the limits of what they do on Mac,\" said Elena Koryakina, Chief Product and Technology Officer at Parallels in a statement, \"they're looking for virtualization that keeps pace with increasingly demanding applications and workflows.\"\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-25T12:59:09.000Z",
+    "creator": "William Gallagher <wg@williamgallagher.com>",
+    "tags": "Mac,Silicon",
+    "id": 5695
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "AI awaiting its iPhone moment, says Altman; needs to learn key Apple lesson",
+    "link": "https://9to5mac.com/2026/08/25/ai-awaiting-its-iphone-moment-says-altman-needs-to-learn-key-apple-lesson/",
+    "content": "OpenAI CEO Sam Altman says that AI is still awaiting its iPhone moment, and that he needs to learn a key lesson from Apple.\nHe also admits that he was overly ambitious in his idea of how quickly AI would disrupt the economy, but thinks that, paradoxically, the tech will create new opportunities for businesses that don’t use it …",
+    "pub_date": "2026-08-25T12:18:42.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "iOS",
+    "id": 5691
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "DuckDuckGo survey highlights how much personal information users share with AI",
+    "link": "https://9to5mac.com/2026/08/25/duckduckgo-survey-highlights-how-much-personal-information-users-share-with-ai/",
+    "content": "Private search company DuckDuckGo has released a new survey highlighting just how much personal information people are sharing with AI chatbots, and how little many understand about what happens to those conversations. Here are the details.",
+    "pub_date": "2026-08-25T12:00:39.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 5692
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple @ Work: Parallels Desktop 27 brings OpenGL 4.3 and AI acceleration to Apple Silicon",
+    "link": "https://9to5mac.com/2026/08/25/parallels-desktop-27/",
+    "content": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\nVirtualization on macOS has become rock-solid in the Apple Silicon era. Parallels Desktop 27 pushes that further with a new Metal-based graphics driver, OpenGL 4.3 support for Windows virtual machines on Apple silicon, faster local AI workloads, and a host of enterprise features aimed at IT teams, helping them manage and deploy Windows on macOS.",
+    "pub_date": "2026-08-25T12:00:00.000Z",
+    "creator": "Bradley C",
+    "tags": "Mac,Silicon",
+    "id": 5693
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Watch Series 12 to Get Fitness Tracking Upgrades",
+    "link": "https://www.macrumors.com/2026/08/25/apple-watch-series-12-to-get-fitness-upgrades/",
+    "content": "Apple's new Apple Watch models will feature upgrades to fitness tracking, according to Bloomberg's Mark Gurman, who otherwise characterized this year's changes to the lineup as \"minor.\"\r\n\r\nsaid much the same in July, pointing to faster performance and better health and fitness tracking in the absence of any design overhaul.\nRelated Roundup: Apple Watch 11\nTags: Bloomberg, Mark Gurman\nBuyer's Guide: Apple Watch (Don't Buy)\nThis article, \"Apple Watch Series 12 to Get Fitness Tracking Upgrades\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-25T11:55:58.000Z",
+    "creator": "Hartley Charlton",
+    "tags": "iOS",
+    "id": 5689
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "You'll have to wait in line for Siri AI in iOS 27",
+    "link": "https://appleinsider.com/articles/26/08/25/youll-have-to-wait-in-line-for-siri-ai-in-ios-27?utm_source=rss",
+    "content": "While iOS 27 will gain Siri AI when it is released, you may not have access to it initially. Apple is preparing to put it behind a wait list again.\n\n\nSiri AI\nThe overhaul of Siri is a major part of iOS 27 and Apple's other upcoming operating systems due this fall. While it's an important element, it won't necessarily be accessible to anyone when the OS updates arrive.\nCode has been found in the seventh developer betas of iOS 27, iPadOS 27, and macOS Golden Gate to operate a waitlist for Siri AI, reports MacRumors. Once installed, the operating system can enter the wait list, and users will have to wait their turn to gain access.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-25T11:55:29.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "Mac,iOS,App Store",
+    "id": 5696
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Surprise report: New Mac mini could land any day now",
+    "link": "https://www.macworld.com/article/3219832/surprise-report-new-mac-mini-could-land-any-day-now.html",
+    "content": "Macworld\n\n\n\n\n\nApple may yet spring one final surprise of the Tim Cook era, with a new report raising hopes that the company plans to launch an updated version of the Mac mini “as soon as the coming days.”\nWriting for Bloomberg, well-connected leaker Mark Gurman says Apple is gearing up to unveil the first new Mac mini in almost two years. He bases this on the testimony of unnamed sources “familiar with the matter.”\nThe last Mac mini model, announced on October 29, 2024, featured a major redesign (it was significantly smaller than its predecessor) as well as a faster M4 chip. This machine has become extremely popular, Gurman says, for running AI applications, but the ongoing memory crunch means Apple has struggled to meet demand. The Mac mini has essentially been out of stock since the spring, with delivery times slipping into months-long waits.\nThat isn’t to say that Apple necessarily thinks the new model will help in this regard. Gurman acknowledges that it’s unclear “how the new model will affect wait times,” as an updated mini is unlikely to require less memory than the current one. It seems more likely that Apple simply feels it’s time for an update, and the product’s popularity has pushed it to the front of the line.\nGurman’s report is generally short on details, with little information offered regarding design (although we can guess that another redesign would be a surprise so soon after the last one) and tech specs, where he says only that models with both M5 and M6 chips have been tested. The main takeaway regards timings. Gurman says the new Mac mini could arrive ahead of the iPhone Ultra and iPhone 18 Pro, which will appear in early September and likely on September 9, and even says it will likely be the last product to launch under Cook’s watch.\nCook is slated to exit the CEO seat on September 1, which (assuming Gurman’s speculation is correct) gives a window of just seven days for the Mac mini to arrive. And we can rule out most of those days because they’re unsuitable for an announcement; by far the most plausible are Tuesday and Wednesday of this week. It could launch today, in other words.\nThe mini is only one of the Macs getting an update this fall as part of a massive overhaul. For all the latest news and rumors, bookmark our regularly updated new Mac mini superguide.",
+    "pub_date": "2026-08-25T11:46:20.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,iOS,Silicon",
+    "id": 5700
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "'MacBook Ultra' Coming Soon With Touchscreen and 5 Other Changes",
+    "link": "https://www.macrumors.com/2026/08/25/macbook-ultra-coming-soon-touchscreen-5-changes/",
+    "content": "Reports and rumors suggest the next high-end MacBook Pro that Apple will release might not be a ‌MacBook Pro‌ at all. It could actually be something altogether new and more exciting – a \"MacBook Ultra\" – marketed as the company's top-tier laptop offering. The device is likely to sit above the current M5 Pro and M5 Max MacBook Pros, rather than replace them, suggesting that they will remain on sale.\r\n\r\n\r\nOne thing to state up front is that Apple is expected to stick with the existing M5 Pro and M5 Max chips for its touchscreen \"Ultra\" model. Apple reportedly plans to skip what would have been the \"M6 Pro\" and \"M6 Max\" for more powerful \"M7 Pro\" and \"M7 Max\" chips. A new entry-level ‌MacBook Pro‌ with the M6 chip is still expected to launch later this year, while the second-generation MacBook Ultra will adopt M7 chip architecture when it arrives later in 2027.\r\n\r\nlatest report, Bloomberg's Mark Gurman does not specify a release date for the first MacBook Ultra models, but the wording of his summary of upcoming Macs implies that it could still arrive between October and December this year, barring delays due to the global memory chip shortage.\r\n\r\nBelow, we've listed the features and changes we are expecting for the MacBook Ultra.\r\n\r\nOLED Display\n\r\nBloomberg's Mark Gurman and analyst Ming-Chi Kuo say Apple is readying OLED technology for these models, and industry reports corroborate their claims. Samsung Display is said to be making the panels exclusively, and the supplier has invested heavily in an 8.6-generation OLED production line in South Korea. The line reached a key milestone for mass production in May.\r\n\r\nOLED presents an overall upgrade over the current mini-LED display technology, bringing deeper colors and a higher contrast ratio with true blacks. In an OLED display, individual pixels turn off instead of dimming when not activated, so there's less light leakage and better power efficiency. OLED displays also tend to have better HDR ouptut than mini-LED, but they don't always match mini-LED brightness levels.\r\n\r\nTouchscreen\n\r\nThe new ‌MacBook Pro‌ is expected to become the first Mac to support touch input directly on the display. It's a notable shift from Apple's longstanding position against bringing touchscreen functionality to the Mac. \r\n\r\nApple previously experimented with touch controls through the OLED Touch Bar on earlier ‌MacBook Pro‌ models, but the feature was ultimately discontinued following a lukewarm reception. Rather than positioning the ‌MacBook Pro‌ as a touch-centric device like the ‌iPad‌, Apple is reportedly planning to let users move seamlessly between touch and traditional trackpad or mouse input across the system.\r\n\r\nThere are features in ‌macOS Golden Gate‌ that hint at a future touchscreen Mac. Apple added direct touch input to Sidecar so users can tap and interact with macOS elements when using the ‌iPad‌ as a Mac display. macOS Golden Gate‌ also supports an iPhone-style pull-to-refresh option, and it can be used across apps like Safari, Mail, News, Podcasts, and Calendar. A pull-to-refresh option makes the most sense on a touch display.\r\n\r\nReinforced Hinge\n\r\nApple has reportedly developed a reinforced hinge and screen hardware to prevent the display from bouncing back or moving when touched. Apple is apparently aware of the same issue that plagues existing touch PCs.\r\n\r\nThinner Design\n\r\nGurman has reported that Apple is working to make the OLED MacBook Pro significantly thinner, as part of the company's plan to create \"the thinnest and lightest products in their categories across the whole tech industry.\" (Think the latest iPad Pro and iPad Air – two of the thinnest devices the company has ever made.) Indeed, the reporter has said there's a good chance that the next MacBook Pro model will represent a \"true overhaul\" for the laptop, thanks to the combination of the OLED display and thinner design.\r\n\r\nNotably, the MacBook Pro got thicker and heavier with its most recent redesign in 2021. A major highlight was the reintroduction of several ports that were removed in previous iterations in favor of chassis thinness. How Apple will make its redesigned MacBook Pro thinner without removing the functionality it reintroduced fairly recently is the big question.\r\n\r\nDynamic Island\n\r\nThe MacBook Ultra could ditch the current notch used in the MacBook Pro models for a display cutout potentially similar to the iPhone's Dynamic Island, according to Bloomberg. Such a move would mirror Apple's iPhone evolution, since the iPhone's notch became the current Dynamic Island starting with the iPhone 14 Pro models in 2022. \r\n\r\nAs with the iPhone‌, the Mac ‌Dynamic Island‌ will be interactive and it will contextually expand based on the app or Mac feature in use. The change should address long-standing user complaints about the notch, which physically ingresses into the macOS menu bar.\r\n\r\nPrice Changes\n\r\nThere is no doubt that Apple will unveil the MacBook Ultra as an ultra-premium product carrying a price tag that is higher than the current MacBook Pro 14-inch and 16-inch models. Apple increased the prices of all its Macs in June 2026 – MacBook Pro‌ pricing went up $300 – so the MacBook Ultra will likely be even more expensive than expected. ‌\r\n\r\nRelated Roundup: MacBook Pro\nTag: MacBook Ultra\nBuyer's Guide: MacBook Pro (Buy Now)\nRelated Forum: MacBook Pro\nThis article, \"'MacBook Ultra' Coming Soon With Touchscreen and 5 Other Changes\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-25T11:43:11.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "Mac,iOS,Rumors,Silicon,App Store",
+    "id": 5690
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "MacBook Lock aims to keep your laptop safe in coffee shops",
+    "link": "https://9to5mac.com/2026/08/25/macbook-lock-aims-to-keep-your-laptop-safe-in-coffee-shops/",
+    "content": "Years ago, MacBooks incorporated a slot for using a cable lock to secure the device to a table leg or similar. They were most useful in coffee shops when you wanted to return to the counter to order another drink without having to carry your laptop with you.\nThose slots are long gone, but you can now buy adapters to secure your MacBook Neo, MacBook Air or MacBook Pro …",
+    "pub_date": "2026-08-25T11:37:43.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "Mac",
+    "id": 5694
+  },
+  {
     "source_name": "MacRumors",
     "title": "iPhone Trade-In Values Slide Ahead of New Model Launch",
     "link": "https://www.macrumors.com/2026/08/25/iphone-trade-in-values-slide-ahead-of-launch/",
@@ -83,10 +173,10 @@
     "source_name": "Cult of Mac",
     "title": "Next Mac mini refresh could land within days",
     "link": "https://www.cultofmac.com/news/next-mac-mini-refresh-could-land-within-days",
-    "content": "Apple could launch an M5-powered Mac mini before September, following months of soaring demand fueled by the AI boom.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "content": "Surprise! Apple could launch a new Mac mini before September, following months of soaring demand fueled by the AI boom.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
     "pub_date": "2026-08-25T04:39:47.000Z",
     "creator": "Rajesh Pandey",
-    "tags": "Mac,Silicon",
+    "tags": "Mac",
     "id": 5671
   },
   {
@@ -2908,95 +2998,5 @@
     "creator": "Malcolm Owen <malcolm@appleinsider.com>",
     "tags": "Rumors",
     "id": 5270
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Meta brings its personal assistant app to Mac, for better and worse",
-    "link": "https://appleinsider.com/articles/26/08/19/meta-brings-its-personal-assistant-app-to-mac-for-better-and-worse?utm_source=rss",
-    "content": "Meta AI has arrived as a beta Mac app, but the company's data collection practices make the privacy tradeoff worth considering before diving straight in.\n\n\nMeta AI comes to Mac in a new desktop app\nAnother AI app is making its way to Mac. This time, it's Meta AI, the progeny of Facebook's parent company, Meta.\nMeta AI has existed for a while and was previously available as a standalone app for iOS and Android. It is also available as part of WhatsApp, Instagram, Messenger, and Facebook.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-19T18:26:47.000Z",
-    "creator": "Amber Neely <amber@appleinsider.com>",
-    "tags": "Mac,iOS,App Store",
-    "id": 5271
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Beats 360 Over-Ear Headphones Leak in Retail Listings",
-    "link": "https://www.macrumors.com/2026/08/19/beats-360-headphones/",
-    "content": "One of the Beats codenames MacRumors found in the macOS Tahoe 26.7 update (B518) appears to be for the Beats 360, a new set of over-ear headphones that we could see launch soon.\r\n\r\n\r\nMultiple Reddit users found signs of the Beats 360 on UK websites like Amazon, though those listings have now been removed.\r\n\r\nThe headphones have a look that is distinct from the existing Beats Studio Pro over-ear headphones, featuring a rounder design with AirPods Max-like mesh fabric ear cups and headband. The ear cups and headband will be replaceable with interchangeable cushion options. The headphones will ship with Performance Knit cushions, but an UltraPlush option will also be available. Beats will sell the headphones in Pink, Black, Sky, and Cloud. Volt and Navy may also be color options, but there are only listings for cushions in the shades.\r\n\r\nOne listing says these are the first-ever sweat-resistant and water-resistant over-ear headphones Beats has come out with, so it sounds like they should be better for wearing during workouts than current Beats over-ear options. From the listing:\r\n\r\n \t\nBeats 360 have interchangeable cushion options for both ear cups and headband, so you can have a fresh set ready after your workout or a new colour just to switch up your look. These over-ear noise-cancelling headphones are built for active lifestyles and all-day comfort.\n\r\n \t\nActive Noise Cancelling (ANC) blocks out unwanted noise to help you focus, after adapting to your environment and unique fit - with up to 1.75x more noise cancellation than Beats Studio Pro.\n\r\n \t\nThe bespoke, high-fidelity acoustic platform delivers powerful bass and pinpoint precision across the tonal range with ultra-low distortion for the ultimate listening experience. Personalised spatial audio with dynamic head tracking delivers immersive surround sound.\n\r\n \t\nEar cushions are built from acoustically engineered memory foam and shaped to fit comfortably over your ears, forming an optimal seal for incredible sound.\n\r\n \t\nExceptional call quality powered by an advanced Al-trained algorithm and beam-forming mic system that filters out background noise.\n\r\n \t\nOur first-ever sweat- and water-resistant over-ear headphones, with an IPX4 rating to ensure they're built to go everywhere you do.\n\r\n \t\nAll-day battery life for extended playback even with ANC on.\n\r\n \t\nCompatible with both Apple and Android for one-touch pairing and more. Easy-to-use controls are positioned on the back of each ear cup, including a volume rocker, a multifunction button to control music and calls, a power button and a listening mode button.\n\r\n \t\nFold-flat design for extra comfort and convenience. Woven ripstop fabric case included.\n\r\n \t\nWhat's in the box: Beats 360 true wireless over-ear headphones with interchangeable performance knit cushions, woven ripstop fabric carrying case, warranty card and Quick Start Guide. Additional Beats 360 cushion kits, USB-C charging cable and power adapter sold separately.\n\r\n\r\nPricing is expected to start at $299 in the United States. There's no word on when the new Beats headphones will launch, but with listings popping up, they could come anytime.\r\n\r\npreviously saw signs of the new headphones in May, when the U.S. Federal Communications Commission published documents featuring the rounded design that's showing up on product pages, and in July when Beats gave them to World Cup players as a teaser.\nTag: Beats\nThis article, \"Beats 360 Over-Ear Headphones Leak in Retail Listings\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-19T18:20:37.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,Rumors",
-    "id": 5267
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple is about to launch best reason yet to wear AirPods all day long",
-    "link": "https://9to5mac.com/2026/08/19/apple-is-about-to-launch-best-reason-yet-to-wear-airpods-all-day-long/",
-    "content": "AirPods are one of my favorite Apple products, so much so that I often wear them even when I’m not listening to anything. And soon with iOS 27, Apple will launch new AirPods upgrades that should make that a more common experience.",
-    "pub_date": "2026-08-19T18:17:43.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 5269
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Anker and Jackery Kick Off Power Station Sales With Up to $1,500 Off",
-    "link": "https://www.macrumors.com/2026/08/19/anker-and-jackery-1500-off/",
-    "content": "Anker and Jackery have introduced big discounts across their most popular portable power stations this week, including up to $1,500 off select models from each company. We're tracking Anker's best deals over at Amazon, while Jackery's discounts can be found on the retailer's own website.\r\n\r\nAnker SOLIX\n\r\nNote: MacRumors is an affiliate partner with Jackery and Anker. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n$199.99, down from $249.99.\r\n\r\n\nUP TO 46% OFF\nAnker SOLIX Sale\n\n\r\n\nSOLIX C200 - $129.98, down from $169.99\n\r\nSOLIX C300 with Lantern - $199.99, down from $249.99\n\r\nSOLIX C1000 Gen 2 - $529.99, down from $599.00\n\r\nSOLIX S2000 - $649.99, down from $1,199.00\n\r\nSOLIX C2000 Gen 2 - $949.99, down from $1,499.00\n\r\nSOLIX F3000 - $1,499.99, down from $1,699.00\n\r\nSOLIX E10 Whole-Home Backup System - $4,299.00, down from $4,599.00\n\r\n\r\nJackery\n\r\n\r\n\r\nOver on Jackery's website, you'll find up to $1,500 off a wide array of portable power stations, solar generators, add-on batteries, and more. This sale is aimed at anyone preparing for storm season power outages and is set to last for another few days, ending the night of August 26.\r\n\r\n\nUP TO $1,500 OFF\nJackery Home Backup Sale\n\n\r\n\nExplorer 300D - $199.00, down from $249.00\n\r\nExplorer 2000 v2 - $899.00, down from $999.00\n\r\nBattery Pack 2000 Plus - $799.00, down from $1,399.00\n\r\nBattery Pack 3600 - $1,349.00, down from $1,499.00\n\r\nHomePower 3000 Solar Generator - $1,399.00, down from $1,499.00\n\r\nExplorer 2000 v2 + Dual 200W Solar Panels - $1,399.00, down from $1,639.00\n\r\nHomePower 3000 Solar Generator + Dual 200W Solar Panels - $1,799.00, down from $2,139.00\n\r\nHomePower 3600 Plus Solar Generator - $2,459.00, down from $2,729.00\n\r\nExplorer 5000 Plus - $4,639.00, down from $5,159.00\n\r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"Anker and Jackery Kick Off Power Station Sales With Up to $1,500 Off\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-19T17:30:08.000Z",
-    "creator": "Mitchel Broussard",
-    "tags": "General",
-    "id": 5256
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Meta AI is now available as a more capable desktop app for Mac",
-    "link": "https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/",
-    "content": "Meta continues to get serious about its AI technology. The latest sign? A dedicated Mac app for Meta AI.",
-    "pub_date": "2026-08-19T17:29:29.000Z",
-    "creator": "Zac Hall",
-    "tags": "Mac,App Store",
-    "id": 5258
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "What to expect from the 2026 Apple TV 4K: Siri AI, Siri Remote, better networking, more!",
-    "link": "https://appleinsider.com/articles/26/08/19/what-to-expect-from-the-2026-apple-tv-4k-siri-ai-siri-remote-better-networking-more?utm_source=rss",
-    "content": "It has been a long time in coming, but Apple is preparing at least two big changes to the Apple TV 4K. Here's what we know about the streaming set-top box update set to finally arrive in the fall of 2026.\n\n\nAn Apple TV and Siri Remote\nPrevious updates to the Apple TV haven't been that major over the years, as there's only so much you can improve with a streaming box. However, that doesn't seem to be the case for the next iteration of Apple TV 4K.\nThanks to a pair of leaks that stem from Apple itself, there are two big confirmed changes on the horizon.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-19T17:25:19.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "General",
-    "id": 5260
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple Maps ads will be tasteful and minimal, might even help your local businesses",
-    "link": "https://appleinsider.com/articles/26/08/19/apple-maps-ads-will-be-tasteful-and-minimal-might-even-help-your-local-businesses?utm_source=rss",
-    "content": "Search ads in Apple Maps will provide a great incentive system for local businesses to care about the platform, but it appears to be a bridge too far for users. It's a problem of Apple's own creation.\n\n\nApple Maps is gaining new ways for businesses to care about the platform\nAdvertising isn't inherently evil, but Apple's work to make users wary of surveillance capitalism has become a double-edged sword.\nWe're all more aware of the dangers of data collection and its misuse. That also means we've been programmed to reject all forms of advertising.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-19T16:27:24.000Z",
-    "creator": "Wesley Hilliard <wes@appleinsider.com>",
-    "tags": "General",
-    "id": 5261
-  },
-  {
-    "source_name": "Macworld",
-    "title": "The new HomePad interface could look a lot like the Apple Watch",
-    "link": "https://www.macworld.com/article/3215967/the-new-homepad-interface-could-look-a-lot-like-the-apple-watch.html",
-    "content": "Macworld\n\n\n\n\n\nIt turns out that the macOS 26.7 release candidate is a treasure trove of leaks for upcoming Apple products. As we previously reported, it’s full of references to new model numbers, and it has a video of the upcoming AirPods with cameras. And now been discovered that it contains information about the home hub that’s long been rumored.\nApple is reportedly developing a new device that is referred to as HomeAccessory in the macOS 26.7 release candidate, according to a report by Filipe Esposito over at Engadget. This new device is likely the rumored HomePod with a display that’s supposed to act as a central control point for a smart home–a home hub, as it’s been called. Eposito states that the home hub will run “a variant of tvOS,” but “the interface will be quite different.”\nAccording to the code, the home hub’s UI will feature Faces and a Face Gallery, which sounds like it will be similar to the watchOS UI. Separately, MacRumors reports that macOS 26.7 has mentions of a Widget Gallery with strings to a product with a model number of J490, which has been identified as that of the home hub. Esposito stated that the new device will be able to sense when an iPhone is nearby to display ifnormation form that iPhone in the hub’s widgets, with iPhone widgets displayed on the hub.\nMacRumors also reports that the home hub will support Smart Stacks, which is a feature on the Apple Watch for presenting widgets.\nThe masOC 26.7 RC also includes references to a rumored tabletop robot, but it’s not expected to be released anytime soon. Apple is also working on updates to the HomePod mini and Apple TV 4K, which are expected to arrive later this year.",
-    "pub_date": "2026-08-19T16:03:32.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS",
-    "id": 5263
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Will iPhone 17 Pro cases fit the 18 Pro? One major case maker is sure of it",
-    "link": "https://www.macworld.com/article/3215985/will-iphone-17-pro-cases-fit-the-18-pro-one-major-case-maker-is-sure-of-it.html",
-    "content": "Macworld\n\n\n\n\n\nThere’s likely less than a month to go until Apple unveils its new iPhones. The iPhone Ultra will get the biggest headlines, but far more people will buy its sibling, the cheaper (but still expensive) iPhone 18 Pro. And we’re learning more and more about this device with each passing week.\nThe latest revelation is that it will have the same or very nearly the same dimensions and general design as its direct predecessor, the iPhone 17 Pro from late 2025. Although there’s an important caveat to bear in mind.\nThis information, unsurprisingly, doesn’t come directly from Apple itself. Rather, it’s emerged by the roundabout route of an accessories company launching a series of cases for the iPhone 17 Pro and specifying on the packaging that these cases will also work on the 18 Pro (which doesn’t even officially exist yet, remember). In other words, the chassis will be the same size, and the various buttons, apertures, speaker grilles, and so on will be in the same position. This strongly implies, too, that there will be no major external camera upgrades.\nThe cases were spotted by the Bloomberg reporter Mark Gurman, who posted a photo of his discovery to Twitter/X. “Best Buy is already putting these on shelves,” he adds. “A little early.” That’s putting it lightly.\nApple’s previous Pro models have all had enough physical changes to their bodies and cameras that previous cases didn’t fit quite right. So OtterBox’s gamble here is a big one, albeit calculated based on media reports.\n\n\nOtterbox seems to think the iPhone 18 Pro will be able to fit inside of iPhone 17 Pro cases and vice versa. Also, Best Buy is already putting these on shelves. A little early. pic.twitter.com/13l7OWj5wX\n— Mark Gurman (@markgurman) August 19, 2026\n\n\n\n\n\nFor the company to release 18 Pro cases ahead of the launch indicates a high degree of confidence in its sources. If it’s got this one wrong, it’ll end up with bad PR and could lead to customers asking for their money back. And accessories firms, for obvious reasons, tend to be well connected to supply chains when it comes to info of this kind.\nBut at the same time, this could easily be a calculated gamble rather than a sure thing. Yes, there’s a chance the sources are wrong, and that would look a bit silly. But actually, who’s going to ask for a refund? Of those buying the cases now, virtually all will be picking them up for an iPhone 17 Pro rather than grabbing an 18 Pro case in advance, and there won’t be any issues with fit on that device. If you’re buying a case now, you probably bought the phone recently, and if you’re buying a 17 Pro now, there’s very little chance you’ll be picking up an 18 Pro (the most common cycles are one purchase every two or three iPhone generations), so you won’t run into any major issues.\nWhat this is really about is making sure that at the very moment when the iPhone 18 Pro is announced, there are cases available which are clearly labelled as being compatible with that device. If the dimensions are different enough that the case won’t work with the new phone, OtterBox will have to put in some emergency phone calls and get it pulled. But the company will have calculated that the chances of that are sufficiently low, and the potential rewards for being the first accessories maker with 18 Pro cases out there sufficiently high, that it’s worth the risk.\nNot to mention that news sites like this one find these stories interesting, and it never hurts to get your company’s name in the news cycle.\nIf you’re thinking, by the way, that Apple tells accessory makers the dimensions of its products ahead of launch so they can have products ready in time… well, we’re not entirely sure. There have been occasional reports of case makers working with Apple, but the lucky few companies who would be in the loop would surely be extremely nervous about losing their privileges. If OtterBox based this early launch on official Apple info, it could find itself losing access to official Apple info in the future. It’s far more likely that this was based on solid third-party sources and a willingness to take a gamble.\nWe won’t know the iPhone 18 Pro’s dimensions and design for sure, in other words, until it’s announced next month. Bookmark our regularly updated iPhone 18 Pro superguide for all the latest news as we head towards the launch.",
-    "pub_date": "2026-08-19T15:48:59.000Z",
-    "creator": "Macworld",
-    "tags": "iOS",
-    "id": 5264
   }
 ]
