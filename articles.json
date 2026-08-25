@@ -1,6 +1,46 @@
 [
   {
     "source_name": "AppleInsider",
+    "title": "JetBrains local model won't cost any tokens, but needs a $2,700 Mac mini to run it",
+    "link": "https://appleinsider.com/articles/26/08/25/jetbrains-local-model-wont-cost-any-tokens-but-needs-a-2700-mac-mini-to-run-it?utm_source=rss",
+    "content": "Apple just announced the Mac mini with M5 Pro and you'll need one with 64GB of RAM to run the Junie Local model, a free 27B parameter coding agent that compares to Sonnet 4.5 or GPT-5.\n\n\nJunie Local needs a powerful Mac to run, but doesn't cost any tokens\nJetBrains developed Junie as a coding agent that runs on your Mac and calls out to models the user chose. That always required some configuration and sending data off to some other AI product, so JetBrains has built Junie Local.\nAccording to a blog post by JetBrains, Junie Local installs with a single command, takes about 20GB of space, and requires at least an M5 Mac with 64GB of RAM. Apple's recently announced Mac mini costs $2,699 to meet that spec with an M5 Pro processor.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-25T20:16:41.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "Mac,Silicon",
+    "id": 5771
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "M6 Mac mini vs M4 Mac mini: Compact powerhouses compared",
+    "link": "https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m4-mac-mini-compact-powerhouses-compared?utm_source=rss",
+    "content": "Apple has refreshed the Mac mini adding the M6, in an unusually timed update. Here's how the new model specs compare against the M4 version it replaces.\n\n\nM6 Mac mini vs M4 Mac mini\nIn a rare move, Apple has updated the Mac mini just before its main iPhone event, rather than during its usual fall Mac window. The big change is the shift from the M4 generation it has been on for almost two years.\nThat shift isn't to the M5, but to M6.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-25T20:14:45.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "Mac,iOS,Silicon",
+    "id": 5736
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "WhatsApp announces three ways to make accounts more secure",
+    "link": "https://9to5mac.com/2026/08/25/whatsapp-announces-three-ways-to-make-accounts-more-secure/",
+    "content": "Meta today announced a set of new security features for WhatsApp, including expanded passkey support and stronger two-step verification. Here are the details.",
+    "pub_date": "2026-08-25T20:10:26.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 5769
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Three new Macs are launching this fall, here’s what’s coming",
+    "link": "https://9to5mac.com/2026/08/25/three-new-macs-are-launching-this-fall-heres-whats-coming/",
+    "content": "Apple launched two new products today—Mac mini and Mac Studio—but three more Macs are rumored to arrive this fall. Here’s what’s coming.",
+    "pub_date": "2026-08-25T19:54:57.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "Mac",
+    "id": 5770
+  },
+  {
+    "source_name": "AppleInsider",
     "title": "Apple Maps ads are finally showing up on iPhone",
     "link": "https://appleinsider.com/articles/26/08/25/apple-maps-ads-are-finally-showing-up-on-iphone?utm_source=rss",
     "content": "Apple Maps ads have finally arrived after months of buildup, with the first sponsored listings rolling out on iPhones across the US and Canada.\n\n\nAn example of an Apple Maps ad\nIn March, Apple confirmed it would bring ads to Apple Maps. The ads were part of the greater Apple Business rollout.\nIt wasn't known exactly when Apple would begin rolling out the ads, but the company had set a tentative release date for Summer 2026. And, true to its word, we're now seeing ads popping up in Apple Maps.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
@@ -278,16 +318,6 @@
     "creator": "Macworld",
     "tags": "Mac,iOS",
     "id": 5740
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "M6 Mac mini vs M4 Mac mini: Compact powerhouses compared",
-    "link": "https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m4-mac-mini-compact-powerhouses-compared?utm_source=rss",
-    "content": "Apple has refreshed the Mac mini adding the M6, in an unusually timed update. Here's how the new model specs compare against the M4 version it replaces.\n\n\nM6 Mac mini vs M4 Mac mini\nIn a rare move, Apple has updated the Mac mini just before its main iPhone event, rather than during its usual fall Mac window. The big change is the shift from the M4 generation it has been on for almost two years.\nThat shift isn't to the M5, but to M6.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-25T15:16:29.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "Mac,iOS,Silicon",
-    "id": 5736
   },
   {
     "source_name": "AppleInsider",
@@ -2968,35 +2998,5 @@
     "creator": "Ed Hardy",
     "tags": "Mac",
     "id": 5348
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Deals: M5 MacBook Air $1,099, M5 Pro MacBook Pro 48GB $400 off, Series 11 from $254, AirTag 2, more",
-    "link": "https://9to5mac.com/2026/08/20/deals-m5-macbook-air-macbook-pro-airtag-2/",
-    "content": "Alongside the AirPods Max 2 at $120 off in all five colors, and the AirTag 2 all-time lows roll on, but today’s 9to5Toys Lunch Break does have some new deals to scope out as well. If you’re quick, the official Apple refurb store has now re-stocked the most affordable 13-inch M5 MacBook Pro down at $1,099 in Midnight, Starlight, and Sky Blue, and we are also tracking a series of M5 Pro MacBook Pro machines at $400 off in brand new condition. The $100 price drops on Apple Watch Series 11 have now returned alongside prices starting from just over $250, and we also have some deals on Twelve South accessories – a new Amazon low on its Find My charger and its Curve Nano MagSafe stand. Everything awaits below",
-    "pub_date": "2026-08-20T15:23:08.000Z",
-    "creator": "Justin Kahn",
-    "tags": "Mac,iOS,Silicon",
-    "id": 5343
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple's New Beats 360 Headphones Keep Leaking",
-    "link": "https://www.macrumors.com/2026/08/20/apple-beats-360-headphones-leak/",
-    "content": "Apple's upcoming Beats 360 headphones appeared in Brazil's ANATEL regulatory database today, according to a new filing spotted by MacRumors.\r\n\r\n\r\nThe filing merely mentions an unnamed product with a model number of A3577, but we know that it is for the Beats 360. The headphones already appeared in the U.S.'s FCC database with the same model number back in May, before soccer stars like Lamine Yamal and Antonee Robinson were spotted wearing them around the 2026 FIFA World Cup.\r\n\r\nMacRumors was first to report on the Beats 360 name this week after the headphones appeared in various retail listings on Amazon and other reseller websites, some of which have since been removed. The listings revealed that the headphones will be available in Black, Cloud, Sky, and Pink, at a minimum. There will also be interchangeable Performance Knit and UltraPlush ear cushions and headbands that come in those same four colors, plus extra options like Volt and Navy, allowing you to create your own personalized look.\r\n\r\nBeats Studio Pro that came out in 2023.\r\n\r\n\r\nThe listing also said that the Beats 360 are Apple's first-ever sweat-resistant and water-resistant over-ear headphones, with an IPX4 rating.\r\n\r\nOther features and specs mentioned in the listing included all-day battery life, a fold-flat design, and a high-fidelity acoustic platform.\r\n\r\nBeats 360 will come with a set of interchangeable Performance Knit cushions and a woven ripstop fabric carrying case, but customers will need to supply their own USB-C charging cable and power adapter. One listing said the headphones will be priced at $299.99 in the U.S., but we cannot confirm if that information is accurate.\r\n\r\nBeats Studio Pro are regularly priced at $349.99.\r\n\r\nTags: Beats, Beats 360\nThis article, \"Apple's New Beats 360 Headphones Keep Leaking\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-20T15:01:29.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "General",
-    "id": 5341
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "New ‘HomePad’ reveal is another reason to put it in every room of your house",
-    "link": "https://9to5mac.com/2026/08/20/new-homepad-reveal-is-another-reason-to-put-it-in-every-room-of-your-house/",
-    "content": "Apple’s new ‘HomePad’ smart home hub is reportedly launching this fall, and the latest leak about it having customizable ‘faces’ offers another reason to put one in every room of your house.",
-    "pub_date": "2026-08-20T15:01:04.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "Rumors",
-    "id": 5344
   }
 ]
