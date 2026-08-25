@@ -1,5 +1,65 @@
 [
   {
+    "source_name": "MacRumors",
+    "title": "AirPods 5 to Launch as Early as Next Month",
+    "link": "https://www.macrumors.com/2026/08/24/airpods-5-to-launch-as-early-as-next-month/",
+    "content": "Apple is planning to announce two new AirPods 5 models as early as Wednesday, September 9, according to  Bloomberg's Mark Gurman. Like the AirPods 4, the AirPods 5 will be available with and without active noise cancellation, he said.\r\n\r\ndiscovered in macOS 26.7 code last week. The report did not say how the AirPods 5 will differ from the AirPods 4, which launched in September 2024 for $129 to $179.\nRelated Roundup: AirPods 4\nTag: Mark Gurman\nBuyer's Guide: AirPods (Caution)\nRelated Forum: AirPods\nThis article, \"AirPods 5 to Launch as Early as Next Month\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-25T03:00:32.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "Mac",
+    "id": 5660
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple could debut two AirPods 5 models next month, per report",
+    "link": "https://9to5mac.com/2026/08/24/apple-could-debut-two-airpods-5-models-next-month-per-report/",
+    "content": "Although AirPods with cameras aren’t expected until next year, Bloomberg reports that Apple could announce the AirPods 5 as early as next month’s expected iPhone event. Here are the details.",
+    "pub_date": "2026-08-25T02:56:09.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 5662
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Report: New Mac mini could launch before Apple’s September event",
+    "link": "https://9to5mac.com/2026/08/24/report-new-mac-mini-could-launch-before-apples-september-event/",
+    "content": "Bloomberg reports that Apple could release a new Mac mini “as soon as the coming days, potentially” ahead of next month’s expected iPhone 18 Pro and iPhone Ultra event. Here are the details.",
+    "pub_date": "2026-08-25T02:26:28.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac,iOS",
+    "id": 5663
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "New Mac Mini Reportedly Set to Launch Before iPhone 18 Pro Event",
+    "link": "https://www.macrumors.com/2026/08/24/new-mac-mini-in-coming-days-report/",
+    "content": "Apple plans to unveil a new Mac mini in the \"coming days,\" according to the latest word from Bloomberg's Mark Gurman.\r\n\r\n\r\nThe new Mac mini will potentially be unveiled before the iPhone 18 Pro event, which is likely to take place on Wednesday, September 9, the report said. Gurman said the new Mac mini will likely be Apple's final new product unveiled before Tim Cook steps down as CEO on September 1, and if so, then it would need to be announced before August ends.\r\n\r\nApple has tested versions of the Mac mini with both M5 and M6 chips, according to Gurman, but it remains unclear which generation of chips Apple ultimately plans to use in the next model. Currently, the Mac mini can be configured with a standard M4 chip or a higher-end M4 Pro chip, 16GB to 48GB of RAM, and up to 8TB of storage.\r\n\r\nraising prices on all Macs and iPads, the Apple TV, HomePods, and the Vision Pro.\r\n\r\nDue to the rising popularity of the Mac mini for on-device AI models, combined with the ongoing memory chip shortage, the Mac mini has been facing extended delivery estimates over the past few months. Currently, the Mac mini has a 4-10 week delivery estimate on Apple's online store in the U.S. depending on the configuration.\r\n\r\nopened this month, with Cook joining U.S. government officials to celebrate the grand opening. So, perhaps Apple's announcement for the new Mac mini will emphasize U.S. assembly.\nRelated Roundups: iPhone 18 Pro, Mac mini\nTag: Mark Gurman\nBuyer's Guide: Mac Mini (Don't Buy)\nRelated Forum: Mac mini\nThis article, \"New Mac Mini Reportedly Set to Launch Before iPhone 18 Pro Event\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-25T02:19:17.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "Mac,iOS,Vision,Silicon",
+    "id": 5661
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "New Mac mini days away, OLED iPad mini in October, AirPods 5 in 2026",
+    "link": "https://appleinsider.com/articles/26/08/25/new-mac-mini-days-away-oled-ipad-mini-in-october-airpods-5-in-2026?utm_source=rss",
+    "content": "A new rumor places a new  Mac mini launching within days, and yes, ahead of the Apple event. Other new products are still coming in 2026 as well, like the iPad mini and AirPods 5.\n\n\nA new Mac mini is coming soon\nWhile the Mac mini hasn't received the M5 processor yet, it could also be upgraded with an M6 to kick off the new chip generation. Either way, it's coming and soon enough to be Tim Cook's last product as CEO.\nAccording to a report from Bloomberg, a new Mac mini could be announced within the next few days. Anonymous sources familiar with Apple plans shared these details, and given the proximity, they're likely right.\n\n Rumor Score: 🤯 Likely \n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-25T02:13:15.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "Mac,iOS,Rumors,Silicon",
+    "id": 5665
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+    "link": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
+    "content": "Following several weeks during which ChatGPT users were subject only to a weekly usage cap, OpenAI announced today that it is restoring a five-hour limit on Codex and ChatGPT Work for Plus subscribers. Here are the details.",
+    "pub_date": "2026-08-25T01:47:49.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 5664
+  },
+  {
     "source_name": "9to5Mac",
     "title": "Tom Selleck confirmed as guest star in upcoming Apple TV comedy series",
     "link": "https://9to5mac.com/2026/08/24/tom-selleck-confirmed-as-guest-star-in-upcoming-apple-tv-comedy-series/",
@@ -2938,65 +2998,5 @@
     "creator": "Joe Rossignol",
     "tags": "Mac,iOS",
     "id": 5245
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Next Apple TV Rumored to Have Five New Features, Including Siri AI",
-    "link": "https://www.macrumors.com/2026/08/19/new-apple-tv-five-rumored-upgrades/",
-    "content": "According to rumors, the next-generation Apple TV 4K will have at least five new features, including an A17 Pro chip or newer, increased RAM, Siri AI support, an Apple-designed N1 chip with Wi-Fi 7 support, and an updated Siri Remote.\r\n\r\n\r\nBelow, we recap everything rumored for the next Apple TV, along with potential launch timing.\r\n\r\nRumored Features\n\r\nA17 Pro Chip or Newer\n\r\n\r\nwill be equipped with the A17 Pro chip, according to MacRumors contributor Aaron Perris, who digs through Apple's code to uncover references to future devices. However, given the lengthy four-year wait for a new Apple TV, it is possible the device will instead receive an even newer A18 Pro or A19 Pro chip.\r\n\r\nThe current Apple TV uses the A15 Bionic chip that debuted in the iPhone 13 series in 2021.\r\n\r\nWith an A17 Pro chip or newer, the next Apple TV would have faster performance, hardware-accelerated ray tracing for improved graphics rendering in games, increased RAM, and likely support for some Apple Intelligence and Siri AI features.\r\n\r\nIncreased RAM\n\r\nAs mentioned above, the next Apple TV should have increased RAM. With an A17 Pro chip or newer, the device should be equipped with at least 8GB of RAM, up from 4GB in the current model. The extra memory would allow the Apple TV to support some Apple Intelligence features, and this will reportedly include Siri AI.\r\n\r\nSiri AI\n\r\n\r\nAccording to 9to5Mac, tvOS 27 will likely add Siri AI to the Apple TV 4K:\nWhen running Device Hub via Xcode in macOS 27, the Apps list for tvOS 27 has a new addition: Siri.\r\n\r\nThe Siri entry features a 'com.apple.campo' string. Prior reporting indicates 'campos' is Apple's internal codename for Siri AI.\r\n\r\nComparing app lists for tvOS 26 and tvOS 27 simulator modes confirms that 'Siri' is not present in tvOS 26's list. It's new with tvOS 27.\r\n\r\nSiri AI will likely be limited to the new Apple TV with sufficient RAM and processing power.\r\n\r\nN1 Chip With Wi-Fi 7\n\r\n\r\nBloomberg's Mark Gurman said the next Apple TV would be equipped with Apple's own combined Wi-Fi and Bluetooth chip, which is presumably the since-announced N1 chip that debuted in the iPhone 17 series and iPhone Air. That chip supports Wi-Fi 7, which would be an upgrade over the current Apple TV's Wi-Fi 6 support.\r\n\r\nWi-Fi 7 has increased bandwidth, in part because it allows for data transmission over the 2.4GHz, 5GHz, and 6GHz bands simultaneously with a supported device and router. Wi-Fi 7 is theoretically up to 4× faster than Wi-Fi 6, but real-world speeds are typically bottlenecked by internet service providers and other factors.\r\n\r\nIn the latest iPhones, the N1 chip also supports Bluetooth 6, which would offer lower latency and other benefits compared to the current Apple TV's Bluetooth 5. \r\n\r\nUpdated Siri Remote\n\r\n\r\nBloomberg's Mark Gurman and macOS 26.7 code findings. However, the code did not reveal any specific changes that may be planned for the remote. \r\n\r\nDesign\n\r\nThe next Apple TV will reportedly have a similar design as the current model.\r\n\r\n\"discussed\" offering an Apple TV with a built-in camera for FaceTime and gesture-based controls, but there is no indication that Apple is moving forward with that plan for the next model in particular.\r\n\r\nadded a FaceTime app to the Apple TV, allowing for video calls with the rear camera on a connected iPhone or iPad. If the Apple TV gained a built-in camera, users would no longer need to rely on an external device for video calls on the TV.\r\n\r\n\r\ntvOS 26 enhanced FaceTime in ways that would be fitting for an Apple TV with a camera:\nWith tvOS 26, users can enjoy a more personalized FaceTime experience that's consistent with iOS. Contact Posters on Apple TV make it easier and more personal by displaying a contact's customized photo and name when starting a FaceTime call on Apple TV. Live Captions expand to include French, German, Japanese, Korean, Mandarin, and Spanish, enabling Apple TV to use on-device intelligence to display Live Captions for FaceTime conversations, so users can follow what's being said in even more languages. Additionally, FaceTime audio and phone call notifications will appear onscreen for the active profile, allowing users to answer on connected HomePod speakers or their iPhone, and ensuring that communication with loved ones remains at the forefront.\nIn the meantime, a Continuity Camera feature allows you to use an iPhone or iPad camera with the Apple TV 4K (3rd generation).\r\n\r\nLaunch Timing and Pricing\n\r\nThe new Apple TV will likely be unveiled in September or October this year, at either the annual iPhone event or a follow-up event. Apple reportedly plans to unveil a trio of new smart home products this year, including the new Apple TV, an all-new smart home hub with tabletop and wall-mounted versions, and an updated HomePod mini.\r\n\r\nApple TV 4K (3rd generation): October 2022\n\r\nApple TV 4K (2nd generation): April 2021\n\r\nApple TV 4K (1st generation): September 2017\n\r\nApple TV HD: September 2015\nIn June, Apple raised prices on 14 products, including the Apple TV 4K. In the U.S., the Wi-Fi model with 64GB of storage now starts at $199 (up from $129), while the Wi-Fi + Ethernet model with 128GB of storage now starts at $249 (up from $149). It is unclear if the next Apple TV will maintain those prices or be even more expensive.\nRelated Roundup: Apple TV\nTag: Siri\nBuyer's Guide: Apple TV (Don't Buy)\nRelated Forum: Apple TV and Home Theater\nThis article, \"Next Apple TV Rumored to Have Five New Features, Including Siri AI\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-19T14:43:02.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "Mac,iOS,App Store",
-    "id": 5246
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "ClarityCheck people-finder left millions of face photos exposed, likely without their knowledge",
-    "link": "https://9to5mac.com/2026/08/19/claritycheck-people-finder-left-millions-of-face-photos-exposed-likely-without-their-knowledge/",
-    "content": "ClarityCheck, a facial-identification tool for which it’s hard to think of many legitimate uses, reportedly left millions of face photos publicly exposed on the internet in a major privacy breach.\nIt’s likely that the vast majority of victims had no idea their photos had been uploaded to the site, and had never granted consent …",
-    "pub_date": "2026-08-19T14:17:19.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "General",
-    "id": 5242
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Things 3.23 update now available with major repeating to-do improvements",
-    "link": "https://9to5mac.com/2026/08/19/things-3-23-update-now-available-with-major-repeating-to-do-improvements/",
-    "content": "Things is making repeating to-dos significantly more flexible in version 3.23, addressing two common situations: finishing a task ahead of schedule and changing its date when plans shift.",
-    "pub_date": "2026-08-19T14:03:30.000Z",
-    "creator": "Zac Hall",
-    "tags": "General",
-    "id": 5243
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Things 3.23 Brings Long-Requested Overhaul of Repeating To-Dos",
-    "link": "https://www.macrumors.com/2026/08/19/things-3-23-brings-long-requested-overhaul-of-repeating-to-dos/",
-    "content": "Cultured Code today released Things 3.23, featuring a significant update to the app's handling of repeating to-dos, addressing two of the most requested changes from users.\r\n\r\n\r\nUntil now, repeating to-dos in Things lacked some of the flexibility of standard to-dos and today's update closes that gap along with a handful of valuable smaller refinements throughout the app. The latest update's changes include:\r\n \r\n\r\nComplete repeating tasks early: Repeating to-dos now display a regular checkbox, just like any other to-do, allowing them to be completed early, with the next copy scheduled based on the existing rule.\n\r\nMake Exception or Update Rule: Rescheduling a fixed-schedule repeating to-do by moving it to a new date now prompts a choice between \"Make Exception,\" which moves only that instance and leaves the rest of the schedule untouched, and \"Update Rule,\" which changes the recurrence pattern itself going forward, so moving a Monday to-do to a Tuesday makes it repeat every Tuesday from then on.\n\r\nAfter-completion repeat changes: To-dos that repeat a period of time after completion, rather than on a fixed schedule, simply move to the new date when rescheduled, with no prompt.\n\r\nCreate Next Copy: Selecting \"Repeat\" then \"Create Next Copy\" allows users get a head start on a to-do or project before its scheduled date, adding notes or completing checklist items in advance.\n\r\nRepeat icon: Generated copies of repeating to-dos now feature a small grey repeat icon to indicate their origin.\n\r\nRedesigned setup dialog: The setup dialog for configuring repeating to-dos now has a visual refresh with easier date selection.\n\r\nBulk actions: Multiple repeating to-dos can now be paused, resumed, or stopped at once.\n\r\nUnified codebase: The display and editing of to-dos, both within lists and when expanded, is now driven by the same code across the Mac, iPadOS, and iOS.\n\r\n\r\n\r\nThings already featured a list that gathers all repeating to-dos and projects along with their upcoming generated copies in one place, accessible by typing \"Repeating\" into the app's search field.\r\n\r\nApp Store for the Mac, iPad, iPhone, and Vision Pro. The update requires macOS 13.3, iOS and iPadOS 16.4, watchOS 9.1, and visionOS 26, or newer.\nTag: Things 3\nThis article, \"Things 3.23 Brings Long-Requested Overhaul of Repeating To-Dos\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-19T14:00:06.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "Mac,iOS,Vision,App Store",
-    "id": 5240
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Amazon announces huge drone delivery expansion, here’s where it’s coming next",
-    "link": "https://9to5mac.com/2026/08/19/amazon-announces-huge-drone-delivery-expansion-heres-where-its-coming-next/",
-    "content": "Amazon Prime Air is the company’s drone delivery service, and today a huge expansion of its availability was announced. Nearly 500 US cities will be reached by the end of 2026. Here’s where Amazon drone delivery is coming next.",
-    "pub_date": "2026-08-19T13:52:32.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "General",
-    "id": 5244
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Amazon and Best Buy Offer Up to $500 Discounts on 2026 MacBook Pro",
-    "link": "https://www.macrumors.com/2026/08/19/500-discounts-macbook-pro/",
-    "content": "Amazon and Best Buy today have big discounts on the M5 Pro and M5 Max MacBook Pro, with up to $500 off select models. A handful of models have better discounts when compared to the last time we tracked these deals, coming in as much as $100 off previous price points.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\nevery deal matched at Best Buy this week during its big 60th Anniversary Sale. This event includes savings on everything from Apple products to TVs, audio accessories, video games, appliances, and more.\r\n\r\n14-Inch MacBook Pro\n\r\nPrices start at $2,299.00 for the 24GB/1TB 14-inch M5 Pro MacBook Pro, down from $2,499.00. Amazon is also providing $400 off the 15-Core/24GB/2TB model, as well as $400 off the 18-Core/24GB/2TB model, both of which are the best prices we've seen in the wake of the recent price hikes.\r\n\r\n\n$200 OFF\n14-inch M5 Pro MacBook Pro (24GB/1TB) for $2,299.00\n\n\r\n\n$400 OFF\n14-inch M5 Pro MacBook Pro (15-Core/24GB/2TB) for $2,599.00\n\n\r\n\n$400 OFF\n14-inch M5 Pro MacBook Pro (18-Core/24GB/2TB) for $2,799.00\n\n\r\n\n$299 OFF\n14-inch M5 Max MacBook Pro (36GB/2TB) for $3,799.99\n\n\r\n16-Inch MacBook Pro\n\r\nIn terms of the larger display models, we're tracking discounts on all four models on Amazon. These start at $2,759.99 for the 24GB/1TB M5 Pro configuration ($239 off), and reach up to $4,499.00 for the 48GB/2TB M5 Max device ($500 off).\r\n\r\n\n$239 OFF\n16-inch M5 Pro MacBook Pro (24GB/1TB) for $2,759.99\n\n\r\n\n$300 OFF\n16-inch M5 Pro MacBook Pro (48GB/1TB) for $3,299.00\n\n\r\n\n$300 OFF\n16-inch M5 Max MacBook Pro (36GB/2TB) for $3,999.00\n\n\r\n\n$500 OFF\n16-inch M5 Max MacBook Pro (48GB/2TB) for $4,499.00\n\n\r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"Amazon and Best Buy Offer Up to $500 Discounts on 2026 MacBook Pro\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-19T13:51:40.000Z",
-    "creator": "Mitchel Broussard",
-    "tags": "Mac,Silicon",
-    "id": 5234
   }
 ]
