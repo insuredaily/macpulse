@@ -1,12 +1,32 @@
 [
   {
+    "source_name": "Cult of Mac",
+    "title": "Next Mac mini refresh could land within days",
+    "link": "https://www.cultofmac.com/news/next-mac-mini-refresh-could-land-within-days",
+    "content": "Apple could launch an M5-powered Mac mini before September, following months of soaring demand fueled by the AI boom.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-08-25T04:39:47.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac,Silicon",
+    "id": 5671
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "New iPad Mini With Four Upgrades Expected to Launch by Late October",
+    "link": "https://www.macrumors.com/2026/08/24/new-ipad-mini-by-end-of-october-report/",
+    "content": "Apple is planning to release a new iPad mini model with an OLED display \"by the end of October\" this year, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nApple already updated the iPad Pro with an OLED display in May 2024, but the iPad mini, iPad Air, and entry-level iPad are all still equipped with LCD screens. The move to OLED technology would result in the next iPad mini offering improved image quality, thanks to richer colors and higher contrast ratio with true blacks.\r\n\r\nGiven that OLED displays are generally more expensive than LCDs, the next iPad mini could have a higher starting price compared to the current model.\r\n\r\nnew type of speaker system and increased water resistance. The next iPad mini is also rumored to be powered by either an A19 Pro or A20 chip, up from the A17 Pro chip in the current model.\r\n\r\nRelated Roundup: iPad mini\nTag: Mark Gurman\nBuyer's Guide: iPad Mini (Don't Buy)\nRelated Forum: iPad\nThis article, \"New iPad Mini With Four Upgrades Expected to Launch by Late October\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-25T03:33:31.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "iOS",
+    "id": 5666
+  },
+  {
     "source_name": "MacRumors",
     "title": "AirPods 5 to Launch as Early as Next Month",
     "link": "https://www.macrumors.com/2026/08/24/airpods-5-to-launch-as-early-as-next-month/",
-    "content": "Apple is planning to announce two new AirPods 5 models as early as Wednesday, September 9, according to  Bloomberg's Mark Gurman. Like the AirPods 4, the AirPods 5 will be available with and without active noise cancellation, he said.\r\n\r\ndiscovered in macOS 26.7 code last week. The report did not say how the AirPods 5 will differ from the AirPods 4, which launched in September 2024 for $129 to $179.\nRelated Roundup: AirPods 4\nTag: Mark Gurman\nBuyer's Guide: AirPods (Caution)\nRelated Forum: AirPods\nThis article, \"AirPods 5 to Launch as Early as Next Month\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "content": "Apple is planning to announce two new AirPods 5 models as early as Wednesday, September 9, according to  Bloomberg's Mark Gurman. Like the AirPods 4, the AirPods 5 will be available with and without active noise cancellation, he said.\r\n\r\ndiscovered in macOS 26.7 Release Candidate code last week, and the report said they could be unveiled at this year's iPhone event. There is no word on how the AirPods 5 will differ from the AirPods 4, which launched in September 2024. In the U.S., AirPods 4 are priced at $129 to $179.\nRelated Roundup: AirPods 4\nTag: Mark Gurman\nBuyer's Guide: AirPods (Caution)\nRelated Forum: AirPods\nThis article, \"AirPods 5 to Launch as Early as Next Month\" first appeared on MacRumors.com\nDiscuss this article in our forums",
     "pub_date": "2026-08-25T03:00:32.000Z",
     "creator": "Joe Rossignol",
-    "tags": "Mac",
+    "tags": "Mac,iOS",
     "id": 5660
   },
   {
@@ -38,6 +58,16 @@
     "creator": "Joe Rossignol",
     "tags": "Mac,iOS,Vision,Silicon",
     "id": 5661
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Reportedly Will Announce iPhone 18 Pro Event Date This Week",
+    "link": "https://www.macrumors.com/2026/08/24/apple-invites-iphone-18-pro-event-soon/",
+    "content": "Apple plans to send out invites for its annual iPhone event this week, according to Bloomberg's Mark Gurman. The event will likely take place on Wednesday, September 9, he said.\r\n\r\nreportedly be named iPhone Ultra. Other new products rumored include an Apple Watch Series 12 with a ceramic case option, two AirPods 5 models, and more.\nRelated Roundup: iPhone 18 Pro\nTags: Apple Event, Mark Gurman\nThis article, \"Apple Reportedly Will Announce iPhone 18 Pro Event Date This Week\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-25T02:15:00.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "iOS",
+    "id": 5667
   },
   {
     "source_name": "AppleInsider",
@@ -2968,35 +2998,5 @@
     "creator": "Malcolm Owen <malcolm@appleinsider.com>",
     "tags": "iOS",
     "id": 5251
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "How I turned my iPhone into a TV remote for my iPad",
-    "link": "https://www.cultofmac.com/how-to/how-i-turned-my-iphone-into-a-tv-remote-for-my-ipad",
-    "content": "Make your iPhone into a TV remote control for your iPad so you don't have to get up when playing a film or show on the tablet.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-19T15:05:41.000Z",
-    "creator": "Ed Hardy",
-    "tags": "Mac,iOS",
-    "id": 5255
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple's M5 MacBook Pro with 96W adapter plunges to $1,699 ($320 off)",
-    "link": "https://appleinsider.com/articles/26/08/19/apples-m5-macbook-pro-with-96w-adapter-plunges-to-1699-320-off?utm_source=rss",
-    "content": "B&H's $320 price drop on Apple's M5 MacBook Pro delivers the lowest price available, but supply is limited.\nB&H has some of the best MacBook Pro deals in effect this week, with models priced as low as $1,699. Of note is the 14-inch M5 spec with 16GB of RAM and a 1TB SSD in Space Black. This model also comes with a 96W USB-C power adapter, a $20 upgrade at Apple.\nBuy M5 MacBook Pro 16GB/1TB for $1,699\nConsidering Amazon is selling the same M5/16GB/1TB spec with the 70W adapter for $1,849, this deal offers incredible value compared to other Apple resellers.\n\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-19T15:03:15.000Z",
-    "creator": "Christine McKee <christine@appleinsider.com>",
-    "tags": "Mac,Silicon",
-    "id": 5252
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Accidentally Leaked More Than 10 New Products in macOS Update",
-    "link": "https://www.macrumors.com/2026/08/19/apple-leak-macos-26-7/",
-    "content": "Apple on Monday seeded the macOS 26.7 Release Candidate, and the upcoming software update has seemingly leaked more than 10 new Apple products.\r\n\r\n\r\nmacOS 26.7's code contains references to AirPods with infrared cameras for Visual Intelligence, the long-rumored foldable iPhone, an all-new Apple smart home hub, the first-ever MacBook and iPad mini models with OLED displays, an updated Siri Remote for a next-generation Apple TV, and more, according to MacRumors contributor Aaron Perris.\r\n\r\nmacOS Tahoe 26.7 is Full of References to Unreleased Apple Products\n\r\nApple's Camera-Equipped AirPods Confirmed: See Them in Action\n\r\nApple's Camera AirPods May Launch as 'AirPods Pro,' Not 'AirPods Ultra'\n\r\nUnreleased AirPods 5 Models Referenced in macOS 26.7\n\r\nNew Apple TV to Come With Upgraded Siri Remote\n\r\nApple's Home Hub Will Have a Widget Gallery With iPhone Widget Support\nWatch our video recap:\r\n\r\nSubscribe to MacRumors on YouTube\n\r\n\r\nThis article, \"Apple Accidentally Leaked More Than 10 New Products in macOS Update\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-19T15:03:06.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "Mac,iOS",
-    "id": 5245
   }
 ]
