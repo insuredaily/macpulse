@@ -1,5 +1,15 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Apple renews push for expedited discovery in OpenAI trade secret misappropriation lawsuit",
+    "link": "https://9to5mac.com/2026/08/25/apple-renews-push-for-expedited-discovery-in-openai-trade-secret-misappropriation-lawsuit/",
+    "content": "Apple has submitted its response to OpenAI’s attempt to block expedited discovery in its ongoing trade secret lawsuit. Here are the details.",
+    "pub_date": "2026-08-26T02:58:54.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 5781
+  },
+  {
     "source_name": "MacRumors",
     "title": "BenQ's New iScreenBar is a Monitor Light Bar Made for the iMac",
     "link": "https://www.macrumors.com/2026/08/25/benq-light-bar-for-imac/",
@@ -2988,15 +2998,5 @@
     "creator": "Zac Hall",
     "tags": "Mac,App Store",
     "id": 5365
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Apple’s upcoming headphones appear to be built for MacBook Neo users",
-    "link": "https://www.macworld.com/article/3217085/apples-upcoming-headphones-appear-to-be-built-for-macbook-neo-users.html",
-    "content": "Macworld\n\n\n\n\n\nFor the second time this week, an unreleased Apple product has been leaked in shockingly thorough fashion. After a video demonstrating camera-equipped AirPods was spotted in macOS 26.7 on Monday, the Beats 360 over-ears headphones have now been revealed on multiple retail websites despite not yet officially existing.\nThe headphones were spotted by Redditors on Amazon U.K., and one user going by the handle HappyMcPe promptly started a thread featuring more than half a dozen photos of the device. They were also spotted on other retail sites such as Apcom Slovakia and Misco, but all the listings now appear to have been taken down.\nBased on the images–which we would tend to assume are legitimate, since they were used by multiple legitimate retailers and have been guiltily taken down since being spotted–the new headphones have a noticeably different design from the two currently available Beats over-ears. Unlike the Studio Pro and Solo 4, the Beats 360 has a separate padded section on the underside of the headpiece, as well as much more of an open mesh on the earcups.\nElsewhere in the listings it’s made clear that the padded section can be detached, as can the cushions over the ears, and that these are available separately as an Extra Cushion Kit. There seems to be two versions of the cushion: Performance Knit and UltraPlush.\nThe images also make it apparent that these are the same unreleased headphones which football star Lamine Yamal was seen with in multiple Instagram posts earlier this summer.\nLamine Yamal\nWhile we’re discussing design, it’s worth mentioning that the color finishes are very MacBook Neo-coded. The 360 is available in Sky, Black, Navy, Cloud, Pink, and Volt (a bright neon yellow and a good match for the Neo’s Citrus finish). That’s way more options, incidentally, than the Studio Pro, which comes in four colors, or the Solo 4, which comes in three.\nBut the leak spills far more beans than simply what the new headphones look like. We’ve got pricing, for example: £331.99 on Misco, and $299 in the DataVision listing.\nIn fact, product descriptions reveal almost everything about the new headphones. They offer active noise cancellation (“up to 1.75x more noise cancellation” than the Beats Studio Pro, the description claims), though they don’t appear to feature an H2 or indeed any other Apple chip. They are rated as IPX4 for water and sweat resistance. They’re compatible with both Apple and Android products. They have all-day battery life even with ANC enabled. They can be folded flat. They come with a “woven ripstop fabric carrying case.” \nIt’s another huge leak, in other words. We don’t know when the headphones will come out, but based on the number of retail companies that had the information, we’d guess it’ll be soon. Watch this space in the coming days for any remaining details that weren’t accidentally leaked today.",
-    "pub_date": "2026-08-20T17:57:04.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,Rumors",
-    "id": 5370
   }
 ]
