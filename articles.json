@@ -1,6 +1,16 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Indie App Spotlight: ‘Laytr’ is a one stop shop for logging everything you want to see later",
+    "link": "https://9to5mac.com/2026/08/29/indie-app-spotlight-laytr-is-a-one-stop-shop-for-logging-everything-you-want-to-find-later/",
+    "content": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nIf you lose track of things you’d like to reference later, Laytr might be a nice solution for you. All of us save things all over the place, whether that be browser bookmarks, built-in bookmarking features within apps, taking a screenshot to hopefully find later, or just leaving a tab open and hoping we find it again later. Laytr aims to be a nice all-in-one solution for keeping track of your digital bookmarks.",
+    "pub_date": "2026-08-29T19:30:00.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "App Store",
+    "id": 6051
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "As a relatively new Apple Vision Pro user, this is my favorite way to use it",
     "link": "https://9to5mac.com/2026/08/29/heres-how-i-enjoy-using-apple-vision-pro/",
     "content": "Apple Vision Pro is one of Apple’s most interesting hardware releases yet. It’s technically very impressive, yet it seems almost certain that this form factor won’t last – and is instead just a temporary platform to introduce visionOS to the world before we eventually get glasses.\nI did buy one late last year, and while I haven’t been a major user of it, there is one use case that genuinely makes it enjoyable.",
@@ -2988,15 +2998,5 @@
     "creator": "William Gallagher <wg@williamgallagher.com>",
     "tags": "Mac,Silicon",
     "id": 5695
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "AI awaiting its iPhone moment, says Altman; needs to learn key Apple lesson",
-    "link": "https://9to5mac.com/2026/08/25/ai-awaiting-its-iphone-moment-says-altman-needs-to-learn-key-apple-lesson/",
-    "content": "OpenAI CEO Sam Altman says that AI is still awaiting its iPhone moment, and that he needs to learn a key lesson from Apple.\nHe also admits that he was overly ambitious in his idea of how quickly AI would disrupt the economy, but thinks that, paradoxically, the tech will create new opportunities for businesses that don’t use it …",
-    "pub_date": "2026-08-25T12:18:42.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "iOS",
-    "id": 5691
   }
 ]
