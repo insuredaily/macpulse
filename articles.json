@@ -1,6 +1,26 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Apple Card keeps getting better, here’s everything new",
+    "link": "https://9to5mac.com/2026/08/29/apple-card-keeps-getting-better-heres-everything-new/",
+    "content": "Apple Card launched seven years ago this month, and it keeps getting better. There are new features, perks, rewards, and more. Plus, there’s one major change looming.\nHere’s everything new with Apple Card lately.",
+    "pub_date": "2026-08-29T23:18:38.000Z",
+    "creator": "Chance Miller",
+    "tags": "General",
+    "id": 6052
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Will Apple’s ‘revamped’ Health app with AI health coach debut next month?",
+    "link": "https://9to5mac.com/2026/08/29/apple-health-revamp-ai-coach-new-apple-watch-next-month/",
+    "content": "Earlier this year, rumors were rampant about a revamped Health app coming to iOS 26.4. Then the project was delayed, and iOS 27 came and went, and the revamp still didn’t arrive.\nWith the new Apple Watch Series 12 and Ultra 4 debuting next month, it’s worth asking: will we see the features debut alongside new hardware?",
+    "pub_date": "2026-08-29T21:38:00.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS,App Store",
+    "id": 6053
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Indie App Spotlight: ‘Laytr’ is a one stop shop for logging everything you want to see later",
     "link": "https://9to5mac.com/2026/08/29/indie-app-spotlight-laytr-is-a-one-stop-shop-for-logging-everything-you-want-to-find-later/",
     "content": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nIf you lose track of things you’d like to reference later, Laytr might be a nice solution for you. All of us save things all over the place, whether that be browser bookmarks, built-in bookmarking features within apps, taking a screenshot to hopefully find later, or just leaving a tab open and hoping we find it again later. Laytr aims to be a nice all-in-one solution for keeping track of your digital bookmarks.",
@@ -2978,25 +2998,5 @@
     "creator": "Chance Miller",
     "tags": "Mac,Silicon",
     "id": 5708
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple announces updated Mac mini, here’s everything new",
-    "link": "https://9to5mac.com/2026/08/25/apple-announces-new-mac-mini-heres-everything-new/",
-    "content": "Apple today announced the first Mac mini update in nearly two years. The new Mac mini keeps the same compact design, but delivers a major performance boost with the new M6 and M5 Pro configurations. \nThe new Mac mini lineup is available to pre-order today, with the first orders arriving September 22.",
-    "pub_date": "2026-08-25T13:00:00.000Z",
-    "creator": "Chance Miller",
-    "tags": "Mac,Silicon",
-    "id": 5709
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "New Parallels Desktop 27 delivers faster OpenGL for Windows apps on Mac",
-    "link": "https://appleinsider.com/articles/26/08/25/new-parallels-desktop-27-delivers-faster-opengl-for-windows-apps-on-mac?utm_source=rss",
-    "content": "Parallels Desktop 27 for Mac claims to provide up to 160% faster OpenGL graphics for Windows apps such as Blender 4.3, as well as AI acceleration on M4 Macs and newer.\n\n\nParallels Desktop 27 runs Windows on the Mac - image credit: Parallels.\nOne year later, Parallels has followed its release of Parallels Desktop 26 with new new Mac and Enterprise versions, plus an online list of compatible Windows apps.\nSave up to 45% on Parallels Desktop 27\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-25T12:59:09.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "Mac,Silicon",
-    "id": 5695
   }
 ]
