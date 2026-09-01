@@ -1,6 +1,36 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "9to5Mac Daily: August 31, 2026 – Apple TV price hikes, more",
+    "link": "https://9to5mac.com/2026/08/31/daily-august-31-2026/",
+    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff: Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done.\n\n\n\n\n more…",
+    "pub_date": "2026-09-01T02:18:49.000Z",
+    "creator": "Seth Kurkowski",
+    "tags": "Mac,iOS,App Store",
+    "id": 6162
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "uGreen NASync DXP4800 Pro review: Sweet spot of price & performance",
+    "link": "https://appleinsider.com/articles/26/08/31/ugreen-nasync-dxp4800-pro-review-sweet-spot-of-price-performance?utm_source=rss",
+    "content": "At $679.99, the four-bay uGreen NASync DXP4800 Pro NAS is a capable mid-range NAS for creators and small teams in the Apple ecosystem, with an excellent value proposition.\n\n\nuGreen NASync DXP4800 Pro\nuGreen has built out its NAS range quickly since entering the category. AppleInsider has covered uGreen NAS hardware before, including the DXP4800 GT.\nThe DXP4800 Pro sits above the GT and Plus in the four-bay lineup. It pairs a six-core Intel chip with generous memory headroom.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-08-31T23:53:04.000Z",
+    "creator": "Mike Wuerthele <mike@appleinsider.com>",
+    "tags": "General",
+    "id": 6165
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Qualcomm Raising Chip Prices Starting Tomorrow",
+    "link": "https://www.macrumors.com/2026/08/31/qualcomm-chip-price-increase/",
+    "content": "Qualcomm is increasing prices for its chips by double digits starting tomorrow. Qualcomm announced the impending price hike back in July, letting customers know prices would go up for chips shipped after September 1.\r\n\r\n\r\nQualcomm said it cannot continue to absorb increasing supplier costs. \"We're just passing through big cost increases that we have,\" said Qualcomm CEO Cristiano Amon in an interview with Reuters.\r\n\r\niPhone 17 models. Apple will discontinue the iPhone 17 Pro models when the iPhone 18 Pro is released in September, but it is likely to keep the ‌iPhone 17‌ in the lineup.\r\n\r\niPhone 17e and iPhone Air use its C1X modem, and rumors suggest some ‌iPhone 18 Pro‌ models and the foldable iPhone could use a new Apple-designed C2 chip with faster 5G speeds. Apple may still rely on Qualcomm for modem chips in the United States, according to leaked iPhone 18 Pro documents from Tata Electronics.\r\n\r\nPrices have gone up for DRAM and storage due to supply issues, which has affected most device manufacturers. Apple raised prices of Macs and iPads in June, and the ‌iPhone 18 Pro‌ models are expected to be more expensive than their predecessors.\r\n\r\niPhone 18 lineup.\r\n\r\nTag: Qualcomm\nThis article, \"Qualcomm Raising Chip Prices Starting Tomorrow\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-31T23:39:44.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS",
+    "id": 6159
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Save up to $1600 on Roborock products, including the flagship Saros 20",
     "link": "https://9to5mac.com/2026/08/31/save-1600-roborock-products-including-flagship-saros-20/",
     "content": "It’s Roborock’s 12th anniversary, and the high-tech cleaning company is celebrating by offering generous discounts across its range of robot cleaners and other products between now and September 6.\nDiscounts range from 25% to over 50% across the products and bundles included in the anniversary sale, with savings as high as $1600 …\nmore…",
@@ -8,6 +38,16 @@
     "creator": "Sponsored Post",
     "tags": "General",
     "id": 6149
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "How I’m using Codex and ChatGPT on my Mac",
+    "link": "https://9to5mac.com/2026/08/31/codex-report-four-months-of-building-joy-on-my-mac-with-chatgpt/",
+    "content": "9to5Mac is brought to you by Memoket: The Memoket Gem is an 11g AI wearable that slots beside your Apple Watch in a co-wear band. Press once to capture a conversation, and Gem connects it to what you discussed weeks ago — surfacing the earlier thread with a source link. From $179, shipping August 2026.\nIn 2023, early adopters were just getting to know ChatGPT and AI chatbot tech. Three years later, OpenAI’s Codex agent, now part of the ChatGPT desktop app, has brought about a similar season of learning. Here’s how I’m using ChatGPT, Codex, and more on my Mac.\nmore…",
+    "pub_date": "2026-08-31T22:00:00.000Z",
+    "creator": "Zac Hall",
+    "tags": "Mac,iOS,App Store",
+    "id": 6163
   },
   {
     "source_name": "Cult of Mac",
@@ -18,6 +58,16 @@
     "creator": "Cult of Mac Deals",
     "tags": "Mac,iOS",
     "id": 6158
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas",
+    "link": "https://www.macrumors.com/2026/08/31/apple-ios-27-public-beta-6/",
+    "content": "Apple today released the sixth public betas of iOS 27, iPadOS 27, tvOS 27, and macOS Golden Gate, allowing anyone with a compatible device to download and test the new software. The sixth betas come a week after Apple seeded the fifth betas and a few hours after the eighth developer betas.\r\n\r\n\r\nYou can get started by signing up on Apple's beta website and then opting in to the public beta by opening up the Settings app on your device, selecting General, and choosing Software Update.\r\n\r\nWe are nearing the end of the beta testing process, and no notable new features were found in today's developer betas. We are expecting the release candidate versions of the software next week following Apple's September 9 iPhone event. \r\nRelated Roundups: Apple TV, iOS 27, iPadOS 27\nBuyer's Guide: Apple TV (Don't Buy)\nRelated Forum: Apple TV and Home Theater\nThis article, \"Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-31T21:13:29.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS,App Store",
+    "id": 6160
   },
   {
     "source_name": "AppleInsider",
@@ -38,6 +88,16 @@
     "creator": "Wesley Hilliard <wes@appleinsider.com>",
     "tags": "Mac",
     "id": 6153
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Says Former Engineer Used Stolen Trade Secrets at OpenAI, Taught AI Agent to Run Them",
+    "link": "https://www.macrumors.com/2026/08/31/apple-openai-lawsuit-trade-secret-theft-evidence/",
+    "content": "Apple today submitted new evidence in its lawsuit against OpenAI, with the hope that the new information will persuade the judge to grant an expedited discovery process.\r\n\r\n\r\nApple filed a theft of trade secrets lawsuit against OpenAI employees Chang Liu and Tang Tan in July, accusing them of using multiple methods to steal data from Apple. Liu kept an Apple-issued MacBook after he left for OpenAI, and Apple got it back after the lawsuit was filed. Apple now says forensic analysis of the laptop has uncovered more evidence of Liu's use of Apple information and his attempts to hide what he'd done.\r\n\r\nFrom the lawsuit:\r\n\r\n \t\nMr. Liu not only downloaded a confidential Apple circuit schematic but also used it in his work at OpenAI;\n\r\n \t\nFar from his unauthorized access to Apple's third-party cloud storage being unknown to him, Mr. Liu and others at OpenAI were well-aware of that access;\n\r\n \t\nMr. Liu, upon learning of Apple's internal investigation of him, sent instructions for destroying evidence to an OpenAI colleague who confirmed she would comply; and\n\r\n \t\nMr. Liu used a tool in his work at OpenAI that has the same name as an internal Apple engineering application used for Apple development work.\n\r\n\r\nLiu downloaded the circuit schematic from Apple in March, two months after he left the company. Liu used the schematic to run a simulation using electrical engineering tool LTspice, and then messaged people telling them he ran the simulation for power conversion development work. Liu described how he trained an AI agent to run LTspice.\r\n\r\nAccording to the filing, he said he was \"[f]eeling AI all day long,\" and that \"[i]n the past hour,\" his AI \"agent learned how to run LTspice, look at result, tune compensation parameter.\" \"I try to make a behavior buck,\" he wrote. \"With voltage outer and current inner. Everything ideal. It still took me a day.. now it's two hour. Including learning fresh.\"\r\n\r\n\"Oh man! Why do they even need you then?\" the person Liu was talking to reportedly replied.\r\n\r\nMac mini that later synced to the MacBook he took from Apple, which is why Apple knows about it. Apple now wants to investigate the ‌Mac mini‌ and other devices Liu still has in his possession.\r\n\r\nApple says the \"shocking evidence\" is proof that its trade secrets are in active use and evidence is being destroyed, which is why expedited discovery is needed.\r\n\r\ndismiss the lawsuit, claiming the accusations were \"meritless.\" OpenAI also published a public statement calling the lawsuit \"careless, aggressive and oddly personal\" and stating that it does not \"have, nor want, any of their trade secrets\" because it is \"much more interested in building innovative products and technologies that push the frontier.\"\r\n\r\nTag: OpenAI\nThis article, \"Apple Says Former Engineer Used Stolen Trade Secrets at OpenAI, Taught AI Agent to Run Them\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-31T20:22:40.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac",
+    "id": 6161
   },
   {
     "source_name": "9to5Mac",
@@ -383,7 +443,7 @@
     "source_name": "MacRumors",
     "title": "Tim Cook Comments on His Final Day as Apple CEO",
     "link": "https://www.macrumors.com/2026/08/31/tim-cook-messages-on-final-day-as-apple-ceo/",
-    "content": "Tim Cook will be stepping down as Apple's CEO on September 1, with the company's hardware engineering John Ternus set to take over. With the transition set to take place tomorrow, there have been quite a few headlines about Cook lately.\r\n\r\n\r\nThe latest story comes from 9to5Mac, which said it has obtained Cook's full memo to Apple employees on his final day as CEO of the company.\r\n\r\nTeam, \r\n\r\nToday is my last day as CEO of Apple. This is a moment I always knew would come one day, and yet it is still hard to believe it has arrived and I am writing these words. I love this company and the team behind it, and I couldn't let this day pass without sending a note to you, to tell you how grateful I am for the outpouring of affection you've sent my way, for the way you've shown up each and every day, and most of all, for the privilege of a lifetime serving as your leader. \r\n\r\nThe truth is, whatever there is to say about my success, I know it is all because of you. You have brought out the best in me. In all my life, I have never seen or been with such an extraordinary team of people before, and every day I get to see more examples of that. \r\n\r\nThere is something truly special about Apple. I am most proud of what an annual report could never capture. This place is proof that culture triumphs over everything. We share a belief that what we build matters, and that we have both the opportunity and the responsibility to leave the world better than we found it. That purpose is part of what makes this place extraordinary. Apple helps nurture it, but I believe it lived within each of you long before you arrived here. It is what brought you to this company and what continues to drive the work you do every day. Together, we have created something far greater than any one of us could have imagined or accomplished alone. And that's the secret to our success. We bring out the best in each other. We lift each other up. We have made it possible to leave our \"dent in the universe,\" as Steve once described it, because of who we are and what we believe, because of what we value and how we see the world. How fortunate we are. How fortunate I am. \r\n\r\nAs you know, I am not leaving Apple. But I am stepping away from a role that I have loved deeply. I will miss this work in ways I can only begin to imagine, even as I remain completely at peace with my decision. I will miss leading you and being with you for every step, even as I take enormous comfort in handing the helm to someone as brilliant and wonderful and capable as John. Few people understand what it takes to build products that change the world the way John does and I could not be more excited for his leadership. \r\n\r\nI hope you know how much I appreciate you and what an honor it has been to be your CEO. Most of all, I hope you will continue to be proud to be part of this remarkable place we call Apple and always give it your very best. When we bring our whole selves to this work, with care for one another and for the people we serve, there is no limit to the profound difference we can make. \r\n\r\nI look forward to seeing you in my new role at Apple Park and around the world. \r\n\r\nWith all I have and all I am, I am always \r\n\r\nYours, \r\n\r\nCook also shared a message to customers today.\r\n\r\n\"Sending lots of love to the Apple community on my last day as CEO,\" said Cook, in a social media post. \"My title changes tomorrow, but the love I have for the Apple community never will. Thank you for being a constant source of inspiration. My gratitude is endless, and I'm excited for the next chapter!\"\r\n\r\n\nSending lots of love to the Apple community on my last day as CEO. My title changes tomorrow, but the love I have for the Apple community never will. Thank you for being a constant source of inspiration. My gratitude is endless, and I'm excited for the next chapter!\n— Tim Cook (@tim_cook) August 31, 2026\n \n\r\nBloomberg's Mark Gurman published an in-depth story about Cook and Ternus on Sunday evening. While unrelated to the CEO transition, the story revealed a previously-unreported detail: Vision Pro layoffs apparently extended to employees working on the device's security, audio engineering, Siri integration, testing, and visionOS.\r\n\r\nGurman also revealed that Apple is seeking an executive bodyguard who must be capable of \"hiking/backpacking for several miles at a time in austere environments.\" Cook is a big fan of hiking and U.S. national parks, leading Gurman to suspect that the job listing relates to Cook, who will probably have more time to spend outdoors.\r\n\r\nTag: Tim Cook\nThis article, \"Tim Cook Comments on His Final Day as Apple CEO\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "content": "Tim Cook will be stepping down as Apple's CEO on September 1, with the company's hardware engineering John Ternus set to take over. With the transition set to take place tomorrow, there have been quite a few headlines about Cook lately.\r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\nThe latest story comes from 9to5Mac, which said it has obtained Cook's full memo to Apple employees on his final day as CEO of the company.\r\n\r\nTeam, \r\n\r\nToday is my last day as CEO of Apple. This is a moment I always knew would come one day, and yet it is still hard to believe it has arrived and I am writing these words. I love this company and the team behind it, and I couldn't let this day pass without sending a note to you, to tell you how grateful I am for the outpouring of affection you've sent my way, for the way you've shown up each and every day, and most of all, for the privilege of a lifetime serving as your leader. \r\n\r\nThe truth is, whatever there is to say about my success, I know it is all because of you. You have brought out the best in me. In all my life, I have never seen or been with such an extraordinary team of people before, and every day I get to see more examples of that. \r\n\r\nThere is something truly special about Apple. I am most proud of what an annual report could never capture. This place is proof that culture triumphs over everything. We share a belief that what we build matters, and that we have both the opportunity and the responsibility to leave the world better than we found it. That purpose is part of what makes this place extraordinary. Apple helps nurture it, but I believe it lived within each of you long before you arrived here. It is what brought you to this company and what continues to drive the work you do every day. Together, we have created something far greater than any one of us could have imagined or accomplished alone. And that's the secret to our success. We bring out the best in each other. We lift each other up. We have made it possible to leave our \"dent in the universe,\" as Steve once described it, because of who we are and what we believe, because of what we value and how we see the world. How fortunate we are. How fortunate I am. \r\n\r\nAs you know, I am not leaving Apple. But I am stepping away from a role that I have loved deeply. I will miss this work in ways I can only begin to imagine, even as I remain completely at peace with my decision. I will miss leading you and being with you for every step, even as I take enormous comfort in handing the helm to someone as brilliant and wonderful and capable as John. Few people understand what it takes to build products that change the world the way John does and I could not be more excited for his leadership. \r\n\r\nI hope you know how much I appreciate you and what an honor it has been to be your CEO. Most of all, I hope you will continue to be proud to be part of this remarkable place we call Apple and always give it your very best. When we bring our whole selves to this work, with care for one another and for the people we serve, there is no limit to the profound difference we can make. \r\n\r\nI look forward to seeing you in my new role at Apple Park and around the world. \r\n\r\nWith all I have and all I am, I am always \r\n\r\nYours, \r\n\r\nCook also shared a message to customers today.\r\n\r\n\"Sending lots of love to the Apple community on my last day as CEO,\" said Cook, in a social media post. \"My title changes tomorrow, but the love I have for the Apple community never will. Thank you for being a constant source of inspiration. My gratitude is endless, and I'm excited for the next chapter!\"\r\n\r\n\nSending lots of love to the Apple community on my last day as CEO. My title changes tomorrow, but the love I have for the Apple community never will. Thank you for being a constant source of inspiration. My gratitude is endless, and I'm excited for the next chapter!\n— Tim Cook (@tim_cook) August 31, 2026\n \n\r\nBloomberg's Mark Gurman published an in-depth story about Cook and Ternus on Sunday evening. While unrelated to the CEO transition, the story revealed a previously-unreported detail: Vision Pro layoffs apparently extended to employees working on the device's security, audio engineering, Siri integration, testing, and visionOS.\r\n\r\nGurman also revealed that Apple is seeking an executive bodyguard who must be capable of \"hiking/backpacking for several miles at a time in austere environments.\" Cook is a big fan of hiking and U.S. national parks, leading Gurman to suspect that the job listing relates to Cook, who will probably have more time to spend outdoors.\r\n\r\nTag: Tim Cook\nThis article, \"Tim Cook Comments on His Final Day as Apple CEO\" first appeared on MacRumors.com\nDiscuss this article in our forums",
     "pub_date": "2026-08-31T15:39:34.000Z",
     "creator": "Joe Rossignol",
     "tags": "Vision",
@@ -543,8 +603,8 @@
     "source_name": "MacRumors",
     "title": "Tim Cook Steps Down as Apple CEO Tomorrow",
     "link": "https://www.macrumors.com/2026/08/31/tim-cook-steps-down-as-apple-ceo-tomorrow/",
-    "content": "The end of an era is upon us, as Tim Cook will be stepping down as Apple's CEO on September 1, after 15 years of leading the company.\r\n\r\nCook has been Apple's CEO since 2011\n\r\nTomorrow, Apple's hardware engineering chief John Ternus will become the company's next CEO. Cook will remain at Apple as the executive chairman of the company's board of directors. In this new role, Apple said Cook will assist with \"certain aspects\" of the company, including \"engaging with policymakers around the world.\"\r\n\r\nCook became Apple's CEO in August 2011, after Steve Jobs stepped down due to health problems. Under his leadership, Apple became the world's most valuable company on multiple occasions, and it launched products and services such as the Apple Watch, AirPods, HomePod, Vision Pro, Apple Music, Apple TV, and much more.  \r\n\r\nApple has set all-time quarterly revenue records over its past few quarters, so the company is in a strong financial position as Cook hands the reins to Ternus.\r\n\r\nTernus (left) and Cook (right)\n\r\n\"It has been the greatest privilege of my life to be the CEO of Apple and to have been trusted to lead such an extraordinary company,\" said Cook. \"I love Apple with all of my being, and I am so grateful to have had the opportunity to work with a team of such ingenious, innovative, creative, and deeply caring people who have been unwavering in their dedication to enriching the lives of our customers and creating the best products and services in the world.\"\r\n\r\n\"John Ternus has the mind of an engineer, the soul of an innovator, and the heart to lead with integrity and with honor,\" said Cook. \"He is a visionary whose contributions to Apple over 25 years are already too numerous to count, and he is without question the right person to lead Apple into the future.\"\r\n\r\nTag: Tim Cook\nThis article, \"Tim Cook Steps Down as Apple CEO Tomorrow\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-31T12:42:47.000Z",
+    "content": "The end of an era is upon us, as Tim Cook will be stepping down as Apple's CEO on September 1, after 15 years of leading the company.\r\n\r\nCook has been Apple's CEO since 2011\n\r\nTomorrow, Apple's hardware engineering chief John Ternus will become the company's next CEO. Cook will remain at Apple as the executive chairman of the company's board of directors. In this new role, Apple said Cook will assist with \"certain aspects\" of the company, including \"engaging with policymakers around the world.\"\r\n\r\nCook became Apple's CEO in August 2011, after Steve Jobs stepped down due to health problems. Under his leadership, Apple became the world's most valuable company on multiple occasions, and it launched products and services such as the Apple Watch, AirPods, HomePod, Vision Pro, Apple Music, Apple TV, and much more.  \r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\nApple has set all-time quarterly revenue records over its past few quarters, so the company is in a strong financial position as Cook hands the reins to Ternus.\r\n\r\n\"It has been the greatest privilege of my life to be the CEO of Apple and to have been trusted to lead such an extraordinary company,\" said Cook. \"I love Apple with all of my being, and I am so grateful to have had the opportunity to work with a team of such ingenious, innovative, creative, and deeply caring people who have been unwavering in their dedication to enriching the lives of our customers and creating the best products and services in the world.\"\r\n\r\nTernus (left) and Cook (right)\n\r\n\"John Ternus has the mind of an engineer, the soul of an innovator, and the heart to lead with integrity and with honor,\" said Cook. \"He is a visionary whose contributions to Apple over 25 years are already too numerous to count, and he is without question the right person to lead Apple into the future.\"\r\n\r\nTag: Tim Cook\nThis article, \"Tim Cook Steps Down as Apple CEO Tomorrow\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-08-31T12:42:36.000Z",
     "creator": "Joe Rossignol",
     "tags": "iOS,Vision,Services",
     "id": 6083
@@ -2938,65 +2998,5 @@
     "creator": "Hartley Charlton",
     "tags": "iOS,Rumors",
     "id": 5813
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Hands-On: Sonnet Echo 21 Thunderbolt 5 SuperDock – a significant speed boost [Video]",
-    "link": "https://9to5mac.com/2026/08/26/sonnet-echo-21-thunderbolt-5-superdock-review/",
-    "content": "The Sonnet Echo 21 Thunderbolt 5 SuperDock, the follow-up to the similarly named Echo 20 Thunderbolt 4 SuperDock (review), lets you add tons of I/O to your Mac via a single Thunderbolt cable, and brings several noteworthy improvements for those looking to upgrade or future-proof their Mac setups.\nPerfect for both laptops like the MacBook Pro, and desktop machines like the just-announced M5 Pro Mac mini, the Echo 21 SuperDock adds a vast array of I/O to these machines. Watch our full hands-on video walkthrough for the details, and be sure to subscribe to 9to5mac on YouTube for more.\nmore…",
-    "pub_date": "2026-08-26T14:06:38.000Z",
-    "creator": "Jeff Benjamin",
-    "tags": "Mac,Silicon",
-    "id": 5817
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "World's best selling smartphone is the iPhone 17 - again",
-    "link": "https://appleinsider.com/articles/26/08/26/worlds-best-selling-smartphone-is-the-iphone-17---again?utm_source=rss",
-    "content": "Figures for the second quarter of 2026 show that the iPhone 17 is once more the biggest selling smartphone around the globe, and that Apple takes the next two spots as well.\n\n\nThe iPhone 17 is the world's best-selling smartphone\nAccording to previous figures from Counterpoint Research, the iPhone 17 was the best-selling smartphone in Q1 2026. But that was predicted, since in the months after launch, the trend in iPhone sales is to see an increase in the non-Pro models.\nNow the research firm says that the iPhone 17 has continued to be as successful. For Q2 2026, it again took the lead in a top ten of smartphone models by sales.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-26T14:00:59.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "iOS",
-    "id": 5820
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iOS 27 Tweaks Apple Wallet's U.S. Passport Feature",
-    "link": "https://www.macrumors.com/2026/08/26/ios-27-tweaks-digital-id-feature/",
-    "content": "iOS 27 tweaks some of the information and menus shown alongside the Digital ID passport feature in the Apple Wallet app.\r\n\r\ndeactivated on recent iOS 27 beta versions. Apple says affected users must remove the card and re-add it to the Apple Wallet app in order to use it again.\nRelated Roundups: iOS 27, iPadOS 27\nTag: Apple Wallet\nThis article, \"iOS 27 Tweaks Apple Wallet's U.S. Passport Feature\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-26T13:46:25.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "iOS,App Store",
-    "id": 5814
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple upgrading recent Mac mini orders to M6, M5 Pro models for free",
-    "link": "https://9to5mac.com/2026/08/26/apple-upgrading-recent-mac-mini-orders-to-m6-m5-pro-models-for-free/",
-    "content": "Apple launched a new Mac mini yesterday with M6 and M5 Pro chips, and reports online show that recent, backordered M4 purchases are being upgraded for free to the new model.\nmore…",
-    "pub_date": "2026-08-26T13:39:35.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "Mac,Silicon",
-    "id": 5818
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Get 50-plus AI models for life for just $39.99 — no monthly fees",
-    "link": "https://www.cultofmac.com/deals/askanymodel-multi-ai-platform",
-    "content": "AskAnyModel is a multi-AI platform that gives you lifetime access to models like GPT and Claude, with monthly credits for flagship models.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-26T13:30:53.000Z",
-    "creator": "Cult of Mac Deals",
-    "tags": "Mac",
-    "id": 5825
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "M5 vs. M5 Pro vs. M5 Max vs. M5 Ultra: The differences that matter",
-    "link": "https://www.cultofmac.com/buying-guides/m5-vs-pro-vs-max-vs-ultra-differences",
-    "content": "Our detailed comparison of the M5 chip family shows how each differs from one another, and helps you choose the best option for you.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-26T13:20:53.000Z",
-    "creator": "Rajesh Pandey",
-    "tags": "Mac,Silicon",
-    "id": 5826
   }
 ]
