@@ -1,9 +1,79 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Apple tells Mac App Store developers they can now drop Intel support",
+    "link": "https://9to5mac.com/2026/09/01/apple-tells-mac-app-store-developers-they-can-now-drop-intel-support/",
+    "content": "Apple started informing developers today that universal macOS apps on the Mac App Store that require macOS 13 or later can now drop support for Intel-based Macs.\nmore…",
+    "pub_date": "2026-09-02T00:50:53.000Z",
+    "creator": "Chance Miller",
+    "tags": "Mac,App Store",
+    "id": 6252
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Mac App Store Apps Can Now Drop Support for Intel Macs",
+    "link": "https://www.macrumors.com/2026/09/01/mac-app-store-intel-mac-support/",
+    "content": "Apple today informed developers that universal Mac App Store apps that require macOS 13 or later can remove support for Intel-based Mac computers.\r\n\r\n\r\nWe're reaching out to let you know that universal macOS apps on the Mac App Store that require macOS 13 or later can now remove support for Intel-based Mac computers.\r\n\r\n\r\nApps that drop Intel support will no longer deliver updates for those machines, but Intel Mac users will be able to keep using the last compatible version of an app. Apple did not previously allow ‌Mac App Store‌ apps with Intel compatibility to drop support.\r\n\r\nmacOS Tahoe is the last version of macOS that will run on Intel-based Macs. macOS Golden Gate is limited to Apple silicon Macs with an M1 chip or later.\r\n\r\nphasing out support for Rosetta 2, the feature that lets Intel-based apps run on Apple silicon Macs. Rosetta will stop working for most apps after ‌macOS Golden Gate‌, and apps that use it won't launch. Apple is making an exception for some older unmaintained gaming titles that rely on Intel-based frameworks.\nTags: App Store, Intel, Mac App Store\nThis article, \"Mac App Store Apps Can Now Drop Support for Intel Macs\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-09-01T23:50:09.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,Silicon,App Store",
+    "id": 6249
+  },
+  {
     "source_name": "AppleInsider",
-    "title": "Apple CEO John Ternus won't be making as much as Cook did in the role for fiscal 2027",
+    "title": "Apple Maps updates 'Lake Ontario' to 'Lake America' for US users",
+    "link": "https://appleinsider.com/articles/26/09/01/apple-maps-updates-lake-ontario-to-lake-america-for-us-users?utm_source=rss",
+    "content": "Following pressure from President Donald Trump and a change to the GNIS, Apple Maps has been updated, renaming Lake Ontario to Lake America.\n\n\nLake Ontario is now shown as Lake America for Apple Maps users in the United States\nApple Maps was drawn into the middle of a trade disagreement between the United States and Canada, by President Trump changing the name of one of the Great Lakes. After being contacted by Trump and nudged to do so, Apple has now updated Maps to update the name of Lake Ontario.\nUsers searching for Lake Ontario will now be greeted by a sight of \"Lake America.\" There was a short in-between where searches for \"Lake America\" would show Lake Ontario on the map but Lake America in the search results.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-01T23:37:24.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "General",
+    "id": 6257
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iPhone Air Review: One Year With Apple's Super Thin $999 iPhone",
+    "link": "https://www.macrumors.com/2026/09/01/iphone-air-one-year-review/",
+    "content": "It's been almost 12 months since Apple launched the iPhone Air, and because MacRumors videographer Dan Barbera has been using it daily since launch, he decided to do a one-year review covering what it's like using Apple's super-thin iPhone on a long-term basis.\r\n\r\n\n\r\nThe ‌iPhone Air‌ is the thinnest iPhone Apple has released to date, and the form factor doesn't get old. It's pocketable, can be used with one hand, and it's much lighter than the iPhone 17 Pro and Pro Max. There's not much compromise on screen size since it has a 6.5-inch OLED display.\r\n\r\nApple used a smaller battery in the ‌iPhone Air‌, and it doesn't last as long as the ‌iPhone 17 Pro‌ models. Some people might be able to get through the day on a single charge, but others will need an external battery pack like the one Apple built for the ‌iPhone Air‌.\r\n\r\niPhone 17 models. No Ultra Wide also means no macro images.\r\n\r\ndidn't sell well.\r\n\r\nRelated Roundup: iPhone Air\nBuyer's Guide: iPhone Air (Neutral)\nThis article, \"iPhone Air Review: One Year With Apple's Super Thin $999 iPhone\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-09-01T23:35:51.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS",
+    "id": 6250
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Ford explains why it chose Apple Maps over Google for its new EVs",
+    "link": "https://9to5mac.com/2026/09/01/ford-explains-why-it-chose-apple-maps-over-google-for-its-new-evs/",
+    "content": "Earlier this year, Apple announced a partnership with Ford to bring native Apple Maps integration to the automaker’s upcoming Universal Electric Vehicle (UEV) Platform, including what we now know is called the Fathom.\nmore…",
+    "pub_date": "2026-09-01T23:33:07.000Z",
+    "creator": "Chance Miller",
+    "tags": "General",
+    "id": 6253
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Here’s how much Apple is paying John Ternus as CEO, Tim Cook as executive chairman",
+    "link": "https://9to5mac.com/2026/09/01/john-ternus-gets-58m-pay-package-as-ceo-tim-cook-47m-as-chairman/",
+    "content": "In a new regulatory filing today, Apple revealed that new CEO John Ternus is receiving a pay package with $58 million in salary and target stock awards. The company also shared details on Tim Cook’s lucrative new deal as Apple’s executive chairman.\nmore…",
+    "pub_date": "2026-09-01T22:10:39.000Z",
+    "creator": "Chance Miller",
+    "tags": "Services",
+    "id": 6254
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Here's What Apple is Paying John Ternus to Run the Company",
+    "link": "https://www.macrumors.com/2026/09/01/apple-ceo-john-ternus-compensation/",
+    "content": "Apple has set new CEO John Ternus' target compensation at $58 million, according to an updated SEC filing [PDF]. Tim Cook's target compensation is $47 million in his new role as executive chairman.\r\n\r\n\r\nTernus' fiscal 2027 compensation includes a $3 million salary and an annual equity award with a target value of $55 million. A quarter of the award is time-based and will vest semiannually over four years. The rest of the restricted stock units (RSUs) will vest based on Apple's total shareholder return relative to other companies in the S&P 500, which is how Cook's RSUs have worked for many years. For fiscal 2026, Apple granted Ternus a prorated RSU award with a target value of $2.5 million.\r\n\r\nCook's new salary will be $2 million, but he's also earning an equity award with a target value of $45 million in fiscal 2027. Half will be granted in the form of time-based RSUs that vest over four years, and the other half will vest based on Apple's stock performance. Should Cook retire on or after the first anniversary of the grant date, his equity will vest, but he won't receive the shares until the originally scheduled vesting dates. \r\n\r\nTarget compensation figures for Ternus and Cook do not include performance-based bonuses, so the final amount each earns in fiscal 2027 could change. \r\n\r\nearned $74.3 million, including a $3 million salary, $12 million in performance-based cash awards, and $57.5 million in stock awards.\r\n\r\nTag: John Ternus\nThis article, \"Here's What Apple is Paying John Ternus to Run the Company\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-09-01T21:50:32.000Z",
+    "creator": "Juli Clover",
+    "tags": "General",
+    "id": 6251
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple CEO John Ternus gets a big pay raise through fiscal 2027",
     "link": "https://appleinsider.com/articles/26/09/01/apple-ceo-john-ternus-wont-be-making-as-much-as-cook-did-in-the-role-for-fiscal-2027?utm_source=rss",
-    "content": "Tim Cook was paid approximately $74.3 million through 2025 with his salary and stock grants, while new CEO John Ternus will make about $58 million across fiscal 2027.\n\n\nJohn Ternus isn't making quite as much as Tim Cook in the new CEO role\nThe Apple CEO transition has finally occurred with Tim Cook stepping into the Executive Chairman position and John Ternus taking over. While their respective pays have very little to do with the day-to-day business, they are still interesting to note.\nAccording to a report from Bloomberg, John Ternus will be paid a $3 million annual salary with a stock grant targeting a $55 million value in 2027. Cook, on the other hand, will be taking a slight pay cut at a $2 million salary and a $45 million stock package.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "content": "Tim Cook was paid approximately $74.3 million through 2025 with his salary and stock grants and bonuses, while new CEO John Ternus will make about $58 million across fiscal 2027 before bonuses are even calculated.\n\n\nJohn Ternus isn't making quite as much as Tim Cook in the new CEO role\nThe Apple CEO transition has finally occurred with Tim Cook stepping into the Executive Chairman position and John Ternus taking over. While their respective pays have very little to do with the day-to-day business, they are still interesting to note.\nAccording to a report from Bloomberg, John Ternus will be paid a $3 million annual salary with a stock grant targeting a $55 million value in 2027. Cook, on the other hand, will be taking a slight pay cut at a $2 million salary and a $45 million stock package.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
     "pub_date": "2026-09-01T21:38:07.000Z",
     "creator": "Wesley Hilliard <wes@appleinsider.com>",
     "tags": "Services",
@@ -2928,75 +2998,5 @@
     "creator": "Macworld",
     "tags": "Mac,Silicon",
     "id": 5927
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple expands educational program for its supply-chain workers in Vietnam",
-    "link": "https://9to5mac.com/2026/08/27/apple-expands-educational-program-for-its-supply-chain-workers-in-vietnam/",
-    "content": "Apple has announced an expansion of its Supplier Employee Development Fund, a $50 million educational program for workers in its supply chain, in the form of a new Apple Education Center in Vietnam.\nThe country is becoming an increasingly important manufacturing center as Apple diversifies beyond China, and the center operates in partnership with Hanoi University of Science and Technology (HUST) …\nmore…",
-    "pub_date": "2026-08-27T12:42:50.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "General",
-    "id": 5905
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Mac, iPhone, and Apple Vision Pro suppliers in Vietnam get new Apple Education Center",
-    "link": "https://appleinsider.com/articles/26/08/27/mac-iphone-and-apple-vision-pro-suppliers-in-vietnam-get-new-apple-education-center?utm_source=rss",
-    "content": "Apple has announced a new Apple Education Center in Hanoi, which aims to train employees in the growing number of Vietnamese manufacturing firms supplying the company.\n\n\nVietnam is an increasingly significant supplier for Apple - image credit: Apple.\nThe new center is the latest investment from Apple's Supplier Employee Development fund, which was founded in 2022 with an initial $50 million. So far that program has reportedly trained over 108,000 supplier employees, and now Apple has announced an expansion of the training in Vietnam.\n\"At Apple, we bring the spirit of innovation into every employee support activity of the global supply chain,\" said Sarah Chandler, Apple's Vice President of Supply Chain and Environment Innovation (in translation). \"We are very excited to expand educational training courses in Vietnam, giving thousands of workers the opportunity to train important skills and discover new opportunities for career development.\"\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-27T12:23:16.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "Mac,iOS,Vision",
-    "id": 5920
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "M5 Ultra Mac Studio vs M1 Ultra Mac Studio: Four years of change, compared",
-    "link": "https://appleinsider.com/inside/mac-studio/vs/m5-ultra-mac-studio-vs-m1-ultra-mac-studio-four-years-of-change-compared?utm_source=rss",
-    "content": "The M5 Ultra Mac Studio arrives four years after the first, equipped with the M1 Ultra. Here's how the latest top-spec model has moved on from the original big-hitter.\n\n\nM5 Ultra Mac Studio vs M1 Ultra Mac Studio\nThe new Mac Studio appeared with a new M5 Ultra chip on Tuesday, making it the top option for anyone working on AI. It marks the fourth Ultra model to be released, over four years after the very first one was introduced.\nBack in March 2022, the M1 Ultra model was viewed as a big deal. Thanks to its processing power, it clearly was.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-27T12:13:27.000Z",
-    "creator": "Mike Wuerthele  and Malcolm Owen <tips@appleinsider.com>",
-    "tags": "Mac,Silicon",
-    "id": 5921
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Unprecedented teen protections on Instagram see $18B lawsuit settled",
-    "link": "https://9to5mac.com/2026/08/27/unprecedented-teen-protections-on-instagram-see-18b-lawsuit-settled/",
-    "content": "Meta has reached a settlement with US states in an $18B lawsuit accusing the social media giant of deliberately making Instagram addictive to teenagers. The money will be used to fund youth safety initiatives and more, though there is a catch.\nMore importantly, the company has agreed to introduce unprecedented protections against overuse of its social media apps by teens … \nmore…",
-    "pub_date": "2026-08-27T11:51:51.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "General",
-    "id": 5906
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Event Logo Hints at Two iPhone 18 Pro Features",
-    "link": "https://www.macrumors.com/2026/08/27/apple-event-hints-iphone-18-pro-features/",
-    "content": "Apple's logo for its upcoming September 9 \"Surprise and shine\" event hints at two rumored iPhone 18 Pro features, including new color options and a new camera system.\r\n\r\n\r\nApple fans often like to read into Apple's event invite graphics for clues about unreleased products, and this year Bloomberg's Mark Gurman is also taking part in the fun on Twitter (X).\r\n\r\nFirst, Gurman says he sees the shining light behind Apple's logo as a nod to the \"mechanical aperture on the iPhone 18 Pro Max.\" \r\n\r\nMacRumors has been reporting since 2024 that Apple could introduce a variable aperture camera on the iPhone 18 Pro models – a first for any iPhone. However, a recent rumor out of China suggests the feature could be exclusive to the larger Pro Max model.\r\n\r\nWith a variable lens, the iPhone 18 Pro Max could allow users to manually shift the aperture, similar to on a DSLR camera. It could mean more control over depth of field and bright light, enabling sharper focus on subjects. That all depends on how Apple implements the feature, of course. It may be more automated than that.\r\n\r\nMacworld, Apple will likely introduce the device in Light Blue, alongside Dark Cherry (the new headline color), Dark Gray, and Silver.\r\n\r\n\nWhat I am seeing: \n- Shining light = mechanical aperture on the iPhone 18 Pro Max\n- Sky Blue color = Possible new iPhone 18 Pro color. https://t.co/MHQ21LmT9U\n— Mark Gurman (@markgurman) August 26, 2026\n  \n\r\nIt's not like we have much longer to wait to find out whether these takes are correct. Apple's event is less than two weeks away. Stay tuned to MacRumors for all the last-minute details.\nRelated Roundup: iPhone 18 Pro\nTag: Apple Event\nThis article, \"Apple Event Logo Hints at Two iPhone 18 Pro Features\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-27T11:46:03.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "iOS,Rumors",
-    "id": 5887
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Announces New Education Center in Vietnam",
-    "link": "https://www.macrumors.com/2026/08/27/apple-announces-new-education-center-in-vietnam/",
-    "content": "Apple today announced a new Apple Education Center in Hanoi to expand training and skill development programs for employees across its supply chain in Vietnam.\r\n\r\n\r\nThe new center is the first of its kind in the country and will begin offering courses this fall, operating in partnership with Hanoi University of Science and Technology (HUST). Apple and its partners already run almost 20 educational programs for supplier employees in Vietnam. \r\n\r\nCourses will combine both online and in-person learning, covering areas including manufacturing, robotics, and automation technology. The center will also offer leadership and soft skills training aimed at helping workers advance in their current roles or move into new career paths.\r\n\r\nThe new center is the latest initiative funded by Apple's $50 million Supplier Employee Development Fund, a global program the company launched in 2022. Apple said more than 9 million education and training sessions have been delivered via the fund so far, and more than 108,000 supplier employees have taken part in its Swift programming courses since 2017.\r\n\r\nTags: Education, Vietnam\nThis article, \"Apple Announces New Education Center in Vietnam\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-27T11:27:58.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "App Store",
-    "id": 5888
-  },
-  {
-    "source_name": "Macworld",
-    "title": "iOS 27 finally lets you separately adjust the volume of ringtones, alarms, and alerts",
-    "link": "https://www.macworld.com/article/3219137/finally-ios-27-lets-you-separately-adjust-the-volume-of-ringtones-alarms-and-alerts.html",
-    "content": "Macworld\n\n\n\n\n\nIt’s one of the more persistently annoying aspects of owning an iPhone, and one of those dumb little things where Apple was overzealous in making things simple and left us with a frustration that most Android users haven’t had to deal with for years: Independent volume controls for various kinds of system sounds.\nSure, you’ve been able to adjust the volume for media (videos or music) separately from system sounds for ages. But there’s been one “Ringtone and Alerts” volume setting that controls everything else. Turn it up so your phone rings loudly, your timers will blast your ears off, and your alarm going off on your bedside table will make you jump out of bed. Lower it, and you risk sleeping through a wake-up call.\nNow, at long last, Apple is giving us the ability to set independent volumes for different sounds. iOS 27 splits these sounds into three groups: Ringtones, Alarms and Timers, and Alerts and System Sounds.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\tIn iOS 26 (left) you have one system volume. In iOS 27, Apple lets you split it into three, if you want.\nFoundry\n\n\n\n\nControlling these volume settings independently is easy and optional. Here’s where you find it:\nOpen Settings\nTap Sound & Haptics\nTap Match Ringtone Volume under Alarms and Timers or Alerts and System Sounds, as desired.\nThis will make a volume slider appear. Sounds will play as you adjust it, so you can hear how long or soft it is.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nIf you like the simplicity of fewer volumes to adjust, you can simply leave the “Match Ringtone volume” switched on. So iOS 27 gives you to option to independently adjust just the type of system sounds you want. \nAdjusting the volume with your volume buttons when listening to media or on a call will continue to adjust the volume of just media or calls, the same way iOS has worked for years.",
-    "pub_date": "2026-08-27T11:15:00.000Z",
-    "creator": "Macworld",
-    "tags": "iOS",
-    "id": 5928
   }
 ]
