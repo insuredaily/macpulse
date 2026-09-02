@@ -1,5 +1,85 @@
 [
   {
+    "source_name": "MacRumors",
+    "title": "Rare Working Apple-1 Could Fetch $800,000 at Auction",
+    "link": "https://www.macrumors.com/2026/09/02/hatfield-apple-1-auction/",
+    "content": "An original Apple–1 Computer could sell for between $500,000 and $800,000 when it is auctioned off this October.\r\n\r\n\r\nThere are fewer than 75 Apple–1 Computers known to exist, and a smaller number that are operational. The \"Hatfield\" Apple–1 is number 48 on the Apple–1 registry, and it is in working condition.\r\n\r\nThe machine was purchased by Fred Hatfield, a computer enthusiast and employee of Computer Data Systems. It is signed by Steve Wozniak and comes with a letter written to Hatfield and signed by Steve Jobs. Jobs authorized a trade-in for the newly released Apple II after Hatfield complained about the Apple–1 software, but Hatfield declined the offer because he would have needed to pay $400 for the upgrade.\r\n\r\nsold it at auction for $671,400. It's now going up for sale again.\r\n\r\nSteve Jobs and Steve Wozniak produced 200 Apple–1 computers in 1976. The device was originally offered as a bare circuit board to be sold as a kit and completed by hobbyists, but Jobs sold 50 fully assembled Apple–1 machines to California-based retailer The Byte Shop. The Byte Shop resold the assembled machines for $666.66.\r\n\r\nlisted on the auctioneer's website. Bids will be accepted from October 4 to October 14.\r\n\r\nfor over $900,000 at auction in the past, though pricing varies based on condition and provenance.\nTag: Apple-1\nThis article, \"Rare Working Apple-1 Could Fetch $800,000 at Auction\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-09-02T21:10:43.000Z",
+    "creator": "Juli Clover",
+    "tags": "Services",
+    "id": 6315
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Hobby Lobby stealthily adds support for Apple Pay",
+    "link": "https://appleinsider.com/articles/26/09/02/hobby-lobby-stealthily-adds-support-for-apple-pay?utm_source=rss",
+    "content": "After years of avoiding it, Hobby Lobby has begun rolling out Apple Pay at its checkouts, much to the delight of its increasingly frustrated customers, though it isn't available everywhere just yet.\n\n\nHobby Lobby now accepts Apple Pay at checkout | Image credit: Hobby Lobby\nYou may be able to pick up your assorted crafting bits and bobs at Hobby Lobby sans wallet if you so choose. Customers have discovered that, at least at certain locations, the retail arts and crafts giant has added support for Apple Pay.\nReports have come in across social media, including Facebook, X, and Instagram over the past week. Dmiyah Johnson posted to Facebook that her local Hobby Lobby currently supports tap-to-pay.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-02T20:52:38.000Z",
+    "creator": "Amber Neely <amber@appleinsider.com>",
+    "tags": "Services",
+    "id": 6320
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple's smart home display could be coming soon, sounds amazing",
+    "link": "https://appleinsider.com/articles/26/09/02/apples-smart-home-display-could-be-coming-soon-sounds-amazing?utm_source=rss",
+    "content": "Apple's new smart home display, designed to power Apple Home, could be launching soon. Here's what the rumors say will be coming, and when.\n\nAn expertly made mockup of Apple's smart home display, taping an iPad mini to a HomePod\nA lot of what we've been hearing about this new home hub isn't exactly new. Rumors say that this device was expected to launch in the spring of 2025, before the state of Apple Intelligence forced Apple to delay it.\nBut that was all in 2025, and 2026 is poised to be more promising, with Apple Intelligence and Siri AI on track and looking great in the recent iOS 27 betas. As the launch nears, we've been getting more rumors as well.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-02T20:16:02.000Z",
+    "creator": "Andrew O'Hara <andrew@appleinsider.com>",
+    "tags": "iOS,Rumors",
+    "id": 6321
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Ryan Reynolds’ new Apple TV spy movie is a winner, reviews here",
+    "link": "https://9to5mac.com/2026/09/02/ryan-reynolds-new-apple-tv-spy-movie-is-a-winner-reviews-here/",
+    "content": "Apple TV kicks off its big fall lineup this week with Mayday, a new Ryan Reynolds film that’s part buddy comedy, part action spy thriller. And the first reviews say the movie’s a winner.\nmore…",
+    "pub_date": "2026-09-02T19:53:35.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "General",
+    "id": 6317
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iOS 27 Introduces New 'iPhone Handoff' Feature",
+    "link": "https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/",
+    "content": "Apple has added a new \"iPhone Handoff\" feature to iOS 27 that will allow you to switch between two iPhones while using the same phone number on each device.\r\n\r\n\r\nThis functionality was briefly mentioned during the WWDC 2026 keynote in June, on a slide that listed hundreds of new features coming in iOS 27 and corresponding software updates, but Apple never shared any further details at the time.\r\n\r\nMacRumors forum member pdfu today shared a video that demonstrates how the feature will work, using two simulated iPhones running in Xcode 27's Device Hub.\r\n\r\n\"iPhone Handoff\" can be set up from the Settings app, under the Cellular menu. During the setup process, you can choose which iPhone you want to be the main device that you use most often and which one you want to be the companion device.\r\n\r\nApple says a user's main eSIM will remain on the main iPhone, while the companion iPhone will receive a companion eSIM, and this will enable you to switch between the devices back and forth while using the same phone number.\r\n\r\nAll cellular settings are managed on the main iPhone, and location sharing is based on whichever iPhone is actively using the phone number.\r\n\r\nIn addition to needing two iPhones running iOS 27, \"iPhone Handoff\" will seemingly require carrier support. The forum post mentions that T-Mobile in the U.S. and Deutsche Telekom in Germany might be among the first carriers to offer the feature.\r\n\r\nRelated Roundups: iOS 27, iPadOS 27\nThis article, \"iOS 27 Introduces New 'iPhone Handoff' Feature\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-09-02T19:35:53.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "iOS,App Store",
+    "id": 6316
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Anthropic upgrades Claude’s computer use to run in the background on Mac",
+    "link": "https://9to5mac.com/2026/09/02/anthropic-upgrades-claude-codes-computer-use-to-run-in-the-background-on-mac/",
+    "content": "While computer use isn’t new for Claude on the desktop, running it in the background is a nice upgrade.\nmore…",
+    "pub_date": "2026-09-02T19:14:00.000Z",
+    "creator": "Zac Hall",
+    "tags": "Mac",
+    "id": 6318
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iOS 27 fixes Apple Mail in three ways longtime users will love",
+    "link": "https://9to5mac.com/2026/09/02/ios-27-fixes-apple-mail-in-three-ways-longtime-users-will-love/",
+    "content": "iOS 27 is packed with powerful features like Siri AI and upgrades to productivity apps like Apple Mail, Notes, Reminders, and Calendar. But for many users, some of iOS 27’s best changes might be bug fixes that make apps run better than ever—here are three coming to Apple Mail.\nmore…",
+    "pub_date": "2026-09-02T19:00:40.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 6319
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Believe it or not, M6 Mac mini deals already cut the price of Apple’s latest",
+    "link": "https://www.cultofmac.com/deals/mac-mini-deal",
+    "content": "Grab Apple's small yet powerful desktop computer with this Mac mini deal. It's so new it's not even in stores yet, but you can save on it. \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-09-02T18:40:05.000Z",
+    "creator": "Ed Hardy",
+    "tags": "Mac",
+    "id": 6325
+  },
+  {
     "source_name": "9to5Mac",
     "title": "iPhone 18 Pro will have three upgrades that have been rumored for years",
     "link": "https://9to5mac.com/2026/09/02/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/",
@@ -2918,85 +2998,5 @@
     "creator": "Hartley Charlton",
     "tags": "General",
     "id": 5963
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Apple Watch Ultra 4 rumors: Everything we know so far",
-    "link": "https://www.cultofmac.com/news/apple-watch-ultra-4-rumors",
-    "content": "The Apple Watch Ultra 4 reportedly will bring a faster chip, new health tools and possible design changes. Here's what's coming.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-28T13:00:47.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,iOS",
-    "id": 6009
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Skip Apple's $3,800 storage upgrade with these 8TB SSD",
-    "link": "https://appleinsider.com/articles/26/08/27/skip-apples-3800-storage-upgrade-with-these-8tb-ssd?utm_source=rss",
-    "content": "Apple charges $3,800 to upgrade the new M5 Max Mac Studio from 512GB to 8TB. You have better and more flexible choices that can save you money.\n\nSSDs for Mac Studio\nBefore Apple's June price increases, the storage upgrade prices were easier to justify. They're much harder to swallow now.\nThe new M5 Max Mac Studio starts at $2,499 and is available to preorder ahead of its September 22 release. Selecting 8TB in Apple's configurator adds $3,800 to the base model's price.\nAn external SSD adds 8TB without replacing the 512GB already inside the Mac. It can also move between computers, be replaced later, and remain useful after the Mac Studio attached to it is retired.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-28T12:48:17.000Z",
-    "creator": "Andrew Orr and Mike Wuerthele <news@appleinsider.com>",
-    "tags": "Mac,Silicon",
-    "id": 5915
-  },
-  {
-    "source_name": "Macworld",
-    "title": "iPhone 18 Pro pre-orders might start later than usual this year",
-    "link": "https://www.macworld.com/article/3222711/iphone-18-pro-pre-orders-later-than-usual.html",
-    "content": "Macworld\n\n\n\n\n\nJust a few days ago, Apple announced the date for its annual Phone event: Wednesday, September 9, less than two weeks away. We’re expecting Apple to unveil its first-ever folding iPhone at the event, along with the iPhone 18 Pro and Apple Watch Series 12. But if you’re looking to buy one of them, you might have to wait longer than usual.\nA reliable source has told Macwelt that pre-orders this year are not set to begin, as usual, on the Friday following the launch. Instead, Apple will open pre-orders a day later, on Saturday, September 12. The reason for this is that this year, September 11 falls on the Friday following the event, a day of remembrance and mourning in the U.S.\nThe time is also set to change, according to the source: While pre-orders usually begin at 5 am PT, Apple is reportedly opening up pre-sales at midnight PT on Saturday.\nIt wouldn’t be the first time Apple has moved pre-orders from Friday to the following Saturday: 11 years ago, the iPhone 6S and 6S Plus weren’t available for pre-order until Saturday, September 12, 2015, for the same reason. \nThis preorder should apply to the iPhone 18 Pro, Apple Watch Series 12 and Ultra 4, and any other surprises Apple has in store. However, if you’re looking to buy one of the foldable iPhone Ultras, reports claim that preorders might not begin until late September. A similar situation occurred in 2020, when the iPhone 12 Mini and the iPhone 12 Pro Max were launched later than the iPhone 12 and the iPhone 12 Pro due to the coronavirus pandemic. Apple also delayed the iPhone X in 2017 due to production issues with the next-gen handset.",
-    "pub_date": "2026-08-28T12:40:49.000Z",
-    "creator": "Macworld",
-    "tags": "iOS",
-    "id": 5996
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple TV acquires breakout British hit comedy for global streaming",
-    "link": "https://9to5mac.com/2026/08/28/apple-tv-small-prophets-comedy/",
-    "content": "Apple TV has picked up a new comedy series, Small Prophets, for its streaming service in an atypical fashion for the streamer. Rather than commission the project upfront, Apple has bought out the worldwide rights for the series a few months after the show debuted in the UK to record ratings.\nSmall Prophets was the biggest new scripted series launch for the BBC this year, and Apple will be hoping to replicate its success around the world. It streams on Apple TV starting October 7.\nmore…",
-    "pub_date": "2026-08-28T12:36:12.000Z",
-    "creator": "Benjamin Mayo",
-    "tags": "General",
-    "id": 5973
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Spatial Audio in CarPlay Now Rolling Out in Volvo Vehicles",
-    "link": "https://www.macrumors.com/2026/08/28/volvo-spatial-audio-now-rolling-out/",
-    "content": "Volvo this week confirmed that Spatial Audio support in CarPlay, powered by Dolby Atmos, is now rolling out to EX90 models via a software update.\r\n\r\nRelated Roundup: CarPlay\nTag: Volvo\nRelated Forum: HomePod, HomeKit, CarPlay, Home & Auto Technology\nThis article, \"Spatial Audio in CarPlay Now Rolling Out in Volvo Vehicles\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-28T12:35:53.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "General",
-    "id": 5964
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple Labor Day 2026 deals now live: AirPods, M6 Mac mini, AirTag 2, iPhone, more",
-    "link": "https://9to5mac.com/2026/08/28/apple-labor-day-2026-deals-live/",
-    "content": "Amazon has now officially launched its massive 2026 Labor Day Sale and the deals are flying. We are tracking $50 off AirPods Pro 3, the best prices ever on the 2026 AirTag 2, all-time lows on iPhone 17 Pro, and much more – Apple Watch SE 3 is sitting at down at the $200 all-time low for the first time if you’re quick. \nThat is all just for starters, though. There are thousands upon thousands of price drops across just about every product category live on Amazon starting today – even the brand new M6 Mac mini 6 is seeing some discounts already, alongside everything from Anker charging gear to smart home products and much more. Scope out some highlights below. \nmore…",
-    "pub_date": "2026-08-28T12:18:53.000Z",
-    "creator": "Justin Kahn",
-    "tags": "Mac,iOS",
-    "id": 5974
-  },
-  {
-    "source_name": "Macworld",
-    "title": "These $40 rollerblade wheels are the office upgrade you didn’t know you needed",
-    "link": "https://www.macworld.com/article/3191888/office-oasis-rollerblade-wheels-chair-upgrade.html",
-    "content": "Macworld\n\n\n\n\n\n\t\t\nBuy on Amazon\nThe Office Oasis Rollerblade Office Chair Wheels – $39.95\nBuy on Amazon\nThe best upgrade I ever made to my home office wasn’t my Mac Studio or Studio Display XDR. It’s a set of rollerblade wheels. For my office chair. Really!\nWe all just sort of accept that our office chair wheels are the way they are. Those little double-wheel plastic or hard rubberized (if you’re lucky) casters that swivel and scratch and make noise. They don’t roll well over carpet, and there’s an entire commodity industry selling ugly sheets of thick plastic to put under your office chair so they don’t mess up your hard floors.\nIt doesn’t have to be that way. I don’t even remember where I saw it recommended, but several years ago someone pointed me to a company that takes rollerblade wheels and puts them on office chair casters. Proper bearings, sturdier construction, and smooth polyurethane that rolls easily over carpet and doesn’t scratch up your floor.\nThe brand is The Office Oasis (there are lots of cheap knockoffs, but these are the original), and it’s only about $40 for a set of 5 casters in a variety of colors. Installing them is trivial—office chair casters are designed to simply pull off and pop on without tools.\nI took a chance and couldn’t believe the difference. My chair glided so easily that when I put it on a section of floor that was just a little bit uneven, it just started rolling on its own. They’re whisper-quiet, too. You don’t realize regular office chair wheels are noisy until you get some that aren’t. And now my chair doesn’t need a big plastic sheet to protect my tile floor.\n\n \n @macworld.com \nThe best $40 office upgrade I ever made \n ♬ original sound – Macworld – Macworld \n  \n\n\n\n\nThe wheels also made my office chair just a tiny bit higher—about half an inch—which is a nice little bonus for a tall guy like me that usually has my chair extended up as high as it will go.\nThis isn’t a sponsored post (though we do earn affiliate revenue if any purchase is made leading from our site). The Office Oasis has never been in contact with anyone here at all. I have used these wheels on my office chair for several years after purchasing them myself, and I just love them. It’s one of those things you use all day every day and forget how great they are until you sit in an office chair without them and instantly regret it.\nSpending $40 on a product that has made my life just a tiny bit better all day every day for years is a no-brainer.",
-    "pub_date": "2026-08-28T11:46:42.000Z",
-    "creator": "Macworld",
-    "tags": "Mac",
-    "id": 5997
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Tim Cook pledges aid to victims of Nepal flooding",
-    "link": "https://appleinsider.com/articles/26/08/28/tim-cook-pledges-aid-to-victims-of-nepal-flooding?utm_source=rss",
-    "content": "Once again, Tim Cook has announced that Apple will be donating to the relief efforts following a natural disaster, this time the overwhelming flooding in Nepal.\n\n\nThe flooding in Nepal - image credit: Sanjit Pariyar.\nJust as he has so many times before, most recently with European wildfires and Venezuelan earthquakes, Cook has promised aid. It's one of Cook's final acts as CEO of Apple ahead of John Ternus replacing him on September 1, 2026.\n\n\nOur thoughts are with all those affected by the tragic flash floods and mudslides in Nepal and Tibet. Apple is making a donation to support relief and rebuilding efforts on the ground.\n— Tim Cook (@tim_cook) August 28, 2026\n \n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-28T11:26:02.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "General",
-    "id": 5984
   }
 ]
