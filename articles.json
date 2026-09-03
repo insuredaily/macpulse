@@ -1,5 +1,35 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "There is a way to run Wallpaper Engine files on Mac, with caveats",
+    "link": "https://appleinsider.com/inside/macos-27/tips/there-is-a-way-to-run-wallpaper-engine-files-on-mac-with-caveats?utm_source=rss",
+    "content": "Mac users can finally run their favorite Wallpaper Engine animated backgrounds natively without booting up Windows. Here's how to get it done, and what the limitations are today.\n\nVivid Walls has an aurora wallpaper. Image credit: v2osk\nWallpaper Engine lets people create animated desktop backgrounds, including scenes that respond to music or the mouse pointer. Users share their creations through Steam Workshop, Steam's service for distributing user-created content.\nDeveloper James Goodnight says Vivid Walls is designed to render those scene files directly on a Mac using its own graphics engine. The app isn't affiliated with Wallpaper Engine, and Goodnight says it doesn't require Windows to display imported scenes.\nOur hands-on testing covered Vivid Walls' bundled videos, playback controls, library features, and importing a 4K video wallpaper through its Wallpaper Engine importer. We didn't test interactive scene files, so these results don't establish how accurately the app reproduces their effects or behavior.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-03T03:00:33.000Z",
+    "creator": "Andrew Orr <andreworr@appleinsider.com>",
+    "tags": "Mac,Rumors,App Store",
+    "id": 6327
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "When is Apple releasing new AirPods?",
+    "link": "https://9to5mac.com/2026/09/02/when-is-apple-releasing-new-airpods/",
+    "content": "Apple’s AirPods lineup is stronger than ever, but there are already rumors about what’s coming next. Here’s everything we know so far about when Apple will release new AirPods.\nmore…",
+    "pub_date": "2026-09-03T00:47:20.000Z",
+    "creator": "Chance Miller",
+    "tags": "General",
+    "id": 6326
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "US government worried that AI companies can't innovate without legal theft",
+    "link": "https://appleinsider.com/articles/26/09/02/us-government-worried-that-ai-companies-cant-innovate-without-legal-theft?utm_source=rss",
+    "content": "If you're developing an LLM in the United States and need loads of data, the government has made a legal filing that claims copyright violations by AI companies are fine, as long as it means moving faster than perceived adversaries.\n\n\nThe US government has put its finger on the scales in deciding the results of the AI race\nI don't like to start my pieces off with a quote, but I feel like this colors everything:\n\"Rules of law that make it significantly more difficult to develop a robust AI industry in the United States therefore threaten national security and give a competitive advantage to foreign adversaries who are not so encumbered,\" is the quote that made me break my editor's rules.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-02T21:48:29.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "General",
+    "id": 6329
+  },
+  {
     "source_name": "MacRumors",
     "title": "Rare Working Apple-1 Could Fetch $800,000 at Auction",
     "link": "https://www.macrumors.com/2026/09/02/hatfield-apple-1-auction/",
@@ -321,10 +351,10 @@
   },
   {
     "source_name": "MacRumors",
-    "title": "iPhone Driver's License Feature in Apple Wallet Just Launched in 16th U.S. State",
+    "title": "iPhone Driver's License Feature in Apple Wallet Launches in Oklahoma",
     "link": "https://www.macrumors.com/2026/09/02/apple-wallet-id-feature-16th-us-state/",
-    "content": "Starting today, Oklahoma residents can add a digital version of their driver's license to the Apple Wallet app on the iPhone and Apple Watch. The digital ID can be used to display proof of identity or age at TSA checkpoints in select airports, at select businesses, and in select apps, but the number of places where it is accepted is still quite limited.\r\n\r\n\r\nOklahoma is the 16th state to implement support for Apple Wallet IDs in the U.S., joining Arizona, Arkansas, California, Colorado, Georgia, Hawaii, Illinois, Iowa, Maryland, Montana, New Mexico, North Dakota, Ohio, Virginia, and West Virginia. The feature is also available in Puerto Rico and works with Japan's My Number Card.\r\n\r\nApple has also been preparing for the feature to go live in North Carolina and Utah in the coming months, and years ago it announced that Connecticut, Kentucky, and Mississippi were committed to launching the feature at some point.\r\n\r\nTo set up the feature, open the Wallet app on the iPhone and tap on the plus sign in the top-right corner. Next, tap on Driver's License and ID Cards, select Oklahoma from the list, and follow the on-screen steps to complete the process. Then, you can present your digital ID where it is accepted without handing over your device.\r\n\r\n\r\nYou can present an Apple Wallet ID where accepted by simply tapping your iPhone or Apple Watch on an identity reader. Then, you will be able to view the specific information being requested by the TSA or business. Only after authorizing with Face ID or Touch ID is the requested identity information released from your device.\r\n\r\nAs mentioned, you do not need to unlock, show, or hand over your device to present an Apple Wallet ID in person, ensuring user privacy.\r\n\r\nApple Wallet IDs are generally not accepted by law enforcement, so carrying a physical ID is still legally required for traffic stops. In addition, the number of businesses that accept Apple Wallet IDs is still quite small. At least for now, Apple Wallet IDs are designed to be a convenient alternative where they are accepted.\r\n\r\nTag: Apple Wallet\nThis article, \"iPhone Driver's License Feature in Apple Wallet Just Launched in 16th U.S. State\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-09-02T13:38:58.000Z",
+    "content": "Starting today, Oklahoma residents can add a digital version of their driver's license to the Apple Wallet app on the iPhone and Apple Watch. The digital ID can be used to display proof of identity or age at TSA checkpoints in select airports, at select businesses, and in select apps, but the number of places where it is accepted is still quite limited.\r\n\r\n\r\nOklahoma is the 16th state to implement support for Apple Wallet IDs in the U.S., joining Arizona, Arkansas, California, Colorado, Georgia, Hawaii, Illinois, Iowa, Maryland, Montana, New Mexico, North Dakota, Ohio, Virginia, and West Virginia. The feature is also available in Puerto Rico and works with Japan's My Number Card.\r\n\r\nApple has also been preparing for the feature to go live in North Carolina and Utah in the coming months, and years ago it announced that Connecticut, Kentucky, and Mississippi were committed to launching the feature at some point.\r\n\r\nTo set up the feature, open the Wallet app on the iPhone and tap on the plus sign in the top-right corner. Next, tap on Driver's License and ID Cards, select Oklahoma from the list, and follow the on-screen steps to complete the process. Then, you can present your digital ID where it is accepted without handing over your device.\r\n\r\n\r\nYou can present an Apple Wallet ID where accepted by simply tapping your iPhone or Apple Watch on an identity reader. Then, you will be able to view the specific information being requested by the TSA or business. Only after authorizing with Face ID or Touch ID is the requested identity information released from your device.\r\n\r\nAs mentioned, you do not need to unlock, show, or hand over your device to present an Apple Wallet ID in person, ensuring user privacy.\r\n\r\nApple Wallet IDs are generally not accepted by law enforcement, so carrying a physical ID is still legally required for traffic stops. In addition, the number of businesses that accept Apple Wallet IDs is still quite small. At least for now, Apple Wallet IDs are designed to be a convenient alternative where they are accepted.\r\n\r\nTag: Apple Wallet\nThis article, \"iPhone Driver's License Feature in Apple Wallet Launches in Oklahoma\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-09-02T13:38:49.000Z",
     "creator": "Joe Rossignol",
     "tags": "iOS,App Store",
     "id": 6259
@@ -2968,35 +2998,5 @@
     "creator": "Chance Miller",
     "tags": "Services",
     "id": 5972
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple's M6 Mac Mini Gets First Pre-Order Discounts at Amazon",
-    "link": "https://www.macrumors.com/2026/08/28/m6-mac-mini-first-discounts/",
-    "content": "Amazon today has introduced the first cash discounts on Apple's brand new Mac mini, with discounts including two of the M6 models as well as the M5 Pro model. All of these deals are pre-order discounts on the 2026 Mac mini, which officially launches on September 22.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n$879.99, down from $899.00, and the 16GB RAM/512GB SSD model for $1,069.99, down from $1,099.00. Both of these devices come with the new M6 chip, and Amazon also has $29 off the M5 Pro Mac mini right now.\r\n\r\n\n$19 OFF\nM6 Mac mini 16GB/256GB for $879.99\n\n\r\n\n$29 OFF\nM6 Mac mini 16GB/512GB for $1,069.99\n\n\r\n\n$29 OFF\nM5 Pro Mac mini 24GB/512GB for $1,669.99\n\n\r\n\r\nIn terms of upgrades, Apple said the Mac mini with the M6 chip delivers up to 40% faster CPU performance, up to 4× faster performance for AI tasks in particular, up to 2× faster graphics performance, and up to 2× faster storage speeds compared to the previous-generation model with the 10-core M4 chip, 32GB of unified memory, and 2TB of storage.\r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"Apple's M6 Mac Mini Gets First Pre-Order Discounts at Amazon\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-28T13:14:22.000Z",
-    "creator": "Mitchel Broussard",
-    "tags": "Mac,Silicon",
-    "id": 5961
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Watch SE 3 Hits New Low Price of $199.99 on Amazon",
-    "link": "https://www.macrumors.com/2026/08/28/apple-watch-se-199/",
-    "content": "You can get the 44mm GPS Apple Watch SE for just $199.99 today on Amazon, down from $279.00. This is a steep discount on the wearable that beats the previous all-time low price by about $30, and matches the record low price of the 40mm GPS model of the smartwatch.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\nThis is the Apple Watch SE with the Midnight Aluminum Case and Midnight Sport Band in the Medium/Large size. As of writing, this is the only model we're tracking on sale, and this is a very rare deal so anyone interested should check it out before Amazon takes it away.\r\n\r\n\n$79 OFF\nApple Watch SE (44mm GPS) for $199.99\n\n\r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find in 2026? Sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"Apple Watch SE 3 Hits New Low Price of $199.99 on Amazon\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-28T13:06:28.000Z",
-    "creator": "Mitchel Broussard",
-    "tags": "iOS",
-    "id": 5962
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Pledges Donation for Nepal and Tibet Flood Relief",
-    "link": "https://www.macrumors.com/2026/08/28/apple-pledges-donation-for-flood-relief/",
-    "content": "Apple CEO Tim Cook today pledged that the company will make a donation toward relief and rebuilding work in Nepal and Tibet, where flash floods and mudslides have killed hundreds of people.\r\n\r\n\r\nOn Wednesday, part of a Himalayan glacier collapsed, briefly damming a river before a surge of water and mud hit communities downstream. Many people are dead or missing, and roads, bridges, and homes near the Nepal–Tibet border have been destroyed.\r\n\r\n\nOur thoughts are with all those affected by the tragic flash floods and mudslides in Nepal and Tibet. Apple is making a donation to support relief and rebuilding efforts on the ground.\n— Tim Cook (@tim_cook) August 28, 2026\n \n\r\n\r\nIndonesia's earthquake recovery earlier this month and previously stepped in for crises in Venezuela, Southern Europe, and Japan. \r\n\r\nJohn Ternus takes over the role on September 1, when Cook will shift into the newly created executive chairman position, where he is expected to continue representing Apple on policy matters.\nTag: Tim Cook\nThis article, \"Apple Pledges Donation for Nepal and Tibet Flood Relief\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-28T13:03:47.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "General",
-    "id": 5963
   }
 ]
