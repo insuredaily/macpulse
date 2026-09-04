@@ -1,5 +1,205 @@
 [
   {
+    "source_name": "Cult of Mac",
+    "title": "Nvidia PAIR turns your gaming PC into backup AI power for your Mac",
+    "link": "https://www.cultofmac.com/news/nvidia-pair-m4-mac-ai-router",
+    "content": "Nvidia PAIR lets your M4 Mac borrow AI muscle from a gaming PC on the same network, no cloud required. It promises a welcome speed boost. \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-09-04T13:56:51.000Z",
+    "creator": "Anurag Chawake",
+    "tags": "Mac,Silicon",
+    "id": 6447
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Reportedly Plans to Release These 14 Products by Early Next Year",
+    "link": "https://www.macrumors.com/2026/09/04/apple-14-more-products-by-early-next-year/",
+    "content": "Apple will be holding its next event on Wednesday, September 9 to unveil its latest iPhones and Apple Watches, but that is not all, according to a new report.\r\n\r\n\r\nBloomberg's Mark Gurman today shared a long list of products that he expects Apple to unveil between next week and early 2027.\r\n\r\nOur list below summarizes Gurman's reporting and mixes in some other rumors.\r\n\r\niPhones\n\r\n\niPhone 18 Pro: A20 Pro chip, a smaller Dynamic Island, a simplified Camera Control button, new Dark Cherry and Light Blue color options, improved vapor chambers to prevent overheating, and more.\n\r\niPhone 18 Pro Max: The same features rumored for the iPhone 18 Pro, but the Pro Max model may be slightly thicker due to a larger battery and a variable aperture camera, which might be exclusive to the Pro Max model this year.\n\r\niPhone Ultra: A foldable so-called \"iPhone Ultra\" with a 7.7-inch inner display and 5.3-inch outer display, two rear 48-megapixel Wide and Ultra Wide cameras, one front camera, a Touch ID power button instead of Face ID, an A20 Pro chip, and more. The device's crease is expected to be less noticeable compared to many previous foldables. iOS 27 will have more landscape apps, side-by-side apps, and other multitasking features on the device. Expect to spend $2,000 or more.\n\nApple Watches\n\nApple Watch Series 12: A faster S11 chip or newer, longer battery life, and a ceramic case option. Fitness tracking improvements may include a continuous heart-rate sensor that can run the whole day, even outside of workouts.\n\r\nApple Watch Ultra 4: A faster S11 chip or newer, fitness tracking improvements such as the continuous heart-rate sensor, and additional satellite features for the Apple Watch Ultra 3 and newer, such as Apple Maps via satellite and the ability to send and receive photos with Messages via satellite.\nTouch ID was initially rumored for the next Apple Watches but has seemingly been ruled out.\niPads\n\niPad mini: A19 Pro or A20 Pro chip, an OLED display, a vibration-based speaker system, and a water-resistant design.\n\r\n\nMacs\n\r\n\niMac: M6 chip and new color options. Apple announced the M6 chip last week.\n\r\nMacBook Pro: A new 14-inch MacBook Pro base model with an M6 chip.\n\r\nMacBook Ultra: A major MacBook Pro redesign in late 2026 or early 2027, with M5 Pro and M5 Max chips, an OLED display, a touch screen, a Dynamic Island, and a thinner design. On this laptop, which will reportedly be named MacBook Ultra, macOS 27 is expected to offer a touch-friendly interface. While this rumor is far less certain, it has also been said that it might be possible to configure the MacBook Ultra with the M5 Ultra chip that debuted last week.\n\nHome\n\r\n\nApple TV: At least five new features, including an A17 Pro chip or newer, an increased 8GB of RAM for Apple Intelligence, Siri AI support, an Apple-designed N1 chip with Wi-Fi 7 support, and an updated Siri Remote. The new Apple TV will apparently look similar to the existing model, so do not expect any major design changes.\n\r\nHomePod mini: Newer chip with Siri AI support, improved sound quality, Apple's N1 chip with Wi-Fi 7 support, a second-generation Ultra Wideband chip, and potentially new color options like red. The new HomePod mini will apparently look similar to the existing model, so do not expect any major design changes.\n\r\nHome Hub: An all-new smart home hub featuring Siri AI, a 6-inch to 7-inch square display, an A18 chip or newer for Apple Intelligence, FaceTime, and more. A new operating system will feature clock faces, widgets, and more. There will a tabletop version with a speaker base and a wall-mounted version.\n\nHeadphones\n\nAirPods 5: Two new AirPods 5 models with and without active noise cancellation.\n\r\nBeats 360: New over-ear Beats 360 headphones with an AirPods Max-like design, interchangeable ear cushions and headbands, up to 1.75× more noise cancellation than the Beats Studio Pro, IPX4-rated water resistance, and more.\n\nTag: Mark Gurman\nThis article, \"Apple Reportedly Plans to Release These 14 Products by Early Next Year\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-09-04T13:55:33.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "Mac,iOS,Rumors,Silicon",
+    "id": 6425
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple working on new surround sound, Party Mode features for HomePod",
+    "link": "https://9to5mac.com/2026/09/04/apple-working-on-new-surround-sound-party-mode-features-for-homepod/",
+    "content": "Apple has several new HomePod features in development, based on new code references discovered in audioOS 27. The code seemingly suggests work on a new surround sound system, something called Party Mode, and more.\nmore…",
+    "pub_date": "2026-09-04T13:47:17.000Z",
+    "creator": "Chance Miller",
+    "tags": "General",
+    "id": 6429
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple plans to launch home security and monitoring service: report",
+    "link": "https://9to5mac.com/2026/09/04/apple-plans-to-launch-home-security-and-monitoring-service-report/",
+    "content": "Apple is about to launch several new Home products, but per a new Bloomberg report, the company has a home security and monitoring service in the works for 2027 too.\nmore…",
+    "pub_date": "2026-09-04T13:29:19.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "General",
+    "id": 6430
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "HomePod surround sound may be coming through a new four-speaker setup",
+    "link": "https://www.cultofmac.com/news/homepod-surround-sounds-audioos-27-four-speaker",
+    "content": "Hidden audioOS 27 code hints at HomePod surround sound through a four-speaker home theater setup. And a new Party Mode too!\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-09-04T13:21:07.000Z",
+    "creator": "Anurag Chawake",
+    "tags": "Mac",
+    "id": 6448
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple making just a few hundred iPhone Ultras per day, per report",
+    "link": "https://9to5mac.com/2026/09/04/apple-making-just-a-few-hundred-iphone-ultras-per-day-per-report/",
+    "content": "We’re less than a week away from Apple announcing its first-ever foldable iPhone. A new supply chain report today says that Apple’s “extremely high quality control standards” have led to a much slower ramp for iPhone Ultra production so far.\nmore…",
+    "pub_date": "2026-09-04T13:11:04.000Z",
+    "creator": "Chance Miller",
+    "tags": "iOS",
+    "id": 6431
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple fixes frustrating TestFlight app regression that search feature update added",
+    "link": "https://9to5mac.com/2026/09/04/apple-fixes-frustrating-testflight-app-regression-that-search-feature-update-added/",
+    "content": "Back in July, Apple updated its TestFlight app with a basic search feature. While you might think this simple update would be universally welcomed, the same TestFlight app introduced a pretty frustrating bug for a lot of users.\nmore…",
+    "pub_date": "2026-09-04T13:00:00.000Z",
+    "creator": "Zac Hall",
+    "tags": "App Store",
+    "id": 6432
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Pexar’s 22-port Thunderbolt 5 dock puts a control screen on your desk",
+    "link": "https://www.cultofmac.com/news/pexars-22-port-thunderbolt-5-dock-control-screen-desk",
+    "content": "Pexar’s PexarBolt Ultra pairs a Thunderbolt 5 dock with a 5-inch touchscreen that displays charging, temperature and even your AI workflow status. \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-09-04T12:54:25.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac",
+    "id": 6449
+  },
+  {
+    "source_name": "Macworld",
+    "title": "iPhone 18 Pro pre-orders might start later this year",
+    "link": "https://www.macworld.com/article/3222711/iphone-18-pro-pre-orders-saturday-midnight-pacific-time.html",
+    "content": "Macworld\n\n\n\n\n\nJust a few days ago, Apple announced the date for its annual Phone event: Wednesday, September 9, less than two weeks away. We’re expecting Apple to unveil its first-ever folding iPhone at the event, along with the iPhone 18 Pro and Apple Watch Series 12. But if you’re looking to buy one of them, you might have to wait longer than usual.\nA reliable source has told Macwelt that pre-orders this year are not set to begin, as usual, on the Friday following the launch. Instead, Apple will open pre-orders a day later, on Saturday, September 12. The reason for this is that this year, September 11 falls on the Friday following the event, a day of remembrance and mourning in the U.S.\nThe time is also set to change, according to the source: While pre-orders usually begin at 5 am PT, Apple is reportedly opening up pre-sales at midnight PT on Saturday. Apple held midnight PT pre-orders until the iPhone 11, when it shifted the time to better accommodate other time zones.\nIt wouldn’t be the first time Apple has moved pre-orders from Friday to the following Saturday: 11 years ago, the iPhone 6S and 6S Plus weren’t available for pre-order until Saturday, September 12, 2015, for the same reason. \nThis preorder should apply to the iPhone 18 Pro, Apple Watch Series 12 and Ultra 4, and any other surprises Apple has in store. However, if you’re looking to buy one of the foldable iPhone Ultras, reports claim that preorders might not begin until late September. A similar situation occurred in 2020, when the iPhone 12 Mini and the iPhone 12 Pro Max were launched later than the iPhone 12 and the iPhone 12 Pro due to the coronavirus pandemic. Apple also delayed the iPhone X in 2017 due to production issues with the next-gen handset.",
+    "pub_date": "2026-09-04T12:48:38.000Z",
+    "creator": "Macworld",
+    "tags": "iOS",
+    "id": 6444
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Alogic's newest monitors include a 6K touchscreen and 5K ultrawide",
+    "link": "https://appleinsider.com/articles/26/09/04/alogics-newest-monitors-include-a-6k-touchscreen-and-5k-ultrawide?utm_source=rss",
+    "content": "Alogic has announced six new monitors, including new 5K and 6K additions to its Aspekt Touch line that work with the Mac mini docking stand, as well as a new 5K ultrawide model with touchscreen support.\n\n\nSome Alogic monitors are perfect for Mac mini owners\nThe new monitors also include models aimed squarely at the professional and business markets, including a 34-inch ultrawide curved option.\nAvailability of the newly announced monitors varies. Some will be available soon, others will not go on sale until November 2026.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-04T12:35:23.000Z",
+    "creator": "Oliver Haslam <oliver@monkeymanmedia.com>",
+    "tags": "Mac",
+    "id": 6433
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "CEO John Ternus, legal battles, & iPhone Fold on the AppleInsider Podcast",
+    "link": "https://appleinsider.com/articles/26/09/04/ceo-john-ternus-legal-battles-iphone-fold-on-the-appleinsider-podcast?utm_source=rss",
+    "content": "Apple's CEO transition is complete, OpenAI may have been caught red-handed, and Apple Maps had a controversial update on the AppleInsider Podcast.\n\n\nJohn Ternus is now CEO and the AppleInsider podcast has to bring back Controversy Corner - original image credits: Apple.\nIt's been a busy week for Apple fans and the iPhone 18 event hasn't even happened yet. Tim Cook is now Executive Chairman while John Ternus is the new CEO.\nHis new era has begun with a lot of controversial things that aren't exactly in John Ternus's control. From new social media accounts to Apple Maps updates, Controversy Corner had to make a return for this episode.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-04T12:11:12.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "iOS",
+    "id": 6434
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Ugreen Launches HomeAgent AI Hubs and Liquid-Cooled Qi2 Charger",
+    "link": "https://www.macrumors.com/2026/09/04/ugreen-launches-homeagent-hubs-qi2-chargers/",
+    "content": "Consumer technology maker Ugreen has announced HomeAgent, its first smart home platform, combining security camera storage, on-device AI, and Matter-based device control in a single hub. \r\n\r\n\r\nThe hub is capable of processing and storing camera footage, files, and other media with no monthly storage fee. Ugreen says the onboard AI can also identify people, vehicles, pets, and packages in footage, as well as summarize events and search recorded video by keyword. \r\n\r\nThe hub is then able to create highlight reels from camera footage as well as stored photo libraries, and it can display them on Ugreen's Gallery LCD Smart Frames.  \r\n\r\nThe hub works as a Matter controller and can talk to third-party devices over Wi-Fi, Zigbee, Thread, Bluetooth, NFC, ONVIF/RTSP, and PoE. Ugreen's compatibility list includes devices from Aqara, ThirdReality, SwitchBot, and Eve, with the company promising more third-party support to come, though the initial phase is limited to lights, switches, sensors, and curtains.\r\n\r\nAll of this can be controlled by talking to the onboard AI assistant Uliya, which can also check live status or event history, and can generate voice notifications for events like packages arriving or the sound of a baby crying.\r\n\r\nThe hub is available in three configurations, each with increasing levels of AI processing power. The entry-level HA100 comes with storage, camera security, and device control, and responds to voice commands, while the HA100 Pro offers faster network connectivity and more compute for heavier workloads. \r\n\r\n\r\nThen there's the MasterAgent Ma100, which runs on NVIDIA's Jetson Thor T5000 platform. Ugreen says it runs at up to 2,070 FP4 TFLOPS of local compute and calls it the hub for larger models juggling multiple devices and tasks at once.\r\n\r\nUgreen's website, with a $50 deposit securing 50% off ahead of a Kickstarter campaign that starts on October 27. Early bird pricing for the three models is $899, $2,999, and $9,999, respectively.\r\n\r\nElsewhere, Ugreen has also launched a 25W MagFlow Pro Magnetic Power Bank, featuring a 10,000mAh battery. The company is touting it as the world's first liquid-cooled Qi2 power bank, since it features a micro-pump that circulates coolant behind a transparent window, so you can actually watch it flowing around inside. \r\n\r\n\r\nThe MagFlow Pro costs $149.99 and is available now from Ugreen and Amazon. \r\n\r\nUgreen and Amazon. \r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\nTag: Ugreen\nThis article, \"Ugreen Launches HomeAgent AI Hubs and Liquid-Cooled Qi2 Charger\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-09-04T11:57:58.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "General",
+    "id": 6426
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Ugreen’s MagFlow power bank uses liquid cooling to beat the heat",
+    "link": "https://www.cultofmac.com/news/ugreen-magflow-power-bank-uses-liquid-cooling-beat-heat",
+    "content": "Ugreen's latest MagFlow Pro chargers use active cooling to keep your iPhone cool while delivering up to 25W wireless fast charging.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-09-04T11:44:26.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac,iOS",
+    "id": 6450
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Wokyis G7 Thunderbolt 5 dock - Retro styled, speedy connectivity",
+    "link": "https://appleinsider.com/articles/26/09/04/wokyis-g7-thunderbolt-5-dock---retro-styled-speedy-connectivity?utm_source=rss",
+    "content": "While the Thunderbolt 5 Wokyis G7 dock certainly goes after the retro gaming nostalgia vote, it also happens to be a well-thought-out add-on for your Mac Studio or older Apple Silicon Mac mini.\n\n\nWokyis G7 80Gbps\nI am not a stranger to Mac docks. I suspect between myself and the rest of the staff, we've done the most reviews of them out of anybody facing the internet over the last decade.\nAnd, I'm not a stranger to nostalgia.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-04T11:34:09.000Z",
+    "creator": "Mike Wuerthele <mike@appleinsider.com>",
+    "tags": "Mac,Silicon",
+    "id": 6436
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple's suppliers only made a few hundred iPhone Ultra units per day in August",
+    "link": "https://appleinsider.com/articles/26/09/04/apples-suppliers-only-made-a-few-hundred-iphone-ultra-units-in-august?utm_source=rss",
+    "content": "Mass production of the iPhone Ultra has been underway for at least some weeks, but quality control inspections are reportedly rejecting all but a few.\n\n\nThe expected iPhone Ultra is still believed to be announced at the September 9 event, but supplies may be extremely constrained.\nReports have varied for months over whether the iPhone Ultra is delayed because of manufacturing problems, or whether those have been resolved. Now according to Nikkei Asia, however, production has been very slow.\nReportedly, Apple introduced a further inspection and verification process for the device during August. An unspecified source said that the additional process is concerned with production quality rather than there being manufacturing problems.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-04T11:20:41.000Z",
+    "creator": "William Gallagher <wg@williamgallagher.com>",
+    "tags": "iOS",
+    "id": 6437
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Apple’s iPhone Ultra color options won’t include black, sources say",
+    "link": "https://www.macworld.com/article/3226946/apples-iphone-ultra-color-options-wont-include-black-sources-say.html",
+    "content": "Macworld\n\n\n\n\n\nIn Cupertino, it seems like blue is the new black. After the iPhone 17 Pro skipped black for a Deep Blue hue, the MacBook Neo followed in the Midnight MacBook Air’s footsteps with Indigo as the only darker option. And now we expect its first folding phone, dubbed the iPhone Ultra, to take a similar path when it is introduced next week.\nAs we reported earlier this year, the iPhone 18 Pro and Pro Max will come in two new colors when they’re unveiled at Apple’s Surprise and Shine event next week. The flagship color will be Dark Cherry, which has a purplish hue. It is expected to be joined by Light Blue, somewhat reminiscent of the iPhone 13 Pro’s Sierra Blue. We also expect there will be silver and dark gray options, though it’s possible only one will make the final cut.\nFor the folding iPhone Ultra, however, the color options will be somewhat less… colorful. The same sources that told us about the iPhone 18 Pro colors also revealed the options for the folding iPhone Ultra, and they’re not what most people would expect.\nWhen Apple introduced the radically redesigned iPhone X back in 2017, it was available in two options: silver and space gray. We assumed a similar set of options would be available for the iPhone Ultra, but our source says Apple will release the folding iPhone in two varieties: a standard silver-and-white model and a surprising Indigo Blue option. Our sources say the hue will be closer to the iPhone 17 Pro’s Deep Blue than the MacBook Neo, however.\nThose colors were corroborated a few months later by known leaker Sonny Dickson, who shared a photo of the iPhone Ultra’s camera protectors in silver and dark blue.\nApple is expected to unveil the folding iPhone Ultra at its Surprise and Shine event on Wednesday at 10 am PT. According to rumors, it will have a 5.5-inch cover screen that opens to a 7.8-inch internal display, about a half-inch smaller than an iPad mini. You can learn about what we know about the phone in our iPhone Ultra superguide.",
+    "pub_date": "2026-09-04T11:15:00.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,iOS",
+    "id": 6445
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Inside iMovie: Getting started with video editing in iOS 27 and iPadOS 27",
+    "link": "https://appleinsider.com/inside/ios-27/tips/inside-imovie-getting-started-with-video-editing-in-ios-27-and-ipados-27?utm_source=rss",
+    "content": "Take your first steps to becoming the next Mr Beast, or make your vacation recap more bearable to watch, by using iMovie. Here's how to get started using it on iPhone and iPad.\n\n\niMovie is free in iOS 27 and iPadOS 27\nVideo is a type of media that most of the world enjoys every day. It's a fantastic tool for sharing ideas and experiences with others, and in a way that can be much easier to digest than text or photographs alone.\nSocial Media has a massive appetite for video, with almost all platforms focusing on the medium. It's also something you must master if you want to get seen online in 2026.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-04T11:05:38.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS",
+    "id": 6438
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Your wallet can sit out next week’s Apple event",
+    "link": "https://www.macworld.com/article/3225983/this-is-your-cue-to-skip-that-iphone-or-apple-watch-upgrade-this-month.html",
+    "content": "Macworld\n\n\n\n\n\nOn September 9, Apple is scheduled to hold its most anticipated hardware-centric event of the year. During the “Surprise and shine” keynote, Apple CEO John Ternus is expected to announce the all-new iPhone Ultra, alongside iPhone 18 Pro models, fresh Apple Watches, enhanced AirPods, and an overhauled smart home line. \nWhile many of these devices will pack new hardware with a lot of hype behind it, it may be wise to skip buying your annual Apple upgrade this fall. Not only will iPhones be more expensive than ever, but many of the upgrades we’re expecting might not be worthy of an upgrade at all.\nInsufficiently Ultra\nPerhaps the event’s most exciting announcement will be the iPhone Ultra. The first-generation product will mark Apple’s entry into the foldable market, rivaling Samsung’s Galaxy Z Fold 8 and the like. It’ll probably offer some neat benefits, like a more powerful iOS multitasking system and the ability to seamlessly switch between the small and large screen form factors. Essentially, it’s a hybrid device that blends an iPhone with an iPad mini. It all sounds great until you take a closer look at the full package.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nIce Universe\n\n\n\n\nDespite its rumored Ultra branding, the foldable will sacrifice several iPhone features available on cheaper models. Most notably, it’ll downgrade biometric authentication from Face ID to Touch ID and exclude the telephoto camera that enables a longer zoom range. It may also come in just two lifeless colorways.\nTaking its high cost into consideration, it’s hard to justify buying the iPhone Ultra. It’s usually advisable to steer clear of first-gen devices, especially when they cost $2,000-2,500 and aren’t as capable as the rest of the lineup. I’d recommend waiting for its successor, which will almost surely address some of the original iPhone Ultra’s shortcomings and potentially be more durable. Until then, using an iPhone and iPad separately provides a wider feature set and a longer combined battery life.\nFamiliar Pro-file\nWith the iPhone Ultra out of the way, you may be eyeing an iPhone 18 Pro instead. After all, the Pro models are the most advanced and reliable of their kind, offering Apple’s latest innovations in the mobile department. Nevertheless, you’ll want to skip that, too.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nThe iPhone 18 Pro will likely introduce three core changes: a faster A20 Pro processor, a smaller Dynamic Island cutout, and new finishes. Meanwhile, the iPhone 18 Pro Max could solely get a variable aperture lens that helps elevate photography. While welcome, these upgrades will come at a cost, as the devices will reportedly see a $100-300 price hike. For most users, it’s wiser to buy a more fairly priced iPhone 17 Pro or wait for next year’s iPhone XX, which should be a dramatic overhaul that arguably warrants the upcharge.\nWatch from afar\nBeyond the new iPhones, the company is expected to announce the Apple Watch Series 12 and Ultra 4 during its upcoming event. The smartwatches could feature the first performance boost in three years and an all-day heart rate monitor. There have also been some rumors about ceramic editions of the Series variants and an updated fitness tracking system.\nBut here’s the thing—all models from the Apple Watch Series 9 already support all of watchOS 27’s announced features, including Siri AI. They also continuously record your heart rate while you exercise and, otherwise, periodically do so throughout the day. That’s enough relevant data collection to give users a solid idea of their overall cardiovascular state. As for the refreshed fitness system, that will presumably be a watchOS 27 software perk that expands to all compatible models—not just the latest ones.\nAs such, if you use an Apple Watch Series 9 or newer, it’s best to skip upgrading this year and wait for the noticeably redesigned model rumored to launch as soon as next year.\nSound decision\nOther mobile accessories I expect to see at the event are two AirPods 5 variants. Like the AirPods 4, the latest-generation wearable will provide optional active noise cancellation (ANC) for those willing to pay a bit more. Given that Apple typically offers its best audio technology in the AirPods Pro line, it’s unlikely that the AirPods 5 will introduce any meaningful features unavailable on AirPods Pro 3. The refresh could be largely iterative, focusing on connectivity improvements and battery life. For something more exciting, I advise waiting for the camera-equipped AirPods rumored to debut in 2027, as they’ll enable major new capabilities.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nSmart spending\nApart from mobile devices, the “Surprise and shine” event will possibly feature Apple’s biggest smart home push to date. The Apple TV 4K and HomePod could leverage faster chips to unlock Siri AI. But let’s face it—your current smart speakers and set-top boxes can play music and movies just fine. While Siri AI is nice to have, it’s not an essential feature for media streaming devices.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nMore importantly, Apple could reveal its first-ever dedicated smart home hub, which some are calling the HomePad. The new device will use a new OS with a new interface, letting you easily view your smart home’s state and control HomeKit and Matter accessories. It’ll likely also support FaceTime calls, viewing News+ recipes, and other existing Apple services. Despite that, I still fail to see its unique selling point. The Apple TV 4K and HomePod already act as HomeKit hubs to power automations, remote control, and more. \niOS, iPadOS, macOS, and even watchOS all support interacting with smart accessories using the built-in Home app. Unless its exclusive use cases haven’t leaked yet, I see little reason why one would add a HomePad to their setup.",
+    "pub_date": "2026-09-04T10:30:00.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,iOS,Silicon,App Store,Services",
+    "id": 6446
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iPhone Ultra Production Hitting Just 'a Few Hundred' a Day, Says Nikkei",
+    "link": "https://www.macrumors.com/2026/09/04/iphone-ultra-production-extremely-limited/",
+    "content": "Apple last month only managed to produce \"a few hundred units a day\" of its upcoming foldable iPhone because of the company's extremely high quality control standards, according to Nikkei Asia ($), citing supply chain sources.\r\n\r\n\r\nFrom today's report:\r\n\"Production is ramping up slowly, with output currently at only a few hundred units a day in late August. That initial volume could be challenging to meet market demand,\" one supply chain manager with knowledge of the matter told Nikkei Asia.\nMultiple reports have suggested the iPhone Ultra's production has faced hurdles because of how difficult the device is to build, with the hinge structure and display durability testing having been the principal bottlenecks. Those issues were thought to have been resolved during trial production at Foxconn, with Apple subsequently raising its order to around 10 million units, up from 7-8 million units for the year, Nikkei previously reported.\r\n\r\nNikkei.\r\n\r\nAll of this has apparently \"pushed back commercial production for weeks,\" suggesting Apple could fall short of its production target unless it can ramp up output more quickly. Apple and its suppliers are said to be working \"around the clock\" to ramp up production and avoid limited stocks at distribution centers.\r\n\r\nstaggered market launch, with availability initially limited to the U.S. \r\n\r\nSurprise and shine\" event. For everything we know about the device, be sure to check out our latest roundup.\r\n\r\nRelated Roundup: iPhone Fold\nTags: iPhone Ultra, Nikkei\nThis article, \"iPhone Ultra Production Hitting Just 'a Few Hundred' a Day, Says Nikkei\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-09-04T10:09:03.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "iOS",
+    "id": 6427
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Is Testing a Four-HomePod Surround System, Code Suggests",
+    "link": "https://www.macrumors.com/2026/09/04/apple-testing-four-homepod-surround-system/",
+    "content": "Apple appears to be working on some major new HomePod home theater features, including a four-speaker surround sound system and a new \"Party Mode,\" according to code found in audioOS 27 beta 8, and shared on the MacRumors forums by member pdfu.\r\n\r\n\r\nReferences in the software for the second-generation HomePod suggest the ability to tune for a setup with front-left, front-right, rear-left, and rear-right HomePods. The four-speaker surround configuration references automatic room calibration, speaker-position mapping, timing adjustments, bass management, EQ, dialogue enhancement, and different processing modes for movies and music.\r\n\r\nFor stereo content, the code suggests the ability to either spatialize sound across all four speakers or limit traditional stereo playback to the two front speakers.\r\n\r\nThe files also reference a new tuning system called \"Forklift\" that combines two second-generation HomePods with two speakers that use an unidentified AID12007 hardware family. We haven't seen this identifier before – it doesn't correspond to any existing HomePod models – suggesting it refers to a future HomePod mini, third-generation HomePod, or some other unreleased audio device.\r\n\r\nIn addition, Apple appears to be working on a new \"Party Mode\" feature for stereo-paired HomePods. The feature applies a more diffuse sound field that's designed to spread sound more evenly across the room for a more immersive listening experience, rather than optimizing playback for a single listening position.\r\n\r\nThe Home app and Apple TV do not currently provide a way to configure four HomePods as a surround system. Indeed, none of these features have been referenced before. All we can say at this point is that they indicate that Apple is testing them, but whether Apple ultimately releases them remains to be seen. \r\n\r\nBloomberg's Mark Gurman, so it's possible that these features could be part of Apple's broader Home refresh. Watch this space.\nRelated Roundups: HomePod, HomePod mini\nBuyer's Guide: HomePod (Caution), HomePod Mini (Don't Buy)\nRelated Forum: HomePod, HomeKit, CarPlay, Home & Auto Technology\nThis article, \"Apple Is Testing a Four-HomePod Surround System, Code Suggests\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-09-04T09:29:50.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "App Store",
+    "id": 6428
+  },
+  {
     "source_name": "9to5Mac",
     "title": "New action comedy movie Mayday is now streaming on Apple TV",
     "link": "https://9to5mac.com/2026/09/04/new-action-comedy-movie-mayday-is-now-streaming-on-apple-tv/",
@@ -41,10 +241,10 @@
   },
   {
     "source_name": "MacRumors",
-    "title": "Six Sleeps Until iPhone 18 Pro: Here's What We Know",
+    "title": "Five Sleeps Until iPhone 18 Pro: Here's What We Know",
     "link": "https://www.macrumors.com/2026/09/03/iphone-18-pro-heres-what-we-know/",
-    "content": "We are just six sleeps away from Apple's unveiling of its new-generation iPhone 18 Pro and iPhone 18 Pro Max models, not forgetting its first foldable iPhone.\r\n\r\n\r\nApple is expected to introduce the devices at its annual iPhone fall event, which is this year carrying the tagline \"Surprise and shine.\" The event takes place on Wednesday, September 9. To help you get some shuteye in the meantime, here's a rundown of the features we're expecting from Apple's iPhone 18 Pro models.\r\n\r\nOverall Design: The iPhone 18 Pro models are expected to stick to the overall iPhone 17 Pro design, but they could feature a more seamless rear casing with less contrast between the glass and aluminum frame.\n\r\nBattery Life: The iPhone 18 Pro Max is rumored to feature a larger 5,100–5,200 mAh battery and a slightly thicker, heavier design as a result.\n\r\nSmaller Dynamic Island: Apple is expected to shrink the Dynamic Island, made possible by moving some Face ID components beneath the display.\n\r\nUpgraded Display: The iPhone 18 Pro models are said to use a more power-efficient LTPO+ display, supplied by Samsung Display and LG Display.\n\r\nA20 Pro Chip: Apple's next-generation chip will use TSMC's advanced 2nm process, including Wafer-Level Multi-Chip Module (WMCM) technology, which should bring improvements to performance and power efficiency.\n\r\nC2 Modem: Apple's next-generation in-house cellular modem could feature in the Pro models, offering faster speeds, and improved efficiency. However, it's possible the C2 still lacks mmWave capability, and that the devices will use a Qualcomm modem in the United States and Apple's C2 modem in other parts of the world.\n\r\nNew Camera Sensor: Samsung is believed to have developed a new three-layer stacked image sensor for the iPhone 18 Pro lineup that improves responsiveness, noise, and dynamic range.\n\r\nVariable Aperture: The 48-megapixel Fusion camera on both iPhone 18 Pro models is expected to gain a variable aperture for greater control over light and depth of field.\n\r\n5G Satellite Internet: The iPhone 18 Pro models could support full 5G connectivity via satellite, which would be quite an expansion of Apple's existing satellite-based emergency features.\n\r\nSimplified Camera Control: Apple is said to have redesigned the Camera Control button to use pressure sensing without a separate capacitive layer, simply to reduce complexity and cost.\n\r\nNew Colors: Apple has reportedly tested several new finishes, but we're betting on these three: Light Blue, Dark Cherry, and Silver. We no longer expect a Black option.\n\r\niOS 27: The iPhone 18 Pro will ship with iOS 27 and its overhauled Siri AI experience, which includes onscreen awareness, personal context, web knowledge, and expanded Apple Intelligence features.\n\r\nApple has held its fall event in the first two weeks of September in each of the last several years, with new iPhones typically going on sale the following Friday. It has been rumored that iPhone 18 Pro and iPhone 18 Pro Max pre-orders will begin on Saturday, September 12 at 12 a.m. Pacific Time this year.\r\n\r\ndedicated roundup.\nRelated Roundup: iPhone 18 Pro\nThis article, \"Six Sleeps Until iPhone 18 Pro: Here's What We Know\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-09-04T02:25:46.000Z",
+    "content": "We are just five sleeps away from Apple's unveiling of its new-generation iPhone 18 Pro and iPhone 18 Pro Max models, not forgetting its first foldable iPhone.\r\n\r\n\r\nApple is expected to introduce the devices at its annual iPhone fall event, which is this year carrying the tagline \"Surprise and shine.\" The event takes place on Wednesday, September 9. To help you get some shuteye in the meantime, here's a rundown of the features we're expecting from Apple's iPhone 18 Pro models.\r\n\r\nOverall Design: The iPhone 18 Pro models are expected to stick to the overall iPhone 17 Pro design, but they could feature a more seamless rear casing with less contrast between the glass and aluminum frame.\n\r\nBattery Life: The iPhone 18 Pro Max is rumored to feature a larger 5,100–5,200 mAh battery and a slightly thicker, heavier design as a result.\n\r\nSmaller Dynamic Island: Apple is expected to shrink the Dynamic Island, made possible by moving some Face ID components beneath the display.\n\r\nUpgraded Display: The iPhone 18 Pro models are said to use a more power-efficient LTPO+ display, supplied by Samsung Display and LG Display.\n\r\nA20 Pro Chip: Apple's next-generation chip will use TSMC's advanced 2nm process, including Wafer-Level Multi-Chip Module (WMCM) technology, which should bring improvements to performance and power efficiency.\n\r\nC2 Modem: Apple's next-generation in-house cellular modem could feature in the Pro models, offering faster speeds, and improved efficiency. However, it's possible the C2 still lacks mmWave capability, and that the devices will use a Qualcomm modem in the United States and Apple's C2 modem in other parts of the world.\n\r\nNew Camera Sensor: Samsung is believed to have developed a new three-layer stacked image sensor for the iPhone 18 Pro lineup that improves responsiveness, noise, and dynamic range.\n\r\nVariable Aperture: The 48-megapixel Fusion camera on both iPhone 18 Pro models is expected to gain a variable aperture for greater control over light and depth of field.\n\r\n5G Satellite Internet: The iPhone 18 Pro models could support full 5G connectivity via satellite, which would be quite an expansion of Apple's existing satellite-based emergency features.\n\r\nSimplified Camera Control: Apple is said to have redesigned the Camera Control button to use pressure sensing without a separate capacitive layer, simply to reduce complexity and cost.\n\r\nNew Colors: Apple has reportedly tested several new finishes, but we're betting on these three: Light Blue, Dark Cherry, and Silver. We no longer expect a Black option.\n\r\niOS 27: The iPhone 18 Pro will ship with iOS 27 and its overhauled Siri AI experience, which includes onscreen awareness, personal context, web knowledge, and expanded Apple Intelligence features.\n\r\nApple has held its fall event in the first two weeks of September in each of the last several years, with new iPhones typically going on sale the following Friday. It has been rumored that iPhone 18 Pro and iPhone 18 Pro Max pre-orders will begin on Saturday, September 12 at 12 a.m. Pacific Time this year.\r\n\r\ndedicated roundup.\nRelated Roundup: iPhone 18 Pro\nThis article, \"Five Sleeps Until iPhone 18 Pro: Here's What We Know\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-09-04T02:25:35.000Z",
     "creator": "Tim Hardwick",
     "tags": "iOS,Silicon",
     "id": 6399
@@ -2798,205 +2998,5 @@
     "creator": "Macworld",
     "tags": "Mac,iOS,Vision",
     "id": 6094
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Tim Cook, the man who grew Apple by trillions of dollars",
-    "link": "https://appleinsider.com/articles/26/08/31/apple-at-50-tim-cook-the-man-who-grew-apple-by-trillions-of-dollars?utm_source=rss",
-    "content": "He was a businessman instead of a designer, but as Apple CEO, Tim Cook also had to become far more of a politician than any of his predecessors. Here's how he started at Apple, ran the company, and will still be involved after stepping down as CEO.\n\n\nTim Cook on stage at Apple Park- image credit: AppleTim Cook on stage at Apple Park- image credit: Apple\nTim Cook was Apple's seventh CEO, he was the longest-serving, and he was only the third who wasn't fired. Then it's true that like every Apple CEO before him, he was white, male, and a similar age, but in business terms, he was also the most transformative of them all.\nThat includes being more business and financially transforming than Steve Jobs. Where Cook will never be as much remembered for products as Jobs still is, he was more of a businessman and, latterly, vastly more of a politician.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-31T11:14:06.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "General",
-    "id": 6090
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Farewell, Tim Cook: An era-defining CEO who hung on too long",
-    "link": "https://www.macworld.com/article/3218782/farewell-tim-cook-an-era-defining-ceo-who-hung-on-too-long.html",
-    "content": "Macworld\n\n\n\n\n\nIf Apple CEO Tim Cook retired on his 60th birthday, back in 2020, this article would be considerably easier to write.\nWe’d start with the phenomenal strides made by the company under his watch: Profit and revenue doubled, the market value lifted from $350 billion to $2 trillion (the first U.S. company to hit that milestone). We could discuss the cultural impact made by the Apple Watch and AirPods, the canny pivot to services, and the regulatory storms navigated with deft tact. Ultimately we would agree that his quieter, more dependable qualities had been sadly underrated in comparison with the flashier genius of Steve Jobs, and bid him farewell with an outpouring of positivity.\nBut instead Cook stuck around, perhaps influenced, towards the end, by the sound of senior executives stampeding past his office on their way out. The mass exodus was carefully orchestrated, he insisted, knowing that his own departure would only make things look worse. But that departure has now finally arrived, and John Ternus will take the top seat tomorrow.\nThose additional six years have made Cook’s corporate eulogy rather more of a challenge. On the product side, there have been groundbreaking and successful launches, but the products that were successful were very rarely groundbreaking, and the ones that were were such a flop that Apple had to fire 100 employees in the Vision Pro team. What was the last truly exciting product of the Cook era? The Apple Watch came out in 2015, the AirPods in 2016 and the iPhone X in 2017. Even the first Apple silicon Macs came out in 2020. It’s cruel in some ways that the iPhone Ultra will arrive a few days after Cook leaves office, but that is typical of the man’s selflessness. He wants to give Ternus a head start.\nAI has been a mixed bag, to say the least. In recent months, some analysts (including this one) have started to view Cook’s approach in this area more favorably, but let’s be honest: This was no masterstroke. Like spatial computing, Cook looked on AI as a priority target, and the fact Apple ended up outsourcing much of its AI infrastructure and expertise to Google and OpenAI was the lucky result of internal failure rather than wise strategising. Siri AI is now fit for purpose but plenty of reputational damage was done over the course of years as a result of its previous and scandalously long-running incompetence.\nThen there’s the ethical side of things: the criteria by which it will be judged, in Cook’s own words, whether or not he was a good and decent man. There were the questions over employee working conditions in 2021 and the anti-unionization tactics in 2022. Cook’s Apple is loosening its iron grip on the App Store but every concession is given up grudgingly and by the smallest possible increments. Such is the company’s relationship with its developer “partners.”\nIt’s probably wise, finally, to skip quickly over the divisive optics of Cook’s involvement in President Trump’s second term, other than to mention that this relationship seems likely to dominate his time as executive chairman. So much goodwill has been burned in the past six years that some may view this “promotion” as karma.\nA complicated legacy, then, and time to give someone else a turn at the wheel. Someone who focuses more on developing great products and a little less on squeezing the costs and honing the logistics. Someone without the baggage of 15 years in the limelight. Someone who can start afresh in their relationship with employees, developers, and customers, and leave governmental liaison duties to the chairman.\nBut I don’t want to finish on a negative note. These past 15 years have been a time of unprecedented prosperity for Apple, and I have no doubt that Cook’s time in charge will be remembered by Apple fans with fondness. Thanks, Tim, and good luck in the new job.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nWelcome to our weekly Apple Breakfast column, which includes all the Apple news you missed last week in a handy bite-sized roundup. We call it Apple Breakfast because we think it goes great with a Monday morning cup of coffee or tea, but it’s cool if you want to give it a read during lunch or dinner hours too.\nMac overhaul special\nApple launches new M6 Mac mini with another price hike.\nApple announces the M5 Ultra Mac Studio with up to 512GB of RAM. Yes, you read that right.\n6 Mac mini and Studio upgrades you might have missed.\nApple Magic Keyboards get cosmetic updates, avoid price hikes.\nAmid raging price hikes, Apple slashes flagship cloth by more than 50%.\nApple is handing out free M6 upgrades to some M4 buyers.\nApple’s newest flagship Mac is really hard to buy.\nTrending: Top stories\nThe iPhone event is called Surprise and Shine and it’ll take place September 9.\nMac-ify your iPad with these 10 must-have accessories.\nThe iPhone event is coming. The iPhone you want might not be.\nIt’s Tim Cook’s last week on the job. Let’s review his career, says the Macalope.\niOS 27 has an intriguing new Drawing app for scribbling Messages.\nApple TV is getting a $2 price hike\nThe rumor mill\niPhone 18 Pro preorders might kick off a little later this year.\niPhone price rises ‘inevitable,’ but may not be as bad as you expect.\nA new iMac is ‘close to launch’ with an M6 and new colors.\nApple Stores are getting ready for the release of the long-rumored home hub.\nNew update points to ‘Pluribus’ season 2 in… summer 2028. Urgh.\nPodcast of the week\nIn this week’s podcast we talk about Tim Cook’s legacy.\n\n\n\n\n\n\nAnd with that, we’re done for this week’s Apple Breakfast. If you’d like to get regular roundups, sign up for our newsletters, including our new email from The Macalope–an irreverent, humorous take on the latest news and rumors from a half-man, half-mythical Mac beast. You can also follow us on Facebook, Threads, Bluesky, or X for discussion of breaking Apple news stories. See you next Monday, and stay Appley.",
-    "pub_date": "2026-08-31T11:09:47.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS,Vision,Rumors,Silicon,App Store",
-    "id": 6095
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Here’s the likely reason the iPhone Ultra isn’t getting an Apple Pencil",
-    "link": "https://9to5mac.com/2026/08/31/heres-the-likely-reason-the-iphone-ultra-isnt-getting-an-apple-pencil/",
-    "content": "A report yesterday suggested that Apple considered making a special version of the Apple Pencil for the upcoming iPhone Ultra before deciding against it.\nBloomberg suggests that there are three reasons behind this decision, one of them being a desire not to conflict with the position adopted by Steve Jobs when launching the original iPhone. However, this was almost certainly not the deciding factor …\nmore…",
-    "pub_date": "2026-08-31T11:06:32.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "iOS",
-    "id": 6087
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Tim Cook's greatest moments hosting WWDC",
-    "link": "https://appleinsider.com/articles/26/08/28/tim-cooks-greatest-moments-hosting-wwdc?utm_source=rss",
-    "content": "Tim Cook's career as Apple CEO can be mapped through his best WWDC announcements. Here's what we think are the best, as he puts the final touches on handing the baton to John Ternus.\n\n\nAn unusually somber Tim Cook at WWDC 2016, as he lead the audience in a moment's silence over the Florida shooting the day before - image credit: Apple.\nAs Tim Cook steps down as CEO, he's been looking back at his legacy, and so has AppleInsider.  He was rarely more high-profile than at WWDC, which ultimately he presented from 2012 to 2026.\nThose appearances were where he practically trademarked his way of saying \"good morning,\" but they were also where some of the key moments in Apple's history were unveiled.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-31T10:59:03.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "General",
-    "id": 5986
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Blame AI companies for Mac mini and Mac Studio shortage",
-    "link": "https://www.cultofmac.com/news/blame-ai-companies-mac-mini-mac-studio-shortage",
-    "content": "OpenAI and Anthropic are snapping up Mac minis and Mac Studios for agentic workloads, creating a hardware boom Apple never saw coming.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-31T08:32:43.000Z",
-    "creator": "Rajesh Pandey",
-    "tags": "Mac",
-    "id": 6097
-  },
-  {
-    "source_name": "Macworld",
-    "title": "This $99.99 lifetime deal puts GPT-5.5 Pro and Claude 4.6 Sonnet in one app",
-    "link": "https://www.macworld.com/article/3222358/this-99-99-lifetime-deal-puts-gpt-5-5-pro-and-claude-4-6-sonnet-in-one-app.html",
-    "content": "Macworld\n\n\n\n\n\nTL;DR: A lifetime subscription to the 1min.AI Advanced Business Plan is on sale for $99.99 (MSRP $540), giving you chat, image, video, audio, and document AI tools in one app.\nKeeping up with AI tools usually means juggling separate subscriptions for chat, images, video, and audio, each with its own monthly bill. A lifetime subscription to the 1min.AI Advanced Business Plan cuts that down to one app for $99.99 (MSRP $540).\nOne app, every AI model\n\n\n\n\n\n\n1min.AI puts multiple leading AI models in a single dashboard, so you’re not locked into one tool’s strengths or blind spots. Chat with different assistants for writing, research, or brainstorming, then switch over to generate images, remove backgrounds, or upscale a photo without leaving the app.\nVideo and audio tools handle text-to-video, voice cloning, and transcription. The document tools summarize, translate, and answer questions from PDFs.\nThe plan includes 4,000,000 credits a month, with up to 450,000 more available for free through daily logins and other bonuses. It also supports a 20-member team, so the whole crew can share one account instead of paying per seat.\nStop paying for a different AI subscription every month.\nGet a lifetime subscription to the 1min.AI Advanced Business Plan for $99.99 (MSRP $540).\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\n1min.AI Advanced Business Plan Lifetime SubscriptionSee Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-08-31T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "App Store,Services",
-    "id": 6096
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Apple Watch Series 12 may finally catch up to Whoop and Fitbit",
-    "link": "https://www.cultofmac.com/news/apple-watch-series-12-may-finally-catch-up-whoop-fitbit",
-    "content": "Apple Watch Series 12 may bring continuous heart rate monitoring, a faster S11 chip and the return of a premium ceramic casing.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-31T05:10:37.000Z",
-    "creator": "Rajesh Pandey",
-    "tags": "Mac,iOS",
-    "id": 6098
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Sunday Reboot: Mac scheduling and the Ternus Cook-out",
-    "link": "https://appleinsider.com/articles/26/08/30/sunday-reboot-mac-scheduling-and-the-ternus-cook-out?utm_source=rss",
-    "content": "In this week's Sunday Reboot, Apple's inconvenient Mac launch timing and the transition from Cook to Ternus nears its conclusion.\n\n\nJohn Ternus on a fake train at an earlier Apple event - Image Credit: Apple\nSunday Reboot is a weekly column covering some of the lighter stories within the Apple reality distortion field from the past seven days. All to get the next week underway with a good first step.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-30T20:13:56.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "Mac",
-    "id": 6081
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "California court revives lawsuit accusing Apple of blocking independent repairs",
-    "link": "https://appleinsider.com/articles/26/08/30/california-court-revives-lawsuit-accusing-apple-of-blocking-independent-repairs?utm_source=rss",
-    "content": "An appeals court in California has resurrected a 2022 lawsuit over claims Apple convinced them not to use a third-party repair service to fix cracked iPhone screens.\n\n\nAn iPhone being repaired - Image Credit: Apple\nIn the last few years, Apple has been more open to enabling repairs of its hardware performed outside of its support ecosystem. While its position has relaxed a lot, it still has to deal with its policies from prior years.\nA filing for the Court of Appeal for the State of California in August reveals a panel has reversed an earlier court's ruling to quash a lawsuit over Apple's repair policies. The three-judge appeals Sixth Appellate District panel has brought the lawsuit back to life.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-30T20:10:24.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "iOS",
-    "id": 6082
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple CarPlay just added a major weather app",
-    "link": "https://9to5mac.com/2026/08/30/apple-carplay-just-added-a-major-weather-app/",
-    "content": "While CarPlay supports hundreds of apps, Apple Weather isn’t one of them. The good news is that starting today, The Weather Channel’s Storm Radar app for iPhone now works with CarPlay.\nmore…",
-    "pub_date": "2026-08-30T19:57:16.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS,App Store",
-    "id": 6080
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple's 1TB M5 MacBook Air plunges to $1,399, save $200",
-    "link": "https://appleinsider.com/articles/26/08/30/apples-1tb-m5-macbook-air-plunges-to-1399-save-200?utm_source=rss",
-    "content": "Apple's 1TB M5 13-inch MacBook Air is down to $1,399 at Amazon thanks to a $200 month-end discount.\n\n\nSave $200 on Apple's 1TB 13-inch MacBook Air - Image credit: Apple\nThe lowest price since Prime Day is available now on Apple's M5 13-inch MacBook Air with an upgrade to a 1TB SSD. The $200 discount is hosted by Amazon, bringing the cost of the Sky Blue model with a 10-core GPU and 16GB of unified RAM down from $1,599 to $1,399.\nBuy 1TB MacBook Air for $1,399\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-30T17:11:46.000Z",
-    "creator": "Christine McKee <christine@appleinsider.com>",
-    "tags": "Mac,Silicon",
-    "id": 6068
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "iPhone, Home, iPad mini : Apple's launches for September and October",
-    "link": "https://appleinsider.com/articles/26/08/30/iphone-home-ipad-mini-apples-launches-for-september-and-october?utm_source=rss",
-    "content": "Apple has a busy fall schedule ahead of it for 2026, beyond the usual iPhone launches. Here's what to expect in September and October.\n\n\nJohn Ternus, the incoming Apple CEO, will be fronting the September event\nHistorically, the fall is Apple's biggest quarter when it comes to launches. Regular as clockwork, September is known as the time Apple brings out a new generation of iPhones and a bunch of other major products.\nFrom Apple's perspective, it's perfect timing. It all happens a short time ahead of the lucrative holiday shopping season, with the sales reflected in its quarterly results.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-30T17:10:56.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "iOS",
-    "id": 6069
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple’s next iPad mini is almost ready, here’s what to expect",
-    "link": "https://9to5mac.com/2026/08/30/apples-next-ipad-mini-is-almost-here-heres-what-to-expect/",
-    "content": "Apple has a lot in store for this fall, headlined by the iPhone Ultra and iPhone 18 Pro launching next month. Apple is also working on a new iPad mini, and a new report today suggests it’s coming in October. \nmore…",
-    "pub_date": "2026-08-30T16:54:54.000Z",
-    "creator": "Chance Miller",
-    "tags": "iOS",
-    "id": 6065
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Why the folding iPhone won’t support Apple Pencil",
-    "link": "https://www.cultofmac.com/news/folding-iphone-apple-pencil-rumors",
-    "content": "An Apple Pencil for the foldable iPhone went through testing, but significant problems could keep the stylus from launching.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-30T16:26:22.000Z",
-    "creator": "Ed Hardy",
-    "tags": "Mac,iOS",
-    "id": 6077
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-    "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-    "content": "Apple's unusually timed announcement of new Mac mini and Mac Studio models this week was driven by unexpectedly strong enterprise appetite for AI hardware, according to The Information.\r\n\r\n\r\nApple normally releases new Mac models in the autumn, closer to October or November, making this week's announcement unusually early, falling just before the anticipated arrival of new iPhone models. The Information says that the AI-driven boom in ‌Mac Studio‌ and ‌Mac mini‌ sales is behind the early launch. \r\n\r\npromoted the ability to link multiple Mac Studios together into a single, more capable system for running large frontier AI models, a feature aimed at business and developer customers rather than everyday consumers.\r\n\r\nApple highlighted the ‌Mac mini‌ and ‌Mac Studio‌'s shift toward business buyers in June, with a \"Business at the Park\" event involving executives from major companies Ford, Disney, and Anthropic. The ‌Mac mini‌ was said to be the \"darling\" of the event.\r\n\r\nEven so, enterprise's rush toward powerful desktop Macs more broadly took Apple by surprise. The company reportedly did not possess an engineering team dedicated to business customers or staff focused on developer relations, and lacked an enterprise AI strategy. \r\n\r\nBusinesses that approached Apple asking to buy access to the company's Private Cloud Compute infrastructure were reportedly turned down. Apple is instead leaning on partners such as WebAI and Mount Thor, which provide AI tools and execution environments built on Apple hardware. \r\n\r\nRelated Roundups: Mac Studio, Mac mini\nTag: The Information\nBuyer's Guide: Mac Studio (Buy Now), Mac Mini (Buy Now)\nRelated Forums: Mac Studio, Mac mini\nThis article, \"Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-30T15:52:05.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "Mac,iOS,App Store",
-    "id": 6061
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Today in Apple history: App Store hits quarter-million apps for sale",
-    "link": "https://www.cultofmac.com/apple-history/app-store-250000",
-    "content": "On August 30, 2010, just over two years after opening its virtual doors, Apple's App Store surpassed a quarter of a million available apps.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-08-30T15:44:30.000Z",
-    "creator": "Luke Dormehl",
-    "tags": "Mac,App Store",
-    "id": 6078
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Ternus takeover won't mean a mass Apple exec exodus",
-    "link": "https://appleinsider.com/articles/26/08/30/ternus-takeover-wont-mean-a-mass-apple-exec-exodus?utm_source=rss",
-    "content": "An overblown new report claims that Apple has been carefully orchestrating executive retirements for years to not spook shareholders. There is absolutely nothing to support the premise.\n\n\nThe sun is not setting on every current Apple executive - image credit: Apple.\nAccording to Bloomberg, Cook's retirement is one of very many exits that are being scheduled to avoid the appearance of a mass exodus that Ternus will have to deal with.\nThis is similar to Bloomberg's previous reporting of multiple people quitting Apple and how the company will struggle without them. So the new report is predicting that Apple will soon be unrecognizable, but of the 11 people on Apple's leadership page, it only actually expects two more to go.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-30T15:17:26.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "General",
-    "id": 6070
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "New Apple Watch Series 12 and Apple Watch Ultra 4 Features Revealed",
-    "link": "https://www.macrumors.com/2026/08/30/apple-watch-series-12-ultra-4-features/",
-    "content": "Bloomberg's Mark Gurman today further outlined what to expect from the Apple Watch Series 12 and Apple Watch Ultra 4 set to be unveiled on September 9.\r\n\r\n\r\nWhile it was initially rumored that Touch ID may be coming to the Apple Watch this year, Gurman reiterated that he does not expect the Series 12 or Ultra 4 to have any major design changes compared to the current Series 11 and Ultra 3 models.\r\n\r\nexpect a ceramic case option to return for the Apple Watch Series 12. Today, he revealed that Apple has tested both white and dark gray ceramic case options, like those offered for the highest-end Apple Watch Series 3 in 2017.\r\n\r\na band with an embedded health sensor, but Gurman did not mention that.\r\n\r\nInstead, he expects more ordinary changes, including faster performance and improvements to health and fitness tracking. The Series 11 and Ultra 3 both have the same S10 chip that was used in the Series 10 and Ultra 2, so the S11 chip or newer should provide the first Apple Watch performance improvements in multiple years.\r\n\r\nOne new feature in testing allows the heart-rate sensor on the Apple Watch to continuously collect data throughout the day, he said. In his newsletter, he added that Apple is also working on revamping its Health and Fitness apps to show more wellness-related metrics \"in a similar fashion to increasingly popular app offerings from Whoop and Oura.\"\r\n\r\nAn Apple Watch SE 4 is not expected this year.\r\n\r\ncontinues to develop a blood sugar detection feature with a goal of releasing it by 2030.\nRelated Roundups: Apple Watch 11, Apple Watch Ultra 3\nTag: Mark Gurman\nBuyer's Guide: Apple Watch (Don't Buy), Apple Watch Ultra (Don't Buy)\nRelated Forum: Apple Watch\nThis article, \"New Apple Watch Series 12 and Apple Watch Ultra 4 Features Revealed\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-30T14:54:01.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "iOS,App Store",
-    "id": 6062
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple Watch Series 12 ceramic case rumors continue with new color claims",
-    "link": "https://appleinsider.com/articles/26/08/30/apple-watch-series-12-ceramic-case-rumors-continue-with-new-color-claims?utm_source=rss",
-    "content": "The 2026 Apple Watch refresh is, once again, speculated to ship with not one, but two premium ceramic options. That's assuming you can afford them.\n\n\nApple Watch Series 5, in Ceramic\nThe rumor mill has repeatedly brought up potential changes to the Apple Watch lineup, as well as how it apparently won't change that much. While bigger changes are still on the horizon, one of the upcoming ones will be material in nature.\nThroughout August, the hype for the ceramic version of the Apple Watch Series 12 has increased. In Sunday's \"Power On\" newsletter for Bloomberg, Mark Gurman adds more fuel to it.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-08-30T14:53:42.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "iOS,Rumors",
-    "id": 6071
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple reportedly considered launching a new Apple Pencil for iPhone Ultra",
-    "link": "https://9to5mac.com/2026/08/30/iphone-ultra-apple-pencil-support-tested/",
-    "content": "Apple’s first foldable iPhone should be making its debut in just over a week. In the development process, Apple was reportedly mulling the idea of launching a new Apple Pencil to use alongside the iPhone Ultra – though it probably won’t make it to market.\nmore…",
-    "pub_date": "2026-08-30T14:38:37.000Z",
-    "creator": "Michael Burkhardt",
-    "tags": "iOS",
-    "id": 6066
   }
 ]
