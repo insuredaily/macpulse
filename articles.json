@@ -1,6 +1,26 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "This new reveal suggests MacBook Ultra might cost more than we think",
+    "link": "https://9to5mac.com/2026/09/05/macbook-ultra-pricing-lineup-rumor/",
+    "content": "As soon as next month, Apple is expected to introduce its next MacBook Pro redesign. We’ll be seeing OLED, the first touchscreen on a Mac, a thinner chassis, Dynamic Island, and much more. This upgrade was rumored to be called MacBook Ultra, though it wasn’t necessarily clear where that’d leave the MacBook Pro brand. Now, it’s a lot more clear.\nmore…",
+    "pub_date": "2026-09-06T03:02:03.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "Mac",
+    "id": 6549
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iPadOS 27 still needs simpler multitasking, here’s what I’d like to see",
+    "link": "https://9to5mac.com/2026/09/05/ipados-27-still-needs-simpler-multitasking-heres-what-id-like-to-see/",
+    "content": "Last year, Apple completely reinvented multitasking on the iPad, with the introduction of windowing in iPadOS 26. At first, this meant the removal of the simpler version of multitasking, Split View and Slide Over. Those features did eventually return, but at a cost – they required you to use the clunky new windowing system. I was hoping iPadOS 27 would improve this, but it didn’t.\nmore…",
+    "pub_date": "2026-09-06T00:26:17.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS",
+    "id": 6550
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Indie App Spotlight: ‘KeyAlarm’ turns your most important calendar events into alarms",
     "link": "https://9to5mac.com/2026/09/05/indie-app-spotlight-keyalarm-calendar-events-into-alarms/",
     "content": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nCalendar events can often be missed, especially since they’re usually just a notification. If you’re in do not disturb or simply aren’t looking at your phone, you might not see it. With KeyAlarm, certain key calendar events can easily be turned into alarms, allowing you to always know about what’s most important.\nmore…",
@@ -283,7 +303,7 @@
     "source_name": "MacRumors",
     "title": "iPhone Duo?",
     "link": "https://www.macrumors.com/2026/09/04/iphone-duo/",
-    "content": "While the long-awaited foldable iPhone has often been referred to as the iPhone Ultra or the iPhone Fold in rumors, another name making the rounds is iPhone Duo.\r\n\r\n\r\nThere is no actual evidence that Apple will use the iPhone Duo name, but it is certainly a possibility. Apple has used Duo branding in the past, for its PowerBook Duo line of laptops in the 1990s and for its MagSafe Duo Charger in the early 2020s. \r\n\r\nIn this case, Duo would refer to the foldable iPhone's dual screens.\r\n\r\nMicrosoft released a dual-screen Android smartphone called the Surface Duo in 2020 that has since been discontinued, and Intel had its popular lines of Core Duo and Core 2 Duo processors in the 2000s, so perhaps Apple will want to avoid using Duo branding due to that history. However, competing companies have devices with Ultra and Fold branding too, such as Samsung's Galaxy S26 Ultra and Galaxy Z Fold8.\r\n\r\nMacworld reporter Filipe Espósito cited a source familiar with Apple's plans who said the foldable iPhone will be named iPhone Ultra. Bloomberg's Mark Gurman said many Apple employees refer to the device as the iPhone Ultra within the company, but he has never firmly reported that it will be the official name.\r\n\r\nApple has used Ultra branding for the Apple Watch Ultra, CarPlay Ultra, and its M1 Ultra, M2 Ultra, M3 Ultra, and M5 Ultra chips.\r\n\r\nevent next week, so we will soon find out whether the device is named iPhone Ultra, iPhone Fold, iPhone Duo, or something else. Share your own guesses in the comments section.\nTag: iPhone Ultra\nThis article, \"iPhone Duo?\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "content": "While the long-awaited foldable iPhone has often been referred to as the iPhone Ultra or the iPhone Fold in rumors, another name making the rounds is iPhone Duo.\r\n\r\n\r\nThere is no actual evidence that Apple will use the iPhone Duo name, but it is certainly a possibility. Apple has used Duo branding in the past, for its PowerBook Duo line of laptops in the 1990s and for its MagSafe Duo Charger in the early 2020s. \r\n\r\nIn this case, Duo would refer to the foldable iPhone's dual screens.\r\n\r\nMicrosoft released a dual-screen Android smartphone called the Surface Duo in 2020 that has since been discontinued, and Intel had its popular lines of Core Duo and Core 2 Duo processors in the 2000s, so perhaps Apple will want to avoid using Duo branding due to that history. However, competing companies have devices with Ultra and Fold branding too, such as Samsung's Galaxy S26 Ultra and Galaxy Z Fold8.\r\n\r\nMacworld reporter Filipe Espósito cited a source familiar with Apple's plans who said the foldable iPhone will be named iPhone Ultra. Bloomberg's Mark Gurman said many Apple employees refer to the device as the iPhone Ultra within the company, but he has never firmly reported that it will be the official name.\r\n\r\nApple has used Ultra branding for the Apple Watch Ultra, CarPlay Ultra, and its M1 Ultra, M2 Ultra, M3 Ultra, and M5 Ultra chips.\r\n\r\nevent next week, so we will soon find out whether the device is named iPhone Ultra, iPhone Fold, iPhone Duo, or something else. Share your own guesses in the comments section.\nRelated Roundup: iPhone Fold\nTag: iPhone Ultra\nThis article, \"iPhone Duo?\" first appeared on MacRumors.com\nDiscuss this article in our forums",
     "pub_date": "2026-09-04T19:54:45.000Z",
     "creator": "Joe Rossignol",
     "tags": "iOS,Silicon",
@@ -2978,25 +2998,5 @@
     "creator": "Mike Wuerthele <mike@appleinsider.com>",
     "tags": "General",
     "id": 6165
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Qualcomm Raising Chip Prices Starting Tomorrow",
-    "link": "https://www.macrumors.com/2026/08/31/qualcomm-chip-price-increase/",
-    "content": "Qualcomm is increasing prices for its chips by double digits starting tomorrow. Qualcomm announced the impending price hike back in July, letting customers know prices would go up for chips shipped after September 1.\r\n\r\n\r\nQualcomm said it cannot continue to absorb increasing supplier costs. \"We're just passing through big cost increases that we have,\" said Qualcomm CEO Cristiano Amon in an interview with Reuters.\r\n\r\niPhone 17 models. Apple will discontinue the iPhone 17 Pro models when the iPhone 18 Pro is released in September, but it is likely to keep the ‌iPhone 17‌ in the lineup.\r\n\r\niPhone 17e and iPhone Air use its C1X modem, and rumors suggest some ‌iPhone 18 Pro‌ models and the foldable iPhone could use a new Apple-designed C2 chip with faster 5G speeds. Apple may still rely on Qualcomm for modem chips in the United States, according to leaked iPhone 18 Pro documents from Tata Electronics.\r\n\r\nPrices have gone up for DRAM and storage due to supply issues, which has affected most device manufacturers. Apple raised prices of Macs and iPads in June, and the ‌iPhone 18 Pro‌ models are expected to be more expensive than their predecessors.\r\n\r\niPhone 18 lineup.\r\n\r\nTag: Qualcomm\nThis article, \"Qualcomm Raising Chip Prices Starting Tomorrow\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-08-31T23:39:44.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS",
-    "id": 6159
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Save up to $1600 on Roborock products, including the flagship Saros 20",
-    "link": "https://9to5mac.com/2026/08/31/save-1600-roborock-products-including-flagship-saros-20/",
-    "content": "It’s Roborock’s 12th anniversary, and the high-tech cleaning company is celebrating by offering generous discounts across its range of robot cleaners and other products between now and September 6.\nDiscounts range from 25% to over 50% across the products and bundles included in the anniversary sale, with savings as high as $1600 …\nmore…",
-    "pub_date": "2026-08-31T22:00:00.000Z",
-    "creator": "Sponsored Post",
-    "tags": "General",
-    "id": 6149
   }
 ]
