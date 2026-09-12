@@ -1,6 +1,26 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "WhatsApp rolling out redesigned iPad interface with Mac-like sidebar",
+    "link": "https://9to5mac.com/2026/09/11/whatsapp-rolling-out-redesigned-ipad-interface-with-mac-like-sidebar/",
+    "content": "Following a few months of Liquid Glass beta testing, WhatsApp is expanding access to a redesigned interface for its iPad app, including a new Mac-like sidebar. Here are the details.\nmore…",
+    "pub_date": "2026-09-11T23:34:48.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac,iOS,App Store",
+    "id": 7281
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Leaker says Apple will pay $250 per iPhone Duo display in three-year Samsung deal",
+    "link": "https://9to5mac.com/2026/09/11/leaker-says-apple-will-pay-250-per-iphone-duo-display-in-three-year-samsung-deal/",
+    "content": "While memory costs are expected to comfortably lead the iPhone 18 Pro’s bill of materials, the same may not be true for the iPhone Duo. Here are the details.\nmore…",
+    "pub_date": "2026-09-11T23:07:25.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS,Services",
+    "id": 7282
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "9to5Mac Overtime 081: iPhone Duo thoughts and impressions",
     "link": "https://9to5mac.com/2026/09/11/9to5mac-overtime-081-iphone-duo-thoughts-and-impressions/",
     "content": "Jeff and Fernando discuss their initial thoughts and impressions of the iPhone Duo, Apple’s first foldable smartphone.\nSponsored by Bitwarden: Register for the free, virtual Open Source Security Summit on September 17, featuring cybersecurity leaders David Sanger and Joseph Menn — and check out Bitwarden for trusted open source password, passkey, and secrets management, with end-to-end encryption and seamless autofill across all your devices.\nmore…",
@@ -2978,25 +2998,5 @@
     "creator": "Zac Hall",
     "tags": "iOS",
     "id": 6933
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Flash deal drives M5 Pro MacBook Pro with 48GB RAM down to $2,899",
-    "link": "https://appleinsider.com/articles/26/09/09/flash-deal-drives-m5-pro-macbook-pro-with-48gb-ram-down-to-2899?utm_source=rss",
-    "content": "To celebrate today's Apple Event, B&H is hosting a flash deal on Apple's M5 Pro MacBook Pro with an upgrade to 48GB of RAM, delivering $200 in savings.\n\n\nGrab a $200 flash discount on Apple's M5 Pro MacBook Pro with an upgrade to 48GB RAM - Image credit: Apple\nThe $2,899 special applies to Apple's current M5 Pro MacBook Pro 14-inch with a 15-core CPU and 16-core GPU in Space Black.\nBuy 48GB RAM MacBook Pro for $2,899\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-09-09T16:22:04.000Z",
-    "creator": "Christine McKee <christine@appleinsider.com>",
-    "tags": "Mac,Silicon",
-    "id": 6950
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Last-minute leak suggests no color surprises for the iPhone 18 Pro",
-    "link": "https://appleinsider.com/articles/26/09/09/last-minute-leak-suggests-no-color-surprises-for-the-iphone-18-pro?utm_source=rss",
-    "content": "A new leak minutes ahead of Apple's iPhone 18 Pro event starts predicts all of the color options for the new iPhones. Here's what to expect.\n\n\nA mock-up of a Burgendy iPhone 18 Pro\nMost recently there has been disagreement between leakers over what colors the iPhone 18 Pro lineup will —- or won't — come in. But generally the rumors of those colors have been fairly steady for some months, and now Bloomberg is predicting them again.\nSpecifically, the new report says that the iPhone 18 Pro and iPhone 18 Pro Max will come in:\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-09-09T16:12:52.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "iOS,Rumors",
-    "id": 6951
   }
 ]
