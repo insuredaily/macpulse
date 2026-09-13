@@ -1,5 +1,35 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "Microsoft Windows 11 and Office for Mac deals plunge to as low as $9.97",
+    "link": "https://appleinsider.com/articles/26/09/13/microsoft-windows-11-and-office-for-mac-deals-plunge-to-as-low-as-997?utm_source=rss",
+    "content": "Deals on Microsoft Windows and Office for Mac licenses are heavily discounted this weekend, with prices dipping to as low as $9.97.\n\n\nSave up to 94 percent on Windows 11 and Office Home 2024 - Image credit: Microsoft\nStackSocial is hosting deals on Microsoft Windows and Office licenses, with Windows 11 discounted to $9.97 and Office Home 2024 for Mac marked down to $112.97, the latter down from $179.\nShop Microsoft deals at StackSocial\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-13T17:53:58.000Z",
+    "creator": "Christine McKee <christine@appleinsider.com>",
+    "tags": "Mac",
+    "id": 7376
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple planning three major changes for its retail stores, per report",
+    "link": "https://9to5mac.com/2026/09/13/apple-planning-three-major-changes-for-its-retail-stores-per-report/",
+    "content": "Apple is preparing “major changes” to its retail stores, according to a new report from Bloomberg. Perhaps most notably, the changes include bringing back the iconic dedicated Genius Bars.\nmore…",
+    "pub_date": "2026-09-13T17:28:59.000Z",
+    "creator": "Chance Miller",
+    "tags": "General",
+    "id": 7367
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "macOS Tahoe 26.4 update stops you from copying your login Keychain",
+    "link": "https://appleinsider.com/articles/26/09/13/macos-tahoe-264-update-stops-you-from-copying-your-login-keychain?utm_source=rss",
+    "content": "Apple's changes to the Keychain in macOS Tahoe made it more secure. However, by binding it to device-specific Secure Enclave keys, users now can't manually copy the login Keychain and use it on another Mac.\n\n\nPassword versioning in Apple Passwords\nAttacks on Mac users are getting more sophisticated over time, with AI also opening the door to even more malware and the discovery of new intrusion techniques. While Apple does work to increase the security of its operating systems and software to counter the threats, they can also become a burden to administrators.\nIn a blog post on September 8, Rich Trouton wrote that it wasn't possible to manually copy login Keychain files from one Mac to another. At least, doing so and still being able to use them on the new machine.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-13T16:15:52.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "Mac",
+    "id": 7375
+  },
+  {
     "source_name": "Cult of Mac",
     "title": "Today in Apple history: One of Apple’s earliest rivals bites the dust",
     "link": "https://www.cultofmac.com/apple-history/osborne-1-computer-maker-goes-bankrupt",
@@ -2968,35 +2998,5 @@
     "creator": "Ryan Christoffel",
     "tags": "iOS",
     "id": 7004
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "It's going to be a while before you can pre-order an iPhone Duo",
-    "link": "https://appleinsider.com/articles/26/09/09/its-going-to-be-a-while-before-you-can-pre-order-an-iphone-duo?utm_source=rss",
-    "content": "Apple's iPhone 18 Pro event is over. You're going to have to wait until October to pre-order and use the iPhone Duo.\n\n\nApple's iPhone Duo, in action\nWe suspected from the beginning that the folding iPhone wasn't going to arrive day-and-date as the iPhone 18 Pro would. We missed our early guesses on when, though.\nReminiscent of the iPhone X, Apple says that pre-orders for iPhone Duo start at 8 AM ET on Friday, October 16. Availability begins on Friday, October 23.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-09-09T18:33:41.000Z",
-    "creator": "Mike Wuerthele <mike@appleinsider.com>",
-    "tags": "iOS",
-    "id": 7020
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple releases iOS 27 RC ahead of public launch",
-    "link": "https://9to5mac.com/2026/09/09/apple-releases-ios-27-rc-ahead-of-public-launch/",
-    "content": "Apple has released the first iOS 27 release candidate for testing. The update brings Apple’s next major iPhone software release one step closer to public launch, with Siri AI leading the list of changes.\nmore…",
-    "pub_date": "2026-09-09T18:32:31.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS",
-    "id": 7005
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple Watch Ultra 4 is here with a faster chip and improved battery life",
-    "link": "https://appleinsider.com/articles/26/09/09/apple-watch-ultra-4-is-here-with-a-faster-chip-and-improved-battery-life?utm_source=rss",
-    "content": "Apple's high-end smartwatch just got a massive performance boost, as the Apple Watch Ultra 4 now boasts the powerful S11 chip.\n\n\nApple Watch Ultra 4 is here.\nOn Wednesday, alongside the long-awaited iPhone Duo and iPhone 18 Pro, the Apple Watch Ultra 4 made its debut. The new model is somewhat of a spec-bump upgrade,  offering improved battery life with the same tried-and-true design.\nWith the Apple Watch Ultra 4, Apple has also increased power efficiency, with a battery life of up to 50 hours, or 84 hours in Low Power mode. Additionally, Apple says that its Apple Watch Ultra 4 features the most accurate heart rate sensing in a wearable.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-09-09T18:31:59.000Z",
-    "creator": "Marko Zivkovic <marko@appleinsider.com>",
-    "tags": "iOS",
-    "id": 6938
   }
 ]
