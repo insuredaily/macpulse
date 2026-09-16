@@ -1,6 +1,66 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Slow Horses season 6 debuts on Apple TV",
+    "link": "https://9to5mac.com/2026/09/15/slow-horses-season-6-debuts-on-apple-tv/",
+    "content": "The wait is over. Apple TV subscribers can now stream the first episode of Slow Horses’ new season, just hours after the platform announced the show has been confirmed for two more seasons. Watch the trailer for the new season below.\nmore…",
+    "pub_date": "2026-09-16T01:05:09.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 7619
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "India escalates Apple probe over alleged iOS 18 issues that incurred repair costs",
+    "link": "https://9to5mac.com/2026/09/15/india-escalates-apple-probe-over-alleged-ios-18-issues-that-incurred-repair-costs/",
+    "content": "India’s Central Consumer Protection Authority (CCPA) has reportedly escalated its probe into whether Apple should be held responsible for an iOS 18 update that allegedly caused display and microphone issues on some iPhones. Here are the details.\nmore…",
+    "pub_date": "2026-09-15T23:52:22.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 7620
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Details How Reference Image Proves a Photo is Real",
+    "link": "https://www.macrumors.com/2026/09/15/apple-reference-image-info/",
+    "content": "The iPhone 18 Pro models support Apple Reference Image, a way to verify that a photo was taken with an iPhone and hasn't been edited. Apple says it's a method to prove that something actually happened and wasn't AI-generated, likening the feature to a digital film negative.\r\n\r\n\r\nApple Reference Image offers a trustworthy, scalable guarantee that a reference image is what it claims to be: a real photograph, captured by a real sensor in an iPhone camera, at a specific time. It sets a new standard for verifiable digital photography.\n\r\nApple introduced Apple Reference Image when debuting the ‌iPhone 18 Pro‌ and Pro Max, and today the company shared more information on how the feature works on its Security Research blog.\r\n\r\nApple Reference Image boots the camera sensor into a specialized reference mode. The mode instructs the sensor to cryptographically sign pixel data immediately after capture, and the sensor firmware is prevented from modifying the data. Other authentication systems don't sign images until the end of the software processing pipeline, which Apple says leaves images vulnerable to tampering attacks.\r\n\r\nApple Reference Image creates a \"secure digital negative\" protected from software compromise alongside a standard editable photo. The negative is stored on-device and includes pixel data, sensor metadata, and cryptographic timestamps with lower and upper bounds. When a user decides to \"develop\" the negative for verification, it is sent unprocessed to Private Cloud Compute. Private Cloud Compute runs the steps needed to render the image in a secure, private, and verifiable environment.\r\n\r\nApple says the feature resists data injection attacks, compromised operating systems, hardware attacks, and cryptographic attacks. Apple believes Apple Reference Image is the only image provenance system with quantum-secure defenses. In case the system is breached, there is a revocation option. Private Cloud Compute calculates a confidence score for each image, and Apple can revoke individual photos or an entire sensor if fraud is detected.\r\n\r\nTo safeguard photographers, Apple Reference Image avoids using an explicit, public credential for photographers, and it prevents public association between different photos taken by the same sensor. The confidentiality of the image is protected, including from Apple.\r\n\r\nApple Reference Image is opt-in and is limited to the Main camera sensor.\r\n\r\nApple's full blog post.\nThis article, \"Apple Details How Reference Image Proves a Photo is Real\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-09-15T23:46:29.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,Rumors",
+    "id": 7617
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "OmniFocus adds Siri AI support as Omni Group updates its apps for iOS 27, macOS 27, more",
+    "link": "https://9to5mac.com/2026/09/15/omnifocus-adds-siri-ai-support-as-omni-group-updates-its-apps-for-ios-27-macos-27-more/",
+    "content": "Unsurprisingly, the Omni Group worked all summer to get its suite of apps ready for Apple’s 2027 system updates from day one. Here’s what’s new.\nmore…",
+    "pub_date": "2026-09-15T23:22:20.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac,iOS",
+    "id": 7621
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple Car Keys reportedly coming to three more automakers",
+    "link": "https://9to5mac.com/2026/09/15/apple-car-keys-reportedly-coming-to-three-more-automakers/",
+    "content": "Apple is reportedly preparing to extend Car Key support in Apple Wallet to three more automakers. Here are the details.\nmore…",
+    "pub_date": "2026-09-15T22:43:38.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 7622
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "What the iPhone Duo's Camera Can and Can't Do",
+    "link": "https://www.macrumors.com/guide/iphone-duo-camera/",
+    "content": "To take advantage of the iPhone Duo's dual-display design, Apple is introducing new Camera app features that are unique to the foldable iPhone.\r\n\r\n\r\nSmart Take\n\r\nSmart Take uses AI to determine when everyone (including the iPhone owner) is ready for a group shot, so no one has to use a timer or stay out of the picture to capture the image.\r\n\r\n\r\nYou can prop up the ‌iPhone Duo‌ in a half-folded orientation, get in frame, and then wait for the group shot to be taken.\r\n\r\nKid Cue\n\r\nKid Cue shows little Peanuts animations to children so they look at the camera when you're taking a photo.\r\n\r\n\r\nDuo Preview\n\r\nWith Duo Preview, the Camera app shows a live preview of the shot on both displays, so the subject you're taking a photo of can make adjustments.\r\n\r\n\r\nDuo FaceTime\n\r\nNearby friends can participate in a FaceTime call using the outer display while the iPhone owner uses the inner display, so nobody has to crowd around the iPhone or pass it around to get on video.\r\n\r\n\r\nDuo ‌FaceTime‌ is not the same as Dual Capture, which records video with both the front and rear cameras. Duo ‌FaceTime‌ specifically uses the outer display to allow another person to join in on a call.\r\n\r\nUnique Form Factor Features\n\r\nThe ‌iPhone Duo‌ can be used in multiple orientations, including when it's half-folded. The Duo stands up on its own, for taking ‌FaceTime‌ calls and recording video without holding it.\r\n\r\n\r\nThe folding mechanism acts like a built-in tripod and stand, so it's also useful for selfies and long exposures. You can also capture selfies with the higher-quality 48MP rear camera while using the outer display as a viewfinder, which isn't something you can do with a slab iPhone.\r\n\r\nCamera Hardware\n\r\nThe ‌iPhone Duo‌ has a \"Dual Fusion\" two-camera setup with a 48MP Main camera. It's basically the same camera that's in the iPhone 17 (not the 17 Pro), offering 26mm 24MP images by default, along with 12MP 2x \"telephoto\" images at 52mm.\r\n\r\nThe camera supports sensor-shift optical image stabilization, but not the second-generation version available in the Pro models. It also does not support spatial photos or the ProRAW format.\r\n\r\nIt also includes a 48MP Ultra Wide camera with a 13mm focal length and macro capabilities. Since there's no Telephoto lens, the ‌iPhone Duo‌ is limited to 2x optical-quality zoom in, 2x optical zoom out, and digital zoom up to 10x for images.\r\n\r\nOther Camera Capabilities\n\r\nLike the iPhone 18 Pro and Pro Max, the ‌iPhone Duo‌ supports the latest Photographic Styles, which adds texture and grain parameters.\r\n\r\nVideo\n\r\nSmart focus tracking is a feature new to the ‌iPhone Duo‌ and the ‌iPhone 18 Pro‌ models. It uses AI to keep a subject in focus at all times, and pick up subject tracking if the subject exits the frame and then reappears.\r\n\r\nThe Duo supports 4K Dolby Vision video recording at up to 120 fps, and Cinematic mode for recording videos in 4K Dolby Vision at up to 60 fps. For the first time, Cinematic mode effects can be added to a video after capture on the Duo and ‌iPhone 18 Pro‌. Apple also says there's improved low-light video on the Duo when recording at 1080p.\r\n\r\nTime-lapse video recording with stabilization up to 4K Dolby Vision is a new ‌iPhone 18 Pro‌ and ‌iPhone Duo‌ option. It's especially useful on the ‌iPhone Duo‌ because you can record a stable video without the need for a tripod.\r\n\r\nFront Camera\n\r\nThe ‌iPhone Duo‌'s outer front-facing camera is 12MP, not 18MP like the ‌iPhone 17‌ and ‌iPhone 18 Pro‌ models. It otherwise has the same features.\r\n\r\nThe inner display has a 1080p ‌FaceTime‌ camera that's under the display.\r\n\r\nMissing Camera Features\n\r\nCompared to the ‌iPhone 18 Pro‌ and Pro Max, the ‌iPhone Duo‌ has a more rudimentary camera system. It lacks many features available on the Pro models.\r\n\r\n \nTelephoto lens\n\r\n \nPro Controls\n\r\n \nApple Reference Image\n\r\n \nVariable aperture\n\r\n \nSecond-generation sensor-shift optical image stabilization\n\r\n \nAdaptive True Tone flash\n\r\n \nSpatial photos and video recording\n\r\n \nProRAW\n\r\n \nProRes\n\r\n \nProRes RAW\n\r\n \nGenlock\n\r\n \nApple Log 2 video recording\n\r\n \nStudio-quality four-mic array\n\r\n\r\nLaunch Date\n\r\nThe ‌iPhone Duo‌ will be available for pre-order on October 16, and it will launch on October 23. Pricing starts at $1,999.\nRelated Roundup: iPhone Duo\nBuyer's Guide: iPhone Duo (Coming Soon)\nRelated Forum: iPhone\nThis article, \"What the iPhone Duo's Camera Can and Can't Do\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-09-15T22:11:01.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,App Store",
+    "id": 7618
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Ulysses gets Siri AI support, customizable toolbars, project templates, more",
     "link": "https://9to5mac.com/2026/09/15/ulysses-gets-siri-ai-support-customizable-toolbars-project-templates-more/",
     "content": "Following the release of macOS 27 Golden Gate and iOS 27, Ulysses was updated with Siri AI support, a refreshed interface, customizable toolbars, project templates, and more. Here are the details.\nmore…",
@@ -2938,65 +2998,5 @@
     "creator": "Justin Kahn",
     "tags": "iOS",
     "id": 7194
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Apple’s brilliant Studio Display XDR just hit its lowest price ever",
-    "link": "https://www.macworld.com/article/3233309/apples-brilliant-studio-display-xdr-just-hit-its-lowest-price-ever.html",
-    "content": "Macworld\n\n\n\n\n\n\t\t\nApple Studio Display XDR\nView Deal\nIf you spend your days editing photos, grading video, or designing for print, you already know a subpar monitor can mess up hours of work. That’s where Apple’s Studio Display XDR can save you lots of lost time and money. Normally selling for an MSRP of $3,299, it’s more than $300 off today, a rare price cut that brings the price down to $2,969, the lowest it’s ever been.\nThe best part about the Studio Display XDR is right in the name. Its 27-inch 5K Retina XDR panel with mini-LED backlighting delivers deep, clean blacks and bright highlights. You get up to 1,000 nits for everyday work, so it stays crisp even in a sunlit room, but it can hit 2,000 nits of peak HDR brightness that makes highlights and shadows in HDR footage look the way they’re supposed to. Motion is smooth, too, thanks to a 120Hz refresh rate with Adaptive Sync. This will make scrolling online or panning across a huge canvas feel fluid.\nIt’s got full tilt and height adjustability, and of course has a gorgeous design that will look great next to any Mac. The monitor features two Thunderbolt 5 ports that handle high-speed accessories and can fast-charge a Mac laptop over a single cable. You can even daisy-chain a second Studio Display XDR if you want a massive two- or 3-screen workspace with a Thunderbolt 5 cable. Apple takes things one step further by adding a 12MP Center Stage camera that keeps you sharp and framed on video calls, a three-mic array, and a six-speaker system with force-cancelling woofers. \nIs $2,969 a lot? Yes. Is this monitor worth every penny considering the quality and everything it brings to the table? Also yes. So grab one before the deal poofs into thin air.",
-    "pub_date": "2026-09-11T15:22:43.000Z",
-    "creator": "Macworld",
-    "tags": "Mac",
-    "id": 7218
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "iPhone 18 Pro, iPhone Duo, more: What AppleInsider thinks about 'Surprise and Shine'",
-    "link": "https://appleinsider.com/articles/26/09/11/iphone-18-pro-iphone-duo-more-what-appleinsider-thinks-about-surprise-and-shine?utm_source=rss",
-    "content": "It's been a busy few days. In the fallout of the iPhone Duo reveal at the \"Surprise and Shine\" event, we have some thoughts. What are yours?\n\n\nLeft to right: Actual iPhone 18 Pro, iPhone 18 Pro Max, and iPhone Duo\nThe 77 minute event was bookended by the latest iPhone models, a bunch of Apple Health updates related to more powerful Apple Watches, and a smidge on AirPods 5. Tim Cook made a cameo, Johnny Srouji had a sore throat, and yes, there's a foldable iPhone.\nThe AppleInsider staff comes in many shapes, sizes, and opinions that run the gamut. For every devout staffer hyped about the latest release, there's a skeptic worried about the implications.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-09-11T15:22:26.000Z",
-    "creator": "AppleInsider Staff <tips@appleinsider.com>",
-    "tags": "iOS",
-    "id": 7210
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Before you use Apple Upgrade for iPhone 18 Pro, unlock your credit",
-    "link": "https://appleinsider.com/articles/26/09/11/before-you-use-apple-upgrade-for-iphone-18-pro-unlock-your-credit?utm_source=rss",
-    "content": "A credit freeze could make getting an iPhone 18 Pro on preorder day in a timely fashion much harder than it needs to be. Here's how to avoid a checkout headache.\n\n\nUnfreeze your credit before financing an iPhone 18 Pro\nSome payment options that Apple or carriers provide require a credit check before customers can complete their iPhone purchase. Anyone with frozen credit needs to plan accordingly before preorders start.\nA credit freeze prevents lenders from accessing your credit report, helping stop unauthorized accounts from being created. While it won't affect existing credit cards, it can block credit checks for new financing even from vendors you already have a relationship with.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-09-11T15:20:12.000Z",
-    "creator": "Amber Neely <amber@appleinsider.com>",
-    "tags": "iOS",
-    "id": 7207
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iPhone Duo is Missing These 10 iPhone 18 Pro Features",
-    "link": "https://www.macrumors.com/2026/09/11/iphone-duo-is-missing-these-features/",
-    "content": "While the iPhone Duo is the first foldable iPhone ever and has some unique features like Duo FaceTime and forthcoming Apple Pencil support, the device lacks some other features available on the iPhone 18 Pro and iPhone 18 Pro Max.\r\n\r\n\r\nBelow, we have listed 10 features that are missing on the iPhone Duo:\r\n\r\nA dedicated Telephoto camera with up to 8× optical zoom. Instead, the iPhone Duo's main 48-megapixel Fusion camera has \"optical-quality\" 2× zoom.\n\r\n\t\nVariable aperture for the main 48-megapixel Fusion camera, which provides greater control over depth of field in photos and videos.\n\r\n\t\nA higher-resolution 18-megapixel Center Stage front camera. On the iPhone Duo, this camera is 12 megapixels.\n\r\n\t\nAction button.\n\r\n\t\nFace ID. Instead, the iPhone Duo has a Touch ID button.\n\r\n\t\nLiDAR Scanner, which measures depth for augmented reality purposes.\n\r\n\t\nOther camera features: Pro controls in the Camera app, ProRAW, ProRes RAW, spatial photos and videos, and more.\n\r\n\r\nRelated Roundups: iPhone 18 Pro, iPhone Duo\nBuyer's Guide: iPhone 18 Pro (Buy Now), iPhone Duo (Coming Soon)\nRelated Forum: iPhone\nThis article, \"iPhone Duo is Missing These 10 iPhone 18 Pro Features\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-09-11T15:13:38.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "iOS,App Store",
-    "id": 7185
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Save $600 on Apple's M5 Max 14-inch MacBook Pro at Amazon",
-    "link": "https://appleinsider.com/articles/26/09/11/save-600-on-apples-m5-max-14-inch-macbook-pro-at-amazon?utm_source=rss",
-    "content": "Amazon has issued deeper price drops on a wide range of MacBook Pro models heading into the weekend, with a standout offer knocking $600 off an M5 Max 14-inch config.\n\n\nSave $600 on Apple's M5 Max 14-inch MacBook Pro this weekend - Image credit: Apple\nToday we're highlighting a fresh $600 price drop on Apple's high-end M5 Max 14-inch MacBook Pro with an 18-core CPU, 32-core GPU, 36GB of RAM, and a spacious 2TB SSD.\nSave $600 on M5 Max 14\" MacBook Pro\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-09-11T15:08:11.000Z",
-    "creator": "Christine McKee <christine@appleinsider.com>",
-    "tags": "Mac,Silicon",
-    "id": 7208
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Today in Apple history: Steve Ballmer freaks out and stomps an iPhone",
-    "link": "https://www.cultofmac.com/apple-history/steve-ballmer-iphone-stomp",
-    "content": "On September 11, 2009, Microsoft CEO Steve Ballmer snatched a Microsoft worker's iPhone during a big meeting and pretended to destroy it.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-09-11T14:50:00.000Z",
-    "creator": "Luke Dormehl",
-    "tags": "Mac,iOS",
-    "id": 7229
   }
 ]
