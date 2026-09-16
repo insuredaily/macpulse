@@ -1,5 +1,175 @@
 [
   {
+    "source_name": "Macworld",
+    "title": "How to downgrade macOS 27: Roll back Golden Gate to Tahoe",
+    "link": "https://www.macworld.com/article/671318/how-to-downgrade-macos-revert-back.html",
+    "content": "Macworld\n\n\n\n\n\nUpgrading macOS doesn’t always go as planned. A new release might slow down your Mac, break essential apps, introduce bugs, or simply change features you rely on. If you’re wishing you could go back to the version you had before, the good news is that you can downgrade macOS.\nWhile reverting a macOS update is generally easier than downgrading an iOS update, it’s not as simple as installing macOS. It is a multi-step process that typically requires wiping your Mac’s  internal drive, as Apple does not allow installing an older version of the operating system directly over a newer one.\nBecause you need to erase your Mac’s internal drive before you can reinstall an older version of the operating system, your data must be backed up first. The exact process depends on whether you created a backup before upgrading macOS.\nIn this guide, we run through the safest way to revert to an earlier version of macOS, explain what works (and what doesn’t), and help you choose the best method for your situation.\nNote: macOS 27 Golden Gate runs only on Macs with Apple silicon, so the main Golden Gate-to-Tahoe instructions in this article are for Apple-silicon Macs. We cover older Intel Macs separately below for readers using this guide to downgrade an earlier version of macOS.\n\n\nCan I downgrade from macOS Golden Gate to Tahoe?\nYes, it is possible to downgrade from macOS Golden Gate (macOS 27) to macOS Tahoe (macOS 26), but the process is complex and requires you to completely wipe your Mac’s data and install the older version of macOS.\nBefore you begin, confirm that your Mac can run Tahoe. A Mac cannot install a version of macOS older than the version it originally shipped with. A Mac introduced with Golden Gate may therefore be unable to run Tahoe, even if another Mac with a similar processor can. Check Apple’s compatibility information before erasing anything.\nYou need the following: \nA backup: You will have to wipe your Mac, so you need to have a backup of your data.\nThe correct macOS version: You need to download the full installer for the version of macOS you want to install.\nAn external drive: You need to create a bootable installer of macOS. Apple says a 32GB USB drive has more than enough space for any macOS installer; 16GB is sufficient for most older versions.\nA reliable internet connection: The installer may need to download firmware and other information specific to your Mac.\nFollow these steps, which we explain in more detail below:\nBack up your Mac.\nCheck that your Mac can run macOS Tahoe.\nGet the Tahoe installer.\nCreate a bootable installer.\nShut down your Mac and start it from the bootable installer.\nErase the internal startup volume using Disk Utility.\nInstall macOS Tahoe.\nSet up the Mac and recover compatible files from your backup.\n\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\nCan I downgrade macOS 27.1 to iOS 27.0 (or macOS 26.7 to 26.6)?\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nApple issues multiple point updates throughout the year. If something breaks following an update, you may want to return to the previous release—for example, by downgrading from macOS 27.1 to macOS 27.0. The same principle applies to subsequent Golden Gate updates.\nRolling back a point update can be more difficult than downgrading from Golden Gate to Tahoe because you need the full installer for the exact earlier release. Apple generally offers only the latest installer for each major version of macOS, so the macOS 27.0 installer may no longer be available after macOS 27.1 has been released.\nA Time Machine backup cannot provide the missing installer or reinstall the earlier operating system. If you have access to the appropriate full installer, you can create bootable installation media and follow the erase-and-install process described below. If Apple no longer offers that release and you did not retain its installer, an ordinary downgrade may not be possible.\n\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\nDowngrading macOS to an earlier version: Step-by-step guide\nThe steps below will help you revert to macOS Tahoe. Before you start, remember that you must wipe your Mac and perform a clean installation of Tahoe.\nReminder: This will erase your Mac, so make sure you have a backup of important files before continuing.\nBefore you begin: Back up your Mac \nBacking up your Mac is the most critical step before a downgrade because the process requires erasing your startup drive, which removes all locally stored data. If you don’t already have a backup, you will need to make one.\nTime Machine is the standard backup method for most Mac users, but restoring data from a newer version of macOS to an older one can present problems. A Time Machine backup made under Golden Gate may contain Photos libraries, Mail databases, settings, application data, and versions of apps that are not compatible with Tahoe.\nA backup made while the Mac was still running Tahoe is therefore the safest one to use. However, it won’t contain files created or changed after the upgrade to Golden Gate. If Golden Gate is still working, make a separate copy of every irreplaceable document you have created or modified since upgrading.\nBefore recovering data from a Time Machine backup, you must install Tahoe on the Mac. You can then use Setup Assistant or Migration Assistant to transfer compatible accounts, apps, settings, and files from the backup.\nIf you store documents in iCloud Drive or use iCloud Photos, fully synchronized items should become available again when you sign in to the same Apple Account after reinstalling macOS. Before erasing the Mac, check iCloud.com or another Apple device to confirm that important documents, photos, and videos have uploaded successfully. Remember that iCloud is a synchronization service rather than a separate backup, so keep an independent copy of irreplaceable files where possible.\nTo ensure your data remains accessible after you return to an older version of macOS, consider these backup strategies:\nManual file copying: Copy your most important files, folders, photos, and music to an external storage drive.\nThird-party backup software: Tools for backing up a Mac, such as ChronoSync, Get Backup Pro, SuperDuper, or Carbon Copy Cloner can create a separate copy of your data. Do not assume that a clone created under Golden Gate will be bootable on your Mac or that it can replace the Tahoe installer.\nCloud synchronization: Make sure cloud storage services such as iCloud, Dropbox, OneDrive, or Google Drive have finished synchronizing. Do not assume that every app’s data is stored in the cloud, as some applications store data only locally.\nTime Machine: If you have a Time Machine backup from before you upgraded to Golden Gate, you can use it to transfer compatible data after reinstalling Tahoe.\nFor more help read: How to back up a Mac.\n\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\n\n\n\n\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n1.\nCheck that your Mac can run Tahoe\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nStep back to Tahoe, if your Mac can run it.\n\nThomas Armbrüster\n\n\n\n\n\n\nThe version of macOS you install must be compatible with your Mac. A Mac that was upgraded to Golden Gate can be returned to Tahoe only if that model supports Tahoe. A model that first shipped with Golden Gate cannot be downgraded to Tahoe.\nFor example, Apple announced the M6 Mac mini before Golden Gate was released, but the Mac did not ship until afterward and requires macOS 27. Always check that your model supports the older operating system before erasing the Mac.\nCheck our lists of Macs compatible with Golden Gate and Tahoe. \n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n2.\nGet the macOS Tahoe installer\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nYou can download  old versions of macOS from Terminal, if they aren’t on the Mac App Store.\n\nFoundry\n\n\n\n\n\n\nThe next stage is to get the full installer for the version of macOS you require. In most cases, the Mac used to download the installer must itself be compatible with the version of macOS you require.\nFor this downgrade you need the Tahoe installer, not the Golden Gate installer. For Tahoe and earlier installers, see our guide to downloading older versions of macOS.\nNormally Apple makes older versions of macOS available to download from the Mac App Store. For example, you can get Sequoia, Sonoma and Ventura this way. However, as of September 2026, Apple’s hasn’t made Tahoe available from the Mac App Store. We expect that it eventually will do so, but in the meantime the best way to get the Tahoe installer it to use Terminal. \nTerminal method\nOpen Terminal.\nType in the following:\nsoftwareupdate --fetch-full-installer --full-installer-version [number]\nYou need to include the relevant version number. For example softwareupdate –fetch-full-installer –full-installer-version 26.6.2. \nTo see which installers Apple currently offers for that Mac, run:\nsoftwareupdate --list-full-installers\nIf Terminal reports that the update was not found, Apple may no longer offer that exact release, or it may not be compatible with your Mac. \nWhen the download finishes, the full installer will appear in the Applications folder. Quit it if it opens automatically—you need to retain it to create the bootable installer.\nMac App Store method\nOpen the Tahoe download link on a compatible Mac. If the Mac App Store does not open, close it if it is already running and try the link again in Safari.\nClick Get.\nSoftware Update should open and offer to download Tahoe. Click Download and confirm that you want to download the older operating system.\nIf the installer opens automatically after downloading, quit it. You do not want to run it directly over Golden Gate.\nThe installer will appear as an app named Install macOS Tahoe in the Applications folder.\nAs noted above, downgrading from one Golden Gate point release to another requires the full installer for the exact earlier release. Because Apple generally offers only the latest installer for each major version of macOS, the version you need may no longer be available unless you previously downloaded and retained it. A Time Machine backup cannot provide the missing installer or reinstall the earlier operating system.\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n3.\nCreate a bootable Tahoe installer\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nOnce you have it, you can use the bootable installer of Tahoe to downgrade your Mac. \n\nFoundry\n\n\n\n\n\n\nYou cannot install Tahoe directly over Golden Gate. To install an older version of macOS, you need to create a bootable installer containing the Tahoe installation files.\nYou will need a USB flash drive or other external volume. A 32GB drive is recommended, although 16GB is sufficient for many older macOS installers. The drive will be erased during the process.\nFollow our complete guide to creating a bootable macOS USB installer, selecting the instructions and \ncreateinstallmedia Terminal command for macOS Tahoe.\nThe Tahoe command is:\nsudo /Applications/Install\\ macOS\\ Tahoe.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume\nReplace MyVolume if your external drive has a different name. Make sure --volume contains two ordinary hyphens, not an en dash or em dash. The linked guide explains how to prepare the drive, run the command and troubleshoot the creation process.\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n4.\nStart your Mac from the bootable installer\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\tYou want to choose the Install macOS Tahoe option, similar to what’s shown.\nFoundry\n\n\n\n\n\n\nWith the bootable Tahoe installer ready, the next step is to start your Mac from it rather than from the internal drive currently running Golden Gate.\nShut down the Mac.\nConnect the bootable Tahoe installer directly to the Mac.\nPress and hold the power button. Continue holding it until the startup options screen appears.\nSelect the bootable installer, then click Continue.\nConnect to Wi-Fi if prompted.\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n5.\nErase the internal startup volume\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\n\n\nWarning: This step will permanently remove the local accounts, applications, settings and files stored on the Mac.\nWhen the Utilities window appears, select Disk Utility and click Continue.\nIn Disk Utility, choose View > Show All Devices if the internal volumes are not visible.\nSelect the internal macOS startup volume, usually named Macintosh HD.\nClick Erase or Erase Volume Group, as offered.\nUse Macintosh HD as the name and APFS as the format.\nConfirm the erase and wait for it to finish.\nQuit Disk Utility to return to the Utilities window.\nErase All Content and Settings is not, by itself, a downgrade tool. It removes data and settings while retaining the installed operating system. To replace Golden Gate with Tahoe, you need to erase the startup volume from the bootable installer environment and then install Tahoe.\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n6.\nInstall macOS Tahoe\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFinally, you can get Tahoe back on your Mac.\n\nFoundry\n\n\n\n\n\n\nWith the internal startup volume erased, you can now install Tahoe from the bootable installer.\nIn the Utilities window, select Install macOS Tahoe and click Continue.\nFollow the onscreen instructions.\nWhen asked to choose a destination, select the newly erased internal volume, normally Macintosh HD.\nKeep the Mac connected to power and the internet while installation completes. It may restart several times.\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n7.\nSet up your Mac\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\n\n\nAfter Tahoe is installed, the Mac will start in Setup Assistant.\nIf you have a Time Machine backup from before the Golden Gate upgrade, you can connect the backup disk and transfer your information during setup. Time Machine can transfer your accounts, apps, settings, and files after Tahoe has been installed, but it does not perform the operating-system downgrade, you need to do that first (as per the steps above).\nIf your only backup was made under Golden Gate, setting up the Mac as new and copying your documents back manually is the safest approach. This reduces the risk of importing an app, database, or setting that requires macOS 27. You can then reinstall Tahoe-compatible versions of your apps individually.\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n8.\nTransfer data from your Time Machine backup\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nOnce your Mac is set up you can copy your data from your backup.\n\nFoundry\n\n\n\n\n\n\nA backup made while the Mac was still running Tahoe is the best one to use. To transfer its contents during Setup Assistant, choose the option to transfer information From a Mac, Time Machine backup, or startup disk. Connect the backup disk, select the appropriate backup, and choose the accounts, apps, settings, and files you want to transfer.\nIf you have already completed setup:\nConnect the Time Machine backup disk.\nOpen Migration Assistant from the Utilities folder in Applications.\nChoose to transfer information From a Mac, Time Machine backup, or startup disk.\nSelect the Time Machine disk and then the appropriate backup.\nChoose the categories you want to transfer and click Continue.\nThe selected backup will not contain anything created or changed after it was made. Copy those newer documents back from the separate backup you created before erasing the Mac.\n\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\nWhat to do if the older macOS won’t install\nCheck the following:\nConfirm that the Mac model supports the version you are installing.\nConfirm that the full installer is in the Applications folder and is named correctly before creating the USB installer.\nConnect the installer directly rather than through a hub or dock.\nMake sure the Mac is connected to the internet.\nRe-create the installer if Terminal says it is invalid or the installation fails repeatedly.\nConfirm that the internal startup volume was erased as APFS.\nInstalling macOS 27 may also update the Mac’s firmware. Installing Tahoe later does not necessarily roll that firmware back; a macOS downgrade and a firmware downgrade are not the same operation.\nTips to avoid problems and data loss when you downgrade macOS\nReversing an upgrade carries a number of wrinkles and pitfalls. Many are caused by changes in file formats and settings between versions of the operating system. If you create a document or work on a file in a newer version of macOS and then try to open it in an older version, it may not work.\nWhere possible, export important documents in standard or widely compatible formats before erasing the Mac. For example, you could export a document as RTF or PDF in addition to retaining its native version.\nTake screenshots of preferences and settings\nWhenever you perform a clean installation of macOS, it’s a good idea to take screenshots of custom settings in apps and System Settings. That makes it easier to re-create them later.\nMake a note of account details for anything you set up while running the newer operating system. Export bookmarks if they are not synchronized, and make sure you have access to application installers, subscriptions and license codes.\nSynchronize cloud services\nIf you use Dropbox, OneDrive, Google Drive or another cloud storage service, make sure synchronization has completed before starting the downgrade. Files visible in a synchronized folder may not have finished uploading.\nIf you use Gmail, iCloud Mail or another IMAP service, make sure recent mail and drafts have synchronized. If you use a POP3 account, manually back up locally stored mail before erasing the Mac.\nFinally, keep the Golden Gate backup intact until you have confirmed that Tahoe starts correctly and that all essential documents have been recovered. Do not erase or repurpose the backup drive merely because the downgrade appears to have completed.\nDowngrading an older Intel Mac\nGolden Gate does not support Intel Macs. These instructions are for if you want to downgrade an earlier macOS release on an Intel Mac.\nIntel Macs start from a bootable installer by holding Option (Alt) at startup. Macs with the Apple T2 Security Chip may also need Startup Security Utility configured to allow booting from external or removable media. See our bootable macOS installer guide for the complete Apple-silicon, Intel and T2 instructions.\nAn Intel Mac may also be able to use Internet Recovery. Start it while holding:\nShift-Option-Command-R to offer the macOS that came with the Mac, or the closest version still available.\nOption-Command-R to offer the latest macOS compatible with the Mac.\nCommand-R to reinstall the current version.\nInternet Recovery cannot install a version older than the one the Mac supports, and the exact version offered can vary.",
+    "pub_date": "2026-09-16T13:19:38.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,iOS,Silicon,App Store,Services",
+    "id": 7646
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Before you click that suspicious link, run it through this scam detector",
+    "link": "https://www.cultofmac.com/deals/isthisspam-scam-detector",
+    "content": "Secure lifetime access to IsThisSpam, a scam detector with tools that analyze suspicious emails, messages, websites, links and more.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-09-16T13:15:36.000Z",
+    "creator": "Cult of Mac Deals",
+    "tags": "Mac",
+    "id": 7649
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple's Xserve may return with Nvidia tech",
+    "link": "https://appleinsider.com/articles/26/09/16/apples-xserve-may-return-with-nvidia-tech?utm_source=rss",
+    "content": "Apple is reportedly considering a return to the server market it left when it abandoned Xserve, but this time incorporating the future M8 Ultra chip, fully integrated with NVLink Fusion technology.\n\n\nApple's elderly G5 xServe rack-mounted server - Image credit Jeff Geerling\nWhile Apple already makes its own servers in Houston, it is reportedly looking at making a rack-mounted server product for wider distribution. The product line, as rumored, is said to be two main products with one containing two M8 Ultra Chips. The second is said to house four of the unreleased and very early in development M8 Ultra processor.\nAs part of the technology assessment, Apple is said to be considering using NVLink Fusion. That is high-bandwidth, low-latency connective technology that allows companies to plug chips and AI accelerators directly into Nvidia's advanced data center infrastructure.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-16T13:14:17.000Z",
+    "creator": "Mike Wuerthele <mike@appleinsider.com>",
+    "tags": "Silicon",
+    "id": 7636
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "iPhone 18 Pro review roundup: great cameras, no surprises, isn't iPhone Duo",
+    "link": "https://appleinsider.com/articles/26/09/16/iphone-18-pro-review-roundup-great-cameras-no-surprises-isnt-iphone-duo?utm_source=rss",
+    "content": "The first reviews of the iPhone 18 Pro and iPhone 18 Pro Max are out and without exception, they say it's unfairly overshadowed by the iPhone Duo.\n\n\nThe new iPhone 18 Pro Max and iPhone 18 Pro.\nPre-orders for the iPhone 18 Pro models appeared to get off to a slow start, at least compared to how shipping was rapidly delayed for the iPhone 17 Pro. But now that reviewers are getting to test it in the real world, there is only one criticism.\n\"Is it expensive?\" asks Marques Brownlee in his YouTube review. \"Hell, yeah.\"\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-16T12:59:23.000Z",
+    "creator": "William Gallagher <wg@williamgallagher.com>",
+    "tags": "iOS",
+    "id": 7637
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "What iPhone Duo doesn't have, and what compensates for those losses",
+    "link": "https://appleinsider.com/articles/26/09/16/what-iphone-duo-doesnt-have-and-what-compensates-for-those-losses?utm_source=rss",
+    "content": "The iPhone Duo manages to balance some compromises with unique features that make it a much better option than the iPhone Air. Here's what you don't get in the folding iPhone, and what offsets those losses.\n\n\niPhone Duo managed to pull off an ultra-thin foldable design without too many compromises\nThe iPhone Air created a fork in Apple's lineup that gave users a premium choice that wasn't \"pro.\" However, some users complained that it may have cut too many corners to achieve its thin and light design.\nFor the past year, the conversation around iPhone Air has been primarily about what it lacked. While I believe the iPhone Air is a perfectly fine iPhone, I think the iPhone Duo did a much better job addressing user needs.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-16T12:55:18.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "iOS",
+    "id": 7638
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Watch Ultra 3 vs. Ultra 4 Buyer's Guide",
+    "link": "https://www.macrumors.com/2026/09/16/apple-watch-ultra-3-vs-ultra-4/",
+    "content": "The Apple Watch Ultra 4 is now available for pre-order, bringing a new health sensing system, more memory, and longer battery life over its predecessor. Here's everything that's new.\r\n\r\n\r\nLast year, the Apple Watch Ultra 3 introduced a larger, more efficient display, satellite connectivity, 5G, and improved battery life. The Ultra 4 retains the same basic design and display, but focuses on more detailed health and fitness insights, new Audio Intelligence features, and further battery life improvements.\r\n\r\nIt launches on Friday, September 18, at the same $799 starting price as the Ultra 3. The comparison below outlines the differences between the two generations:\r\n\r\n\r\n\r\nApple Watch Ultra 3\r\nApple Watch Ultra 4\r\n\r\n\r\nS10 chip (2024)\r\nS11 chip (2026)\r\n\r\n\r\n2GB RAM\r\n4GB RAM\r\n\r\n\r\nElectrical heart sensor\r\n\"Health Sensing System\" with second-generation electrical heart sensor\r\n\r\n\r\nThird-generation optical heart sensor\r\nAlways-on optical heart sensor\r\n\r\n\r\nBackground heart rate tracking\r\nHigh-frequency background heart rate tracking every five seconds, 60x more frequently\r\n\r\n\r\nHRV\r\nRecovery HRV and overall HRV, measured up to 24x more often\r\n\r\n\r\nVitals app with heart rate, respiratory rate, wrist temperature, and sleep duration\r\nVitals app heart rate, respiratory rate, wrist temperature, sleep duration, HRV, and a daytime vitals view\r\n\r\n\r\n\r\nReadiness app\r\n\r\n\r\n\r\nReal-time heart rate complication\r\n\r\n\r\nStep tracking\r\nMore accurate step tracking and indoor workout distance measurements\r\n\r\n\r\n\r\nSteps complication\r\n\r\n\r\n\r\nAudio Intelligence (Live Rewind, Siri Recap, Sound Recognition, and automatic music identification with Shazam)\r\n\r\n\r\nUp to 42 hours of normal use\r\nUp to 50 hours of normal use\r\n\r\n\r\nUp to 72 hours in Low Power Mode\r\nUp to 84 hours in Low Power Mode\r\n\r\n\r\nUp to 14 hours of outdoor workout tracking with full GPS and heart rate readings\r\nUp to 18 hours of standard outdoor workout tracking\r\n\r\n\r\nUp to 20 hours of outdoor workout tracking in Low Power Mode with full GPS and heart rate readings\r\nUp to 25 hours in Extended Workout mode with full GPS and heart rate readings\r\n\r\n\r\nUp to 35 hours of outdoor workout tracking in Low Power Mode with Fewer GPS and Heart Rate Readings enabled\r\nUp to 45 hours in Max Extended Workout mode, retaining GPS readings every second\r\n\r\n\r\n15 minutes of charging for up to 12 hours of normal use\r\n15 minutes of charging for up to 18 hours of normal use\r\n\r\n\r\n5 minutes of charging for up to 8 hours of sleep tracking\r\n5 minutes of charging for up to 10 hours of sleep tracking\r\n\r\n\r\nNatural titanium: 61.6 grams\r\nBlack titanium: 61.8 grams\r\nNatural titanium: 63.0 grams\r\nBlack titanium: 63.1 grams\r\n\r\n\r\nGPS, GLONASS, Galileo, QZSS, and BeiDou\r\nGPS, Galileo, QZSS, and BeiDou\r\n\r\n\r\n40% recycled content\r\n45% recycled content\r\n\r\n\r\nNow discontinued\r\nFrom $799\r\n\r\n\r\n\r\n\r\nIs It Worth Upgrading From Ultra 3 to Ultra 4?\n\r\nFor the vast majority of Apple Watch Ultra 3 owners, the Ultra 4 is not worth upgrading to. The Ultra 3 already offers all of the headline display, durability, satellite connectivity, and established health features. If it comfortably lasts between your usual charging sessions and records your longest workouts, the new model is unlikely to meaningfully change how you use your watch.\r\n\r\nThe strongest reason to upgrade is if you want recovery tracking to play a larger role in your training. The Ultra 4's more frequent measurements feed into Readiness and Recovery HRV, making it easier to assess when to push harder or take a lighter day. These features are more compelling if you will regularly use them to adjust your training, rather than simply check another set of health metrics.\r\n\r\nBattery life is a more practical reason for endurance athletes. If you currently change settings to finish long events or recharge during an extended outing, the Ultra 4 gives you a little more flexibility. For shorter daily workouts, however, the improvement mainly means less frequent charging, which is difficult to justify replacing a year-old $799 watch for.\r\n\r\nAudio Intelligence may also justify upgrading for specific users, particularly deaf or hard of hearing users who would benefit from Sound Recognition on their wrist. Live Rewind and ‌Siri‌ Recap are less convincing reasons to upgrade immediately, since they arrive in beta later this year and require a compatible newer iPhone.\r\n\r\nShould You Buy Ultra 3 or Ultra 4?\n\r\nFor new buyers, the Ultra 4 should be the default choice when the price difference is modest. If you plan to wear it for several years, paying a little more for the new chip, more memory, better battery life, and health tracking enhancements is easier to justify than replacing an Ultra 3 you already own.\r\n\r\nThe Ultra 3 becomes the better value when it is heavily discounted. If you mainly want a \"rugged\"-style Apple Watch with a large screen, satellite connectivity, and enough battery life for everyday use and regular workouts, it delivers much of the same experience. Buyers interested in Readiness and recovery insights, or who regularly record very long activities, have a stronger reason to pay more for the ‌Apple Watch Ultra 4‌.\r\n\r\nRelated Roundup: Apple Watch Ultra 4\nBuyer's Guide: Apple Watch Ultra (Buy Now)\nRelated Forum: Apple Watch\nThis article, \"Apple Watch Ultra 3 vs. Ultra 4 Buyer's Guide\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-09-16T12:40:15.000Z",
+    "creator": "Hartley Charlton",
+    "tags": "iOS,App Store,Services",
+    "id": 7629
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Four ways to prevent AI killing us all within 10 years",
+    "link": "https://9to5mac.com/2026/09/16/four-ways-to-prevent-ai-killing-us-all-within-10-years/",
+    "content": "Two high-profile computer scientists from Princeton University, and coauthors of the book AI Snake Oil, have weighed in on the question of whether AI will kill us all by the end of the decade.\nThe pair have become well known for their work in separating fact from fiction in the AI world, and have now responded to an admission by Anthropic that there is a greater than 10% chance that AI could kill all humans within the next ten years … \nmore…",
+    "pub_date": "2026-09-16T12:34:11.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "General",
+    "id": 7632
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple Reference Image is a mammoth effort to combat AI-edited photos",
+    "link": "https://appleinsider.com/articles/26/09/16/apple-reference-image-is-a-mammoth-effort-to-combat-ai-edited-photos?utm_source=rss",
+    "content": "Apple has explained how it has made Apple Reference Image as secure as possible, so you definitely know that the iPhone photo you're looking at hasn't been edited with AI.\n\n\nHow Apple Reference Image appears to users - Image Credit: Apple\nApple Reference Image was introduced alongside the iPhone 18 Pro as a form of digital negative for an iPhone photo. It is billed as a way to prove that the image appears the same as it was when it was first taken, and that it isn't an AI-generated or edited shot.\nOn September 15, Apple Security Research published a post explaining how Apple Reference Image keeps the process as secure as possible. Creating proof of an image being unedited is one thing, but maintaining that level of authenticity against bad actors is another problem entirely.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-16T12:30:57.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS",
+    "id": 7639
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iPhone 18 Pro review: More of a great thing",
+    "link": "https://9to5mac.com/2026/09/16/iphone-18-pro-review/",
+    "content": "The iPhone 18 Pro is Apple doubling down on what it thinks a “Pro” iPhone should be. It’s faster, heavier, has longer-lasting battery life, and more capable. Plus, there’s a new variable aperture camera leading the way.\nI’ve spent the last week using the iPhone 18 Pro and iPhone 18 Pro Max. Here’s everything you need to know.\nmore…",
+    "pub_date": "2026-09-16T12:00:39.000Z",
+    "creator": "Chance Miller",
+    "tags": "iOS",
+    "id": 7633
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Video highlights Apple’s playful James Bond homages in its keynote",
+    "link": "https://9to5mac.com/2026/09/16/video-highlights-apples-playful-james-bond-homages-in-its-keynote/",
+    "content": "A video short highlights Apple’s playful use of James Bond homages in its keynote opening, with shots directly emulating ones from Skyfall … \nmore…",
+    "pub_date": "2026-09-16T11:21:51.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "General",
+    "id": 7634
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "iPhone 18 Pro Max vs iPhone 15 Pro Max: three-year upgrade, compared",
+    "link": "https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-max-vs-iphone-15-pro-max-three-year-upgrade-compared?utm_source=rss",
+    "content": "After three years, iPhone 15 Pro Max owners are likely to consider upgrading to the newest version. Here's how the iPhone 18 Pro Max fares against its 2023 counterpart.\n\n\niPhone 18 Pro Max [left] vs iPhone 15 Pro Max [right]\nThe iPhone 18 Pro Max is Apple's latest premium model of smartphone, if you ignore the iPhone Duo. As the top of the line in many respects, it's what consumers wanting the ultimate iPhone will get, especially if they value photography and videography.\nHowever, it's also three years after the introduction of the iPhone 15 Pro Max. That was a notable release for making major changes to the camera setup.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-16T11:15:48.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS",
+    "id": 7640
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Musk doesn't get to just walk away from his Apple lawsuit",
+    "link": "https://appleinsider.com/articles/26/09/16/musk-doesnt-get-to-just-walk-away-from-his-apple-lawsuit?utm_source=rss",
+    "content": "Elon Musk filed to have his App Store dispute with Apple dismissed, but crucially not the simultaneous one with OpenAI. Now the judge is demanding to be told what's going on.\n\n\nElon Musk is not going to be able to dismiss his lawsuit against Apple as easily as he may have hoped.\nMusk's suit was a nonsense one claiming that Apple basically rigs App Store charts and features to favor its partner OpenAI's ChatGPT, and exclude X's Grok. It was entirely and demonstrably baseless, but Musk persisted, until he didn't.\nOn September 14, 2026, Musk filed to have the case against Apple dismissed. As AppleInsider noted, there were many unanswered questions and it was far from clear why Musk had done this.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-16T11:13:13.000Z",
+    "creator": "William Gallagher <wg@williamgallagher.com>",
+    "tags": "App Store",
+    "id": 7641
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Samsung reportedly rushing new trifold phone in response to iPhone Duo",
+    "link": "https://9to5mac.com/2026/09/16/samsung-reportedly-rushing-new-trifold-phone-in-response-to-iphone-duo/",
+    "content": "It was already clear that Samsung was worried about the impact of the iPhone Duo on its foldable phone range, and there’s now further evidence of the Korean company’s concern.\nA blogger who aggregates reports from Chinese social media says there are signs that the company is bringing forward the launch of its Galaxy Z Trifold 2, despite the seeming failure of its predecessor …\nmore…",
+    "pub_date": "2026-09-16T11:03:02.000Z",
+    "creator": "Ben Lovejoy",
+    "tags": "iOS",
+    "id": 7635
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Reminder: macOS 27 Ends Time Machine Backups to Time Capsule",
+    "link": "https://www.macrumors.com/2026/09/16/macos-27-ends-time-machine-backups-time-capsule/",
+    "content": "If you're upgrading to macOS Golden Gate and you have an AirPort Time Capsule, Time Machine won't be able to back up to it. macOS 27 removes support for AFP, the legacy file-sharing protocol that Time Capsule relies on for Time Machine backups. Said backups now exclusively use the SMB protocol, which Apple's discontinued Time Capsule hardware does not support in the form required by macOS 27. \r\n\r\nJune 2025 when macOS Tahoe began displaying a warning that Time Capsule backups would no longer work in the next macOS. Users still backing up to one will need an alternative, such as an external drive or a modern NAS.\nTag: AirPort Time Capsule\nThis article, \"Reminder: macOS 27 Ends Time Machine Backups to Time Capsule\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-09-16T10:38:20.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "Mac",
+    "id": 7630
+  },
+  {
+    "source_name": "Macworld",
+    "title": "iOS 27 is driving my fingers insane",
+    "link": "https://www.macworld.com/article/3236198/ios-27-is-driving-my-fingers-insane.html",
+    "content": "Macworld\n\n\n\n\n\niOS 27 is Apple’s best update in years. It fixes nearly every issue we had with iOS 26: It’s faster, cleaner, and more responsive, and the new Siri AI is actually useful. But there’s one new feature that’s driving me crazy.\nFor as long as I can remember, two things have been constant on my iPhone: Swiping down from the middle of the screen brings up Spotlight search, and swiping down from the middle of the top edge of the phone reveals the Notification Center. I use both regularly, as I’m sure many iPhone users do.\nI’ve developed such muscle memory that I don’t think about either gesture. When I want to read or clear a notification, my finger goes to the top of the screen just above the Dynamic Island and swipes down. When I want to search for an app, I swipe from the middle of the Home Screen. It’s simple, smart, and intuitive.\nExcept now it’s changed. In iOS 27, swiping down on the Home Screen still brings up Search, except instead of a simple Spotlight search field, it now shows a “Search or Ask” card as part of Siri AI. It’s just a bit slower than the previous Spotlight search, a bit cluttered, and overly animated.\nI don’t love it, and I’ve taken to swiping left to use the App Library more to get to apps that aren’t on my main Home Screen. It’s annoying but not a big deal. Most people will get used to it pretty quickly.\nSiri’s new home at the top of the screen is far more aggravating. Ever since Apple moved the Control Center to the top of the screen in iOS 11, my fingers have instinctively known to go to the middle of the screen to access the Notification Center. In iOS 27, that now brings up the Siri search bar. Dozens of times a week.\nI’ve been using iOS 27 for a couple of months throughout the public beta process, and my fingers still haven’t adjusted. I’ve lost count of how many times I’ve accidentally ended up in Siri’s search bar instead of my notifications. Apple even added a little line under the clock to show where to swipe, and I still miss it most of the time.\nI don’t know why Apple changed it to begin with. Users already know that you can swipe down anywhere on the Home screen to search, so why does it need to live at the top of the screen too?",
+    "pub_date": "2026-09-16T10:30:00.000Z",
+    "creator": "Macworld",
+    "tags": "iOS,App Store",
+    "id": 7647
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "EU's Kids Act to Ban Social Media for Under-13s, Curb Chatbot Access",
+    "link": "https://www.macrumors.com/2026/09/16/eu-kids-act-ban-social-media-under-13s/",
+    "content": "The EU will ban children under 13 from using social media platforms, some gaming platforms, and AI chatbots without parental supervision. The ban is set to be outlined in the Kids Act, which will be published on Thursday, reports Financial Times.\r\n\r\n\"No social media under the age of 13. No personal account under the age of 15,\" said the European Commission president Ursula von der Leyen in a speech on Wednesday. \"Europe has the power to act. It is us who decide the rules, not big tech.\"\nAccording to a draft proposal seen by FT, children under 13 will only be allowed access with supervision from a parent, while children between 13 and 15 will need parental consent to create accounts with parental controls and other restrictions like time limits.\r\n\r\nMeanwhile, social media companies, online gaming services, and AI chatbots will be required to introduce safeguards to protect children from abuse and addictive behavior, and companies that offer AI companions and chatbots services will have to avoid designs that encourage unhealthy emotional attachments or expose them to harmful interactions.\r\n\r\nTags: European Commission, European Union\nThis article, \"EU's Kids Act to Ban Social Media for Under-13s, Curb Chatbot Access\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-09-16T09:45:45.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "General",
+    "id": 7631
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Your Parallels setup can run Microsoft Office 2024 for $54.99",
+    "link": "https://www.macworld.com/article/3235177/your-parallels-setup-can-run-microsoft-office-2024-for-54-99.html",
+    "content": "Macworld\n\n\n\n\n\nTL;DR: Microsoft Office 2024 Professional Plus for Windows runs inside Parallels Desktop, VMware Fusion, or Boot Camp on a Mac without a second Microsoft 365 subscription, and a lifetime license is on sale for $54.99 (reg. $249.99).\nThere’s a cheap way to get Microsoft Office running on the Windows side of a Mac, and it doesn’t involve paying for a second Microsoft 365 subscription on top of whatever the Mac already runs. Microsoft Office 2024 Professional Plus for Windows installs once inside Parallels Desktop, VMware Fusion, or a Boot Camp partition, and a lifetime license for one PC, virtual or physical, is on sale for $54.99 (reg. $249.99).\nRunning Windows through Parallels or Boot Camp already means keeping two operating systems working side by side, and adding a subscription-based Office on top of that turns one Mac into two ongoing software bills.\nA one-time license keeps the cost fixed no matter how long the Windows partition stays in use, which matters for anyone who only opens Windows a few times a month for a specific app or workflow.\nWhat’s included with the Windows license\nWord, Excel, PowerPoint, Outlook, OneNote, and Access all activate with the license and run natively within the Windows installation, just as they would on a Windows-native machine.\nDark mode carries over from the subscription version of Office.\nExcel and Access include the same data analysis and database management tools found in Microsoft 365, useful for budgets or spreadsheets built on the Windows side of the Mac.\nLicensing is tied to the Windows PC or VM itself rather than to a Microsoft account, so the license stays in place after a macOS update, a Parallels upgrade, or a fresh Boot Camp partition.\nRedemption happens within 7 days of purchase, with the license key and download link arriving by email.\nSecurity patches continue for as long as Microsoft supports the release.\nGet Microsoft Office 2024 Professional Plus for Windows on sale for $54.99.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nMicrosoft Office 2024 Professional Plus for Windows: Lifetime LicenseSee Deal\nStackSocial prices subject to change.",
+    "pub_date": "2026-09-16T08:00:00.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,App Store,Services",
+    "id": 7648
+  },
+  {
     "source_name": "Cult of Mac",
     "title": "M6 and M5 Ultra benchmark scores set the stage for powerful new Macs",
     "link": "https://www.cultofmac.com/news/m6-m5-ultra-benchmark-scores-set-stage-powerful-new-macs",
@@ -2828,175 +2998,5 @@
     "creator": "Joe Rossignol",
     "tags": "iOS,App Store",
     "id": 7262
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple Watch Series 12 vs Series 11: Here’s everything new",
-    "link": "https://9to5mac.com/2026/09/11/apple-watch-series-12-vs-series-11-heres-everything-new/",
-    "content": "Apple Watch Series 12 improves many of the core components that power watchOS and the device’s health and fitness features, plus unlocks new AI capabilities. Here’s everything new in Apple Watch Series 12 vs Series 11.\nmore…",
-    "pub_date": "2026-09-11T19:35:28.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 7269
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple’s iPhone 18 Pro cases are already in stores, and not just for the new models",
-    "link": "https://9to5mac.com/2026/09/11/apples-iphone-18-pro-cases-are-already-in-stores-and-not-just-for-the-new-models/",
-    "content": "Apple’s new iPhone 18 Pro cases and other accessories are now available in Apple Stores. Pre-orders for the new phones start tomorrow ahead of the launch in one week.\nmore…",
-    "pub_date": "2026-09-11T18:54:43.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS",
-    "id": 7237
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Still Has 8 More Products to Announce Later This Year",
-    "link": "https://www.macrumors.com/2026/09/11/apple-still-has-8-products-to-announce-this-year/",
-    "content": "Apple's annual iPhone event is now in the rearview mirror, but it still has many more products to announce later this year, according to rumors.\r\n\r\n\r\nApple is expected to unveil the following eight products this year, although the MacBook Pro with an OLED display might not arrive until early 2027. \r\n\r\nWith this many products still coming, Apple will likely hold an October event this year.\r\n\r\niPad\n\niPad mini: A19 Pro or A20 Pro chip, an OLED display, a new speaker system without holes, and a water-resistant design. Apple debuted the A20 Pro chip in the iPhone 18 Pro, iPhone 18 Pro Max, and iPhone Duo earlier this week.\n\r\n\nMac\n\r\n\niMac: M6 chip and new color options. Apple announced the M6 chip last month.\n\r\nMacBook Pro: A new 14-inch MacBook Pro base model with an M6 chip.\n\r\nMacBook Pro/MacBook Ultra with OLED display: A major MacBook Pro redesign in late 2026 or early 2027, with M5 Pro and M5 Max chips, an OLED display, a touch screen, a Dynamic Island, and a thinner design. On this laptop, which will reportedly be named MacBook Ultra, macOS 27 is expected to offer a touch-friendly interface. While this rumor is far less certain, it has also been said that it might be possible to configure the MacBook Ultra with the M5 Ultra chip that debuted last month.\n\nHome\n\r\n\nApple TV: At least five new features, including an A17 Pro chip or newer, an increased 8GB of RAM for Apple Intelligence, Siri AI support, an Apple-designed N1 chip with Wi-Fi 7 support, and an updated Siri Remote. The new Apple TV will apparently look similar to the existing model, so do not expect any major design changes.\n\r\nHomePod mini: Newer chip with Siri AI support, improved sound quality, Apple's N1 chip with Wi-Fi 7 support, a second-generation Ultra Wideband chip, and potentially new color options like red. The new HomePod mini will apparently look similar to the existing model, so do not expect any major design changes.\n\r\nHome Hub: An all-new smart home hub featuring Siri AI, a 6-inch to 7-inch square display, an A18 chip or newer for Apple Intelligence, FaceTime, and more. A new operating system will feature clock faces, widgets, and more. There will a tabletop version with a speaker base and a wall-mounted version.\n\nHeadphones\n\nBeats 360: New over-ear Beats 360 headphones with an AirPods Max-like design, interchangeable ear cushions and headbands, up to 1.75× more noise cancellation than the Beats Studio Pro, IPX4-rated water resistance, and more. It is likely that Apple will announce the Beats 360 before the end of September.\n\nThis article, \"Apple Still Has 8 More Products to Announce Later This Year\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-09-11T18:14:58.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "Mac,iOS,Rumors,Silicon",
-    "id": 7235
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "HomeKit Weekly: Shelly’s Flood S Gen4 is a low cost Matter leak sensor for Apple Home",
-    "link": "https://9to5mac.com/2026/09/11/homekit-weekly-shellys-flood-s-gen4-is-a-low-cost-matter-leak-sensor-for-apple-home/",
-    "content": "Water damage is one of those problems where a single sensor can save you a major repair bill on your floors, cabinets, etc. Leak sensors have been among the best values in the smart home for years, and Shelly’s new Flood S Gen4 makes it even easier to get started. It’s under $30, Matter-certified, and works with Apple Home out of the box.\nmore…",
-    "pub_date": "2026-09-11T18:10:00.000Z",
-    "creator": "Bradley C",
-    "tags": "Rumors",
-    "id": 7238
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iOS 27.1 release date: Here’s when to expect the new iPhone update",
-    "link": "https://9to5mac.com/2026/09/11/ios-27-1-release-date-heres-when-to-expect-the-new-iphone-update/",
-    "content": "iOS 27 launches for all users next week, and will be followed not long after by the first iOS 27.1 beta and public launch. Here’s when to expect iOS 27.1’s arrival.\nmore…",
-    "pub_date": "2026-09-11T17:28:37.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 7239
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple hid a classic Mac easter egg in the iOS 27 Settings app",
-    "link": "https://9to5mac.com/2026/09/11/apple-hid-a-classic-mac-easter-egg-in-the-ios-27-settings-app/",
-    "content": "Many have complained that Apple design has been sapped of some of its trademark whimsy in recent years. Well, here’s the latest example of how the tides seem to be changing. \nBuried in the Settings app on iOS 27, Apple has hidden an easter egg that hails back from classic Mac OS; Clarus the Dogcow. Here’s how to trigger it …\nmore…",
-    "pub_date": "2026-09-11T17:23:24.000Z",
-    "creator": "Benjamin Mayo",
-    "tags": "Mac,iOS,App Store",
-    "id": 7240
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple sets cutoff time for getting faster iPhone 18 Pro pre-order",
-    "link": "https://9to5mac.com/2026/09/11/apple-sets-cutoff-time-for-getting-faster-iphone-18-pro-pre-order/",
-    "content": "iPhone 18 Pro pre-orders start tomorrow, and you can “Get Ready” by making your selections in advance via the online Apple Store. Here’s the deadline for when those decisions need to be locked in ahead of pre-orders opening.\nmore…",
-    "pub_date": "2026-09-11T17:05:08.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 7241
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Visual Intelligence ads may be coming to your iPhone with iOS 27",
-    "link": "https://www.cultofmac.com/news/visual-intelligence-ads-ios-27",
-    "content": "Search providers might slip sponsored results into Apple’s camera search tool, as a new leak points to Visual Intelligence ads in iOS 27.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-09-11T17:04:49.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,iOS,Rumors",
-    "id": 7257
-  },
-  {
-    "source_name": "Macworld",
-    "title": "That amazing iPhone Duo open animation has already come to the MacBook",
-    "link": "https://www.macworld.com/article/3233434/that-amazing-iphone-duo-open-animation-has-already-come-to-the-macbook.html",
-    "content": "Macworld\n\n\n\n\n\nYou can always count on Apple to do nice little touches that aren’t really that big of a deal, but they enhance the user experience. The latest example is with the iPhone Duo, where, if you open or close the phone, the screen does a perspecive blur animation to signify to the user that the active screens are switching.\nYou know, the iPhone Duo isn’t the only Apple product that opens up to a display. Wouldn’t it be cool if the same effect could happen on the MacBook? Now it can! Dhananjay Bhosale created Mac Duo, a free app that creates a similar effect whenever you close your MacBook.\n\n\nI built Mac Duo 🍊✨\nSame effect as iPhone Duo but for MacBook 😁\nPlus 4 new effects that bend, blur & disappear as you move the lid 🤯\n🔓 Fully open source\n🆓 Free to download\n🎉 Ridiculously fun\nYour hinge deserves this 😎👇https://t.co/joUvUqgVKp\nFeedback here-… pic.twitter.com/LcGT54M5T4\n— Dhananjay_Tech (@Dhananjay_Tech) September 10, 2026\n\n\n\n\n\nI installed Mac Duo and spent the past 10 minutes opening and closing my MacBook Pro’s lid just to watch the animation. It’s fun. It’s not useful–nothing wrong with that!\nMac Duo offers six different animations to suit your personality. If you install it, when you launch the app, you won’t be able to because the app is not notarized, so after you try to launch it you need to go into System Settings > Privacy & Security, scroll down to the Security section, and click Open Anyway in the notification.",
-    "pub_date": "2026-09-11T16:51:22.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS,App Store",
-    "id": 7256
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Tim Cook's cameo in the iPhone Duo launch was pure television drama",
-    "link": "https://appleinsider.com/articles/26/09/11/tim-cooks-cameo-in-the-iphone-duo-launch-was-pure-television-drama?utm_source=rss",
-    "content": "After all the seemingly obvious reports that Tim Cook would not be in the new iPhone launch video, there he was. He was there for a purpose, and he was there because yet again, only Apple could do this.\n\n\nTim Cook gets the Captain Kirk-like dramatic eye lighting for his cameo at the iPhone launch - image credit: Apple.\nThat's because while there  must be countless CEOs who insist on being the star of their corporate videos,  there aren't many with the public profile of Tim Cook. You could well argue that his making a cameo in the new iPhone veent was ego, but it felt as if it were more about the viewer than the man.\nAnd there were so many viewers. Within an hour of the presentation finishing, YouTube was showing that 26 million people had watched.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-09-11T16:36:23.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "iOS",
-    "id": 7253
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "iPhone Edge Light feature spotted in Apple’s own code",
-    "link": "https://www.cultofmac.com/news/iphone-edge-light-feature-ios-27-code",
-    "content": "An iPhone Edge Light feature surfaced in iOS 27 code, hinting that the Mac’s ring light trick could land on the foldable iPhone Duo too.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-09-11T16:33:49.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,iOS",
-    "id": 7258
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iPhone Duo Can Do Split View, But Not Like Your iPad",
-    "link": "https://www.macrumors.com/2026/09/11/iphone-duo-split-view-not-like-ipad/",
-    "content": "Apple's iPhone Duo is the first iPhone that can run two apps side by side, but anyone expecting the sort of freedom that Split View offers on iPad might want to temper their expectations.\r\n\r\n\r\nApple's iPhone Duo marketing materials talk up app pairs and side-by-side windows, but it doesn't mention anything about resizing them. There's a reason for that.\r\n\r\nIf you put two apps side by side on the iPhone Duo's 7.6-inch foldable display, you can't drag the divider between them to make one app take up more space than the other. It's a fixed 50/50 split, regardless.\r\n\r\nThat's likely to be a disappointment to anyone who's used Split View on the iPad. Indeed, iPad owners have been able to resize apps in Split View when in landscape mode ever since 2015 when iOS 9 introduced the feature.\r\n\r\nSo why does Apple not let you resize apps on the iPhone Duo? It's likely down to the device's display geometry. \r\n\r\n\r\nBoth the inner and outer displays share the same 1:1.4 aspect ratio, and each half of the inner display works out to roughly the same size and shape as the outer screen. So an even split gives each app a canvas it already has to support, with the divider sitting neatly on the fold. (The only exception to this, it seems, is when watching a TV show or movie above another app in portrait mode; based on Apple's promo videos, Apple TV content is shown in its proper aspect ratio and the lower app is allowed to rise above the fold.)\r\n\r\n If you were able to drag the boundary around, not only would it create a bunch of in-between sizes that wouldn't fit neatly on the outer screen, it would also be a nightmare for developers to build support into their iPhone apps. \r\n\r\nDespite the lack of resizing capability, the iPhone Duo's foldable screen still has a lot of benefits. It allows you to quickly swap between apps, open two windows of the same app, and have a conversation over Messages while looking at another app's content, in both landscape and portrait modes. You can also save pairs of apps to come back to later.\r\n\r\n\nUsing apps side-by-side on iPhone Duo.\nSo unfortunately, you can't change the app size when you use split view on the iPhone Duo. Only 1:1. \n画面分割した際のアプリサイズは変えられない仕様です🥲 pic.twitter.com/1K1peXeivK\n— g.O.R.i（ゴリミー管理人） (@planetofgori) September 10, 2026\n \n\r\nApple's first iPhone with a foldable display was always going to having a learning curve, especially for users coming from the iPad. With a starting price of $1,999, iPhone Duo pre-orders begin Friday, October 16, with availability starting Friday, October 23.\nRelated Roundup: iPhone Duo\nBuyer's Guide: iPhone Duo (Coming Soon)\nRelated Forum: iPhone\nThis article, \"iPhone Duo Can Do Split View, But Not Like Your iPad\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-09-11T16:26:27.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "iOS,App Store",
-    "id": 7236
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "The MacRumors Show: iPhone 18 Pro and iPhone Duo Announced!",
-    "link": "https://www.macrumors.com/2026/09/11/the-macrumors-show-iphone-duo/",
-    "content": "The wait is over; Apple has now announced the iPhone 18 Pro and its first foldable, the iPhone Duo. We talk through our reactions to the range of new products on this week's episode of The MacRumors Show.\r\n\r\nSubscribe to The MacRumors Show YouTube channel for more videos\n\r\nThe iPhone 18 Pro and iPhone 18 Pro Max gain a smaller Dynamic Island, new Glacier, Burgundy, and Black color options, and the 2nm A20 Pro chip, which delivers up to 40% faster sustained performance with help from a vapor chamber three times larger than before. The ‌iPhone 18 Pro‌ now matches the iPhone 17 Pro Max with up to 24 hours of typical use, according to Apple, while the Pro Max gets up to 30 hours in what the company calls its biggest generational battery life leap ever.\r\n\r\nvariable aperture from ƒ/1.48 to ƒ/4.0, new Pro Controls for manual aperture, shutter speed, and white balance, texture and grain controls in Photographic Styles, and Apple Reference Image, which signs photo data at capture to verify authenticity. Pricing starts at $1,199 and $1,299, $100 more than last year, while higher storage tiers rose by as much as $500, and pre-orders begin Saturday, September 12 ahead of a September 18 launch.\r\n\r\nApple Watch Series 12 and Ultra 4 introduce a new \"Health Sensing System\" that measures heart rate every five seconds and HRV as often as every five minutes, feeding a new daily Readiness score, and Apple claims it offers the most accurate heart rate sensing of any wearable. A new S11 chip with twice the RAM powers Audio Intelligence features including Sound Recognition, Live Rewind, which transcribes the last 15 seconds of speech, and Siri Recap, which summarizes conversation.\r\n\r\nceramic returns for the first time since the Series 5 in Pearl White and Night Blue, with cases that are slightly larger and heavier. The Apple Watch Series 12 starts at $399 for 42mm, while the 46mm model rose $20 to $449, titanium starts at $699, and ceramic starts at $899, with orders open now ahead of launch on September 18.\r\n\r\nAirPods 5 retain their open-ear design but gain Active Noise Cancellation as standard, with Apple claiming up to 50% more noise reduction than AirPods 4 with ANC, plus a new multiport acoustic architecture and next-generation Adaptive EQ. The $129 model offers over four hours of listening with ANC and 20 hours total with the case, while a $149 model adds stem volume control, up to five hours with ANC, and a wireless charging case. Both models are available to order now.\r\n\r\niPhone Duo is a book-style foldable with a 7.6-inch inner display and a 5.4-inch outer display that share the same aspect ratio, and Apple says it is the thinnest iPhone ever when unfolded. The inner screen has a nano-texture finish to reduce glare and crease visibility, while the device features a titanium frame, an IP68 rating, Touch ID in the side button, the A20 Pro chip, Apple's new C2 modem, MagSafe, and a dual-battery design rated for up to 44 hours of video playback on the outer display.\r\n\r\nFace ID, Action button or Telephoto camera. Apple Pencil support arrives later this year, limited to the USB-C ‌Apple Pencil‌. The ‌iPhone Duo‌ comes in Star White and Night Sky and starts at $1,999 with 256GB of storage, reaching $3,199 for 2TB, with pre-orders beginning October 16 ahead of an October 23 launch, shipping with iOS 27.1.\r\n\r\nAppleCare One Family, which covers every eligible device across up to six Family Sharing members in the U.S. for $49.99 per month. Alongside the new models, Apple raised prices on the iPhone 16, iPhone 17e, iPhone 17, and iPhone Air by $100 each to $799, $699, $899, and $1,099, respectively, and discontinued the ‌iPhone 17 Pro‌ and ‌iPhone 17 Pro‌ Max. Apple also revealed that it is extending free satellite access by another year for iPhone 14, iPhone 15, and ‌iPhone 16‌ users.\r\n\r\nThe MacRumors Show has its own YouTube channel, so make sure you're subscribed to keep up with new episodes and clips.\r\n\r\n\nSubscribe to The MacRumors Show YouTube channel!\n\n\r\n\r\nApple Podcasts, Spotify, Overcast, or other podcast apps. You can also copy our RSS feed directly into your player.\r\n\r\n\n\r\n\r\nprevious episode of The MacRumors Show, catch up to hear our discussion about what we expected from the event to see what we got right and wrong. \r\n\r\nMacRumors, often joined by interesting guests such as Michael Fisher, Kayci Lacob, Kevin Nether, John Gruber, Mark Gurman, Jon Prosser, Luke Miani, Matthew Cassinelli, Brian Tong, Quinn Nelson, Jared Nelson, Eli Hodapp, Mike Bell, Sara Dietschy, iJustine, Jon Rettinger, Andru Edwards, Arnold Kim, Ben Sullins, Marcus Kane, Christopher Lawley, Frank McShan, David Lewis, Tyler Stalman, Sam Kohl, Federico Viticci, Thomas Frank, Jonathan Morrison, Ross Young, Ian Zelbo, and Rene Ritchie.\r\n\r\n@MacRumorsShow, so be sure to give us a follow to keep up with the podcast. You can also email us at podcast@macrumors.com or head over to The MacRumors Show forum thread. Remember to rate and review the podcast, and let us know what subjects and guests you would like to see in the future.\nRelated Roundups: iPhone 18 Pro, iPhone Duo\nTag: The MacRumors Show\nBuyer's Guide: iPhone 18 Pro (Buy Now), iPhone Duo (Coming Soon)\nRelated Forum: iPhone\nThis article, \"The MacRumors Show: iPhone 18 Pro and iPhone Duo Announced!\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-09-11T16:04:50.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "iOS",
-    "id": 7184
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Four ways to achieve shallow depth of field without buying the iPhone 18 Pro",
-    "link": "https://9to5mac.com/2026/09/11/four-ways-to-achieve-shallow-depth-of-field-with-an-older-iphone/",
-    "content": "The variable aperture lens of the shiny new iPhone 18 Pro goes almost one stop wider than the fixed aperture lens in its predecessor: up from f/1.78 in the iPhone 17 Pro to f/1.48 (a smaller number is wider).\nIn principle, this will allow for slightly shallower depth of field, enabling greater separation between your subject and the background – although it’s a relatively small difference. But there are four ways to achieve shallow depth of field (DOF) with much older iPhones …\nmore…",
-    "pub_date": "2026-09-11T16:00:00.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "iOS",
-    "id": 7242
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Change these 3 hidden Apple TV settings and thank us later",
-    "link": "https://www.cultofmac.com/how-to/apple-tv-settings",
-    "content": "Apple’s set top box offers an excellent premium experience, but you’ll definitely want to change these three Apple TV settings first. \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-09-11T15:50:04.000Z",
-    "creator": "D. Griffin Jones",
-    "tags": "Mac",
-    "id": 7228
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Here’s why I left T-Mobile for an MVNO",
-    "link": "https://9to5mac.com/2026/09/11/heres-why-i-left-t-mobile-for-an-mvno/",
-    "content": "I had been a loyal T-Mobile customer since 2016, when the company introduced its T-Mobile ONE plan. I had a military discount the entire time I was with them, but even with that discount my bill eventually ballooned to $113 a month thanks to T-Mobile’s price hikes. I decided enough was enough, so I started looking for a cheaper alternative. Plus, with Apple’s iPhone 18 Pro costing at least $100 more this year, I thought cutting my cell phone bill might help soften the blow if I upgraded to a new device. And so, I sought out an MVNO.\nmore…",
-    "pub_date": "2026-09-11T15:44:16.000Z",
-    "creator": "Michael Bower",
-    "tags": "iOS",
-    "id": 7192
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple Watch heart rate accuracy vs. rivals: devil is in the details",
-    "link": "https://appleinsider.com/articles/26/09/11/apple-watch-heart-rate-accuracy-vs-rivals-devil-is-in-the-details?utm_source=rss",
-    "content": "Apple wasn't kidding when it claimed that the Apple Watch Series 12 has the best heart rate accuracy of all wearables, but the extensive study also shows just how close some key rivals are under certain test conditions.\n\n\nApple Watch Series 12 features improved health features - image credit: Apple.\nOther than the return of the popular ceramic casing, the Apple Watch Series 12's most significant update was in its improved health sensing system. Central to this is how the new Series 12 and the Apple Watch Ultra 4 monitor heart rate every five seconds.\nApple's Deidre Caldbeck, senior director of Apple Watch and health product marketing, said during the launch that the company had tested it against rivals. Now Apple has published the results of that test.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-09-11T15:35:44.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "iOS",
-    "id": 7206
   }
 ]
