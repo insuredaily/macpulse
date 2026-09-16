@@ -1,5 +1,25 @@
 [
   {
+    "source_name": "Cult of Mac",
+    "title": "M6 and M5 Ultra benchmark scores set the stage for powerful new Macs",
+    "link": "https://www.cultofmac.com/news/m6-m5-ultra-benchmark-scores-set-stage-powerful-new-macs",
+    "content": "Early Geekbench scores suggest Apple’s M6 and M5 Ultra chips will deliver big performance gains, with the entry-level M6 taking the single-core lead.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-09-16T04:55:20.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac,Silicon",
+    "id": 7628
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple explains how the iPhone 18 Pro’s new Reference Image camera mode works",
+    "link": "https://9to5mac.com/2026/09/15/apple-explains-how-the-iphone-18-pros-new-reference-image-camera-mode-works/",
+    "content": "A new post on Apple’s Security Research blog details the fascinating tech, architecture, and thinking behind the iPhone 18 Pro’s new Reference Image camera mode. Here are the details\nmore…",
+    "pub_date": "2026-09-16T02:25:19.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 7623
+  },
+  {
     "source_name": "9to5Mac",
     "title": "Slow Horses season 6 debuts on Apple TV",
     "link": "https://9to5mac.com/2026/09/15/slow-horses-season-6-debuts-on-apple-tv/",
@@ -783,7 +803,7 @@
     "source_name": "MacRumors",
     "title": "Moof! Apple Snuck a Dogcow Into iOS 27 - Here's How to Find It",
     "link": "https://www.macrumors.com/2026/09/15/apple-snuck-dogcow-into-ios-27-how-to-find/",
-    "content": "If you have installed iOS 27 on your iPhone or iPadOS 27 on your iPad (download it via Settings ➝ General ➝ Software Update), Apple left a fun little easter egg for you to discover. \r\n\r\n\r\nOpen the Settings app, then tap through to Appearance ➝ Liquid Glass. Scroll to the bottom of the \"Welcome to Apple Park\" sample images, and went you hit the last image, keep dragging up with your finger until the word \"Moof!\" appears in the search bar overlay and the image changes.\r\n\r\nSay hello to Clarus. A bitmap image of the famous dogcow was originally used to demonstrate page layout in the classic Mac OS, indicating to users which orientation the paper would be in when it was printed. The original glyph it was based on was created by Susan Kare for the Cairo dingbat font that came with the original Mac in 1984, but it became the official mascot of Apple's Developer Technical Support.\r\n\r\nhave been found in macOS over the years.\nRelated Roundups: iOS 27, iPadOS 27\nRelated Forum: iOS 27\nThis article, \"Moof! Apple Snuck a Dogcow Into iOS 27 - Here's How to Find It\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "content": "If you have installed iOS 27 on your iPhone or iPadOS 27 on your iPad (download it via Settings ➝ General ➝ Software Update), Apple left a fun little easter egg for you to discover. \r\n\r\n\r\nOpen the Settings app, then tap through to Appearance ➝ Liquid Glass. Scroll to the bottom of the \"Welcome to Apple Park\" sample images, and when you hit the last image, keep dragging up with your finger until the word \"Moof!\" appears in the search bar overlay and the image changes.\r\n\r\nSay hello to Clarus. A bitmap image of the famous dogcow was originally used to demonstrate page layout in the classic Mac OS, indicating to users which orientation the paper would be in when it was printed. The original glyph it was based on was created by Susan Kare for the Cairo dingbat font that came with the original Mac in 1984, but it became the official mascot of Apple's Developer Technical Support.\r\n\r\nhave been found in macOS over the years.\nRelated Roundups: iOS 27, iPadOS 27\nRelated Forum: iOS 27\nThis article, \"Moof! Apple Snuck a Dogcow Into iOS 27 - Here's How to Find It\" first appeared on MacRumors.com\nDiscuss this article in our forums",
     "pub_date": "2026-09-15T10:44:00.000Z",
     "creator": "Tim Hardwick",
     "tags": "Mac,iOS,App Store",
@@ -2978,25 +2998,5 @@
     "creator": "William Gallagher <wg@williamgallagher.com>",
     "tags": "iOS",
     "id": 7206
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Siri AI is coming: Here are three times it’s really impressed me so far",
-    "link": "https://9to5mac.com/2026/09/11/siri-ai-is-coming-here-are-three-times-its-really-impressed-me-so-far/",
-    "content": "Siri AI launches next week in iOS 27, and it’s a huge upgrade to Apple’s assistant. There are tons of ways Siri is new and improved, but here are three examples of times Siri has impressed me so far.\nmore…",
-    "pub_date": "2026-09-11T15:31:35.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 7193
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Deals: AirPods 5 from $64 w/ trade, AirPods Pro 3, Studio Display XDR $330 off, Ceramic Apple Watch, more",
-    "link": "https://9to5mac.com/2026/09/11/deals-airpods-5-airpods-pro-3-studio-display-series-12/",
-    "content": "Alongside the ongoing AirPods Pro 3 deal, pre-orders are flying on the new AirPods 5, Apple Watch Ultra 4, and Apple Watch Series 12 with some early discounts. We just detailed how to score the new AirTag from $20 each, and a solid $50 off Sharge’s impressive metal 300W smart display power bank. Check it all out below. \nmore…",
-    "pub_date": "2026-09-11T15:30:56.000Z",
-    "creator": "Justin Kahn",
-    "tags": "iOS",
-    "id": 7194
   }
 ]
