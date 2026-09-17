@@ -1,5 +1,35 @@
 [
   {
+    "source_name": "Cult of Mac",
+    "title": "iOS 27.2 beta 1: All the new features and changes",
+    "link": "https://www.cultofmac.com/news/ios-27-2-beta-features-changes",
+    "content": "Apple’s wasting no time and has already begun beta testing iOS 27.2. Take a look at what’s new in the first developer beta.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-09-17T04:36:39.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac,iOS,App Store",
+    "id": 7732
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple rolls out first Release Candidates for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1",
+    "link": "https://9to5mac.com/2026/09/16/apple-rolls-out-first-release-candidates-for-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
+    "content": "After releasing macOS 27.2 beta 1 earlier today, Apple is now rolling out the first RCs of macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1. Here are the details.\nmore…",
+    "pub_date": "2026-09-17T02:18:51.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac",
+    "id": 7723
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Photographer Tyler Stalman reviews the iPhone 18 Pro’s new camera with variable aperture",
+    "link": "https://9to5mac.com/2026/09/16/photographer-tyler-stalman-reviews-the-iphone-18-pros-new-camera-with-variable-aperture/",
+    "content": "Photographer Tyler Stalman is back with his annual iPhone camera review. Here’s what he had to say about the iPhone 18 Pro’s new variable aperture, photographic styles, Apple Reference Image, and more.\nmore…",
+    "pub_date": "2026-09-17T01:24:30.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 7724
+  },
+  {
     "source_name": "AppleInsider",
     "title": "New government liaison Tim Cook to dine with AI & world leaders",
     "link": "https://appleinsider.com/articles/26/09/17/new-government-liaison-tim-cook-to-dine-with-ai-government-leaders?utm_source=rss",
@@ -2968,35 +2998,5 @@
     "creator": "Tim Hardwick",
     "tags": "iOS",
     "id": 7394
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Gurman: 'iPhone Duo Max' With Bigger Display Likely in Apple's Plans",
-    "link": "https://www.macrumors.com/2026/09/14/iphone-duo-max-apple-product-roadmap/",
-    "content": "Bloomberg's Mark Gurman has suggested Apple will release an \"iPhone Duo Max\" in the coming years, highlighting why Apple chose the \"Duo\" moniker over other names.\r\n\r\n\r\nIn the months leading up to Apple's iPhone Duo unveiling, Gurman reported that employees within Apple had begun referring to the device as the \"iPhone Ultra,\" possibly having been influenced by media coverage of the device and leaker speculation. \r\n\r\nIn the end, however, Apple chose to go with a three-letter \"Duo\" suffix, which Gurman says matches Air and Pro, and leaves room for additional suffixes that wouldn't have worked with \"Ultra.\" \r\n\r\nPower On newsletter, Gurman foresees the company releasing an \"iPhone Duo Max\" in the future, which would likely feature a larger display, and perhaps even a \"Duo SE\" or \"Duo Mini,\" with stripped-down specs and a clamshell design, respectively.\r\n\r\nRelated Roundup: iPhone Duo\nTag: Mark Gurman\nBuyer's Guide: iPhone Duo (Coming Soon)\nRelated Forum: iPhone\nThis article, \"Gurman: 'iPhone Duo Max' With Bigger Display Likely in Apple's Plans\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-09-14T06:54:47.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "iOS",
-    "id": 7395
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Amazon slashes M5 MacBook Air to $1,199, 30-day low price",
-    "link": "https://appleinsider.com/articles/26/09/14/amazon-slashes-m5-macbook-air-to-1199-30-day-low-price?utm_source=rss",
-    "content": "Amazon's best MacBook Air deals deliver prices as low as $1,199 for M5 models, with discounts of up to $150 off.\n\n\nSave up to $150 on M5 MacBook Air models today - Image credit: Apple\nA 30-day low price is in effect on Apple's M5 13-inch MacBook Air in your choice of Silver or Midnight, bringing the cost down to $1,199. This standard configuration has a 10-core CPU, 8-core GPU, 16GB of memory, and 512GB of storage, but you can also save triple digits on higher-end retail models during Amazon's laptop sale.\nBuy M5 MacBook Air for $1,199\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-09-14T06:07:44.000Z",
-    "creator": "Christine McKee <christine@appleinsider.com>",
-    "tags": "Mac,Silicon",
-    "id": 7408
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple's Two Rumored Game Controllers Will 'Likely' Come From Beats",
-    "link": "https://www.macrumors.com/2026/09/13/apple-beats-game-controllers-rumor/",
-    "content": "Earlier this month, references to two unreleased Apple game controllers were allegedly spotted in macOS 26.7 beta code, and now Bloomberg's Mark Gurman has shared more details.\r\n\r\nPower On newsletter today, Gurman said the controllers have been in development for more than a year, are for the iPhone, and will likely have Beats branding. Acquired by Apple in 2014, Beats has expanded beyond headphones and now sells charging cables, iPhone cases, and more.\r\n\r\nRelated Roundup: macOS Golden Gate\nTags: Beats, Mark Gurman\nRelated Forum: macOS Golden Gate\nThis article, \"Apple's Two Rumored Game Controllers Will 'Likely' Come From Beats\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-09-14T03:06:30.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "Mac,iOS",
-    "id": 7387
   }
 ]
