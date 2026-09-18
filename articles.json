@@ -1,5 +1,65 @@
 [
   {
+    "source_name": "Cult of Mac",
+    "title": "iPhone 18 Pro turns up the charging speed and turns down the heat",
+    "link": "https://www.cultofmac.com/news/iphone-18-pro-turns-up-charging-speed-turns-down-heat",
+    "content": "Tests suggest the iPhone 18 Pro delivers faster charging and better cooling, reaching 100% in under an hour while running cooler under load.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-09-18T05:02:00.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac,iOS",
+    "id": 7830
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple CEO John Ternus Teases iPhone 18 Pro Launch Day",
+    "link": "https://www.macrumors.com/2026/09/17/john-ternus-teases-iphone-18-pro-launch/",
+    "content": "Apple Fifth Avenue in New York is ready for iPhone 18 Pro launch day.\r\n\r\nsaid Apple CEO John Ternus, who will likely be at the store for the launch tomorrow.\nRelated Roundup: iPhone 18 Pro\nTags: Apple Store, John Ternus\nBuyer's Guide: iPhone 18 Pro (Buy Now)\nRelated Forum: iPhone\nThis article, \"Apple CEO John Ternus Teases iPhone 18 Pro Launch Day\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-09-18T03:11:06.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "iOS",
+    "id": 7818
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "OpenAI won't get to see terms of settlement between Apple and SpaceXAI",
+    "link": "https://appleinsider.com/articles/26/09/18/openai-wont-get-to-see-terms-of-settlement-between-apple-and-spacexai?utm_source=rss",
+    "content": "Elon Musk filed to have Apple dismissed from the lawsuit he brought against it and OpenAI, and OpenAI demanded answers. The judge has denied OpenAI's request to reveal settlement terms.\n\n\nOpenAI won't get to see what convinced Elon Musk to let Apple leave lawsuit\nWhen Elon Musk's SpaceXAI sought to dismiss Apple from the ongoing lawsuit brought against it and OpenAI, it wasn't clear exactly what had transpired. In OpenAI's efforts to find out, it has been revealed that there was some kind of settlement reached between the companies.\nOpenAI asked that the settlement terms be revealed, but after Judge Pittman reviewed the settlement, he denied the request. The decision was first shared by 9to5Mac,  which said that if the settlement terms were relevant to the ongoing case with OpenAI, they could be shared, but they apparently are not.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-18T02:18:58.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "General",
+    "id": 7823
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "WebKit blog breaks down what’s new with Safari 27 for developers, including MCP support",
+    "link": "https://9to5mac.com/2026/09/17/webkit-blog-breaks-down-whats-new-with-safari-27-for-developers-including-mcp-support/",
+    "content": "Following the rollout of Apple’s 2027 system releases, the WebKit blog has now published an in-depth look at what’s new with Safari 27.0. Here are the details.\nmore…",
+    "pub_date": "2026-09-18T02:18:35.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 7819
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "WhatsApp starts rolling out new in-chat search button on iOS",
+    "link": "https://9to5mac.com/2026/09/17/whatsapp-starts-rolling-out-new-in-chat-search-button-on-ios/",
+    "content": "Following a few weeks of beta testing, WhatsApp is now rolling out its new in-chat search button to iPhone users. Here are the details.\nmore…",
+    "pub_date": "2026-09-18T01:41:34.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 7820
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Judge rejects OpenAI’s bid to see X’s confidential settlement with Apple in antitrust lawsuit",
+    "link": "https://9to5mac.com/2026/09/17/judge-rejects-openais-bid-to-see-xs-confidential-settlement-with-apple-in-antitrust-lawsuit/",
+    "content": "Judge Mark Pittman today rejected OpenAI’s request to obtain X and SpaceXAI’s confidential settlement agreement with Apple in their ongoing antitrust case. Here are the details.\nmore…",
+    "pub_date": "2026-09-18T01:14:35.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 7821
+  },
+  {
     "source_name": "9to5Mac",
     "title": "Report: Apple leads slowing true wireless stereo market as open-ear earbuds gain ground",
     "link": "https://9to5mac.com/2026/09/17/report-apple-leads-slowing-true-wireless-stereo-market-as-open-ear-earbuds-gain-ground/",
@@ -2938,65 +2998,5 @@
     "creator": "Andrew Orr <andreworr@appleinsider.com>",
     "tags": "App Store",
     "id": 7450
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Releases macOS Tahoe 26.7 and macOS Sequoia 15.8",
-    "link": "https://www.macrumors.com/2026/09/14/apple-releases-macos-tahoe-26-7/",
-    "content": "Alongside macOS Golden Gate, Apple today released new versions of macOS Tahoe and macOS Sequoia. ‌macOS Tahoe‌ 26.7 and macOS Sequoia 15.8 are available for users with older Macs or those who don't yet want to update to Golden Gate. \r\n\r\n\r\nThe updates can be downloaded through the Software Update section of the System Settings app. On Macs eligible to install ‌macOS Golden Gate‌, users will see both the ‌macOS Tahoe‌ 26.7 update and the new ‌macOS Golden Gate‌ update.\r\n\r\nRelated Roundup: macOS Tahoe\nRelated Forum: macOS Tahoe\nThis article, \"Apple Releases macOS Tahoe 26.7 and macOS Sequoia 15.8\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-09-14T17:40:04.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,App Store",
-    "id": 7416
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Releases iOS 27 and iPadOS 27 With Siri AI and Liquid Glass Update",
-    "link": "https://www.macrumors.com/2026/09/14/apple-releases-ios-27/",
-    "content": "Apple today released iOS 27 and iPadOS 27, the newest operating system updates for the iPhone and iPad. The software is available for free on all compatible devices, and can be downloaded over the air by going to Settings > General > Software Update.\r\n\r\n\r\nIt can take several minutes for the updates to propagate to all users due to high demand on launch day.\r\n\r\niOS 26, which includes the iPhone SE 2 and the iPhone 11 series and later. ‌iPadOS 27‌ is available on the 2nd-generation and later iPad Pro, 4th-generation and later iPad Air, 6th-generation and later iPad mini, and the A16 ‌iPad‌.\r\n\r\nSiri AI, the smarter and more capable version of ‌Siri‌. You may need to sign up to use ‌Siri‌ AI after updating, which you can do in the Settings app under the ‌Siri‌ section. Along with ‌Siri‌ AI and a dedicated ‌Siri‌ app, there are updates to the Liquid Glass design, and a long list of new Apple Intelligence features.\r\n\r\niPhone 16 models, all iPhone 17 models, and all iPhone 18 models. For ‌iPad‌, ‌Apple Intelligence‌ is available on M-series devices and the A17 Pro ‌iPad mini‌. There are no fees for ‌Siri‌ AI and other ‌Apple Intelligence‌ features yet, but Apple may start charging for higher usage in the future.\r\n\r\nApple's release notes for the update are below.\r\nSiri AI (All iPhone 16 models and later, iPhone 15 Pro, iPhone 15 Pro Max)\r\n\r\n- A more capable and conversational version of Siri is rolling out to users. It helps you find what you need and get more done, drawing on capabilities like personal context understanding, app actions, onscreen awareness, and access to broad world knowledge\r\n- New voice experience offers more expressive and natural-sounding voices, and lets you customize expressivity and pace to make Siri more personal to you using powerful on-device models on iPhone Air and iPhone 17 Pro models and later\r\n- Dedicated Siri app provides an easy way to revisit an existing conversation or kick off a new one, and privately syncs conversations across your Apple products with iCloud\r\n- Siri mode in Camera integrates Visual Intelligence into the Camera app, letting you ask questions and take action with what's in front of you, like splitting a bill or looking up nutritional info for a plate of food\r\n- Write with Siri enables you to generate a draft from scratch, edit what you've written, or get feedback from Siri virtually anywhere you type. In Messages & Mail, Siri personalizes your writing style based on your relationships, and uses unique phrases and punctuation that you've previously used in your conversations with those people\r\n\r\nApple Intelligence across apps (All iPhone 16 models and later, iPhone 15 Pro, iPhone 15 Pro Max)\r\n\r\nPhotos\r\n- Spatial Reframing lets you adjust the composition of a photo after it was taken by virtually changing the camera position\r\n- Extend tool intelligently expands images beyond their edges with realistic infill, so you can straighten horizons, change aspect ratios, or add more space around a subject\r\n- Clean Up supports removing even larger objects, with more realistic, high-quality results, and you can choose between Fast mode for small blemishes or High Quality for more intricate edits\r\n\r\nSafari\r\n- Organize by Topic uses Apple Intelligence to sort your tabs, analyzing webpages and automatically grouping similar tabs together\r\n- Notify Me can periodically check a webpage for updates, like price changes and item availability\r\n- Describe an Extension lets you create a custom extension using natural language to adjust your view of a website's content or formatting\r\n\r\n- All-new Image Playground uses a new generative model to make high-quality images in virtually any style, including photorealistic, lets you modify your images using touch and natural language, and lets you generate Lock Screen wallpapers and Contact Posters with personalized suggestions\r\n- Describe a Shortcut lets you use natural language to create a shortcut or refine an existing one\r\n\r\nHome\r\n- Summarized activity notifications combine related alerts across accessories into a single notification\r\n- Video descriptions for HomeKit Secure Video recordings summarize what's happening in a clip for eligible iCloud+ subscribers\r\n- Camera clip search lets you find specific moments from your HomeKit Secure Video cameras by searching in the Home app or Spotlight when on an eligible iCloud+ plan\r\n\r\n- Describe an event in Calendar lets you use natural language to create an event, and details like the time, location, invitees, and event title are filled in using Apple Intelligence\r\n- Suggestions in Mail help you take action based on the context of your emails, like getting directions to a restaurant you booked\r\n- Call Context in the Phone app understands when you're speaking to certain businesses and proactively surfaces relevant information from across your apps, like a confirmation code or a reservation number\r\n\r\nAccessibility\r\n- VoiceOver enhancements include more detailed and contextual image understanding for photos, charts, and screenshots, a conversational experience that lets you ask questions about your screen or surroundings, and a new way to get answers fast with an Action button integration\r\n- An enhanced Magnifier experience offers conversational visual assistance for users with low vision, with a high-contrast interface and natural language app controls for zooming and other Magnifier functions\r\n- A smarter Accessibility Reader uses intelligence to provide better text cleanup and formatting, images and tables, on-demand summaries, and translation\r\n- Voice Control flexible inputs help you navigate your device with just your voice by describing elements on screen in your own words, like \"tap the gear\" or \"tap the button in the top right\"\r\n\r\n- And more, including additional ways to create and modify Genmoji, automatic proofreading, and more accurate dictation using an on-device model on iPhone Air and iPhone 17 Pro models and later\r\n\r\nChild Safety\r\n\r\n- Improved setup experience for new child accounts lets parents choose the exact apps their kids can access when they set up an iPhone for their child\r\n- Ask to Browse gives parents the option to approve each new website before their child can view it\r\n- Expanded Communication Safety protections help intervene before children see gore or violent content in shared images and videos\r\n- Time Allowances help parents set boundaries around how long kids can use apps across Entertainment, Games, and Social Media apps, offering guidance based on expert research and tailored to each child's age\r\n- Schedules let parents choose which apps their kids can access at different points in their day and across weekdays and weekends\r\n- Redesigned Screen Time settings give parents at-a-glance information about how their kids use their devices, and controls to adjust access in just a few taps\r\n\r\nSystem Improvements\r\n\r\n- Liquid Glass refinements improve overall readability, and a new slider in Settings lets you personalize its appearance from ultra-clear to fully tinted\r\n- Faster performance in experiences across the system, including app launches, new photos loading in your Photos library, and AirDrop transfers\r\n- Improved search provides more relevant and comprehensive results in Spotlight, Photos, and Mail\r\n- Connectivity Assist enables more seamless transitions between Wi-Fi and cellular networks\r\n\r\n\r\n\r\niOS 27 roundup and our iPadOS 27 roundup.\nRelated Roundups: iOS 27, iPadOS 27\nTag: Siri\nRelated Forum: iOS 27\nThis article, \"Apple Releases iOS 27 and iPadOS 27 With Siri AI and Liquid Glass Update\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-09-14T17:39:00.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,App Store,Services",
-    "id": 7417
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple didn't forget about updating older operating systems",
-    "link": "https://appleinsider.com/articles/26/09/14/apple-didnt-forget-about-updating-older-operating-systems?utm_source=rss",
-    "content": "Apple is keeping older versions of iOS, macOS, and iPadOS going, with another round of updates as the OS 27 era kicks off.\n\n\nApple Releases iOS 26.7, iPadOS 26.7, and macOS updates\nEven with iOS 27 and Apple's other latest operating systems now rolling out, the company is continuing to support users who haven't upgraded. New updates for iOS 26, iPadOS 26, macOS Sequoia, and macOS Tahoe are now rolling out.\nThe release builds are as follows:\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-09-14T17:36:11.000Z",
-    "creator": "Amber Neely <amber@appleinsider.com>",
-    "tags": "Mac,iOS",
-    "id": 7451
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Today-only deal: Save $20 on this 100W Anker powerhouse charger",
-    "link": "https://www.macworld.com/article/3234832/today-only-deal-save-20-on-this-100w-anker-powerhouse-charger.html",
-    "content": "Macworld\n\n\n\n\n\n\t\t\nAnker 3-port charger\nView Deal\nIf you’re tired of hauling three separate bricks just to keep your laptop, phone, and earbuds alive, this deal makes life a lot simpler. This awesome 3-port Anker charger is on sale today only for $20 off, which means you’re only paying $50 for it.\nThe fantastic part about this charger is that you can use it for just about everything you need at once since it has three ports. Since it can ramp up to 100W of power across all ports, you can use this charger with a laptop, phone, and your earbuds all at once. If that’s not convenient, I don’t know what is.\nOther than the speeds, the coolest feature is that it comes with a built-in smart display on the front, something you won’t find in most chargers. That’s where you’ll get info about the total charging power delivered on each port, which is quite useful. The two USB-C ports can deliver up to 100W of power when used on their own, while the USB-A caps at 33W. When all ports are in use at the same time, the top C-port will cap at 80W, while the second one can hit 12W and the A-port 7.5W. Since the charger comes with smart power sensing, the numbers can change depending on the needs of each device you’re plugging in.\nThis charger will be a fantastic addition to any setup, and it will even be a great one to take with you when traveling because it’s quite small, measuring just 2.72 x 2.17 x 1.34 inches and featuring a foldable plug that won’t snag on anything.\nFor $50, this is an easy pick if you want an easy way to charge multiple devices simultaneously. Hurry up because this deal is only available today at Amazon.",
-    "pub_date": "2026-09-14T17:32:30.000Z",
-    "creator": "Macworld",
-    "tags": "General",
-    "id": 7468
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Releases iOS 26.7 With Security Fixes",
-    "link": "https://www.macrumors.com/2026/09/14/apple-releases-ios-26-7/",
-    "content": "Alongside iOS 27, Apple today released iOS 26.7, an update to the existing iOS 26 software. Users who check for new software will see iOS 26.7 as the default update, with ‌iOS 27‌ listed as an option at the bottom of the Software Update interface.\r\n\r\n\r\nAccording to Apple's release notes, iOS 26.7 includes security fixes, but it does not have any other features. \r\n\r\nApple will eventually show ‌iOS 27‌ as the main update for the iPhone, but that likely won't happen for a few weeks. Users who want to stay on ‌iOS 26‌ for the time being can do so by opting for iOS 26.7 instead of ‌iOS 27‌.  \r\n\r\nRelated Roundups: iOS 26, iPadOS 26\nRelated Forum: iOS 26\nThis article, \"Apple Releases iOS 26.7 With Security Fixes\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-09-14T17:32:03.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS",
-    "id": 7418
-  },
-  {
-    "source_name": "Macworld",
-    "title": "iOS 27 is out now bringing Siri AI, better performance, and lots of QOL features",
-    "link": "https://www.macworld.com/article/3172166/ios-27-beta-updates-features-release-date.html",
-    "content": "Macworld\n\n\n\n\n\nOn the first day of the WWDC developer conference, Apple released the first developer beta of its new operating system. This year, that means that the first release of iOS 27 outside Cupertino came on June 8, 2026.\nAfter almost exactly three months of beta releases, fixes, tweaks, and optimizations, iOS 27 is now widely available to everyone. If you have an iPhone 15 Pro or later, this is a must-have update because the new Siri AI is leaps and bounds above the old Siri. For everyone, this release improves performance and adds lots of quality-of-life features users have been asking for.\nUpdated September 14, 2026: iOS 27 is now available for everyone. You’ll need an iPhone 15 Pro or later to get Siri AI, but everyone gets a lot of performance optimizations and welcome features and settings.\niOS 27 release notes\nHere are Apple’s official release notes for iOS 27:\nApple Intelligence across apps (All iPhone 16 models and later, iPhone 15 Pro, iPhone 15 Pro Max)\nPhotos\n\nSpatial Reframing lets you adjust the composition of a photo after it was taken by virtually changing the camera position\nExtend tool intelligently expands images beyond their edges with realistic infill, so you can straighten horizons, change aspect ratios, or add more space around a subject\nClean Up supports removing even larger objects, with more realistic, high-quality results, and you can choose between Fast mode for small blemishes or High Quality for more intricate edits\nSafari\n\nOrganize by Topic uses Apple Intelligence to sort your tabs, analyzing webpages and automatically grouping similar tabs together\nNotify Me can periodically check a webpage for updates, like price changes and item availability\nDescribe an Extension lets you create a custom extension using natural language to adjust your view of a website’s content or formatting\nAll-new Image Playground uses a new generative model to make high-quality images in virtually any style, including photorealistic, lets you modify your images using touch and natural language, and lets you generate Lock Screen wallpapers and Contact Posters with personalized suggestions\nDescribe a Shortcut lets you use natural language to create a shortcut or refine an existing one\nHome\n\nSummarized activity notifications combine related alerts across accessories into a single notification\nVideo descriptions for Homekit Secure Video recordings summarize what’s happening in a clip for eligible iCloud+ subscribers\nCamera clip search lets you find specific moments from your HomeKit Secure Video cameras by searching in the Home appor Spotlight when on an eligible iCloud+ plan\nDescribe an event in Calendar lets you use natural language to create an event, and details like the time, location, invitees, and event title are filled in using Apple Intelligence\nSuggestions in Mail help you take action based on the context of your emails, like getting directions to a restaurant you booked\nCall Context in the Phone app understands when you’re speaking to certain businesses and proactively surfaces relevant information from across your apps, like a confirmation code or a reservation number\nAccessibility\n\nVoiceOver enhancements include more detailed and contextual image understanding for photos, charts, and screenshots, a conversational experience that lets you ask questions about your screen or surroundings, and a new way to get answers fast with an Action button integration\nAn enhanced Magnifier experience offers conversational visual assistance for users with low vision, with a high-contrast interface and natural language app controls for zooming and other Magnifier functions\nA smarter Accessibility Reader uses intelligence to provide better text cleanup and formatting, images and tables, on-demand summaries, and translation\nVoice Control flexible inputs help you navigate your device with just your voice by describing elements on screen in your own words, like “tap the gear” or “tap the button in the top right\nAnd more, including additional ways to create and modify Genmoji, automatic proofreading, and more accurate dictation using an on-device model on iPhone Air and iPhone 17 Pro models and later\nChild Safety\nImproved setup experience for new child accounts lets parents choose the exact apps their kids can access when they set up an iPhone for their child\nAsk to Browse gives parents the option to approve each new website before their child can view it\nExpanded Communication Safety protections help intervene before children see gore or violent content in shared images and videos\nTime Allowances help parents set boundaries around how long kids can use apps across Entertainment, Games, and Social Media apps, offering guidance based on expert research and tailored to each child’s age\nSchedules let parents choose which apps their kids can access at different points in their day and across weekdays and weekends\nRedesigned Screen Time settings give parents at-a-glance information about how their kids use their devices, and controls to adjust access in just a few taps\nSystem Improvements\nLiquid Glass refinements improve overall readability, and a new slider in Settings lets you personalize its appearance trom ultra-clear to fully tinted\nFaster performance in experiences across the system, including app launches, new photos loading in your Photos library, and AirDrop transfers\nImproved search provides more relevant and comprehensive results in Spotlight, Photos, and Mail\nConnectivity Assist enables more seamless transitions between Wi-Fi and cellular networks\nAnd more improvements across apps and experiences, including enhancements to iCloud Shared Albums in Photos, Custom EQ for AirPods, support for perimenopause and menopause in Cycle Tracking in the Health app, and independent volume settings for Alarms and Timers\niOS 27: How to install iOS 27\nTo install the iOS 27, follow these steps. Until the final version is out on September 14, you’ll have to be a beta tester to get the update :\nOpen Settings.\nTap General.\nTap Software Update.\nFollow the on-screen instructions\nIt can take a little while for the update to register, download, prepare, and install. Once it has installed and restarted, it is normal for your phone to be a little slower than usual, and battery life a little worse, for the first few days while background indexing and processing is performed.",
-    "pub_date": "2026-09-14T17:28:08.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,App Store,Services",
-    "id": 7063
   }
 ]
