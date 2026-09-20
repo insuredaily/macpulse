@@ -1,5 +1,25 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "Sunday Reboot: A power station and store hopes",
+    "link": "https://appleinsider.com/articles/26/09/20/sunday-reboot-a-power-station-and-store-hopes?utm_source=rss",
+    "content": "In this week's Sunday Reboot, a London Apple Store gives hope for the future of the company's mall locations.\n\n\nBattersea Power Station in London, UK. Apple's offices are in there. \nSunday Reboot is a weekly column covering some of the lighter stories within the Apple reality distortion field from the past seven days. All to get next week underway with a good first step.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-20T19:57:39.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "General",
+    "id": 7967
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Get a Visual Studio Pro lifetime license on sale for $30 (regularly $499.99)",
+    "link": "https://www.cultofmac.com/deals/microsoft-visual-studio-pro-2026-deal",
+    "content": "Get a full coding environment for building, testing, debugging and collaborating on projects with this Microsoft Visual Studio Pro 2026 deal.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-09-20T18:41:51.000Z",
+    "creator": "Cult of Mac Deals",
+    "tags": "Mac",
+    "id": 7974
+  },
+  {
     "source_name": "9to5Mac",
     "title": "Five ways that the new Siri AI is frustrating iPhone and Apple Watch users",
     "link": "https://9to5mac.com/2026/09/20/five-ways-that-the-new-siri-ai-is-frustrating-iphone-and-apple-watch-users/",
@@ -2978,25 +2998,5 @@
     "creator": "Zac Hall",
     "tags": "iOS,App Store",
     "id": 7569
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Why watchOS 27 removes the useful multitasking feature on Apple Watch",
-    "link": "https://9to5mac.com/2026/09/15/why-watchos-27-removes-the-useful-multitasking-feature-on-apple-watch/",
-    "content": "watchOS 27 removes a useful multitasking shortcut from Apple Watch. While we don’t know if it will make a return, we at least now know why the gesture was removed.\nmore…",
-    "pub_date": "2026-09-15T16:42:06.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS",
-    "id": 7570
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "M6 Chip Benchmark Surfaces Ahead of New Mac Mini Launch Next Week",
-    "link": "https://www.macrumors.com/2026/09/15/apple-m6-chip-benchmark/",
-    "content": "The first unverified benchmark result for Apple's new M6 chip surfaced in the Geekbench 7 database today, offering a look at the chip's performance gains. The new Mac mini will be Apple's first device to be equipped with the M6 chip, which is 2nm.\r\n\r\n\r\nHere is how the M6 chip scored:\r\n\r\nSingle-core CPU score: 4,071\n\r\nMulti-core CPU score: 22,783\n\r\n\r\nHere are the average M5 chip scores for comparison:\r\n\r\nSingle-core CPU score: 3,641\n\r\nMulti-core CPU score: 17,948\nIf this single Geekbench 7 result is accurate, the M6 chip has up to around 12% faster single-core CPU performance and up to around 27% faster multi-core CPU performance compared to the M5 chip. Note that the M6 chip is in the new Mac mini, while the M5 chip scores are based on the 14-inch MacBook Pro, but performance should be similar.\r\n\r\nApple said the M6 chip has the world's fastest single-threaded CPU performance, and its 4,071 single-core score indeed tops all other Macs and PCs in the Geekbench 7 database, including the M5 Max chip (3,731) and Qualcomm's Snapdragon X2 Elite Extreme (3,396). Up to 27% faster multi-core CPU performance is in line with Apple's claim of up to 1.2× faster multi-threaded performance, so all of Apple's advertised claims hold up.\r\n\r\nM5 Ultra: 52,516\n\r\nM3 Ultra: 39,059\n\r\nM5 Max: 35,119\n\r\nM5 Pro: 33,593\n\r\nM4 Max: 29,047\n\r\nM2 Ultra: 28,789\n\r\nM4 Pro: 24,894\n\r\nM3 Max: 24,649\n\r\nM1 Ultra: 23,328\n\r\nM6: 22,783\n\r\nM5: 17,948\n\r\nM2 Max: 17,387\n\r\nM3 Pro: 16,880\n\r\nM2 Pro: 16,725\n\r\nM4: 15,477\n\r\nM1 Max: 14,299\n\r\nM1 Pro: 13,914\n\r\nM3: 11,650\n\r\nM2: 9,809\n\r\nM1: 8,582\nBased on these scores, the M6 chip is more than 2.5× faster than Apple's original M1 chip.\r\n\r\nAs always, real-world performance varies.\r\n\r\nnew Mac Studio with M5 Max and M5 Ultra chips launch on Tuesday, September 22.\r\n\r\nRelated Roundup: Mac mini\nTags: Benchmarks, Geekbench\nBuyer's Guide: Mac Mini (Buy Now)\nRelated Forum: Mac mini\nThis article, \"M6 Chip Benchmark Surfaces Ahead of New Mac Mini Launch Next Week\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-09-15T16:38:39.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "Mac,Silicon",
-    "id": 7560
   }
 ]
