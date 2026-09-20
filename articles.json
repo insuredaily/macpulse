@@ -1,6 +1,16 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "iOS 27 makes your iPhone faster in these 30+ ways",
+    "link": "https://9to5mac.com/2026/09/19/ios-27-makes-your-iphone-faster-in-30-ways-heres-the-full-list/",
+    "content": "iOS 27 is now available to everyone, and one of the big changes is that it makes your iPhone a lot faster. In fact, Apple has outlined more than 30 ways in which your iPhone will be faster after you update.\nmore…",
+    "pub_date": "2026-09-20T00:16:46.000Z",
+    "creator": "Chance Miller",
+    "tags": "iOS",
+    "id": 7944
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Apple Watch Series 12 and Ultra 4 missing one health-focused feature",
     "link": "https://9to5mac.com/2026/09/19/apple-watch-series-12-ultra-4-missing-one-health-feature/",
     "content": "Well, this is odd. The handwashing timer feature is currently absent from the new Apple Watch Series 12 and Ultra 4 hardware.\nmore…",
@@ -2988,15 +2998,5 @@
     "creator": "Joe Rossignol",
     "tags": "General",
     "id": 7562
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "AirPods 5 with wireless charging case review: Somehow both better & cheaper",
-    "link": "https://appleinsider.com/articles/26/09/15/airpods-5-with-wireless-charging-case-review-somehow-both-better-cheaper?utm_source=rss",
-    "content": "The impressive AirPods 5 debuted alongside the iPhone 18 Pro, and they pack more value and better noise cancellation in the same tiny form factor, for less money.\n\n\nAirPods 5 review: The new AirPods 5 have the same form factor but better ANC\nLike AirPods 4, the AirPods 5 come in two versions: base model and a high-end model with additional features.\nFor this review, I'm testing the more expensive AirPods 5 with the wireless charging case. Luckily, audio quality and the active noise cancellation are identical between both models.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-09-15T15:31:41.000Z",
-    "creator": "Andrew O'Hara <andrew@appleinsider.com>",
-    "tags": "iOS",
-    "id": 7584
   }
 ]
