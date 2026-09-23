@@ -1,5 +1,65 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Watch the trailer for Apple TV’s ‘Where’s Wanda?’ season 2",
+    "link": "https://9to5mac.com/2026/09/23/watch-the-trailer-for-apple-tvs-wheres-wanda-season-2/",
+    "content": "Apple TV today released the trailer for the second season of “Where’s Wanda?,” a German-language dark comedy returning to the service on October 21. Watch it below.\nmore…",
+    "pub_date": "2026-09-23T22:11:54.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 8258
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "You Can Now Try Apple's Unreleased Copland OS in Your Browser",
+    "link": "https://www.macrumors.com/2026/09/23/apple-copland-os-demo/",
+    "content": "In the mid–1990s, Apple worked on an operating system called Copland, which was announced but never commercially released because of project management issues and feature creep. Parts of Copland were eventually included in Mac OS 7.6 and Mac OS 8, but it was so problematic as a whole that Apple nixed it before it was finished.\r\n\r\n\r\nMichael Steil, who works to reverse engineer vintage hardware and software, was recently able to get Copland running in emulation. He modified the open-source Power Mac emulator DingusPPC, and he said it took 11 patches to get Copland up and running. He has a browser version of Copland you can try on his website, and shared the patches needed to boot Copland.\r\n\r\nDuring Copland's development, Apple released three beta versions. The last beta was D11E4, which is what Steil got to work. He said Copland is \"notoriously hard to run on real hardware,\" and wasn't previously available in emulation.\r\n\r\nThis article, \"You Can Now Try Apple's Unreleased Copland OS in Your Browser\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-09-23T21:27:08.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac",
+    "id": 8257
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "MacWhisper update brings real-time meeting transcripts, improved speaker recognition, more",
+    "link": "https://9to5mac.com/2026/09/23/macwhisper-update-brings-real-time-meeting-transcripts-improved-speaker-recognition-more/",
+    "content": "My transcription tool of choice on the Mac, MacWhisper, got another major update today with real-time meeting transcripts, significantly improved speaker recognition, tighter integration with Apple Intelligence, and a new transcription model. Here are the details.\nmore…",
+    "pub_date": "2026-09-23T21:17:11.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac",
+    "id": 8259
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple Podcasts will soon let creators offer exclusive videos to subscribers",
+    "link": "https://9to5mac.com/2026/09/23/apple-podcasts-will-soon-let-creators-offer-exclusive-videos-to-subscribers/",
+    "content": "Apple announced this week that creators will soon be able to offer video through Apple Podcasts Subscriptions, “including subscriber-exclusive episodes, ad-free video, early access, and bonus content.” Here are the details.\nmore…",
+    "pub_date": "2026-09-23T20:46:39.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 8260
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "New Apple Watch models could restart randomly, & watchOS 27.0.1 fixes that bug",
+    "link": "https://appleinsider.com/articles/26/09/23/new-apple-watch-models-could-restart-randomly-watchos-2701-fixes-that-bug?utm_source=rss",
+    "content": "Apple's watchOS 27.0.1 update has arrived with a fix that prevents Apple Watch Ultra 4 and Apple Watch Series 12 models from randomly restarting.\n\n\nNew Apple Watch models could encounter restarts during use\nOn Wednesday, just over a week after watchOS 27.0 reached the general public, Apple deployed the watchOS 27.0.1 update. The software addresses a bug that caused the Apple Watch Series 12 and Apple Watch Ultra 4 to restart unexpectedly.\nThose who encountered the now-resolved issue said their Apple Watch rebooted while editing watch faces, making calls, using Siri AI, opening Apple Maps or the App Store, and recording workouts. Some Apple Watch owners have even said their devices restarted when idle.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-23T20:34:49.000Z",
+    "creator": "Marko Zivkovic <marko@appleinsider.com>",
+    "tags": "iOS,App Store",
+    "id": 8261
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Releases watchOS 27.0.1 With Fix for Restart Bug",
+    "link": "https://www.macrumors.com/2026/09/23/watchos-27-0-1-release/",
+    "content": "Apple today released watchOS 27.0.1, a minor update to the watchOS 27 operating system that came out last week. The update is limited to the Apple Watch Series 12 and Apple Watch Ultra 4.\r\n\r\n\r\nwatchOS 27.0.1 can be downloaded through the Settings app on the watch or the Apple Watch app on a connected iPhone. Software can only be installed when the Apple Watch is on the charger and has over 50 percent battery.\r\n\r\nRelated Roundups: watchOS 26, watchOS 27\nRelated Forum: Apple Watch\nThis article, \"Apple Releases watchOS 27.0.1 With Fix for Restart Bug\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-09-23T20:10:03.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,App Store",
+    "id": 8235
+  },
+  {
     "source_name": "MacRumors",
     "title": "iOS 27.0.1 is Coming Soon",
     "link": "https://www.macrumors.com/2026/09/23/ios-27-0-1-is-coming-soon/",
@@ -18,16 +78,6 @@
     "creator": "Chance Miller",
     "tags": "iOS",
     "id": 8240
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Releases watchOS 27.0.1 With Fix for Restart Bug",
-    "link": "https://www.macrumors.com/2026/09/23/watchos-27-0-1-release/",
-    "content": "Apple today released watchOS 27.0.1, a minor update to the watchOS 27 operating system that came out last week. The update is limited to the Apple Watch Series 12 and Apple Watch Ultra 4.\r\n\r\n\r\nwatchOS 27.0.1 can be downloaded through the Settings app on the watch or the Apple Watch app on a connected iPhone. Software can only be installed when the Apple Watch is on the charger and has over 50 percent battery.\r\n\r\nRelated Roundups: watchOS 26, watchOS 27\nRelated Forum: Apple Watch\nThis article, \"Apple Releases watchOS 27.0.1 With Fix for Restart Bug\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-09-23T19:44:49.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,App Store",
-    "id": 8235
   },
   {
     "source_name": "MacRumors",
@@ -543,7 +593,7 @@
     "source_name": "MacRumors",
     "title": "Apple Intelligence Taking Up 30GB+ on Some Macs Running macOS 27",
     "link": "https://www.macrumors.com/2026/09/23/apple-intelligence-30gb-some-macs-macos-27/",
-    "content": "After you install macOS 27 Golden Gate, Apple automatically downloads a multi-gigabyte AI model to your Mac the next time it's connected to the internet. Unlike previous versions of macOS, you can't prevent it. Siri AI, and by extension Apple Intelligence, are now a mandatory part of your system.\r\n\r\n\r\nFor macOS 27 Golden Gate, Apple says the latest Apple Intelligence features require up to 14GB of on-device storage on Macs with an M3 chip or later and at least 12GB of unified memory, and up to 8GB of storage for other Apple Intelligence-enabled Macs. But in our experience, AI model storage allocation appears to be considerably higher on some Macs than others.\r\n\r\nMacRumors saw 20.67GB handed over for Apple Intelligence, according to the Storage section in System Settings. ArsTechnica recorded an even higher figure of 22.42GB on an M3 MacBook Air after a fresh installation of macOS 27.0 beta 7. Both of these systems will be using Apple's AFM 3 Core Advanced on-device model, which requires an M3-or-newer Mac with 12GB or more of RAM.\r\n\r\nArsTechnica reported the same screen showed around 14GB on an M1 MacBook Air and a MacBook Neo, and yet both of these models fall into a category for which Apple lists a requirement of up to 8GB.\r\n\r\nshared a screenshot from the macOS 27 Release Candidate showing Apple Intelligence gobbled up 30.16GB on their machine. Another user quoted 24.35GB for Apple Intelligence after installing macOS 27 on a MacBook Pro with M3 Pro chip.\r\n\r\n\r\n  \n\r\n    Device\r\nApple Intelligence storage\r\n\r\n  \n\r\n    iPhone 18 Pro, iPhone 18 Pro Max, iPhone Duo\r\nUp to 14GB \r\n\r\n  \n\r\n    iPhone 17 Pro, iPhone 17 Pro Max, iPhone Air\r\nUp to 14GB\r\n\r\n  \n\r\n    Other compatible iPhones: iPhone 15 Pro and Pro Max, all iPhone 16 models, iPhone 17, and iPhone 17e\r\nUp to 8GB\r\n\r\n  \n\r\n    iPad with M4 or later and at least 12GB of unified memory; Mac with M3 or later and at least 12GB of unified memory; Apple Vision Pro (M5)\r\nUp to 14GB\r\n\r\n  \n\r\n    Other compatible iPad, Mac, and Apple Vision Pro models\r\nUp to 8GB\r\n\r\n  \n\r\n    Compatible Apple Watch models\r\nUp to 1.5GB on the watch\r\n\r\n  \n\r\n    iPhone 15 and 15 Plus, iPhone 14 and earlier, and iPhone SE\r\nNot supported\r\n\r\n\r\n\nFigures taken from Apple's support document\n\r\nApple's support document does not explain whether its \"up to 14GB\" requirement is directly comparable with the Apple Intelligence \"Storage\" category in System Settings, or why some Macs display substantially higher numbers. (For what it's worth, we haven't seen the same ballooning figures on iPhones and iPads running iOS 27 and iPadOS 27.)\r\n\r\nbecause of AI, the irony of this situation cannot be lost. But it doesn't make it any less frustrating.\r\n\r\nSystem Settings ➝ General ➝ Storage by clicking the information button beside macOS. Let us know your findings in the comments.\nTag: Apple Intelligence\nThis article, \"Apple Intelligence Taking Up 30GB+ on Some Macs Running macOS 27\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "content": "After you install macOS 27 Golden Gate, Apple automatically downloads a multi-gigabyte AI model to your Mac the next time it's connected to the internet. Unlike previous versions of macOS, you can't prevent it. Siri AI, and by extension Apple Intelligence, are now a mandatory part of your system.\r\n\r\n\r\nFor macOS 27 Golden Gate, Apple says the latest Apple Intelligence features require up to 14GB of on-device storage on Macs with an M3 chip or later and at least 12GB of unified memory, and up to 8GB of storage for other Apple Intelligence-enabled Macs. But in our experience, AI model storage allocation appears to be considerably higher on some Macs than others.\r\n\r\nMacRumors saw 20.67GB handed over for Apple Intelligence, according to the Storage section in System Settings. ArsTechnica recorded an even higher figure of 22.42GB on an M3 MacBook Air after a fresh installation of macOS 27.0 beta 7. Both of these systems will be using Apple's AFM 3 Core Advanced on-device model, which requires an M3-or-newer Mac with 12GB or more of RAM.\r\n\r\nArsTechnica reported the same screen showed around 14GB on an M1 MacBook Air and a MacBook Neo, and yet both of these models fall into a category for which Apple lists a requirement of up to 8GB.\r\n\r\nshared a screenshot from the macOS 27 Release Candidate showing Apple Intelligence gobbled up 30.16GB on their machine. Another user quoted 24.35GB for Apple Intelligence after installing macOS 27 on a MacBook Pro with M3 Pro chip.\r\n\r\n\r\n  \n\r\n    Device\r\nApple Intelligence storage\r\n\r\n  \n\r\n    iPhone 18 Pro, iPhone 18 Pro Max, iPhone Duo\r\nUp to 14GB \r\n\r\n  \n\r\n    iPhone 17 Pro, iPhone 17 Pro Max, iPhone Air\r\nUp to 14GB\r\n\r\n  \n\r\n    Other compatible iPhones: iPhone 15 Pro and Pro Max, all iPhone 16 models, iPhone 17, and iPhone 17e\r\nUp to 8GB\r\n\r\n  \n\r\n    iPad with M4 or later and at least 12GB of unified memory; Mac with M3 or later and at least 12GB of unified memory; Apple Vision Pro (M5)\r\nUp to 14GB\r\n\r\n  \n\r\n    Other compatible iPad, Mac, and Apple Vision Pro models\r\nUp to 8GB\r\n\r\n  \n\r\n    Compatible Apple Watch models\r\nUp to 1.5GB on the watch\r\n\r\n  \n\r\n    iPhone 15 and 15 Plus, iPhone 14 and earlier, and iPhone SE\r\nNot supported\r\n\r\n\r\n\nFigures taken from Apple's support document\n\r\nApple's support document does not explain whether its \"up to 14GB\" requirement is directly comparable with the Apple Intelligence \"Storage\" category in System Settings, or why some Macs display substantially higher numbers. (For what it's worth, we haven't seen the same ballooning figures on iPhones and iPads running iOS 27 and iPadOS 27.)\r\n\r\nbecause of AI, the irony of this situation cannot be lost. It doesn't make it any less frustrating, though.\r\n\r\nSystem Settings ➝ General ➝ Storage by clicking the information button beside macOS. Let us know your findings in the comments.\nTag: Apple Intelligence\nThis article, \"Apple Intelligence Taking Up 30GB+ on Some Macs Running macOS 27\" first appeared on MacRumors.com\nDiscuss this article in our forums",
     "pub_date": "2026-09-23T10:30:15.000Z",
     "creator": "Tim Hardwick",
     "tags": "Mac,iOS,Vision,Silicon",
@@ -1531,9 +1581,9 @@
   },
   {
     "source_name": "9to5Mac",
-    "title": "iCloud storage notification glitch puts unremovable red badge on Settings app ",
+    "title": "iCloud storage notification glitch puts unremovable red badge on Settings app [U: Fixed]",
     "link": "https://9to5mac.com/2026/09/22/icloud-storage-notification-glitch-puts-unremovable-red-badge-on-settings-app/",
-    "content": "There’s an annoying little iPhone notification glitch impacting some users on iOS 27. For those affected, the Settings app gets a red badge prompting an alert to ‘Activate iCloud Storage’. \nHowever, tapping on this alert simply navigates to the iCloud storage purchase screen and the alert does not go away after dismissing it. This glitched notification appears even when the user has plenty of available iCloud storage already, like if they are on a 2 TB family Apple One plan.\nmore…",
+    "content": "Update, September 23: Apple says this has been fixed for all users. Original story below.\nThere’s an annoying little iPhone notification glitch impacting some users on iOS 27. For those affected, the Settings app gets a red badge prompting an alert to ‘Activate iCloud Storage’.\nHowever, tapping on this alert simply navigates to the iCloud storage purchase screen and the alert does not go away after dismissing it. This glitched notification appears even when the user has plenty of available iCloud storage already, like if they are on a 2 TB family Apple One plan.\nmore…",
     "pub_date": "2026-09-22T07:40:50.000Z",
     "creator": "Benjamin Mayo",
     "tags": "iOS,App Store,Services",
@@ -2948,55 +2998,5 @@
     "creator": "Wesley Hilliard <wes@appleinsider.com>",
     "tags": "iOS",
     "id": 7905
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "iPhone 18 Pro, Apple Watch Series 12 and AirPods 5 hit stores",
-    "link": "https://www.cultofmac.com/news/iphone-18-pro-apple-watch-series-12-airpods-5-hit-stores",
-    "content": "iPhone 18 Pro, Apple Watch Series 12, Apple Watch Ultra 4 and AirPods 5 hit stores today, with Apple fans queuing up around the world.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-09-18T19:12:53.000Z",
-    "creator": "Rajesh Pandey",
-    "tags": "Mac,iOS",
-    "id": 7888
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple Intelligence has 20+ brand new features in iOS 27, here’s the full list",
-    "link": "https://9to5mac.com/2026/09/18/apple-intelligence-has-20-brand-new-features-in-ios-27-heres-the-full-list/",
-    "content": "iOS 27 is here, and many of its new features are powered by the next generation of Apple Intelligence. Here are 20+ new Apple Intelligence features in iOS 27.\nmore…",
-    "pub_date": "2026-09-18T18:56:01.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 7900
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Developers finally get Xcode tools to prepare apps for iPhone Duo",
-    "link": "https://appleinsider.com/articles/26/09/18/developers-finally-get-xcode-tools-to-prepare-apps-for-iphone-duo?utm_source=rss",
-    "content": "Apple has opened the starting gate for iPhone Duo app development, but that means developers have a single month to finish the race.\n\n\nXcode 27.1 beta adds iPhone Duo development tools\nOn Friday, Apple released the first Xcode 27.1 beta, giving developers the tools they need to prepare for iPhone Duo. They now have roughly one month to test their apps across the foldable iPhone's many possible layouts.\nXcode 27.1 includes Swift 6.4 and SDKs for iOS 27.1, iPadOS 27.1, and Apple's other operating systems. It also adds tools specifically intended to help developers see how their apps behave on iPhone Duo.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-09-18T18:46:22.000Z",
-    "creator": "Amber Neely <amber@appleinsider.com>",
-    "tags": "iOS,App Store",
-    "id": 7906
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "HomeKit Weekly: Homey’s new Device Updates feature shows what Matter was supposed to be all along",
-    "link": "https://9to5mac.com/2026/09/18/homeys-new-device-updates-feature-shows-what-matter-was-supposed-to-be-all-along/",
-    "content": "Firmware updates have been the weakest link for a decade with smart homes. Every sensor, light bulb, and smart lock in your house runs software that should be updated regularly. This is on top of even if they have software updates. Homey just announced a fix for a big piece of that, and the way it handles Matter devices is the part that Apple Home users should take note of.\nmore…",
-    "pub_date": "2026-09-18T18:33:00.000Z",
-    "creator": "Bradley C",
-    "tags": "General",
-    "id": 7901
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "A US NAND factory could reshape storage supply, but not yet for Apple",
-    "link": "https://appleinsider.com/articles/26/09/18/a-us-nand-factory-could-reshape-storage-supply-but-not-yet-for-apple?utm_source=rss",
-    "content": "SK Hynix-owned Solidigm is considering a U.S. factory for the storage chips used in phones, computers, and data centers, a move that would reduce its dependence on China as Washington pressures foreign chipmakers to manufacture in America.\n\niPhone repair\nUpstate New York has emerged as the leading candidate, Reuters reported Friday, citing three people familiar with the discussions. No agreement has been reached, and the location, investment, capacity, and construction schedule remain undecided.\nSolidigm said it regularly evaluates options to improve its long-term competitiveness but hasn't chosen a course of action. SK Hynix similarly confirmed that it is reviewing options without committing to the factory.\nThe proposed project would be separate from SK Hynix's discussions about producing memory chips at Intel's planned Ohio facility.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-09-18T18:19:27.000Z",
-    "creator": "Andrew Orr <andreworr@appleinsider.com>",
-    "tags": "iOS",
-    "id": 7907
   }
 ]
