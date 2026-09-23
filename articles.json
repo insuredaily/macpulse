@@ -1,6 +1,86 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Apple Pay just got even better with four new features and more",
+    "link": "https://9to5mac.com/2026/09/22/apple-pay-is-getting-even-better-with-four-new-features/",
+    "content": "Apple Pay is a go-to feature for iPhone users when shopping in stores, online, and in apps. Apple recently announced four new features that make Apple Pay even better. Here’s how they work, plus one major expansion that’s rolling out now. \nmore…",
+    "pub_date": "2026-09-22T23:57:57.000Z",
+    "creator": "Chance Miller",
+    "tags": "iOS,Services",
+    "id": 8177
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "U.S. government urges Supreme Court to reverse Apple contempt ruling over App Store commission",
+    "link": "https://9to5mac.com/2026/09/22/u-s-government-urges-supreme-court-to-reverse-apple-contempt-ruling-over-app-store-commission/",
+    "content": "Several legal and business groups, in addition to the U.S. government, filed briefs with the Supreme Court this week in the Apple vs. Epic Games lawsuit, urging the justices to reverse at least part of the contempt ruling against Apple. Here are the details.\nmore…",
+    "pub_date": "2026-09-22T23:43:00.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "App Store",
+    "id": 8178
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Releases First Public Betas of iOS 27.2 and macOS Golden Gate 27.2",
+    "link": "https://www.macrumors.com/2026/09/22/apple-releases-ios-27-2-public-beta/",
+    "content": "Apple today seeded the first betas of iOS 27.2, iPadOS 27.2, macOS Golden Gate 27.2, tvOS 27.2, and watchOS 27.2. The software comes a day after Apple provided the second betas to developers.\r\n\r\n\r\nTo get the new betas, you can sign up on Apple's beta testing website. After you're signed up, the betas can be installed through the Software Update section in the Settings app on each device.\r\n\r\niOS 27.2 includes the redesigned Health app that Apple introduced at its September iPhone event. It features new Insights and Longevity tabs with more insight into health and fitness data. There's also a Health Age feature that uses your metrics to determine your fitness age vs. your actual age.\r\n\r\nApple TV app, there are new profile options, and Siri AI is now available in French, Japanese, Korean, Portuguese, and Spanish.\r\n\r\nlisted in our iOS 27.2 guide.\nRelated Roundups: iOS 27, iPadOS 27, macOS Golden Gate\nRelated Forums: iOS 27, macOS Golden Gate\nThis article, \"Apple Releases First Public Betas of iOS 27.2 and macOS Golden Gate 27.2\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-09-22T23:32:52.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS,App Store",
+    "id": 8176
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple releases first iOS 27.2 public beta with new iPhone Health app",
+    "link": "https://9to5mac.com/2026/09/22/apple-releases-first-ios-27-2-public-beta-with-new-iphone-health-app/",
+    "content": "Six days ago, Apple released iOS 27.2 developer beta 1, skipping over iOS 27.1 beta. Following yesterday’s developer beta 2 release, Apple has now issued the first iOS 27.2 public beta version, with the new iPhone Health app included. Apple has also turned on the ability to schedule and purchase labs through Quest Diagnostics from the new Health app in iOS 27.2 beta.\nmore…",
+    "pub_date": "2026-09-22T23:06:29.000Z",
+    "creator": "Zac Hall",
+    "tags": "iOS,App Store",
+    "id": 8179
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple rolls out second RCs for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1 [U: Public]",
+    "link": "https://9to5mac.com/2026/09/22/apple-rolls-out-second-release-candidates-for-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
+    "content": "Update September 22, 7:04 p.m.: Apple has now rolled out the corresponding public Release Candidates, with the same builds as the second developer RCs.\nLess than a week after releasing macOS 26.7.1 and macOS 15.8.1 RC 1, Apple is now rolling out the second release candidates ahead of their official release. Here are the details.\nmore…",
+    "pub_date": "2026-09-22T23:05:25.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac,App Store",
+    "id": 8180
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple releases macOS 27.2 Golden Gate public beta 1",
+    "link": "https://9to5mac.com/2026/09/22/apple-releases-macos-27-2-golden-gate-public-beta-1/",
+    "content": "After releasing the second developer beta for macOS 27.2 Golden Gate yesterday, Apple is now rolling out the public beta as well. Here are the details.\nmore…",
+    "pub_date": "2026-09-22T23:01:35.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac,App Store",
+    "id": 8181
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "macOS 27 gives you more control over Liquid Glass",
+    "link": "https://9to5mac.com/2026/09/22/macos-27-gives-you-more-control-over-liquid-glass/",
+    "content": "9to5Mac is brought to you by CleanMyMac by MacPaw. With the release of macOS 27 Golden Gate, use CleanMyMac first to free up space, optimize your system, and ensure your new Mac runs at 100% on day one. Learn more.\nmacOS 27 Golden Gate is a huge upgrade over macOS 26 Tahoe, and not just because of the smarter design decisions. Just like iOS 27 for iPhone, the Mac adds a Liquid Glass appearance slider. This lets you dramatically change the look of your Mac across the system.\nmore…",
+    "pub_date": "2026-09-22T22:47:12.000Z",
+    "creator": "Zac Hall",
+    "tags": "Mac,iOS",
+    "id": 8182
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple expands Tap to Pay on iPhone to eight more Latin American countries",
+    "link": "https://appleinsider.com/articles/26/09/22/apple-expands-tap-to-pay-on-iphone-to-eight-more-latin-american-countries?utm_source=rss",
+    "content": "Apple has expanded Tap to Pay on iPhone to eight additional countries in Latin America, allowing businesses to accept contactless payments without dedicated payment terminals.\n\n\nThe expansion brings Apple's payment acceptance feature to Argentina, Colombia, Costa Rica, the Dominican Republic, Guatemala, Honduras, Panama, and Peru. It gives businesses a way to accept cards, Apple Pay, and other contactless wallets using only a compatible iPhone and supported app.\nTap to Pay on iPhone works with the iPhone XS and newer running the latest version of iOS. Customers can hold a contactless debit or credit card, iPhone, Apple Watch, or another supported digital wallet near the merchant's iPhone to complete a payment over NFC.\nAccording to a post on Apple's Latin American site, first spotted by 9to5Mac, Apple is launching the feature via several payment platforms across eight countries, although availability varies. The initial rollout includes:\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-22T22:19:23.000Z",
+    "creator": "Lou Hartle <news@appleinsider.com>",
+    "tags": "iOS,App Store,Services",
+    "id": 8183
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Apple expands Tap to Pay on iPhone across eight Latin American markets",
     "link": "https://9to5mac.com/2026/09/22/apple-expands-tap-to-pay-on-iphone-across-eight-latin-american-markets/",
     "content": "Apple today announced that Tap to Pay on iPhone is now available in eight additional Latin American countries, with support from six payment platforms across the region. Here are the details.\nmore…",
@@ -2918,85 +2998,5 @@
     "creator": "Tim Hardwick",
     "tags": "iOS,App Store",
     "id": 7843
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Replace your app subscriptions with this set of 27 lifetime licenses bundled together for $30",
-    "link": "https://www.macworld.com/article/3236187/replace-your-app-subscriptions-with-this-set-of-27-lifetime-licenses-bundled-together-for-30.html",
-    "content": "Macworld\n\n\n\n\n\nTL;DR: Get 27 native Mac apps with lifetime licenses in one bundle for $29.99 (reg. $390).\nBuying Mac utilities one at a time, or renting them through monthly subscriptions, is laughably expensive. It’s also not your only option. This Mac Bundle collects 27 native macOS apps for everything from productivity and file cleanup to development, design, and media, all under lifetime licenses on sale for $29.99 (reg. $390).\nYou might already be paying a monthly fee for tasks some of these apps do for a one-time fee.\nWhen your Mac slows down, MemoryBooster frees inactive memory to bring the speed back. AllClips saves your clipboard history, so a link you copied this morning is still one click away in the afternoon. RenameMe cleans up a cluttered folder by batch-renaming files with a live preview before you commit anything.\nDevelopers get their own toolkit, from Regex Wizard for testing expressions to JSON Wizard for editing data and CodeCounter for measuring a project’s size. Designers can pull color palettes out of any image with Color Hound, batch-process photos in PhotoFoundry, and manage fonts in Specimen. Secure file deletion, automatic sorting, and QR code generation round out the rest.\nEvery app runs natively on macOS and includes free updates through its next major version, so you’re not paying again down the road.\nGet the 27-App Lifetime Mac Bundle on sale for $29.99.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nThe 27-App Lifetime Mac BundleSee Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-09-18T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,App Store",
-    "id": 7882
-  },
-  {
-    "source_name": "Macworld",
-    "title": "A new e-degree shows you how to use Claude to automate your job, just $20 right now",
-    "link": "https://www.macworld.com/article/3236190/a-new-e-degree-shows-you-how-to-use-claude-to-automate-your-job-just-20-right-now.html",
-    "content": "Macworld\n\n\n\n\n\nTL;DR: Learn to automate real work with Claude through this Claude AI e-degree, now only $19.99 (reg. $159).\nMost people are not using AI to its full potential. One of the most useful things AI can do is automate basic tasks, but learning how to do that is tough. If you want help, the Claude AI Professional E-Degree takes you from the basics through to advanced skills like automation, and lifetime access is on sale for $19.99 (reg. $159).\nFour modules take you from prompting fundamentals up to advanced automation across 100-plus lectures and more than 8 hours of video. You start with prompt engineering and context management, then move into agentic coding with debugging and VS Code integration. From there, the courses connect Claude to Gmail, Google Drive, Calendar, and Chrome through MCP connectors, so you can automate the repetitive tasks that eat your day. Cowork plugins and sub-agents round out the automation side.\nFive hands-on projects put all these new skills to work on marketing workflows, AI-powered websites, automation systems, and virtual assistants, so you finish with working examples instead of theory. Every project mirrors work a freelancer or professional would actually get paid for. You’ll also get access to quizzes to reinforce each lesson, and you earn a professional certificate once you complete the program.\nTurn Claude into an automated workflow engine instead of another chatbot.\nGet the Claude AI Professional E-Degree on sale for $19.99.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nClaude AI Professional E-DegreeSee Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-09-18T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "General",
-    "id": 7883
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "iPhone 18 Pro turns up the charging speed and turns down the heat",
-    "link": "https://www.cultofmac.com/news/iphone-18-pro-turns-up-charging-speed-turns-down-heat",
-    "content": "Tests suggest the iPhone 18 Pro delivers faster charging and better cooling, reaching 100% in under an hour while running cooler under load.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-09-18T05:02:00.000Z",
-    "creator": "Rajesh Pandey",
-    "tags": "Mac,iOS",
-    "id": 7830
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple CEO John Ternus Teases iPhone 18 Pro Launch Day",
-    "link": "https://www.macrumors.com/2026/09/17/john-ternus-teases-iphone-18-pro-launch/",
-    "content": "Apple Fifth Avenue in New York is ready for iPhone 18 Pro launch day.\r\n\r\nsaid Apple CEO John Ternus, who will likely be at the store for the launch tomorrow.\nRelated Roundup: iPhone 18 Pro\nTags: Apple Store, John Ternus\nBuyer's Guide: iPhone 18 Pro (Buy Now)\nRelated Forum: iPhone\nThis article, \"Apple CEO John Ternus Teases iPhone 18 Pro Launch Day\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-09-18T03:11:06.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "iOS",
-    "id": 7818
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "OpenAI won't get to see terms of settlement between Apple and SpaceXAI",
-    "link": "https://appleinsider.com/articles/26/09/18/openai-wont-get-to-see-terms-of-settlement-between-apple-and-spacexai?utm_source=rss",
-    "content": "Elon Musk filed to have Apple dismissed from the lawsuit he brought against it and OpenAI, and OpenAI demanded answers. The judge has denied OpenAI's request to reveal settlement terms.\n\n\nOpenAI won't get to see what convinced Elon Musk to let Apple leave lawsuit\nWhen Elon Musk's SpaceXAI sought to dismiss Apple from the ongoing lawsuit brought against it and OpenAI, it wasn't clear exactly what had transpired. In OpenAI's efforts to find out, it has been revealed that there was some kind of settlement reached between the companies.\nOpenAI asked that the settlement terms be revealed, but after Judge Pittman reviewed the settlement, he denied the request. The decision was first shared by 9to5Mac,  which said that if the settlement terms were relevant to the ongoing case with OpenAI, they could be shared, but they apparently are not.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-09-18T02:18:58.000Z",
-    "creator": "Wesley Hilliard <wes@appleinsider.com>",
-    "tags": "General",
-    "id": 7823
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "WebKit blog breaks down what’s new with Safari 27 for developers, including MCP support",
-    "link": "https://9to5mac.com/2026/09/17/webkit-blog-breaks-down-whats-new-with-safari-27-for-developers-including-mcp-support/",
-    "content": "Following the rollout of Apple’s 2027 system releases, the WebKit blog has now published an in-depth look at what’s new with Safari 27.0. Here are the details.\nmore…",
-    "pub_date": "2026-09-18T02:18:35.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 7819
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "WhatsApp starts rolling out new in-chat search button on iOS",
-    "link": "https://9to5mac.com/2026/09/17/whatsapp-starts-rolling-out-new-in-chat-search-button-on-ios/",
-    "content": "Following a few weeks of beta testing, WhatsApp is now rolling out its new in-chat search button to iPhone users. Here are the details.\nmore…",
-    "pub_date": "2026-09-18T01:41:34.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "iOS",
-    "id": 7820
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Judge rejects OpenAI’s bid to see X’s confidential settlement with Apple in antitrust lawsuit",
-    "link": "https://9to5mac.com/2026/09/17/judge-rejects-openais-bid-to-see-xs-confidential-settlement-with-apple-in-antitrust-lawsuit/",
-    "content": "Judge Mark Pittman today rejected OpenAI’s request to obtain X and SpaceXAI’s confidential settlement agreement with Apple in their ongoing antitrust case. Here are the details.\nmore…",
-    "pub_date": "2026-09-18T01:14:35.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 7821
   }
 ]
