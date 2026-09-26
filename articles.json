@@ -1,6 +1,46 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "OpenAI accuses Apple of improperly adding new evidence to trade secrets case",
+    "link": "https://9to5mac.com/2026/09/25/openai-accuses-apple-of-improperly-adding-new-evidence-to-trade-secrets-case/",
+    "content": "OpenAI and the other defendants in Apple’s trade secret misappropriation lawsuit made a new filing, asking the court to strike two expert declarations and disregard other evidence Apple recently submitted. Here are the details.\nmore…",
+    "pub_date": "2026-09-26T01:14:20.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 8422
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "macOS 27 adds new Apple Intelligence features to your favorite apps",
+    "link": "https://9to5mac.com/2026/09/25/macos-27-adds-new-apple-intelligence-features-to-your-favorite-apps/",
+    "content": "9to5Mac is brought to you by CleanMyMac by MacPaw. With the release of macOS 27 Golden Gate, use CleanMyMac first to free up space, optimize your system, and ensure your new Mac runs at 100% on day one. Learn more.\nApple has released macOS 27 Golden Gate to the public after several months of beta testing. The update is headlined by Siri AI, but there are also Apple Intelligence enhancements to many of Apple’s own Mac apps. Here are a few of my favorites.\nmore…",
+    "pub_date": "2026-09-25T23:24:55.000Z",
+    "creator": "Chance Miller",
+    "tags": "Mac",
+    "id": 8423
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple’s dimensional drawings offer a fascinating look at its product designs",
+    "link": "https://9to5mac.com/2026/09/25/apples-dimensional-drawings-offer-a-fascinating-look-at-its-product-designs/",
+    "content": "Not everyone knows this (and I won’t even pretend that I did), but Apple publishes remarkably detailed dimensional drawings for dozens of its devices to help accessory makers design products around them. Here are the details.\nmore…",
+    "pub_date": "2026-09-25T23:07:09.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 8424
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "TestFlight now works in landscape as Apple prepares for iPhone Duo",
+    "link": "https://9to5mac.com/2026/09/25/testflight-now-works-in-landscape-as-apple-prepares-for-iphone-duo/",
+    "content": "Apple updated TestFlight this week with support for landscape orientation, and for macOS 27 Golden Gate’s new resizable iPhone Mirroring window. Here are the details.\nmore…",
+    "pub_date": "2026-09-25T22:19:53.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac,iOS",
+    "id": 8425
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Apple faces class action over Apple Pay fees charged to card issuers",
     "link": "https://9to5mac.com/2026/09/25/apple-faces-class-action-over-apple-pay-fees-charged-to-card-issuers/",
     "content": "U.S. District Judge Jeffrey S. White has certified a class-action lawsuit accusing Apple of charging payment card issuers inflated fees for Apple Pay transactions. Here are the details.\nmore…",
@@ -2958,45 +2998,5 @@
     "creator": "Rajesh Pandey",
     "tags": "Mac,iOS",
     "id": 8082
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "watchOS 27.2 beta 2 brings the App Switcher back with a new gesture",
-    "link": "https://9to5mac.com/2026/09/21/watchos-27-2-beta-2-brings-the-app-switcher-back-with-a-new-gesture/",
-    "content": "If you’ve been missing the double-click of the Digital Crown that used to bring up the App Switcher on the Apple Watch before watchOS 27, it looks like the feature is making a comeback as of watchOS 27.2 beta 2. Here are the details.\nmore…",
-    "pub_date": "2026-09-22T02:07:14.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "iOS,App Store",
-    "id": 8067
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple challenges OpenAI’s forensic analysis in trade secrets case, seeks access to hardware R&D",
-    "link": "https://9to5mac.com/2026/09/21/apple-challenges-openais-forensic-analysis-in-trade-secrets-case-seeks-access-to-hardware-rd/",
-    "content": "Apple has asked the court overseeing its lawsuit against OpenAI and other defendants to let its own experts review forensic images used in the case, while also seeking documents related to parts of OpenAI’s hardware R&D. Here are the details.\nmore…",
-    "pub_date": "2026-09-22T01:37:18.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 8068
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Here’s what’s really going on with GM’s CarPlay strategy (or lack thereof)",
-    "link": "https://9to5mac.com/2026/09/21/heres-whats-really-going-on-with-gms-carplay-strategy-or-lack-thereof/",
-    "content": "Despite headlines to the contrary, GM isn’t changing its position on CarPlay and Android Auto support. The automaker is not bringing phone projection support back to any cars from which it has already been removed. Here’s what’s really happening. \nmore…",
-    "pub_date": "2026-09-21T23:18:47.000Z",
-    "creator": "Chance Miller",
-    "tags": "General",
-    "id": 8069
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple CEO John Ternus Talks iPhone Duo Design, Siri AI, and Becoming CEO",
-    "link": "https://www.macrumors.com/2026/09/21/john-ternus-interview-iphone-duo/",
-    "content": "Apple CEO John Ternus did an interview with Canal+ talk show Clique following Apple's September event. He discussed the iPhone Duo's design, difficulties Apple ran into when developing it, his plans for Apple, and more.\r\n\r\n\n\r\nOn the design of the ‌iPhone Duo‌, Ternus explained why Apple went with an iPad-like shape when the device is unfolded.\r\nI think it's something new and unique, right? But I think we didn't want to just do what we'd seen other people do, which is sort of take two phone shapes and stick them together and then you get this weird square thing. We came at it from we want to build a large screen experience that feels right to us. And obviously we've been doing that for a long time with iPad. And so we knew kind of the shape, you know, we came up with this new aspect ratio.\n\r\nTernus said that when developing the ‌iPhone Duo‌, there were \"so many problems\" to solve, but a foldable was an opportunity for Apple employees to \"be really clever\" and \"come up with entirely new things.\" He said some of the hardware engineering problems Apple had to address involved the design of the hinge and the display, and making them reliable.\r\n\r\nWhen asked to share his favorite ‌iPhone Duo‌ trick, Ternus showed off the device's opening animation. \"I mean, this is really fun, you know, the animation that you get as you open it across from one side to the other. It's just sort of whimsical and fun. And it brings a smile to your face.\"\r\n\r\nSiri AI is \"not designed to be your friend,\" which is something we heard earlier this year from Craig Federighi. Ternus said Apple doesn't want to replace human relationships. \"They're how we learn, they're how we grow, they're how we find joy and happiness,\" he said.\r\n\r\nTim Cook and Apple's board asked Ternus if he wanted to be the next Apple CEO. Ternus didn't say when he was approached, but he said the question came as a surprise. \"When Tim asked me if it was something I would consider, I would say the good news is I was sitting down, because I never in a million years would have imagined that happening,\" said Ternus.\r\n\r\nAs Apple's CEO, Ternus said he doesn't have plans for a radical change. He was asked if Apple was going back to its roots under his leadership, with more of a focus on engineering products.\r\nI don't think anything's really changed. Sure, I'm new in this job, but the focus on innovation, the focus on products, the focus most importantly on our customers, that has never changed. That's been here from the beginning.\r\n\r\n\r\nTernus said it was \"amazing\" to be able to say \"one more thing\" on stage at Apple's September event. \"I've seen Steve say it, and I've seen Tim say it,\" he said. \"And so having the opportunity for me to say it was pretty magical. Kind of goosebumps.\"\r\n\r\nfull interview includes Ternus' thoughts on ‌Tim Cook‌, the AI race, Apple's environmental goals, the Vision Pro, the new parental controls added in iOS 27, and more.\nRelated Roundup: iPhone Duo\nTags: John Ternus, Siri\nBuyer's Guide: iPhone Duo (Coming Soon)\nRelated Forum: iPhone\nThis article, \"Apple CEO John Ternus Talks iPhone Duo Design, Siri AI, and Becoming CEO\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-09-21T23:12:27.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,Vision",
-    "id": 8066
   }
 ]
