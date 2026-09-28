@@ -1,5 +1,55 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Anker’s 25W MagSafe 3-in-1 packs active cooling in a travel-sized design [Hands-on]",
+    "link": "https://9to5mac.com/2026/09/27/anker-magsafe-travel-sized-3-in-1-charger-qi2/",
+    "content": "If you’re rocking an iPhone 16 or newer, you might be interested in a Qi2.2 charger to take full advantage of the 25W MagSafe charging speeds that your phone can support. Anker’s new 25W Prime MagSafe 3-in-1 is one of many great options, and it comes in an excellent portable design.\nmore…",
+    "pub_date": "2026-09-28T00:16:20.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS",
+    "id": 8460
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iOS 27 makes a great change to Apple Pay on iPhone",
+    "link": "https://9to5mac.com/2026/09/27/ios-27-makes-it-easier-to-switch-between-apple-pay-cards/",
+    "content": "Apple has redesigned the Apple Pay checkout flow in iOS 27 for apps and websites. The changes make it easier to switch between different payment cards and see key details about the order you’re placing.\nmore…",
+    "pub_date": "2026-09-27T23:46:10.000Z",
+    "creator": "Chance Miller",
+    "tags": "iOS,Services",
+    "id": 8461
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Here’s what I’d like to see Apple do right in a screenless fitness tracker",
+    "link": "https://9to5mac.com/2026/09/27/apple-rumored-screenless-fitness-tracker-whoop-competitor/",
+    "content": "Last week, Bloomberg reported that Apple is working on a screenless fitness tracker, akin to a WHOOP or Fitbit Air. As someone who’s used the WHOOP for the past 6 months, I do think its a great concept, though there are a few things I’d like to see Apple do better.\nmore…",
+    "pub_date": "2026-09-27T23:01:18.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "Rumors",
+    "id": 8462
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "This is my top feature request for the upcoming A20 Pro iPad mini",
+    "link": "https://9to5mac.com/2026/09/27/apple-next-ipad-mini-feature-request/",
+    "content": "For the past year, we’ve been looking forward to a new iPad mini refresh, and it’s sounding like its just around the corner. A new leak last week from Aaron Perris unveiled that the product should feature an A20 Pro chip and thinner bezels, and we already know it’ll feature OLED and a water resistant design.\nWhile those upgrades are excellent, I have one major thing I want from the next iPad mini, and it has to do with software.\nmore…",
+    "pub_date": "2026-09-27T21:38:44.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS,Rumors",
+    "id": 8463
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Sunday Reboot: Big Whoop and more Apple Watch nagging",
+    "link": "https://appleinsider.com/articles/26/09/27/sunday-reboot-big-whoop-and-more-apple-watch-nagging?utm_source=rss",
+    "content": "In this week's Sunday Reboot, the Apple Watch is better for your health, but maybe the rumored screen-free wearable could be better for your peace of mind.\n\n\nApple Watch now has a Readiness score. \nSunday Reboot is a weekly column covering some of the lighter stories within the Apple reality distortion field from the past seven days. All to get next week underway with a good first step.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-09-27T20:32:03.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS",
+    "id": 8464
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Amazon slashes $900 off Apple's M5 Max MacBook Pro, lowest price ever",
     "link": "https://appleinsider.com/articles/26/09/27/amazon-slashes-900-off-apples-m5-max-macbook-pro-lowest-price-ever?utm_source=rss",
@@ -2948,55 +2998,5 @@
     "creator": "William Gallagher <wg@williamgallagher.com>",
     "tags": "iOS,Rumors",
     "id": 8141
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Today in Apple history: iPhone 6 sells record 10 million units at launch",
-    "link": "https://www.cultofmac.com/apple-history/iphone-6-launch-record-sales",
-    "content": "On September 22, 2014, Apple notched a new iPhone launch sales record with iPhone 6 and iPhone 6 Plus, selling a massive 10 million devices.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-09-22T14:23:40.000Z",
-    "creator": "Luke Dormehl",
-    "tags": "Mac,iOS",
-    "id": 8116
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple Wallet driver’s licenses coming to three new states soon",
-    "link": "https://9to5mac.com/2026/09/22/apple-wallet-drivers-licenses-coming-to-three-new-states-soon/",
-    "content": "Apple Wallet driver’s licenses recently launched in Virginia and Oklahoma, but three more states are expected to follow soon, bringing us close to 20 US states on board.\nmore…",
-    "pub_date": "2026-09-22T14:03:53.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "General",
-    "id": 8090
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Beats 360 vs AirPods Max 2: Premium personal audio compared",
-    "link": "https://appleinsider.com/inside/airpods-max/vs/beats-360-vs-airpods-max-2-premium-personal-audio-compared?utm_source=rss",
-    "content": "The Beats 360 are Apple's alternative to the AirPods Max 2 for anyone in the market for premium headphones. Here's how the two personal audio options compare.\n\n\nBeats 360 vs AirPods Max 2: The two headphones are solidly matched, with different audiences\nThe Beats 360 arrived on September 22 as a pair of premium headphones, taking over the top spot in the range from the Beats Studio Pro.\nIt's a departure from the existing Beats design in many ways that brings it more in line with AirPods Max 2. All while maintaining a philosophy aimed more at people who wear headphones to work out than for audiophiles.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-09-22T14:01:13.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "General",
-    "id": 8101
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Beats 360 Deliver Customizability and a Revamped Over-Ear Headphone Design",
-    "link": "https://www.macrumors.com/2026/09/22/beats-360-headphone-launch/",
-    "content": "After months of teases and leaks, Beats is officially announcing its new Beats 360 headphone today. Priced at $349.99, Beats 360 represents a rethinking of the Beats over-ear headphone design, with an emphasis on sound quality, comfort, and customizability.\r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\nBeats 360 is not a replacement for the brand's Studio Pro over-ear headphone, as the Studio Pro will remain part of the Beats lineup at a reduced price point of $299.99, down from the previous $349.99. Compared to Studio Pro, Beats 360 features a completely new acoustic architecture that delivers up to 1.75× more active noise cancellation and a 12dB increase in output while maintaining clarity across all frequencies with low distortion.\r\n\r\nIn addition to active noise cancellation (ANC), which utilizes a system of eight microphones to analyze the acoustic environment inside and outside the headphone, Beats 360 also support Transparency mode to still allow you to hear the world around you, while turning off ANC and Transparency activates Adaptive EQ to continually tune acoustic performance.\r\n\r\n\n\r\nPersonalized Spatial Audio with dynamic head tracking is also supported, allowing users to take full advantage of Apple's platforms that deliver 360-degree Dolby Atmos sound and move within the sound field as they turn their heads.\n\"Beats didn't just participate in the rise of over-ear headphones—we helped define the category,\" said Oliver Schusser, Apple's vice president of Music, Sports, and Beats. \"Beats 360 is the next chapter of that story. We combined our most advanced acoustic performance ever with a perfectly balanced design that moves effortlessly with you. And with our new interchangeable cushions, our customers can express themselves in a way no other over-ear headphone can.\"\nBeats 360 is available in four color options: Black, Cloud (an off-white), Pink, and Sky (a light blue). It includes comfortable color-matched Perfomance Knit ear and headband cushions, but the cushions are removable and interchangeable, allowing you to customize your favorite look and even change color combinations to suit the moment. Separate Performance Knit cushion kits are available in all four of the standard colors, plus Volt (a neon yellow-green) and Navy.\r\n\r\n\r\nThe Performance Knit memory foam cushions are breathable and ideal for working out and other active uses, but for the times you might prefer a more traditional cushion style, Beats is also introducing UltraPlush cushion kits in Black and Ivory. Similar to the ones found on Studio Pro and Solo 4, Beats 360 UltraPlush cushions feature a more pillowy feel with memory foam wrapped in engineered leather. Sensors in Beats 360 identify whether you are using Performance Knit or UltraPlush cushions, and they automatically adjust the acoustic tuning and noise cancellation filtering to maintain a consistent listening experience regardless of cushion material.\r\n\r\nBeats 360 in dozens of color combinations\n\r\nCushion kits for both Performance Knit and UltraPlush will be priced at $49.99, but for a limited time and in select markets (US, UK, Canada, Australia, France, China, and South Korea), Beats is offering a launch promo that drops cushion kit pricing to just $9.99 or the rough equivalent in the local currency. Swapping out cushions is as simple as a quick twist on each ear cushion to remove and install, while the headband cushion snaps off and on with a small amount of effort while remaining securely attached during use.\r\n\r\nBeats 360 in Sky\n\r\nFor active users, Beats 360 is the first Beats over-ear headphone product to feature an IPX4 sweat and water resistance rating, meaning it is protected against liquid ingress.\r\n\r\nBeats 360 in Sky with Navy cushions\n\r\nThe removable cushions also make it easy to clean them, a welcome feature for those who plan to use Beats 360 for workouts. Beats recommends mixing one teaspoon (5ml) of laundry detergent into one cup (250ml) of water, rubbing the solution onto each cushion with a lint-free cloth for one minute each, wiping them clean with a separate cloth dampened with fresh water, and drying them with another lint-free cloth.\r\n\r\n\n\r\nWhile over-ear and on-ear headphones have generally required thick headbands in order to accommodate multiple cables to connect the two ear cups, Beats 360 actually consists of two independent wireless earphones, with each containing its own battery, antenna and processing circuitry.\r\n\r\nAs a result, the headband houses only a single power cable to connect the two sides, allowing the batteries in both sides to be charged simultaneously from a single USB-C port. The thin headband also helps to optimize weight distribution, so while Beats 360 and Studio Pro are similar in weight at a little under 300 grams, Beats 360 puts more of the mass into the cushions where it matters most for comfort.\r\n\r\nSiri\" support is also included.\r\n\r\n\r\nWhen it comes to battery life, Beats 360 deliver 32 hours of playback with ANC on, with a five-minute Fast Fuel charge giving you an hour of playback time in a pinch.\r\n\r\niCloud pairing and switching, Audio Sharing to allow a friend with compatible AirPods or Beats to listen to your audio, and Find My support. Android users get many of the same features with one-touch and ecosystem pairing, Audio Switch, and Find Hub geolocation.\r\n\r\nUnlike the Beats Studio Pro, Beats 360 headband does not fold for travel, but the earcups do twist flat, and the headphones slide into a woven ripstop carrying case with a magnetic closure and a rear loop to hook onto a finger or carabiner. The case measures about 9 inches square and a little over 2 inches thick at its pleated bottom with the headphone inside. I prefer this flatter style of case to that of the Studio Pro, as it allows the headphone to fit into a computer bag or backpack more easily.\r\n\r\nCases for Beats Studio Pro (left) and Beats 360 (right)\n\r\nIn support of the 360 launch, Beats is debuting a new ad campaign featuring Kendall Jenner, led by a short film of Jenner meeting a friend at a cafe but realizing that everyone in the room is a different version of herself styled with a unique combination of ear cushions, emphasizing the individuality that's possible with Beats 360.\r\n\r\n\n\"I'm always on the go and switching between so many different looks,\" said Kendall Jenner. \"So Beats 360 fits my lifestyle. I love that I can switch the cushions to match whatever I'm doing that day.\"\r\n\r\nIn a brief interview with Schusser at a Beats preview event earlier this month, he discussed how Jenner was an ideal candidate to promote Beats 360 given the many roles she plays throughout any given day in her personal and professional life.\r\n\r\nHe also addressed how Beats has been able to flourish under Apple's ownership, with Beats gaining access to all of Apple's expertise in audio as Apple and Beats engineers work side-by-side on products. At the same time, Beats has been able to maintain its own identity on the product design and marketing sides, continuing to focus on active lifestyle and celebrity marketing that remains distinct from how Apple promotes its own products.\r\n\r\navailable to order starting today at apple.com in the United States and more than 100 other countries and regions, as well as at Amazon and other third-party retailers. Availability follows this Thursday, September 24. It comes with the woven ripstop carrying case, while additional cushion kits, USB-C charging cables, and power adapters are sold separately.\nTags: Beats, Beats 360\nThis article, \"Beats 360 Deliver Customizability and a Revamped Over-Ear Headphone Design\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-09-22T14:00:00.000Z",
-    "creator": "Eric Slivka",
-    "tags": "Services",
-    "id": 8083
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Review: Beats 360 are the closest Apple headphones to AirPods Max, with one caveat",
-    "link": "https://9to5mac.com/2026/09/22/apple-beats-360-review-close-to-airpods-max/",
-    "content": "The highly anticipated Beats 360 are now available for purchase. After being teased prior to the World Cup, Apple’s latest pair of Beats headphones are now on the market. I got an early hands-on with them, and they’re quite an interesting product offering that I’ve thoroughly enjoyed using – though they have one key flaw: no wired connectivity, which will bother some more than others.\nmore…",
-    "pub_date": "2026-09-22T14:00:00.000Z",
-    "creator": "Michael Burkhardt",
-    "tags": "General",
-    "id": 8091
   }
 ]
