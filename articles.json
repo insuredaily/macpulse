@@ -1,6 +1,116 @@
 [
   {
     "source_name": "AppleInsider",
+    "title": "If your iPhone 18 Pro Max always says SOS, you need to get it replaced",
+    "link": "https://appleinsider.com/articles/26/10/02/if-your-iphone-18-pro-max-always-says-sos-you-need-to-get-it-replaced?utm_source=rss",
+    "content": "There are now patches to apply if you don't have any problems making calls on an AT&T iPhone 18 Pro Max. If you do, you need to get your phone replaced.\n\n\niPhone 18 Pro Max\nSince launch, iPhone 18 Pro Max models have been dropping off the AT&T network. In some cases, never to return.\nAfter an OS update earlier in the week, and a carrier settings update on Friday, the problem may no longer manifest for those who haven't seen it. But, that doesn't help if your iPhone has issues already.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-02T21:28:14.000Z",
+    "creator": "Mike Wuerthele <mike@appleinsider.com>",
+    "tags": "iOS",
+    "id": 8834
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple TV releases ‘The Sisters Grimm’ season 2 in full",
+    "link": "https://9to5mac.com/2026/10/02/apple-tv-releases-the-sisters-grimm-season-2-in-full/",
+    "content": "Apple TV today released the second season of its animated fantasy adventure series “The Sisters Grimm,” with all six new episodes now available to stream. Here are the details.\nmore…",
+    "pub_date": "2026-10-02T21:05:13.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 8829
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement",
+    "link": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
+    "content": "Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&T to lose cellular service. \nApple released software and carrier updates to prevent the issue from affecting additional users, but the company tells 9to5Mac that devices that have already lost service will require a hardware replacement.\nmore…",
+    "pub_date": "2026-10-02T20:47:02.000Z",
+    "creator": "Chance Miller",
+    "tags": "iOS",
+    "id": 8830
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple moves to protect private Mac data from overreaching AI apps",
+    "link": "https://appleinsider.com/articles/26/10/02/apple-moves-to-protect-private-mac-data-from-overreaching-ai-apps?utm_source=rss",
+    "content": "AI apps can reach far beyond the data Mac users intend to share, which has prompted Apple to take action and require clearer consent before granting access.\n\n\nApple to tighten Mac Full Disk Access over AI privacy risks\nOn Friday, Apple announced plans to tighten Full Disk Access controls on the Mac as AI agents gain access to sensitive personal information. The permission lets apps bypass privacy protections and could expose messages, email, files, and browsing history.\nRecent incidents involving Meta's Muse and other agents illustrate the risks. Not only can they access sensitive information, OpenAI recently fixed a bug in its Mac app that could have allowed its agent to become corrupted and run malicious commands on behalf of an attacker.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-02T20:46:27.000Z",
+    "creator": "Lou Hartle <news@appleinsider.com>",
+    "tags": "Mac,App Store",
+    "id": 8835
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "SwitchBot Lock Vision Pro review: lack of home key support will drive Apple users away",
+    "link": "https://appleinsider.com/articles/26/10/02/swtichbot-lock-vision-pro-review-lack-of-home-key-support-will-drive-apple-users-away?utm_source=rss",
+    "content": "Apple Home users demand accessories that enhance their ecosystem and SwitchBot appears opposed to doing so, even if products like Lock Vision Pro are more than capable.\n\n\nSwitchBot Lock Vision Pro review: bare minimum Apple Home integration\nWhen SwitchBot reached out to ask me to conduct a review of some of its products, I was excited. The company has been releasing increasingly interesting products in recent years, and I was eager to see how they'd integrate with my Apple Home.\nThe problem is, beyond supporting Matter, SwitchBot doesn't acknowledge Apple's ecosystem as little more than an afterthought. The SwitchBot Lock Vision Pro is a smart lock that shows up in the Home app, but that's the extent of its abilities.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-02T20:39:21.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "Vision,App Store",
+    "id": 8836
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "‘HomePad’ coming: Will Apple hold an October special event?",
+    "link": "https://9to5mac.com/2026/10/02/homepad-coming-will-apple-hold-an-october-special-event/",
+    "content": "With Apple reportedly planning to unveil new products on October 13, here’s when the company could announce an event, based on the timing of its previous October announcements.\nmore…",
+    "pub_date": "2026-10-02T20:31:33.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 8831
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Announces 'Full Disk Access' Changes on macOS Due to AI Agents",
+    "link": "https://www.macrumors.com/2026/10/02/apple-announces-macos-full-disk-access-changes/",
+    "content": "In a post on its developer news website today, Apple announced that it will be introducing \"additional controls\" for the \"Full Disk Access\" setting on macOS due to new risks posed by AI agents. This announcement comes amid the rise of always-on AI agents like Meta's Muse and OpenAI's Dots, which have prompted privacy concerns.\r\n\r\n\r\n\"Some developers are using Full Disk Access in ways that could put users at risk, exposing everything on their systems—including files, mail, messages, and even browsing history—without users' full knowledge and understanding,\" said Apple.\r\n\r\n\"As AI agents become increasingly capable and autonomous, the risks associated with this level of access will grow substantially,\" it added.\r\n\r\nWe give developers powerful APIs to build incredible capabilities into their apps for Apple products, backed by a set of controls designed to protect users' private data. Full Disk Access largely sidesteps these controls in order to allow backup apps to function properly on the Mac. Some developers are using Full Disk Access in ways that could put users at risk, exposing everything on their systems—including files, mail, messages, and even browsing history—without users' full knowledge and understanding. For communication apps, this can also compromise the privacy of the people users are communicating with.\r\n\r\nApple did not say when the new \"Full Disk Access\" controls will be implemented.\nRelated Roundup: macOS Golden Gate\nRelated Forum: macOS Golden Gate\nThis article, \"Apple Announces 'Full Disk Access' Changes on macOS Due to AI Agents\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-02T20:04:15.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "Mac,App Store",
+    "id": 8827
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "9to5Mac Overtime 084: iPhone 18 Pro – a fantastic pro camera experience",
+    "link": "https://9to5mac.com/2026/10/02/9to5mac-overtime-084-iphone-18-pro-a-fantastic-pro-camera-experience/",
+    "content": "Jeff and Fernando share their excitement about the iPhone 18 Pro’s camera capabilities and explore whether it could truly replace a mirrorless camera for both photography and videography. Plus, they weigh in on whether you should buy the iPhone 18 Pro now or hold out for the iPhone Duo.\n9to5Mac Overtime is a weekly video-first podcast exploring fun and interesting observations in the Apple ecosystem, featuring 9to5Mac’s Fernando Silva & Jeff Benjamin. Subscribe to Overtime via Apple Podcasts and our YouTube channel for more.\nmore…",
+    "pub_date": "2026-10-02T20:00:00.000Z",
+    "creator": "Jeff Benjamin",
+    "tags": "iOS",
+    "id": 8832
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "There's a new way to run Android apps on Mac",
+    "link": "https://appleinsider.com/articles/26/10/02/theres-a-new-way-to-run-android-apps-on-mac?utm_source=rss",
+    "content": "There's a lot of crap to wade through on the assorted Android app stores, but there are some gems too. The \"Mac.apk\" project installs Android apps into your Applications folder, like any other Mac app.\nIt's early yet, and the developer says that a lot of stuff doesn't work properly, particularly games with anti-cheat. My quick trial with the software has been pretty smooth, though. We'll be keeping an eye on this one.\n\nhttps://github.com/kksimp/Mac.apk-Releases\n\n\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-02T19:36:15.000Z",
+    "creator": "Mike Wuerthele <mike@appleinsider.com>",
+    "tags": "Mac,App Store",
+    "id": 8837
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "AT&T and Apple Just Took Steps Toward Fixing iPhone 18 Pro Max Issue",
+    "link": "https://www.macrumors.com/2026/10/02/att-and-apple-move-to-fix-iphone-18-pro-max-issues/",
+    "content": "AT&T and Apple are taking action today as they try to resolve iPhone 18 Pro Max cellular issues, according to MacRumors contributor Aaron Perris.\r\n\r\n\r\nThousands of iPhone 18 Pro Max users have been unable to connect to the AT&T network for phone calls, text messages, and data. The underlying cause has yet to be disclosed, but AT&T and Apple continue to work toward a resolution.\r\n\r\nFirst, Apple today released an AT&T carrier settings update (version 72.1, up from 72.0.2) for iPhones. Given the timing of this update, it presumably includes some optimizations related to iPhone 18 Pro Max cellular connectivity, but it is unclear if AT&T has fully resolved the issues or if further tweaks will be necessary.\r\n\r\ncarrier settings update is available on your iPhone, you will be prompted to install it. If you dismiss the notification or do not see it, open the Settings app, tap General → About, and the update should appear there. You can see your iPhone's current carrier settings version in the same About menu, next to your carrier's name. \r\n\r\niOS 27.0.1 in order to set up the device, even though most if not all affected users have said that the update does not resolve the issues. A leaked AT&T email said iOS 27.0.1 is meant to help mitigate future impacts, so it may still help in some way.\r\n\r\nMacRumors today, AT&T said it is \"working with Apple\" on this.\r\n\r\nApple did not respond to our request for comment.\r\n\r\nRelated Roundups: iOS 27, iPadOS 27, iPhone 18 Pro\nBuyer's Guide: iPhone 18 Pro (Buy Now)\nRelated Forums: iOS 27, iPhone\nThis article, \"AT&T and Apple Just Took Steps Toward Fixing iPhone 18 Pro Max Issue\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-02T19:29:52.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "iOS,App Store",
+    "id": 8828
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iOS 27’s Siri gets one thing very right that other AI assistants get wrong",
+    "link": "https://9to5mac.com/2026/10/02/ios-27s-siri-gets-one-thing-very-right-that-other-ai-assistants-get-wrong/",
+    "content": "Siri AI is a major upgrade to Apple’s assistant that’s now available in iOS 27. And there’s one standout area I’ve noticed where it differs greatly from other AI assistants—for the better.\nmore…",
+    "pub_date": "2026-10-02T19:26:34.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 8833
+  },
+  {
+    "source_name": "AppleInsider",
     "title": "Why I can't wait to swap this iPhone 18 Pro Max for an iPhone Duo",
     "link": "https://appleinsider.com/articles/26/10/02/why-i-cant-wait-to-swap-this-iphone-18-pro-max-for-an-iphone-duo?utm_source=rss",
     "content": "I've been using an iPhone 18 Pro Max for two weeks, and while it's been great, I'm very much looking forward to it making way for something new and exciting in the brand-new iPhone Duo.\n\n\nThe era of the slab iPhone is coming to an end\nI reviewed the iPhone 18 Pro Max for AppleInsider, giving it a very respectable four stars out of five. At the time I wrote that review, and for the next three weeks as I write this, it's the very best iPhone money can buy.\nThe iPhone 18 Pro Max has three great cameras, a battery that lasts for far beyond a day, and a huge, gorgeous display. And yet, I find myself wishing for more. Something different from the slab of glass and metal that iPhone owners have become so accustomed to.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
@@ -43,7 +153,7 @@
     "source_name": "9to5Mac",
     "title": "Twelve South launches tiny new ‘Airfly Drive’ wireless CarPlay adapter [Updated]",
     "link": "https://9to5mac.com/2026/10/02/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter/",
-    "content": "Update, October 2: Many of you have asked for a full vehicle compatibility list for the Twelve South Airfly Drive. Our friends over at 9to5Toys have just published exactly that. Take a look!\nComplete vehicle compatibility list for new Twelve South Airfly Drive CarPlay and Android Auto adapter\nTwelve South, the company behind a range of premium Apple accessories, has launched a notable expansion of its Airfly brand. The company today unveiled Airfly Drive, a dongle that turns wired CarPlay into wireless CarPlay. It’s available to order starting today for $39.99. Here’s how it works. \nmore…",
+    "content": "Update, October 2: Many of you have asked for a full vehicle compatibility list for the Twelve South Airfly Drive. Our friends over at 9to5Toys have just published exactly that. Take a look!\nComplete vehicle compatibility list for new Twelve South Airfly Drive CarPlay and Android Auto adapter\nTwelve South, the company behind a range of premium Apple accessories, has launched a notable expansion of its Airfly brand. The company today unveiled Airfly Drive, a dongle that turns wired CarPlay into wireless CarPlay. It’s available to order starting today for $39.99. Here’s how it works.\nmore…",
     "pub_date": "2026-10-02T18:15:26.000Z",
     "creator": "Chance Miller",
     "tags": "General",
@@ -353,7 +463,7 @@
     "source_name": "9to5Mac",
     "title": "AT&T claims iOS 27.0.1 fixes iPhone 18 Pro Max cellular issues, but users disagree [U]",
     "link": "https://9to5mac.com/2026/10/02/att-claims-ios-27-0-1-fixes-iphone-18-pro-max-cellular-issues-but-users-disagree/",
-    "content": "Since the iPhone 18 Pro Max launched, some AT&T customers have complained of various connectivity issues.\nIn a new text message to customers, AT&T says affected users should update their devices to iOS 26.0.1 to fix the issues … but early reports indicate the update doesn’t actually fix the problem.\nmore…",
+    "content": "Update 1:50 p.m. PT: More details from Apple are available here: \nApple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement\nSince the iPhone 18 Pro Max launched, some AT&T customers have complained of various connectivity issues.\nIn a new text message to customers, AT&T says affected users should update their devices to iOS 26.0.1 to fix the issues … but early reports indicate the update doesn’t actually fix the problem.\nmore…",
     "pub_date": "2026-10-02T12:27:29.000Z",
     "creator": "Chance Miller",
     "tags": "iOS",
@@ -2888,115 +2998,5 @@
     "creator": "Mitchel Broussard",
     "tags": "General",
     "id": 8505
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
-    "link": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions?utm_source=rss",
-    "content": "In a completely unsurprising turn of events, Meta's Muse AI is stealing Apple Messages, past and present, and uploading the contents to its cloud, even if explicitly told not to.\n\n\nMeta's Muse mascot | Image credit: Meta/Alexandr Wang\nIf you use Facebook, Instagram, Messenger, or WhatsApp, you've probably been inundated with prompts to try out Meta's next big questionable service: Muse. And it's not like Meta, the parent company of Facebook, has a great track record regarding privacy, safety, or ethics.\nIf you're not in the know, Muse is Meta's AI agent designed to help with tasks such as researching topics, preparing briefings, and shopping. According to Meta, it runs on a dedicated virtual computer and can use information from connected apps and data sources to tailor its responses.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-09-28T17:33:45.000Z",
-    "creator": "Amber Neely <amber@appleinsider.com>",
-    "tags": "General",
-    "id": 8484
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "5 Macs rumored to launch in the coming months",
-    "link": "https://www.cultofmac.com/news/mac-rumors-launch-date-2026-2027",
-    "content": "New Macs arriving in 2026 and 2027 feature a desktop and numerous MacBooks — including the most compelling model in years.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-09-28T17:30:22.000Z",
-    "creator": "Ed Hardy",
-    "tags": "Mac",
-    "id": 8496
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iOS 26.7.1 available now for iPhone with security fixes",
-    "link": "https://9to5mac.com/2026/09/28/ios-26-7-1-available-now-for-iphone-with-security-fixes/",
-    "content": "Apple released a variety of software updates today focused on bug fixes and security updates, including iOS 26.7.1 for iPhone. Here are the details.\nmore…",
-    "pub_date": "2026-09-28T17:29:47.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 8472
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Every 2027 iPhone could ditch Qualcomm for Apple’s own modem",
-    "link": "https://www.cultofmac.com/news/apple-modems-every-2027-iphone",
-    "content": "Apple reportedly will use its own power-efficient modems in every 2027 iPhone, finally replacing Qualcomm hardware entirely.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-09-28T17:16:36.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,iOS",
-    "id": 8497
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple releases macOS 27.0.1 Golden Gate, plus macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1 [U]",
-    "link": "https://9to5mac.com/2026/09/28/apple-releases-macos-27-0-1-golden-gate-plus-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
-    "content": "Following two release candidates, Apple today released macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1, as well as macOS 27.0.1. Here are the details.\nmore…",
-    "pub_date": "2026-09-28T17:15:11.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Mac",
-    "id": 8473
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Releases macOS Golden Gate 27.0.1 With Bug Fixes",
-    "link": "https://www.macrumors.com/2026/09/28/apple-releases-macos-27-0-1/",
-    "content": "Apple today released macOS 27.0.1, the first update to the macOS Golden Gate operating system that came out in mid-September. \r\n\r\n\r\nMac users can download the new ‌macOS Golden Gate‌ software by using the Software Update section in System Settings. \r\n\r\nRelated Roundup: macOS Golden Gate\nRelated Forum: macOS Golden Gate\nThis article, \"Apple Releases macOS Golden Gate 27.0.1 With Bug Fixes\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-09-28T17:13:46.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac",
-    "id": 8465
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Releases iOS 27.0.1 With Face ID Bug Fix",
-    "link": "https://www.macrumors.com/2026/09/28/apple-releases-ios-27-0-1/",
-    "content": "Apple today released iOS 27.0.1, the first update for the iOS 27 update that came out two weeks ago. \r\n\r\n\r\niOS 27.0.1 can be downloaded over the air by going to Settings > General > Software Update. Apple has also released iPadOS 27.0.1 and visionOS 27.0.1 updates, as well as iOS and iPadOS 26.7.1 updates for devices not updated to iOS and iPadOS 27.\r\n\r\nFace ID not to work properly on the iPhone 18 Pro.\r\n\r\niPhone 18 Pro users have complained that authentication can fail to work for things like unlocking a locked app. In some cases, the device freezes up and then reboots. Other users have seen a \"‌Face ID‌ is Not Available\" message when attempting ‌Face ID‌ setup, and others have experienced issues with the Require Attention for ‌Face ID‌ setting. Apple's release notes for the update are below.\r\nThis update provides bug fixes for your iPhone, including fixes for the following issues:\r\n\r\n- iPhone 18 Pro and iPhone 18 Pro Max may unexpectedly restart when Face ID fails to authenticate\r\n- A color artifact may appear on photos captured at 2x under certain lighting conditions at f/1.48 on a small number of iPhone 18 Pro and iPhone 18 Pro Max devices\r\n\r\nThe ‌iPhone 18 Pro‌ models have an infrared camera that's under the display for the first time, but it's unclear if the hardware has been causing a problem. Apple said last week that it would be able to address the ‌Face ID‌ bugs with a software update.\r\n\r\nRelated Roundups: iOS 27, iPadOS 27\nTag: Face ID\nRelated Forum: iOS 27\nThis article, \"Apple Releases iOS 27.0.1 With Face ID Bug Fix\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-09-28T17:09:47.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,Vision,App Store",
-    "id": 8466
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple releases iOS 27.0.1 for iPhone, here’s what’s new",
-    "link": "https://9to5mac.com/2026/09/28/apple-releases-ios-27-0-1-for-iphone-heres-whats-new/",
-    "content": "Apple has just released iOS 27.0.1, a new iPhone software update with key bug fixes for issues introduced in iOS 27. Here’s what’s new.\nmore…",
-    "pub_date": "2026-09-28T17:08:19.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 8474
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "9to5Mac Daily: September 28, 2026 – New HomePod and Apple TV leaks, more",
-    "link": "https://9to5mac.com/2026/09/28/daily-september-28-2026/",
-    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Stuff:Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done.\n\n\n\n\n more…",
-    "pub_date": "2026-09-28T16:53:13.000Z",
-    "creator": "Seth Kurkowski",
-    "tags": "Mac,iOS,App Store",
-    "id": 8475
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "MacBook Pro redesign is coming, with three features we’ve waited years for",
-    "link": "https://9to5mac.com/2026/09/28/macbook-pro-redesign-is-coming-with-three-features-weve-waited-years-for/",
-    "content": "Apple has a big MacBook Pro redesign in the works (possibly called MacBook Ultra) that’s expected to launch in October. Here are three rumored new features that we’ve waited a long time for.\nmore…",
-    "pub_date": "2026-09-28T15:55:51.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "Mac",
-    "id": 8476
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "iPhone Duo StandBy night mode is going to get some unannounced features",
-    "link": "https://appleinsider.com/articles/26/09/28/iphone-duo-standby-night-mode-is-going-to-get-some-unannounced-features?utm_source=rss",
-    "content": "The forthcoming iPhone Duo has more features than Apple has revealed, including a whole series of faces for its StandBy mode. Here's what to eventually look for.\n\n\nEditing one of the new StandBy faces - image credit: pdfu\nWhile pre-orders for iPhone Duo don't start until October 16, and the Xcode betas still don't show developers everything, one has found many new options coming to iOS 27 for this device.\nDeveloper pdfu reports that the Xcode 27.1 simulator is lacking Rushmore, an app that is for displaying the new StandBy faces. But despite that, they have managed to get certain of the new faces running.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-09-28T15:39:08.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "iOS,App Store",
-    "id": 8485
   }
 ]
