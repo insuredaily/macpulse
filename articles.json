@@ -1,5 +1,75 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
+    "link": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
+    "content": "Following the compute-based usage change in May, Google will soon introduce limits on which Gemini models free users and AI Plus subscribers can access.\nmore…",
+    "pub_date": "2026-10-03T21:26:32.000Z",
+    "creator": "9to5Google",
+    "tags": "App Store",
+    "id": 8857
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Watch F1 on Apple TV tonight, free for everyone in the US",
+    "link": "https://9to5mac.com/2026/10/03/watch-f1-on-apple-tv-tonight-free-bahrain-gp/",
+    "content": "The Bahrain Grand Prix is streaming for free on Apple TV this weekend, subscription not required. Rather amusingly, the location of the Bahrain Grand Prix is actually in Sepang, Malaysia. \nUsually, F1 on Apple TV requires a paid subscription. But this weekend, it’s free for everyone to tune in. You can catch up on qualifying in preparation to stream the live race tonight, which kicks off at 3 AM Eastern Time.\nmore…",
+    "pub_date": "2026-10-03T19:44:04.000Z",
+    "creator": "Benjamin Mayo",
+    "tags": "Services",
+    "id": 8858
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Indie App Spotlight: ‘HEVCut’ helps you trim your photo library without deleting anything",
+    "link": "https://9to5mac.com/2026/10/03/indie-app-spotlight-hevcut-iphone-photo-storage/",
+    "content": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nEveryone has issues with iPhone storage. Even if you use iCloud, Apple has a large gap between tiers, with it immediately jumping from 200GB at $3 to 2TB at $10. If you just want a little bit more than 200GB, it can be hard to justify that upgrade. HEVCut aims to fix this by optimizing your photo library, without needing to delete anything.\nmore…",
+    "pub_date": "2026-10-03T19:30:00.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS,App Store,Services",
+    "id": 8859
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Here’s why I upgraded from the Apple Watch Series 10 to Series 12",
+    "link": "https://9to5mac.com/2026/10/03/heres-why-i-upgraded-from-the-apple-watch-series-10-to-series-12/",
+    "content": "I’m someone who doesn’t often upgrade my Apple Watch right when a new one comes out. The Apple Watch Series 10 I owned prior was only purchased this January, despite initially coming out in September 2024. That said, Apple Watch Series 12 was a highly compelling purchase, despite the fact that the two largely share the same design language. Here’s why I took the leap.\nmore…",
+    "pub_date": "2026-10-03T18:48:22.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS",
+    "id": 8860
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Apple confirms iPhone cellular issue, admits affected units can’t be fixed",
+    "link": "https://www.macworld.com/article/3250214/apple-confirms-iphone-cellular-issue-admits-affected-units-cant-be-fixed.html",
+    "content": "Macworld\n\n\n\n\n\nFollowing numerous complaints from iPhone 18 Pro Max owners, it’s now been officially acknowledged that some units have a problem placing calls, sending texts, and accessing data. Initially by the carrier AT&T, which sent out a message to customers warning about the issue and strongly advising them to update iOS “immediately”. And now by Apple itself.\nAs seen by MacRumors, the carrier sent out the following text on Thursday:\n“Hi, it’s AT&T. Action needed: An important Apple software update for your iPhone 18 Pro Max is available. Some phones may be unable to complete calls/text/data, including to 911. Update to iOS 27.0.1 immediately — Settings > General > Software Update. Please contact AT&T or Apple if you have questions.”\nWhile this formal admission will be some comfort to affected parties–since the first step on the road to a fix is admitting that one is needed–the proposed solution may not be viewed kindly. Apple’s release notes for the iOS 27.0.1 software update do not mention fixing this issue. And many users who’ve encountered the bug explicitly report that updating to 27.0.1 doesn’t fix it.\nThe problem was first reported in mid-September. “New [iPhone 18 Pro Max] can’t make or receive phone calls or FaceTime,” complained the author of one Apple Support discussion thread. “Text messages are extremely slow to come through… It does all of this even when the phone is showing four bars of 5G… then the phone randomly drops service and goes into SOS.”\nA Redditor, meanwhile, wrote: “I got my iPhone 18 on Friday. I have coverage through AT&T. I have been noticing that I have been getting SOS on my phone. Wi-Fi works for the internet but I can’t make calls. Even if it doesn’t say SOS, trying to make a phone call is impossible now.”\nThere are thousands of replies to these and similar discussions, many of whom confirm they’ve had the same experience. And they are pessimistic about AT&T’s solution. One commenter on the Apple Support thread replies, “I just received a text from them that the latest [iOS 27.0.1] update would fix the problem – I had already updated to this so I know it isn’t the resolution. This just reaffirms that they have no idea what the problem is or how to fix it.”\nAnd while a separate Reddit thread entitled “iPhone 18 Pro Max Cellular Issues: Did iOS 27.0.1 resolve them?” includes a couple of replies who cautiously think it may have helped, but overwhelming people are unconvinced the issue is fixed:\n“No, it did not fix that issue. Can confirm personally.”\n“No… The bugfix update did nothing.”\n“I feel like the 27.0.1 update made it worse.”\n“I did the update but still have the problem.”\n“I’m still having the issue even after the update, so it’s definitely AT&T.”\n“I updated and it didn’t fix it and had to get the phone replaced for SECOND time.”\nAfter we initially posted this article, AT&T contacted Macworld and asked us to publish a statement:\n“Apple has released a software update to address an issue that may affect calls, data, texts, and 911 calls on a small number of Apple iPhone 18 Pro Max phones. AT&T customers with an iPhone 18 Pro Max should update their phones now to the latest available software. Our top priority is ensuring customers can stay connected when they need it most, and we are working with Apple to make it right.”\nBased on the unsatisfied responses of affected parties, however, this didn’t seem convincing. At this point, it wasn’t even clear if it was a hardware or software problem, let alone whether it was possible to fix it through an iOS update. Resolution looked to be a long way off.\nApple gets involved\nOn October 3, Apple got in touch to offer a company statement and a fix. But it’s not entirely good news.\n“We have identified an issue affecting a small number of iPhone 18 Pro Max users on the AT&T network that may cause a device to lose service and be unable to make calls,” said an Apple spokesperson. “We released iOS 27.0.1 earlier this week and strongly encourage all iPhone 18 Pro Max users to update now, and are also issuing a carrier settings update today. These updates together are meant to help prevent this issue from occurring.”\nThe company believes that the problem can be avoided (that’s to say, avoided in the future, not fixed if it’s already happened) if users install iOS 27.0.1 and the latest carrier settings update. You need both to be protected, apparently. AT&T-based iPhone 18 Pro Max owners should find that the carrier settings update downloads automatically within the next 14 days, but they can manually trigger this process by opening Settings and going to General > About.\nBut this is a prophylactic measure, not a cure. If an iPhone has already been affected and is therefore without service, Apple admits that it cannot be reactivated via software and will require a hardware replacement. In such cases, the owner should contact Apple Support or AT&T, or visit an Apple Store or AT&T location.",
+    "pub_date": "2026-10-03T16:51:25.000Z",
+    "creator": "Macworld",
+    "tags": "iOS",
+    "id": 8869
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Here’s everything we know so far about Apple’s next entry-level iPad: A19 chip, more",
+    "link": "https://9to5mac.com/2026/10/03/apples-next-ipad-a19-details-release-date/",
+    "content": "Apple’s current iPad, the A16 model, has gone untouched for well over a year. It remains the only device in Apple’s core product lineup without support for Apple Intelligence. Rumors had swirled for quite some time about an A18 model coming this year. Now, it’s sounding like Apple has an even bigger plan.\nmore…",
+    "pub_date": "2026-10-03T16:36:23.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS",
+    "id": 8861
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple SouthGate reopening on October 23",
+    "link": "https://appleinsider.com/articles/26/10/03/apple-southgate-reopening-on-october-23?utm_source=rss",
+    "content": "Apple SouthGate in Bath, England closed for renovations on July 4. Three months later, on the day the iPhone Duo is available, it will reopen to customers.\nPrior to its closure, it was a smaller store, with the updated wood design. The renovation is expected to bring a redesigned Genius Bar, and a dedicated pickup counter.\n\nApple SouthGate website\n\n\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-03T15:41:23.000Z",
+    "creator": "Mike Wuerthele <mike@appleinsider.com>",
+    "tags": "iOS",
+    "id": 8863
+  },
+  {
     "source_name": "Cult of Mac",
     "title": "John Ternus is on a tear at Apple! [Cult of Mac podcast 35]",
     "link": "https://www.cultofmac.com/news/john-ternus-is-on-a-tear-at-apple-cult-of-mac-podcast-35",
@@ -18,6 +88,16 @@
     "creator": "Luke Dormehl",
     "tags": "Mac",
     "id": 8852
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple @ Work: The numbers on AI trust for IT are not great, and one company is trying to fix it",
+    "link": "https://9to5mac.com/2026/10/03/macpaw-leebry/",
+    "content": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple.\nMacPaw spent nearly two decades building consumer software for Mac users. CleanMyMac is one of the Mac utilities on the market, and it’s my go-to when I need to free up hard drive space, uninstall apps, etc. The company is making a different kind of bet with Leebry, a Work AI platform aimed at helping IT teams.\nmore…",
+    "pub_date": "2026-10-03T13:45:00.000Z",
+    "creator": "Bradley C",
+    "tags": "Mac",
+    "id": 8862
   },
   {
     "source_name": "Cult of Mac",
@@ -2918,85 +2998,5 @@
     "creator": "Malcolm Owen <malcolm@appleinsider.com>",
     "tags": "App Store,Services",
     "id": 8518
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Emmy wins and recent premieres help Apple TV reach highest weekly viewership ever",
-    "link": "https://9to5mac.com/2026/09/28/emmy-wins-and-recent-premieres-help-apple-tv-reach-highest-weekly-viewership-ever/",
-    "content": "Deadline reports that Apple TV recently recorded its biggest week ever for viewership, fueled by its 29 Emmy wins and recent releases such as Ted Lasso and Mayday. Here are the details.\nmore…",
-    "pub_date": "2026-09-29T01:44:04.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 8506
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple and Amazon face renewed UK antitrust lawsuit",
-    "link": "https://9to5mac.com/2026/09/28/apple-and-amazon-face-renewed-uk-antitrust-lawsuit/",
-    "content": "A UK tribunal has allowed part of a renewed antitrust lawsuit against Apple and Amazon to move forward, over allegations that the companies restricted competition for Apple and Beats products sold on Amazon. Here are the details.\nmore…",
-    "pub_date": "2026-09-29T01:21:23.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 8507
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "This website lets you explore nearly 30 years of Apple product colors",
-    "link": "https://9to5mac.com/2026/09/28/this-website-lets-you-explore-nearly-30-years-of-apple-product-colors/",
-    "content": "The folks at sheets.works are back at it again, this time with an interactive archive of 341 Apple product colors spanning nearly three decades. Here are the details.\nmore…",
-    "pub_date": "2026-09-29T01:01:54.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 8508
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iPhone Duo StandBy Leak Reveals Five Unannounced Faces",
-    "link": "https://www.macrumors.com/2026/09/28/iphone-duo-standby-leak/",
-    "content": "We've seen previews of iOS 27 running on the iPhone Duo, including a new StandBy mode that activates even when the iPhone isn't charging. Apple showed the mode in press materials, but leaker pdfu today shared a more in-depth look at some of the options.\r\n\r\n\r\nThere are multiple StandBy faces available on the ‌iPhone Duo‌, five of which we weren't aware of.\r\n\r\nA Home Camera view will show a single camera feed or a grid of up to nine camera feeds. There's a Home Modular option that likely shows smart home controls, and a Snoopy-themed face.\r\n\r\n\nHere's a deep dive into StandBy mode on iPhone Duo.\nRushmore, the app meant to host the redesigned faces, is missing from the iOS 27.1 simulator.\nBut its localization strings reveal unreported faces, and I got some new faces running in the current renderer. 🧵 pic.twitter.com/lDQHOy5R0e\n— pdfu (@itspdfu) September 28, 2026\n \n\r\nApple also appears to be adding a face called Flow that could have animations, and there's a face named Fade with no details available. Faces we've seen in marketing materials include Analog, Digital, Classic Calendar, Weather, Photos, Memories, Shared Albums, and Modular.\r\n\r\nA face editor will let users adjust the StandBy mode interface, choosing different styles and colors, similar to the existing iPhone StandBy customization screens. Swipe gestures are available for quick visual adjustments.\r\n\r\nThere are five widget layouts to choose from for clock faces that support widgets. The layouts include StandBy, Stacked, Top, Middle, and Bottom.\r\n\r\nRelated Roundup: iPhone Duo\nBuyer's Guide: iPhone Duo (Coming Soon)\nRelated Forum: iPhone\nThis article, \"iPhone Duo StandBy Leak Reveals Five Unannounced Faces\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-09-29T00:04:54.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,Rumors,App Store",
-    "id": 8501
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Huion Kamvas Pad 12 Review: A portable but problematic artist's tool",
-    "link": "https://appleinsider.com/articles/26/09/29/huion-kamvas-pad-12-review-a-portable-but-problematic-artists-tool?utm_source=rss",
-    "content": "The Huion Kamvas Pad 12 is a portable drawing tablet for artists on the move. While it does compete with the iPad, it offers a lot if you're prepared to suffer through Android to Apple data transport foibles\n\n\nHuion Kamvas Pad 12 Review: Laid flat\nHuion's quality and versatility have improved by leaps and bounds over the past few years, and it is back again with the Kamvas Pad 12. It's a new portable pen display pad for artists who like to sketch and create on the go.\nHuion provided me with the new Kamvas Pad 12 to use for an extended test drive and see if its quality and execution live up to its continually improving standards.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-09-29T00:03:34.000Z",
-    "creator": "Brian Patterson <mike@appleinsider.com>",
-    "tags": "iOS",
-    "id": 8519
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "macOS 27: How to use the new ‘Notify Me’ feature in Safari",
-    "link": "https://9to5mac.com/2026/09/28/macos-27-how-to-use-the-new-notify-me-feature-in-safari/",
-    "content": "9to5Mac is brought to you by CleanMyMac by MacPaw. With the release of macOS 27 Golden Gate, use CleanMyMac first to free up space, optimize your system, and ensure your new Mac runs at 100% on day one. Learn more.\nOne of the many new features included in macOS 27 Golden Gate is Safari’s new “Notify Me” feature, which lets users get alerted when a website updates content they’re interested in. Here’s how to use it.\nmore…",
-    "pub_date": "2026-09-28T22:53:05.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Mac",
-    "id": 8509
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "watchOS 27.0.1 is now available for all compatible Apple Watch models",
-    "link": "https://9to5mac.com/2026/09/28/watchos-27-0-1-is-now-available-for-all-compatible-apple-watch-models/",
-    "content": "Apple today expanded the availability of watchOS 27.0.1 to more Apple Watch models, following last week’s initial release for Apple Watch Series 12 and Apple Watch Ultra 4. Here are the details.\nmore…",
-    "pub_date": "2026-09-28T21:10:42.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "iOS",
-    "id": 8510
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Releases watchOS 27.0.1 for Additional Models",
-    "link": "https://www.macrumors.com/2026/09/28/watchos-27-0-1-additional-models/",
-    "content": "After releasing watchOS 27.0.1 for the Apple Watch Series 12 and Apple Watch Ultra 4 last week to address a bug that was causing devices to restart unexpectedly, Apple has now released the update for all eligible watches, which includes Series 9 and later.\r\n\r\nRelated Roundups: watchOS 26, watchOS 27\nRelated Forum: Apple Watch\nThis article, \"Apple Releases watchOS 27.0.1 for Additional Models\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-09-28T21:08:51.000Z",
-    "creator": "Eric Slivka",
-    "tags": "iOS",
-    "id": 8502
   }
 ]
