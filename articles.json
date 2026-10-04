@@ -1,5 +1,15 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "Sunday Reboot: Waiting a decade for Apple Pay and Apple Music",
+    "link": "https://appleinsider.com/articles/26/10/04/sunday-reboot-waiting-a-decade-for-apple-pay-and-apple-music?utm_source=rss",
+    "content": "In this week's Sunday Reboot, the expansion of Apple Pay and Apple Music to some countries has taken a decade longer than they really should. They also demonstrate how delays can happen for many different reasons.\n\n\nApple Pay in action. \nSunday Reboot is a weekly column covering some of the lighter stories within the Apple reality distortion field from the past seven days. All to get next week underway with a good first step.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-04T20:07:57.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "Services",
+    "id": 8906
+  },
+  {
     "source_name": "9to5Mac",
     "title": "This is my biggest AirPods complaint, and it’s not necessarily about the hardware",
     "link": "https://9to5mac.com/2026/10/04/this-is-my-biggest-airpods-complaint/",
@@ -2988,15 +2998,5 @@
     "creator": "Macworld",
     "tags": "Mac,iOS,Silicon,App Store",
     "id": 8585
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Google has fixed an issue that caused thousands of iPhone apps to crash overnight",
-    "link": "https://9to5google.com/2026/09/29/google-firebase-iphone-app-crash-fixed/",
-    "content": "An issue with Google’s Firebase left thousands of iPhone apps crashing overnight, but a fix has already been applied.\nmore…",
-    "pub_date": "2026-09-29T13:19:10.000Z",
-    "creator": "9to5Google",
-    "tags": "iOS",
-    "id": 8568
   }
 ]
