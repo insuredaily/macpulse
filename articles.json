@@ -1,6 +1,86 @@
 [
   {
     "source_name": "AppleInsider",
+    "title": "Latest HomePods can output Mac system audio in compatible configurations",
+    "link": "https://appleinsider.com/articles/26/10/15/latest-homepods-can-output-mac-system-audio-in-compatible-configurations?utm_source=rss",
+    "content": "If your Mac has Wi-Fi 6E and you've got one of the most recent HomePod or HomePod mini models, everything, including notification sounds, can be routed through the smart speakers. Here's what you need.\n\n\nSome HomePod models can output Mac system audio\nApple just revealed the HomePod mini 2 with an updated S10 chipset and a handful of new features. One of them lets it pair to a Mac for system output, just like what is possible with larger second-generation HomePod.\nIt is possible to use a stereo pair of either model and make it output your Mac audio as well. A large HomePod pair might be a bit overwhelming for most desk setups, but giving HomePod mini 2 the same feature is a big help.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-15T00:45:56.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "Mac,Silicon",
+    "id": 9914
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iPhone Duo's A20 Pro Chip Benchmarked Ahead of Launch",
+    "link": "https://www.macrumors.com/2026/10/14/iphone-duo-benchmark/",
+    "content": "The iPhone Duo unsurprisingly offers performance similar to the iPhone 18 Pro, according to an early iPhone Duo benchmark shared on Geekbench 7. Both devices are equipped with Apple's 2nm A20 Pro chip with a 6-core CPU and a 7-core GPU.\r\n\r\n\r\nThe benchmarked ‌iPhone Duo‌ (iPhone19,4) is running iOS 27.1, as expected, and it had a single-core score of 3986 and a multi-core score of 11067. That's in line with multiple benchmarks collected from ‌iPhone 18 Pro‌ and ‌iPhone 18 Pro‌ Max models.\r\n\r\nScores vary from test to test, so while the result does fall short of the top ‌iPhone 18 Pro‌ benchmark scores, we're only viewing a single score. The ‌iPhone Duo‌ has the same 6-core CPU with a 4.93GHz base frequency that's identified in ‌iPhone 18 Pro‌ benchmarks, and it lists 11.30GB memory, which means 12GB of RAM.\r\n\r\nWhile the ‌iPhone Duo‌ and ‌iPhone 18 Pro‌ models use the same A20 Pro chip, there could be differences in real-world performance based on thermal management, the ‌iPhone Duo‌'s two screens vs. a single screen, and other factors.\r\n\r\nApple says the A20 Pro offers up to 20 percent faster CPU performance than the A19 Pro and up to 40 percent faster GPU performance. GPU speeds were not tested.\r\n\r\nRelated Roundup: iPhone Duo\nBuyer's Guide: iPhone Duo (Coming Soon)\nRelated Forum: iPhone\nThis article, \"iPhone Duo's A20 Pro Chip Benchmarked Ahead of Launch\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-15T00:20:32.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,Silicon",
+    "id": 9894
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "OpenAI agrees not to use alleged Apple trade secrets amid ongoing lawsuit",
+    "link": "https://9to5mac.com/2026/10/14/openai-agrees-not-to-use-alleged-apple-trade-secrets-amid-ongoing-lawsuit/",
+    "content": "Bloomberg reports that during a hearing today, OpenAI voluntarily agreed not to use Apple’s alleged trade secrets while the legal battle between the two companies plays out. Here are the details.\nmore…",
+    "pub_date": "2026-10-14T23:12:59.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 9897
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple Maps launches Detailed City Experience in Austin, Texas",
+    "link": "https://9to5mac.com/2026/10/14/apple-maps-launches-detailed-city-experience-in-austin-texas/",
+    "content": "Apple is rolling out its stunning Detailed City Experience in Apple Maps for users in Austin, TX. This marks a robust overhaul of Apple Maps in Austin, similar to what we’ve seen in other markets like San Francisco, Chicago, and London.\nmore…",
+    "pub_date": "2026-10-14T23:03:45.000Z",
+    "creator": "Chance Miller",
+    "tags": "General",
+    "id": 9898
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple Maps Detailed City Experience comes to Austin, Texas ahead of F1 Grand Prix",
+    "link": "https://appleinsider.com/articles/26/10/14/apple-maps-detailed-city-experience-comes-to-austin-texas-ahead-of-f1-grand-prix?utm_source=rss",
+    "content": "Apple's Pixar-like Maps upgrade has arrived in Austin, Texas to help F1 racegoers get around in style, plus Circuit of the Americas has some custom details in time for the Grand Prix.\n\n\nApple Maps brings the Detailed City Experience to Austin, Texas\nApple Maps has been updating F1 tracks around the world as races occur there. It is a part of promoting Apple's ownership of the US streaming rights of F1 using its various services.\nThe latest track to get special immersive details is the Circuit of the Americas in Austin, Texas. Apple also took the time to update the rest of Austin with its Detailed City Experience.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-14T23:02:53.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "General",
+    "id": 9916
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "10 HomeView Features You Might Have Missed",
+    "link": "https://www.macrumors.com/2026/10/14/homeview-tidbits/",
+    "content": "Apple plans to launch the HomeView on November 13, so we have a month to go until we can learn more about it. Right now, we're limited to the information Apple has shared and what members of the media learned during limited hands-on time.\r\n\r\n\r\nWe've rounded up some interesting HomeView tidbits you might have missed.\r\n\r\n \t\nRecipe walkthroughs - HomeView makes Safari recipes easier to follow by pulling out the ingredients and steps. You can tap on a \"Start Cooking\" button to get step-by-step instructions you can use as you cook. The device also supports multiple voice-activated timers.\n\r\n \t\nSiri access - You can say Siri (English only) or Hey ‌Siri‌ for hands-free access, but there are also options for activating ‌Siri‌ with a swipe down from the top of the display or using Type to ‌Siri‌.\n\r\n \t\nApple Intelligence - HomeView has some Apple Intelligence features built in. You or members of your household can use ‌Siri‌ AI for general knowledge questions if you don't have an ‌Apple Intelligence‌ iPhone or iPad, but you do need one for any requests involving personal context.\n\r\n \t\nGuests - Personal data is private, but guests can control smart home accessories, check the weather, set timers, and play music. Visitors can also AirPlay audio to the HomeView using peer-to-peer discovery.\n\r\n \t\nAdaptable interface - HomeView can tell when someone is approaching and parts of the interface will change based on proximity. If someone is across the room, it shows less information in a larger view. As the person approaches, the view can change to show more information.\n\r\n \t\nFaces - HomeView has multiple customizable faces similar to watch faces. Apple says some faces can \"wake with you in the morning, wind down with you at night.\" The Snoopy face, for example, has different animations based on time of day, weather, and holidays.\n\r\n \t\nThird-party apps - There's no App Store, but the HomeView has CarPlay-like software capabilities. It can show CarPlay audio and video apps from a linked iPhone. There are no ‌CarPlay‌ video apps except for Apple TV, so app developers will need to add support.\n\r\n \t\nHandoff - You can transfer songs, podcasts, calls, videos, and recipes from the iPhone to the HomeView.\n\r\n \t\nLive Activities - HomeView supports Live Activities, so if you have a timer running or get an incoming Intercom message, content will be visible while you use other apps.\n\r\n \t\nSensors and HomeKit - The HomeView has temperature and humidity sensors that can be used in Home app scenes and automations. It also serves as a home hub for controlling HomeKit and Matter devices when you're away from home.\n\r\n\r\nRelated Roundup: Apple HomeView\nBuyer's Guide: HomeView (Buy Now)\nRelated Forum: HomePod, HomeView, CarPlay – Home & Auto Tech\nThis article, \"10 HomeView Features You Might Have Missed\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-14T23:02:42.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,App Store",
+    "id": 9895
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "WhatsApp takes on Zoom and Google Meet with guest calling",
+    "link": "https://9to5mac.com/2026/10/14/whatsapp-takes-on-zoom-and-google-meet-with-guest-calling/",
+    "content": "WhatsApp users can now invite others to join group and one-on-one calls even if they don’t have an account. Here are the details.\nmore…",
+    "pub_date": "2026-10-14T22:39:29.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 9899
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Becomes Second Company to Close Above $5 Trillion",
+    "link": "https://www.macrumors.com/2026/10/14/apple-5-trillion-close/",
+    "content": "Apple today closed with a market capitalization above $5 trillion, making it the second company to do so after Nvidia.\r\n\r\n\r\nAs noted by The Wall Street Journal, Apple's market cap has exceeded $5 trillion six times before today during intraday trading, but this is the first time the company stayed above the mark at closing.\r\n\r\nTim Cook as Apple CEO, and two days ahead of iPhone Duo pre-orders.\r\n\r\nTag: AAPL\nThis article, \"Apple Becomes Second Company to Close Above $5 Trillion\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-14T22:37:41.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS",
+    "id": 9896
+  },
+  {
+    "source_name": "AppleInsider",
     "title": "Working Apple I signed by Steve Wozniak sold for an impressive $1.15M",
     "link": "https://appleinsider.com/articles/26/10/14/working-apple-i-signed-by-steve-wozniak-sold-for-an-impressive-115m?utm_source=rss",
     "content": "One of the few surviving Apple I units, signed by Steve Wozniak and accompanied by a letter from Steve Jobs, just sold for a record-breaking $1.15 million.\n\n\nThe famous \"Hatfield\" Apple I, signed by Steve Wozniak, just sold for well over a million dollars. Image Credit: Bonhams.\nThe value of the Apple I as a collector's item has increased significantly over the past decade, with one example selling for nearly $500,000, more than the predicted $300,000. The famous \"Hatfield\" Apple I serves as an even better example of the model's appreciation over time.\nDecades after original owner Fred Hatfield bought his Apple I, which was priced at $666.60 at the time, the machine was sold at an online auction. In 2013, European auction house Breker sold the \"Hatfield\" Apple I for approximately $666,150.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
@@ -2918,85 +2998,5 @@
     "creator": "Benjamin Mayo",
     "tags": "iOS",
     "id": 9482
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple testing two new features for upgraded Apple TV 4K, per report",
-    "link": "https://9to5mac.com/2026/10/11/apple-testing-two-new-features-for-upgraded-apple-tv-4k-per-report/",
-    "content": "Apple will hold its “Welcome home” product launch on Tuesday, with the headlining announcement expected to be the new “HomeView” smart display. A new Apple TV 4K is also on the docket for this week, and Apple has tested two new features for it: microphones and an upgraded Siri Remote. \n9to5Mac’s Apple event coverage is supported by Sony: Shop Sony’s huge Amazon sale to score big savings on its entire TV lineup, including models with Apple AirPlay 2 support.\nmore…",
-    "pub_date": "2026-10-11T14:27:21.000Z",
-    "creator": "Chance Miller",
-    "tags": "General",
-    "id": 9483
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "New Apple TV 4K and HomePod Mini to Ship on October 30",
-    "link": "https://www.macrumors.com/2026/10/11/new-apple-tv-4k-homepod-mini-ship-oct-30/",
-    "content": "The new upcoming Apple TV 4K with A19 chip and new HomePod mini with S10 chip will launch on Friday, October 30, according to Bloomberg's Mark Gurman. Writing in his Power On newsletter, Gurman said the devices will ship to customers and arrive in stores on that day.\r\n\r\nWelcome home\" event, which will also debut \"HomeView\" – the company's new smart home hub, whose name was first spotted by MacRumors in a trademark filing. The HomeView will ship – \"at least as of now\" – around mid-November, according to Gurman's sources.\nRelated Roundups: Apple TV, HomePod mini\nTag: Mark Gurman\nBuyer's Guide: Apple TV (Don't Buy), HomePod Mini (Don't Buy)\nRelated Forums: Apple TV and Home Theater, HomePod, HomeKit, CarPlay, Home & Auto Technology\nThis article, \"New Apple TV 4K and HomePod Mini to Ship on October 30\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-11T14:24:03.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "General",
-    "id": 9476
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Report: Apple ‘HomeView’ smart home hub will ship in November, come in four colors, A18 chip",
-    "link": "https://9to5mac.com/2026/10/11/apple-homeview-home-hub-four-colors-november/",
-    "content": "Bloomberg’s Mark Gurman today reported that the Apple home hub – set to be announced on October 13 as part of Apple’s ‘Welcome home’ event experience — will be called the HomeView. The brand would obviously sit alongside the company’s existing HomePod brand for smart speakers.\nGurman also reported on a few other new tidbits for the device, including the news that while it will be announced on Tuesday, it probably won’t be released until the middle of November …\nmore…",
-    "pub_date": "2026-10-11T14:09:49.000Z",
-    "creator": "Benjamin Mayo",
-    "tags": "General",
-    "id": 9484
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "AirPods Max 2 Available for $429 in All Colors on Amazon",
-    "link": "https://www.macrumors.com/2026/10/11/airpods-max-2-for-429/",
-    "content": "Amazon has Apple's AirPods Max 2 on sale for $429.00 this weekend, down from $549.00. This is a Prime Day sale that has stuck around all these days later, and it's available in all five colors of the AirPods Max 2: Blue, Midnight, Orange, Purple, and Starlight.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\nStock has begun to dwindle on select colors, so it might be time to make your purchase on this deal if you've been holding off since Prime Day. Apple launched the AirPods Max 2 in March 2026 with the H2 chip, bringing improved ANC, better audio, Live Translation, and more.\r\n\r\n\n$120 OFF\nAirPods Max 2 for $429.00\n\n\r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find as we head into the holidays? You can sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"AirPods Max 2 Available for $429 in All Colors on Amazon\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-11T14:05:50.000Z",
-    "creator": "Mitchel Broussard",
-    "tags": "General",
-    "id": 9477
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Pay $19.97 once and get the Mac tools Apple left out",
-    "link": "https://www.macworld.com/article/3256680/pay-19-97-once-and-get-the-mac-tools-apple-left-out.html",
-    "content": "Macworld\n\n\n\n\n\nTL;DR: MacMagic packs cache cleanup, hidden-file toggles, PDF merging, and batch renaming into one Mac app. Get a lifetime upgrades license for $19.97 (reg. $99.99).\nEver needed to reveal a hidden file or merge two PDFs, only to end up in Terminal or juggling separate apps?\nGet a MacMagic lifetime upgrade license for $19.97 (reg. $99.99) while this price is live.\nMacMagic from Koingo pulls the features macOS leaves out into one interface. It clears oversized app caches and logs to free up disk space and shows or hides hidden files in Finder with a click.\nThe small fixes that add up\nForce Delete handles stubborn files that refuse to leave your Mac. You can combine and compress PDFs, batch rename files using dates or metadata, and batch convert images between more than 100 formats.\nIt also includes a quit-and-restart Finder option to instantly refresh Finder, free up RAM, and speed up operations. The tool also includes a plain-text editor and a QR code generator to round it out.\nThe license runs on macOS 11 or later, covers up to five Macs, and includes updates. Redeem your code within 30 days of purchase.\nVerified buyers give MacMagic an average rating of 4.6 out of 5 stars. If you’d rather own one toolkit than keep a folder full of single-purpose utilities, this is the one to keep in your Dock.\nGrab MacMagic for a one-time $19.97 (reg. $99.99) before the deal wraps.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nMacMagic: Lifetime Upgrades LicenseSee Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-10-11T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,App Store,Services",
-    "id": 9469
-  },
-  {
-    "source_name": "Macworld",
-    "title": "This $23.99 Find My tracker is thin enough to live in your wallet",
-    "link": "https://www.macworld.com/article/3256581/this-23-99-find-my-tracker-is-thin-enough-to-live-in-your-wallet.html",
-    "content": "Macworld\n\n\n\n\n\nTL;DR: MagTag is a 1.5mm-thick tracker card that works with Apple’s Find My app and recharges on any Qi charger. Get one for $23.99 (reg. $59.99).\nYour wallet, passport pouch, and laptop bag don’t all have room for a chunky tracker, but a credit-card-sized card fits almost anywhere.\nGet the MagTag Ultra Slim Tracker Card for Apple Find My for $23.99 (reg. $59.99) while it’s on sale.\nMagTag is just 1.5mm thick and weighs 0.4 ounces, so it slides into a wallet slot, backpack, or suitcase without adding bulk. It works with Apple’s Find My app for real-time location tracking worldwide, powered by Apple’s network.\nAlerts before anything goes missing\nIf you leave something behind, MagTag sends a notification to your phone. If the item is close by, trigger a loud beep to track it down. A built-in keyring hole lets it ride on keys or a kid’s backpack.\nThe battery lasts up to five months per charge and recharges on any Qi wireless charger. An IP68 rating makes it waterproof and dustproof, so a rainy commute or a beach trip won’t knock it out.\nMore than 1,000 have sold, and verified buyers rate it 4.9 out of 5 stars.\nFor anyone who travels light but still wants a backup plan for their essentials, it’s an easy add to your everyday carry.\nGrab the MagTag Find My tracker card for $23.99 (reg. $59.99) before the price goes back up.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nMagTag Ultra Slim Tracker Card – Works with Apple Find My AppSee Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-10-11T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "App Store",
-    "id": 9470
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "MacBook Pro overhaul: entry-level model to gain new design sooner than expected",
-    "link": "https://9to5mac.com/2026/10/10/m7-macbook-pro-redesign-next-spring/",
-    "content": "Earlier this year, Bloomberg’s Mark Gurman revealed that Apple has a new M7-powered entry level MacBook Pro in the pipeline for spring 2027. This isn’t an ordinary MacBook Pro refresh though. It’ll bring the upcoming redesign down to the entry level, something that previously wasn’t expected.\nmore…",
-    "pub_date": "2026-10-11T04:25:16.000Z",
-    "creator": "Michael Burkhardt",
-    "tags": "Mac",
-    "id": 9452
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Rumor: Apple to Announce New Partnership With ADT",
-    "link": "https://www.macrumors.com/2026/10/10/rumored-apple-adt-partnership/",
-    "content": "Apple may be planning to announce a new partnership with home security company ADT, alongside the introduction of its all-new smart home hub, according to several clues.\r\n\r\n\r\nFirst and foremost, ADT has been posting \"Low Voltage Technician\" job listings in various U.S. cities since around July, but those hired for the position so far have been provided with very few details about their specific responsibilities. Some of the new hires said they have primarily been shadowing other ADT technicians while they await further information. In addition, some of the employees and their managers said they signed a non-disclosure agreement (NDA) related to the role. This level of secrecy is typical for something involving Apple.\r\n\r\nSecond, ADT has provided these new hires with an iPhone 17 Pro for work, whereas it typically provides other technicians with Android devices.\r\n\r\nwith brands such as LG.\r\n\r\nOne of the new hires said ADT initially planned to provide details about the role in September, but later delayed this timeframe until October. This would be consistent with reports that Apple has postponed the announcement of its home hub multiple times, as Siri AI was not ready. The revamped version of Siri finally launched last month.\r\n\r\nIn addition to Siri AI, the home hub will reportedly offer smart home accessory management, home security monitoring, photo faces and galleries, an overview of calendar appointments, music playback, FaceTime video calling, and more. The hub will reportedly be available in a tabletop version with a speaker base and a wall-mounted version.\r\n\r\nSome of the new hires who asked their managers about the secretive role were told that it will apparently relate to home automation and in-home installation services, so perhaps Apple will announce an option for customers to have an ADT technician professionally install the wall-mounted home hub or the related accessories from LG.\r\n\r\nIt is unclear if Apple's partnership with ADT would extend to home security monitoring.\r\n\r\nin 2023, but it reportedly dropped some features that it offered on Google Nest devices earlier this year. A person familiar with the matter told us that ADT's exclusivity agreement with Google recently expired and is not set to be renewed, with Google now turning to AT&T. If so, then it would pave the way for ADT to reach a partnership with another tech giant: Apple.\r\n\r\non Tuesday, October 13, so it might announce details about a partnership with ADT then, if there is going to be one. However, keep in mind that a potential partnership between Apple and ADT is still just a rumor for now, and all of these clues could prove to be one big coincidence.\nTag: ADT\nThis article, \"Rumor: Apple to Announce New Partnership With ADT\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-11T02:17:37.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "iOS,Rumors",
-    "id": 9451
   }
 ]
