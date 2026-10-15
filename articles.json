@@ -1,6 +1,16 @@
 [
   {
     "source_name": "AppleInsider",
+    "title": "How to stop strangers from getting a clear look at your house in Apple Maps",
+    "link": "https://appleinsider.com/inside/apple-maps/tips/how-to-stop-strangers-from-getting-a-clear-look-at-your-house-in-apple-maps?utm_source=rss",
+    "content": "You can ask Apple to blur your home in Apple Maps, making it harder for strangers to inspect your entrance, windows, and driveway through its street-level Look Around imagery.\n\nApple can blur your house in Maps\nYou might want that extra privacy simply because you don't like having detailed photographs of your home online. For someone dealing with stalking or harassment, obscuring the property can also reduce how much another person can examine without visiting the street.\nApple accepts home-blurring requests through Maps and by email. Blurring doesn't remove your address or affect photographs on other services, and a Look Around request shouldn't be assumed to cover satellite imagery too.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-15T02:56:15.000Z",
+    "creator": "Andrew Orr <andreworr@appleinsider.com>",
+    "tags": "General",
+    "id": 9934
+  },
+  {
+    "source_name": "AppleInsider",
     "title": "Latest HomePods can output Mac system audio in compatible configurations",
     "link": "https://appleinsider.com/articles/26/10/15/latest-homepods-can-output-mac-system-audio-in-compatible-configurations?utm_source=rss",
     "content": "If your Mac has Wi-Fi 6E and you've got one of the most recent HomePod or HomePod mini models, everything, including notification sounds, can be routed through the smart speakers. Here's what you need.\n\n\nSome HomePod models can output Mac system audio\nApple just revealed the HomePod mini 2 with an updated S10 chipset and a handful of new features. One of them lets it pair to a Mac for system output, just like what is possible with larger second-generation HomePod.\nIt is possible to use a stereo pair of either model and make it output your Mac audio as well. A large HomePod pair might be a bit overwhelming for most desk setups, but giving HomePod mini 2 the same feature is a big help.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
@@ -2988,15 +2998,5 @@
     "creator": "Malcolm Owen <malcolm@appleinsider.com>",
     "tags": "Rumors",
     "id": 9497
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Bloomberg: New iPad mini with OLED display will be significantly more expensive than current model",
-    "link": "https://9to5mac.com/2026/10/11/ipad-mini-oled-higher-price/",
-    "content": "The current iPad mini sells for $599 in its starting 128 GB configuration. Apple is set to introduce the next-generation iPad mini later this month and — while the starting storage may increase — interested buyers should start probably bracing for a price rise.\nBloomberg’s Mark Gurman says he is hearing that the new iPad mini will be “considerably more expensive”, floating a new price closer to the $799 mark.\nmore…",
-    "pub_date": "2026-10-11T14:28:57.000Z",
-    "creator": "Benjamin Mayo",
-    "tags": "iOS",
-    "id": 9482
   }
 ]
