@@ -1,5 +1,205 @@
 [
   {
+    "source_name": "MacRumors",
+    "title": "Apple Calls iPhone Duo Demand 'Extraordinary' After Orders Slip to 2027",
+    "link": "https://www.macrumors.com/2026/10/16/apple-iphone-duo-demand-extraordinary/",
+    "content": "Demand for the iPhone Duo has been \"nothing short of extraordinary,\" Apple said in a statement to the Financial Times. The company also said it is \"working hard to get this revolutionary new product into customers' hands as quickly as possible.\"\r\n\r\n\r\nPre-orders for the ‌iPhone Duo‌ opened this morning at 5 a.m. Pacific Time, and it didn't take long for available stock to dwindle. Within minutes, delivery dates slipped from October 23 to November, and by 5:30 a.m., delivery estimates reached January 25.\r\n\r\nmanufacturing difficulties.\r\n\r\nWith past iPhone launches where supplies were limited, Apple has sometimes been able to ship devices sooner than expected, so it's possible the company will work through its backlog ahead of schedule. There are no guarantees, though, and it's clear many will be waiting for months.\r\n\r\nApple has not yet said whether there will be ‌iPhone Duo‌ stock available for walk-in purchases on October 23, but if there is, we could see long lines outside Apple retail stores for the first time in several years.\r\n\r\nApple's website suggests there could be some stock available for store pickup as soon as next week, as there is a note to check back on October 24 for availability.\r\n\r\nRelated Roundup: iPhone Duo\nBuyer's Guide: iPhone Duo (Buy Now)\nRelated Forum: iPhone\nThis article, \"Apple Calls iPhone Duo Demand 'Extraordinary' After Orders Slip to 2027\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-16T22:53:57.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS",
+    "id": 10122
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple poaches longtime Meta executive to lead global litigation",
+    "link": "https://9to5mac.com/2026/10/16/apple-poaches-longtime-meta-executive-to-lead-global-litigation/",
+    "content": "Bloomberg reports that Apple has hired Scott Tucker, who spent nearly six years as Meta’s vice president and deputy general counsel for global litigation. Here are the details.\nmore…",
+    "pub_date": "2026-10-16T22:53:24.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 10127
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "New App Store Rules Target AI Deepfakes and Nudify Apps",
+    "link": "https://www.macrumors.com/2026/10/16/app-store-rules-deepfakes/",
+    "content": "Apple today expanded its App Store moderation rules to cover AI-generated nonconsensual intimate imagery. Sexually explicit content was already banned, but now Apple says app developers must proactively prevent and remove AI-generated deepfakes from their platforms. Apple warns that apps with offending content could be removed from the ‌App Store‌ if developers fail to act.\r\n\r\n\r\nThe updated 1.2 rule names AI content creation apps and could be targeting apps like Grok, among others. Users have complained about xAI's Grok chatbot being used for nude and sexualized deepfakes, and earlier this year, Apple told xAI it would remove Grok from the ‌App Store‌ if it continued to permit nude deepfakes. xAI put safeguards in place, and Apple approved an updated version of the app.\r\n\r\nApple also added guideline 2.5.19 to clarify that developers who add features or functionality not present in the version of an app submitted for review risk removal from the ‌App Store‌ and Apple Developer Program. Apple links the rule to \"nudification\" apps that create sexually explicit images of real individuals without their consent, suggesting some of the apps have concealed their true purpose during review and added the nudify feature after approval.\r\nApps containing hidden or undocumented features are also prohibited on the App Store, including apps that misrepresent their purpose during review and only reveal harmful capabilities — such as \"nudification\" — after approval, a tactic commonly known as bait-and-switch.\n\r\nAlong with changes focused on AI-generated content, Apple updated section 5 to extend its ban on apps that facilitate human trafficking or child exploitation to alternative app distribution.\r\n\r\n\"We do not hesitate to remove apps, and terminate the developers behind them, when they violate these guidelines,\" reads Apple's developer news post on the rule changes.\r\n\r\ncan be found on its website.\nTag: App Store\nThis article, \"New App Store Rules Target AI Deepfakes and Nudify Apps\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-16T22:21:45.000Z",
+    "creator": "Juli Clover",
+    "tags": "App Store",
+    "id": 10123
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple’s new App Store rules crack down on AI nudification and ‘bait-and-switch’ apps",
+    "link": "https://9to5mac.com/2026/10/16/apples-new-app-store-rules-crack-down-on-ai-nudification-and-bait-and-switch-apps/",
+    "content": "Apple updated its App Review Guidelines today with a series of changes meant to strengthen protections against harmful content and deceptive app review practices. Here are the details.\nmore…",
+    "pub_date": "2026-10-16T22:17:07.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "App Store",
+    "id": 10128
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "9to5Mac Daily: October 16, 2026 – iPhone Duo pre-orders, more",
+    "link": "https://9to5mac.com/2026/10/16/daily-october-16-2026/",
+    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.\n\n\n\n\n more…",
+    "pub_date": "2026-10-16T21:56:25.000Z",
+    "creator": "Seth Kurkowski",
+    "tags": "iOS,App Store",
+    "id": 10129
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple calls iPhone Duo pre-order demand ‘extraordinary’ as shipping dates slip",
+    "link": "https://9to5mac.com/2026/10/16/apple-calls-iphone-duo-pre-order-demand-extraordinary-as-shipping-dates-slip/",
+    "content": "Apple has issued a short statement following strong initial demand for the iPhone Duo, with shipping estimates already slipping into next year. Here’s what the company said.\nmore…",
+    "pub_date": "2026-10-16T21:33:28.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 10130
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Report: Apple gains ground on rivals, but iPhone 18 Pro and iPhone Duo face challenges",
+    "link": "https://9to5mac.com/2026/10/16/report-apple-gains-ground-on-rivals-but-iphone-18-pro-and-iphone-duo-face-challenges/",
+    "content": "In a new investor note sent out this week, GF Securities’ Jeff Pu and Henry Huang project that Apple will be the only major smartphone manufacturer to grow shipments in 2026, even as the global market is expected to shrink by more than 14%. Here are the details.\nmore…",
+    "pub_date": "2026-10-16T21:06:13.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 10131
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Didn't Pre-Order Apple's HomeView? Here's How Long the Wait is Now",
+    "link": "https://www.macrumors.com/2026/10/16/apple-homeview-preorder-wait-times/",
+    "content": "Apple's all-new HomeView smart home hub has been available for pre-order since Tuesday, with the earliest orders set to be delivered on Friday, November 13. If you did not place a pre-order yet though, you may face a longer wait now, with Apple's estimated delivery dates pushing into early December for select colors of the tabletop HomeView.\r\n\r\n\r\nEstimated delivery dates in the U.S. vary by ZIP code right now. For example, the tabletop HomeView in silver has a November 23-December 1 delivery range in New York, but a later November 30-December 7 range in some other locations.\r\n\r\nThe tabletop HomeView is still available for Friday, November 13 launch day delivery in some colors and locations in the U.S., and the wall-mounted HomeView is not facing any delays at all as of the time this article was published.\r\n\r\nApple TV 4K delivery estimates are nearly identical: November 23-December 1 in some parts of the U.S., and November 30-December 7 in others.\r\n\r\nHomePod mini 2, do not worry, as the speaker is still widely available for delivery on its Friday, October 30 launch day throughout the U.S. in all five color options. Keep in mind that Siri AI will not be available on the HomePod mini 2 until support arrives in a future software update, according to Apple.\nRelated Roundup: Apple HomeView\nBuyer's Guide: HomeView (Buy Now)\nRelated Forum: HomePod, HomeView, CarPlay – Home & Auto Tech\nThis article, \"Didn't Pre-Order Apple's HomeView? Here's How Long the Wait is Now\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-16T20:55:31.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "General",
+    "id": 10124
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "9to5Mac Overtime 086: Apple’s smart home reboot",
+    "link": "https://9to5mac.com/2026/10/16/9to5mac-overtime-086-apples-smart-home-reboot/",
+    "content": "Jeff and Fernando discuss Apple’s smart home reboot, including the new $299 Apple HomeView, HomePod mini 2, Apple TV 4K, and Apple Home Collection lineup.\nSponsored by Rokform: Get your iPhone 18 Pro and iPhone Duo cases today for 20% off when using code MAC2026.\nmore…",
+    "pub_date": "2026-10-16T20:32:53.000Z",
+    "creator": "Jeff Benjamin",
+    "tags": "iOS",
+    "id": 10132
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Report: Apple’s antitrust negotiations with the DOJ spark concerns of a weak settlement",
+    "link": "https://9to5mac.com/2026/10/16/report-apples-antitrust-negotiations-with-the-doj-spark-concerns-of-a-weak-settlement/",
+    "content": "The Information reports that PayPal and Epic Games are among the developers concerned that a potential antitrust settlement between Apple and the DOJ might not go far enough in addressing the company’s allegedly anticompetitive practices. Here are the details.\nmore…",
+    "pub_date": "2026-10-16T20:04:21.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 10133
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iPhone Duo vs iPhone 18 Pro: Here’s every key difference",
+    "link": "https://9to5mac.com/2026/10/16/iphone-18-pro-vs-iphone-duo-heres-every-key-difference/",
+    "content": "Apple has strong pitches for all of its flagship iPhones this fall, but which model is right for you? Here’s an overview of the key differences between iPhone Duo and iPhone 18 Pro.\nmore…",
+    "pub_date": "2026-10-16T19:55:17.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 10134
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple's $79 iPhone Duo Case Sticks On With Adhesive",
+    "link": "https://www.macrumors.com/2026/10/16/iphone-duo-case-adhesive/",
+    "content": "Apple's iPhone Duo Case uses adhesive to attach to the device, according to people who have picked one up.\r\n\r\n\r\nThe case comes in two pieces and uses adhesive strips along the inside edges to attach securely to an ‌iPhone Duo‌. An included insert instructs users to peel off the adhesive's protective film, put each half on the Duo, and then press down to make sure it's well-adhered.\r\n\r\nThe ‌iPhone Duo‌ Case is made from polycarbonate and comes in Sand and Navy Blue. It is designed to protect the back of the iPhone where the camera bump is located and the front around the outer display. It has a cutout for the front display, and no protection for the inside of the device when it's unfolded.\r\n\r\n\nthe folio is clearly the nicer one, the kickstand feels sturdy (the hinges are metal underneath) but the case has a nice grippy feel to it though it has the adhesive stickers like other foldables\n— Parker Ortolani (@ParkerOrtolani) October 16, 2026\n\r\n\n\r\nApple also sells the ‌iPhone Duo‌ Folio with Kickstand, and that case does not use adhesive. It attaches to the ‌iPhone Duo‌ magnetically, but it does not offer protection for the sides of the device and it covers the front display when in use. It uses magnets to make it easy to fold back if the outer display is needed.\r\n\r\n‌iPhone Duo‌ pre-orders began today, and the first devices won't arrive to customers until next Friday, but cases are in stores today. Initial ‌iPhone Duo‌ stock sold out, and shipping estimates are now at January 25 for all colors and capacities.\r\n\r\nRelated Roundup: iPhone Duo\nBuyer's Guide: iPhone Duo (Buy Now)\nRelated Forum: iPhone\nThis article, \"Apple's $79 iPhone Duo Case Sticks On With Adhesive\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-16T19:51:58.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS",
+    "id": 10125
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "HomeView will include these Apple apps at launch",
+    "link": "https://9to5mac.com/2026/10/16/homeview-will-include-these-apple-apps-at-launch/",
+    "content": "Apple’s HomeView is available to pre-order now and ships November 13. Here are the Apple apps you’ll be able to use on HomeView at launch.\nmore…",
+    "pub_date": "2026-10-16T19:50:31.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "General",
+    "id": 10135
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple TV 4K and HomePod Mini Price Increases 'Much More Striking' Than New Features",
+    "link": "https://www.macrumors.com/2026/10/16/apple-tv-4k-homepod-mini-price-increases/",
+    "content": "Daring Fireball's John Gruber shared his first impressions of the new Apple TV 4K and HomePod mini 2 this week, and he concluded that the price increases the devices received are \"much more striking\" than any of the new features introduced.\r\n\r\n\r\nPrior to receiving price increases in late June, the previous Apple TV 4K started at $129 in the U.S., while the previous HomePod mini was priced at $99. The new Apple TV and the HomePod mini 2 are priced at $299 and $149, respectively, so both devices are now significantly more expensive than they were just four months ago.\r\n\r\nSince the new Apple TV is only available in a single configuration with 128GB of storage and an Ethernet port, it is more fair to compare it to the equivalent previous-generation 128GB model, which was initially $149 and went up to $249 in late June. This means the new model is technically only $50 more expensive, but the reality is that the minimum you can spend on a new Apple TV 4K is now $299, up significantly from $129.\r\n\r\nThe price increases stack up if you want to use a pair of HomePod mini speakers as the default audio output on an Apple TV 4K. As noted by Gruber, it now costs nearly $600 to buy all of those devices, up from nearly $350 before late June.\r\n\r\n\"At the old pre-June prices, you could buy a 128 GB Apple TV and a pair of HomePod Minis for $350 ($150 + $100 + $100),\" said Gruber. \"Four short months later, with today's new models, that combination would cost $600 ($300 + $150 + $150). That price difference is much more striking than any of the new and improved features in the products.\"\r\n\r\nRelated Roundups: Apple TV, HomePod mini 2\nTags: Daring Fireball, John Gruber\nBuyer's Guide: Apple TV (Buy Now), HomePod Mini (Buy Now)\nRelated Forums: Apple TV and Home Theater, HomePod, HomeView, CarPlay – Home & Auto Tech\nThis article, \"Apple TV 4K and HomePod Mini Price Increases 'Much More Striking' Than New Features\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-16T19:35:41.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "General",
+    "id": 10126
+  },
+  {
+    "source_name": "Macworld",
+    "title": "The just-released M6 Mac mini is already on sale for $949",
+    "link": "https://www.macworld.com/article/3262167/the-just-released-m6-mac-mini-is-already-on-sale-for-949.html",
+    "content": "Macworld\n\n\n\n\n\n\t\t\nApple Mac mini M6\nView Deal\nThese days, getting a new Mac is more expensive than ever. But right now, Apple’s M6 Mac mini is on sale for $949 right now, which is quite a bit under its $1,099 price tag. That’s quite the discount for a product that’s only been around for a short while.\nBesides the incredible M6 processor and the ability to boost your productivity by adding multiple monitors, you should know the new Mac mini also has 16GB of RAM and 512GB of storage. The M6’s new design includes a Neural Accelerator in each GPU core and a Dual 16-core Neural Engine, so Siri AI and graphical-intensive apps will be equally speedy.\nThe beautiful thing about the new M6 Mac mini is that it tucks under your monitor and gives you your desk back. Even better, it lets you build the exact setup you need because it features three Thunderbolt 4 ports on the back, as well as an HDMI and a 2.5Gb Ethernet port. That makes it possible to have a three-monitor workstation to help tackle your daily workload.\nWe’ll admit that a similarly specced M4 model would have cost $799 just a couple of months ago, but this is the new reality. So go ahead and grab this tiny powerhouse for $949 while you can still get it for $150 off.",
+    "pub_date": "2026-10-16T19:19:27.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,Silicon",
+    "id": 10148
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "iPhone Duo delivery dates stabilize on late January deliveries for all models",
+    "link": "https://appleinsider.com/articles/26/10/16/iphone-duo-delivery-dates-stabilize-on-late-january-deliveries-for-all-models?utm_source=rss",
+    "content": "If you missed out on getting your iPhone Duo Friday morning, you likely won't see yours show up until early 2027. At least is isn't getting worse anymore.\n\n\niPhone Duo dates slip into January\nOn Friday, Apple opened preorders for the iPhone Duo, its first foldable. Announced in September, the buzz following the event left little doubt that it would be an immediate hit.\nAnd that certainly seems to be the case. The iPhone Duo sold out almost immediately, with dates slipping into late November and early December within moments of preorders opening.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-16T19:08:28.000Z",
+    "creator": "Amber Neely <amber@appleinsider.com>",
+    "tags": "iOS",
+    "id": 10145
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "HomeKit Weekly: Get your Halloween and Christmas automations set up now",
+    "link": "https://9to5mac.com/2026/10/16/homekit-weekly-get-your-halloween-and-christmas-automations-set-up-now/",
+    "content": "It’s time to get your Halloween decorations out and automate them because the gear you buy for October is the same gear you’ll use in December. Set it up once now, and all you’ll do in November is swap what’s plugged into your gear. My first real Apple Home project years ago was automating Christmas lights, and it’s still the easiest win in your entire smart home, and it’s really one of the most useful things you can do.\nmore…",
+    "pub_date": "2026-10-16T19:00:00.000Z",
+    "creator": "Bradley C",
+    "tags": "General",
+    "id": 10136
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Finding a place for Apple HomeView on the AppleInsider Podcast",
+    "link": "https://appleinsider.com/articles/26/10/16/finding-a-place-for-apple-homeview-on-the-appleinsider-podcast?utm_source=rss",
+    "content": "Apple's 'Welcome Home' announcements revealed the Apple HomeView, updated Apple TV 4K, and HomePod mini 2. Your hosts discuss the new products and what they'll mean for Apple's smart home strategy.\n\n\nApple HomeView and more on the AppleInsider Podcast\nThe Apple HomeView is the central smart hub to your Apple Home. It'll display photos, now-playing music, and host information shared from up to six user's iPhones.\nIt's fairly priced at $299 and your hosts discuss exactly where they might fit in their home. Wesley imagines they could easily become the new HomePod and get tucked into various nooks throughout a home.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-16T17:53:03.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "General",
+    "id": 10106
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iOS 27.2 has three new changes just added this week",
+    "link": "https://9to5mac.com/2026/10/16/ios-27-2-has-three-new-changes-just-added-this-week/",
+    "content": "iOS 27.2 is launching soon for all users, but Apple keeps introducing new updates with each beta release. Here are three changes added to iOS 27.2 this week.\nmore…",
+    "pub_date": "2026-10-16T17:45:58.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 10137
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Withings fans revolt over new $10 monthly fee to sync data to Apple Health",
+    "link": "https://www.cultofmac.com/news/withings-apple-health-sync-paywall",
+    "content": "The Withings Apple Health sync now requires Withings+ for new accounts, at $9.99 a month. Existing users keep free syncing.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-10-16T17:42:11.000Z",
+    "creator": "Anurag Chawake",
+    "tags": "Mac",
+    "id": 10149
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Beats Pill x Pokemon review: peak portable audio with a splash of Pikachu's charm",
     "link": "https://appleinsider.com/articles/26/10/16/beats-pill-x-pokemon-review-peak-portable-audio-with-a-splash-of-pikachus-charm?utm_source=rss",
@@ -21,7 +221,7 @@
   },
   {
     "source_name": "Macworld",
-    "title": "Microsoft thinks it has a MacBook Pro killer. We’re not so sure",
+    "title": "Microsoft thinks the Surface Laptop Ultra is a MacBook Pro killer. We’re not so sure",
     "link": "https://www.macworld.com/article/3261999/microsoft-thinks-it-has-a-macbook-pro-killer-were-not-so-sure.html",
     "content": "Macworld\n\n\n\n\n\nMicrosoft is clearly worried about Apple. The marketing for the company’s new Surface Laptop Ultra directly calls out the MacBook Pro, and Microsoft is even encouraging MacBooks for trade-ins.\nNow that the Surface Laptop Ultra has started shipping, early reviews of the laptop have posted, including one from our sister publication PCWorld. Give that review a read when you can, but PCWorld’s review makes no MacBook Pro comparisons. And that’s what we’re here for! We’re going to take a look at some of the benchmark results and see how Microsoft’s laptop compares to Apple’s MacBooks.\nGeekbench 7\n\n\t\t\n\t\t\t\n\n\nResults are expressed as Geekbench scores. Higher scores/longer bars are faster. Surface Laptop Ultra’s Windows power slider set to “Best performance”\nGeekbench 7 is an overall, general-purpose performance benchmark, and in Single-core CPU testing, the Nvidia RTX Spark N1X 20-core CPU chip in the Surface laptop ranks below that of the two-year-old A18 Pro chip in the MacBook Neo. In Multi-core CPU testing, the Nvidia chip beat Apple’s M5, but is 21 percent slower than the 15-core M5 Pro. As you can see in the chart, the M5 Max has a sizable lead over the RTX Spark.\nCinebench 2024\n\n\t\t\n\t\t\t\n\n\nResults are expressed as Cinebench scores. Higher scores/longer bars are faster. Surface Laptop Ultra’s Windows power slider set to “Best performance”\nCinebench 2024 is more media-focused, rendering an image using Maxon’s Redshift engine. In Single-Core CPU performance, the Nvidia chip is even slower than Apple’s A18 Pro-surprising that a chip made for a mobile phone is faster. In Multi-Core CPU benchmarks, the Nvidia chip still lags behind the M5 Pro.\nAs far as battery life, PCWorld couldn’t run the same test we do (playing a 4K video saved to the laptop’s SSD until the battery runs out). However, their testing, which involved streaming a 4K YouTube video, lasted about 8 hours, a far cry from the 20 hours we got in our tests.\nOne last thing to note about the 15-inch Surface Laptop Ultra is its price. The model PCWorld tested costs $3,699 and has an Nvidia RTX Spark N1X 20-core CPU, a 6,144-core GPU (Nvidia counts cores differently than Apple), 32GB of RAM, and a 1TB SSD. For comparison, Apple sells the 16-inch MacBook Pro with an M5 Pro 18-core CPU, a 20-core GPU, 48GB of RAM, and a 1TB SSD for $3,599. So for $100 less, you can get an M5 Pro MacBook Pro that’s much faster in general use than Microsoft’s laptop. The 14-inch model with the same specs is $3,299, $300 cheaper than the Surface Laptop Ultra.\nBefore you get all excited, let’s be fair to Microsoft, they promote the Surface Laptop Ultra as “built for local AI,” and we don’t run the same AI benchmarks as PCWorld, so we’ll hold off on judgment in the AI arena. However, the M5 Pro and Max chips are the last of this chip design that Apple will produce. With the M7 due next year, Apple is reportedly focusing on AI performance, which will but a greater focus on the things Microsoft is touting. So, look out.\nBut as far as general-purpose productivity goes, Apple doesn’t really have anything to worry about–we said that even before we saw these results.",
     "pub_date": "2026-10-16T17:01:27.000Z",
@@ -58,16 +258,6 @@
     "creator": "Macworld",
     "tags": "App Store,Services",
     "id": 10113
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Finding a place for Apple HomeView on the AppleInsider Podcast",
-    "link": "https://appleinsider.com/articles/26/10/16/finding-a-place-for-apple-homeview-on-the-appleinsider-podcast?utm_source=rss",
-    "content": "Apple's 'Welcome Home' announcements revealed the Apple HomeView, updated Apple TV 4K, and HomePod mini 2. Your hosts discuss the new products and what they'll mean for Apple's smart home strategy.\nThe Apple HomeView is the central smart hub to your Apple Home. It'll display photos, now-playing music, and host information shared from up to six user's iPhones.\nIt's fairly priced at $299 and your hosts discuss exactly where they might fit in their home. Wesley imagines they could easily become the new HomePod and get tucked into various nooks throughout a home.\n\n\nThe Apple TV 4K is an expensive and iterative upgrade, but four HomePod surround sound is enough of a reason for one of your hosts to upgrade. It's just nice to know it is no longer the four-year old model.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-16T16:01:19.000Z",
-    "creator": "Wesley Hilliard <wes@appleinsider.com>",
-    "tags": "General",
-    "id": 10106
   },
   {
     "source_name": "9to5Mac",
@@ -243,7 +433,7 @@
     "source_name": "Macworld",
     "title": "iPhone Duo pre-order live blog: New phones won’t arrive until 2027 now",
     "link": "https://www.macworld.com/article/3262078/iphone-duo-pre-order-live-blog-how-quickly-will-apples-folding-phone-sell-out.html",
-    "content": "Macworld\n\n\n\n\n\nIf feels like it’s been a month since Apple unveiled its first folding phone, the iPhone Duo, and, well, it has. Announced on September 9 at the “Surprise and Shine” event, it finally goes up for pre-order this morning at 8 am ET before hitting shelves next Friday.\nIf you want one, however, you’re going to have to act fast. Not since the iPhone X has a phone been more anticipated, and even Apple is warning users that “demand will be high” for the new phone, and we’ve been reading reports about production constraints for weeks. So we expect to see delivery dates slipping into December very quickly.\nThere are two colors to choose from (Night Sky and Star White) and four storage configurations with the following prices:\n256GB: $1,999\n512GB: $2,199\n1TB: $2,599\n2TB: $3,199 \nThe point of this live blog is simple: We’re going to track all colors and configurations in the U.S. and U.K. Apple stores (and other retailers) to tell you how quick ship dates start slipping, which colors and configurations are available, and what you can still get before 2027. We’ll try to update every few minutes, but it’s the first time we’re trying this, so bear with us.\niPhone Duo pre-order live blog\n\n\n4 hours ago, By Michael Simon\nLet the gouging begin\nAs expected, with ship dates slipping into next year, people are already selling iPhone Duos on eBay for hundreds more than they paid. This 1TB model already sold for $3,777.77, more than a thousand dollars more than the MSRP. And that’s just the beginning.\n\nFoundry\n\n\n\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n4 hours ago, By Michael Simon\nHas the limit been reached?\nIt’s been about a half-hour since Apple began quoting January 25 for new iPhone Duo pre-orders and it hasn’t changed. The same date applies to all colors, capacities, and carriers, so it appears as though shipping estimates have been capped at three months. Based on my experience with Apple pre-orders, new phones will likely ship at least a week or two before that date, but supply will be constrained at least through the holidays. So if you managed to buy one for shipping this year, congrats.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n4 hours ago, By Michael Simon\nWhich comes first, Duo or M5 Ultra?\nIf you happen to have $10,000 lying around and ordered an iPhone and an M5 Ultra Mac Studio, neither is expected to ship until 2027. Currentlym the Duo is quoting January 25, while the Mac Studio with 256GB of RAM isn’t expected to deliver until February 23. At least you can gain a little interest in the meantime.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n4 hours ago, By Michael Simon\nTry the carriers\nA couple of readers have pointed out that they’ve had better luck buying their Duo through their carrier store rather than Apple. We don’t know how accurate the quoted delivery times are, but as of 8:50 am ET, T-Mobile shows late October, while AT&T and Verizon still show shipping for November. Of course, you’ll need to be a subscriber to purchase one, but it’s worth a shot.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n5 hours ago, By Michael Simon\nApple Stores will have daily stock\nAs we’ve seen in the past, it appears as though Apple Stores will get limited iPhone Duo stock each day. Instead of pickup, Apple’s site now reads, “Check back for availability on 10.24,” which likey means you can try to get a Duo at your local Apple Store each morning. There’s no telling what colors or capacities will be available, however.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n5 hours ago, By Michael Simon\nWho's at the front of the line?\nWe’ve heard from a few people who got their orders quickly enough to get an October 23 ship date, including one reader from Denmark, and we want to hear from you: Respond to our X thread and let us know when your new phone is shipping!\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\nMichael Simon\nWelcome to 2027\nJust a half-hour after pre-orders began, all iPhone Duo orders are now quoting January 25, 2027 as a ship date. That’s more than three months after it goes on sale and the furthest we’ve ever seen iPhone pre-orders slip. Your order will probably ship before then as Apple ramps up production, but it shows just how popular and constrained the new phone is.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n5 hours ago, By David Price\nA long wait around the world\nCustomers outside the U.S. face a long wait too. Shipping dates for the Duo (white, 256GB) have slipped to December 14-21 in the U.K. And our colleagues on Macwelt report that German dates are in mid-December as well.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n5 hours ago, By Michael Simon\nChristmas is coming…\nIt’s 8:21 am ET and all iPhone Duo models are showing December 15-22 as a ship date. So if you want one for Christmas, hurry up and order!\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n5 hours ago, By Michael Simon\nBetter luck at Best Buy?\nOver at Best Buy, it still quotes October 23 as a pickup or ship date on the iPhone Duo pre-ordering page. However, you need to go through a process of adding or replacing a line with AT&T or Verizon, so it’s likely the actual ship date is later.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n5 hours ago, By Michael Simon\nAnother wave gone\nNow Apple’s online store is showing ship dates of Dec 8-15 for all colors and capacities.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n5 hours ago, By Michael Simon\nEvery combination ships in December already\nEvery color, capacity, and carrier of the iPhone Duo won’t ship until December 1, according to Apple’s pre-order estimates. For what it’s worth, we never saw a quoted date in October or November when trying to buy one.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n5 hours ago, By Michael Simon\nWell that was fast!\nShipping for an unlocked 256GB iPhone Duo in either color is already showing Dec 1-8 as a ship date.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n5 hours ago, By Michael Simon\nPre-orders are up!\nApple has finally opened up its iPhone Duo pre-order web page at 8:07 am ET. The app is still down, however,\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n5 hours ago, By Michael Simon\nExcited? So are we\nApple has a new message at 8 am for pre-orderers that suggests it might be a longer wait than usual. It says: “Please stay on this page until we can bring you in for pre-order.” That’s a new message we’ve never seen before. The app has the same page as before.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n5 hours ago, By Michael Simon\nGet your fingers ready!\nWe’ve got just five minutes to go until pre-orders begin. Take a deep breath and get ready to hit refresh!\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n5 hours ago, By Michael Simon\nPre-ordering tips\nI won’t be buying an iPhone Duo this morning, but I’ve participated in my share of early-morning pre-ordering. I have a couple of tips. \nUse two devices. The online store and the app load differently, so it’s best to have a Mac with Safari open and an iPhone with the Apple Store app open. You can’t refresh the app, but you can quit and reopen if you want to force it to reload.\nDon’t give up. The store likely won’t open until at least a couple of minutes after 8 am. Whether it’s purposeful or not, Apple usually opens its stores 5 or 10 minutes after the published time. So don’t get discouraged if you still see the splash screen as late as 8:10 am.\nUse Apple Pay. Apple’s online payment method isn’t just convenient, it’s much quicker than going through Apple’s full checkout process. You’ll save a minute or so by just tapping the Apple Pay button.\nDon’t buy anything else. Forget about case or accessories, you can get those later. To get the quickest ship time, just buy the phone and check out quickly.\n\nScreenshot\n\nApple\n\n\n\n\n\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n6 hours ago, By Michael Simon\nSurprising demand for Duo\nWe ran a social media poll overnight and received some surprising results. With over 300 participants, about half are planning to buy a Duo. Of those, 22% are getting a higher-capacity model, while the colors for the 256GB model are split pretty evenly: 15% for Night Sky and 13% for Star White. Good luck everyone!\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n6 hours ago, By Michael Simon\nNow we wait\nFor as long as I’ve been covering Apple, they’ve shut down the entire store for hours ahead of pre-orders. I’ve never understood why, but it’s an easy way to know when the new stuff is available. Once the store comes back online, you’ll be able to get your new Duo. So once 8am comes around, just start hitting refresh!\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n7 hours ago, By Karen Haslam\nThe Apple Store is down!\nThe Apple Store is down while Apple gets ready to accept orders for the iPhone Duo. While it usually says “We’ll be right back,” this year’s message is a little different:\nThe Apple Store is down\n\nApple\n\n\n\n\nWhy Apple needs to close the whole store at times like this we don’t know. It’s particularly annoying if you wanted to check the price of something else… \n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n6 hours ago, By Michael Simon\nTrack the Duo pre-orders with us\nApple will open pre-orders for the Duo at 8 am ET, and we’ll be tracking the sales of each color and configuration. Follow along with us all morning! \n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE",
+    "content": "Macworld\n\n\n\n\n\nIf feels like it’s been a month since Apple unveiled its first folding phone, the iPhone Duo, and, well, it has. Announced on September 9 at the “Surprise and Shine” event, it finally goes up for pre-order this morning at 8 am ET before hitting shelves next Friday.\nIf you want one, however, you’re going to have to act fast. Not since the iPhone X has a phone been more anticipated, and even Apple is warning users that “demand will be high” for the new phone, and we’ve been reading reports about production constraints for weeks. So we expect to see delivery dates slipping into December very quickly.\nThere are two colors to choose from (Night Sky and Star White) and four storage configurations with the following prices:\n256GB: $1,999\n512GB: $2,199\n1TB: $2,599\n2TB: $3,199 \nThe point of this live blog is simple: We’re going to track all colors and configurations in the U.S. and U.K. Apple stores (and other retailers) to tell you how quick ship dates start slipping, which colors and configurations are available, and what you can still get before 2027. We’ll try to update every few minutes, but it’s the first time we’re trying this, so bear with us.\niPhone Duo pre-order live blog\n\n\n6 hours ago, By Michael Simon\nLet the gouging begin\nAs expected, with ship dates slipping into next year, people are already selling iPhone Duos on eBay for hundreds more than they paid. This 1TB model already sold for $3,777.77, more than a thousand dollars more than the MSRP. And that’s just the beginning.\n\nFoundry\n\n\n\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n6 hours ago, By Michael Simon\nHas the limit been reached?\nIt’s been about a half-hour since Apple began quoting January 25 for new iPhone Duo pre-orders and it hasn’t changed. The same date applies to all colors, capacities, and carriers, so it appears as though shipping estimates have been capped at three months. Based on my experience with Apple pre-orders, new phones will likely ship at least a week or two before that date, but supply will be constrained at least through the holidays. So if you managed to buy one for shipping this year, congrats.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n7 hours ago, By Michael Simon\nWhich comes first, Duo or M5 Ultra?\nIf you happen to have $10,000 lying around and ordered an iPhone and an M5 Ultra Mac Studio, neither is expected to ship until 2027. Currentlym the Duo is quoting January 25, while the Mac Studio with 256GB of RAM isn’t expected to deliver until February 23. At least you can gain a little interest in the meantime.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n7 hours ago, By Michael Simon\nTry the carriers\nA couple of readers have pointed out that they’ve had better luck buying their Duo through their carrier store rather than Apple. We don’t know how accurate the quoted delivery times are, but as of 8:50 am ET, T-Mobile shows late October, while AT&T and Verizon still show shipping for November. Of course, you’ll need to be a subscriber to purchase one, but it’s worth a shot.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n7 hours ago, By Michael Simon\nApple Stores will have daily stock\nAs we’ve seen in the past, it appears as though Apple Stores will get limited iPhone Duo stock each day. Instead of pickup, Apple’s site now reads, “Check back for availability on 10.24,” which likey means you can try to get a Duo at your local Apple Store each morning. There’s no telling what colors or capacities will be available, however.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n7 hours ago, By Michael Simon\nWho's at the front of the line?\nWe’ve heard from a few people who got their orders quickly enough to get an October 23 ship date, including one reader from Denmark, and we want to hear from you: Respond to our X thread and let us know when your new phone is shipping!\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\nMichael Simon\nWelcome to 2027\nJust a half-hour after pre-orders began, all iPhone Duo orders are now quoting January 25, 2027 as a ship date. That’s more than three months after it goes on sale and the furthest we’ve ever seen iPhone pre-orders slip. Your order will probably ship before then as Apple ramps up production, but it shows just how popular and constrained the new phone is.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n7 hours ago, By David Price\nA long wait around the world\nCustomers outside the U.S. face a long wait too. Shipping dates for the Duo (white, 256GB) have slipped to December 14-21 in the U.K. And our colleagues on Macwelt report that German dates are in mid-December as well.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n7 hours ago, By Michael Simon\nChristmas is coming…\nIt’s 8:21 am ET and all iPhone Duo models are showing December 15-22 as a ship date. So if you want one for Christmas, hurry up and order!\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n7 hours ago, By Michael Simon\nBetter luck at Best Buy?\nOver at Best Buy, it still quotes October 23 as a pickup or ship date on the iPhone Duo pre-ordering page. However, you need to go through a process of adding or replacing a line with AT&T or Verizon, so it’s likely the actual ship date is later.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n7 hours ago, By Michael Simon\nAnother wave gone\nNow Apple’s online store is showing ship dates of Dec 8-15 for all colors and capacities.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n8 hours ago, By Michael Simon\nEvery combination ships in December already\nEvery color, capacity, and carrier of the iPhone Duo won’t ship until December 1, according to Apple’s pre-order estimates. For what it’s worth, we never saw a quoted date in October or November when trying to buy one.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n8 hours ago, By Michael Simon\nWell that was fast!\nShipping for an unlocked 256GB iPhone Duo in either color is already showing Dec 1-8 as a ship date.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n8 hours ago, By Michael Simon\nPre-orders are up!\nApple has finally opened up its iPhone Duo pre-order web page at 8:07 am ET. The app is still down, however,\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n8 hours ago, By Michael Simon\nExcited? So are we\nApple has a new message at 8 am for pre-orderers that suggests it might be a longer wait than usual. It says: “Please stay on this page until we can bring you in for pre-order.” That’s a new message we’ve never seen before. The app has the same page as before.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n8 hours ago, By Michael Simon\nGet your fingers ready!\nWe’ve got just five minutes to go until pre-orders begin. Take a deep breath and get ready to hit refresh!\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n8 hours ago, By Michael Simon\nPre-ordering tips\nI won’t be buying an iPhone Duo this morning, but I’ve participated in my share of early-morning pre-ordering. I have a couple of tips. \nUse two devices. The online store and the app load differently, so it’s best to have a Mac with Safari open and an iPhone with the Apple Store app open. You can’t refresh the app, but you can quit and reopen if you want to force it to reload.\nDon’t give up. The store likely won’t open until at least a couple of minutes after 8 am. Whether it’s purposeful or not, Apple usually opens its stores 5 or 10 minutes after the published time. So don’t get discouraged if you still see the splash screen as late as 8:10 am.\nUse Apple Pay. Apple’s online payment method isn’t just convenient, it’s much quicker than going through Apple’s full checkout process. You’ll save a minute or so by just tapping the Apple Pay button.\nDon’t buy anything else. Forget about case or accessories, you can get those later. To get the quickest ship time, just buy the phone and check out quickly.\n\nScreenshot\n\nApple\n\n\n\n\n\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n8 hours ago, By Michael Simon\nSurprising demand for Duo\nWe ran a social media poll overnight and received some surprising results. With over 300 participants, about half are planning to buy a Duo. Of those, 22% are getting a higher-capacity model, while the colors for the 256GB model are split pretty evenly: 15% for Night Sky and 13% for Star White. Good luck everyone!\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n9 hours ago, By Michael Simon\nNow we wait\nFor as long as I’ve been covering Apple, they’ve shut down the entire store for hours ahead of pre-orders. I’ve never understood why, but it’s an easy way to know when the new stuff is available. Once the store comes back online, you’ll be able to get your new Duo. So once 8am comes around, just start hitting refresh!\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n10 hours ago, By Karen Haslam\nThe Apple Store is down!\nThe Apple Store is down while Apple gets ready to accept orders for the iPhone Duo. While it usually says “We’ll be right back,” this year’s message is a little different:\nThe Apple Store is down\n\nApple\n\n\n\n\nWhy Apple needs to close the whole store at times like this we don’t know. It’s particularly annoying if you wanted to check the price of something else… \n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n9 hours ago, By Michael Simon\nTrack the Duo pre-orders with us\nApple will open pre-orders for the Duo at 8 am ET, and we’ll be tracking the sales of each color and configuration. Follow along with us all morning! \n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE",
     "pub_date": "2026-10-16T13:48:13.000Z",
     "creator": "Macworld",
     "tags": "Mac,iOS,Silicon,App Store,Services",
@@ -313,7 +503,7 @@
     "source_name": "Cult of Mac",
     "title": "Wow, iPhone Duo is selling fast",
     "link": "https://www.cultofmac.com/news/wow-iphone-duo-is-selling-fast",
-    "content": "Demand for iPhone Duo is high on the first day of preorders. Supposedly shipping October 28, delivery dates are slipping into January and beyond. \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "content": "Demand for iPhone Duo is high on preorders day. Supposedly shipping October 23, delivery dates are slipping into January and beyond. \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
     "pub_date": "2026-10-16T12:36:47.000Z",
     "creator": "Leander Kahney",
     "tags": "Mac,iOS",
@@ -911,7 +1101,7 @@
   },
   {
     "source_name": "Cult of Mac",
-    "title": "Apple quietly sending invites to Oct.  28 Mac event",
+    "title": "Apple quietly sends invites to Oct.  28 Mac event",
     "link": "https://www.cultofmac.com/news/apple-quietly-sending-invites-to-oct-28-mac-event",
     "content": "Apple’s Oct. 28 media event could showcase new MacBooks, an updated iMac and a revamped iPad mini as the company continues its busy fall.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
     "pub_date": "2026-10-15T16:30:39.000Z",
@@ -2808,195 +2998,5 @@
     "creator": "Amber Neely <amber@appleinsider.com>",
     "tags": "General",
     "id": 9674
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Pre-ordered the new Apple TV 4K? Here are 5 reasons you should cancel ASAP",
-    "link": "https://www.macworld.com/article/3259731/pre-ordered-the-new-apple-tv-4k-here-are-5-reasons-you-should-cancel-asap.html",
-    "content": "Macworld\n\n\n\n\n\nAt its “Welcome Home” experience, Apple today introduced the all-new HomeView hub, along with the HomePod mini 2 and Apple TV 4K 4. These devices mark Siri AI’s official smart home expansion, bringing its world knowledge and personal context to big screens and smart speakers around the house. \nWhile you may be tempted to rush over to Apple’s website and pre-order a $299 4th-gen Apple TV 4K before the first batch sells out, it may be worth taking a moment to consider if that’s really the right decision. Instead relax, slow down, and read this list of five reasons why I’m not upgrading to the brand-new Apple TV 4K, and why I don’t think you should either.\nCommon sense\nSiri AI publicly launched on iPhones, iPads, Macs, and even Apple Watches with OS 27 last month, and it’s been truly refreshing having a virtual assistant that can actually help. The Apple TV 4K 4 finally adopts this AI-powered foundation, making your smart TVs smarter than ever before. Naturally, most users will want to replace classic Siri with Siri AI in their living rooms, enticing them to buy the 4th-generation Apple TV 4K.\nBut here’s the thing: Siri AI is not actually exclusive to the Apple TV 4K 4. With the tvOS 27.2 update, the company is also making it available to the 2nd- and 3rd-gen models released in 2021 and 2022. \nAs long as you’ve paired the device with a compatible iPhone or iPad, you’ll get the same main set of upgraded artificial intelligence tools on your older Apple TV 4K. These include having richer conversations with Siri, executing more complex tasks, tapping into your personal context, and analyzing what’s on your screen.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nIf you have a 3rd-gen Apple TV 4K, you’ll  get the new Siri AI.\n\nFoundry\n\n\n\n\nAlready listening\nTo make Siri AI more easily accessible, the Apple TV 4K 4 integrates always-on microphones—sparing you from having to dig out your Siri Remote to trigger the voice assistant. This lets you control the TV in a hands-free manner by uttering the “Siri” or “Hey Siri” hotwords. But what if I told you I’ve already been using Siri on my Apple TV 4K 3 for years without touching its remote?\nWhile the Apple TV 4K 3 and older models don’t independently listen to the wake words, there’s an official workaround that functions reliably. If you depend on a HomePod or HomePod stereo pair for Apple TV 4K audio output, your smart speakers already detect when you summon Siri using your voice and, by default, perform your requests on the paired Apple TV 4K. For example, I yell “Siri, turn on my TV” then “Siri, launch YouTube” all the time, and it correctly opens the app on the big screen—despite the command being processed on the HomePod itself.\nOld TV, new remote\nSpeaking of finding the Siri Remote, the new Apple TV 4K comes with a 4th-gen Siri Remote that introduces proper Find My support. This lets you precisely locate it and have it beep using your iPhone, just like an AirTag. It’s a massive upgrade over the existing location feature, which can’t always pinpoint the lost remote’s whereabouts. \nBut the good news is that you don’t have to spend $299 to enjoy the benefits of the new Siri Remote.\nApple sells the Siri Remote 4 individually for just $59 (or £59 in the U.K.), and it works with all Apple TV HD and Apple TV 4K models released in 2015 and later. If you often misplace your remote, you can easily remedy the situation by buying a new one separately and pairing it with your current Apple TV box.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nWasted potential\nPerhaps my biggest disappointment lies in the Apple TV 4K 4’s failure to fully leverage its flagship A19 chip. Said processor launched last year with the iPhone 17, making it extraordinarily potent for a media consumption platform like tvOS.\nI had hoped Apple would introduce demanding perks that harness the high processing power or announce AAA game partnerships that transform the Apple TV 4K 4 into a mini video game console. Alas, while existing games may run more smoothly on the latest model, the tvOS game library remains exceptionally limited and unappealing to many casual gamers, let alone serious ones. Opting for an A19 set-top box to stream Netflix is objectively wasteful, especially when it costs $299.\nLook elsewhere\nThis brings us to the final argument: what the heck was Apple thinking when it decided to sell the new model for a whopping $299?! For reference, the entry-level Apple TV 4K 3 (64GB, WiFi-only) launched for just $129 in 2022, while the 128GB model with an Ethernet port cost $149 at the time.\nWhile the Apple TV 4K now comes with 128GB of storage and Ethernet support by default, it’s forcing all customers to pay more than twice as much for technology they may not need. Most casual users opt for a Wi-Fi connection, and streaming apps don’t consume a ton of disk space. A Wi-Fi-only configuration would have softened the price hike blow by eliminating unnecessary features that many users won’t touch.\nIf an upgrade is due, I advise you to buy an Apple TV 4K 3 while you still can (check the price-comparison widget below for any available deals in your area), or look for third-party alternatives such as the $149.99 Google Streamer 4K or Amazon’s even cheaper Fire TV devices. While you won’t get the same Apple ecosystem integrations and personal data sync, they’re arguably not as relevant on a TV. You’ll still be able to download all of your movie streaming apps, including the Apple TV service.\nApple TV 4K (3rd-generation, 2022) (64GB, model A2737)\n$124.50 at Adorama\t\t\t\t\t\t\t\t\t\t | \n\t\t\t\t\t\t\t\t\t\t$129 at Apple\t\t\t\t\t\t\t\t\t\t | \n\t\t\t\t\t\t\t\t\t\t$129.99 at Best Buy",
-    "pub_date": "2026-10-13T16:52:44.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,Silicon,App Store,Services",
-    "id": 9689
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "RIP, homeOS",
-    "link": "https://www.macrumors.com/2026/10/13/rip-homeos/",
-    "content": "MacRumors was first to reveal the name \"HomeView\" last week, after discovering a trademark filing from a secretive shell company that we correctly suspected was linked to Apple.\r\n\r\nlikely behind a \"homeOS\" trademark filing as well, but the company ultimately decided to stick with generic \"HomeView software\" naming, just like it refers to the HomePod's operating system as \"HomePod software.\" For example, the device will ship with \"HomeView software version 27.2.\"\nRelated Roundup: Apple HomeView\nTag: homeOS\nBuyer's Guide: HomeView (Buy Now)\nRelated Forum: HomePod, HomeView, CarPlay – Home & Auto Tech\nThis article, \"RIP, homeOS\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-13T16:50:04.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "General",
-    "id": 9638
-  },
-  {
-    "source_name": "Macworld",
-    "title": "$299? Pfft. Upgrade your old Apple TV 4K for just $59 instead",
-    "link": "https://www.macworld.com/article/3259654/299-pfft-upgrade-your-old-apple-tv-4k-for-just-59-instead.html",
-    "content": "Macworld\n\n\n\n\n\nIf you were hoping to upgrade your old Apple TV 4K with a new 4th-gen model today, you’re probably a bit bemused by the new price tag. It now costs $299 to get a new Apple TV 4K, higher than it’s ever cost before. And other than a new chip, there’s not all that much new about ir.\nBut the Siri Remote is a surprisingly big update, bringing Find My with Precision Finding with an iPhone Air, iPhone 17, 17 Pro/Pro Max, or iPhone 18 Pro/Pro Max, and the upcoming iPhone Duo. Find My has been on the Siri Remote since the 2nd generation, but Precision Finding is new. Also new is a built-in speaker so you can play a sound to quickly locate the device when it gets stuck in a coach cushion.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nPrecision Finding gives you a better idea of the location of your 4th generation Siri Remote.\n\nApple\n\n\n\n\nEverything else about the new Siri Remote is the same has the previous model: same size and design, same clickwheel, same USB-C port for charging, and the same support for use with a Mac. But now that Apple TV 4K supports the new Siri AI, so you actually might use it more. \nBut here’s the best: the new Siri Remote is compatible with all previous versions of the Apple TV 4K and even goes all the way back to the 2015 Apple TV HD. So you don’t have to buy a new 4th gen Apple TV 4K to get the best part of this upgrade. If you have a your 2nd or 3rd-gen Apple TV, you’ll even get the new Siri. Just buy a new remote for $59/£59, and it’ll be like you got a whole new Apple TV.\nSiri Remote (4th generation)\n$59 at Apple",
-    "pub_date": "2026-10-13T16:43:14.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS",
-    "id": 9690
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Apple Home Collection is an expensive way to build your smart home",
-    "link": "https://www.macworld.com/article/3259650/apple-home-collection-build-your-smart-home.html",
-    "content": "Macworld\n\n\n\n\n\nApple made its big Welcome Home smart home pitch on Tuesday, in which it introduced the new HomeView device, along with upgrades to the Apple TV 4K and HomePod mini. But for anyone worried that there aren’t enough smart home devices that support Apple’s ecosystem (either HomeKit or Matter), there’s also a suite of new smart home gadgets from LG and Schneider Electric.\nThe Apple Home Collection consists of a set of six items from LG and one item from Schneider Electric. They are not Apple-branded, but have been “designed in collaboration” with Apple and will no doubt be sold in Apple Stores when they become available in December (with some items coming in early 2027).\nThey appear to be, generally, a little more expensive than comparable smart home items with comparable specs from other brands, but we have yet to see if you can reliably find them on sale at online retailers. Here’s the product list with their retail prices:\nLG Video Doorbell: Dual cameras (front and downward to see packages) and a built-in spotlight, with resolution up to 2.5K. $249.95/£229.95 at the Apple Store.\nLG Floodlight Cam: Dual motion-activated floodlights and low-light color night vision with camera resolution up to 2.5K. $399.95/£349.95 at the Apple Store.\nLG Outdoor Cam: Also offers low-light color vision and 2.5K resolution, but without the floodlights, and with easy self-installation. $299.95/£279.95 at the Apple Store.\nLG Indoor Cam: A 2.5K motorized camera that tilts up when you’re away, and points downward when you’re home to protect your privacy. $199.95/£179.95 at the Apple Store.\nLG Smart Deadbolt Lock: Using Ultra Wideband, it can detect when a user that has a compatible Home Key on their iPhone is walking up and unlock automatically. You can always tap your iPhone, Apple Watch, use the PIN keypad, or a physical key. $349.95 at the Apple Store (not available in the U.K.).\nLG Smart Thermostat: What can you say? It’s a circular smart thermostat that supports the Apple Home thermostat features like Adaptive Temperature. $199.95 at the Apple Store (not available in the U.K.).\nSchneider Home Smart Thermostat: The same sort of thing as the LG Smart Thermostat, only with more of a “rounded square” sort of design. $199.95 at the Apple Store (not available in the U.K.).\nThere are LG and Schneider temperature sensors for other rooms available for $39.95, and some accessories like trim plates and C-wire power adapters.\nOf the group, the thermostats seem almost unnecessary. There are a good number of smart home thermostats that support the Matter protocol and therefore work just fine with Apple’s home control and with Siri. Home security cameras that support Apple HomeKit Secure Video are more rare, primarily just from the brands Aqara and Eve. Smart locks that support Apple’s ecosystem are similarly pretty easy to come by with popular brands like Yale, Schlage, Level, and Aqara.\nSince the LG cameras use Apple’s HomeKit Secure Video, no extra subscription is required, but the number of cameras supported by HKSV is dependent on your iCloud+ plan. If you have a 50GB plan, it supports a single camera only. The 200GB plan works with up to 5 cameras, and the 2TB plan supports unlimited cameras.\nIf you want to use Apple Intelligence with these cameras to get smart descriptions and notifications, that’s on a whole other level: you need the 2TB plan to get Apple Intelligence features on a single camera, the 6TB plan for up to 2 cameras, and the 12TB plan to support up to 5 cameras. That’s $59.99 a month in iCloud+ storage subscription fees to get AI summaries on five cameras.",
-    "pub_date": "2026-10-13T16:41:43.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,Services",
-    "id": 9691
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Launches 'Apple Home Collection' With Cameras, Lock, Thermostats and More",
-    "link": "https://www.macrumors.com/2026/10/13/apple-home-collection/",
-    "content": "Apple today debuted the \"Apple Home Collection,\" an accessory lineup it developed with LG Electronics and Schneider Electric. The collection includes cameras, thermostats, temperature sensors, and a door lock.\r\n\r\n\r\nAll of the home devices are designed to work with the HomeView, Apple's new home hub. Apple says each one is made from premium materials with a minimal aesthetic. The accessories are able to be set up with a single tap from the iPhone, and can be controlled with the Home app and through Siri.\r\n\r\n \t\nLG Video Doorbell ($249.95) - The Video Doorbell has dual cameras that capture views of visitors and packages. The front camera has a 2.5K resolution and the bottom camera is HD resolution. It has a built-in spotlight and a chime that plays through HomeView, HomePod, or ‌HomePod‌ mini.\n\r\n \t\nLG Outdoor Cam ($299.95) - The Outdoor Cam has low-color night vision and can be angled in multiple positions.\n\r\n \t\nLG Indoor Cam ($199.95) - The Indoor Cam has a privacy-preserving feature that allows it to tilt up when people are in the home so it's not recording, and down when people leave for keeping an eye on the home. The tilt function works based on geofencing, but can also be controlled in the Home app or manually.\n\r\n \t\nLG Floodlight Cam ($399.95) - The Floodlight Cam has dual floodlights that activate when motion is detected and low-color night vision.\n\r\n \t\nLG Smart Deadbolt Lock ($349.95) - The lock has UWB and can unlock automatically when the homeowner approaches, with no tap required. It also supports unlocking via PIN or a hidden backup key slot, and there is detection for whether the door is opened, closed, or has been tampered with. The doorbell and lock can work together as one, letting users see who is at the door and unlocking it if needed.\n\r\n \t\nLG Thermostat ($199.95) - The thermostat supports Adaptive Temperature and in the U.S., heating and cooling can be activated during lower-cost periods for users with a compatible utility plan. The thermostat can read temperature and humidity across multiple rooms using separate temperature and humidity sensors. Sensors are priced at $39.95.\n\r\n \t\nSchneider Electric Thermostat ($199.95) - Also supports Adaptive Temperature and can be used with temperature and humidity sensors. Sensors are priced at $39.95.\n\r\n\r\niCloud+ plans and users can view live footage and camera activity from the Home app on iPhone, iPad, Mac, Apple TV 4K, and HomeView.\r\n\r\nTag: Apple Home\nThis article, \"Apple Launches 'Apple Home Collection' With Cameras, Lock, Thermostats and More\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-13T16:37:05.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,iOS,App Store,Services",
-    "id": 9639
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "New Apple TV 4K Supports Surround Sound via Four HomePods",
-    "link": "https://www.macrumors.com/2026/10/13/new-apple-tv-4k-four-homepods-surround-sound/",
-    "content": "As was rumored prior to today's announcements, the new Apple TV 4K can connect to up to four HomePods in front-left, front-right, rear-left, and rear-right positions, enabling an all-Apple surround sound system for home theater setups.\r\n\r\n\r\nYou can connect four of the new HomePod mini 2 speakers to the new Apple TV 4K, or you can mix and match pairs of HomePod mini 2 and full-sized HomePod 2 speakers, so long as the front and rear pairs of speakers match. For example, you can have two full-sized HomePod 2 speakers up front and two HomePod mini 2 speakers in the rear.\r\n\r\nApple is relying on computational audio. The company says the four HomePods and the new Apple TV 4K can \"intelligently recognize each speaker's position in the room, so audio timing and levels are automatically calibrated to the space.\"\r\n\r\nAll previous Apple TV 4K models remain limited to two HomePods for stereo sound.\r\n\r\npricing is set at $299, with only a single configuration with 128GB of storage, Wi-Fi 7 support, and an Ethernet port available.\nRelated Roundups: Apple TV, HomePod, HomePod mini\nBuyer's Guide: Apple TV (Buy Now), HomePod (Caution), HomePod Mini (Buy Now)\nRelated Forums: Apple TV and Home Theater, HomePod, HomeView, CarPlay – Home & Auto Tech\nThis article, \"New Apple TV 4K Supports Surround Sound via Four HomePods\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-13T16:32:22.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "General",
-    "id": 9640
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Will HomeView support third-party apps? Here’s what Apple says",
-    "link": "https://9to5mac.com/2026/10/13/will-homeview-support-third-party-apps-heres-what-apple-says/",
-    "content": "Apple today announced HomeView, a $299 smart home display with a 7-inch screen that lets users control connected accessories, make FaceTime calls, and enjoy music and video content. But what about third-party apps? Here’s what Apple says.\nmore…",
-    "pub_date": "2026-10-13T16:24:59.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 9657
-  },
-  {
-    "source_name": "Macworld",
-    "title": "HomeView first look: Apple’s adorable new smart hub oozes personality",
-    "link": "https://www.macworld.com/article/3259702/hands-on-with-homeview-apples-adorable-new-smart-hub-oozes-personality.html",
-    "content": "Macworld\n\n\n\n\n\nApple’s newest device isn’t an Apple Watch or an iPhone or even an iPad—but it has elements of all three. Called HomeView, it’s a “personal” smart display designed to be the centerpiece of your home. The screen looks something like a giant Apple Watch, but it’s an entirely new device designed to be touched like an iPad, spun like an iMac G4, and spoken to like a smart speaker, all wrapped up in an adorable package that’s equally at home on a kitchen counter or end table.\nYou can scroll through the images below to see it in real life, but I wanted to spotlight a couple here too. When mounted on a wall with the wire hidden (no easy task), it looks elegant and futuristic, almost like a visionOS widget. It’s a little thick at nearly 10mm, but the brushed metal case and rounded corners add a sophistication you won’t get with an Echo Show.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nOf course, most people will opt for the base-attached HomeView, which is actually cheaper than the wall-mounted model when you factor in the cost of a mount and installation. And it’s adorable. It looks something like a mini robot, and I wouldn’t be surprised to see it gain wheels and the ability to automatically swivel when it hears a voice call for Siri. (Honest: Apple is already working on a device that can do that, and this design seems tailor-made for it.)\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nIt definitely has personality. There’s a little throwback to the iMac G4 in its design, but it’s also updated to fit today’s aesthetic. The only downside is that it needs to stay near an outlet, so it can’t really exist in the center of a table like Apple is demonstrating in its ads. But I’m kind of in love with its stubby little shape and can’t get enough of its cute footprint. I’ll be buying one.\nText by Michael Simon. All images by Britta O’Boyle for Macworld.",
-    "pub_date": "2026-10-13T16:24:31.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS,Vision",
-    "id": 9692
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Says HomePod Mini 2 Won't Support Siri AI Right Away",
-    "link": "https://www.macrumors.com/2026/10/13/homepod-mini-2-siri-ai-coming-later/",
-    "content": "Siri AI support on the new HomePod mini 2 will be \"available later\" as part of a \"future software update,\" according to Apple. In other words, do not expect Siri AI to be available on the speaker when it launches on Friday, October 30.\r\n\r\nRelated Roundup: HomePod mini\nTags: HomePod Mini 2, Siri\nBuyer's Guide: HomePod Mini (Buy Now)\nRelated Forum: HomePod, HomeView, CarPlay – Home & Auto Tech\nThis article, \"Apple Says HomePod Mini 2 Won't Support Siri AI Right Away\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-13T16:23:05.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "General",
-    "id": 9641
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Save $600 on Apple's 14-inch MacBook Pro with a 20-core GPU",
-    "link": "https://appleinsider.com/articles/26/10/13/save-600-on-apples-14-inch-macbook-pro-with-a-20-core-gpu?utm_source=rss",
-    "content": "Amazon continues to deliver deep MacBook Pro discounts, with $600 off Apple's upgraded 14-inch MacBook Pro with a 20-core GPU and 2TB of storage.\n\n\nSave $600 on Apple's MacBook Pro - Image credit: Apple\nThis premium 14-inch configuration features Apple's upgraded M5 Pro chip with an 18-core CPU and 20-core GPU. It also has 24GB of unified memory and a spacious 2TB SSD. On sale for $2,599.99 after a $600 discount when you opt for the Silver finish, Amazon's deal delivers the lowest price seen since Apple issued price increases across the MacBook Pro range.\nSave $600 on 14\" MacBook Pro\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-13T16:20:01.000Z",
-    "creator": "Christine McKee <christine@appleinsider.com>",
-    "tags": "Mac,Silicon",
-    "id": 9677
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "New Apple TV 4K vs previous model: Here’s everything new",
-    "link": "https://9to5mac.com/2026/10/13/new-apple-tv-4k-vs-previous-model-heres-everything-new/",
-    "content": "Apple just launched a brand new Apple TV 4K (pre-order here), the fourth generation of the product. Here’s how the new Apple TV 4K compares to the previous, third-gen model from 2022.\nmore…",
-    "pub_date": "2026-10-13T16:18:09.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "General",
-    "id": 9658
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Google Antigravity is now built into Gemini app for macOS",
-    "link": "https://9to5google.com/2026/10/13/gemini-app-macos-antigravity/",
-    "content": "As part of today’s Gemini 4 Argon rollout, Google is making a big update to the Gemini app for macOS by integrating Antigravity.\nmore…",
-    "pub_date": "2026-10-13T16:16:26.000Z",
-    "creator": "9to5Google",
-    "tags": "Mac,App Store",
-    "id": 9659
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Apple HomeView: 7 features and catches worth knowing",
-    "link": "https://www.cultofmac.com/news/apple-homeview-features-catches-worth-knowing",
-    "content": "From recognizing household members to displaying nine camera feeds, Apple HomeView offers plenty of useful features.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-10-13T16:15:54.000Z",
-    "creator": "Rajesh Pandey",
-    "tags": "Mac",
-    "id": 9706
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Gemini app rolling out Gemini 4 Argon to AI Pro and AI Ultra",
-    "link": "https://9to5google.com/2026/10/13/gemini-app-4-argon/",
-    "content": "Following the announcement at the end of September, Gemini 4 Argon is starting to roll out to the Gemini app, Google Antigravity, and more.\nmore…",
-    "pub_date": "2026-10-13T16:03:04.000Z",
-    "creator": "9to5Google",
-    "tags": "App Store",
-    "id": 9660
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "HomeView Can Dim to Apple's Lowest-Ever Display Brightness",
-    "link": "https://www.macrumors.com/2026/10/13/homeview-can-dim-to-lowest-ever-brightness/",
-    "content": "The HomeView can dim its display to just 0.3 nits for use on a nightstand or in dark environments, making it Apple's lowest-ever display brightness.\r\n\r\n\r\nThe 7-inch Liquid Retina display automatically adjusts its brightness as lighting conditions change, reaching up to 500 nits in bright rooms. Its 0.3-nit minimum allows it to dim substantially at night. True Tone also helps the screen adapt to changing ambient light.\r\n\r\nPreviously, Apple's dimmest display technology went down to just 1 nit. This feature debuted on the Apple Watch Series 9 and Ultra 2, and subsequently came to the iPhone.\r\n\r\nThe tabletop HomeView model features a stainless steel hinge that lets users tilt the display as required. Its interface responds to distance, showing simpler information from across the room and more detail as users move closer.\r\n\r\nThe HomeView also offers customizable faces, including weather information, photos, and animated designs. Apple says selected faces change throughout the day, adapting their appearance for mornings and evenings.\r\n\r\nRelated Roundup: Apple HomeView\nBuyer's Guide: HomeView (Buy Now)\nRelated Forum: HomePod, HomeView, CarPlay – Home & Auto Tech\nThis article, \"HomeView Can Dim to Apple's Lowest-Ever Display Brightness\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-13T16:00:47.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "iOS",
-    "id": 9642
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "New Apple TV 4K Adds Far-Field Microphones for Hands-Free Siri",
-    "link": "https://www.macrumors.com/2026/10/13/new-apple-tv-4k-adds-far-field-microphones/",
-    "content": "Apple's new fourth-generation Apple TV 4K includes three built-in far-field microphones, allowing users to find something to watch and control playback without picking up the Siri Remote.\r\n\r\n\r\nUsers can activate the voice assistant by saying \"Hey ‌Siri‌\" or \"‌Siri‌,\" including while a movie or TV show is playing. Apple says advanced echo cancellation separates the user's voice from background sound, helping the device recognize requests over the TV's audio.\r\n\r\nThe microphones also enable hands-free control of compatible smart home accessories and scenes. With ‌Siri‌ AI, users can search for entertainment conversationally and ask follow-up questions about what they are watching, with answers appearing in a compact overlay over the video.\r\n\r\nApple TV 4K and its A19 chip include Secure Exclaves, which are protected processing environments that handle microphone data separately from the rest of the system. According to Apple, data processed and analyzed inside these environments cannot be accessed by tvOS, apps, users, or Apple itself.\r\n\r\nFar-field ‌Siri‌ support varies by region and language. The feature is supported when the primary tvOS language is set to English, Mandarin Chinese, Dutch, Finnish, French, German, Hebrew, Norwegian, or Swedish.\r\n\r\nRelated Roundup: Apple TV\nTag: Siri\nBuyer's Guide: Apple TV (Buy Now)\nRelated Forum: Apple TV and Home Theater\nThis article, \"New Apple TV 4K Adds Far-Field Microphones for Hands-Free Siri\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-13T15:54:15.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "General",
-    "id": 9643
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "New Siri Remote is $59 and Compatible With These Apple TV Models",
-    "link": "https://www.macrumors.com/2026/10/13/new-siri-remote-compatible-apple-tv-models/",
-    "content": "The new Siri Remote unveiled today is compatible with all Apple TV HD and Apple TV 4K models released since 2015, according to Apple.\r\n\r\n\r\nThe fourth-generation Siri Remote released today is available to order on Apple's online store for November 13 delivery, with U.S. pricing set at $59. \r\n\r\n\r\n  \nApple TV 4K (4th generation)\n\r\n  \nApple TV 4K (3rd generation)\n\r\n  \nApple TV 4K (2nd generation)\n\r\n  \nApple TV 4K (1st generation)\n\r\n  \nApple TV HD\n\r\nThe key change with the new Siri Remote is full support for the Find My app and the Precision Finding feature, allowing you to find the exact location of the remote if it goes missing by following the on-screen directional arrows on a compatible iPhone. The remote now has a speaker that can play a sound to help you locate it.\r\n\r\nApple says Precision Finding support for the new Siri Remote requires an iPhone Duo, iPhone Air, or an iPhone 17 or later (excluding the iPhone 17e).\r\n\r\nRelated Roundup: Apple TV\nTags: Siri, Siri Remote\nBuyer's Guide: Apple TV (Buy Now)\nRelated Forum: Apple TV and Home Theater\nThis article, \"New Siri Remote is $59 and Compatible With These Apple TV Models\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-13T15:45:55.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "iOS,App Store",
-    "id": 9644
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "HomeView's lack of an App Store is an Achilles' heel",
-    "link": "https://appleinsider.com/articles/26/10/13/homeviews-lack-of-an-app-store-is-an-achilles-heel?utm_source=rss",
-    "content": "For all the obvious benefits, Apple's new HomeView appears immediately and unnecessarily stunted by not allowing users to install any apps at all.\n\n\nThe new HomeView next to a first-generation HomePod mini. HomeView image credit: Apple Store AR view.\nImagine cooking with the Paprika 3 app on your HomeView, or having your OmniFocus To Do list alongside your Fantastical calendar. Right now, all you can do is imagine, because none of this is possible.\nIt's a curious thing that the Mac App Store never came close to the popularity of the iPhone App Store. Or that you've forgotten there even is an Apple Watch App Store.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-13T15:44:37.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "Mac,iOS,App Store",
-    "id": 9678
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Details HomeView's Audio Hardware",
-    "link": "https://www.macrumors.com/2026/10/13/apple-details-homeview-audio-hardware/",
-    "content": "Apple's new HomeView supports Spatial Audio, with different speaker systems for its tabletop and wall-mounted models.\r\n\r\n\r\nThe tabletop model features two custom full-range drivers in its display, with a down-firing woofer and two force-canceling passive radiators housed in the domed base. Apple says this arrangement delivers clear sound with extended bass, distributing the audio hardware between the screen and its stand.\r\n\r\nThe HomeView's A18 chip and built-in sensors power computational audio that continuously adjust loudness and bass response. According to Apple, this processing helps maintain consistent, balanced sound at different volume levels.\r\n\r\nThe wall-mounted HomeView uses two custom drivers and computational audio tuned specifically for placement on a wall, but lacks the added speaker hardware in the tabletop models' base. It still supports Spatial Audio.\r\n\r\n\r\nFor music playback, HomeView supports multiroom audio alongside other HomeView devices, HomePod, HomePod mini, and AirPlay-compatible speakers. Handoff lets users transfer music from an iPhone by placing it in front of the HomeView's display. Apple Music displays animated album artwork and lyrics, while Apple Podcasts and compatible third-party audio apps can provide additional content.\r\n\r\nSiri requests and FaceTime calls. Apple says the microphone array can pick up voices from across the room while reducing background noise.\r\n\r\nRelated Roundup: Apple HomeView\nBuyer's Guide: HomeView (Buy Now)\nRelated Forum: HomePod, HomeView, CarPlay – Home & Auto Tech\nThis article, \"Apple Details HomeView's Audio Hardware\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-13T15:44:14.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "iOS,Services",
-    "id": 9645
   }
 ]
