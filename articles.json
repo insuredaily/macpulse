@@ -1,6 +1,36 @@
 [
   {
     "source_name": "Cult of Mac",
+    "title": "Apple may have just sold 6 million iPhone Duos",
+    "link": "https://www.cultofmac.com/news/iphone-duo-shipments-demand-2026",
+    "content": "Apple could ship 6 million iPhone Duo units in 2026, giving it roughly a third of the global foldable market.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-10-17T18:14:56.000Z",
+    "creator": "Ed Hardy",
+    "tags": "Mac,iOS",
+    "id": 10199
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Hands-on: UGREEN’s new 25W MagSafe battery for iPhone features liquid cooling",
+    "link": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank/",
+    "content": "Last month, UGREEN introduced a new Qi2.2 25W 10000mAh MagSafe battery bank for iPhone. There have been plenty of these, but this one has an interesting new twist: liquid cooling.\nmore…",
+    "pub_date": "2026-10-17T17:52:00.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS",
+    "id": 10185
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "iPhone Duo already selling for big bucks on eBay [Updated]",
+    "link": "https://www.cultofmac.com/news/iphone-duos-already-selling-for-big-bucks-on-ebay",
+    "content": "iPhone Duo units are already fetching jaw-dropping prices on eBay after selling out on Apple's website Friday morning.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-10-17T17:20:57.000Z",
+    "creator": "Leander Kahney",
+    "tags": "Mac,iOS",
+    "id": 10117
+  },
+  {
+    "source_name": "Cult of Mac",
     "title": "Upgrade to Windows 11 Pro for less than $10",
     "link": "https://www.cultofmac.com/deals/microsoft-windows-11-pro-discount",
     "content": "Why pay list price for Microsoft software? This Windows 11 sale allows you to upgrade your PC to Windows 11 Pro for just $9.97.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
@@ -31,7 +61,7 @@
   },
   {
     "source_name": "AppleInsider",
-    "title": "Generative AI porn apps targeted in App Review Guidelines update",
+    "title": "AI nudify apps targeted in App Review Guidelines update",
     "link": "https://appleinsider.com/articles/26/10/17/generative-ai-porn-apps-targeted-in-app-review-guidelines-update?utm_source=rss",
     "content": "Apple has updated the App Review Guidelines once more, in a crackdown on apps creating non-consensual adult imagery that are sold using bait-and-switch tactics to pass the review process.\n\n\nThe App Store prohibits nudification apps. \nWhile Apple has a fairly robust App Store Review process and guidelines to match, not everything that makes it through the examination does so legitimately. In some cases, developers use deceitful tactics to hide an app's true nature so it can get into the App Store, despite having features that are against the rules.\nBait-and-switch apps that present as one thing to the App Store but can be something quite different aren't new. This behavior has been used by scam and malicious apps, as well as, in one instance, Russian banks.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
     "pub_date": "2026-10-17T14:40:29.000Z",
@@ -458,16 +488,6 @@
     "creator": "Justin Kahn",
     "tags": "Mac,iOS,Silicon",
     "id": 10085
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "iPhone Duo already selling for big bucks on eBay",
-    "link": "https://www.cultofmac.com/news/iphone-duos-already-selling-for-big-bucks-on-ebay",
-    "content": "iPhone Duo units are already fetching jaw-dropping prices on eBay after selling out on Apple's website Friday morning.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-10-16T15:27:57.000Z",
-    "creator": "Leander Kahney",
-    "tags": "Mac,iOS",
-    "id": 10117
   },
   {
     "source_name": "Macworld",
@@ -2978,25 +2998,5 @@
     "creator": "Ryan Christoffel",
     "tags": "iOS,App Store",
     "id": 9732
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Seeds Fourth macOS Golden Gate 27.2 Beta to Developers",
-    "link": "https://www.macrumors.com/2026/10/13/macos-golden-gate-27-2-beta-4/",
-    "content": "Apple is testing the next macOS Golden Gate update, and developers can download the fourth ‌macOS Golden Gate‌ 27.2 beta. The fourth beta comes a week after Apple released the third beta.\r\n\r\n\r\nRegistered developers can download ‌macOS Golden Gate‌ 27.2 by opening up the System Settings app, clicking on General, selecting Software Update, and opting into ‌macOS Golden Gate‌ betas.\r\n\r\nSiri AI in new languages and includes new brightness and volume sliders.\r\n\r\nWe're expecting ‌macOS Golden Gate‌ 27.2 to launch toward the end of October.\r\nRelated Roundup: macOS Golden Gate\nRelated Forum: macOS Golden Gate\nThis article, \"Apple Seeds Fourth macOS Golden Gate 27.2 Beta to Developers\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-13T18:25:37.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,App Store",
-    "id": 9722
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple releases second RCs for macOS Sequoia 15.8.2 and Tahoe 26.7.2 [U]",
-    "link": "https://9to5mac.com/2026/10/13/apple-releases-second-rcs-for-macos-sequoia-15-8-2-and-tahoe-26-7-2/",
-    "content": "Update, 5:56 p.m. ET: The public RCs are now available as well.\nJust one week after rolling out the first Release Candidates of macOS Sequoia 15.8.2 and macOS Tahoe 26.7.2, the second RCs are now available for testing. Here are the details.\nmore…",
-    "pub_date": "2026-10-13T18:24:11.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "Mac",
-    "id": 9733
   }
 ]
