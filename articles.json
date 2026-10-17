@@ -1,5 +1,45 @@
 [
   {
+    "source_name": "MacRumors",
+    "title": "Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases",
+    "link": "https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins/",
+    "content": "Some Apple retail employees have been told to warn customers against visiting to purchase an iPhone Duo without a pre-order on Friday, October 23.\r\n\r\n\r\nApple Store employees told MacRumors that they have been advised that there will likely be no ‌iPhone Duo‌ stock available for walk-in purchases on launch day. Staff have been instructed to discourage customers without pre-orders from coming in expecting to buy the device, warning that they will be disappointed.\r\n\r\nbriefly available when pre-orders opened before the option was disabled.\r\n\r\nThe October 24 message does not guarantee stock will be available that day, and it remains unclear how firm the warning shared with employees is and whether it applies worldwide. If the guidance is firm and widely perpetuated, it closes off a potential route for customers hoping to bypass the device's lengthy online wait times, at least at the stores concerned.\r\n\r\nNikkei Asia reported that production had reached only a few hundred devices per day in late August. Further production problems emerged in late September.\r\n\r\nBloomberg's Mark Gurman said Apple had at one point believed production constraints could push the start of sales into November. The company subsequently assembled enough inventory to proceed with the October 23 launch, although supply remained very limited. \r\n\r\nsold out for Christmas through Apple's online store.\r\n\r\nnothing short of extraordinary\" in a statement to the Financial Times, adding that it was working to get devices to customers as quickly as possible. Apple has not publicly specified whether any stores will have stock for launch-day walk-in purchases.\r\n\r\nRelated Roundup: iPhone Duo\nTag: Retail\nBuyer's Guide: iPhone Duo (Buy Now)\nRelated Forum: iPhone\nThis article, \"Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-17T21:30:45.000Z",
+    "creator": "Hartley Charlton",
+    "tags": "iOS",
+    "id": 10200
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Hires Former Meta Lawyer to Oversee Global Litigation",
+    "link": "https://www.macrumors.com/2026/10/17/apple-hires-former-meta-lawyer/",
+    "content": "Apple has hired former Meta lawyer Scott Tucker to lead its litigation team, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nTucker will become Apple's vice president of global litigation and financial services, a new position overseeing commercial lawsuits, patent disputes, and legal matters involving its financial products. He previously led litigation at ‌Meta‌ and held a senior legal role at Morgan Stanley.\r\n\r\njoined Apple's leadership in March after six years as ‌Meta‌'s top lawyer.\r\n\r\nHeather Grenier, who currently oversees Apple's commercial and competition litigation, will report to Tucker instead of Newstead. She will remain on Newstead's leadership team. Apple is also expanding legal executive Kyle Andeer's responsibilities to include international legal matters, child safety, cybersecurity, and law enforcement.\r\n\r\nretirements of Kate Adams and Lisa Jackson.\r\n\r\nApp Store disputes. Its battle with Epic Games has forced changes to the rules for links to outside payment options and the fees Apple can charge.\r\n\r\n$250 million settlement over delayed Siri features, with a final approval hearing scheduled for February 2027.\nTags: Bloomberg, Apple Lawsuits, Mark Gurman, Meta, Morgan Stanley\nThis article, \"Apple Hires Former Meta Lawyer to Oversee Global Litigation\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-17T20:21:20.000Z",
+    "creator": "Hartley Charlton",
+    "tags": "App Store",
+    "id": 10201
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple's M5 Pro MacBook Pro is back on sale for $2,069 this weekend",
+    "link": "https://appleinsider.com/articles/26/10/17/apples-m5-pro-macbook-pro-is-back-on-sale-for-2069-this-weekend?utm_source=rss",
+    "content": "Weekend deals are in effect at Amazon, with Apple's M5 Pro MacBook Pro dropping to $2,069 after a $430 discount. You can also save up to $800 on M5 Max configurations.\n\n\nSave $430 on Apple's M5 Pro MacBook Pro this weekend - Image credit: Apple\nAfter selling out earlier this week, Amazon has brought back its popular $2,069.10 deal on Apple's M5 Pro 14-inch MacBook Pro. This configuration in Space Black has Apple's M5 Pro chip with a 15-core CPU and 16-core GPU, along with 24GB of unified memory and 1TB of storage.\nBuy M5 Pro MacBook Pro for $2,069.10\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-17T19:54:03.000Z",
+    "creator": "Christine McKee <christine@appleinsider.com>",
+    "tags": "Mac,Silicon",
+    "id": 10213
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Indie App Spotlight: ‘Hoardware’ makes it easy to track your Apple device collection",
+    "link": "https://9to5mac.com/2026/10/17/indie-app-spotlight-hoardware-makes-it-easy-to-track-your-apple-device-collection/",
+    "content": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nIf you’re someone who collects tons of varying Apple products, Hoardware is your one-stop shop for keeping track of it all. Hoardware lets you track all of your hardware, as well as the software versions, model numbers, and anything else that might be relevant.\nmore…",
+    "pub_date": "2026-10-17T19:30:00.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "App Store",
+    "id": 10202
+  },
+  {
     "source_name": "Cult of Mac",
     "title": "Apple may have just sold 6 million iPhone Duos",
     "link": "https://www.cultofmac.com/news/iphone-duo-shipments-demand-2026",
@@ -2958,45 +2998,5 @@
     "creator": "Macworld",
     "tags": "iOS,App Store",
     "id": 9748
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Fourth betas of iOS 27.2, macOS 27.2 land for testing",
-    "link": "https://appleinsider.com/articles/26/10/13/fourth-betas-of-ios-272-macos-272-land-for-testing?utm_source=rss",
-    "content": "Apple's now on the fourth round of developer betas for this generation, with new builds of iOS 27.2, iPadOS 27.2, visionOS 27.2, watchOS 27.2, and macOS 27.2 out for testing.\n\n\niOS 27 on an iPhone\nThe fourth developer betas for iOS 27.2, iPadOS 27.2, macOS 27.2 Golden Gate, watchOS 27.2 and visionOS 27.,2 have arrived, testing out more features before the update's eventual release to the public.\nTypically, the first major post-milestone update is a point-one version, which isn't the case this time. As the iOS 27.1 build is designated to be used with the iPhone Duo, that version is being skipped for the non-foldable iPhone models.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-13T18:40:25.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "Mac,iOS,Vision,App Store",
-    "id": 9746
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Releases New AirPods Beta Firmware",
-    "link": "https://www.macrumors.com/2026/10/13/airpods-beta-firmware-9b5043a/",
-    "content": "Apple today released new beta firmware for the AirPods Pro 2, AirPods Pro 3, AirPods 4, AirPods 5, and AirPods Max 2. The firmware has a build number of 9B5043a and is rolling out for developers and public beta testers.\r\n\r\n\r\nThere's no word on what's included in the firmware update because Apple doesn't offer notes for AirPods beta releases. \r\n\r\niPad, or Mac running iOS 26, iPadOS 26, or macOS 26 or later, there is a beta firmware option that can be accessed in the AirPods settings interface. Toggling on beta updates allows users to install the beta firmware.\r\n\r\nRelated Roundup: AirPods 5\nBuyer's Guide: AirPods (Buy Now)\nRelated Forum: AirPods\nThis article, \"Apple Releases New AirPods Beta Firmware\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-13T18:28:38.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,iOS",
-    "id": 9720
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Releases Fourth iOS 27.2 Beta",
-    "link": "https://www.macrumors.com/2026/10/13/apple-releases-ios-27-2-beta-4/",
-    "content": "Apple today seeded the fourth beta of an upcoming iOS 27.2 update to developers for testing purposes, with the update coming a week after Apple released the third iOS 27.2 beta. Apple also seeded a new iPadOS 27.2 beta.\r\n\r\n\r\nRegistered developers can download the beta updates by opting in under Settings > General > Software Update and selecting the iOS 27 developer beta.\r\n\r\nSiri AI in new languages. There are several other new features, with details available 4re5 our features guide.\r\n\r\niPhone Duo with iOS 27.1, but it likely wants to keep some of the iPhone Duo features hidden for longer. \r\n\r\nRelated Roundups: iOS 27, iPadOS 27\nRelated Forum: iOS 27\nThis article, \"Apple Releases Fourth iOS 27.2 Beta\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-13T18:27:50.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,App Store",
-    "id": 9721
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Beta 4 available now for iPadOS 27.2, watchOS 27.2, more [U]",
-    "link": "https://9to5mac.com/2026/10/13/beta-4-available-now-for-ipados-27-2-watchos-27-2-more/",
-    "content": "Update, 5:56 p.m. ET: The public beta for iPadOS 27.2 is now available as well.\nApple just released a fresh wave of beta updates, with developer beta 4 rolling out for iPadOS 27.2, watchOS 27.2, and more.\nmore…",
-    "pub_date": "2026-10-13T18:27:41.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS,App Store",
-    "id": 9732
   }
 ]
