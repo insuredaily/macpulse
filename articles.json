@@ -1,5 +1,15 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "iPhone Duo walk-in purchases might be challenging at launch, per report",
+    "link": "https://9to5mac.com/2026/10/17/iphone-duo-walk-in-purchases-challenging-report/",
+    "content": "According to a new report from MacRumors, Apple employees are being told to warn customers that iPhone Duo likely won’t be available for purchase on launch day if you didn’t already place a pre-order.\nmore…",
+    "pub_date": "2026-10-17T22:21:41.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS",
+    "id": 10214
+  },
+  {
     "source_name": "MacRumors",
     "title": "Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases",
     "link": "https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins/",
@@ -2988,15 +2998,5 @@
     "creator": "Seth Kurkowski",
     "tags": "App Store",
     "id": 9731
-  },
-  {
-    "source_name": "Macworld",
-    "title": "iOS 27.2 beta 4 is out now, removing the new Health app",
-    "link": "https://www.macworld.com/article/3237296/ios-27-2-beta-is-out-now-skipping-over-ios-27-1.html",
-    "content": "Macworld\n\n\n\n\n\nJust a couple days after the wide release of iOS 27, Apple has released the first beta of iOS 27.2. That’s not a typo: it’s iOS 27.2, not 27.1. We never saw a 27.1 release, but Apple is beginning beta tests for the 27.2 branch.\nThis likely has something to do with the iPhone Duo, which is going on sale in October. We know the iPhone Duo will come with iOS 27.1, but we don’t yet know if any other devices will ever get a 27.1 update, or when all the devices will get on the same version together.\nUpdate October 13: The fourth beta release is out now, shoring up bugs on the way to a wide release later this month. This release removes the new Health app, with a message that it is still expected later this year.\nWhat’s new in iOS 27.2\nAs beta testers report new capabilities in this version, we’ll report them here. \nNo new Health app: The first 27.2 beta releases included the new Health, with a totally new redesign and AI-powered health insights. But iOS 27.2 beta 4 removes it, leaving behind a message that the new Health app is still coming this year.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nScreenshot\n\nFoundry\n\n\n\n\nSiri AI languages: Apple said that Siri AI, which launched supporting only U.S. English, will expand to French, Japanese, Korean, Portuguese, and Spanish in October.\nDual Capture for Group FaceTime: Users can stream their front and rear cameras at the same time during FaceTime calls.\nPodcasts Up Next: Up Next has been refreshed with two rows at the top of the Home tab: New Episodes and Continue Playing.\nSimple Profiles on iOS/iPadOS/web: The Apple TV feature that lets you use multiple different account profiles now works in the Apple TV app on iOS, iPadOS, and the web.\nMultiview in Apple TV: The feature that lets you watch four select sports streams at the same time on Apple TV now works on the Apple TV app on iOS.\niOS 27.2: How to install the public beta\nIf you want to test the iOS 27 beta releases but are not a registered developer, follow these steps:\nClick Sign Up on the Apple Beta page and register with your Apple ID.\nLog in to the Beta Software Program.\nClick Enroll your iOS device.\nOpen the Settings app, tap General, then Software Update.\nIn the Beta Updates section, select the iOS Public Beta.\nIt may take a few moments after registering for the beta option to appear in Software Update.\niOS 27.2: How to install the developer beta\nYou’ll need to be registered as an Apple developer, but a free developer account will do. You can get one via Xcode or the Apple Developer app in iOS. Here’s how to do it via the Apple Developer app:\nDownload the Apple Developer App from the App Store.\nOpen the app.\nTap on Account.\nSign in using your usual Apple ID.\nFind out everything you need to know about iOS 27 in our iOS 27 superguide.",
-    "pub_date": "2026-10-13T18:44:53.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,App Store",
-    "id": 9748
   }
 ]
