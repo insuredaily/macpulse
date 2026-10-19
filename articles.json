@@ -1,6 +1,26 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming next year",
+    "link": "https://9to5mac.com/2026/10/18/new-revamped-iphone-lineup-coming-in-2027/",
+    "content": "iPhone Duo preorders just begun, and iPhone 18 Pro has been on the market for about a month. Of course, iPhone Duo is backordered through January right now, so whether or not you’re considering buying these phones – it makes it really easy to think about what’s coming next.\nmore…",
+    "pub_date": "2026-10-19T02:16:00.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS",
+    "id": 10289
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Here’s how iPhone Duo’s battery capacity compares to other iPhones",
+    "link": "https://9to5mac.com/2026/10/18/iphone-duo-battery-capacity-comparison/",
+    "content": "After pre-orders for iPhone Duo opened, Apple uploaded an EU regulatory document that finally revealed the true battery capacity for iPhone Duo: 4883mAh. Here’s how that compares to other iPhones.\nmore…",
+    "pub_date": "2026-10-19T01:32:09.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS",
+    "id": 10290
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "Apple keeps making the Phone app better; here’s how",
     "link": "https://9to5mac.com/2026/10/18/apple-keeps-making-the-phone-app-better-heres-how/",
     "content": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s largest 5G network. See all of the available plans at tello.com.\nYou might not think about it often, but the Phone app on your iPhone keeps getting more powerful. Here are two features you can use today, plus one coming next month in iOS 27. \nmore…",
@@ -2978,25 +2998,5 @@
     "creator": "Marko Zivkovic <marko@appleinsider.com>",
     "tags": "General",
     "id": 9742
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Releases Third Public Betas of iOS 27.2 and macOS Golden Gate 27.2",
-    "link": "https://www.macrumors.com/2026/10/13/apple-releases-ios-27-2-public-beta-3/",
-    "content": "Apple today seeded the third betas of iOS 27.2, iPadOS 27.2, macOS Golden Gate 27.2, and watchOS 27.2. The software comes a few hours after Apple provided the betas to developers.\r\n\r\n\r\nTo get the new betas, you can sign up on Apple's beta testing website. After you're signed up, the betas can be installed through the Software Update section in the Settings app on each device.\r\n\r\niOS 27.2 includes the redesigned Health app that Apple introduced at its September iPhone event. It features new Insights and Longevity tabs with more insight into health and fitness data. There's also a Health Age feature that uses your metrics to determine your fitness age vs. your actual age.\r\n\r\nApple TV app, there are new profile options, and Siri AI is now available in French, Japanese, Korean, Portuguese, and Spanish.\r\n\r\nlisted in our iOS 27.2 guide.\nRelated Roundups: iOS 27, iPadOS 27, macOS Golden Gate\nRelated Forums: iOS 27, macOS Golden Gate\nThis article, \"Apple Releases Third Public Betas of iOS 27.2 and macOS Golden Gate 27.2\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-13T22:11:33.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,iOS,App Store",
-    "id": 9713
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iOS 27.2 Adds New Apple Music Icon",
-    "link": "https://www.macrumors.com/2026/10/13/ios-27-2-apple-music-icon/",
-    "content": "In the fourth beta of iOS 27.2, Apple updated the Apple Music icon. The new icon is black and white, replacing the prior red and white icon.\r\n\r\n\r\nIn light mode, the logo is black on a white background, and in dark mode, it's white on a black background.\r\n\r\ndebuted a new Apple Music logo in an earlier version of iOS 27.2 and in marketing materials for its recent ‌Apple Music‌ Hall announcement.\r\n\r\n\r\nAlong with a new icon, the ‌Apple Music‌ app in iOS 27.2 beta 4 has blue highlights for the selected navigation bar icon rather than red, and text in the Music app's settings also swaps red for blue. ‌Apple Music‌ widgets also have a black background instead of a red background, suggesting Apple is phasing out much of the red branding for the music service.\nRelated Roundups: iOS 27, iPadOS 27\nTag: Apple Music\nRelated Forum: iOS 27\nThis article, \"iOS 27.2 Adds New Apple Music Icon\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-13T22:04:50.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,App Store,Services",
-    "id": 9714
   }
 ]
