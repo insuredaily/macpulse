@@ -1,5 +1,45 @@
 [
   {
+    "source_name": "Cult of Mac",
+    "title": "Apple shortens the iPhone Duo wait for some lucky buyers",
+    "link": "https://www.cultofmac.com/news/apple-shortens-iphone-duo-wait-some-lucky-buyers",
+    "content": "Your iPhone Duo could arrive weeks earlier than expected, as Apple moves up delivery dates for some preorders ahead of launch.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-10-20T05:08:41.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac,iOS",
+    "id": 10382
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Taction won record-breaking $5.7 billion verdict against Apple, asks for more",
+    "link": "https://appleinsider.com/articles/26/10/20/taction-won-record-breaking-57-billion-verdict-against-apple-asks-for-more?utm_source=rss",
+    "content": "Taction hopes that the court will award additional damages for iPhone and Apple Watch sales made in 2026 in addition to hundreds of millions in prejudgment interest.\n\n\nTaction already won, but it wants more\nEven as Apple challenges the $5.7 billion verdict set by a jury in the Taction patent case, the company hopes to squeeze out more. A jury ruled that Apple violated two patents, though not willingly, and Apple denied any wrongdoing.\nAccording to a report from Reuters, Taction has asked a federal judge for hundreds of millions more in payment from Apple. It argues that the damages only cover from 2021 to March 2026 and should cover the previous six months as well.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-20T04:22:49.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "iOS",
+    "id": 10377
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple still doesn't understand gamers in spite of iPhone being a gaming powerhouse",
+    "link": "https://appleinsider.com/articles/26/10/20/apple-still-doesnt-understand-gamers-in-spite-of-iphone-being-a-gaming-powerhouse?utm_source=rss",
+    "content": "An interview with the new App Store Worldwide head shows Apple is still playing by the same rulebook that fails to nail down what gamers want or need from a mobile platform.\n\n\nApple still doesn't quite get what gamers want\nIf you've been following Apple long enough, you've heard this one before — Apple is finally serious about gaming. That's the mantra we've heard time and again from various product releases and Apple executives, but beyond financial success, it's hard to believe.\nAn interview conducted by Polygon with Apple's App Store Worldwide head Carson Oliver. The usual successes were listed, like having a Mac gaming app, powerful GPUs in Apple Silicon, and gaming-specific developer tools.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-20T03:37:27.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "Mac,iOS,Silicon,App Store",
+    "id": 10378
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Where to find the best free fonts for Mac without licensing headaches",
+    "link": "https://appleinsider.com/inside/macos/tips/where-to-find-the-best-free-fonts-for-mac-without-licensing-headaches?utm_source=rss",
+    "content": "The best font websites for Mac offer thousands of free and commercial typefaces, but licensing and compatibility can complicate the search. Here's how to find reliable font repositories, download fonts, and install them on your Mac.\n\nChoose your style with fonts\nFinding a good font isn't particularly difficult. The challenge is choosing a typeface that has the styles you need, works in your apps, and comes with a license that covers what you're making.\nSome repositories focus on free, open-source families that anyone can download. Others sell commercial fonts, provide subscription access, or specialize in decorative lettering that's harder to find elsewhere.\nModern Macs support standard TrueType and OpenType font files, so you generally don't need a Mac-specific edition. You can install fonts using Font Book, although it's worth checking Apple's existing collection before downloading anything new.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-20T02:56:35.000Z",
+    "creator": "Andrew Orr <andreworr@appleinsider.com>",
+    "tags": "Mac,Services",
+    "id": 10062
+  },
+  {
     "source_name": "9to5Mac",
     "title": "WhatsApp may soon let iPhone users open any link in an in-app browser",
     "link": "https://9to5mac.com/2026/10/19/whatsapp-may-soon-let-iphone-users-open-any-link-in-an-in-app-browser/",
@@ -1790,16 +1830,6 @@
     "id": 10119
   },
   {
-    "source_name": "AppleInsider",
-    "title": "Where to find the best free fonts for Mac without licensing headaches",
-    "link": "https://appleinsider.com/inside/macos/tips/where-to-find-the-best-free-fonts-for-mac-without-licensing-headaches?utm_source=rss",
-    "content": "The best font websites for Mac offer thousands of free and commercial typefaces, but licensing and compatibility can complicate the search. Here's how to find reliable font repositories, download fonts, and install them on your Mac.\n\nChoose your style with fonts\nFinding a good font isn't particularly difficult. The challenge is choosing a typeface that has the styles you need, works in your apps, and comes with a license that covers what you're making.\nSome repositories focus on free, open-source families that anyone can download. Others sell commercial fonts, provide subscription access, or specialize in decorative lettering that's harder to find elsewhere.\nModern Macs support standard TrueType and OpenType font files, so you generally don't need a Mac-specific edition. You can install fonts using Font Book, although it's worth checking Apple's existing collection before downloading anything new.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-16T11:29:52.000Z",
-    "creator": "Andrew Orr <andreworr@appleinsider.com>",
-    "tags": "Mac,Services",
-    "id": 10062
-  },
-  {
     "source_name": "Macworld",
     "title": "HomeView and third-party apps: What works, what doesn’t, and what we don’t know",
     "link": "https://www.macworld.com/article/3261804/homeview-and-third-party-apps-what-works-what-doesnt-and-what-we-dont-know.html",
@@ -2968,35 +2998,5 @@
     "creator": "Ryan Christoffel",
     "tags": "General",
     "id": 9871
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "OpenAI Says Ex-Employee Showed Its Device Plans to Apple",
-    "link": "https://www.macrumors.com/2026/10/14/openai-apple-potential-counterclaim/",
-    "content": "OpenAI today suggested Apple could be using its trade secrets, the very thing Apple is already suing OpenAI for. In a court filing, OpenAI accused an ex-employee of giving sensitive data about an unreleased product to Apple.\r\n\r\n\r\nThe unnamed employee joined OpenAI from Apple and then returned after six months. OpenAI claims the person sent \"over a hundred highly confidential files\" to personal accounts, including manufacturing data and detailed images of at least one unreleased product. The former employee allegedly \"made a presentation\" on OpenAI product plans for Apple's senior leadership \"months ago,\" and OpenAI is worried Apple could use that information to further its work on AI devices.\r\nOpenAI is very concerned that its trade secret and confidential information is now circulating inside Apple, where Apple engineers can shape Apple's upcoming products based on OpenAI's confidential and innovative work. OpenAI has raised these issues directly with Apple, but to date, Apple has not provided OpenAI with the requested assurances that Apple is not in possession of, and has not used, OpenAI's trade secret and confidential information.\n\r\nOpenAI asked the court for permission to investigate and pursue counterclaims if necessary. Apple told Reuters it has found no evidence to support OpenAI's claims and it has policies in place to ensure new employees do not use confidential information from previous employers.\r\n\r\nApple sued OpenAI in July. Apple says OpenAI employees Chang Liu and Tang Tan stole trade secrets from Apple to develop new AI hardware. OpenAI called the lawsuit \"careless, aggressive and oddly personal,\" stating that it does not \"have, nor want, any of their trade secrets\" because it is \"much more interested in building innovative products and technologies that push the frontier.\"\r\n\r\nYesterday, the court partially granted Apple's request for expedited discovery. OpenAI has up to two weeks to hand over forensic evidence as well as materials used when interviewing former Apple employees. Liu, Tan, and Alyssa Peng, Liu's former Apple colleague, will need to sit for depositions after Apple gets the requested information.\r\n\r\nBloomberg says an injunction would \"mark a potential setback\" for OpenAI's hardware development efforts.\nTag: OpenAI\nThis article, \"OpenAI Says Ex-Employee Showed Its Device Plans to Apple\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-14T18:55:13.000Z",
-    "creator": "Juli Clover",
-    "tags": "General",
-    "id": 9862
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "How to get Wi-Fi streaming, Bluetooth, USB-C on your old iPod",
-    "link": "https://appleinsider.com/articles/26/10/14/how-to-get-wi-fi-streaming-bluetooth-usb-c-on-your-old-ipod?utm_source=rss",
-    "content": "The Sprout motherboard replacement for iPod fits inside an original case and uses its screen and click wheel for navigation. There's no soldering, and best of all, it uses a microSD card for storage, like most of the mods for iPods do. There are models coming for iPod 3rd gen, iPod mini, and iPod 4th gen.\n\n\n\nhttps://certainthin.gs/sprout\n\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-14T18:40:54.000Z",
-    "creator": "Mike Wuerthele <mike@appleinsider.com>",
-    "tags": "General",
-    "id": 9889
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Les Benjamins takes fashion to the sky with iPad-designed hot air balloons",
-    "link": "https://appleinsider.com/articles/26/10/14/les-benjamins-takes-fashion-to-the-sky-with-ipad-designed-hot-air-balloons?utm_source=rss",
-    "content": "A fashion designer used an iPad Pro to create flying hot-air balloons inspired by flowers, then made them part of his runway show.\n\n\niPad Pro used to design balloons for Turkish fashion show\n\n\nLes Benjamins designer Bunyamin Aydin used an iPad Pro to develop a fashion show staged beneath custom hot-air balloons in Turkiye. Apple's latest creative profile follows the project from early sketches to a fashion show shot on iPhone 18 Pro Max.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-14T18:40:02.000Z",
-    "creator": "Amber Neely <amber@appleinsider.com>",
-    "tags": "iOS",
-    "id": 9890
   }
 ]
