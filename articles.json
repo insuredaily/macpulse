@@ -1,5 +1,35 @@
 [
   {
+    "source_name": "MacRumors",
+    "title": "Perplexity Computer Can Now Run Fully Locally on Mac",
+    "link": "https://www.macrumors.com/2026/10/20/perplexity-computer-local-mac/",
+    "content": "Perplexity today said it is updating Perplexity Computer to run fully locally on Mac. The local version runs on Qwen 3.6 or PPLX Pro (a post-trained version of Qwen) in the Perplexity app for Mac on supported Apple silicon Macs.\r\n\r\n\r\nPerplexity highlights the new Mac mini machines and says 36GB of memory or more is recommended to run locally. With the local setup, the AI model, task planning, reasoning, and file processing are handled on-device. Code and tool execution run in isolated sandbox environments.\r\n\r\nComputer can use native apps on the Mac and complete tasks without sending personal data to the cloud. Perplexity says it can work across apps like Notes, Messages, Mail, Keynote, and Numbers.\r\n\r\nPerplexity also offers Hybrid Compute, which combines frontier models that run in the cloud with local models to process information privately. It's an alternative for users who want local processing but don't have a Mac that's powerful enough. Hybrid Compute works on Macs with as little as 24GB of memory,\r\n\r\nWhen running Computer locally, if a task requires current information, browser use, or cloud-connected apps, users can authorize cloud access and decide when to spend credits. There's also an option to call on one of more than 15 frontier models for tougher problems when needed.\r\n\r\nTag: Perplexity\nThis article, \"Perplexity Computer Can Now Run Fully Locally on Mac\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-20T22:20:12.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,Silicon,App Store",
+    "id": 10445
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple CEO John Ternus says design still means everything & includes whimsey",
+    "link": "https://appleinsider.com/articles/26/10/20/apple-ceo-john-ternus-says-design-still-means-everything-includes-whimsey?utm_source=rss",
+    "content": "\"Design is how it works\" rings true at Apple today, and John Ternus wants to assure everyone that respect for the user and building products that are beneficial is \"job one.\"\n\n\nJohn Ternus is still focused on design\nJohn Ternus may be Apple's new CEO but he's not letting his new role interrupt his passion for industrial design. He emphasized that Apple had been working towards iPhone Duo for over 15 years in a previous interview.\nA video version of that interview with Time was shared Tuesday with more conversation around the importance of design at Apple. Ternus starts by sharing his continued role of being involved with industrial design.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-20T21:23:24.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "iOS",
+    "id": 10452
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Sensor Tower: Meta’s Muse app tops 10 million US downloads in 40 days",
+    "link": "https://9to5mac.com/2026/10/20/sensor-tower-metas-muse-app-tops-10-million-us-downloads-in-40-days/",
+    "content": "According to a new report from Sensor Tower, not only did Meta’s Muse become the 12th app ever to reach 10 million US downloads in 40 days, but it is also outpacing its peers in user retention. Here are the details.\nmore…",
+    "pub_date": "2026-10-20T20:45:05.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "App Store",
+    "id": 10446
+  },
+  {
     "source_name": "9to5Mac",
     "title": "Apple’s ‘Designers of Tomorrow’ highlights creative projects from emerging designers",
     "link": "https://9to5mac.com/2026/10/20/apples-designers-of-tomorrow-highlights-creative-projects-from-emerging-designers/",
@@ -2968,35 +2998,5 @@
     "creator": "Luke Dormehl",
     "tags": "Mac",
     "id": 10024
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Hands-on: Pokémon x Beats Pill is one of my favorite collabs yet [Video]",
-    "link": "https://9to5mac.com/2026/10/15/hands-on-pokemon-x-beats-pill-is-one-of-my-favorite-collabs-yet-video/",
-    "content": "As someone who loves all things Apple and Pokémon, I never thought these worlds would collide, but here we are! Beats and the Pokémon Company have officially teamed up for a special edition Beats Pill, and man, did they nail this. This new collab features both Pikachu and Mimikyu, bringing a two-tone design, unique accessories, and some awesome attention to detail in a speaker that we know and love. I have been using mine for a few days and wanted to share my thoughts as a fan of both brands in this collaboration. \nmore…",
-    "pub_date": "2026-10-15T14:32:11.000Z",
-    "creator": "Fernando Silva",
-    "tags": "General",
-    "id": 9998
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple donated $25 million to White House ballroom project",
-    "link": "https://appleinsider.com/articles/26/10/15/apple-donated-25-million-to-white-house-ballroom-project?utm_source=rss",
-    "content": "The Washington Post claims to have the goods on who's chipped in a total of $330 million for the controversial White House demolition and ballroom project. Apple is said to have donated $25 million, as has Nvidia. Microsoft is in for $10 million, and so is Lockheed Martin. The White House declined comment on individual donors.\n\nhttps://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/\n\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-15T14:25:07.000Z",
-    "creator": "Mike Wuerthele <mike@appleinsider.com>",
-    "tags": "General",
-    "id": 10012
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Amazon Offers $120 Discount on AirPods Max 2, $50 Off AirPods Pro 3",
-    "link": "https://www.macrumors.com/2026/10/15/airpods-max-2-airpods-pro-3-discounts/",
-    "content": "Amazon has a few notable markdowns on AirPods models this week, including the AirPods Max 2 and AirPods Pro 3. In regards to the AirPods Max 2, Amazon's deal today is matching the Prime Day low price we saw earlier this month.\r\n\r\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n$429.00, down from $549.00. This is one of the lowest prices we've ever seen on the AirPods Max 2, and the sale is available in Blue, Midnight, Orange, Purple, and Starlight colors.\r\n\r\n\n$120 OFF\nAirPods Max 2 for $429.00\n\n\r\n\r\n$199.00, down from $249.00. This is a second-best price on the AirPods Pro 3, but if you missed the all-time low price during Prime Day and want a model now, it's still a solid $50 discount.\r\n\r\n\n$50 OFF\nAirPods Pro 3 for $199.00\n\n\r\n\r\nThis model of the AirPods Pro launched in September 2025 and has 2x better Active Noise Cancellation than the previous generation, better audio quality, a revised fit that's meant to improve comfort and stability, Live Translation for in-person conversations, and heart rate sensing for workouts.\r\n\r\nDeals Roundup to get caught up with all of the latest deals and discounts that we've been tracking over the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find as we head into the holidays? You can sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"Amazon Offers $120 Discount on AirPods Max 2, $50 Off AirPods Pro 3\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-15T14:12:42.000Z",
-    "creator": "Mitchel Broussard",
-    "tags": "General",
-    "id": 9982
   }
 ]
