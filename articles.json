@@ -1,6 +1,106 @@
 [
   {
     "source_name": "MacRumors",
+    "title": "WhatsApp Developing In-App Browser for All Chat Links on iPhone",
+    "link": "https://www.macrumors.com/2026/10/21/whatsapp-developing-browser-for-chat-links/",
+    "content": "WhatsApp is developing an optional in-app browser for its iPhone app that would let users open any link shared in chats without leaving the app, according to WABetaInfo.\r\n\r\nSettings and Chats would let users enable the feature or continue opening links in their default browser. Users would also be able to clear cookies, cache, and other browsing data. The feature would also expand existing support for certain business links.\nTag: WhatsApp\nThis article, \"WhatsApp Developing In-App Browser for All Chat Links on iPhone\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-21T04:15:09.000Z",
+    "creator": "Hartley Charlton",
+    "tags": "iOS,App Store",
+    "id": 10453
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple's App Store Chief Explains Its Push for Premium Games",
+    "link": "https://www.macrumors.com/2026/10/20/app-store-chief-explains-premium-games-push/",
+    "content": "More premium games are launching on the App Store this year than last, Apple's ‌App Store‌ Worldwide head Carson Oliver told Polygon, including more franchises coming from PC and consoles.\r\n\r\n\r\nOliver said:\r\n\r\nWe've seen incredible growth of games coming to the App Store, in general, with more premium games releasing on the App Store this year than last. While many of those are indies, we're also seeing more console and PC franchises coming to mobile, as it is a burgeoning audience for those games.\n\r\n\r\nOliver singled-out \"Balatro,\" \"Stardew Valley,\" \"Slay the Spire,\" and \"Bloons TD 6\" as games finding success on mobile, and singled out cozy games, management simulations, and roguelikes as particularly successful categories. \r\n\r\nOliver suggested that part of the opportunity comes from players whose first gaming device was an iPhone. Having grown up playing with touch controls, those users give independent developers an audience accustomed to games designed around a touchscreen.\r\n\r\nFor an entire generation of players, their very first gaming device wasn't a console or a PC, it was an iPhone with a touchscreen. These users embrace direct touch as their primary controller, making iPhone and iPad the ultimate canvas for indie innovation.\n\r\n\r\niPad games, including \"Sifu,\" \"Vampire Crawlers,\" \"No Man's Sky,\" and \"Little Kitty, Big City.\"\r\n\r\nPolygon asked where Apple Arcade fits into the company's plans. Oliver described subscriptions and individual purchases as options developers can use alongside one another:\r\n\r\nWe want to give developers a trusted place to reach users around the world, support them at each stage, and help them build successful businesses. To achieve that goal, we provide developers with flexible business model options. That means a breakthrough phenomenon like Balatro can thrive as a premium download, and it can also find a home as part of the Apple Arcade service. The important thing is that we give developers the flexibility to make the best choice for every game and players the freedom to play how they want.\n\r\n\r\nOliver also discussed how Apple helps smaller studios get noticed, pointing to the ‌App Store‌'s editorial team:\r\n\r\nFrom day one, the App Store was built to level the playing field for discovery and distribution, so that an indie title can sit shoulder-to-shoulder with the biggest entertainment franchises.\n\r\n\r\nAlongside editorial recommendations, Apple recently introduced Creative Assets, which gives developers more control over their games' presentation in the store:\r\n\r\nWe also provide indie developers with tools and services to break through to new audiences and drive engagement. For example, we just launched Creative Assets. This new feature lets indie game developers tell their game's story in a richer way by showcasing artwork of their choosing in two of the most important places players find games: search results and product page headers.\n\r\n\r\nOliver said Apple's development tools are also reducing the work required to bring existing games to its platforms:\r\n\r\nTechnologies like Game Porting Toolkit 4, MetalFX, and our open-source Unity plug-ins dramatically cut the time, effort, and cost required for developers to bring PC and console games to Apple devices.\n\r\n\r\nPolygon.\nTags: App Store, Apple Arcade\nThis article, \"Apple's App Store Chief Explains Its Push for Premium Games\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-21T03:58:10.000Z",
+    "creator": "Hartley Charlton",
+    "tags": "iOS,App Store,Services",
+    "id": 10454
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Could Owe Even More After $5.7 Billion Patent Verdict",
+    "link": "https://www.macrumors.com/2026/10/20/apple-could-owe-more-after-patent-verdict/",
+    "content": "Apple could face additional payments on top of a $5.7 billion patent verdict, with Taction Technology asking a federal judge for more damages, interest, and royalties on future iPhone and Apple Watch sales.\r\n\r\n\r\nThe request follows a September jury verdict that Apple's Taptic Engine infringed two Taction patents covering haptic feedback, the technology that produces taps and vibrations in devices. Apple disputes the verdict and is seeking to have it overturned or obtain a new trial.\r\n\r\nReuters, Taction says the $5.7 billion award covers sales from 2021 through to late March 2026. It now wants compensation for approximately six more months of sales that were not included in the jury's initial calculation.\r\n\r\nTaction is also asking for interest on the damages at an annual rate of 7%, citing California law. That could increase the amount by hundreds of millions of dollars. Separately, it wants interest to continue accumulating after the court enters its final judgment until Apple pays.\r\n\r\nThe company's request also extends to future sales. Taction wants Apple to pay royalties on devices using the disputed technology until the patents expire on September 24, 2035. Under its proposal, Apple would report U.S. sales every quarter and pay within 30 days of the quarter ending.\r\n\r\niPhone 18 Pro and Apple Watch Series 12, should also be covered because their relevant technology has not changed enough to escape the patent claims. To support that position, it points to Apple's earlier litigation against Samsung, in which Apple argued that royalties should extend to newer products with essentially the same infringing technology.\r\n\r\njury's award, arguing that the evidence did not support the $5.7 billion calculation, and has said it will appeal.\nTag: Patent Lawsuits\nThis article, \"Apple Could Owe Even More After $5.7 Billion Patent Verdict\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-21T03:24:11.000Z",
+    "creator": "Hartley Charlton",
+    "tags": "iOS,Services",
+    "id": 10455
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Skyrim Comes to Apple Silicon Macs With New Unofficial Installer",
+    "link": "https://www.macrumors.com/2026/10/20/skyrim-comes-to-apple-silicon-macs/",
+    "content": "Bethesda's beloved role-playing game \"The Elder Scrolls V: Skyrim\" has reached multiple generations of consoles since its 2011 debut, but it never officially came to the Mac. A new unofficial project called SkyrimMT now aims to make playing and modding it on Apple silicon Macs easier than ever.\r\n\r\n\r\nMac owners have found ways to play Skyrim over the years, including installing Windows through Boot Camp on Intel Macs and using compatibility software such as CrossOver. Boot Camp is unavailable on Apple silicon Macs, leaving players dependent on other solutions to run the Windows game.\r\n\r\nSkyrimMT's appeal is in bringing that process together in an app built specifically for Skyrim. Its automated setup installs the required compatibility software and guides users through signing in to Steam and installing their copy of the game. It supports Skyrim Special Edition and Anniversary Edition.\r\n\r\nIts native mod manager supports browsing Nexus Mods, installing Nexus Collections and Wabbajack modlists, and importing Mod Organizer 2 setups. Common additions such as Skyrim Script Extender and SkyUI can also be installed through the app. Users can maintain separate mod profiles, inspect conflicts, sort load orders, and restore earlier configurations from snapshots. \r\n\r\nUnder the hood, SkyrimMT runs the Windows game through Wine and uses DXMT to translate its Direct3D 11 graphics to Apple's Metal. \r\n\r\nGitHub releases page.\nTags: Apple Silicon, Mac Gaming\nThis article, \"Skyrim Comes to Apple Silicon Macs With New Unofficial Installer\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-21T02:56:30.000Z",
+    "creator": "Hartley Charlton",
+    "tags": "Mac,Silicon,App Store",
+    "id": 10456
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Highlights Mac and iPad Use in Paris Design Exhibition",
+    "link": "https://www.macrumors.com/2026/10/20/apple-highlights-paris-design-exhibition/",
+    "content": "Apple has showcased four design projects created using its products for this year's \"Designers of Tomorrow\" exhibition in Paris.\r\n\r\n\r\nThe exhibition explores the theme of presence through furniture and lighting. Architect Salem S. Charabi used a MacBook Pro to sketch and model a lantern, while designer Yoonjeong Lee used an iPad Pro and the Apple Pencil to develop ideas for a combined table and lamp.\r\n\r\nFaceTime to collaborate between Monterrey and Mexico City on a steel piece that opens into a table and stools.\r\n\r\npress release for more information.\nTag: France\nThis article, \"Apple Highlights Mac and iPad Use in Paris Design Exhibition\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-21T02:29:08.000Z",
+    "creator": "Hartley Charlton",
+    "tags": "Mac,iOS",
+    "id": 10457
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iPad Mini 8 Expected Next Week With These 10 New Features",
+    "link": "https://www.macrumors.com/2026/10/20/ipad-mini-8-10-rumored-features/",
+    "content": "Apple reportedly plans to unveil an iPad mini 8 with an OLED display next week, with those invited to Apple's Los Angeles experience on Wednesday, October 28 expected to receive hands-on time with the device, alongside MacBook Pro models with touch-enabled OLED displays, a 14-inch MacBook Pro with an M6 chip, and an iMac with an M6 chip.\r\n\r\n\r\nHere are 10 new features and changes expected for the iPad mini 8:\r\n\r\n\r\n  \nApple's latest A20 Pro chip, manufactured with TSMC's advanced 2nm process. Expect up to around 1.5× faster CPU performance and up to around 2.5× faster GPU performance compared to the A17 Pro chip in the current iPad mini. A20 Pro also introduces a \"dual 16-core Neural Engine\" for a total of 32 cores.\n\r\n  \nWith the A20 Pro chip, the next iPad mini will have 12GB of RAM, up from 8GB of RAM in the current model. This means the device will support the ability to customize the pace and expressiveness of Siri AI's voice.\n\r\n  \nA slightly larger OLED display with better overall image quality compared to the current LCD model, thanks to richer colors and higher contrast ratio with true blacks. Apple has apparently tested both 60Hz and 120Hz (ProMotion) refresh rates for the new model, but it is unclear which option it chose.\n\r\n  \nSlimmer bezels around the display compared to the current model.\n\r\n  \nLandscape front camera, meaning the camera will be in the right bezel instead of the top bezel when holding the device in an upright position.\n\r\n  \nApple's custom-designed N1 chip with Wi-Fi 7 and Bluetooth 6 support.\n\r\n  \nApple's custom-designed C1X or C2 modem for cellular configurations.\n\r\n  \nA redesigned speaker system with no speaker holes and potentially an iPhone earpiece-like speaker in the top bezel.\n\r\n  \nIP-rated water resistance for the first time.\n\r\n\r\n\r\nreceiving a $100 price increase in June, which Apple attributed to skyrocketing RAM and storage chip prices. With a costlier OLED display, the next model might be even more expensive.\nRelated Roundup: iPad mini\nBuyer's Guide: iPad Mini (Don't Buy)\nRelated Forum: iPad\nThis article, \"iPad Mini 8 Expected Next Week With These 10 New Features\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-21T02:19:49.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "Mac,iOS,Silicon",
+    "id": 10395
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple is looking for a cellular modem engineer to help shape its transition to 6G",
+    "link": "https://9to5mac.com/2026/10/20/apple-is-looking-for-a-cellular-modem-engineer-to-help-shape-its-transition-to-6g/",
+    "content": "Apple is looking for an experienced cellular modem systems engineer to help develop its next generation of cellular modems as the company transitions toward 6G. Here are the details.\nmore…",
+    "pub_date": "2026-10-21T01:18:32.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 10460
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Dark comedy ‘Where’s Wanda?’ season 2 premieres on Apple TV",
+    "link": "https://9to5mac.com/2026/10/20/dark-comedy-wheres-wanda-season-2-premieres-on-apple-tv/",
+    "content": "German-language dark comedy “Where’s Wanda?” is back on Apple TV, with the first episode of its second season now streaming. Here are the details.\nmore…",
+    "pub_date": "2026-10-21T01:01:09.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 10461
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Seeks 6G Modem Engineers as It Plans for Post-5G iPhones",
+    "link": "https://www.macrumors.com/2026/10/20/apple-6g-research-continues/",
+    "content": "Apple is continuing to work on 6G, the successor to 5G that's on track to be ready sometime around 2030. Apple has been preparing for the eventual launch of the 6G standard since at least 2020.\r\n\r\n\r\nApple is hiring a 6G Cellular Modem Systems Engineer who will \"define and build the next generation of cellular technology\" as the company transitions to 6G. Apple designs its own modems now, so it will need to be ready when 6G rolls out.\r\n\r\n6G goals include faster data upload speeds, lower latency, and better power efficiency. 5G is already used for home internet, and that will likely expand with 6G.\r\n\r\nTag: 6G\nThis article, \"Apple Seeks 6G Modem Engineers as It Plans for Post-5G iPhones\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-20T23:46:21.000Z",
+    "creator": "Juli Clover",
+    "tags": "General",
+    "id": 10458
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "First iPhone Duo Unboxing Video Appears Ahead of Friday Launch",
+    "link": "https://www.macrumors.com/2026/10/20/iphone-duo-unboxing-video/",
+    "content": "With just a couple of days to go until the iPhone Duo launches, the first unboxing video has surfaced online from someone who managed to get a device early.\r\n\r\n\n\r\nThe ‌iPhone Duo‌ ships flat instead of folded, and it is otherwise packaged like any other iPhone.\r\n\r\nWe've already seen first impressions from members of the media who tried the ‌iPhone Duo‌ in person, but the unboxing video is the first look from outside the press.\r\n\r\nWe're expecting ‌iPhone Duo‌ reviews to go live as soon as tomorrow, and the device will launch on October 23. New iPhone Duos purchased from Apple's online store won't arrive until January 25, and Apple hasn't said whether stores will have the ‌iPhone Duo‌ for walk-in purchases on the 23rd.\r\n\r\ntold to warn customers there likely won't be launch-day stock. Apple's websites in Japan, South Korea, and the United Arab Emirates say the ‌iPhone Duo‌ will be limited to customers with a pickup reservation.\nRelated Roundup: iPhone Duo\nBuyer's Guide: iPhone Duo (Buy Now)\nRelated Forum: iPhone\nThis article, \"First iPhone Duo Unboxing Video Appears Ahead of Friday Launch\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-20T23:31:23.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS",
+    "id": 10459
+  },
+  {
+    "source_name": "MacRumors",
     "title": "Perplexity Computer Can Now Run Fully Locally on Mac",
     "link": "https://www.macrumors.com/2026/10/20/perplexity-computer-local-mac/",
     "content": "Perplexity today said it is updating Perplexity Computer to run fully locally on Mac. The local version runs on Qwen 3.6 or PPLX Pro (a post-trained version of Qwen) in the Perplexity app for Mac on supported Apple silicon Macs.\r\n\r\n\r\nPerplexity highlights the new Mac mini machines and says 36GB of memory or more is recommended to run locally. With the local setup, the AI model, task planning, reasoning, and file processing are handled on-device. Code and tool execution run in isolated sandbox environments.\r\n\r\nComputer can use native apps on the Mac and complete tasks without sending personal data to the cloud. Perplexity says it can work across apps like Notes, Messages, Mail, Keynote, and Numbers.\r\n\r\nPerplexity also offers Hybrid Compute, which combines frontier models that run in the cloud with local models to process information privately. It's an alternative for users who want local processing but don't have a Mac that's powerful enough. Hybrid Compute works on Macs with as little as 24GB of memory,\r\n\r\nWhen running Computer locally, if a task requires current information, browser use, or cloud-connected apps, users can authorize cloud access and decide when to spend credits. There's also an option to call on one of more than 15 frontier models for tougher problems when needed.\r\n\r\nTag: Perplexity\nThis article, \"Perplexity Computer Can Now Run Fully Locally on Mac\" first appeared on MacRumors.com\nDiscuss this article in our forums",
@@ -11,7 +111,7 @@
   },
   {
     "source_name": "AppleInsider",
-    "title": "Apple CEO John Ternus says design still means everything & includes whimsey",
+    "title": "Apple CEO John Ternus says design still means everything & includes whimsy",
     "link": "https://appleinsider.com/articles/26/10/20/apple-ceo-john-ternus-says-design-still-means-everything-includes-whimsey?utm_source=rss",
     "content": "\"Design is how it works\" rings true at Apple today, and John Ternus wants to assure everyone that respect for the user and building products that are beneficial is \"job one.\"\n\n\nJohn Ternus is still focused on design\nJohn Ternus may be Apple's new CEO but he's not letting his new role interrupt his passion for industrial design. He emphasized that Apple had been working towards iPhone Duo for over 15 years in a previous interview.\nA video version of that interview with Time was shared Tuesday with more conversation around the importance of design at Apple. Ternus starts by sharing his continued role of being involved with industrial design.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
     "pub_date": "2026-10-20T21:23:24.000Z",
@@ -58,16 +158,6 @@
     "creator": "Ryan Christoffel",
     "tags": "General",
     "id": 10405
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iPad Mini 8 Expected Next Week With These 10 New Features",
-    "link": "https://www.macrumors.com/2026/10/20/ipad-mini-8-10-rumored-features/",
-    "content": "Apple reportedly plans to unveil an iPad mini 8 with an OLED display next week, with those invited to Apple's Los Angeles experience on Wednesday, October 28 expected to receive hands-on time with the device, alongside MacBook Pro models with touch-enabled OLED displays, a 14-inch MacBook Pro with an M6 chip, and an iMac with an M6 chip.\r\n\r\n\r\nHere are 10 new features and changes expected for the iPad mini 8:\r\n\r\n\r\n  \nApple's latest A20 Pro chip, manufactured with TSMC's advanced 2nm process. Expect up to around 1.5× faster CPU performance and up to around 2.5× faster GPU performance compared to the A17 Pro chip in the current iPad mini. A20 Pro also introduces a \"dual 16-core Neural Engine\" for a total of 32 cores.\n\r\n  \nWith the A20 Pro chip, the next iPad mini will have 12GB of RAM, up from 8GB of RAM in the current model. This means the device will support the ability to customize the pace and expressiveness of Siri AI's voice.\n\r\n  \nA slightly larger OLED display with better overall image quality compared to the current LCD model, thanks to richer colors and higher contrast ratio with true blacks. Apple has apparently tested both 60Hz and 120Hz (ProMotion) refresh rates for the new model, but it is unclear which option it chose.\n\r\n  \nSlimmer bezels around the display compared to the current model.\n\r\n  \nLandscape front camera, meaning the camera will be in the right bezel instead of the top bezel when holding the device in an upright position.\n\r\n  \nApple's custom-designed N1 chip with Wi-Fi 7 and Bluetooth 6 support.\n\r\n  \nApple's custom-designed C1X or C2 modem for cellular configurations.\n\r\n  \nA redesigned speaker system with no speaker holes and potentially an iPhone earpiece-like speaker in the top bezel.\n\r\n  \nIP-rated water resistance for the first time.\n\r\n\r\n\r\nreceiving a $100 price increase in June, which Apple attributed to skyrocketing RAM and storage chip prices. With a costlier OLED display, the next model might be even more expensive.\nRelated Roundup: iPad mini\nBuyer's Guide: iPad Mini (Don't Buy)\nRelated Forum: iPad\nThis article, \"iPad Mini 8 Expected Next Week With These 10 New Features\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-20T19:35:00.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "Mac,iOS,Silicon",
-    "id": 10395
   },
   {
     "source_name": "9to5Mac",
@@ -2908,95 +2998,5 @@
     "creator": "Hartley Charlton",
     "tags": "iOS,Silicon",
     "id": 9980
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple's M5 MacBook Air with 24GB RAM, 1TB SSD drops to $1,599",
-    "link": "https://appleinsider.com/articles/26/10/15/apples-m5-macbook-air-with-24gb-ram-1tb-ssd-drops-to-1599?utm_source=rss",
-    "content": "Save $200 on Apple's upgraded 13-inch MacBook Air M5 that's equipped with 24GB of RAM and 1TB of storage.\n\n\nSave $200 on Apple's M5 MacBook Air with 24GB RAM, 1TB SSD - Image credit: Apple\nAmazon's mid-October MacBook Air sale delivers $200 in savings on a popular configuration that features a bump up to 24GB of unified memory and a 1TB SSD.\nBuy MacBook Air 24GB, 1TB for $1,599\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-15T15:51:26.000Z",
-    "creator": "Christine McKee <christine@appleinsider.com>",
-    "tags": "Mac,Silicon",
-    "id": 10010
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple TV 4K, HomeView pre-order ship times now delayed later in November",
-    "link": "https://9to5mac.com/2026/10/15/apple-tv-4k-homeview-pre-order-ship-times-now-delayed-to-late-november/",
-    "content": "Apple unveiled new Apple TV 4K and HomeView devices this week that won’t be available until November 13. But pre-order shipping times for these products have already started slipping into late November for new orders.\nmore…",
-    "pub_date": "2026-10-15T15:39:21.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "General",
-    "id": 9995
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Precision Finding on the new Siri Remote comes with an unexpected catch",
-    "link": "https://appleinsider.com/articles/26/10/14/precision-finding-on-the-new-siri-remote-comes-with-an-unexpected-catch?utm_source=rss",
-    "content": "Apple's new Siri Remote adds Precision Finding, but the feature won't work with iPhone 15 or iPhone 16 models, as Apple is using a new Bluetooth-based technology.\n\niPhone 16 Pro Max\nIntroduced alongside the fourth-generation Apple TV, the updated remote adds more precise location guidance through Find My and a built-in tone inducer that can play a sound when the remote goes missing.\nHowever, Apple's compatibility requirements exclude several relatively recent iPhones, including models that already support advanced location tracking with other Apple accessories.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-15T15:33:51.000Z",
-    "creator": "Andrew Orr <andreworr@appleinsider.com>",
-    "tags": "iOS",
-    "id": 9796
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Deals: HomeView pre-order discount (more colors), HomePod mini 2, Mac Studio $220 off, AirPods Pro 3, more",
-    "link": "https://9to5mac.com/2026/10/15/deals-homeview-discount-homepod-mini-2-airpods-pro-3/",
-    "content": "While the $50 price drop on AirPods Pro 3 is still rolling, today’s 9to5Toys Lunch Break is headlined by some new pre-order discounts on the new Apple HomeView – Amazon now has some additional colorways marked down. We also uncovered some pre-order promotions for the new HomePod mini 2 alongside the lowest price we have tracked yet on Apple’s 1TB 2026 M5 Max Mac Studio at $220 off and Amazon’s giant ongoing $600 price drop on this M5 Pro MacBook Pro. Head below for a closer look at the details.\nmore…",
-    "pub_date": "2026-10-15T15:33:26.000Z",
-    "creator": "Justin Kahn",
-    "tags": "Mac,Silicon",
-    "id": 9996
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Ternus spent 15 years planning the iPhone Duo",
-    "link": "https://appleinsider.com/articles/26/10/15/ternus-spent-15-years-planning-the-iphone-duo?utm_source=rss",
-    "content": "New CEO John Ternus believes Apple should get designs right rather than launch early or emulate rivals, and the iPhone Duo is an example of that.\n\n\nJohn Ternus and the iPhone Duo - image credit: Apple.\nTernus was named as Tim Cook's successor in April 2026, around 25 years after he first joined the company. But after just 10 years, he was already involved in what would become the iPhone Duo.\nSpeaking to Time magazine, he said that he and five fellow engineers had even filed a patent for foldable devices in 2011. \"It felt clear that we were going to eventually get to a place where OLED displays were going to be flexible.\"\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-15T15:32:26.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "iOS",
-    "id": 10011
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Apple HomeView apps include 15 built-ins — but no App Store",
-    "link": "https://www.cultofmac.com/news/apple-homeview-15-built-in-apps-no-app-store",
-    "content": "Apple's HomeView smart display comes with 15 built-in apps, from Safari to FaceTime. Here’s the full list.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-10-15T15:20:08.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,App Store",
-    "id": 10023
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Greg Joswiak Says Apple Isn't Focused on Making AI for 'Lunatic Fringe'",
-    "link": "https://www.macrumors.com/2026/10/15/greg-joswiak-lunatic-fringe/",
-    "content": "In an interview with TIME's Andrew R. Chow, Apple's marketing chief Greg Joswiak said Apple Intelligence is meant for \"everyday people\" as opposed to the \"lunatic fringe.\"\r\n\r\n\r\nThe full sentence: \"In the midst of a populist AI backlash, they contend that they are building a modest but personalized and privacy-preserving form of AI that will actually help ordinary people as opposed to merely dazzling Silicon Valley's 'lunatic fringe,' as Greg Joswiak, senior vice president of worldwide marketing, puts it.\"\r\n\r\nJoswiak apparently believes Apple Intelligence is not for \"die-hard AI believers chasing superintelligence,\" as Chow described it.\r\n\r\n\"We love them, and they can use it too, but that's not our target,\" said Joswiak. \"It's how to make it better for everyday people.\"\r\n\r\nTags: Apple Intelligence, Greg Joswiak\nThis article, \"Greg Joswiak Says Apple Isn't Focused on Making AI for 'Lunatic Fringe'\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-15T15:13:56.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "General",
-    "id": 9981
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple SVP Greg Joswiak: ‘We don’t feel threatened’ by OpenAI hardware plans",
-    "link": "https://9to5mac.com/2026/10/15/apple-svp-greg-joswiak-we-dont-feel-threatened-by-openai-hardware-plans/",
-    "content": "Today in a new story at TIME, the publication interviewed CEO John Ternus but also spoke to Greg “Joz” Joswiak, Apple’s SVP of Worldwide Marketing, who addressed the “lunatic fringe” of AI in Silicon Valley, hardware threats from OpenAI, and more.\nmore…",
-    "pub_date": "2026-10-15T15:05:02.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "General",
-    "id": 9997
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Today in Apple history: Former CEO John Sculley bids Apple a $10 million farewell",
-    "link": "https://www.cultofmac.com/apple-history/john-sculley-resigns-from-apple-board",
-    "content": "On October 15, 1993, John Sculley stepped down as Apple chairman. He ran Apple well for 10 years, but he also forced out Steve Jobs.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-10-15T14:47:02.000Z",
-    "creator": "Luke Dormehl",
-    "tags": "Mac",
-    "id": 10024
   }
 ]
