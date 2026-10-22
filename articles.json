@@ -1,5 +1,215 @@
 [
   {
+    "source_name": "Macworld",
+    "title": "Apple accidentally reveals Google Workspace AI competitor",
+    "link": "https://www.macworld.com/article/3267434/apple-accidentally-reveals-google-workspace-ai-competitor.html",
+    "content": "Macworld\n\n\n\n\n\nEarlier this year, Apple introduced its Creator Studio subscription service. For a reasonable monthly or annual fee, Creator Studio bundles some of Apple’s most popular productivity apps, including Final Cut Pro, Logic Pro, and Photomator, into a fully connected suite, and unlocks exclusive AI-centric perks in the free iWork suite, allowing users to choose from premium templates and generate photos in Pages, Numbers, and Keynote.\nHowever, compared to the Gemini integration in Google Workspace, the AI offerings in Creator Studio are somewhat lackluster. That, however, is seemingly about to change. According to a Pages update that was briefly published to the App Store, Apple is about to expand the AI toolbox in iWork, providing subscribers with a Google Workspace-like experience.\nMeet Intelligent Assistant\nAs stated in the release notes of a now-pulled Apple Pages update, Creator Studio apps will soon adopt a Gemini-like tool called Intelligent Assistant. Per the change log, the beta feature requires iOS 27 and will allow Creator Studio users to:\nStart a first draft, then edit, organize, and elevate your writing with an assistant that understands your document;\nGet guidance on where to start, learn how to use advanced features, or try a suggestion to see what’s possible;\nDraft a section, adjust your tone, or generate images and shapes using natural language\nSearch for up-to-date information on a topic and incorporate it into your document.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nBased on the official description, it appears that Intelligent Assistant will significantly elevate the existing Writing Tools with deeper document context awareness, help research topics using fresh information, and more. While users can already achieve similar results using Siri AI on iOS 27, it seems Intelligent Assistant will be more deeply integrated into Pages, Numbers, and Keynote, providing a more intuitive ideation, creation, and editing flow.\nOther Creator Studio perks included with the removed update include “a new collection of professionally-designed templates,” along with curated videos in the Content Hub “that add motion and depth to your document.”\nWhere’s the update?\nI was able to download Pages version 15.4.1 right after Apple published it and before its swift removal. However, despite having an active Creator Studio subscription, I was unable to locate or use the all-new Intelligent Assistant. This suggests that the company either accidentally posted a change log meant for a future update or failed to correctly implement the new AI tools. \nRegardless, at the time of writing, Pages, Numbers, and Keynote are completely unavailable to download from the U.S. App Store—presumably until Apple resolves the matter. Whether we see Intelligent Assistant in the coming days or it’s pushed for a few months, one thing is clear: Apple is finally aiming to take Creator Studio to the next level for AI power users.\nUpdate: The apps appear to be back in the stores, though without the new Intelligence Assistant feature.",
+    "pub_date": "2026-10-22T19:07:08.000Z",
+    "creator": "Macworld",
+    "tags": "iOS,App Store,Services",
+    "id": 10650
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Giant iPhone Duo Displays Coming to Four Apple Stores",
+    "link": "https://www.macrumors.com/2026/10/22/giant-iphone-duos-at-four-apple-stores/",
+    "content": "To celebrate the launch of the iPhone Duo this Friday, Apple has set up oversized iPhone Duo promotional displays at Apple Fifth Avenue in New York City, Apple Covent Garden in London, Apple BKC in India, and Apple Jing'an in Shanghai.\r\n\r\n\r\nThe installations were already spotted under wraps, and Apple CEO John Ternus has since revealed what they look like in a photo of Apple Jing'an shared on his Weibo account today. The oversized iPhone Duo displays have mirrored finishes and glowing edges, and they show the device in various positions, or poses as Apple calls them.\r\n\r\n\"limited\" availability of the iPhone Duo for walk-in customers tomorrow.\r\n\r\nThanks, Filip Chudzinski!\nRelated Roundup: iPhone Duo\nTag: Apple Store\nBuyer's Guide: iPhone Duo (Buy Now)\nRelated Forum: iPhone\nThis article, \"Giant iPhone Duo Displays Coming to Four Apple Stores\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-22T18:50:41.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "iOS",
+    "id": 10621
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Amazon unveils Kindle+ subscription, a rebrand with more audiobooks",
+    "link": "https://9to5mac.com/2026/10/22/amazon-unveils-kindle-subscription-a-rebrand-with-more-audiobooks/",
+    "content": "Today Amazon announced that its Kindle Unlimited subscription has been rebranded ‘Kindle+’ and includes more audiobooks than before. Here are the details.\nmore…",
+    "pub_date": "2026-10-22T18:46:45.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "Services",
+    "id": 10624
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Intelligent Assistant added to iWork apps for Creative Studio subscribers",
+    "link": "https://appleinsider.com/articles/26/10/22/intelligent-assistant-added-to-iwork-apps-for-creative-studio-subscribers?utm_source=rss",
+    "content": "Apple added a beta Intelligent Assistant to Pages, Keynote, and Numbers on Thursday, but only Apple Creator Studio subscribers get it.\n\n\nMore AI features added to Pages, Keynote, and Numbers\nOn Thursday, Apple updated its iWork trio of apps: the word processor Pages, the presentation app Keynote, and the spreadsheet app Numbers. The update added support for the iPhone Duo, set to reach customers starting October 23.\nAccording to Apple, there's also a new Interchange Format (.keyx). Because the format is open, it should make editing Keynote files in other apps easier.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-22T18:27:40.000Z",
+    "creator": "Lou Hartle <news@appleinsider.com>",
+    "tags": "iOS,Silicon,App Store",
+    "id": 10641
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Trying to snag an iPhone Duo? These stock-checking sites might help",
+    "link": "https://www.macworld.com/article/3267323/trying-to-snag-an-iphone-duo-these-stock-checking-sites-might-help.html",
+    "content": "Macworld\n\n\n\n\n\nAh, the stock-tracking site. When that must-have gadget is hard to get, they can help you find some limited retail or online restock before it disappears.\nWe see them all the time when there’s a new game console launch, or some hard-to-find sneakers, or during that brief Stanley Cup craze. But it has been a while since an iPhone launch has needed one. Sometimes a specific iPhone color is out of stock, but the situation is usually rectified quickly. Between Apple’s site offering a reasonable delivery estimate, carrier stores, and a fast retail refresh, the iPhone you want is usually not too hard to find. \nUsually. But the iPhone Duo is different. Notoriously difficult to manufacture and thus in limited supply, preorders at launch are now stretching into late January of 2027. That’s a three-month wait if you order now. You might do better buying from your carrier. Or trying to grab one of the modest retail resupplies that will trickle out over the coming weeks. That’s where stock-checking sites come in.\niPhoneStockChecker shows you nearby stock in various colors and storage sizes. It includes the iPhone 18 Pro and Pro Max as well, which can still be a little hard to get in particular storage/color combinations.\nOrionChime has two sub-sites. One checks restaurant availability in Japan (really), and the other checks on stock for Apple products like iPhones, Mac Studio, or Mac mini.\nApple Inventory Check also checks inventory for various Apple products, including Macs and Apple Watch, and of course iPhones (including Duo). It’s limited to Apple Stores, but it’s faster than using the interface on Apple’s site to check availability of various configurations.\nTrackaLacker is a general stock-tracking site for online retailers. You can watch iPhone Duo there, but only for the online stores of places like Best Buy or Walmart, not the Apple Store online or in-store stock.\nMost of these will also let you set a browser notification to alert you when a particular product or configuration is spotted, or even an email, but continually checking and notifying you is often a paid feature, or at least requires signing up for a free account with the site. (AI agents or tools like Apple’s new Notify Me feature in Safari might let you keep tabs on things, too.)",
+    "pub_date": "2026-10-22T18:19:45.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,iOS",
+    "id": 10651
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple TV is adding two new features with iOS 27.2",
+    "link": "https://9to5mac.com/2026/10/22/apple-tv-is-adding-two-new-features-with-ios-27-2/",
+    "content": "iOS 27.2 is coming next week and brings two new features for Apple TV subscribers. Here’s what’s new.\nmore…",
+    "pub_date": "2026-10-22T18:16:52.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "iOS",
+    "id": 10625
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Pulls Keynote, Pages and Numbers From App Store",
+    "link": "https://www.macrumors.com/2026/10/22/apple-removes-iwork-apps-app-store/",
+    "content": "Apple has temporarily removed Keynote, Pages, and Numbers from the App Store, just after releasing an update that added iPhone Duo support and a new Intelligent Assistant.\r\n\r\n\r\nIt is not clear if the apps were removed intentionally, or if it is a bug. Apple has not said when the apps will be reinstated, but if it was in error, they should return soon.\r\n\r\nUpdate: The Mac versions are back without the new update. The iOS versions don't seem to have returned to the ‌App Store‌ yet. \nTag: App Store\nThis article, \"Apple Pulls Keynote, Pages and Numbers From App Store\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-22T18:01:29.000Z",
+    "creator": "Juli Clover",
+    "tags": "Mac,iOS,App Store",
+    "id": 10622
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Orangetheory adds Apple Watch in-studio workout tracking for a one-time fee",
+    "link": "https://9to5mac.com/2026/10/22/orangetheory-adds-apple-watch-in-studio-workout-tracking-for-a-one-time-fee/",
+    "content": "Starting tomorrow, Orangetheory Fitness will allow members to connect the Apple Watch to the club’s proprietary in-studio performance-tracking experience. Using a personal Apple Watch with the Orangetheory system will require a one-time fee.\nmore…",
+    "pub_date": "2026-10-22T17:48:26.000Z",
+    "creator": "Zac Hall",
+    "tags": "iOS",
+    "id": 10626
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Pages, Keynote, Numbers just added powerful new AI features",
+    "link": "https://9to5mac.com/2026/10/22/pages-keynote-numbers-just-added-powerful-new-ai-features/",
+    "content": "Apple is rolling out AI-centric updates to its iWork suite—Pages, Keynote, Numbers—that include a brand new ‘Intelligent Assistant’ with powerful capabilities. Here’s what it can do.\nmore…",
+    "pub_date": "2026-10-22T17:44:43.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "General",
+    "id": 10627
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Updates More Apps With iPhone Duo Support",
+    "link": "https://www.macrumors.com/2026/10/22/apple-iphone-duo-apps-garageband/",
+    "content": "Apple today updated its TestFlight and GarageBand apps with support for the iPhone Duo's inner and outer displays.\r\n\r\n\r\nBoth apps have the vertical toolbar and will now display properly on the ‌iPhone Duo‌ in any orientation.\r\n\r\nTestFlight functionality is largely the same with little benefit from the Duo display, but GarageBand gets a wide layout that takes full advantage of the inner screen. It offers up a bigger interface for music editing and using touch instruments like keyboards and guitars.\r\n\r\n\r\nTestFlight and GarageBand are both free Apple apps.\nRelated Roundup: iPhone Duo\nTags: GarageBand, TestFlight\nBuyer's Guide: iPhone Duo (Buy Now)\nRelated Forum: iPhone\nThis article, \"Apple Updates More Apps With iPhone Duo Support\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-22T17:31:41.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS",
+    "id": 10623
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Arc browser gets a sunset date, and users have two months to move on",
+    "link": "https://9to5mac.com/2026/10/22/arc-browser-gets-a-sunset-date-and-users-have-two-months-to-move-on/",
+    "content": "The Browser Company announced plans to discontinue its flagship Arc browser in favor of a new browser project called Dia. Today, Arc received a sunset date that gives users exactly two months to move on from the discontinued app.\nmore…",
+    "pub_date": "2026-10-22T17:28:58.000Z",
+    "creator": "Zac Hall",
+    "tags": "App Store",
+    "id": 10628
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Apple to iPhone Duo buyers: We promise your favorite apps will look great (eventually)",
+    "link": "https://www.macworld.com/article/3267241/apple-to-iphone-duo-buyers-we-promise-your-favorite-apps-will-look-great-eventually.html",
+    "content": "Macworld\n\n\n\n\n\nThe early reviews of the iPhone Duo posted on Wednesday, and one common complaint is how some third-party apps look on the device. The iPhone Duo has new dimensions, and that often results in a suboptimal user experience. One reviewer went so far as to call them “horrible.”\nIn these situations, apps are not yet optimized for the iPhone Duo. Apps that are made for iPhone Duo can provide quite rewarding experiences, as Apple points out in an article it released to the media on Thursday. “From watching popular shows and content on the expansive inner display to multitasking across windows or playing console-quality games, developers around the world are reimagining what their apps can do,” said Apple VP Susan Prescott in the press release.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nNetflix on the iPhone Duo.\n\nApple\n\n\n\n\nVideo apps are taking advantage of the bigger folding display by providing modes that work when the Duo is propped open in an L shape; the top display shows the video while the bottom can display video controls and other items, as shown on the Netflix app. The Paramount+ app does a similar thing, but the bottom display can show info on the show being watched.\nSports fans can have a great time watching the game in apps made for iPhone Duo. The screen can be split so that live game coverage is streamed on one half, while the other provides a vast array of statistics, scores, and other data, as with the MLB app, which will be available on day one, in time for the World Series.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nProductivity apps such as Bear, Fantastical, Notewise, Salesforce, Slack, Things, and Zoom take advantage of the larger inner display, and Microsoft Word and Outlook take advantage of the Duo’s Split View. Creative apps such as Detail, Instagram Edits, and VLLO provide an enhanced UI for video editing. Apple says apps that have been optimized will have a clear “Made for iPhone Duo” badge in the App Store.\nOf course, games provide a better experience on the Duo’s big screen. Game such as Asphalt Legends, Retrocade, Sneaky Sasquatch, Ungodly, Zenless Zone Zero have been optimized for the new phone. “The large inner display and the sustained performance of A20 Pro let us put more of the track and every detail of our cars in front of users, so races look and feel incredible wherever they play,” said Raúl Orrego del Río, of Gameloft, creator of Asphalt Legends.\nWhile Apple’s press release lists several more apps optimized for iPhone Duo, there are still many more that are not. It’s not a new situation; when Apple introduced the iPad, iPhone 5, and iPhone X, several developers had their apps ready for the device launch, but a vast majority were not. Developers need some time to catch up, so if your favorite app looks odd on your iPhone Duo, be sure to check the App Store for updates. There could be one waiting for your Duo.\nMacworld will be posting an in-depth review of the iPhone Duo soon. In the meantime, check out our guide to everything you need to know about the iPhone Duo.",
+    "pub_date": "2026-10-22T17:28:43.000Z",
+    "creator": "Macworld",
+    "tags": "iOS,App Store",
+    "id": 10652
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "1Password launches solution for safely using logins with AI agents",
+    "link": "https://9to5mac.com/2026/10/22/1password-launches-solution-for-safely-using-logins-with-ai-agents/",
+    "content": "1Password has been focused on building password management tools that make sense in the age of agentic AI. In July, the company launched a special integration with Claude. Today, 1Password is going further with the arrival of 1Password for Agents.\nmore…",
+    "pub_date": "2026-10-22T17:15:01.000Z",
+    "creator": "Zac Hall",
+    "tags": "General",
+    "id": 10629
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "iPhone Duo 2 might fix one of original’s biggest problems",
+    "link": "https://www.cultofmac.com/news/iphone-duo-2-face-id-rumor",
+    "content": "iPhone Duo 2 could address a frequent complaint about the company's first foldable, according to a reliable source. \n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-10-22T16:56:15.000Z",
+    "creator": "Ed Hardy",
+    "tags": "Mac,iOS",
+    "id": 10654
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Grab Ugreen’s ultra-compact 25W magnetic wireless charger for half off today",
+    "link": "https://www.macworld.com/article/3267243/grab-ugreens-ultra-compact-25w-magnetic-wireless-charger-for-half-off-today.html",
+    "content": "Macworld\n\n\n\n\n\n\t\t\nUgreen MagFlow 25W foldable charger\nView Deal\nWhether you’re packing for a weekend trip or headed out for a day at the office, this tiny Ugreen MagFlow 25W foldable pocket-sized charger needs to be in your bag. And today, instead of shelling out $60, you can grab one for $30, half-off its MSRP and the best price we’ve ever seen.\nThis foldable charger will fit into the palm of your hand. It’s small enough to slip into a pocket. At 2.36 x 2.96 x 0.52 inches and just 3.88 ounces, it fits easily in a backpack or tech pouch. When unfolded, however, it will charge two of your devices at the same time. It fits your iPhone and AirPods just fine, so you’re always having fun listening to your favorite music. The 2-in-1 design takes things one step further. Lay it flat on your nightstand, or fold it into a stand on your desk if you want to check out a recipe or take a video call. \nAs small as it is, the Ugreen device comes with Qi2.2 certification and delivers up to 25W magnetic wireless charging. Ugreen says that takes an iPhone 17 Pro Max from 0-50 percent in just 30 minutes. This isn’t a power bank, so you’ll have to keep it plugged in, but you’ll have to use your own 45W or higher adapter since the Ugreen MagFlow 25W wireless charger doesn’t come with one. \nSo if you want a portable, versatile way to charge your gadgets without spending a fortune, grab this super cute wireless charger for $30 while it’s still on sale.",
+    "pub_date": "2026-10-22T16:27:58.000Z",
+    "creator": "Macworld",
+    "tags": "iOS",
+    "id": 10653
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Save up to 60% on iPad Magic Keyboards",
+    "link": "https://appleinsider.com/articles/26/10/22/save-up-to-60-on-ipad-magic-keyboards?utm_source=rss",
+    "content": "Amazon-owned Woot is slashing up to 60% off Magic Keyboard accessories for Apple's iPad Air and iPad Pro.\n\n\nSave up to 60% on Magic Keyboards at Woot.\n\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-22T16:20:53.000Z",
+    "creator": "Christine McKee <christine@appleinsider.com>",
+    "tags": "iOS",
+    "id": 10642
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Critical PHP vulnerabilities threaten your NAS, not every vendor has a fix",
+    "link": "https://appleinsider.com/articles/26/10/22/critical-php-vulnerabilities-threaten-your-nas-not-every-vendor-has-a-fix?utm_source=rss",
+    "content": "Attackers are actively exploiting critical PHP flaws to target internet-exposed NAS devices. If your files and backups are stored there, they're probably at risk.\n\nTerraMaster Network Attached Storage\nPHP2Shell refers to two critical vulnerabilities in PHP, a scripting language used by web servers and some NAS services. The flaws, tracked as CVE-2026-109618 and CVE-2026-109619, could allow attackers to execute code on affected servers without logging in.\nThe PHP development team released security updates on October 21 for versions 8.2 through 8.5. The urgency isn't hypothetical, as Amazon detected an attempted exploit on October 17, four days before the vulnerabilities were publicly disclosed.\nFor NAS owners, the threat affects both software maintained by the manufacturer and applications running independently in Docker containers. In either case, the risk of a remote attack depends on whether attackers can reach the vulnerable PHP service.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-22T15:52:38.000Z",
+    "creator": "Andrew Orr <andreworr@appleinsider.com>",
+    "tags": "General",
+    "id": 10643
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Inside the iPhone Duo's groundbreaking hinge's innovations",
+    "link": "https://appleinsider.com/articles/26/10/22/inside-the-iphone-duos-groundbreaking-hinges-innovations?utm_source=rss",
+    "content": "A YouTuber has taken a CT scan of the hinge on the iPhone Duo and uncovered both how it works and what its limitations are.\n\n\nHTX Studio used a CT scan and then built a 3D model of the iPhone Duo hinge to examine it - image credit: HTX Studio.\nOne of the surprises at the iPhone Duo launch was how it wasn't just built to either be fully open or fully closed. Instead, Apple has built it to offer different functions at many different angles.\nAccording to testing done by HTX Studio on YouTube, iPhone Duo can stay open between 15 degrees and 145 degrees.  If it's held below 15 degrees, magnets mean it will snap shut. Similarly, beyond 145 degrees, the screen will snap to fully open.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-22T15:49:44.000Z",
+    "creator": "William Gallagher <wg@williamgallagher.com>",
+    "tags": "iOS",
+    "id": 10644
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Today in Apple history: The App Store hits 200 million downloads",
+    "link": "https://www.cultofmac.com/apple-history/apple-app-store-200-million-downloads",
+    "content": "On October 22, 2008, Apple revealed that a customer downloaded the 200 millionth app from the App Store that very day.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-10-22T15:39:53.000Z",
+    "creator": "Luke Dormehl",
+    "tags": "Mac,App Store",
+    "id": 10655
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Four advantages MacBook Pro redesign will have over current model",
+    "link": "https://9to5mac.com/2026/10/22/four-advantages-macbook-pro-redesign-will-have-over-current-model/",
+    "content": "Next week Apple will unveil its first MacBook Pro redesign in five years. Rumors indicate the new MacBook Pro will have the same M5 Pro and M5 Max chips as current models, but with exclusive advantages in at least four other areas.\nmore…",
+    "pub_date": "2026-10-22T15:36:11.000Z",
+    "creator": "Ryan Christoffel",
+    "tags": "Mac,Silicon",
+    "id": 10630
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Deals: MacBook Pro $900 off, Apple Pencil (USB-C) from $61, Apple TV 4K, MacBook Neo, more",
+    "link": "https://9to5mac.com/2026/10/22/deals-macbook-apple-pencil-usb-c-apple-tv-4k-neo/",
+    "content": "You can still lock in your Apple TV 4K pre-order discount before delivery dates slip ever further, much like the new HomeView, and we also have AirPods Pro 3 at $50 off. But today’s 9to5Toys Lunch Break is headlined by iPhone Duo-ready Apple Pencil (USB-C) as low as $61 at Amazon (more details here), alongside a giant $900 price drop at Amazon on this 36GB M5 Max MacBook Pro (the lowest price ever). We have MacBook Neo at $120 off courtesy of the Apple refurb store, these 240W USB-C cables with mini displays at just $12 each, and much more below. \nmore…",
+    "pub_date": "2026-10-22T15:32:25.000Z",
+    "creator": "Justin Kahn",
+    "tags": "Mac,iOS,Silicon",
+    "id": 10631
+  },
+  {
     "source_name": "9to5Mac",
     "title": "iOS 27.2 introduces design changes for these Apple apps",
     "link": "https://9to5mac.com/2026/10/22/ios-27-2-introduces-design-changes-for-these-apple-apps/",
@@ -33,7 +243,7 @@
     "source_name": "Cult of Mac",
     "title": "New Apple Music logo was made with sound and mineral oil",
     "link": "https://www.cultofmac.com/news/apple-music-logo-made-with-sound-mineral-oil",
-    "content": "Apple unveiled a new look for Apple Music shaped by sound waves rippling through mineral oil, using no CGI.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "content": "Apple unveils a new look for Apple Music, with a logo shaped by sound waves rippling through mineral oil, using no CGI.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
     "pub_date": "2026-10-22T14:30:08.000Z",
     "creator": "Anurag Chawake",
     "tags": "Mac,Services",
@@ -274,7 +484,7 @@
     "title": "iPhone Duo 2 Prototypes Include Under-Display Face ID",
     "link": "https://www.macrumors.com/2026/10/22/iphone-duo-2-prototypes-under-display-face-id/",
     "content": "Apple's second-generation iPhone Duo could gain Face ID, with prototypes already incorporating the technology beneath the outer display, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nIn the latest episode of his \"Power On\" podcast, Gurman described Apple's work on adding facial authentication technology to its foldable iPhone. The company is said to be testing the hardware for a successor expected next fall, but has not finalized whether the feature will ship.\r\n\r\niPad. Its thin design leaves limited space for the depth-sensing components needed for ‌Face ID‌.\r\n\r\nearlier prediction about future ‌iPhone Duo‌ upgrades. In September, he suggested that smaller components and advances in artificial intelligence could help Apple add ‌Face ID‌ and a dedicated telephoto camera by the third generation.\r\n\r\nGurman also said that Apple is considering adding an Action button to a future ‌iPhone Duo‌. The feature is noticeably lacking on the current model.\r\n\r\nRelated Roundup: iPhone Duo\nTags: Bloomberg, Face ID, Mark Gurman\nBuyer's Guide: iPhone Duo (Buy Now)\nRelated Forum: iPhone\nThis article, \"iPhone Duo 2 Prototypes Include Under-Display Face ID\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-22T10:46:15.000Z",
+    "pub_date": "2026-10-22T10:46:07.000Z",
     "creator": "Hartley Charlton",
     "tags": "iOS,Rumors",
     "id": 10577
@@ -2788,215 +2998,5 @@
     "creator": "Joe Rossignol",
     "tags": "iOS,Rumors",
     "id": 10248
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Planning 'HomeView Max' With 9-Inch, 360-Degree Screen",
-    "link": "https://www.macrumors.com/2026/10/18/apple-rumored-to-launch-homeview-max/",
-    "content": "Apple plans to release a higher-end version of its new HomeView smart home hub with a larger 9-inch screen that can swivel a full 360 degrees on a robotic arm, according to Bloomberg's Mark Gurman. He expects the device to launch in 2027 or 2028.\r\n\r\nRelated Roundup: Apple HomeView\nTag: Mark Gurman\nBuyer's Guide: HomeView (Buy Now)\nRelated Forum: HomePod, HomeView, CarPlay – Home & Auto Tech\nThis article, \"Apple Planning 'HomeView Max' With 9-Inch, 360-Degree Screen\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-18T14:54:31.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "General",
-    "id": 10249
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Today in Apple history: iPad sales overtake Macs",
-    "link": "https://www.cultofmac.com/apple-history/ipad-sales-overtake-macs",
-    "content": "Six months after the iPad debuts, Steve Jobs reveals that Apple's tablet is already outselling Macs. But iPad sales don't impress analysts.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-10-18T14:50:13.000Z",
-    "creator": "Luke Dormehl",
-    "tags": "Mac,iOS",
-    "id": 10271
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple’s first touchscreen MacBook could debut on November 6: Here’s what to expect",
-    "link": "https://9to5mac.com/2026/10/18/new-macbook-pro-with-touchscreen-and-oled-november-6-release/",
-    "content": "After over a decade of not adopting touch displays on its Mac notebook lineup, Apple will finally be releasing its first touchscreen MacBook as early as November 6th, after announcing it as early as October 27th.\nmore…",
-    "pub_date": "2026-10-18T14:48:53.000Z",
-    "creator": "Michael Burkhardt",
-    "tags": "Mac",
-    "id": 10252
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Mark Gurman: Apple Made 'Major Mistake' With iPhone Duo Pre-Orders",
-    "link": "https://www.macrumors.com/2026/10/18/gurman-says-iphone-duo-preorders-major-mistake/",
-    "content": "Despite knowing that the iPhone Duo would face \"severe supply constraints\" due to manufacturing challenges, Apple chose to begin iPhone Duo pre-orders on Friday instead of waiting until it had more inventory ready, according to Bloomberg's Mark Gurman. In his Power On newsletter today, he called this decision a \"major mistake.\"\r\n\r\n\r\n\"Let me cut to the chase: Apple made a major mistake here,\" he said. \"The company knew there would be severe supply constraints but went ahead with the launch anyway, apparently prioritizing a desire to get the device on the market early in its fiscal first quarter over satisfying demand. That will disappoint many of the early adopters most eager to buy it.\"\r\n\r\nApple originally planned to launch the iPhone Duo in the U.S. and China only before expanding the device to other countries later, according to Gurman, but the company ultimately decided to start pre-orders in more than 70 countries simultaneously.\r\n\r\nslipped to around January 25 in most countries. Apple typically underpromises and overdelivers with its delivery dates, though, so hopefully some customers will end up having their shipping estimates bumped up at least slightly. \nRelated Roundup: iPhone Duo\nTag: Mark Gurman\nBuyer's Guide: iPhone Duo (Buy Now)\nRelated Forum: iPhone\nThis article, \"Mark Gurman: Apple Made 'Major Mistake' With iPhone Duo Pre-Orders\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-18T14:33:47.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "iOS",
-    "id": 10250
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "HomeView follow-up with robot arm rumored to ship in 2027",
-    "link": "https://appleinsider.com/articles/26/10/18/homeview-follow-up-with-robot-arm-rumored-to-ship-in-2027?utm_source=rss",
-    "content": "Future versions of the HomeView are being looked at by Apple, with a version using a larger display and a robotic arm potentially arriving as soon as 2027.\n\n\nThis is not what the HomeView on a robotic arm will look like\nApple's first-generation releases are often competent but gain significant improvements for the second generation. For the HomeView, the next version could get some big upgrades, including a robot arm.\nAccording to Mark Gurman's \"Power On\" newsletter for Bloomberg, Apple is planning to super-size the HomeView with a motorized arm. It will be capable of spinning 360 degrees around the base, and will automatically turn to face the speaker thanks to voice recognition.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-18T14:30:39.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "General",
-    "id": 10242
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple’s next HomeView could debut as soon as next year with a robotic arm: report",
-    "link": "https://9to5mac.com/2026/10/18/apples-next-homeview-could-debut-as-soon-as-next-year-with-a-robotic-arm-report/",
-    "content": "Apple just announced its long awaited smart home display: HomeView, and it’s available for $299. That said, the product has been in development for quite some time, being held back by all of the delays with developing a smarter Siri. \nNow that it’s on the market, some customers have had concern about the fact that you have to move the HomeView around yourself if its on a table with multiple people surrounding it. According to the Power On newsletter, it might not be too long before Apple has a solution.\nmore…",
-    "pub_date": "2026-10-18T14:17:21.000Z",
-    "creator": "Michael Burkhardt",
-    "tags": "General",
-    "id": 10230
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Why HomeView doesn’t have its own App Store",
-    "link": "https://www.cultofmac.com/news/why-no-homeview-app-store",
-    "content": "Apple's new HomeView hub doesn't have an App Store, unlike almost all of the company's other devices. Here's why.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-10-18T13:00:14.000Z",
-    "creator": "Leander Kahney",
-    "tags": "Mac,App Store",
-    "id": 10247
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Crime blotter: Man arrested for damage to Macau Apple Store",
-    "link": "https://appleinsider.com/articles/26/10/18/crime-blotter-man-arrested-for-damage-to-macau-apple-store?utm_source=rss",
-    "content": "iPhone transaction leads to an armed robbery in Florida, an iPad is stolen from a museum in Vermont, and an iPhone catches a suspected carjacker in Baltimore, all in this week's Apple Crime Blotter.\n\n\nThe Londoner Macau \nThe latest in an occasional AppleInsider feature, looking at the world of Apple-related crime.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-18T11:21:00.000Z",
-    "creator": "Stephen Silver <stephen@appleinsider.com>",
-    "tags": "iOS",
-    "id": 10243
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Stop paying Apple every month and get 5TB of private cloud storage for a flat $230",
-    "link": "https://www.macworld.com/article/3262860/stop-paying-apple-every-month-and-get-5tb-of-private-cloud-storage-for-a-flat-229-99.html",
-    "content": "Macworld\n\n\n\n\n\nTL;DR: Cancel iCloud+ and get 5TB of encrypted cloud storage with an Internxt lifetime subscription for $229.99 (MSRP $1,900).\niCloud+ charges $9.99 a month for 2TB, and that bill never stops. Internxt is an encrypted cloud storage service with apps for Mac and iPhone, and a 5TB lifetime subscription is on sale for $229.99 (MSRP $1,900).\n\n\n\n\n\n\nYour files are encrypted on your Mac before they upload, so Internxt itself can’t open them. Encryption is post-quantum, and Internxt’s code is open source on GitHub and independently audited by Securitum. PCWorld also gave Internxt its Editors’ Choice award.\nAt 5TB, you get more than double iCloud’s 2TB tier, with room for years of photos, videos, and project files. Single uploads can be as large as 10GB. Internxt runs on macOS 11 or later, iOS, Android, Windows, Linux, and the web, and you can sync as many devices as you want.\nThis plan is for new Internxt users only, and codes aren’t stackable. Internxt Mail, Backups, file versioning, and other add-ons are sold separately.\nGet an Internxt Cloud Storage 5TB lifetime subscription on sale for $229.99 (MSRP $1,900).\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nInternxt Cloud Storage: Lifetime Subscription (5TB Plan)See Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-10-18T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS,Services",
-    "id": 10228
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Get three wallet-size Apple Find My trackers that recharge wirelessly for $50.99",
-    "link": "https://www.macworld.com/article/3262877/get-three-wallet-size-apple-find-my-trackers-that-recharge-wirelessly-for-50-99.html",
-    "content": "Macworld\n\n\n\n\n\nTL;DR: Track your wallet in Apple Find My with this rechargeable KeySmart SmartCard 3-pack for $50.99 (MSRP $74.97).\nMost Bluetooth trackers are too thick to sit flat in a wallet. KeySmart’s SmartCard is a rechargeable tracker the size of a credit card that works with Apple Find My, and a 3-pack is on sale for $50.99 (MSRP $74.97).\nEach card is less than 2mm thick, about the same as two credit cards stacked together, so it slides into a card slot without adding bulk. Once you add a card to the Find My app, you can play a sound to find it nearby or check its location on a map through Apple’s Find My network. If you leave your wallet at a restaurant, Find My sends an alert to your iPhone, AirPods, or CarPlay. Lost Mode shows a message and your contact information to anyone who finds the card.\nAny Qi wireless charger tops up the battery, and one charge lasts up to eight months. IPX8 waterproofing lets a card survive up to an hour in 3.3 feet of water, and a lanyard slot holds a work badge or ID.\nWith three cards, you can put one in your wallet, one on your badge, and one in your travel bag. Any iPhone on iOS 14 or later can track the cards. Each one comes with a 2-year warranty, and shipping is free.\nStop retracing your steps every time your wallet goes missing.\nGet a 3-pack of rechargeable KeySmart SmartCard Gen 2s on sale for $50.99 (MSRP $74.97).\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nKeySmart SmartCard (Gen 2/Rechargeable/3-Pack)See Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-10-18T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,App Store",
-    "id": 10229
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iPhone Duo walk-in purchases might be challenging at launch, per report",
-    "link": "https://9to5mac.com/2026/10/17/iphone-duo-walk-in-purchases-challenging-report/",
-    "content": "According to a new report from MacRumors, Apple employees are being told to warn customers that iPhone Duo likely won’t be available for purchase on launch day if you didn’t already place a pre-order.\nmore…",
-    "pub_date": "2026-10-17T22:21:41.000Z",
-    "creator": "Michael Burkhardt",
-    "tags": "iOS",
-    "id": 10214
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases",
-    "link": "https://www.macrumors.com/2026/10/17/staff-warn-against-iphone-duo-walk-ins/",
-    "content": "Some Apple retail employees have been told to warn customers against visiting to purchase an iPhone Duo without a pre-order on Friday, October 23.\r\n\r\n\r\nApple Store employees told MacRumors that they have been advised that there will likely be no ‌iPhone Duo‌ stock available for walk-in purchases on launch day. Staff have been instructed to discourage customers without pre-orders from coming in expecting to buy the device, warning that they will be disappointed.\r\n\r\nbriefly available when pre-orders opened before the option was disabled.\r\n\r\nThe October 24 message does not guarantee stock will be available that day, and it remains unclear how firm the warning shared with employees is and whether it applies worldwide. If the guidance is firm and widely perpetuated, it closes off a potential route for customers hoping to bypass the device's lengthy online wait times, at least at the stores concerned.\r\n\r\nNikkei Asia reported that production had reached only a few hundred devices per day in late August. Further production problems emerged in late September.\r\n\r\nBloomberg's Mark Gurman said Apple had at one point believed production constraints could push the start of sales into November. The company subsequently assembled enough inventory to proceed with the October 23 launch, although supply remained very limited. \r\n\r\nsold out for Christmas through Apple's online store.\r\n\r\nnothing short of extraordinary\" in a statement to the Financial Times, adding that it was working to get devices to customers as quickly as possible. Apple has not publicly specified whether any stores will have stock for launch-day walk-in purchases.\r\n\r\nRelated Roundup: iPhone Duo\nTag: Retail\nBuyer's Guide: iPhone Duo (Buy Now)\nRelated Forum: iPhone\nThis article, \"Apple Retail Staff Told to Warn Against iPhone Duo Walk-In Purchases\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-17T21:30:45.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "iOS",
-    "id": 10200
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple Hires Former Meta Lawyer to Oversee Global Litigation",
-    "link": "https://www.macrumors.com/2026/10/17/apple-hires-former-meta-lawyer/",
-    "content": "Apple has hired former Meta lawyer Scott Tucker to lead its litigation team, according to Bloomberg's Mark Gurman.\r\n\r\n\r\nTucker will become Apple's vice president of global litigation and financial services, a new position overseeing commercial lawsuits, patent disputes, and legal matters involving its financial products. He previously led litigation at ‌Meta‌ and held a senior legal role at Morgan Stanley.\r\n\r\njoined Apple's leadership in March after six years as ‌Meta‌'s top lawyer.\r\n\r\nHeather Grenier, who currently oversees Apple's commercial and competition litigation, will report to Tucker instead of Newstead. She will remain on Newstead's leadership team. Apple is also expanding legal executive Kyle Andeer's responsibilities to include international legal matters, child safety, cybersecurity, and law enforcement.\r\n\r\nretirements of Kate Adams and Lisa Jackson.\r\n\r\nApp Store disputes. Its battle with Epic Games has forced changes to the rules for links to outside payment options and the fees Apple can charge.\r\n\r\n$250 million settlement over delayed Siri features, with a final approval hearing scheduled for February 2027.\nTags: Bloomberg, Apple Lawsuits, Mark Gurman, Meta, Morgan Stanley\nThis article, \"Apple Hires Former Meta Lawyer to Oversee Global Litigation\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-17T20:21:20.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "App Store",
-    "id": 10201
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple's M5 Pro MacBook Pro is back on sale for $2,069 this weekend",
-    "link": "https://appleinsider.com/articles/26/10/17/apples-m5-pro-macbook-pro-is-back-on-sale-for-2069-this-weekend?utm_source=rss",
-    "content": "Weekend deals are in effect at Amazon, with Apple's M5 Pro MacBook Pro dropping to $2,069 after a $430 discount. You can also save up to $800 on M5 Max configurations.\n\n\nSave $430 on Apple's M5 Pro MacBook Pro this weekend - Image credit: Apple\nAfter selling out earlier this week, Amazon has brought back its popular $2,069.10 deal on Apple's M5 Pro 14-inch MacBook Pro. This configuration in Space Black has Apple's M5 Pro chip with a 15-core CPU and 16-core GPU, along with 24GB of unified memory and 1TB of storage.\nBuy M5 Pro MacBook Pro for $2,069.10\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-17T19:54:03.000Z",
-    "creator": "Christine McKee <christine@appleinsider.com>",
-    "tags": "Mac,Silicon",
-    "id": 10213
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Indie App Spotlight: ‘Hoardware’ makes it easy to track your Apple device collection",
-    "link": "https://9to5mac.com/2026/10/17/indie-app-spotlight-hoardware-makes-it-easy-to-track-your-apple-device-collection/",
-    "content": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact.\nIf you’re someone who collects tons of varying Apple products, Hoardware is your one-stop shop for keeping track of it all. Hoardware lets you track all of your hardware, as well as the software versions, model numbers, and anything else that might be relevant.\nmore…",
-    "pub_date": "2026-10-17T19:30:00.000Z",
-    "creator": "Michael Burkhardt",
-    "tags": "App Store",
-    "id": 10202
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Apple may have just sold 6 million iPhone Duos",
-    "link": "https://www.cultofmac.com/news/iphone-duo-shipments-demand-2026",
-    "content": "Apple could ship 6 million iPhone Duo units in 2026, giving it roughly a third of the global foldable market.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-10-17T18:14:56.000Z",
-    "creator": "Ed Hardy",
-    "tags": "Mac,iOS",
-    "id": 10199
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Hands-on: UGREEN’s new 25W MagSafe battery for iPhone features liquid cooling",
-    "link": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank/",
-    "content": "Last month, UGREEN introduced a new Qi2.2 25W 10000mAh MagSafe battery bank for iPhone. There have been plenty of these, but this one has an interesting new twist: liquid cooling.\nmore…",
-    "pub_date": "2026-10-17T17:52:00.000Z",
-    "creator": "Michael Burkhardt",
-    "tags": "iOS",
-    "id": 10185
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "iPhone Duo already selling for big bucks on eBay [Updated]",
-    "link": "https://www.cultofmac.com/news/iphone-duos-already-selling-for-big-bucks-on-ebay",
-    "content": "iPhone Duo units are already fetching jaw-dropping prices on eBay after selling out on Apple's website Friday morning.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-10-17T17:20:57.000Z",
-    "creator": "Leander Kahney",
-    "tags": "Mac,iOS",
-    "id": 10117
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Upgrade to Windows 11 Pro for less than $10",
-    "link": "https://www.cultofmac.com/deals/microsoft-windows-11-pro-discount",
-    "content": "Why pay list price for Microsoft software? This Windows 11 sale allows you to upgrade your PC to Windows 11 Pro for just $9.97.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-10-17T16:05:14.000Z",
-    "creator": "Cult of Mac Deals",
-    "tags": "Mac,Services",
-    "id": 10181
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "EE announces iPhone Handoff pricing details for UK customers",
-    "link": "https://9to5mac.com/2026/10/17/iphone-handoff-pricing-details-ee-uk/",
-    "content": "As part of its iPhone Duo preorder announcement, UK carrier EE has announced pricing details for iPhone Handoff – making it the first carrier in the UK to do so. Here are the details.\nmore…",
-    "pub_date": "2026-10-17T15:54:02.000Z",
-    "creator": "Michael Burkhardt",
-    "tags": "iOS",
-    "id": 10167
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple nabs Meta VP for global litigation chief role",
-    "link": "https://appleinsider.com/articles/26/10/17/apple-nabs-meta-vp-for-global-litigation-chief-role?utm_source=rss",
-    "content": "The legal team at Apple has been reshuffled, with Meta VP Scott Tucker becoming the VP of global litigation and financial services at the iPhone maker.\n\n\nApple Park\nApple has already made a number of changes to its leadership in 2026, in part due to the introduction of John Ternus as CEO. However, in October, there was another change affecting its legal side.\nOn Friday, Bloomberg reported that Apple had secured the talents of an executive from Meta. According to people familiar with the change, Scott Tucker is becoming Apple's VP of global litigation and financial services.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-17T15:33:45.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "iOS",
-    "id": 10176
   }
 ]
