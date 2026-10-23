@@ -1,6 +1,76 @@
 [
   {
     "source_name": "9to5Mac",
+    "title": "Greg Joswiak talks iPhone Duo in-store availability and demand ahead of launch",
+    "link": "https://9to5mac.com/2026/10/22/greg-joswiak-talks-iphone-duo-in-store-availability-and-demand-ahead-of-launch/",
+    "content": "Friday is iPhone Duo launch day, and there are a lot of eager customers hoping to walk into an Apple Store and get one after a messy pre-order launch. In a new interview with TechRadar, Apple marketing SVP Greg Joswiak offered insight into demand and in-store availability for the first foldable iPhone.\nmore…",
+    "pub_date": "2026-10-23T03:15:09.000Z",
+    "creator": "Chance Miller",
+    "tags": "iOS",
+    "id": 10667
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple is finally catching up with Siri, but the goalposts are moving again",
+    "link": "https://9to5mac.com/2026/10/22/apple-is-finally-catching-up-with-siri-but-the-goalposts-are-moving-again/",
+    "content": "9to5Mac is brought to you by Memoket: Memoket Gem is a 0.4 oz AI wearable that slots beside your Apple Watch. One press captures a conversation, and KITE memory connects it to what you said weeks ago. 20-hour battery. Available now from $168.99 on memoket.ai and Amazon.\nWhile it is great that Siri AI can finally deliver Apple’s promise of an actually useful, personal assistant for the age of AI, expectations surrounding agentic assistants are quickly shifting. But Apple is showing it might not watch from the sidelines again.\nmore…",
+    "pub_date": "2026-10-23T01:42:38.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 10668
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "WhatsApp starts testing long-awaited scheduled messages on iPhone",
+    "link": "https://9to5mac.com/2026/10/22/whatsapp-starts-testing-long-awaited-scheduled-messages-on-iphone/",
+    "content": "After years of waiting, WhatsApp is finally making one of its most-requested messaging features available to select iPhone beta testers. Here are the details.\nmore…",
+    "pub_date": "2026-10-23T01:22:37.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 10669
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Appeals court upholds Apple TV's 'Servant' plagiarism lawsuit win",
+    "link": "https://appleinsider.com/articles/26/10/23/appeals-court-upholds-apple-tvs-servant-plagiarism-lawsuit-win?utm_source=rss",
+    "content": "There's no twist ending for M. Nigh Shyamalan's day in court, as the 9th Circuit Court of Appeals has maintained the ruling that Apple TV's \"Servant\" series did not copy a film titled \"The Truth About Emanuel.\"\n\n\n'Servant' is a dramatic thriller series on Apple TV\nA lawsuit brought on by filmmaker Francesca Gregorini in January 2020 accused the creators of Servant of plagiarizing her film. The case was initially dismissed, but was then brought back to trial by jury, which ruled in favor of Apple.\nGregorini appealed the decision, but according to a report from Reuters, the 9th Circuit Court of Appeals rejected the challenge. While both The Truth About Emanuel and Servant are both about a mother grieving the death of their child and becoming attached to a doll, that's where the similarities end.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-23T01:06:57.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "General",
+    "id": 10680
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple wins again in copyright infringement battle over Apple TV thriller series",
+    "link": "https://9to5mac.com/2026/10/22/apple-wins-again-in-copyright-infringement-battle-over-apple-tv-thriller-series/",
+    "content": "The United States Court of Appeals for the Ninth Circuit today upheld a verdict from early last year that cleared Apple of allegations that one of its hit thriller series was copied from an independent film. Here are the details.\nmore…",
+    "pub_date": "2026-10-23T00:30:41.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 10670
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Strava revamps route discovery with smarter search, offline improvements, more",
+    "link": "https://9to5mac.com/2026/10/22/strava-revamps-route-discovery-with-smarter-search-offline-improvements-more/",
+    "content": "Strava today announced a set of new features aimed at improving route planning and discovery for runs, hikes, and rides. Here are the details.\nmore…",
+    "pub_date": "2026-10-22T23:29:15.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 10671
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Retro game emulator Delta looks great on the iPhone Duo",
+    "link": "https://9to5mac.com/2026/10/22/retro-game-emulator-delta-looks-great-on-the-iphone-duo/",
+    "content": "The popular retro game emulator Delta has today launched a big new 2.0 version, most notably featuring a refreshed Liquid Glass interface and support for the iPhone Duo.\nThe app now has specially-designed controller skins that are optimized for all the different iPhone Duo poses, including some beautiful Nintendo DS layouts that use the full size of the inner display, and cleverly spans the crease when partially folded in book mode in portrait. \nmore…",
+    "pub_date": "2026-10-22T23:23:32.000Z",
+    "creator": "Benjamin Mayo",
+    "tags": "iOS,App Store",
+    "id": 10672
+  },
+  {
+    "source_name": "9to5Mac",
     "title": "MacBook Neo helps Apple soften the blow of global PC market downturn, per report",
     "link": "https://9to5mac.com/2026/10/22/macbook-neo-helps-apple-soften-the-blow-of-global-pc-market-downturn-per-report/",
     "content": "A new Counterpoint Research report on global PC shipments for Q3 2026 shows Apple outperforming the broader market, with the MacBook Neo helping cushion the impact of declining demand. Here are the details.\nmore…",
@@ -53,8 +123,8 @@
     "source_name": "MacRumors",
     "title": "1Password for Agents Keeps Your Passwords Hidden From AI",
     "link": "https://www.macrumors.com/2026/10/22/1password-for-agents/",
-    "content": "Popular password management app 1Password today announced 1Password for Agents, a platform that gives AI agents safe access to user credentials for completing tasks.\r\n\r\n\n\r\nThe platform lets AI agents access logins, passwords, and other data without seeing or storing the information. Agents can send a request to sign in to a website or account, and users can approve or deny the request. 1Password says the agent uses a unique digital key to verify its identity, and then the login information is filled directly into the sign-in form.\r\n\r\nPersonal AI agents like Meta Muse, ChatGPT Dots, and Claude Duet often need access to accounts and sensitive user information, and 1Password for Agents offers that access without exposing passwords.\r\n\r\n1Password for Agents is rolling out \"over the coming days\" for Grok Bot and Muse. Claude Duet, ChatGPT Work and Dots, and Town's Townie integrations are \"coming soon.\" Integrations from other\r\n\r\nThis article, \"1Password for Agents Keeps Your Passwords Hidden From AI\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-22T21:28:01.000Z",
+    "content": "Popular password management app 1Password today announced 1Password for Agents, a platform that gives AI agents safe access to user credentials for completing tasks.\r\n\r\n\n\r\nThe platform lets AI agents access logins, passwords, and other data without seeing or storing the information. Agents can send a request to sign in to a website or account, and users can approve or deny the request. 1Password says the agent uses a unique digital key to verify its identity, and then the login information is filled directly into the sign-in form.\r\n\r\nPersonal AI agents like Meta Muse, ChatGPT Dots, and Claude Duet often need access to accounts and sensitive user information, and 1Password for Agents offers that access without exposing passwords.\r\n\r\n1Password for Agents is rolling out \"over the coming days\" for Grok Bot and Muse. Claude Duet, ChatGPT Work and Dots, and Town's Townie integrations are \"coming soon.\" \r\n\r\nThis article, \"1Password for Agents Keeps Your Passwords Hidden From AI\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-22T21:27:57.000Z",
     "creator": "Juli Clover",
     "tags": "App Store",
     "id": 10657
@@ -113,7 +183,7 @@
     "source_name": "Macworld",
     "title": "Apple accidentally reveals Google Workspace AI competitor",
     "link": "https://www.macworld.com/article/3267434/apple-accidentally-reveals-google-workspace-ai-competitor.html",
-    "content": "Macworld\n\n\n\n\n\nEarlier this year, Apple introduced its Creator Studio subscription service. For a reasonable monthly or annual fee, Creator Studio bundles some of Apple’s most popular productivity apps, including Final Cut Pro, Logic Pro, and Photomator, into a fully connected suite, and unlocks exclusive AI-centric perks in the free iWork suite, allowing users to choose from premium templates and generate photos in Pages, Numbers, and Keynote.\nHowever, compared to the Gemini integration in Google Workspace, the AI offerings in Creator Studio are somewhat lackluster. That, however, is seemingly about to change. According to a Pages update that was briefly published to the App Store, Apple is about to expand the AI toolbox in iWork, providing subscribers with a Google Workspace-like experience.\nMeet Intelligent Assistant\nAs stated in the release notes of a now-pulled Apple Pages update, Creator Studio apps will soon adopt a Gemini-like tool called Intelligent Assistant. Per the change log, the beta feature requires iOS 27 and will allow Creator Studio users to:\nStart a first draft, then edit, organize, and elevate your writing with an assistant that understands your document;\nGet guidance on where to start, learn how to use advanced features, or try a suggestion to see what’s possible;\nDraft a section, adjust your tone, or generate images and shapes using natural language\nSearch for up-to-date information on a topic and incorporate it into your document.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nBased on the official description, it appears that Intelligent Assistant will significantly elevate the existing Writing Tools with deeper document context awareness, help research topics using fresh information, and more. While users can already achieve similar results using Siri AI on iOS 27, it seems Intelligent Assistant will be more deeply integrated into Pages, Numbers, and Keynote, providing a more intuitive ideation, creation, and editing flow.\nOther Creator Studio perks included with the removed update include “a new collection of professionally-designed templates,” along with curated videos in the Content Hub “that add motion and depth to your document.”\nWhere’s the update?\nI was able to download Pages version 15.4.1 right after Apple published it and before its swift removal. However, despite having an active Creator Studio subscription, I was unable to locate or use the all-new Intelligent Assistant. This suggests that the company either accidentally posted a change log meant for a future update or failed to correctly implement the new AI tools. \nRegardless, at the time of writing, Pages, Numbers, and Keynote are completely unavailable to download from the U.S. App Store—presumably until Apple resolves the matter. Whether we see Intelligent Assistant in the coming days or it’s pushed for a few months, one thing is clear: Apple is finally aiming to take Creator Studio to the next level for AI power users.\nUpdate: The apps appear to be back in the stores, though without the new Intelligence Assistant feature.",
+    "content": "Macworld\n\n\n\n\n\nUpdate: The apps appear to be back in the stores, though without the new Intelligent Assistant feature.\nUpdate X2: The Intelligent Assistant feature is also live now in Keynote, Numbers, and Pages.\nEarlier this year, Apple introduced its Creator Studio subscription service. For a reasonable monthly or annual fee, Creator Studio bundles some of Apple’s most popular productivity apps, including Final Cut Pro, Logic Pro, and Photomator, into a fully connected suite, and unlocks exclusive AI-centric perks in the free iWork suite, allowing users to choose from premium templates and generate photos in Pages, Numbers, and Keynote.\nHowever, compared to the Gemini integration in Google Workspace, the AI offerings in Creator Studio are somewhat lackluster. That, however, is seemingly about to change. According to a Pages update that was briefly published to the App Store, Apple is about to expand the AI toolbox in iWork, providing subscribers with a Google Workspace-like experience.\nMeet Intelligent Assistant\nAs stated in the release notes of a now-pulled Apple Pages update, Creator Studio apps will soon adopt a Gemini-like tool called Intelligent Assistant. Per the change log, the beta feature requires iOS 27 and will allow Creator Studio users to:\nStart a first draft, then edit, organize, and elevate your writing with an assistant that understands your document;\nGet guidance on where to start, learn how to use advanced features, or try a suggestion to see what’s possible;\nDraft a section, adjust your tone, or generate images and shapes using natural language\nSearch for up-to-date information on a topic and incorporate it into your document.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nBased on the official description, it appears that Intelligent Assistant will significantly elevate the existing Writing Tools with deeper document context awareness, help research topics using fresh information, and more. While users can already achieve similar results using Siri AI on iOS 27, it seems Intelligent Assistant will be more deeply integrated into Pages, Numbers, and Keynote, providing a more intuitive ideation, creation, and editing flow.\nOther Creator Studio perks included with the removed update include “a new collection of professionally-designed templates,” along with curated videos in the Content Hub “that add motion and depth to your document.”\nWhere’s the update?\nI was able to download Pages version 15.4.1 right after Apple published it and before its swift removal. However, despite having an active Creator Studio subscription, I was unable to locate or use the all-new Intelligent Assistant. This suggests that the company either accidentally posted a change log meant for a future update or failed to correctly implement the new AI tools. \nRegardless, at the time of writing, Pages, Numbers, and Keynote are completely unavailable to download from the U.S. App Store—presumably until Apple resolves the matter. Whether we see Intelligent Assistant in the coming days or it’s pushed for a few months, one thing is clear: Apple is finally aiming to take Creator Studio to the next level for AI power users.",
     "pub_date": "2026-10-22T19:07:08.000Z",
     "creator": "Macworld",
     "tags": "iOS,App Store,Services",
@@ -2928,75 +2998,5 @@
     "creator": "William Gallagher <wg@williamgallagher.com>",
     "tags": "General",
     "id": 10313
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Constrained iPhone Duo availability is annoying, but a mixed blessing for Apple",
-    "link": "https://9to5mac.com/2026/10/19/constrained-iphone-duo-availability-is-annoying-but-a-mixed-blessing-for-apple/",
-    "content": "Estimated iPhone Duo delivery dates started slipping dramatically, literally within a minute of pre-orders opening on Friday. Even some of those who got in within the first few minutes got estimated shipping dates into January of next year.\nThat undeniably poses problems for Apple, but some have gone as far as calling it “a major mistake” to launch with such limited stock. Personally, I’d say it’s annoying for customers but more of a mixed blessing for Apple … \nmore…",
-    "pub_date": "2026-10-19T11:25:57.000Z",
-    "creator": "Ben Lovejoy",
-    "tags": "iOS",
-    "id": 10298
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Two Apple stores looted during French protests",
-    "link": "https://appleinsider.com/articles/26/10/19/two-apple-stores-looted-during-french-protests?utm_source=rss",
-    "content": "As the French protests now involving about 600,000 protesters escalate, Apple Sainte-Catherine in Bordeaux was hit first by French youth. Also ransacked was the Lille location, just a few hours later. Apple was not the only retail chain looted during the protests. with Hermes and Louis Vuitton also victoms.\n\nhttps://www.leparisien.fr/faits-divers/mobilisation-du-17-octobre-la-residence-prefectorale-saccagee-par-des-emeutiers-a-bordeaux-le-raid-mobilise-17-10-2026-7IAFA7LT75FG5AQ7E3323DDOZI.php\n\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-19T11:13:45.000Z",
-    "creator": "Mike Wuerthele <mike@appleinsider.com>",
-    "tags": "General",
-    "id": 10314
-  },
-  {
-    "source_name": "Macworld",
-    "title": "I want a HomeView. I just need a reason to buy one",
-    "link": "https://www.macworld.com/article/3258591/i-want-a-homeview-i-just-need-a-reason-to-buy-one.html",
-    "content": "Macworld\n\n\n\n\n\nApple is very good at first impressions. The MacBook Air emerging from the manila envelope; the iPhone in Steve Jobs’ pocket; the first Macintosh saying “Hello.” Apple knows instinctively how to communicate in an instant what a product stands for, and why you should be excited about it. Which makes it all the more mystifying that senior management decided not to hold a live-streamed event to hype up the HomeView and other new home products last week.\nIf you ask me, in fact, Apple did a decent hype job even without the benefit of a full-dress keynote presentation. Not on the HomePod mini 2 and new Apple TV–the former is virtually an auto-buy and the latter an auto-ignore at that price–but on the HomeView. A simple press release and a few animations on the website have ensured that I really, really want one. Even though the rational part of my brain keeps pointing out that I don’t need one even slightly.\nI covered this ground ahead of the launch, in a column where I said the main question would be, “What is it for?” I hoped that the launch would see Apple succeed in explaining the purpose of its latest foray into the smart home, or rather how that purpose is relevant to a mainstream audience. Maybe a full event would have given the company more space to explore the broader societal changes which it thinks will make the HomeView relevant to the average U.S. homeowner, but I suspect the unavoidable truth is that this simply isn’t a product with broad appeal.\nWhat can you do with a HomeView? You can monitor and control a smart home, of course, but I suspect that Apple knows this is a niche concern; the clue is how far down the press release you have to go before you reach any mention of smart lights, locks, and thermostats (the 17th paragraph, by my count). In the future it’s plausible that we will all have HomeKit-compatible smart homes, but for now most people don’t. And those who do tend to control them with their phones, while using a HomePod or Apple TV as the hub.\nWhile Apple waits for the world to catch up with the smart-home revolution–a process which will be accelerated by the launch of the HomeView, but still needs time–it has to fall back on its other functions. You can FaceTime and read recipes, talk to Siri AI, or play music with onscreen lyrics. You can use it as electronic photo frame, or an alarm clock. With the exception of superior audio you’re essentially getting an iPad which is locked in one place, has a smaller screen, and can’t install third-party apps.\nThe HomeView is not an iPhone, the sort of chameleonic device that will take over the world by being relevant and useful to virtually everyone. It’s not even an iPad, less portable and caught in the middle ground between phone and laptop, but nevertheless deeply versatile. Unlike those two products the HomeView is a specialist: a product capable of delivering one specific experience for a handful of purposes. And in that sense it’s closer to the first iteration of the Apple Watch or even, I’m sorry to say, the Vision Pro. It’s a luxury; a want-to-have rather than a must-have.\nThe HomeView’s saving grace is that at $299 it’s relatively affordable for a luxury. That’s significantly cheaper than the cheapest iPad, a product which customers have historically been willing to buy for non-essential use. (Although I suspect they were a lot more willing when it was closer to the HomeView’s price earlier this year.) It’s significantly cheaper than an Apple Watch Series 12, and not much more expensive than an Apple Watch SE.\nYou can scarcely call the HomeView a bargain or an impulse purchase, but this is a price point where customers are willing to be persuaded. And when it’s a completely new Apple product, and you can throw in the hype factor of that seductive first impression, you can bet it will sell just fine.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nWelcome to our weekly Apple Breakfast column, which includes all the Apple news you missed last week in a handy bite-sized roundup. We call it Apple Breakfast because we think it goes great with a Monday morning cup of coffee or tea, but it’s cool if you want to give it a read during lunch or dinner hours too.\nWelcome Home special\nHomeView quickly won a place in Britta O’Boyle’s heart—and her home.\nHomeView might look weird, but Apple was right to break the rectangular mold.\nThe new HomePod mini 2 is a bigger upgrade than it looks.\nPre-ordered the new Apple TV 4K? Here are 5 reasons you should cancel ASAP.\nThe new Siri Remote’s best new feature won’t work without a very new iPhone.\nApple Home Collection is an expensive way to build your smart home.\nTrending: Top stories\nApple just made Felipe Esposito’s decision to buy an iPhone Duo much easier.\nNo, Meta’s Muse will not run on your Mac.\nWe investigate how the new Apple Watch sensors affect battery life.\nPodcast of the week\nApple held its “Welcome Home” event last week. On the latest episode of the Macworld Podcast, we recap Apple’s announcements.\n\n\n\n\n\n\nYou can catch every episode of the Macworld Podcast on YouTube, Spotify, Soundcloud, the Podcasts app, or our own site.\nReviews corner\nHomeView first look: Apple’s adorable new smart hub oozes personality.\nParallels Desktop 27 for Mac: Still the best way to run Windows.\nAvira Prime for Mac: Strong malware protection and useful cleanup tools.\nUgreen MagFlow Pro 3-in-1 25W: Fast charging with a cooling fan.\nThe rumor mill\nSafari is getting ready for Apple’s first touchscreen MacBook.\nIs Siri AI coming to your big HomePod? Maybe but probably not.\nVideo of the week\n\n \n @macworld.com \nAre you buying an Apple HomeView?\n ♬ original sound – Macworld – Macworld \n  \n\n\n\n\nAre you buying an Apple HomeView? Roman Loyola thinks an old iPad would do the same job just as well. For more short videos, follow us on TikTok and Instagram.\nAnd with that, we’re done for this week’s Apple Breakfast. If you’d like to get regular roundups, sign up for our newsletters, including our new email from The Macalope–an irreverent, humorous take on the latest news and rumors from a half-man, half-mythical Mac beast. You can also follow us on Facebook, Threads, Bluesky, or X for discussion of breaking Apple news stories. See you next Monday, and stay Appley.",
-    "pub_date": "2026-10-19T10:30:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS,Vision,Rumors,App Store",
-    "id": 10320
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Microsoft Office made for your Mac — $112.97 and no subscription",
-    "link": "https://www.macworld.com/article/3262947/microsoft-office-made-for-your-mac-112-97-and-no-subscription.html",
-    "content": "Macworld\n\n\n\n\n\nTL;DR: Microsoft Office 2024 Home puts Word, Excel, PowerPoint, and OneNote on your Mac for a one-time $112.97 (reg. $149.99).\nMost of us use Mac to get away from Microsoft, but some things you just can’t escape, like Word and Excel. Microsoft 365 wants to charge you $99.99 per year for that software, but the truth is you don’t need their version. Microsoft Office 2024 Home has all the apps you need to stay software-relevant without paying a subscription fee, and it’s on sale for $112.97 (reg. $149.99) through Oct. 20.\nYou get Word, Excel, PowerPoint, and OneNote, installed on one Mac or PC. All four apps work offline, and your files sync when you reconnect. Real-time co-authoring lets a group project or a shared family budget have more than one editor at once.\nOffice 2024 Home runs on macOS 14 Sonoma or later, and your license ties to your Microsoft account. This is the Home edition, so it’s for personal and school use, not business. Outlook, OneDrive storage, and Copilot aren’t included because this is Office 2024, not Microsoft 365.\nPay once for Office and skip the yearly renewal. Through Oct. 20 at 11:59 p.m. PT, get Microsoft Office 2024 Home for Mac or PC on sale for $112.97 (reg. $149.99).\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nMicrosoft Office 2024 Home for Mac or PC: One-Time PurchaseSee Deal\nStackSocial prices subject to change.",
-    "pub_date": "2026-10-19T08:00:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,Services",
-    "id": 10321
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "iPhone Duo’s unusual battery design hides a big capacity",
-    "link": "https://www.cultofmac.com/news/iphone-duos-unusual-battery-design-hides-big-capacity",
-    "content": "Apple’s iPhone Duo splits a 4,883mAh battery between two cells, giving its first foldable more capacity than the iPhone 18 Pro.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-10-19T07:42:28.000Z",
-    "creator": "Rajesh Pandey",
-    "tags": "Mac,iOS",
-    "id": 10327
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "This MagSafe battery pack is designed perfectly for iPhone Duo",
-    "link": "https://9to5mac.com/2026/10/19/this-magsafe-battery-pack-is-designed-perfectly-for-iphone-duo/",
-    "content": "Ahead of iPhone Duo’s launch on Friday, accessory maker BMX is releasing what appears to be one of the first MagSafe batteries designed specifically for Apple’s foldable. \nThe BMX Duo is available to order now and can wirelessly charge your iPhone Duo (or any other iPhone) at up to 15W. You can pick it up on Amazon for $79.99.\nmore…",
-    "pub_date": "2026-10-19T07:00:00.000Z",
-    "creator": "Chance Miller",
-    "tags": "iOS",
-    "id": 10359
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming next year",
-    "link": "https://9to5mac.com/2026/10/18/new-revamped-iphone-lineup-coming-in-2027/",
-    "content": "iPhone Duo preorders just begun, and iPhone 18 Pro has been on the market for about a month. Of course, iPhone Duo is backordered through January right now, so whether or not you’re considering buying these phones – it makes it really easy to think about what’s coming next.\nmore…",
-    "pub_date": "2026-10-19T02:16:00.000Z",
-    "creator": "Michael Burkhardt",
-    "tags": "iOS",
-    "id": 10289
   }
 ]
