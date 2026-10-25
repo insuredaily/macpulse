@@ -1,5 +1,35 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "Hinge damage suspected to be behind iPhone Duo screen cracks",
+    "link": "https://appleinsider.com/articles/26/10/25/hinge-damage-suspected-to-be-behind-iphone-duo-screen-cracks?utm_source=rss",
+    "content": "The cause behind a repeating pattern in the way a very small amount of iPhone Duo screen cracks may have been discovered, with a failing element of the hinge believed to be causing the most damage.\n\n\nA sheared-off part of an iPhone Duo hinge mechanism - Image Credit: CuriousHagi/YouTube\nSince the launch of the iPhone Duo, there have been sightings of cracked screens within hours of its release. While infant device failures are to be expected for major product launches, there is an consistency in the way that the screen itself is cracking.\nObserving videos such as the JerryRigEverything \"test\" and posts to Reddit show the screen cracks in a fairly typical manner when under stress. In quite a few instances, the fault develops at the crease line and spreads out horizontally to the edge.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-25T21:28:39.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS",
+    "id": 10932
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Sunday Reboot: Physical logos and a monumental screw-up",
+    "link": "https://appleinsider.com/articles/26/10/25/sunday-reboot-physical-logos-and-a-monumental-screw-up?utm_source=rss",
+    "content": "In this week's Sunday Reboot, Apple Music's chunky logo takes a bath, and one heck of a security snafu.\n\n\nThe rebrand of Apple Music - Image Credit: Apple\nSunday Reboot is a weekly column covering some of the lighter stories within the Apple reality distortion field from the past seven days. All to get next week underway with a good first step.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-25T20:11:18.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "Services",
+    "id": 10933
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Pro and Tell event live blog: Apple’s last launch of the year happens now",
+    "link": "https://www.macworld.com/article/3268887/pro-and-tell-event-live-blog-apples-last-launch-of-the-year-happens-now.html",
+    "content": "Macworld\n\n\n\n\n\nApple has had a busy fall, with the launch of the iPhone Duo, HomeView smart hub, and the M5 Ultra Mac Studio. But there’s one more event this week, and it might be the biggest of all. And you can follow every rumor and announcement with us right here.\nPro and Tell event: What we expect\nAs you can guess by the thinly veiled pun, this week’s marquee announcement is a new MacBook Pro, but not just any MacBook Pro:\nTouchscreen MacBook Pro: After years of denials, Apple appears to be on the verge of releasing its first-ever touchscreen MacBook. Rumors say it will have a new design with a lighter chassis, Dynamic Island, and an OLED display. And a very high price tag.\nM6 iMac: Apple announced the M6 chip in the Mac mini last month and now it’ll reportedly make its way into the iMac. There could be new colors too.\nM6 MacBook Pro: The entry-level MacBook Pro gets its annual chip-and-ship upgrade.\niPad mini: Somewhat out of place for this launch, the iPad mini is expected to get a big upgrade with a new chip, OLED display, and refreshed design. \nPro and Tell event: Live blog\n\n\n7 mins ago, By Michael Simon\nDon't expect a keynote\nWhile Apple has sent out invitations gathering influencers and members of the media to an “experience” in LA Wednesday at 1pm ET, there once again won’t be a keynote to announce the new products. So get ready for press releases and website updates.\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\n\n\n42 mins ago, By Michael Simon\nWelcome to the Pro and Tell live blog!\nHi everyone, we’re starting this on Sunday because we don’t know what to expect this week. We know there won’t be a keynote, but we don’t know if Apple will spread out its launches throughout the week as it has done in the past. So come back each day to check out what you missed!\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\tLink copied\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\tSHARE",
+    "pub_date": "2026-10-25T20:00:15.000Z",
+    "creator": "Macworld",
+    "tags": "Mac,iOS,Rumors,Silicon",
+    "id": 10939
+  },
+  {
     "source_name": "Macworld",
     "title": "iPhone Duo guide: Price, specs, availability, problems and reviews",
     "link": "https://www.macworld.com/article/2629813/iphone-duo-folding-design-guide-problems-price-specs.html",
@@ -558,6 +588,16 @@
     "creator": "Joe Rossignol",
     "tags": "iOS",
     "id": 10775
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "9to5Mac Overtime 087: Happy iPhone Duo day",
+    "link": "https://9to5mac.com/2026/10/23/9to5mac-overtime-087-happy-iphone-duo-day/",
+    "content": "Jeff interviews Fernando about his first 24 hours with the iPhone Duo, covering everything from initial impressions to how it works as a phone versus a tablet, how it compares to the iPad mini, and, of course, the crease. Does he plan on keeping it as a daily driver? Join us for a realistic take on Apple’s radical departure from the standard iPhone form factor.\nSponsored by Rokform: Get your iPhone 18 Pro and iPhone Duo cases today for 20% off when using code MAC2026.\nmore…",
+    "pub_date": "2026-10-23T20:00:00.000Z",
+    "creator": "Jeff Benjamin",
+    "tags": "iOS",
+    "id": 10921
   },
   {
     "source_name": "AppleInsider",
@@ -2958,45 +2998,5 @@
     "creator": "Ryan Christoffel",
     "tags": "General",
     "id": 10405
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iOS 27 adds scam-prevention feature to iPhone, here’s how to enable it",
-    "link": "https://9to5mac.com/2026/10/20/ios-27-adds-scam-prevention-feature-to-iphone-heres-how-to-enable-it/",
-    "content": "iOS 27 introduces a new security feature called ‘Impersonation Risk Detection’ that helps protect you against scams, but it’s off by default. Here’s what the feature does, and how to enable it.\nmore…",
-    "pub_date": "2026-10-20T18:56:15.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 10406
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Apple just gave me a reason to keep my 6-year-old HomePod mini",
-    "link": "https://www.macworld.com/article/3265191/apple-just-gave-me-a-reason-to-keep-my-6-year-old-homepod-mini.html",
-    "content": "Macworld\n\n\n\n\n\nFor years, the HomePod mini has been my go-to speaker for everyday listening at home. It sounds great, looks sleek, and deeply integrates into the Apple ecosystem—all for just $99 (at least back I bought one when it launched). When Apple unveiled the HomePod mini 2 last week, I was tempted to replace my fully functional stereo pair solely to get the new software exclusives, such as Siri AI. That was until I installed the OS 27.2 update, which brings enough of the second-generation experience to the original HomePod mini to minimize my urge to upgrade.\nQuite the glow-up\nSound Glow essentially brings the Dynamic Island’s animated waveform to the HomePod. The brand-new feature extracts the most prominent colors in a playing song’s album art and displays them on the HomePod’s touchscreen. The hues dynamically pulsate in sync with the track’s rhythm, reflecting the bass and treble in real time. While it technically doesn’t change how a song sounds, it does make the listening experience significantly more immersive and enjoyable.\nI had assumed Apple would restrict Sound Glow to the HomePod mini 2, as my first-generation stereo pair is always within my sight when working, and such a feature would matter to me. The Music app on my Apple TV 4K 3 already provided a similar visualizer on the big screen; having my HomePod minis react with the same palette would contribute to the overall ambience.\nI was pleasantly surprised to learn that Sound Glow is actually supported on all HomePods—excluding the original full-size model. After installing iOS 27.2 on my iPhone and its HomePod equivalent on my speakers, I was able to turn on and use Sound Glow on my 2020 minis just fine. Now they feel significantly more vibrant and energetic when blasting bops on them.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nMy old HomePod mini is getting new lights and features to match the 2nd-gen model.\n\nMahmoud Itani / Foundry\n\n\n\n\nGhost buster\nMany users have had to discard their otherwise functional HomePods because of the somewhat widespread phantom touch issue. The flaw repeatedly triggers the affected HomePod’s touchscreen without any user input, pausing/playing music and controlling the volume in a chaotic manner.\nThe latest OS update fixes the issue with a Lock Controls toggle in the Home app that optionally disables the touchscreen. So, whenever your HomePod starts misbehaving, you can kill touch input altogether and continue to rely on the otherwise functional speaker using voice commands or your iPhone.\nTurning a blind AI\nWhile OS 27.2 does not activate Siri AI on my original HomePod minis, the feature is arguably inessential in this context. The classic Siri generally works well for basic audio playback commands, and I tend to have longer, more complicated conversations with Siri AI using the keyboard on my iPhone, iPad, and Mac.\nPlus, the new HomePod mini 2 sells for $149, so upgrading my stereo pair would cost me another $300. It would make more sense to maintain my current HomePod setup and instead buy a HomeView for a similar price. This would unlock Siri AI and provide an always-on display as a bonus. Until Apple releases a meaningful upgrade, I will continue to rely on my trusty 6-year-old HomePod minis without a problem.\nHomePod Software and iOS 27.2 will launch to the general public next week—potentially on Monday, October 26—with the Sound Glow and Lock Controls features. To try them early, you can sign up for Apple’s beta program and download the Release Candidate builds currently available.",
-    "pub_date": "2026-10-20T18:44:37.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS,App Store",
-    "id": 10434
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "9to5Mac Daily: October 20, 2026 – Apple announces ‘Pro and tell’ experience",
-    "link": "https://9to5mac.com/2026/10/20/daily-october-20-2026/",
-    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.\n\n\n\n\n more…",
-    "pub_date": "2026-10-20T18:37:40.000Z",
-    "creator": "Seth Kurkowski",
-    "tags": "App Store",
-    "id": 10407
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple keeps acquiring companies with one clear goal in mind",
-    "link": "https://9to5mac.com/2026/10/20/apple-keeps-acquiring-companies-with-one-clear-goal-in-mind/",
-    "content": "Apple acquires a variety of companies every year, and recently many of its acquisitions—including the latest, Samplab—have revolved around one clear goal: improving and expanding Apple Creator Studio.\nmore…",
-    "pub_date": "2026-10-20T18:14:03.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "General",
-    "id": 10408
   }
 ]
