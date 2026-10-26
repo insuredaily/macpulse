@@ -1,5 +1,65 @@
 [
   {
+    "source_name": "MacRumors",
+    "title": "Apple Addresses Web Security Threat, Working on macOS Update With Additional Fix",
+    "link": "https://www.macrumors.com/2026/10/25/apple-blocks-compromised-emudhra-certificates/",
+    "content": "Earlier this month, a security researcher discovered that private cryptographic keys associated with eight of Indian company eMudhra's intermediate certificate authority (CA) certificates were weak. The compromised keys could have allowed attackers to impersonate legitimate websites, potentially putting users' sensitive information at risk. However, there is currently no evidence that the keys were exploited maliciously.\r\n\r\n\r\neMudhra's certificates were widely trusted by all major web browsers, including Safari, Chrome, Edge, and Firefox, but Apple and the other companies behind those browsers have since taken action to protect users.\r\n\r\nsupport document, Apple said it has been blocking eMudhra's compromised TLS web certificates since October 19 in Safari, Mail, and apps that use Apple's networking and security frameworks. The certificates are blocked automatically with no software update required, so most Apple device owners do not need to take any action.\r\n\r\nThere is one exception. Apple said those who use macOS command-line tools, such as system administrators, should be aware that some of those tools can still accept the compromised certificates until Apple releases a macOS update with a fix. In the meantime, Apple said those who use command-line tools can remove root CA certificates from the /etc/ssl/cert.pem file, with more details outlined in the support document.\r\n\r\nApple has not provided a release date for the macOS update that will include the necessary changes to the /etc/ssl/cert.pem file by default.\r\n\r\nApple's support document.\nTags: macOS Security, Safari\nThis article, \"Apple Addresses Web Security Threat, Working on macOS Update With Additional Fix\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-25T23:07:28.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "Mac",
+    "id": 10940
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "OLED iMac & MacBook Air in the works, far from launch",
+    "link": "https://appleinsider.com/articles/26/10/25/oled-upgrades-for-imac-macbook-air-are-planned-but-still-far-from-launch?utm_source=rss",
+    "content": "OLED displays are still planned for the iMac and MacBook Air, but don't expect either upgrade to arrive in the near future.\n\n\nThe current 24-inch iMac without OLED\nApple's \"Pro and Tell\" special event is forecast to feature the OLED upgrade to the MacBook Pro, among other launches. However, Apple's use of OLED won't stop there, as it still has plans to use it on other less-Pro models.\nAccording to Mark Gurman in Sunday's \"Power On\" newsletter for Bloomberg, Apple is currently testing new versions of the MacBook Air and iMac. Those prototypes are claimed to include OLED displays.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-10-25T22:32:37.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "Mac",
+    "id": 10893
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iPhone Duo Can Run Automations When You Open or Close It",
+    "link": "https://www.macrumors.com/2026/10/25/iphone-duo-automation-opened-or-closed/",
+    "content": "The iPhone Duo includes a new Shortcuts automation trigger that runs actions when the device is opened or closed. YouTuber Stephen Robles highlighted the trigger, which is called \"Opened or Closed\" and can be found under the Display automations category. It was first spotted in September by code sleuth pdfu in the iPhone Duo simulator.\r\n\r\nMacStories' Federico Viticci has said he plans to start \"brainstorming hinge automations.\"\nRelated Roundup: iPhone Duo\nTag: Shortcuts\nBuyer's Guide: iPhone Duo (Buy Now)\nRelated Forum: iPhone\nThis article, \"iPhone Duo Can Run Automations When You Open or Close It\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-25T22:26:58.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "iOS",
+    "id": 10941
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Adjust iPhone Duo's Outer Display to Accommodate Your Case",
+    "link": "https://www.macrumors.com/how-to/iphone-duo-setting-makes-room-for-case/",
+    "content": "On iPhone Duo, Apple includes a display setting for cases or frames that partially cover the left edge of the outer display. It's called Shift Left Edge, and it insets the display edge so that on-screen content isn't hidden beneath the case. \r\n\r\n\r\nWe first covered the setting in September, and Apple has since documented it, revealing that when you fit Apple's official iPhone Duo Case, a prompt automatically appears on the display to direct you to the setting. However, you can also turn it on manually at any time for third-party cases.\r\n\r\nHow to Turn On Shift Left Edge\n\r\n\nOpen the Settings app on your iPhone Duo.\n\r\nTap Display & Brightness.\n\r\nToggle on Shift Left Edge, then tap Enable in the prompt that appears.\n\r\n\r\nThe final prompt will tell you that your iPhone Duo needs to restart to apply the setting, but it's not a full reboot, and you'll be returned to the same settings screen after a brief black screen. \r\n\r\n\r\nIf you subsequently swipe up to the Home Screen, you'll notice a narrow black border on the left side of the outer screen to accommodate the front portion of the case, leaving no content obscured.\r\n\r\niPhone Duo Case, and a Folio with Kickstand that causes no such display occlusion.\nRelated Roundup: iPhone Duo\nBuyer's Guide: iPhone Duo (Buy Now)\nRelated Forum: iPhone\nThis article, \"Adjust iPhone Duo's Outer Display to Accommodate Your Case\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-25T22:00:02.000Z",
+    "creator": "Tim Hardwick",
+    "tags": "iOS,App Store",
+    "id": 10942
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iFixit iPhone Duo Teardown Points to Possible Cause of Screen Cracks",
+    "link": "https://www.macrumors.com/2026/10/25/ifixit-iphone-duo-teardown/",
+    "content": "Teardown site iFixit took apart the iPhone Duo to see what's inside, how it holds up to dust, and how repairable it is. There's a video walking through the teardown, as well as a blog post summing it up.\r\n\r\n\n\r\nBefore opening up the Duo, iFixit inundated it with fluorescent dust. The ‌iPhone Duo‌ has an IP68 dust and water resistance rating, which means it's sealed against dust. iFixit found dust in the USB-C port, speaker mesh, and bezel, but few particles reached the internals of the device.\r\n\r\nalso did a dust test where particles entered the hinge and caused the magnets that hold the phone shut to fail.\r\n\r\n\r\niFixit was able to peel the cover layer away easily, which is as Apple intended. Apple made the nano-texture cover layer simple to remove so it could be replaced inexpensively, but you're not supposed to take it off on your own. With AppleCare+, replacing the cover layer is $19, and it's $49 without it.\r\n\r\niPhone 16, so a small electrical charge loosens the adhesive and allows the batteries to be removed. iFixit said it was the \"best battery removal experience\" from a foldable to date.\r\n\r\n\r\nThe outer display was easy to take off, and iFixit said the construction is \"robust,\" which is a plus for repairability since most internal repairs have to go through the outer display. The inner screen trim comes off with heat, but there is a lot of adhesive to get through to remove the inner panel.\r\n\r\nApple describes the ‌iPhone Duo‌'s inner display as a 10-layer stack, and iFixit was able to peel back some of the layers to get a look at them under the microscope.\r\n\r\nThe ‌iPhone Duo‌ uses an unstacked logic board, and it's the first iPhone to do so since the iPhone 8. The single-layer design is one way Apple kept the Duo thin.\r\n\r\nsome of the display failures people have been seeing, suggesting they could be caused by pressure, a trapped particle, repeated bending, or a manufacturing defect. It may not be that the display has physically snapped, because a wiring problem can cause the same effect.\r\n\r\nWhere most of the faulty units are experiencing issues, the hinge has a different shape. The failure spot is also near where the accordion cable passes by and where several edges meet, which could be leading to a concentration of stress in that spot. From iFixit:\r\nTo see where the stresses build up from folding, we built a 3D hinge model from teardown footage, patents, and CT scans, then compared it with the reported damage locations. The breaks cluster near the transition from the gap for the crossing flex cable to the central hinge support. The damage we're seeing in photos isn't right where the display cable passes through the hinge, but slightly lower, at a point where several edges meet and change how the thin display is supported as it bends.\n\r\niFixit said it could also be the curved rails of the hinge that follow the screen's pivot points. The curved rails may be lifting above the flat plates of the hinge as the phone closes, and one rail lines up with the damage. It's possible a hinge component that's meant to retract isn't doing so, but there's no clear answer. The site has an interactive CT scan of the ‌iPhone Duo‌'s hinge that shows how the supports, cable, and components fit beneath the display for anyone who wants to take a look.\r\n\r\nWith a repair manual available on day one, an option to remove the outer display intact, and batteries that release with an electrical charge, iFixit gave the ‌iPhone Duo‌ a provisional repair score of 5 out of 10. The inner display and hinge assembly are the biggest vulnerabilities, which cost the Duo points. \"This is the most repairable foldable smartphone we've seen so far, and it's still going to be a bear to repair,\" said iFixit.\r\n\r\nRelated Roundup: iPhone Duo\nBuyer's Guide: iPhone Duo (Buy Now)\nRelated Forum: iPhone\nThis article, \"iFixit iPhone Duo Teardown Points to Possible Cause of Screen Cracks\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-25T21:44:03.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS",
+    "id": 10943
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "iFixit tears down iPhone Duo, finds possible causes of early screen failures",
+    "link": "https://9to5mac.com/2026/10/25/ifixit-tears-down-iphone-duo-finds-possible-causes-of-early-screen-failures/",
+    "content": "iFixit’s teardown of the iPhone Duo is up, revealing some interesting (and some worrisome) details about what it calls the most repairable foldable phone yet. Here are the details.\nmore…",
+    "pub_date": "2026-10-25T21:36:58.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "iOS",
+    "id": 10944
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Hinge damage suspected to be behind iPhone Duo screen cracks",
     "link": "https://appleinsider.com/articles/26/10/25/hinge-damage-suspected-to-be-behind-iphone-duo-screen-cracks?utm_source=rss",
@@ -103,8 +163,8 @@
     "source_name": "MacRumors",
     "title": "Apple Stores Reportedly Rolling Out New Anti-Theft System for iPhones",
     "link": "https://www.macrumors.com/2026/10/25/apple-stores-anti-theft-iphone-box-checker/",
-    "content": "Bloomberg's Mark Gurman today reported that Apple is facing a growing problem where some people will buy iPhones or other products and either remove accessories from the box, open up the device and remove components, and/or remove the entire device, and then attempt to return the box hoping that the employee will not notice.\r\n\r\n\r\nWhen a customer seeks to return an iPhone, he said that Apple's retail employees have ordinarily been instructed to open the box and verify the contents, but Apple has since come up with a solution that will cut down on wasted inventory.\r\n\r\nPower On newsletter today, Gurman said Apple has started providing retail employees with a device that can \"scan an in-box iPhone and run diagnostics on it to make sure the phone is fully intact, leaving the box sealed and able to be put back into inventory.\" Apple began rolling out this device to stores earlier this month, he said.\nTags: Apple Store, Mark Gurman\nThis article, \"Apple Stores Reportedly Rolling Out New Anti-Theft System for iPhones\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-25T15:18:08.000Z",
+    "content": "Bloomberg's Mark Gurman today reported that Apple is facing a growing problem where some people will buy iPhones or other products and either remove accessories from the box, open up the device and remove components, and/or remove the entire device, and then attempt to return the box hoping that the employee will not notice.\r\n\r\n\r\nWhen a customer seeks to return an iPhone, he said that Apple's retail employees have ordinarily been instructed to open the box and verify the contents, but Apple has since come up with a solution that will cut down on wasted inventory.\r\n\r\nPower On newsletter today, Gurman said Apple has started providing retail employees with a device that can \"scan an in-box iPhone and run diagnostics on it to make sure the phone is fully intact, leaving the box sealed and able to be put back into inventory.\" Apple began rolling out this device to stores earlier this month, he said.\r\n\r\ninstall iOS updates on iPhones without taking them out of the box. More recently, the devices can add a personalized greeting to the iPhone Duo's setup screen.\nTags: Apple Store, Mark Gurman\nThis article, \"Apple Stores Reportedly Rolling Out New Anti-Theft System for iPhones\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-25T15:18:04.000Z",
     "creator": "Joe Rossignol",
     "tags": "iOS",
     "id": 10876
@@ -118,16 +178,6 @@
     "creator": "William Gallagher <wg@williamgallagher.com>",
     "tags": "General",
     "id": 10892
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "OLED upgrades for iMac, MacBook Air are planned but still far from launch",
-    "link": "https://appleinsider.com/articles/26/10/25/oled-upgrades-for-imac-macbook-air-are-planned-but-still-far-from-launch?utm_source=rss",
-    "content": "OLED displays are still planned for the iMac and MacBook Air, but don't expect either upgrade to arrive in the near future.\n\n\nThe current 24-inch iMac without OLED\nApple's \"Pro and Tell\" special event is forecast to feature the OLED upgrade to the MacBook Pro, among other launches. However, Apple's use of OLED won't stop there, as it still has plans to use it on other less-Pro models.\nAccording to Mark Gurman in Sunday's \"Power On\" newsletter for Bloomberg, Apple is currently testing new versions of the MacBook Air and iMac. Those prototypes are claimed to include OLED displays.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-25T14:49:52.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "Mac",
-    "id": 10893
   },
   {
     "source_name": "9to5Mac",
@@ -243,7 +293,7 @@
     "source_name": "MacRumors",
     "title": "'Arguably Better Than Face ID': the iPhone Duo Touch ID Tip to Try",
     "link": "https://www.macrumors.com/2026/10/24/better-than-face-id-iphone-duo-touch-id-tip/",
-    "content": "An iPhone Duo owner has shared a Touch ID tip on Reddit they claim is \"arguably better than Face ID.\" It involves registering the lowest part of your index finger instead of the pad of your fingertip. The poster says this segment rests naturally against the side button during pickup and unlocks the phone as you lift it, and it seems at least some users agree.\r\n\r\nMacRumors forums, where another Duo owner reports it working for them. That said, grip styles vary, and it's not guaranteed to work for everyone, but intrigued users can test the tip themselves by registering additional bits of digits via Settings ➝ Touch ID & Passcode. After all, more is generally better.\nRelated Roundup: iPhone Duo\nTag: Face ID\nBuyer's Guide: iPhone Duo (Buy Now)\nRelated Forum: iPhone\nThis article, \"'Arguably Better Than Face ID': the iPhone Duo Touch ID Tip to Try\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "content": "An iPhone Duo owner has shared a Touch ID tip on Reddit they claim is \"arguably better than Face ID.\" It involves registering the lowest part of your index finger instead of the pad of your fingertip. The poster says this segment rests naturally against the side button during pickup and unlocks the phone as you lift it, and it seems at least some users agree.\r\n\r\nMacRumors forums, where another Duo owner reports it working for them. That said, grip styles vary, so it's not going to work for everyone, but intrigued users can test the tip themselves by registering additional bits of digits via Settings ➝ Touch ID & Passcode. After all, more recognized finger flesh is generally better to accommodate the device's various orientations.\nRelated Roundup: iPhone Duo\nTag: Face ID\nBuyer's Guide: iPhone Duo (Buy Now)\nRelated Forum: iPhone\nThis article, \"'Arguably Better Than Face ID': the iPhone Duo Touch ID Tip to Try\" first appeared on MacRumors.com\nDiscuss this article in our forums",
     "pub_date": "2026-10-24T23:48:55.000Z",
     "creator": "Tim Hardwick",
     "tags": "iOS",
@@ -2948,55 +2998,5 @@
     "creator": "Juli Clover",
     "tags": "iOS",
     "id": 10459
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Perplexity Computer Can Now Run Fully Locally on Mac",
-    "link": "https://www.macrumors.com/2026/10/20/perplexity-computer-local-mac/",
-    "content": "Perplexity today said it is updating Perplexity Computer to run fully locally on Mac. The local version runs on Qwen 3.6 or PPLX Pro (a post-trained version of Qwen) in the Perplexity app for Mac on supported Apple silicon Macs.\r\n\r\n\r\nPerplexity highlights the new Mac mini machines and says 36GB of memory or more is recommended to run locally. With the local setup, the AI model, task planning, reasoning, and file processing are handled on-device. Code and tool execution run in isolated sandbox environments.\r\n\r\nComputer can use native apps on the Mac and complete tasks without sending personal data to the cloud. Perplexity says it can work across apps like Notes, Messages, Mail, Keynote, and Numbers.\r\n\r\nPerplexity also offers Hybrid Compute, which combines frontier models that run in the cloud with local models to process information privately. It's an alternative for users who want local processing but don't have a Mac that's powerful enough. Hybrid Compute works on Macs with as little as 24GB of memory,\r\n\r\nWhen running Computer locally, if a task requires current information, browser use, or cloud-connected apps, users can authorize cloud access and decide when to spend credits. There's also an option to call on one of more than 15 frontier models for tougher problems when needed.\r\n\r\nTag: Perplexity\nThis article, \"Perplexity Computer Can Now Run Fully Locally on Mac\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-20T22:20:12.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,Silicon,App Store",
-    "id": 10445
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Sensor Tower: Meta’s Muse app tops 10 million US downloads in 40 days",
-    "link": "https://9to5mac.com/2026/10/20/sensor-tower-metas-muse-app-tops-10-million-us-downloads-in-40-days/",
-    "content": "According to a new report from Sensor Tower, not only did Meta’s Muse become the 12th app ever to reach 10 million US downloads in 40 days, but it is also outpacing its peers in user retention. Here are the details.\nmore…",
-    "pub_date": "2026-10-20T20:45:05.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "App Store",
-    "id": 10446
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple’s ‘Designers of Tomorrow’ highlights creative projects from emerging designers",
-    "link": "https://9to5mac.com/2026/10/20/apples-designers-of-tomorrow-highlights-creative-projects-from-emerging-designers/",
-    "content": "Apple, in collaboration with Design Miami, is highlighting four creative projects from emerging designers in this year’s ‘Designers of Tomorrow’ exhibition, which opens today at Hôtel de Maisons in Paris. Here are the details.\nmore…",
-    "pub_date": "2026-10-20T20:07:26.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "General",
-    "id": 10404
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Apple's Touchscreen OLED MacBook Pro: Everything We Know",
-    "link": "https://www.macrumors.com/guide/touchscreen-macbook-pro/",
-    "content": "Apple is working on a high-end MacBook Pro, and it's nearly ready to launch. It will have several firsts in a Mac, including an OLED display and a touchscreen.\r\n\r\n\r\nDesign\n\r\nApple hasn't redesigned the ‌MacBook Pro‌ since the launch of the M1 Pro and M1 Max models in 2021, so it's due for a new look. The new ‌MacBook Pro‌ is expected to feature some minor design changes. There's only so much you can do in a laptop form factor, but rumors say it will be lighter and possibly a bit thinner than before, which suggests some tweaks to the casing.\r\n\r\nDynamic Island. A ‌Dynamic Island‌ could better unify the way Siri AI behaves across the iPhone and the Mac with iOS 27 and macOS Golden Gate, and it will take up less space on the display.\r\n\r\nWe haven't heard rumors of keyboard or trackpad changes, and neither needs an overhaul.\r\n\r\nSize Options\n\r\nThe ‌OLED‌ ‌MacBook Pro‌ will be available in both 14-inch and 16-inch size options. It's not yet clear if it will replace the current models or be sold as a higher-end option alongside them.\r\n\r\nDisplay\n\r\nApple's upcoming ‌MacBook Pro‌ will be the first with an ‌OLED‌ display. ‌OLED‌ display technology is already used for the iPhone, Apple Watch, and iPad Pro, but it has taken time for larger-sized ‌OLED‌ screens to come down in price.\r\n\r\n‌OLED‌ will be an upgrade over the current mini-LED display technology in most cases, bringing richer colors and a higher contrast ratio with true blacks. In an ‌OLED‌ display, individual pixels turn off instead of dimming when not in use, so there's less blooming. ‌OLED‌ displays tend to have better HDR than mini-LED, but sometimes don't match the mini-LED brightness levels.\r\n\r\nadvanced tandem OLED structures. Tandem ‌OLED‌ panels are used in the ‌iPad Pro‌ and have a longer lifespan with less burn-in than single-stack ‌OLED‌ panels.\r\n\r\nTouchscreen\n\r\nAlong with ‌OLED‌ technology, the ‌MacBook Pro‌ is expected to have the first touchscreen display on a Mac. Users will be able to use their fingers to interact with the Mac's display, similar to an iPad.\r\n\r\nTouchscreen capabilities will be used alongside the trackpad and keyboard, suggesting Apple sees touch as supplementary instead of a primary control method. Apple is rumored to be adapting ‌macOS Golden Gate‌ for touch input.\r\n\r\nApple plans to add a reinforced hinge to the ‌MacBook Pro‌'s display so that it doesn't wobble when it's tapped.\r\n\r\nTouchscreen Hints in macOS 27\n\r\nThere are features in ‌macOS Golden Gate‌ that hint at a future touchscreen Mac. Apple added direct touch input to Sidecar so users can tap and interact with macOS elements when using the ‌iPad‌ as a Mac display.\r\n\r\n‌macOS Golden Gate‌ supports an iPhone-style pull-to-refresh option, and it can be used across apps like Safari, Mail, News, Podcasts, and Calendar. A pull-to-refresh option makes the most sense on a touch display.\r\n\r\nChips\n\r\nThe current high-end ‌MacBook Pro‌ models are equipped with M5 Pro and M5 Max chips, and Apple plans to use the same chips for the ‌OLED‌ ‌MacBook Pro‌.\r\n\r\nintroduced an M6 chip in the latest Mac mini, and it's expected to appear in a low-end ‌MacBook Pro‌ and an iMac on October 28, but Bloomberg says Apple isn't going to release any other chips in the M6 series. Apple's chip plans changed earlier this year, and the company is now accelerating the launch of the M7 series. The M7 chips feature major neural-processing improvements that will meet demand for machines better able to handle AI tasks.\r\n\r\nWith no M6 Pro or M6 Max planned, Apple will need to use the M5 Pro and M5 Max so it doesn't have to wait for the M7 series before debuting the ‌OLED‌ ‌MacBook Pro‌. A second-generation ‌OLED‌ ‌MacBook Pro‌ will use the M7 Pro and M7 Max chips, with that machine planned for late 2027.\r\n\r\nNaming\n\r\nThere were rumors that the ‌OLED‌ model would be called the \"MacBook Ultra,\" but that's apparently not happening. Apple's product unveiling has the tagline \"Pro and tell,\" making it clear the new device will keep the Pro name.\r\n\r\nPricing\n\r\nApple's ‌OLED‌ ‌MacBook Pro‌ is expected to be a premium product, with a price tag higher than current ‌MacBook Pro‌ models. Apple raised the prices of all Macs in June 2026, so the ‌MacBook Pro‌ could be even more expensive. ‌MacBook Pro‌ pricing went up a minimum of $300 as part of the June price hikes.\r\n\r\nThe higher-end 14-inch ‌MacBook Pro‌ with M5 Pro chip starts at $2,499 after the price increase, while the 16-inch M5 Pro ‌MacBook Pro‌ starts at $2,999. The M5 Max models start at $4,099 for the 14-inch model and $4,399 for the 16-inch model.\r\n\r\nLaunch Date\n\r\nApple will introduce new Macs on Wednesday, October 28 as part of a \"Pro and tell\" launch. There won't be a livestreamed event, but some members of the media have been invited to Los Angeles to try out the new devices.\r\n\r\nRelated Roundup: MacBook Pro\nTag: OLED\nBuyer's Guide: MacBook Pro (Caution)\nRelated Forum: MacBook Pro\nThis article, \"Apple's Touchscreen OLED MacBook Pro: Everything We Know\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-20T19:51:59.000Z",
-    "creator": "Juli Clover",
-    "tags": "Mac,iOS,Silicon",
-    "id": 10394
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "John Ternus talks his involvement with design teams at Apple",
-    "link": "https://9to5mac.com/2026/10/20/john-ternus-talks-his-involvement-with-design-teams-at-apple/",
-    "content": "Last week TIME shared select quotes from a new interview with Apple CEO John Ternus, but today the full video has been published, including a discussion on Ternus’s involvement with Apple’s design teams.\nmore…",
-    "pub_date": "2026-10-20T19:51:56.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "General",
-    "id": 10405
   }
 ]
