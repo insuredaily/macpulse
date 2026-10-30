@@ -1,5 +1,45 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "Apple’s best MacBook Pro decision this week had nothing to do with touch",
+    "link": "https://9to5mac.com/2026/10/29/apples-best-macbook-pro-decision-this-week-had-nothing-to-do-with-touch/",
+    "content": "Apple’s new touchscreen MacBook Pro brings plenty of welcome upgrades, but one of the best things about this week’s launch is what the company decided not to change.\nmore…",
+    "pub_date": "2026-10-30T02:06:23.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac",
+    "id": 11377
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple TV’s new crime thriller series ‘Nocturne’ is now streaming",
+    "link": "https://9to5mac.com/2026/10/29/apple-tvs-new-crime-thriller-series-nocturne-is-now-streaming/",
+    "content": "The first two episodes for Apple TV’s latest crime thriller, “Nocturne,” are now available to stream. Watch the trailer below.\nmore…",
+    "pub_date": "2026-10-30T01:01:35.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "General",
+    "id": 11378
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "9to5Mac Daily: October 29, 2026 – New MacBook Pro with PROLED XDR Display ",
+    "link": "https://9to5mac.com/2026/10/29/daily-october-29-2026/",
+    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.\n\n\n\n\n more…",
+    "pub_date": "2026-10-30T00:58:40.000Z",
+    "creator": "Seth Kurkowski",
+    "tags": "Mac,App Store",
+    "id": 11379
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "New Apple TV 4K and iPad Mini: RAM Amounts Revealed",
+    "link": "https://www.macrumors.com/2026/10/29/new-apple-tv-4k-ipad-mini-ram-amounts/",
+    "content": "Apple today released Xcode 27.2, and it reveals how much RAM is in the new fourth-generation Apple TV 4K and the new iPad mini with an OLED display.\r\n\r\n\r\nAs expected, the new Apple TV 4K with the A19 chip is equipped with 8GB of RAM, while the new iPad mini with the A20 Pro chip has 12GB of RAM.\r\n\r\nFor good measure, Xcode shows the iPhone Duo is equipped with 12GB of RAM.\r\n\r\nNone of these RAM amounts are surprising, but Apple does not list this information in its tech specs for these devices, so they are worth confirming.\r\n\r\nApple raising prices this year across many products, including iPhones, iPads, Macs, HomePods, the Apple TV 4K, and more.\nRelated Roundups: Apple TV, iPad mini, iPhone Duo\nBuyer's Guide: Apple TV (Buy Now), iPad Mini (Buy Now), iPhone Duo (Buy Now)\nRelated Forums: Apple TV and Home Theater, iPad, iPhone\nThis article, \"New Apple TV 4K and iPad Mini: RAM Amounts Revealed\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-10-30T00:50:44.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "iOS,App Store",
+    "id": 11376
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Apple TV celebrates the second season of 'Stick' with Owen Wilson at Topgolf",
     "link": "https://appleinsider.com/articles/26/10/30/apple-tv-celebrates-the-second-season-of-stick-with-owen-wilson-at-topgolf?utm_source=rss",
@@ -2958,45 +2998,5 @@
     "creator": "Zac Hall",
     "tags": "General",
     "id": 10992
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "MagSafe Monday: TESSAN’s 6-in-1 charging station replaces every charger on your desk",
-    "link": "https://9to5mac.com/2026/10/26/tessans-6-in-1-charging-station-replaces-every-charger-on-your-desk/",
-    "content": "One hub/cord to rule them all is a goal most people have for their desk. The TESSAN Magic 65W Charging Station is built to collapse your pile of cords into a single compact hub, and a couple of its design details are really handy as well if you like to hide your power cables. Let’s take a look at it.\nmore…",
-    "pub_date": "2026-10-26T18:12:00.000Z",
-    "creator": "Bradley C",
-    "tags": "General",
-    "id": 10993
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Most of Canada about to get AirPods Pro hearing aid features",
-    "link": "https://appleinsider.com/articles/26/10/26/most-of-canada-about-to-get-airpods-pro-hearing-aid-features?utm_source=rss",
-    "content": "The features are coming in iOS 27.2 and iPadOS 27.2. Alberta, British Columbia, New Brunswick, Prince Edward Island, and Saskatchewan are on the list for adoption. Ontario is notably absent from that list. The features first launched in the US in iOS 18.1.\n\n\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-26T18:11:18.000Z",
-    "creator": "Mike Wuerthele <mike@appleinsider.com>",
-    "tags": "iOS",
-    "id": 11015
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Bug fixes and performance improvements are all you'll find in visionOS 27.2",
-    "link": "https://appleinsider.com/articles/26/10/26/bug-fixes-and-performance-improvements-are-all-youll-find-in-visionos-272?utm_source=rss",
-    "content": "Apple has released visionOS 27.2 with minor updates that are primarily related to other OS changes.\n\n\nvisionOS 27.2 is a small update\nApple Vision Pro didn't see many significant operating system changes through visionOS 26, and that pattern seems to be continuing into visionOS 27. The visionOS 27.2 release doesn't have any platform-specific features, though it does contain bug fixes.\nIf you're wondering where visionOS 27.1 went, don't worry, you didn't miss an update. Apple preserved the OS 27.1 update for the iPhone Duo and everything else skipped to OS 27.2.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-26T17:59:42.000Z",
-    "creator": "Wesley Hilliard <wes@appleinsider.com>",
-    "tags": "iOS,Vision",
-    "id": 11011
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "macOS 27.2 is out with cosmetic changes, new Siri AI languages",
-    "link": "https://appleinsider.com/articles/26/10/26/macos-272-is-out-with-cosmetic-changes-new-siri-ai-languages?utm_source=rss",
-    "content": "After weeks of testing, Apple has released macOS Golden Gate 27.2. Officially it's a minor release, but under the hood changes are preparing the way for touch-screen Macs.\n\n\nApple's macOS Golden Gate.\nAs previously revealed during the beta testing period, macOS 27.2 has introduced a cosmetic change to Apple Music. It's part of a wider rebrand that includes a new video sting for music productions. Now that macOS 27.2 has been released as the official current OS for the Mac, there are a few visual changes.\nApple Music's logo and refreshed color scheme is the most visible update, with the old red highlights being replaced by blue. But there are also changes to the volume and brightness controls.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-26T17:58:29.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "Mac,Services",
-    "id": 11012
   }
 ]
