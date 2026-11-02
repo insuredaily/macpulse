@@ -1,10 +1,50 @@
 [
   {
+    "source_name": "9to5Mac",
+    "title": "These are the best MacBook deals right now: November 2026 Buyer’s Guide",
+    "link": "https://9to5mac.com/2026/11/01/best-macbook-discounts-november-2026-edition/",
+    "content": "In recent years, Macs had been getting more and more affordable. Cheaper starting points, more memory and storage per dollar, and the introduction of MacBook Neo. For the first time, Apple had started to become one of the best values on the market.\nWhile Apple did drastically increase its prices earlier this year as a result of the ongoing memory shortage, we’re starting to finally see some pricing improvements, down from the initial sting.\nmore…",
+    "pub_date": "2026-11-02T05:01:57.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "Mac",
+    "id": 11559
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Hands-on: ESR’s 45W Xtend charger is an excellent iPhone fast charger on the go",
+    "link": "https://9to5mac.com/2026/11/01/esr-45w-fast-charger-with-retractable-cable-for-iphone-hands-on/",
+    "content": "Last month, ESR released a new set of chargers under the xtend branding – all of which offer built-in retractable cables. They have a 45W wall charger that supports up to 60W with AVS, as well as a 100W car charger with two cables.\nI’ll largely be touching on the 45W charger here, as that’s the one I’ve been utilizing the most.\nmore…",
+    "pub_date": "2026-11-02T03:32:37.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS",
+    "id": 11560
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Sunday Reboot: Sam Altman needs to read the RAM room",
+    "link": "https://appleinsider.com/articles/26/11/02/sunday-reboot-sam-altman-needs-to-read-the-ram-room?utm_source=rss",
+    "content": "In this week's Sunday Reboot, Sam Altman thinks it's wasteful for you to have more memory in your Mac. It's bad enough that you have any RAM that he can't access at all.\n\n\nOpenAI CEO Sam Altman\nSunday Reboot is a weekly column covering some of the lighter stories within the Apple reality distortion field from the past seven days. All to get next week underway with a good first step.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-11-02T02:46:56.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "Mac",
+    "id": 11571
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Three new iPad models are reportedly launching early next year, here’s what’s coming",
+    "link": "https://9to5mac.com/2026/11/01/three-new-ipad-models-are-reportedly-launching-early-next-year-heres-whats-coming/",
+    "content": "After debuting the refreshed iPad mini with OLED this past week, Apple still has more in the pipeline for the rest of the iPad lineup in the first half of next year. That includes a new iPad Air, a new base iPad, and a new iPad Pro, according to Bloomberg’s Mark Gurman.\nmore…",
+    "pub_date": "2026-11-02T02:12:39.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "iOS",
+    "id": 11561
+  },
+  {
     "source_name": "AppleInsider",
     "title": "HomeView can behave like a HomeKit security camera",
     "link": "https://appleinsider.com/articles/26/11/01/homeview-can-behave-like-a-homekit-security-camera?utm_source=rss",
     "content": "While Apple hasn't launched a standalone security camera, the HomeView could act as one, working as a HomeKit Security Camera to protect your home.\n\n\nApple HomeView\nThe October smart home event saw Apple introduce the HomeView alongside a bunch of smart home accessories. That included the LG Video Doorbell and a number of LG security cameras and sensors.\nHowever, if serial leaker and code sleuth pdfu is correct in a Reddit post, Apple may still have a home security trick up its sleeve. While the HomeView may not strictly be a security camera, it has the capability of acting as one.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-11-01T19:24:28.000Z",
+    "pub_date": "2026-11-01T19:53:41.000Z",
     "creator": "Malcolm Owen <malcolm@appleinsider.com>",
     "tags": "General",
     "id": 11554
@@ -2958,45 +2998,5 @@
     "creator": "William Gallagher <wg@williamgallagher.com>",
     "tags": "Mac,Silicon",
     "id": 11161
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Copilot Money gets even better with new AI-powered Money Assistant",
-    "link": "https://9to5mac.com/2026/10/27/copilot-money-gets-even-better-with-new-ai-powered-money-assistant/",
-    "content": "Copilot Money, the award-winning personal finance app, is getting even better this week with the launch of Money Assistant: an AI financial agent built into every part of the app. It tells you what you need to know, makes changes for you, and answers anything about your money.\nCopilot Money is exclusively offering 9to5Mac readers an extended two-month free trial with code 9TO5MAC. Get started today by visiting the Copilot Money website.\nmore…",
-    "pub_date": "2026-10-27T19:00:35.000Z",
-    "creator": "Sponsored Post",
-    "tags": "App Store",
-    "id": 11134
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Apple’s new iPad mini is a Duo you can’t close",
-    "link": "https://www.macworld.com/article/3270413/apples-new-ipad-mini-is-a-duo-you-cant-close.html",
-    "content": "Macworld\n\n\n\n\n\nThere was no event, no livestream, no video presentation; just a press release and an update to Apple’s website. But as low-key, start-of-the-week product refreshes go, the 8th-gen iPad mini announcement was oddly impressive.\nIt has a much faster processor, jumping three generations from A17 Pro to A20 Pro. (Great news for those AI applications we all love so much.) It has a much better screen, going from LED to OLED with its deeper blacks and overall better color reproduction, while also becoming slightly larger (8.5 inches vs 8.3 inches) and considerably brighter (1,200 nits for HDR content vs 500 nits max). And the iPad itself has shrunk significantly in both thickness (6.3mm to 5.4mm) and weight (263 grams vs 297 grams), making it by far the most portable iPad yet.\nPart of me applauds a valiant attempt to keep the iPad mini relevant instead of killing it off, as has seemed plausible at various stages in the product’s history. But another part thinks Apple has just responded to competition from the automobile industry by building the world’s fanciest horse and cart.\nAs I discussed briefly in our live blog for this week’s Apple announcements, the iPad mini’s great problem is that the ground has moved beneath its feet. When the device came out, an argument could be made that it was the best way for Apple fans to view movies and play games on the go. It was relatively cheap, portable, powerful, and above all delivered an experience you couldn’t get with any other Apple product. But that hasn’t been the case for some time now.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nThe iPad mini has a lot of the features of an iPhone Duo when opened.\nApple\nTake the phablet, as we used to call very large smartphones before products of that form factor became normal and even expected. They threaten mini tablets because they approach the same problem in a more versatile way. Yes, an iPad mini is cheaper than an iPhone 18 Pro Max. But the latter is also a phone. It’s more portable, more powerful, offers a very respectable 6.9-inch screen that’s great for games and movies, and it’s the only mobile device you need. Why buy an iPad mini and a phone when you can get both in one package?\nBut this year the iPad mini’s situation became even more desperate with the launch of the iPhone Duo. The Duo has its issues, but beating any iPad mini in a head-to-head is not one of them. It’s just straight up better: infinitely more portable in its folded form, very nearly as large-screened when unfolded, and vastly more powerful and versatile. A world containing the iPhone Duo is not one that’s friendly to the iPad mini, which is essentially a Duo you can’t close.\nDoes the A20 Pro update change the equation in any meaningful way? Thinness is always nice, the mini needed an up-to-date processor for future-proofing if nothing else, and the OLED screen is the sort of quality-of-life upgrade you can market around. But it’s still fundamentally a product whose niche got swallowed up by something more exciting. It still feels kind of obsolete. It’s still a knife at a gunfight.\nCan the iPad mini succeed? I think so. But my advice, perhaps counterintuitively, would be for Apple to embrace the qualities and characteristics that make it different from the bigger iPhones and the more powerful iPads. It needs to be cheaper, not thinner. It needs to be tougher, not more powerful. (The new model’s water and dust resistance is a bigger deal, in my opinion.) It needs to become the iPad equivalent of the old iPhone SE, by delivering an old-fashioned experience for the niche audience that doesn’t want the newer and more expensive version.\nThe iPad mini can find a role if it focuses on going to the places where you wouldn’t take an iPhone Duo, and doing the jobs that aren’t suitable for an iPad Air. I want it to be an extremely convenient ebook reader and web surfer that’s equally at home by the pool or on the coffee table, not yet another identikit reworking of the iPhone-iPad continuum that doesn’t make as much sense as the alternatives on either side.\nThe iPad mini isn’t going to beat the iPhone Duo by being better: the horse isn’t going to run faster than a car, and the cart isn’t going to offer more comfortable seats. It’s not going to do the same jobs to the same standard. But the mini is different, and it can still succeed if Apple embraces that.",
-    "pub_date": "2026-10-27T18:56:16.000Z",
-    "creator": "Macworld",
-    "tags": "iOS,Silicon",
-    "id": 11175
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "iOS 27.2 adds hidden SynthID watermark to AI images",
-    "link": "https://www.cultofmac.com/news/ios-27-2-synthid-watermark-ai-images",
-    "content": "iOS 27.2 adds an invisible SynthID watermark to Image Playground images and some AI-edited photos. Here’s how it works and how to check.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-10-27T18:31:31.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,iOS",
-    "id": 11183
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Astropad Workbench 1.4 adds terminal access, iPhone Duo support, and more",
-    "link": "https://9to5mac.com/2026/10/27/astropad-workbench-1-4-adds-terminal-access-iphone-duo-support-and-more/",
-    "content": "Astropad is out today with Workbench 1.4, the latest update to its remote desktop app for Mac. The release adds a built-in terminal, native iPhone Duo support, and a new way to transfer files between Macs.\nmore…",
-    "pub_date": "2026-10-27T18:29:50.000Z",
-    "creator": "Zac Hall",
-    "tags": "Mac,iOS,App Store",
-    "id": 11135
   }
 ]
