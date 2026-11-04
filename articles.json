@@ -1,9 +1,189 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "Apple Music gaining new Selfie Sing video karaoke mode",
+    "link": "https://appleinsider.com/articles/26/11/04/apple-music-gaining-new-selfie-sing-video-karaoke-mode?utm_source=rss",
+    "content": "Starting in iOS 27.3, Apple Music users will be able to capture videos of themselves singing songs along to the lyrics thanks to a new Selfie Sing feature.\n\n\nSelfie Sing is a new Apple Music feature\nApple is expanding its Apple Music feature set with more karaoke-like options. Apple Music Sing already let users turn down vocals and sing along with the highlighted lyrics, but a new mode brings them into the mix.\nThe Selfie Sing feature exists in the iOS 27.3 beta and was first shared by code sleuth Aaron Perris. While his video shows an Animoji, that isn't a feature of Selfie Sing, just an effort to avoid posting a video of himself singing.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-11-04T01:07:57.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "iOS,Services",
+    "id": 11795
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Everything New in the iOS 27.3 Beta",
+    "link": "https://www.macrumors.com/guide/ios-27-3-beta-features/",
+    "content": "Apple today started testing iOS 27.3, the biggest update to iOS 27 since it launched in September. iOS 27.3 includes some features Apple showed off earlier this year, and it adds all-new capabilities.\r\n\r\nSubscribe to the MacRumors YouTube channel for more videos.\n\r\n\r\nSafari\n\r\nSafari has a Vertical Tabs layout option that can be activated in Safari settings, along with an Adaptive Dark Mode for websites that don't have a dark mode design option.\r\n\r\n\r\nSiri AI\n\r\nSiri AI can do more in and across apps, with Apple adding a long list of new actions.\r\n\r\n\r\nIn Mail, ‌Siri‌ can unsubscribe you from mailing lists and undo recently sent messages. In Weather, ‌Siri‌ can add locations to your weather list, or control weather notifications. In Safari, ‌Siri‌ can clear browsing history, manage tabs and windows, save articles to a Reading List, and close duplicate tabs. In Files, ‌Siri‌ can organize content, delete files you haven't accessed for a set period of time, and more.\r\n\r\nPhotos, Preview, Reminders, Safari, Shortcuts, and Weather. You can find out what's new by asking ‌Siri‌ what it can do in each app.\r\n\r\nintegrate their app with ‌Siri‌ AI.\r\n\r\nAny app can now bring its content and actions directly into ‌Siri‌ AI using App Intents. ‌Siri‌ AI can complete any custom actions developers implement, and there are skills available for teaching ‌Siri‌ AI to combine several actions into a single experience.\r\n\r\nNew Health App\n\r\nThe redesigned Health app is back in iOS 27.3. It has new Insights and Longevity tabs that show more information about your health and fitness metrics.\r\n\r\n\r\nThe Insights tab includes your most recent health data, like Activity Rings, heart rate, sleep score, and vitals. Apple Intelligence will use that information to offer Personal Guidance. The Health app will be able to make suggestions based on your goals and what kinds of activities you do.\r\n\r\nThe Health app's Longevity tab looks at health data over time. It assesses you across seven categories: heart health, sleep, mental wellbeing, movement health, metabolic health, hearing, and nutrition. It also has a Health Age feature that uses info like resting heart rate, VO2 max, HRV, sleep, and biomarkers from blood work to calculate how your health metrics compare to your actual age. Health Age relies on health data collected from the Apple Watch, plus it incorporates fitness assessments you can take at home with tracking via the iPhone's camera.\r\n\r\niPhone Duo Reachability\n\r\nReachability is now available on the iPhone Duo. You can swipe left from the left edge or right from the right edge of the device's outer display to bring content closer to where your thumb is for one-handed use.\r\n\r\n\r\n\r\nReachability can be turned on in the Settings app by going to Accessibility, selecting Touch, and toggling on the option.\r\n\r\niPhone Duo Keyboard\n\r\nThe keyboard on the ‌iPhone Duo‌'s front display has been tweaked. The emoji and number keys have been swapped, as have the microphone and return keys. \r\n\r\n\r\nKeys are slightly taller and thinner, the space bar is wider, and the letters on each key are smaller and not as bold. \r\n\r\nStandBy\n\r\nApple is making the StandBy features introduced with the ‌iPhone Duo‌ available on all iPhone models that can run ‌iOS 27‌. There are updated versions of the Analog and Digital Clock faces with more customization options for color and complications, an updated ‌Photos‌ face, new Calendar and Weather faces, and the option to create multiple versions of each face type and swipe between them.\r\n\r\nLive Rewind and Siri Recap\n\r\nLive Rewind and Siri Recap are available in watchOS 27.3, but iOS 27.3 is also required. The features can be enabled in the Watch app on the iPhone.\r\n\r\n\r\nApple Intelligence for China\n\r\n‌Apple Intelligence‌ is now live in China. It includes initial ‌Apple Intelligence‌ features like Live Translation, Writing Tools, Visual Intelligence, email and notification summaries, ‌Photos‌ Clean Up, and Genmoji.\r\n\r\n\r\n\r\n‌Siri‌ AI is not available, nor are the ‌Apple Intelligence‌ features added in ‌iOS 27‌.\r\n\r\nChina Earthquake Alerts\n\r\niOS 27.3 appears to add support for safety alerts. Apple has been working with the China Earthquake Networks Center to add early warning earthquake alerts for users in China.\r\n\r\nSelfie Sing\n\r\nApple Music has a new \"Selfie Sing\" option that lets users capture a video of themselves singing karaoke. The feature can be found by searching for the ‌Apple Music‌ Sing playlist in ‌Apple Music‌, selecting a song, and then tapping on the camera icon to start a recording. \r\n\r\n\r\n\r\nKaraoke videos can be adjusted wit voice modification options and shared with friends or on social media.\r\n\r\nFreeform\n\r\nIn the Freeform app, there are new tools for generating custom shapes and adding images. Apple says users can create custom, editable shapes with text descriptions. It's a feature limited to Apple Creator Studio subscribers.\r\n\r\nThere are also new styles for formatting text, and an option to choose a color for the background of a board.\r\n\r\nControl Center\n\r\nThe VPN toggle in Control Center now lets you quickly switch between VPNs. Before now, the toggle just turned the last used VPN on or off.\r\n\r\nApp Library\n\r\nThe \"Cancel\" button in the App Library search interface is now an X button.\r\n\r\nApple Fitness+\n\r\niOS 27.3 includes a new Gym Strength workout in Apple Fitness+. Gym Strength is a custom fitness option that generates a four-week plan based on a user's goals, experience, schedule, and equipment.\r\n\r\n\r\n\r\nSafari Settings\n\r\nIn the Advanced section of Safari settings, there's an option to \"Use Global Privacy Control.\"\r\n\r\n\r\n\r\nWeather\n\r\nThe tiny slider that lets you swap between Condition views in the Weather app now uses Liquid Glass. Apple has also updated how next-hour precipitation looks. \r\n\r\n\r\nAustralia\n\r\nRCS support is available for Australian carrier Telstra in iOS 27.3.\nRelated Roundups: iOS 27, iPadOS 27\nRelated Forum: iOS 27\nThis article, \"Everything New in the iOS 27.3 Beta\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-11-04T00:52:02.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,App Store,Services",
+    "id": 11778
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Music's New Selfie Sing Feature Lets You Record Karaoke Videos",
+    "link": "https://www.macrumors.com/2026/11/03/apple-music-selfie-sing/",
+    "content": "iOS 27.3 adds a new \"Selfie Sing\" feature in Apple Music that lets users record themselves while singing a song.\r\n\r\n\r\nThere's a dedicated Selfie Sing playlist and a selfie camera view that shows lyrics on the screen while also recording a video. Apple has a description of the feature:\r\nThere are some songs everyone knows by heart, the ones that come on and suddenly the whole room's singing along. This playlist is loaded with them, each one ready to become your next Selfie Sing. Pick your favorite, record a Selfie Sing, add mic effects to your voice, then save or share your video selfie with anyone you like. No pitch-perfect anything required–just you, the song, and the moment. Oh, and make sure you've updated to the latest iOS before getting started.\n\r\nAfter selecting a song, you can tap on the camera icon to start a Selfie Sing. Tapping the red button begins a recording, and the lyrics start to scroll by. When a song is finished, there are options to change the volume of your voice or add an effect. Options include Megaphone, Echo, Concert Hall, and Studio. Videos can then be saved to the Photos library or shared.\r\n\r\n\nHere is your first look at Selfie Sing, new in iOS 27.3, inside of Apple Music\r\n\r\nRecord a video selfie, adjusting vocals to make it yours, and share your performance with friends\r\n\r\n— Aaron (@aaronp613) November 4, 2026\n\r\n\n\r\nSongs on the Selfie Sing playlist include \"Respect\" by Aretha Franklin, \"Girls Just Wanna Have Fun\" by Cyndi Lauper, \"Like a Virgin\" by Madonna, \"Wonderwall\" by Oasis, \"Hungry Like the Wolf\" by Duran Duran, and \"Baby One More Time\" by Britney Spears.\r\n\r\nThere isn't an option to take a Selfie Sing recording on every ‌Apple Music‌ song, but that could be something coming in the future. Selfie Sing appears to be an extension of the ‌Apple Music‌ Sing karaoke feature that came out in iOS 16.2.\r\n\r\nTag: Apple Music\nThis article, \"Apple Music's New Selfie Sing Feature Lets You Record Karaoke Videos\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-11-04T00:05:45.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS,Services",
+    "id": 11779
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Follow today’s midterm election results with the Apple News Live Activity",
+    "link": "https://9to5mac.com/2026/11/03/follow-todays-midterm-election-results-with-the-apple-news-live-activity/",
+    "content": "With votes now being counted in the US midterm elections, the Apple News app offers a convenient way to follow the results in real time. Here’s how it works.\nmore…",
+    "pub_date": "2026-11-04T00:01:02.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "App Store",
+    "id": 11782
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Eney from MacPaw is an AI assistant with deep Apple integrations",
+    "link": "https://9to5mac.com/2026/11/03/eney-from-macpaw-ai-assistant-deep-apple-integrations/",
+    "content": "MacPaw, the makers of CleanMyMac and Setapp, have an AI assistant called Eney that’s designed for Apple users. Eney is available across Mac and iPhone and is built to integrate with core Apple services like Mail, Calendar, and Reminders, plus a lot more.\nmore…",
+    "pub_date": "2026-11-03T23:45:00.000Z",
+    "creator": "Sponsored Post",
+    "tags": "Mac,iOS",
+    "id": 11783
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "macOS 27.3 adds native Markdown rendering to Quick Look",
+    "link": "https://9to5mac.com/2026/11/03/macos-27-3-adds-native-markdown-rendering-to-quick-look/",
+    "content": "Starting with macOS 27.3, users can preview Markdown files with proper formatting directly in Quick Look. Here are the details.\nmore…",
+    "pub_date": "2026-11-03T23:11:22.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Mac",
+    "id": 11784
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple officially restricts employee participation in prediction markets",
+    "link": "https://appleinsider.com/articles/26/11/03/apple-officially-restricts-employee-participation-in-prediction-markets?utm_source=rss",
+    "content": "If you're an Apple employee or contractor planning to make money using insider information to gamble in legally-gray \"prediction markets,\" don't. Apple has made its stance clear in a new filing.\n\n\nDon't bother using insider information to gamble in prediction markets\nPrediction markets skirt the legal definition of gambling, which means they have become widely available in the United States in spite of gambling laws. These markets can be used to bet on everything from when a location might see its first snow to what colors the latest iPhones will be sold in.\nRegardless of the legality of these markets, Apple has made it clear that using insider information to participate is considered insider trading. While the companies like Polymarket already have insider trading rules, these enable Apple to act against violators from their end.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-11-03T22:24:36.000Z",
+    "creator": "Wesley Hilliard <wes@appleinsider.com>",
+    "tags": "Rumors",
+    "id": 11797
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iPhone Jailbreak Gets Past Lockdown Mode and Survives an Update",
+    "link": "https://www.macrumors.com/2026/11/03/iphone-jailbreak-lockdown-mode/",
+    "content": "Just over a week after jailbreaking an iPhone Duo on launch day, hacker team Calif is back with another jailbreak demonstration. This time, the group has jailbroken an iPhone in Lockdown Mode, and the jailbreak appears to persist across an iOS update.\r\n\r\n\r\nCalif shared a video of a jailbroken iPhone 18 Pro with Lockdown Mode on. From there, iOS 27.2 is installed, and the jailbreak remains in place after the update. It isn't clear whether the jailbreak could be installed on a device already running iOS 27.2.\r\n\r\nFaceTime calls from unfamiliar callers, disabling invites for Apple services, and removing location information from photos.\r\n\r\n\nLockdown Mode helps, until it doesn't. https://t.co/1UyxPHQUAe\n— Calif (@calif_io) November 3, 2026\n\r\n\n\r\nThe video shows a malicious PDF sent to the target iPhone using AirDrop to initiate the jailbreak, with the file accepted by the user. Calif hasn't shared additional information, and the exact jailbreak steps are unknown. \r\n\r\nApple told TechCrunch that it was not aware of any successful mercenary spyware attacks against an iPhone in Lockdown Mode.\r\n\r\nThis article, \"iPhone Jailbreak Gets Past Lockdown Mode and Survives an Update\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-11-03T22:20:33.000Z",
+    "creator": "Juli Clover",
+    "tags": "iOS",
+    "id": 11780
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple is advertising PROLED MacBook Pro on Discord",
+    "link": "https://appleinsider.com/articles/26/11/03/apple-is-advertising-proled-macbook-pro-on-discord?utm_source=rss",
+    "content": "Apple will advertise where the target market is, and has for years. The latest ad vector is Discord. If you have a Discord account, and are a regular user, you may see the existing ad as a viewing option for you. Discord will give you 250 of their currency for cosmetics, if you stick through the ad to the end.\n\n\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-11-03T22:18:33.000Z",
+    "creator": "Mike Wuerthele <mike@appleinsider.com>",
+    "tags": "Mac",
+    "id": 11798
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Hands on: iOS 27.3 beta's Safari, Siri AI, vertical tabs, and more",
+    "link": "https://appleinsider.com/articles/26/11/03/hands-on-ios-273-betas-safari-siri-ai-vertical-tabs-and-more?utm_source=rss",
+    "content": "Apple has shared the first beta of iOS 27.3, which brings back the redesigned Apple Health app and several new features for testing. Here's what's new.\n\n\niOS 27.3 beta introduces vertical tabs in Safari\nApple was stung by overpromising and underdelivering with its infamous WWDC 2024 where Apple Intelligence was first announced. While many new features were revealed during WWDC 2026, many showing up in later betas are being revealed for the first time.\nThe first beta for iOS 27.3 brings back the redesigned Apple Health app, plus introduces all-new features that were previously not announced. AppleInsider staff has updates installed on across their iPhones, iPads, Macs, and Apple Watches to try them all out and see what else is new.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-11-03T22:13:10.000Z",
+    "creator": "Andrew O'Hara <andrew@appleinsider.com>",
+    "tags": "iOS,App Store",
+    "id": 11800
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Apple now explicitly bans employees from using confidential information in prediction markets",
+    "link": "https://9to5mac.com/2026/11/03/apple-now-explicitly-bans-employees-from-using-confidential-information-in-prediction-markets/",
+    "content": "Apple has updated its insider trading policy to explicitly prohibit employees from using confidential information to bet on prediction markets. Here are the details.\nmore…",
+    "pub_date": "2026-11-03T21:58:58.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "Rumors",
+    "id": 11785
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "If schools turn off Google's AI, Search dies with it",
+    "link": "https://appleinsider.com/articles/26/11/03/if-schools-turn-off-googles-ai-search-dies-with-it?utm_source=rss",
+    "content": "Google's response to criticism of AI use in classrooms gives schools a choice with a catch: rejecting Gemini also means cutting off student access to Google Search.\n\n\nGoogle ties school Search access to Gemini adoption\nGoogle announced Tuesday that its AI services would be disabled by default for school-managed K-12 student accounts. There's a big catch to that, though.\nSchools that leave Gemini disabled will also lose Google Search access for those accounts.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-11-03T21:52:02.000Z",
+    "creator": "Amber Neely <amber@appleinsider.com>",
+    "tags": "General",
+    "id": 11799
+  },
+  {
+    "source_name": "Macworld",
+    "title": "Apple Watch Activity badges: Veteran’s Day challenge on November 11",
+    "link": "https://www.macworld.com/article/231140/how-to-get-all-of-the-apple-watch-activity-challenge-badges.html",
+    "content": "Macworld\n\n\n\n\n\nAchievement badges are a funny thing. You know they’re just a simple little bit of visual flair, they don’t even do anything, and yet for some reason you just have to collect them. Gamification can be a great motivator, and the achievement badges for the activity tracking on the Apple Watch have inspired many users to get more exercise. \nIf you want to maximize your badge count, you’re going to want to chase down as many activity achievements as you can. Most are available year-round, but there are also some time-limited special events to grab, too. Here’s a list of all the activity achievements for the Apple Watch and how to unlock them. \nUpdated November 3, 2026: Apple’s yearly Veteran’s Day challenge is coming up on November 11, 2026.\nApple Watch Series 12 (42mm)\n\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tRead our review\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n$389.99 at Amazon\t\t\t\t\t\t\t\t\t\t | \n\t\t\t\t\t\t\t\t\t\t$389.99 at Walmart\t\t\t\t\t\t\t\t\t\t | \n\t\t\t\t\t\t\t\t\t\t$399 at Apple United States\t\t\t\t\t\t\t\n\t\t\t\t\t\t\nStandard achievements\nMost of the achievements can be earned year-round. If you open the Activity app on your iPhone, then head over to the Achievements tab, you’ll see some of them listed even before you earn them (in which case they will be represented by a grey outline).\nHowever, there are some achievements that are not shown until you earn them. Past and future monthly challenges, for example, won’t show up, nor do all the various individual exercise workouts.\nHere is a list of all the standard badges you can get.\nFirst [exercise] Workout\nThe first time you perform a new exercise for at least 5 minutes, you’ll get a achievement badge. Every workout type that does not fall under the “Other” category is eligible for this badge: from walking to yoga to HIIT to hiking and more.\nActivities with both indoor and outdoor variants, like Cycling and Walking, are bundled together; you can do either activity to get the badge, and can only get it once.\n[exercise] Workout Record\nEvery time you beat your previous best record for calories burned in any of the exercises listed above, you get this badge.\nThere is one caveat: You must complete five workouts of that type first. If you want to game the system, make sure your first four workouts of each type are short and easy, so it won’t take much effort to beat them.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nYou get a badge the first time you do each major exercise type, and when you break a record.\n\n7-Workout Week\nSimply complete any workout of at least 15 minutes every day of the week. Note that the week is Monday-Sunday, and you have to do a workout on each of those days (you can’t simply do any seven days in a row). If you start a walking workout whenever you walk outside, you can achieve this easily.\nNew Move Record\nAny day that your Move ring goes further than ever before (meaning you burned more calories in a day), you’ll earn this award. There’s one catch: you have to use your Apple Watch for 10 days before you can complete this.\nNew Exercise Record\nThis is just like the Move Record achievement, only for the green ring. This one is based on minutes of exercise, not calories burned, so it’s really easy to get. Just like the Move Record achievement, you have to use your Apple Watch for 10 days first.\nMove Goal 200%, 300%, 400%\nYou earn this when you exceed your calorie target (the red Move ring) by 2x, 3x, or 4x, respectively. In other words, it’s given for making the red activity ring go around two, three, or four times in a day. It’s easy to get if you just set your Move goal very low.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nDouble, triple, and quadruple your Move ring goal. Reduce your goal if you’re having trouble.\n\nNew Move Goal\nEvery time you change your daily Move goal, and then exceed that new goal, you get this achievement. You can change your Move goal by opening the Activity app on your Apple Watch and force-pressing the screen.\nLongest Move Streak\nWhen you hit your Move goal (close the red ring) several days in a row, that’s a “streak.” You get this award when your streak finally ends, if it’s longer than your previous best streak.\nPerfect Week\nThis is given out for four categories: Move, Exercise, Stand, and All Activity. For the first three, simply close the rings (red, green, or blue) every day of the week. To get the Perfect Week (All Activity) badge, close all three rings every day for an entire week. You can earn this multiple times, though it only shows one badge.\nRemember, one week in the Activity app is from Monday-Sunday!\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nClose those rings every day from Monday to Sunday to earn a handful of badges.\n\nPerfect Month\nUnlike Perfect Week, there are not multiple different Perfect Month badges for the different color rings. The lone Perfect Month achievement is for closing the red Move ring every day of the month.\nThere’s a separate Perfect Month badge for every month and every year, though. So you can earn this in February and again in March, and again in February in the next year.\nMonthly Challenge\nEach month has its own unique fitness challenge. If you have notifications set for the Activity app on our Apple Watch, you’ll see the goal presented at the beginning of the month, but you’ll also see the current month’s challenge in the Achievements tab of the Activity app on your iPhone. It will be a grey outline before it’s completed, but you can tap on it to see what the challenge entails.\nThe monthly challenge may task you with burning a specific number of calories, working out a number of times, or traveling a certain distance. There’s no telling what each new month will bring, you just have to look!\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nThere’s a different challenge every month, so check your Activity app.\n\n100, 365, 500, 1,000 Move Goals\nWhen you hit your daily Move goal (close the red ring) 100 times, you get an achievement badge. You get another for hitting it 365 times, 500 times, and 1,000 times. These do not need to be in a row; it’s just the total number of times you’ve ever hit the goal.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nClose the Move ring often to unlock a series of badges. Set the Move goal low if you want to make it easier.\n\nApple Watch Ultra 2\nRead our review\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n$471.49 at Walmart\t\t\t\t\t\t\t\t\t\t | \n\t\t\t\t\t\t\t\t\t\t$549.95 at Best Buy US\t\t\t\t\t\t\t\t\t\t | \n\t\t\t\t\t\t\t\t\t\t$761.11 at Amazon\t\t\t\t\t\t\t\n\t\t\t\t\t\t\nLimited Achievements\nApple offers multiple one-off challenges per year that are only available for a limited time. Often, they’re only around for one day or one weekend. Some are limited to the U.S. because they’re based on U.S. holidays.\nYou’ll get a notification on your Apple Watch when one of them is coming up (make sure you have notifications enabled for the Activity app, using the Watch app on your iPhone).\nVeteran’s Day Challenge (November 11, 2026)\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nEarn this award on November 11 by doing any workout for 11 minutes or more. Record your time with the Workout app or any app that adds workouts to Health.\nWorld Mental Health Day Challenge (October 10, 2026)\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nNational Parks Challenge (August 23, 2026)\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nThe anniversary of the founding of the U.S. National Park Service is on August 25. Every year, Apple celebrates this with a global National Parks badge (on the 23th this year).\nEarning this award is a walk in the park. Or a run. Or a hike. Or a wheelchair push. Just record one of these workouts for 20 minutes or more on August 23.\nGlobal Running Day (June 3, 2026)\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nOn June 3, the world runs as one. This Global Running Day, record a running workout of at least 5K (3.1 mi) to earn this award. Use the Workout app or any app that records workouts to Health.\nInternational Dance Day (April 29, 2026)\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nShow off your dance moves for International Dance Day. Earn this award by recording a Dance workout of 20 minutes or more on April 29. Record it with the Workout app or any app that adds workouts to Health.\nEarth Day (April 22, 2026)\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nThis Earth Day, April 22, record any 30 minute workout with the Workout app or any app that records workouts to Health to earn this award. The earth will think the world of you.\nHeart Month challenge (February 14, 2026)\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nClose your exercise ring on Valentine’s Day, February 14, to earn this award. Your heart will love you for it.\nNew Year 2026 (January 2026)\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nStart the year strong and stay active! Earn this award by closing all three Activity rings for seven days in a row in January.\nWorld Meditation Day (December 21, 2025)\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nFoundry\n\n\n\n\nTime to celebrate World Meditation Day! On December 21, record five mindful minutes or more with the Mindfulness app or any app that adds mindful minutes to Health to earn this special badge.\nRecord 10 minutes of mindfulness or meditation with any app that adds mindful minutes to Health to get this award.",
+    "pub_date": "2026-11-03T21:30:54.000Z",
+    "creator": "Macworld",
+    "tags": "iOS,App Store",
+    "id": 11801
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "9to5Mac Daily: November 3, 2026 – Apple reports Q4 earnings",
+    "link": "https://9to5mac.com/2026/11/03/daily-november-3-2026/",
+    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.\n\n\n\n\n more…",
+    "pub_date": "2026-11-03T21:30:02.000Z",
+    "creator": "Seth Kurkowski",
+    "tags": "App Store",
+    "id": 11786
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Don’t miss this scary-good deal: make your wireless bill less frightening this Halloween",
+    "link": "https://9to5mac.com/2026/11/03/dont-miss-this-scary-good-deal-make-your-wireless-bill-less-frightening-this-halloween/",
+    "content": "Halloween is full of tricks, but your phone bill doesn’t have to be one of them. While mobile carriers might advertise plans starting from low monthly fees, the reality for most people is that they are paying $60 to $100 per month or more.\nComparing your current plan to the Tello Mobile equivalent is likely to reveal that you are significantly overpaying, and that you can get the same coverage for much less. For example, for a limited time you can get 10GB of data and unlimited talk and text for just $10 a month …\nmore…",
+    "pub_date": "2026-11-03T21:27:24.000Z",
+    "creator": "Sponsored Post",
+    "tags": "General",
+    "id": 11787
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Siri AI opens to third-party apps in iOS 27.3 beta",
+    "link": "https://www.cultofmac.com/news/ios-27-3-beta-siri-ai-audio-intelligence",
+    "content": "iOS 27.3, macOS 27.3 and more are available for testing, allowing developers to begin connecting their apps to the much more capable Siri AI.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-11-03T21:11:34.000Z",
+    "creator": "Ed Hardy",
+    "tags": "Mac,iOS",
+    "id": 11802
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "iPadOS 27.3 Expands Siri Mode to Camera App",
+    "link": "https://www.macrumors.com/2026/11/03/ipados-27-3-siri-mode-in-camera-app/",
+    "content": "iOS 27 added a Siri tab to the Camera app on the iPhone 15 Pro and newer for convenient access to Visual Intelligence. Starting with iPadOS 27.3, which is in beta starting today, that feature has expanded to iPad Pro and iPad Air models with the M1 chip and newer, as well as the iPad mini models with the A17 Pro and A20 Pro chips.\r\n\r\n\r\nWhen you switch to Siri mode in the Camera app on supported iPhone or iPad models, you can get information about things around you. On the iPad, the feature works with the Apple Pencil, meaning you can take a photo and then circle an object with the Apple Pencil and use Visual Intelligence to receive information about the object.\r\n\r\nVisual Intelligence was already available on the iPad, so the addition of a Siri tab in the Camera app mainly provides a new way of accessing it.\r\n\r\nRelated Roundups: iOS 27, iPadOS 27\nTags: Apple Intelligence, Siri, Visual Intelligence\nRelated Forum: iOS 27\nThis article, \"iPadOS 27.3 Expands Siri Mode to Camera App\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-11-03T21:07:21.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "iOS,Silicon,App Store",
+    "id": 11781
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "Xcode 27.3 adds GitHub Copilot to its built-in coding assistant",
+    "link": "https://9to5mac.com/2026/11/03/xcode-27-3-adds-github-copilot-to-its-built-in-coding-assistant/",
+    "content": "Apple released Xcode 27.3 beta 1 today with multiple new features, chief among them an expansion of its built-in coding assistant to support GitHub Copilot. Here are the details.\nmore…",
+    "pub_date": "2026-11-03T21:04:18.000Z",
+    "creator": "Marcus Mendes",
+    "tags": "App Store",
+    "id": 11788
+  },
+  {
     "source_name": "MacRumors",
     "title": "iOS 27.3 Adding New StandBy Mode Features to iPhone 11 and Newer",
     "link": "https://www.macrumors.com/2026/11/03/ios-27-3-new-standby-features-on-more-iphones/",
-    "content": "iOS 27.3 will expand new StandBy features first introduced on the iPhone Duo to all iPhone models compatible with the update, according to Apple.\r\n\r\n\r\nStandBy mode makes it easier to view information at a glance while your iPhone is placed on a charger and in a landscape position. It effectively turns an iPhone into a bedside clock with some extra details. On the iPhone Duo, StandBy also works when the device is folded like a book or a tent, even when it is not charging.\r\n\r\nUpdated versions of the Analog and Digital Clock faces with more options to customize the color and complications on them\n\r\nAn updated Photos face that lets users pick Shared Albums\n\r\nNew faces, including Calendar and Weather\n\r\nThe ability to create multiple versions of each type of face and swipe between them\niOS 27.3 also introduces vertical tabs in Safari, reintroduces Apple's redesigned Health app, enables some Apple Intelligence features in China, and more.\r\n\r\n\r\nThe first iOS 27.3 developer beta was released earlier today, and Apple said the update will be released to the public in December.\nRelated Roundups: iOS 27, iPadOS 27\nTag: StandBy Mode\nRelated Forum: iOS 27\nThis article, \"iOS 27.3 Adding New StandBy Mode Features to iPhone 11 and Newer\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "content": "iOS 27.3 will expand new StandBy features first introduced on the iPhone Duo to all iPhone models compatible with the update, according to Apple.\r\n\r\n\r\nStandBy mode makes it easier to view information at a glance while your iPhone is placed on a charger and in a landscape position. It effectively turns an iPhone into a bedside clock with some extra details. On the iPhone Duo, StandBy also works when the device is folded like a book or a tent, even when it is not charging.\r\n\r\nUpdated versions of the Analog and Digital Clock faces with more options to customize the color and complications on them\n\r\nAn updated Photos face that lets users pick Shared Albums\n\r\nNew faces, including Calendar and Weather\n\r\nThe ability to create multiple versions of each type of face and swipe between them\niOS 27.3 also introduces vertical tabs in Safari, reintroduces Apple's redesigned Health app, enables some Apple Intelligence features in China, and more.\r\n\r\n\r\n\r\nfirst iOS 27.3 developer beta was released earlier today, and Apple said the update will be released to the public in December.\nRelated Roundups: iOS 27, iPadOS 27\nTag: StandBy Mode\nRelated Forum: iOS 27\nThis article, \"iOS 27.3 Adding New StandBy Mode Features to iPhone 11 and Newer\" first appeared on MacRumors.com\nDiscuss this article in our forums",
     "pub_date": "2026-11-03T20:32:45.000Z",
     "creator": "Joe Rossignol",
     "tags": "iOS,App Store",
@@ -204,7 +384,7 @@
     "title": "iPhone Duo Gets Reachability in iOS 27.3 Beta",
     "link": "https://www.macrumors.com/2026/11/03/iphone-duo-reachability-ios-27-3/",
     "content": "With today's iOS 27.3 beta, Apple expanded Reachability to the iPhone Duo. Reachability lets ‌iPhone Duo‌ users shift the content on the left or right side of the outer screen to make it easier to reach with a thumb.\r\n\r\n\r\nReachability can be turned on or off by going to Settings > Accessibility > Touch > Reachability. It is on by default after updating to the new software.\r\n\r\nRelated Roundups: iOS 27, iPadOS 27, iPhone Duo\nBuyer's Guide: iPhone Duo (Buy Now)\nRelated Forums: iOS 27, iPhone\nThis article, \"iPhone Duo Gets Reachability in iOS 27.3 Beta\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-11-03T19:19:11.000Z",
+    "pub_date": "2026-11-03T19:19:02.000Z",
     "creator": "Juli Clover",
     "tags": "iOS",
     "id": 11721
@@ -243,7 +423,7 @@
     "source_name": "MacRumors",
     "title": "iOS 27.3 Beta Brings Back Apple's Redesigned Health App",
     "link": "https://www.macrumors.com/2026/11/03/ios-27-3-health-app/",
-    "content": "iOS 27.3 reintroduces the redesigned Health app previewed in September. Apple tested the new Health app in the iOS 27.2 beta, but it was removed before the update launched.\r\n\r\n\r\nThe Health app has been updated, and there are new Insights and Longevity tabs that show more information about your health and fitness metrics.\r\n\r\nApple Intelligence will use that information to offer Personal Guidance. The Health app will be able to make suggestions based on your goals and what kinds of activities you do.\r\n\r\nApple Watch Ultra 4 wearers will see their readiness score in the Insights tab as well as on the watch. The readiness score is meant to help you decide whether to push yourself harder, take a recovery day, or work out as usual.\r\n\r\n\r\nA redesigned Vitals section has overnight and daytime views, and HRV has been added as a metric. There are readings for both overall HRV and recovery HRV.\r\n\r\nThe Health app's Longevity tab looks at health data over time. It assesses you across seven categories: heart health, sleep, mental wellbeing, movement health, metabolic health, hearing, and nutrition. It also has a Health Age feature that uses info like resting heart rate, VO2 max, HRV, sleep, and biomarkers from blood work to calculate how your health metrics compare to your actual age. Health Age relies on health data collected from the Apple Watch, plus it incorporates fitness assessments you can take at home with tracking via the iPhone's camera.\r\n\r\nEventually, Apple will offer a $119 laboratory panel from Quest Diagnostics, and that information will contribute to Health Age. You can also upload recent lab results or sync medical records.\r\n\r\nThe Health app will expand language support to global English, Chinese (Simplified and Traditional), French, Japanese, Korean, Norwegian, Portuguese, Spanish, Turkish, and Vietnamese. \r\n\r\nRelated Roundups: iOS 27, iPadOS 27\nRelated Forum: iOS 27\nThis article, \"iOS 27.3 Beta Brings Back Apple's Redesigned Health App\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "content": "iOS 27.3 reintroduces the redesigned Health app previewed in September. Apple tested the new Health app in the iOS 27.2 beta, but it was removed before the update launched.\r\n\r\n\r\nThe Health app has been updated, and there are new Insights and Longevity tabs that show more information about your health and fitness metrics.\r\n\r\nApple Intelligence will use that information to offer Personal Guidance. The Health app will be able to make suggestions based on your goals and what kinds of activities you do.\r\n\r\nApple Watch Ultra 4 wearers will see their readiness score in the Insights tab as well as on the watch. The readiness score is meant to help you decide whether to push yourself harder, take a recovery day, or work out as usual.\r\n\r\n\r\nA redesigned Vitals section has overnight and daytime views, and HRV has been added as a metric. There are readings for both overall HRV and recovery HRV.\r\n\r\nThe Health app's Longevity tab looks at health data over time. It assesses you across seven categories: heart health, sleep, mental wellbeing, movement health, metabolic health, hearing, and nutrition. It also has a Health Age feature that uses info like resting heart rate, VO2 max, HRV, sleep, and biomarkers from blood work to calculate how your health metrics compare to your actual age. Health Age relies on health data collected from the Apple Watch, plus it incorporates fitness assessments you can take at home with tracking via the iPhone's camera.\r\n\r\nApple will offer a $119 laboratory panel from Quest Diagnostics, and that information will contribute to Health Age. You can also upload recent lab results or sync medical records.\r\n\r\nThe Health app will expand language support to global English, Chinese (Simplified and Traditional), French, Japanese, Korean, Norwegian, Portuguese, Spanish, Turkish, and Vietnamese. \r\n\r\nRelated Roundups: iOS 27, iPadOS 27\nRelated Forum: iOS 27\nThis article, \"iOS 27.3 Beta Brings Back Apple's Redesigned Health App\" first appeared on MacRumors.com\nDiscuss this article in our forums",
     "pub_date": "2026-11-03T19:03:23.000Z",
     "creator": "Juli Clover",
     "tags": "iOS,App Store",
@@ -321,9 +501,9 @@
   },
   {
     "source_name": "MacRumors",
-    "title": "iPad Mini 8 Reviewer Isn't Satisfied With Apple's Excuse for Lack of 120Hz Display",
+    "title": "iPad Mini 8 Reviewer Dissatisfied With Apple's Excuse for Lack of 120Hz Display",
     "link": "https://www.macrumors.com/2026/11/03/ipad-mini-8-review-highlights-lack-of-120hz/",
-    "content": "The new iPad mini has an OLED display, but the device does not support ProMotion, meaning the display's refresh rate is limited to 60Hz instead of 120Hz. Apple said OLED displays still have significantly faster pixel response times compared to LCDs, resulting in reduced motion blur, but The Verge's David Pierce is not entirely satisfied.\r\n\r\n\r\nFrom his iPad mini 8 review:\nApple's answer, to Chris Lawley and others, has been something to the effect of \"120Hz is irrelevant, OLED's faster pixel response solves the problems.\" I don't agree. I don't think the lack of ProMotion is an immediate and total dealbreaker, but refresh rates matter! To games and high-touch creative apps, of course, but you notice the difference even with basic swiping and zooming. The Apple Pencil feels more juddery moving across my screen. On a 120Hz screen, I can scroll a browser page and still clearly read the text as it's moving. With 60Hz, it gets blurry. In all these cases, even if you don't explicitly see the difference, you really do feel it.\nOf course, an OLED display is still a big upgrade overall.\r\n\r\nOLED technology allows for higher contrast and more vivid colors, as there is no backlight and individual pixels turn off completely to display true black. Apple also says the new iPad mini can achieve a maximum brightness of 600 nits for standard content, up from 500 nits for the previous model, and up to 1,200 nits for HDR content.\r\n\r\nApple's tech specs indicate the new iPad mini has a 2,000,000:1 contrast ratio.\r\n\r\nRelated Roundup: iPad mini\nBuyer's Guide: iPad Mini (Buy Now)\nRelated Forum: iPad\nThis article, \"iPad Mini 8 Reviewer Isn't Satisfied With Apple's Excuse for Lack of 120Hz Display\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "content": "The new iPad mini has an OLED display, but the device does not support ProMotion, meaning the display's refresh rate is limited to 60Hz instead of 120Hz. Apple said OLED displays still have significantly faster pixel response times compared to LCDs, resulting in reduced motion blur, but The Verge's David Pierce is not entirely satisfied.\r\n\r\n\r\nFrom his iPad mini 8 review:\nApple's answer, to Chris Lawley and others, has been something to the effect of \"120Hz is irrelevant, OLED's faster pixel response solves the problems.\" I don't agree. I don't think the lack of ProMotion is an immediate and total dealbreaker, but refresh rates matter! To games and high-touch creative apps, of course, but you notice the difference even with basic swiping and zooming. The Apple Pencil feels more juddery moving across my screen. On a 120Hz screen, I can scroll a browser page and still clearly read the text as it's moving. With 60Hz, it gets blurry. In all these cases, even if you don't explicitly see the difference, you really do feel it.\nOf course, an OLED display is still a big upgrade overall.\r\n\r\nOLED technology allows for higher contrast and more vivid colors, as there is no backlight and individual pixels turn off completely to display true black. Apple also says the new iPad mini can achieve a maximum brightness of 600 nits for standard content, up from 500 nits for the previous model, and up to 1,200 nits for HDR content.\r\n\r\nApple's tech specs indicate the new iPad mini has a 2,000,000:1 contrast ratio.\r\n\r\nRelated Roundup: iPad mini\nBuyer's Guide: iPad Mini (Buy Now)\nRelated Forum: iPad\nThis article, \"iPad Mini 8 Reviewer Dissatisfied With Apple's Excuse for Lack of 120Hz Display\" first appeared on MacRumors.com\nDiscuss this article in our forums",
     "pub_date": "2026-11-03T18:42:36.000Z",
     "creator": "Joe Rossignol",
     "tags": "iOS",
@@ -2818,185 +2998,5 @@
     "creator": "Cult of Mac Deals",
     "tags": "Mac",
     "id": 11449
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "Forgotten Popcorn Time updater leaves up to 350,000 Macs exposed",
-    "link": "https://www.cultofmac.com/news/forgotten-popcorn-time-updater-macs-exposed",
-    "content": "A forgotten Popcorn Time updater left up to 350,000 Macs open to takeover. Here’s what researchers found and why you should uninstall the app.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-10-30T13:46:04.000Z",
-    "creator": "Anurag Chawake",
-    "tags": "Mac,App Store",
-    "id": 11404
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Local Code Launches as Free, Private AI Assistant Tool for Mac",
-    "link": "https://www.macrumors.com/2026/10/30/local-code-free-private-ai-tool-for-mac/",
-    "content": "The developers of Draw Things have launched Local Code, an open-source AI assistant that lets Mac users download models and put them to work on their own computers.\r\n\r\n\r\nLocal Code lets users download an AI model and start working without separately installing the tools it needs. When using a local model, the app processes prompts and files on the Mac rather than sending them to a cloud AI provider.\r\n\r\nLocal Code can create presentations, generate images and videos, analyze spreadsheets, work with Word and PowerPoint files, and more. It also includes a browser that the assistant can use to navigate websites and complete online tasks.\r\n\r\nPhotos. According to its documentation, Apple's App Sandbox restricts its access to files and other parts of the system.\r\n\r\nwebsite lists 16GB as the minimum for Qwen 3.8 27B, with recommended downloads taking around 10GB to 21GB of storage. The larger DeepSeek models require downloads of around 89GB or 376GB, depending on the version.\r\n\r\nUsers can also choose a cloud model, although doing so sends prompts and relevant files to the selected provider. Local use is free, while optional cloud access is available through users' own API keys or prepaid credits starting at $9.99.\r\n\r\npublic beta that began on September 12. A direct Mac download is available now, and the developers say a Mac App Store release is coming soon.\nThis article, \"Local Code Launches as Free, Private AI Assistant Tool for Mac\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-30T13:38:25.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "Mac,App Store",
-    "id": 11380
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Siri AI changed how I use my iPhone while driving",
-    "link": "https://appleinsider.com/articles/26/10/30/siri-ai-changed-how-i-use-my-iphone-while-driving?utm_source=rss",
-    "content": "I used to only ever use CarPlay for playing podcasts and navigation, but since the arrival of Siri AI, I've found I'm using my iPhone for more things while driving, and it's changed the game in ways I didn't expect.\n\n\nCarPlay is a different beast with Siri AI\nCarPlay itself has always been pretty great, but Siri has always been Siri. That means that I let it read my messages and maybe, if it felt like working, I used it to reply to one or two as well.\nBut beyond the simplest of simple interactions, Siri did little more than frustrate me. And that's something I don't need when I'm driving.\n\n Continue Reading on AppleInsider",
-    "pub_date": "2026-10-30T13:36:13.000Z",
-    "creator": "Oliver Haslam <oliver@monkeymanmedia.com>",
-    "tags": "iOS",
-    "id": 11393
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iPadOS 27.2: Two new features just upgraded your iPad",
-    "link": "https://9to5mac.com/2026/10/30/ipados-27-2-two-new-features-just-upgraded-your-ipad/",
-    "content": "iPadOS 27.2 arrived this week as the latest noteworthy iPad software update, here are two new features it includes.\nmore…",
-    "pub_date": "2026-10-30T13:21:36.000Z",
-    "creator": "Ryan Christoffel",
-    "tags": "iOS",
-    "id": 11387
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "HomePod Mini 2 Launches Today: All the New Features",
-    "link": "https://www.macrumors.com/2026/10/30/homepod-mini-2-new-features/",
-    "content": "Today is HomePod mini 2 launch day, with the first pre-orders beginning to arrive to customers and the speaker now available to purchase at most Apple Store locations around the world. In the U.S., the HomePod mini 2 is priced at $149, with two-tone pink, green, and blue color options available alongside white and midnight.\r\n\r\n\r\nHere is what is new with the HomePod mini 2:\n\r\nSiri AI support is coming in a future software update, with an Apple Intelligence-enabled iPhone or iPad required for requests involving your personal context.\n\r\nS10 chip, up from the S5 chip for the previous model. Apple said the S10 chip enables \"advanced computational audio,\" but it did not explicitly confirm if the HomePod mini 2 has improved sound quality compared to the original model.\n\r\nWi-Fi 6E support, up from Wi-Fi 4 for the previous model.\n\r\nBluetooth 6 support, up from Bluetooth 5 for the previous model.\n\r\nDefault audio output support on Macs with Wi-Fi 6E and later. The full-sized HomePod 2 also supports this capability with the latest software updates.\n\r\nSound Glow: the top area glows and pulses in sync with the music playing. This feature has also been added to the original HomePod mini.\n\r\nFour-speaker surround sound with the new Apple TV 4K: connect four HomePod mini 2 and/or full-sized HomePod 2 speakers in front and rear pairs. A related Whole Room Audio feature is offered for parties.\r\n\r\nThree microphones for Siri, down from four in the previous model. It is unclear if users will notice this difference.\n\r\nTwo-tone pink, green, and blue color options, along with white and midnight.\n\r\n3% weight reduction. Huge.\nThe previous HomePod mini was initially $99, but it became $129 after a June price increase. As mentioned, the new model is $149.\nRelated Roundup: HomePod mini 2\nBuyer's Guide: HomePod Mini (Buy Now)\nRelated Forum: HomePod, HomeView, CarPlay – Home & Auto Tech\nThis article, \"HomePod Mini 2 Launches Today: All the New Features\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-30T13:05:17.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "iOS",
-    "id": 11382
-  },
-  {
-    "source_name": "Cult of Mac",
-    "title": "This tiny webcam goes big where it counts [Review] ★★★★☆",
-    "link": "https://www.cultofmac.com/reviews/obsbot-tiny-3-webcam-review",
-    "content": "The Obsbot Tiny 3 makes video calls look ridiculously good, but its clunky Mac app takes some shine off this $349 webcam. Read our review.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
-    "pub_date": "2026-10-30T13:00:11.000Z",
-    "creator": "Rajesh Pandey",
-    "tags": "Mac,App Store",
-    "id": 11405
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "AirTag 2 4-Pack Drops to New Low Price of $69.99",
-    "link": "https://www.macrumors.com/2026/10/30/airtag-2-new-low-price-of-69-99/",
-    "content": "Apple's AirTag 2 has hit $69.99 this week on Amazon and Best Buy, down from $99.00. This deal is on the 4-Pack of the AirTag 2, and it's a new record low price for the accessory.\r\n\r\nNote: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\r\n\r\n$23.00, down from $29.00. This is another record low price on the AirTag 2.\r\n\r\n\n$6 OFF\nAirTag 2 (1-Pack) for $23.00\n\n\r\n\n$29 OFF\nAirTag 2 (4-Pack) for $69.99\n\n\r\n\r\nThe new AirTag is equipped with a second-generation Ultra Wideband chip, enabling the Precision Finding feature to work up to 50% farther away from an item compared to the previous-generation model. \r\n\r\nApple Deals roundup where we recap the best Apple-related bargains of the past week.\r\n\r\n\r\n\r\nDeals Newsletter\n\r\nInterested in hearing more about the best deals you can find as we head into the holidays? You can sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!\r\n\r\n\r\n\r\n\n\n\n\n\n\r\n\nRelated Roundup: Apple Deals\nThis article, \"AirTag 2 4-Pack Drops to New Low Price of $69.99\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-30T12:48:50.000Z",
-    "creator": "Mitchel Broussard",
-    "tags": "General",
-    "id": 11383
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "iPhone Duo, iPad mini, and MacBook Pro on the AppleInsider Podcast",
-    "link": "https://appleinsider.com/articles/26/10/30/iphone-duo-ipad-mini-and-macbook-pro-on-the-appleinsider-podcast?utm_source=rss",
-    "content": "Before we've even really got to try out the iPhone Duo, Apple has announced so many more new devices. From the iMac and the iPad mini, to the first-ever touch-screen MacBook Pro, there is so much to discuss on the AppleInsider Podcast.\n\n\nThis iPhone Duo is showing the two images that Wes talks about during the show.\nBoth of your hosts are still obsessed with the iPhone Duo, especially now that the two of them have managed to buy one. With just a week's very intensive use, though, they are finding different issues and different benefits to what is surely a remarkable device.\nBut then it's a device with a calendar app, and so this week you could also be using that to figure out when the latest iMac, iPad mini, and touch-screen MacBook Pro models will ship. You might also want to use the calculator app to considering the prices, too.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-30T12:45:29.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "Mac,iOS,App Store",
-    "id": 11394
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Rian Johnson's iPhone Camera App Goes Viral",
-    "link": "https://www.macrumors.com/2026/10/30/rian-johnson-iphone-camera-app/",
-    "content": "Filmmaker Rian Johnson, best known for writing and directing \"Knives Out,\" \"Glass Onion,\" and \"Star Wars: The Last Jedi,\" has seen his new iPhone photography app Chromagraph Camera climb to the top of the paid App Store charts after attracting attention on social media this week.\r\n\r\n\r\nJohnson developed the app with his longtime cinematographer Steve Yedlin and programmer Eric Cameron, bringing image processing techniques from their films to iPhone still photography. Chromagraph currently ranks No. 1 in Photo & Video on the U.S. App Store.\r\n\r\nJohnson's announcement on X accumulated six million views within a day, while users have been sharing their results, with some photo posts attracting thousands of likes.\r\n\r\n\n\n\r\n\r\nChromagraph shoots RAW photos and processes them using techniques Yedlin developed for his films, giving pictures a distinctive treatment of color, contrast, and grain. It also adds halation, a soft glow around bright areas. Users can adjust the look with controls for color, tone, and texture.\r\n\r\nThe effect appears after taking a photo, when users open the app's gallery. Original RAW files are kept intact, so edits can be changed later.\r\n\r\nFor sharing, photographs can be exported as JPEG or HEIC files with the processing applied. An automatic export option also sends each finished photo to the user's photo library.\r\n\r\nApp Store and requires iOS 17 or later.\nThis article, \"Rian Johnson's iPhone Camera App Goes Viral\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-30T12:23:15.000Z",
-    "creator": "Hartley Charlton",
-    "tags": "iOS,App Store",
-    "id": 11384
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple acquires Ascend․io, an agentic AI engineering startup",
-    "link": "https://9to5mac.com/2026/10/30/apple-acquires-ascend%e2%80%a4io-an-agentic-ai-engineering-startup/",
-    "content": "Apple recently struck a deal to acquire Ascend.io, a company focused on agentic data engineering technology.\nUnder the Digital Markets Act, Apple must now publicly report acquisitions above a certain size. This has given us new insight into the company’s acquisition strategy, including glimpses at its future goals.\nmore…",
-    "pub_date": "2026-10-30T12:06:19.000Z",
-    "creator": "Chance Miller",
-    "tags": "General",
-    "id": 11388
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Remember 'Glider?' You can play a pixel-perfect version in Safari now",
-    "link": "https://appleinsider.com/articles/26/10/30/remember-glider-you-can-play-a-pixel-perfect-version-in-safari-now?utm_source=rss",
-    "content": "Glider was a classic Mac game that I'm betting a lot of you remember with some fondness. It's not being run in emulation, instead it's one of those source ports we keep pointing out. There's a big break-down of how it happened, why, and some of the publication year foibles on Chris Pirillo's newly resurrected lockergnome.\n\nhttps://dbohdan.github.io/glider/\n\n\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-30T12:00:37.000Z",
-    "creator": "Mike Wuerthele <mike@appleinsider.com>",
-    "tags": "Mac",
-    "id": 11395
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "AI data handling firm Ascend.io acquired by Apple",
-    "link": "https://appleinsider.com/articles/26/10/30/ai-data-handling-firm-ascendio-acquired-by-apple?utm_source=rss",
-    "content": "Apple has acquired another AI firm, though this time Ascend.io is aimed at company data management rather than any consumer-facing product.\n\n\nThe front page of Ascend.io's website before it was shut down - image credit: Ascension Labs\nApple has been continuously buying up AI firms, with the most recent ones being for specific features such as Huxe's automated podcast creation. This time, though, it has bought Ascend.io from Silicon Valley firm Ascension Labs in order to improve its own internal data management.\nAccording to the EU's public listing of significant acquisitions, Apple closed the deal on June 30, 2026. Apple appears to have adopted new processes, though, as this purchase is again not specified as an acquisition.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-30T11:54:59.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "General",
-    "id": 11396
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "iPhone Duo review: Proof that foldables don't have to suck",
-    "link": "https://appleinsider.com/articles/26/10/30/iphone-duo-review-proof-that-foldables-dont-have-to-suck?utm_source=rss",
-    "content": "The iPhone Duo is far from perfect as a first-generation product, but it is a strong enough entry that will single-handedly lift foldables from passing fad to serious category for anyone.\n\n\niPhone Duo review\nApple has a habit of entering a market much later than its competitors then defining it. While it's too early to say if that's the case with iPhone Duo, it is clear that sometimes different can be enough to break the mold.\nFoldables first entered the market in 2019 as overpriced hunks of fragile plastic. While Android manufacturers have a better handle on build quality and feature sets in foldables seven years later, they still feel like incomplete experiments.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-30T11:36:18.000Z",
-    "creator": "Wesley Hilliard <wes@appleinsider.com>",
-    "tags": "iOS",
-    "id": 11397
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Enormous iPhone Duo demand can be easily met, hints confident Foxconn",
-    "link": "https://appleinsider.com/articles/26/10/30/enormous-iphone-duo-demand-can-be-easily-met-hints-confident-foxconn?utm_source=rss",
-    "content": "Giving hope to people with long pre-order delays, manufacturer Foxconn appears to say that it can readily fulfill even the iPhone Duo's surge in demand.\n\n\nFuture iPhone Duo models may add under-display Face ID to the front screen.\nIt sold out the instant pre-orders opened, and then only a lucky few were able to buy the iPhone Duo in-store. But even as shipping times remain long, Bloomberg reports that Foxconn has been saying it can meet any firm's demand.\n\"We have over 240 sites in 24 countries all over the world,\" said Michael Chiang, CEO of Foxconn's parent company, Hon Hai, \"which enable us to have a timely supply to our customers' demand whenever they need.\"\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-30T11:16:45.000Z",
-    "creator": "William Gallagher <wg@williamgallagher.com>",
-    "tags": "iOS",
-    "id": 11398
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Got a Mac Pro collecting dust? This kit will convert it into a Windows PC",
-    "link": "https://www.macworld.com/article/3272597/got-a-mac-pro-doing-nothing-this-kit-will-convert-it-into-a-windows-pc.html",
-    "content": "Macworld\n\n\n\n\n\nIf you have an old “cheese-grater” Mac Pro, you probably don’t want to part with it. You look at it and wonder what you’re going to do with it, since it can’t be upgraded. Seems like a waste to throw it out, and you won’t get nearly enough to make it worth selling. Well, a Canadian mechatronics enthusiast understands your predicament and has set out to do something about it.\nStefan Bond has launched the Mac Pro 7,1 (A1991) ATX Conversion Kit project on Kickstarter. The kit can be used to install “modern PC hardware” into the chassis of a Mac Pro–specifically, the Mac Pro that was introduced in 2019 and identified with the model number 7,1. Since it was built with Mac hardware in mind, you can’t simply gut it and pop in a PC motherboard, a gigantic graphics card, and other components. The Conversion Kit will allow you to do that by providing a main motherboard and PSU mounting plate, hard drive sled assemblies and cables, Mac Pro fan-adapter PCBs, and more.\nTo be clear, this is a kit that enables you to install PC components (which aren’t included) for building a PC that runs Windows. There’s no official way to upgrade the Mac Pro with Apple components. If you really want to run macOS, you should be able to turn this into a Hackintosh after building it.\nBond has a goal of $10,000 for his Kickstarter, and a bid of $699 in Canadian currency (about $500 in the U.S.) gets you a full conversion kit. If you don’t have a Mac Pro but just want to contribute to the spirit of the project, you can chip in CA$10, and your name will be mentioned in the final project video.\nApple discontinued the Mac Pro earlier this year, ending a 20-year run for the Mac Pro brand. The latest time it was updated was in 2023, when Apple released it with an M2 Ultra chip. When this design was introduced in 2019, it had Intel processors. Apple offers the Mac Studio as its top Mac workstation, but it doesn’t have anywhere near the character of its old metal towers.",
-    "pub_date": "2026-10-30T11:15:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,Silicon",
-    "id": 11401
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple cuts its take of app sales in Taiwan just a bit",
-    "link": "https://appleinsider.com/articles/26/10/30/apple-cuts-its-take-of-app-sales-in-taiwan-just-a-bit?utm_source=rss",
-    "content": "Under antitrust pressure in yet another country, Apple has shaved a little off the top of its customary 30% commission in Taiwan's App Store. Starting October 31, the commission rate for standard Apple In-App Purchase and paid app transactions will be 26% on the Taiwan storefront.\n\nhttps://developer.apple.com/news/?id=w9mxlhek\n\n\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-10-30T10:49:49.000Z",
-    "creator": "Mike Wuerthele <mike@appleinsider.com>",
-    "tags": "App Store",
-    "id": 11399
-  },
-  {
-    "source_name": "Macworld",
-    "title": "Touch isn’t the killer feature of the new MacBook Pro",
-    "link": "https://www.macworld.com/article/3272659/the-touchscreen-isnt-the-killer-feature-of-the-new-macbook-pro.html",
-    "content": "Macworld\n\n\n\n\n\nApple has finally brought a touch interface to the Mac, 43 years after the first commercial PC with a touchscreen, the HP 150. It’s a momentous event in Apple history, one that longtime Mac users never thought would come.\nThe new laptop is going to be mainly referred to as the “touchscreen MacBook Pro,” and there’s a lot of talk about the feature. But if you think of the new laptop only in terms of Touch, you’re missing the point. There’s a reason why Apple calls it the MacBook Pro with PROLED XDR Display. It’s clumsy and lengthy, but notice how “Touch” isn’t one of the words.\n“Touch” isn’t in the name because it’s not the most important new feature of the new MacBook Pro. In fact, Apple has a link to a white paper about the PROLED Display on the product wesbite, and Touch isn’t mentioned at all. I think it’s the least important feature, and there are other aspects of the laptop that are more important and have implications for other MacBooks down the line.\nOLED takes the lead\nThe display is the most important feature, but not because of touch, but because it’s a tandem OLED display that can “deliver the kind of visual fidelity pros have been dreaming of,” according to Apple. Considering Apple’s long history of producing the best quality laptop displays, I’m inclined to believe that statement.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nLook at these specs. This is on a laptop? Damn.\n10,000,000:1 contrast ratio\nXDR brightness: Up to 1000 nits sustained full-screen; 2000 nits peak (HDR content only)\nSDR brightness: Up to 1000 nits sustained full-screen; 2000 nits peak (outdoor)\nProMotion adaptive refresh rates\n1.00 percent reflectance, lower than traditional OLED displays\nP3 + Adobe RGB wide color gamuts\nApple Color-Matching Functions 2026\nMedical imaging support\n\n\n\n\n\nThat’s easily one of the best, if not the best display ever put in a laptop. Can a display on a laptop be so good-looking that you’ll never want to take your eyes off it? If it can, count on Apple to make it. \nWhat’s even more exciting is what it means for the rest of the MacBook lineup in the future. Several reports have said OLED is coming to the MacBook Air, possibly in 2028, and though it probably won’t be on the same level as the MacBook Pro with PROLED Display—consider the difference between the iPad mini and the iPad Pro—it’ll still be a major upgrade from the current LED-backlit IPS panel.\nLighter design\nA few days ago, I was in the office with my 16-inch MacBook Pro in my backpack. I put my backpack on my desk, and it landed with a loud thud. My co-worker (a PC fanboy) was shocked. “What’s with the rocks in your bag?” he exclaimed\nThe new MacBook Pro is nearly a pound lighter. That might not sound like much, but it makes a difference if you’re moving around often, or if you’re like me and you have an hour-long commute on public transportation. Hopefully, that thud won’t be as resonant with the new laptop.\nIt’ll be interesting to see if the advances Apple made to achieve the smaller and lighter MacBook Pro will carry over to the other MacBooks. Imagine if the MacBook Neo and the 13-inch MacBook Air, Apple’s lightest laptops at 2.7 pounds, were closer to 2 pounds. \nDynamic Island\nThe notch on the MacBooks is there because the bezel is too thin to fit the FaceTime camera, but it’s also just sort of… there. It’s not really obtrusive, because it sits above the usable screen space in the status bar, but it still feels like a vestigial part of the laptop with no real purpose.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple\n\n\n\n\nThe Dynamic Island replaces the notch, and it’s now a functional anchor of the Mac. It works as it does on the iPhone, so you know it’ll be a useful home for Spotlight search and Lite Activities. I’ve come to appreciate how it’s used on the iPhone, so I’m excited to see it become a natural extension of macOS.\nWill the Dynamic Island make it to other MacBooks? It would be a shame if Apple decided it was a premium feature for only the MacBook Pro with PROLED XDR Display, but I can see that happening. Apple won’t switch from the notch to the Dynamic Island until the other MacBooks upgrade their display tech, so we won’t know for some time.\nGlowing Apple logo\nIt’s just a logo, but as Mac users and Apple fans, that Apple logo has meaning. When the glowing Apple was introduced in the 1999 PowerBook G3, it made a statement (even though it was upside down for the first couple of years). It told people we were proud Mac users. We mourned the loss of the logo in 2015.\nBut the glowing logo and the statement it brings are back. But this time it comes as a flex, the way that Cosmic Orange was for the iPhone 17 Pro. People who know Macs will see it and know you’ve got the new MacBook Pro. As for the people who don’t know Macs, well, they’ll see it and be envious. Best of all, the glowing Apple icon won’t be upside down when the lid is open. And now that it’s a little screen of its own, you can even turn it off if you want.\n\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\n\t\t\t\nApple",
-    "pub_date": "2026-10-30T10:30:00.000Z",
-    "creator": "Macworld",
-    "tags": "Mac,iOS",
-    "id": 11402
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Where Did All the iPhone Duos Go? Mostly to Apple's Stores",
-    "link": "https://www.macrumors.com/2026/10/30/apple-stores-as-few-as-50-iphone-duo-units/",
-    "content": "Apple allocated roughly 80% of its initial iPhone Duo inventory to its retail stores, with locations holding as few as 50 units each, according to Bloomberg's Mark Gurman. \r\n\r\n\r\nSpeaking on the latest episode of his Power On podcast, Gurman, citing people very close to the device's logistics, said most customers who bought a Duo in store on day one got one by waiting in line. \r\n\r\npre-orders slipped to late January within minutes on October 16, while most people who queued on launch day walked away with a new phone.\r\n\r\nAt the time, Apple described demand as \"nothing short of extraordinary\" and said it was working to satisfy demand \"as quickly as possible,\" so there's a good chance that, even if a delivery estimate for your order is way out in the future, it could improve over time.\r\nWhere to Buy iPhone Duo: Stores, Pickup, and Wait Times\n\r\nJust Got an iPhone Duo? Try These Features First\n\r\nApple's U.S. store. In the UK, the same storage tiers run £1,999, £2,199, £2,599, and £3,199 on Apple's UK store.\nRelated Roundup: iPhone Duo\nTag: Mark Gurman\nBuyer's Guide: iPhone Duo (Buy Now)\nRelated Forum: iPhone\nThis article, \"Where Did All the iPhone Duos Go? Mostly to Apple's Stores\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-10-30T10:10:09.000Z",
-    "creator": "Tim Hardwick",
-    "tags": "iOS",
-    "id": 11385
   }
 ]
