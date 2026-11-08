@@ -1,5 +1,35 @@
 [
   {
+    "source_name": "AppleInsider",
+    "title": "Sunday Reboot: Curses and a spotty reminder of times past",
+    "link": "https://appleinsider.com/articles/26/11/08/sunday-reboot-curses-and-a-spotty-reminder-of-times-past?utm_source=rss",
+    "content": "In this week's Sunday Reboot, an exploration of Apple's expletives and transcriptions that are a step towards one 'Black Mirror' episode.\n\n\nLive Rewind on an Apple Watch\nSunday Reboot is a weekly column covering some of the lighter stories within the Apple reality distortion field from the past seven days. All to get next week underway with a good first step.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-11-08T21:08:05.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "iOS",
+    "id": 12234
+  },
+  {
+    "source_name": "AppleInsider",
+    "title": "Apple saves $2.7B in taxes by funnelling finances through Singapore",
+    "link": "https://appleinsider.com/articles/26/11/08/apple-saves-27b-in-taxes-by-funnelling-finances-through-singapore?utm_source=rss",
+    "content": "Apple has saved $2.7 billion in taxes in 2026 thanks to funneling its finances through Singapore, better than its usual move involving Ireland.\n\n\nApple Marina Bay Sands, Singapore\nAs a massive multinational, Apple knows a thing or two about taxation and how to minimize its exposure to it. However, while Ireland has been seen as one of its main destinations to cut how much tax it pays, it did even better by using a different territory.\nIn an annual Apple disclosure in line with U.S. reporting rules, the Financial Times says Apple took advantage of the tax incentives in Singapore to a great effect. It funneled about $50 billion in profits through the Asian hub in 2026 alone.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
+    "pub_date": "2026-11-08T19:59:26.000Z",
+    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
+    "tags": "General",
+    "id": 12235
+  },
+  {
+    "source_name": "9to5Mac",
+    "title": "macOS 27.3 could change how you grant AI agents Full Disk Access, here’s how",
+    "link": "https://9to5mac.com/2026/11/08/macos-changes-for-full-disk-access-ai-agents-imessage/",
+    "content": "Last month, Apple announced it’d be tightening privacy controls in a future macOS update, in response to AI agents requesting Full Disk Access then going rogue with users data without them being fully aware. Now, we have an idea of how the changes might look.\nmore…",
+    "pub_date": "2026-11-08T19:52:41.000Z",
+    "creator": "Michael Burkhardt",
+    "tags": "Mac",
+    "id": 12221
+  },
+  {
     "source_name": "MacRumors",
     "title": "Siri AI Rumored to Become 'More Like an Agent' as Early as Next Year",
     "link": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/",
@@ -18,6 +48,16 @@
     "creator": "Malcolm Owen <malcolm@appleinsider.com>",
     "tags": "iOS",
     "id": 12213
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Today in Apple history: Wild stunt lets strangers take Macs for 24-hour ‘test drive’",
+    "link": "https://www.cultofmac.com/apple-history/test-drive-a-macintosh",
+    "content": "On November 8, 1984, Apple fired up its \"Test Drive a Macintosh\" ad campaign, offering customers the chance to borrow a Mac for 24 hours.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-11-08T15:57:10.000Z",
+    "creator": "Luke Dormehl",
+    "tags": "Mac",
+    "id": 12239
   },
   {
     "source_name": "9to5Mac",
@@ -80,6 +120,16 @@
     "id": 12216
   },
   {
+    "source_name": "Cult of Mac",
+    "title": "Find the beloved Clarus the Dogcow on your iPhone today",
+    "link": "https://www.cultofmac.com/how-to/find-the-beloved-clarus-the-dogcow-on-your-iphone-today",
+    "content": "Apple sneaks a nostalgic Easter egg featuring Clarus the Dogcow into iOS 27, bringing back a beloved piece of classic Macintosh history.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-11-08T15:19:08.000Z",
+    "creator": "Ed Hardy",
+    "tags": "Mac,iOS",
+    "id": 12240
+  },
+  {
     "source_name": "Macworld",
     "title": "I’m a believer in Touch after using Apple’s new PROLED MacBook Pro",
     "link": "https://www.macworld.com/article/3276314/proled-xdr-macbook-pro-touch-lag-interface-gestures-fingerprints.html",
@@ -98,6 +148,16 @@
     "creator": "Christine McKee <christine@appleinsider.com>",
     "tags": "iOS",
     "id": 12192
+  },
+  {
+    "source_name": "Cult of Mac",
+    "title": "Get these JBL Tune 530BT headphones with up to 76 hours of listening for just $47",
+    "link": "https://www.cultofmac.com/deals/jbl-tune-530bt-on-ear-headphones",
+    "content": "Get new, open-box JBL Tune 530BT headphones for $46.99, with up to 76 hours of battery life, Bluetooth multipoint and USB-C quick charging. Charging cable not included.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-11-08T14:30:09.000Z",
+    "creator": "Cult of Mac Deals",
+    "tags": "Mac",
+    "id": 12241
   },
   {
     "source_name": "AppleInsider",
@@ -2938,65 +2998,5 @@
     "creator": "Juli Clover",
     "tags": "iOS,App Store",
     "id": 11714
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "iOS 27.3 brings the iPhone Duo’s revamped StandBy to other iPhones",
-    "link": "https://9to5mac.com/2026/11/03/ios-27-3-brings-the-iphone-duos-revamped-standby-to-other-iphones/",
-    "content": "Apple released iOS 27.3 beta 1 today, with a surprisingly extensive set of new features and improvements across the system. One of them is the expansion of the iPhone Duo’s redesigned StandBy experience to other iPhone models. Here are the details.\nmore…",
-    "pub_date": "2026-11-03T20:14:38.000Z",
-    "creator": "Marcus Mendes",
-    "tags": "iOS",
-    "id": 11732
-  },
-  {
-    "source_name": "9to5Mac",
-    "title": "Apple Watch Challenge set for Veterans Day",
-    "link": "https://9to5mac.com/2026/11/03/apple-watch-challenge-set-for-veterans-day/",
-    "content": "The next Apple Watch fitness challenge is set for Veterans Day on Wednesday, November 11th, 2026. Apple Watch Challenges increase awareness about fitness features and healthy habits while observing holidays and other notable occasions.\nmore…",
-    "pub_date": "2026-11-03T20:12:15.000Z",
-    "creator": "Zac Hall",
-    "tags": "iOS",
-    "id": 11733
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Apple Intelligence arrives in China via iOS 27.3 developer beta",
-    "link": "https://appleinsider.com/articles/26/11/03/apple-intelligence-arrives-in-china-via-ios-273-developer-beta?utm_source=rss",
-    "content": "After two years of waiting, the first iOS 27.3 developer beta has introduced Apple Intelligence to China, bringing some of its AI features to the country.\n\n\nApple Intelligence will finally ship in China - Image Credit: Apple\nThe long wait for Apple Intelligence in China started in 2024 after its introduction in the U.S. Two years later, and after Apple confirmed its impending arrival on Saturday, Apple Intelligence is now making an officially sanctioned appearance in China.\nRolling out as part of the iOS 27.3 developer beta, the first wave won't be the full Apple Intelligence experience. Instead it will mirror a lot of the earlier incarnations of Apple Intelligence.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-11-03T20:07:32.000Z",
-    "creator": "Malcolm Owen <malcolm@appleinsider.com>",
-    "tags": "iOS,App Store",
-    "id": 11754
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Modern AirPods got beta firmware today too",
-    "link": "https://appleinsider.com/articles/26/11/03/modern-airpods-got-beta-firmware-today-too?utm_source=rss",
-    "content": "There's new beta firmware for Airpods, assuming you have AirPods Pro 2 or AirPods 4 and newer, or the AirPods Max 2. The firmware has beta build number 9B5045a, and it's not clear what the update contains.\n\n\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-11-03T20:00:38.000Z",
-    "creator": "Mike Wuerthele <mike@appleinsider.com>",
-    "tags": "General",
-    "id": 11755
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Elgato's new teleprompter app follows your voice & doesn't need special hardware",
-    "link": "https://appleinsider.com/articles/26/11/03/elgatos-new-teleprompter-app-follows-your-voice-doesnt-need-special-hardware?utm_source=rss",
-    "content": "Elgato's Virtual Prompter doesn't need special hardware, and follows your voice as you read, keeping scripts near your webcam during presentations, recordings, and video calls.\n\n\nElgato launches free Virtual Prompter for Mac and Windows\nOn Tuesday, Elgato announced Virtual Prompter, a new feature in Elgato Studio that turns your computer screen into a teleprompter without external hardware requirements. There are two modes that users can utilize: docked or floating.\nDocked places the script in a strip along the top of your screen near your camera, perfect for maintaining eye contact while reading. Docked is free to use and has no time limits.\n\n Continue Reading on AppleInsider | Discuss on our Forums",
-    "pub_date": "2026-11-03T19:59:34.000Z",
-    "creator": "Lou Hartle <news@appleinsider.com>",
-    "tags": "Mac,App Store",
-    "id": 11756
-  },
-  {
-    "source_name": "AppleInsider",
-    "title": "Never lose a good idea again with SpeakON, your AI communicator for iPhone",
-    "link": "https://appleinsider.com/articles/26/11/03/never-lose-a-good-idea-again-with-speakon-your-ai-communicator-for-iphone?utm_source=rss",
-    "content": "The iPhone is already an excellent messaging and note taking tool, but going from idea to capture is a process that needs improvement. That's where SpeakON comes in, an AI hardware voice recorder.\n\n\nSpeakON is an AI communicator for your iPhone. Image source: SpeakON\nYour iPhone packs hundreds of tools into one pocketable product, but that utility comes with some level of friction. By the time you decide which app to open, select your input method, and start capturing an idea, that idea is likely lost.\nSkip all the hassle and use SpeakON, a MagSafe-attached voice recorder with built-in AI that analyzes your voice, organizes your captured notes, and outputs what's needed in the moment. Whether your iPhone is open to a specific app or locked in your pocket, SpeakON is ready to capture your voice with the press of a button.\n\n Continue Reading on AppleInsider",
-    "pub_date": "2026-11-03T19:59:07.000Z",
-    "creator": "Sponsored Content <news@appleinsider.com>",
-    "tags": "iOS,App Store",
-    "id": 11757
   }
 ]
