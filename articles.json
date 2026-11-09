@@ -1,5 +1,25 @@
 [
   {
+    "source_name": "Cult of Mac",
+    "title": "Apple shakes up iOS 28 and macOS 28 development cycle",
+    "link": "https://www.cultofmac.com/news/apple-shakes-up-ios-28-and-macos-28-development-cycle",
+    "content": "Apple is giving engineers two extra weeks to explore ideas and build features in the first development milestone for iOS 28 and macOS 28.\n(via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.)",
+    "pub_date": "2026-11-09T05:03:59.000Z",
+    "creator": "Rajesh Pandey",
+    "tags": "Mac,iOS",
+    "id": 12261
+  },
+  {
+    "source_name": "MacRumors",
+    "title": "Apple Store Subscription Sign-Up Controversy Exposed",
+    "link": "https://www.macrumors.com/2026/11/08/apple-store-subscription-controversy/",
+    "content": "In a series of YouTube videos shared over the past two weeks, electronics technician and consumer rights advocate Louis Rossmann has exposed a controversy in which some Apple Store employees have allegedly signed up customers for auto-renewing subscription trials for Apple One and other services without their informed consent.\r\n\r\n\r\nHere is how the process works at Apple Stores in the United States:\nA customer visits an Apple Store.\n\r\nAn employee at the store asks if the customer would like to scan a QR code for a personalized shopping experience (\"Connect and Personalize\").\n\r\nIf the customer agrees, the employee can view some of the customer's information on their company-issued device, including which Apple devices they own, which Apple services they are subscribed to, and which Apple subscription offers are available to them based on their recent purchases.\n\r\nThe employee can proceed to show the customer their available subscription offers, presented with \"Agree\" and \"Decline\" buttons on the employee's device. The default payment method associated with the customer's Apple Account is automatically available for subscription sign-ups, so long as it has not expired.\nThe problem is that some employees allegedly activated these trials without adequately explaining to the customers that they would be automatically charged at a later date, according to tipsters who contacted Rossmann. For example, some employees would allegedly rush through the process or were even told to position the trials as \"gifts.\"\r\n\r\nUntil early last week, Apple was tracking a metric known as the \"services attach rate,\" with a target of 40% for each retail employee at at least some U.S. stores. In other words, employees were encouraged to get at least four out of every 10 customers they assisted with a device purchase to also sign up for at least one subscription.\r\n\r\nIn some cases, employees allegedly even tapped the \"Agree\" button themselves without receiving the customer's informed consent, seemingly in an attempt to ensure that their \"services attach rate\" was as high as possible.\r\n\r\nApple does email customers when a new trial has been activated on their accounts, but unsuspecting customers might not pay attention or realize that the email pertains to a subscription that will automatically renew later.\r\n\r\nMetric Removed, Reminder Issued\n\r\nMacRumors has confirmed that Apple removed the services metric for employees early last week, just days after Rossmann's videos were published. However, the official explanation we were given for the metric's removal is that it is less relevant during the holiday season, when customers are often purchasing Apple products as gifts for others.\r\n\r\nLater in the week, Apple issued an internal memo to retail employees reminding them of the importance of respecting customer privacy and obtaining consent, including when offering subscription trials and using the \"Connect and Personalize\" system, but also for things such as Apple Upgrade sign-ups and Genius Bar work authorizations.\r\n\r\nkicked off on Friday. During the holidays, Apple hires additional employees to help assist with an influx of customers, so the reminder was timely for new staff.\r\n\r\nWhether these actions were timed solely around the holiday shopping season or were also influenced by Rossmann's videos, we cannot say for sure. In any case, the actions conveniently address some of the concerns highlighted by Rossmann.\r\n\r\nHow to Check Your Subscriptions\n\r\nOn an iPhone, open the Settings app and tap on your name at the top of the screen. Next, tap on \"Subscriptions\" and you will see a list of any subscriptions that are active on your Apple Account, including trials. You can tap on any individual subscription and tap on the \"Cancel Subscription\" or \"Cancel All Services\" button to cancel.\r\n\r\nreportaproblem.apple.com, select the \"Request a refund\" option, and follow the steps.\r\n\r\nTag: Apple Store\nThis article, \"Apple Store Subscription Sign-Up Controversy Exposed\" first appeared on MacRumors.com\nDiscuss this article in our forums",
+    "pub_date": "2026-11-09T03:28:09.000Z",
+    "creator": "Joe Rossignol",
+    "tags": "iOS,App Store,Services",
+    "id": 12242
+  },
+  {
     "source_name": "AppleInsider",
     "title": "Sunday Reboot: Curses and a spotty reminder of times past",
     "link": "https://appleinsider.com/articles/26/11/08/sunday-reboot-curses-and-a-spotty-reminder-of-times-past?utm_source=rss",
@@ -2978,25 +2998,5 @@
     "creator": "Marcus Mendes",
     "tags": "App Store",
     "id": 11788
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "iOS 27.3 Adding New StandBy Mode Features to iPhone 11 and Newer",
-    "link": "https://www.macrumors.com/2026/11/03/ios-27-3-new-standby-features-on-more-iphones/",
-    "content": "iOS 27.3 will expand new StandBy features first introduced on the iPhone Duo to all iPhone models compatible with the update, according to Apple.\r\n\r\n\r\nStandBy mode makes it easier to view information at a glance while your iPhone is placed on a charger and in a landscape position. It effectively turns an iPhone into a bedside clock with some extra details. On the iPhone Duo, StandBy also works when the device is folded like a book or a tent, even when it is not charging.\r\n\r\nUpdated versions of the Analog and Digital Clock faces with more options to customize the color and complications on them\n\r\nAn updated Photos face that lets users pick Shared Albums\n\r\nNew faces, including Calendar and Weather\n\r\nThe ability to create multiple versions of each type of face and swipe between them\niOS 27.3 also introduces vertical tabs in Safari, reintroduces Apple's redesigned Health app, enables some Apple Intelligence features in China, and more.\r\n\r\n\r\n\r\nfirst iOS 27.3 developer beta was released earlier today, and Apple said the update will be released to the public in December.\nRelated Roundups: iOS 27, iPadOS 27\nTag: StandBy Mode\nRelated Forum: iOS 27\nThis article, \"iOS 27.3 Adding New StandBy Mode Features to iPhone 11 and Newer\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-11-03T20:32:45.000Z",
-    "creator": "Joe Rossignol",
-    "tags": "iOS,App Store",
-    "id": 11713
-  },
-  {
-    "source_name": "MacRumors",
-    "title": "Veterans Day Apple Watch Activity Challenge Launches November 11",
-    "link": "https://www.macrumors.com/2026/11/03/apple-watch-veterans-day-challenge-2026/",
-    "content": "Apple is planning an Apple Watch Activity Challenge for Veterans Day, which takes place next Wednesday in the United States. Apple Watch owners are tasked with doing any workout for 11 minutes or more on November 11.\r\n\r\n\r\nApple Watch owners who complete the challenge will win an Apple Watch activity award in the Fitness app.\r\nEarn this award on November 11 by doing any workout for 11 minutes or more. Record your time with the Workout app or any app that adds workouts to Health.\n\r\nLike all of Apple's Activity Challenges, the Veterans Day challenge will reward users with animated stickers that can be used in the Messages app.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nApple does a Veterans Day Activity Challenge each year, and also often offers Veterans Day-themed content in the App Store, Apple TV app, Books app, and more.\nRelated Roundup: Apple Watch 12\nTag: Activity Challenge\nBuyer's Guide: Apple Watch (Buy Now)\nRelated Forum: Apple Watch\nThis article, \"Veterans Day Apple Watch Activity Challenge Launches November 11\" first appeared on MacRumors.com\nDiscuss this article in our forums",
-    "pub_date": "2026-11-03T20:18:29.000Z",
-    "creator": "Juli Clover",
-    "tags": "iOS,App Store",
-    "id": 11714
   }
 ]
